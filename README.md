@@ -260,6 +260,22 @@ Las principales variables a recuperar serán:
 - CAPEX
 - Flujo de efectivo operativo
 
+
+
+### Servicio Web de Información Financiera de la SMV
+
+La automatización de la ingesta de datos financieros se realizará mediante el Web Service oficial de Información Financiera de la Superintendencia del Mercado de Valores (SMV), disponible en https://mvnet.smv.gob.pe/ws_od_eeff/WebServiceInfoFinanciera.asmx. Este servicio permite consultar programáticamente diferentes estados financieros mediante las operaciones `obtener_BalanceGeneral`, `obtener_CambiosPatrimonio`, `obtener_EFData`, `obtener_FlujoEfectivo`, `obtener_GanciaPerdida`, `obtener_InfoFinanciera` y `obtener_ResultadosIntegrales`.
+
+Para esta investigación se priorizarán las operaciones `obtener_InfoFinanciera`, para identificar empresas y periodos disponibles; `obtener_BalanceGeneral`, para recuperar información de activos, pasivos, patrimonio y capital de trabajo; `obtener_GanciaPerdida`, para obtener ventas, utilidad operativa, EBIT e impuesto; y `obtener_FlujoEfectivo`, para recuperar información relacionada con flujos operativos, actividades de inversión y componentes vinculados con el CAPEX.
+
+El proceso de ingesta realizará consultas automáticas por ejercicio, periodo y tipo de información financiera mediante scripts desarrollados en Python. Estos scripts enviarán solicitudes al Web Service de la SMV, recibirán respuestas en formato XML/SOAP, extraerán los registros y los convertirán a una estructura tabular adecuada para su procesamiento.
+
+Los datos obtenidos serán organizados en tres niveles. La capa BRONZE almacenará la información original sin modificaciones; la capa SILVER contendrá los datos limpiados, homologados, normalizados y validados; y la capa GOLD contendrá el dataset final preparado para el cálculo del Flujo de Caja Libre y el desarrollo de los modelos de inteligencia artificial.
+
+El flujo general será: SMV Web Service → consulta de información financiera → obtención del Balance General, Estado de Ganancias y Pérdidas y Estado de Flujo de Efectivo → recepción de respuestas XML/SOAP → transformación de registros → almacenamiento BRONZE → limpieza y homologación SILVER → construcción del dataset GOLD → cálculo del Flujo de Caja Libre → modelado mediante inteligencia artificial.
+
+Para garantizar la trazabilidad y reproducibilidad del proceso, cada consulta almacenará metadatos como fecha de ingesta, fuente, operación utilizada, ejercicio, periodo, tipo de información, empresa, estado de la consulta, número de registros y archivo de origen.
+
 ### Arquitectura de ingesta
 
 La información será organizada utilizando una arquitectura de tres niveles:
