@@ -230,6 +230,50 @@ Estos escenarios podrán utilizarse como apoyo para la toma de decisiones financ
 
 ---
 
+## Metodología de ingesta de datos
+
+La investigación empleará un proceso de ingesta estructurado, reproducible y trazable para integrar información financiera proveniente principalmente de la Superintendencia del Mercado de Valores (SMV), complementada posteriormente con información bursátil de la Bolsa de Valores de Lima (BVL) y variables macroeconómicas oficiales.
+
+### Fuente principal: Superintendencia del Mercado de Valores
+
+La SMV será utilizada como fuente principal para la obtención de información financiera histórica de las empresas consideradas en la investigación.
+
+La ingesta comprenderá principalmente información proveniente de:
+
+- Estado de Situación Financiera
+- Estado de Resultados
+- Estado de Flujos de Efectivo
+- Información financiera complementaria
+
+Las principales variables a recuperar serán:
+
+- Ventas
+- EBIT o utilidad operativa
+- Impuesto a la renta
+- Depreciación y amortización
+- Activo corriente
+- Pasivo corriente
+- Efectivo
+- Cuentas por cobrar
+- Inventarios
+- Propiedad, planta y equipo
+- CAPEX
+- Flujo de efectivo operativo
+
+### Arquitectura de ingesta
+
+La información será organizada utilizando una arquitectura de tres niveles:
+
+```text
+BRONZE
+Datos originales obtenidos desde la fuente sin modificaciones.
+
+SILVER
+Datos limpiados, homologados, transformados y validados.
+
+GOLD
+Dataset final preparado para análisis estadístico y modelos de inteligencia artificial.
+
 # Pipeline de la investigación
 
 Datos financieros históricos
