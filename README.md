@@ -559,3 +559,39 @@ Maestría en Inteligencia Artificial
 Universidad Nacional de Ingeniería – UNI  
 Lima, Perú  
 2026
+
+## Semana 5 — Feature Engineering implementado
+
+El notebook [`notebooks/02_feature_engineering.ipynb`](notebooks/02_feature_engineering.ipynb) prepara la predicción de **FCL_preliminar(t+1)** con información de t y anteriores. Este objetivo cumple `FCO + CAPEX_reportado` con el signo original; **no constituye un FCFF económicamente validado**.
+
+El panel observado contiene 4.221 registros anuales de 336 empresas entre 2005 y 2025. Se generan **22 predictores**: ocho ratios financieros, cuatro variaciones y diez características temporales (rezagos 1–3, medias y desviaciones móviles). Las ventanas se interrumpen ante huecos o cambios de moneda. No se convierten monedas, completan años ni imputan objetivos.
+
+Se conservan 4.221 filas en `data/processed/features_financieras.csv`, con 57 columnas que distinguen fuentes, predictores y controles. Hay **3.560 pares elegibles de 309 empresas** con objetivo anual siguiente observado y moneda consistente: 2.869 de entrenamiento (año objetivo hasta 2021) y 691 de prueba (2022–2025). De esos pares, 2.251 tienen los 22 predictores observados. La exportación conserva faltantes; la imputación mediana y RobustScaler en un Pipeline ilustrativo se ajustan solo con entrenamiento, por moneda, en memoria. No se entrenan modelos.
+
+Para reproducir, con el entorno Conda `tesis-fcl` ya disponible:
+
+```bash
+conda activate tesis-fcl
+python -m unittest discover -s tests -v
+python scripts/execute_feature_engineering.py
+```
+
+Se requiere Python 3.12.x; ejecución verificada con 3.12.15. Las versiones verificadas están en [`requirements-feature-engineering.txt`](requirements-feature-engineering.txt); este flujo no instala paquetes. Jupyter necesita comunicación local con el kernel. También puede ejecutarse el notebook completo desde Jupyter seleccionando `tesis-fcl`.
+
+- Cálculo reproducible: [`src/feature_engineering.py`](src/feature_engineering.py).
+- Pruebas automatizadas: [`tests/test_feature_engineering.py`](tests/test_feature_engineering.py).
+- Diccionario completo: [`reports/diccionario_features.md`](reports/diccionario_features.md).
+- Resultados y límites: [`reports/resumen_feature_engineering.md`](reports/resumen_feature_engineering.md).
+- Evidencia de ejecución y hashes de archivos protegidos: `reports/validacion_ejecucion.json`.
+
+La selección de predictores es explícita en `PREDICTORS`; las columnas objetivo, moneda futura, elegibilidad, partición y demás controles **no forman X**. Las correlaciones se exploran solo en entrenamiento. El notebook conserva el EDA anterior y los datos originales.
+
+Persisten limitaciones: escala monetaria no acreditada para el panel, etiqueta `D lares` deteriorada, códigos FCO/CAPEX pendientes de validación, ausencia de fechas de publicación y versiones históricas, sectores financieros heterogéneos e historiales de hasta 21 años. El corte por ejercicio es retrospectivo: antes de entrenar se debe auditar la publicación efectiva de las etiquetas en la frontera temporal. El Excel complementario no se integró sin homologación. Los resultados no acreditan capacidad predictiva.
+
+### Correcciones de la auditoría independiente (Antigravity)
+
+Se atendieron HAL-01–HAL-12, con detalle en [`reports/correcciones_antigravity.md`](reports/correcciones_antigravity.md). Se mantienen 22 características exportadas y se define `PREDICTORS_NO_COLINEALES` de 19 variables: excluye `fcl_activo` y las dos medias móviles, redundantes con otros predictores. El rango y VIF se verifican únicamente con entrenamiento; persiste correlación alta entre algunas características y deben evaluarse regularización y explicaciones agrupadas en la siguiente etapa.
+
+CAPEX positivo invalida internamente todas las derivaciones de FCL y su etiqueta futura, preservando las columnas fuente. Rotación y crecimiento de ingresos exigen ingreso actual positivo. La preparación usa `SimpleImputer` y `RobustScaler` dentro de un Pipeline ajustado por moneda; hay que clonarlo y reajustarlo en cada pliegue temporal, sin reutilizar matrices transformadas globalmente.
+
+El notebook cuantifica el sesgo de los casos completos con tablas por año y moneda y Mann-Whitney exploratorio. **No usar `dropna()` sobre predictores para modelado.** También incluye estratificación por revisión interanual y una sensibilidad de escala en memoria: rezagos/ventanas y objetivo divididos por activos positivos de t, con moneda consistente para el objetivo. No se amplía la lista de 22 ni se cambia el objetivo principal. La evaluación predictiva de estas sensibilidades queda para Semana 6; no se entrenan modelos aquí.

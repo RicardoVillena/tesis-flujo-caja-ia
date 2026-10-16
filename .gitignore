@@ -1,0 +1,8 @@
+# Cachés de Python y ejecución local de Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.cache/feature-engineering/
+
+# Derivado financiero conservado localmente; no publicar
+/data/processed/features_financieras.csv
