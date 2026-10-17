@@ -81,35 +81,66 @@ y versiones históricas, el código de selección y combinación, reglas contabl
 y pruebas contra el panel por clave y valor. Una consulta actual puede devolver
 revisiones; no garantiza recuperar los mismos bytes o valores históricos.
 
-## Derechos y alcance de publicación
+## Derechos y alcance de publicación (revisión ampliada)
 
-La fuente es la Superintendencia del Mercado de Valores del Perú (SMV).
-El [portal oficial](https://mvnet.smv.gob.pe/SMV.OpenData.Web/Views/Inicio/Inicio.aspx)
-presenta información financiera como datos abiertos. La ficha de
-[Estado de Resultados](https://mvnet.smv.gob.pe/SMV.OpenData.Web/Views/Datasets/EstResult.aspx)
-y la de [Empresas Inscritas](https://www.smv.gob.pe/SMV.OpenData.Web/Views/Datasets/Empresas_Inscritas.aspx)
-indican Open Data Commons Open Database License (ODbL). Consulta: 2026-10-16.
-Esa evidencia no verifica por sí sola la licencia aplicable a cada respuesta local
-de `obtener_InfoFinanciera` ni a las fuentes ausentes de FCO/CAPEX. No se asigna
-una licencia nueva a esos archivos ni se presume que acceso público equivale a
-redistribución sin condiciones. Se mantiene la exclusión conservadora solicitada.
+La revisión ampliada del 16 de octubre de 2026 encontró las fichas específicas de
+[obtener_InfoFinanciera](https://mvnet.smv.gob.pe/SMV.OpenData.Web/Views/Datasets/CtasPrinc.aspx)
+y [obtener_FlujoEfectivo](https://mvnet.smv.gob.pe/SMV.OpenData.Web/Views/Datasets/FluEfe.aspx).
+Ambas declaran ODbL. La primera corresponde a la operación, parámetros y esquema
+de los 22 XML locales: se incluyen sin modificar. El inventario conserva la copia
+idéntica de 2025 y no la cuenta dos veces al extraer.
 
-Se publican código, notebook, pruebas, diccionario, documentación y metadatos de
-trazabilidad. El panel de entrada ya estaba en la historia pública y se conserva
-sin cambios: **su presencia previa no verifica sus derechos ni su linaje completo**.
-No se añade otro dataset financiero: `features_financieras.csv` sigue local,
-pendiente de verificar las fuentes heredadas. Los originales XML y su extracción
-opcional quedan ignorados; el Excel complementario, de procedencia y permisos no
-acreditados, deja de figurar en el árbol de esta entrega y se conserva local.
+Se incluye `features_financieras.csv` como adaptación calculada desde el panel
+SMV declarado, con las 4.221 filas y 57 columnas, incluidas 22 características,
+fuentes y controles. Se respetan atribución, aviso de licencia y compartir bajo
+ODbL: ver [data/README.md](../data/README.md). La fuente de FCO/CAPEX es declarada,
+no se ha acreditado su cadena de extracción histórica. No se confunde permiso
+sobre el dataset oficial con validación contable de los valores del panel.
+El panel se conserva sin cambios. La anterior exclusión conservadora del CSV y
+XML se sustituye con esta evidencia específica, sin añadir el Excel.
 
-El informe interno de Antigravity queda local y fuera del árbol e historia nueva
-de `feature-engineering`. Existía en la rama de presentación ya registrada en
-`origin`; esta publicación no elimina exposiciones previas ni reescribe ramas.
-No se hace merge ni push forzado. Los hashes de ejecución documentan una ejecución
-concreta anterior; la validación actual se distingue de esa evidencia.
+El Excel (86.183 bytes) contiene dos hojas de análisis financieros complementarios:
+`ESF - Evaluacion Vertical y hor` y `Evaluacion vertical y horizonta`, con dimensiones
+999×32 y 1.000×28 (incluyen celdas de formato). Se identifican ejercicios 2016–2025
+en el título de la primera hoja; no se acredita cobertura integral de ambas hojas.
+No es una respuesta original del servicio, no se utiliza en el notebook y no tiene
+una fuente/licencia documentada: queda local. No se publica su contenido ni sus
+metadatos personales de autoría. El directorio `data/raw` no contiene otras fuentes
+además de ese Excel y los XML inventariados.
 
-## Validación de esta entrega
+El informe interno de Antigravity permanece local y fuera del árbol e historia
+nueva de `feature-engineering`. Existía en la rama de presentación registrada en
+`origin`; esta entrega no elimina exposiciones previas ni reescribe ramas.
+No se hace merge ni push forzado.
 
-13 pruebas unitarias aprobadas; notebook ejecutado con 11 celdas de código sin
-errores y 26 archivos protegidos intactos. Evidencia de esta ejecución en
-`validacion_ejecucion.json`. No se verificó una descarga nueva de extremo a extremo.
+## Reproducción completa de Feature Engineering desde el panel
+
+El Excel no es necesario: el ejecutor omite archivos protegidos opcionales ausentes.
+Desde un clon de la rama `feature-engineering`:
+
+```bash
+conda env create -f environment-feature-engineering.yml
+conda activate tesis-fcl
+python -m ipykernel install --user --name tesis-fcl --display-name tesis-fcl
+python -m unittest discover -s tests -v
+python scripts/reproduce_features.py --check
+python scripts/execute_feature_engineering.py
+python scripts/reproduce_features.py --check
+```
+
+Para regenerar solo el dataset sin kernel: `python scripts/reproduce_features.py`.
+Con `--check` se exige igualdad byte a byte frente al CSV entregado, además de
+igualdad de las 57 columnas y la máscara completa de NaN. Se verifica también que
+las fuentes y las 4.221 filas permanezcan intactas. Los informes
+`validacion_calculos.json` y `trazabilidad_variables.md` registran fuentes,
+expresiones Python, fórmula, dominio, continuidad y observados/NaN por variable.
+La prueba de referencia manual cubre individualmente las 22 características;
+las pruebas temporales y de calidad añaden casos adversos.
+
+El notebook vuelve a exportar el CSV y los informes académicos, y el ejecutor
+registra sus celdas y hashes en `validacion_ejecucion.json`. Las versiones exactas
+verificadas están en `requirements-feature-engineering.txt`. La instalación del
+entorno queda documentada; no se simula una instalación nueva ni una descarga masiva
+oficial durante esta revisión. Esto reproduce íntegramente Feature Engineering
+**desde el panel entregado**, pero no cierra los tramos históricos faltantes para
+reconstruir ese panel desde el servicio oficial.

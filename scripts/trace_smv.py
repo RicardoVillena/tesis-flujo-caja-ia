@@ -34,7 +34,7 @@ def trace(raw_dir, panel_path):
         panel = list(csv.DictReader(f))
     index = {(r['RPJ'], r['Ejercicio']): r for r in panel}
     inventory, extracted, seen = [], [], {}
-    for path in sorted(raw_dir.glob('*')):
+    for path in sorted(raw_dir.glob('*.xml')):
         if not path.is_file():
             continue
         rows = extract(path)

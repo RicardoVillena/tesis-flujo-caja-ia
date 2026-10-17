@@ -9,7 +9,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 if Path(sys.prefix).name != 'tesis-fcl' or sys.version_info[:2] != (3, 12):
     raise RuntimeError('Se requiere tesis-fcl, Python 3.12.x')
-if subprocess.check_output(['git', 'branch', '--show-current'], cwd=ROOT, text=True).strip() not in {'feature-engineering', 'feature-engineering-semana5-presentacion'}:
+if subprocess.check_output(['git', 'branch', '--show-current'], cwd=ROOT, text=True).strip() != 'feature-engineering':
     raise RuntimeError('Se requiere la rama feature-engineering')
 # Cache y runtime dentro del repositorio, ignorados por Git.
 cache = ROOT / '.cache' / 'feature-engineering'
@@ -24,6 +24,8 @@ from nbclient import NotebookClient
 protected = [ROOT / p for p in [
     'notebooks/EDA_FCL_2005_2025.ipynb', 'data/processed/panel_fcl_preliminar.csv',
     'data/raw/base_de_datos.xlsx', 'src/ingestion/ingest_smv.py']]
+# Las fuentes no publicadas (Excel) son opcionales: un clon público debe ejecutar.
+protected = [p for p in protected if p.exists()]
 protected.extend(p for p in (ROOT / 'data/raw/smv').rglob('*') if p.is_file())
 def hashes():
     return {str(p.relative_to(ROOT)): hashlib.sha256(p.read_bytes()).hexdigest() for p in protected}

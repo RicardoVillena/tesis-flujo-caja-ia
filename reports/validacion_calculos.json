@@ -1,0 +1,468 @@
+{
+  "filas": 4221,
+  "columnas": 57,
+  "predictores": 22,
+  "panel_sha256": "5e27fa02d209b571c4e4e5da26137d6f12a3d7b8c2c1125f6de2d982a6ac8008",
+  "features_sha256": "0a9cafca02a4272210863c01fdd79f7e1a50573099e5779d09955e19adea5702",
+  "csv_regenerado_identico": true,
+  "fuentes_preservadas": true,
+  "mascara_nan_preservada": true,
+  "identidad_fcl_filas_verificadas": 3898,
+  "variables": [
+    {
+      "nombre": "pasivo_activo",
+      "definicion": "Proporción de activos financiados con pasivos; no equivale a deuda financiera",
+      "formula": "1 × PasivoTotal(t) / ActivoTotal(t), denominador > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "PasivoTotal",
+        "ActivoTotal"
+      ],
+      "python": "divide(d.PasivoTotal * (1), d.ActivoTotal)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN.",
+      "continuidad_y_moneda": "En t y moneda de la fila; no combina ejercicios ni monedas.",
+      "observados": 4221,
+      "faltantes_n": 0,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "margen_neto",
+      "definicion": "Resultado neto por unidad de ingreso total; no equivale a margen operativo",
+      "formula": "1 × UtilidadNeta(t) / TotalIngreso(t), denominador > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "UtilidadNeta",
+        "TotalIngreso"
+      ],
+      "python": "divide(d.UtilidadNeta * (1), d.TotalIngreso)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN.",
+      "continuidad_y_moneda": "En t y moneda de la fila; no combina ejercicios ni monedas.",
+      "observados": 3950,
+      "faltantes_n": 271,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "rentabilidad_activo_cierre",
+      "definicion": "Rentabilidad contable respecto al activo al cierre, no activo promedio",
+      "formula": "1 × UtilidadNeta(t) / ActivoTotal(t), denominador > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "UtilidadNeta",
+        "ActivoTotal"
+      ],
+      "python": "divide(d.UtilidadNeta * (1), d.ActivoTotal)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN.",
+      "continuidad_y_moneda": "En t y moneda de la fila; no combina ejercicios ni monedas.",
+      "observados": 4221,
+      "faltantes_n": 0,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "rotacion_activo_cierre",
+      "definicion": "Ingreso total generado por unidad de activo al cierre",
+      "formula": "1 × TotalIngreso(t) / ActivoTotal(t), denominador > 0; ingreso actual > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "TotalIngreso",
+        "ActivoTotal"
+      ],
+      "python": "divide(d.TotalIngreso.where(d.TotalIngreso > 0), d.ActivoTotal)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN. Ingreso actual <= 0 se invalida.",
+      "continuidad_y_moneda": "En t y moneda de la fila; no combina ejercicios ni monedas.",
+      "observados": 3950,
+      "faltantes_n": 271,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "fco_activo",
+      "definicion": "Generación operativa de efectivo relativa al tamaño",
+      "formula": "1 × FCO(t) / ActivoTotal(t), denominador > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "FCO",
+        "ActivoTotal"
+      ],
+      "python": "divide(d.FCO * (1), d.ActivoTotal)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN.",
+      "continuidad_y_moneda": "En t y moneda de la fila; no combina ejercicios ni monedas.",
+      "observados": 4131,
+      "faltantes_n": 90,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "fco_ingresos",
+      "definicion": "Conversión de ingresos en flujo operativo",
+      "formula": "1 × FCO(t) / TotalIngreso(t), denominador > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "FCO",
+        "TotalIngreso"
+      ],
+      "python": "divide(d.FCO * (1), d.TotalIngreso)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN.",
+      "continuidad_y_moneda": "En t y moneda de la fila; no combina ejercicios ni monedas.",
+      "observados": 3865,
+      "faltantes_n": 356,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "inversion_capex_activo",
+      "definicion": "Esfuerzo inversor reportado relativo al activo; excluye CAPEX positivo",
+      "formula": "-1 × CAPEX_reportado(t) / ActivoTotal(t), denominador > 0; solo CAPEX_reportado <= 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "CAPEX_reportado",
+        "ActivoTotal"
+      ],
+      "python": "divide((-d.CAPEX_reportado).where(d.CAPEX_reportado <= 0), d.ActivoTotal)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN. CAPEX positivo se invalida.",
+      "continuidad_y_moneda": "En t y moneda de la fila; no combina ejercicios ni monedas.",
+      "observados": 3952,
+      "faltantes_n": 269,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "fcl_activo",
+      "definicion": "Flujo libre preliminar relativo al tamaño; no FCFF validado; redundante exacta: excluir del subconjunto lineal de 19",
+      "formula": "1 × FCL_preliminar(t) / ActivoTotal(t), denominador > 0; FCL fuente invalidado si CAPEX de su año > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "FCL_preliminar",
+        "ActivoTotal",
+        "CAPEX_reportado"
+      ],
+      "python": "divide(d.FCL_preliminar * (1), d.ActivoTotal)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva. Todas las derivaciones usan FCL validado: NaN cuando CAPEX de su año > 0; no altera FCL fuente.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN.",
+      "continuidad_y_moneda": "En t y moneda de la fila; no combina ejercicios ni monedas.",
+      "observados": 3898,
+      "faltantes_n": 323,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "crecimiento_ActivoTotal",
+      "definicion": "Expansión anual con continuidad y moneda constante",
+      "formula": "(ActivoTotal(t) - ActivoTotal(t-1)) / ActivoTotal(t-1), base > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "ActivoTotal",
+        "RPJ",
+        "Ejercicio",
+        "Moneda"
+      ],
+      "python": "prev = groups['ActivoTotal'].shift(1); divide(d.ActivoTotal - prev, prev)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN.",
+      "continuidad_y_moneda": "Requiere t-1 exacto en el mismo segmento anual de empresa y moneda.",
+      "observados": 3822,
+      "faltantes_n": 399,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "crecimiento_TotalIngreso",
+      "definicion": "Expansión anual con continuidad y moneda constante",
+      "formula": "(TotalIngreso(t) - TotalIngreso(t-1)) / TotalIngreso(t-1), base > 0; ingreso actual > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "TotalIngreso",
+        "RPJ",
+        "Ejercicio",
+        "Moneda"
+      ],
+      "python": "prev = groups['TotalIngreso'].shift(1); divide(d.TotalIngreso.where(d.TotalIngreso > 0) - prev, prev)",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN. Ingreso actual <= 0 se invalida.",
+      "continuidad_y_moneda": "Requiere t-1 exacto en el mismo segmento anual de empresa y moneda.",
+      "observados": 3568,
+      "faltantes_n": 653,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "cambio_FCO_activo_previo",
+      "definicion": "Cambio de efectivo relativo al tamaño anterior; admite flujos negativos",
+      "formula": "(FCO(t)-FCO(t-1))/ActivoTotal(t-1)",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "FCO",
+        "ActivoTotal",
+        "RPJ",
+        "Ejercicio",
+        "Moneda"
+      ],
+      "python": "divide(d['FCO'] - groups['FCO'].shift(1), groups.ActivoTotal.shift(1))",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN.",
+      "continuidad_y_moneda": "Requiere t-1 exacto en el mismo segmento anual de empresa y moneda.",
+      "observados": 3701,
+      "faltantes_n": 520,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCO_lag1",
+      "definicion": "Persistencia histórica por empresa y segmento",
+      "formula": "FCO(t-1)",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCO",
+        "RPJ",
+        "Ejercicio",
+        "Moneda"
+      ],
+      "python": "groups['FCO'].shift(1)",
+      "faltantes": "NaN si falta el valor desplazado o la historia suficiente; sin imputación.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos.",
+      "continuidad_y_moneda": "Requiere 1 filas anuales anteriores del mismo segmento, sin huecos ni cambios de moneda.",
+      "observados": 3734,
+      "faltantes_n": 487,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCO_lag2",
+      "definicion": "Persistencia histórica por empresa y segmento",
+      "formula": "FCO(t-2)",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCO",
+        "RPJ",
+        "Ejercicio",
+        "Moneda"
+      ],
+      "python": "groups['FCO'].shift(2)",
+      "faltantes": "NaN si falta el valor desplazado o la historia suficiente; sin imputación.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos.",
+      "continuidad_y_moneda": "Requiere 2 filas anuales anteriores del mismo segmento, sin huecos ni cambios de moneda.",
+      "observados": 3392,
+      "faltantes_n": 829,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCO_lag3",
+      "definicion": "Persistencia histórica por empresa y segmento",
+      "formula": "FCO(t-3)",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCO",
+        "RPJ",
+        "Ejercicio",
+        "Moneda"
+      ],
+      "python": "groups['FCO'].shift(3)",
+      "faltantes": "NaN si falta el valor desplazado o la historia suficiente; sin imputación.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos.",
+      "continuidad_y_moneda": "Requiere 3 filas anuales anteriores del mismo segmento, sin huecos ni cambios de moneda.",
+      "observados": 3073,
+      "faltantes_n": 1148,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCO_mean3_previa",
+      "definicion": "Nivel o volatilidad de tres años estrictamente anteriores; redundante exacta: excluir del subconjunto lineal de 19",
+      "formula": "mean de FCO(t-3), FCO(t-2), FCO(t-1)",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCO",
+        "RPJ",
+        "Ejercicio",
+        "Moneda"
+      ],
+      "python": "groups['FCO'].transform(lambda s: s.shift(1).rolling(3, min_periods=3).mean())",
+      "faltantes": "Los tres valores previos deben estar observados; cualquier NaN invalida la ventana.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos.",
+      "continuidad_y_moneda": "Requiere t-3, t-2 y t-1 contiguos en la misma empresa y moneda; excluye t.",
+      "observados": 3013,
+      "faltantes_n": 1208,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCO_std3_previa",
+      "definicion": "Nivel o volatilidad de tres años estrictamente anteriores",
+      "formula": "std de FCO(t-3), FCO(t-2), FCO(t-1); ddof=1",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCO",
+        "RPJ",
+        "Ejercicio",
+        "Moneda"
+      ],
+      "python": "groups['FCO'].transform(lambda s: s.shift(1).rolling(3, min_periods=3).std())",
+      "faltantes": "Los tres valores previos deben estar observados; cualquier NaN invalida la ventana.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos. Desviación muestral ddof=1 (divide por 3-1).",
+      "continuidad_y_moneda": "Requiere t-3, t-2 y t-1 contiguos en la misma empresa y moneda; excluye t.",
+      "observados": 3013,
+      "faltantes_n": 1208,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "cambio_FCL_preliminar_activo_previo",
+      "definicion": "Cambio de efectivo relativo al tamaño anterior; admite flujos negativos",
+      "formula": "(FCL_preliminar(t)-FCL_preliminar(t-1))/ActivoTotal(t-1); FCL fuente invalidado si CAPEX de su año > 0",
+      "unidad": "adimensional",
+      "columnas_originales": [
+        "FCL_preliminar",
+        "ActivoTotal",
+        "RPJ",
+        "Ejercicio",
+        "Moneda",
+        "CAPEX_reportado"
+      ],
+      "python": "divide(d['FCL_preliminar'] - groups['FCL_preliminar'].shift(1), groups.ActivoTotal.shift(1))",
+      "faltantes": "Propaga NaN; no imputa. Numerador cero se conserva. Todas las derivaciones usan FCL validado: NaN cuando CAPEX de su año > 0; no altera FCL fuente.",
+      "ceros_y_dominio": "Denominador > 0; cero, negativo o faltante produce NaN; infinito se convierte en NaN.",
+      "continuidad_y_moneda": "Requiere t-1 exacto en el mismo segmento anual de empresa y moneda.",
+      "observados": 3456,
+      "faltantes_n": 765,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCL_preliminar_lag1",
+      "definicion": "Persistencia histórica por empresa y segmento",
+      "formula": "FCL_preliminar(t-1); FCL fuente invalidado si CAPEX de su año > 0",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCL_preliminar",
+        "RPJ",
+        "Ejercicio",
+        "Moneda",
+        "CAPEX_reportado"
+      ],
+      "python": "groups['FCL_preliminar'].shift(1)",
+      "faltantes": "NaN si falta el valor desplazado o la historia suficiente; sin imputación. Todas las derivaciones usan FCL validado: NaN cuando CAPEX de su año > 0; no altera FCL fuente.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos.",
+      "continuidad_y_moneda": "Requiere 1 filas anuales anteriores del mismo segmento, sin huecos ni cambios de moneda.",
+      "observados": 3506,
+      "faltantes_n": 715,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCL_preliminar_lag2",
+      "definicion": "Persistencia histórica por empresa y segmento",
+      "formula": "FCL_preliminar(t-2); FCL fuente invalidado si CAPEX de su año > 0",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCL_preliminar",
+        "RPJ",
+        "Ejercicio",
+        "Moneda",
+        "CAPEX_reportado"
+      ],
+      "python": "groups['FCL_preliminar'].shift(2)",
+      "faltantes": "NaN si falta el valor desplazado o la historia suficiente; sin imputación. Todas las derivaciones usan FCL validado: NaN cuando CAPEX de su año > 0; no altera FCL fuente.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos.",
+      "continuidad_y_moneda": "Requiere 2 filas anuales anteriores del mismo segmento, sin huecos ni cambios de moneda.",
+      "observados": 3169,
+      "faltantes_n": 1052,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCL_preliminar_lag3",
+      "definicion": "Persistencia histórica por empresa y segmento",
+      "formula": "FCL_preliminar(t-3); FCL fuente invalidado si CAPEX de su año > 0",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCL_preliminar",
+        "RPJ",
+        "Ejercicio",
+        "Moneda",
+        "CAPEX_reportado"
+      ],
+      "python": "groups['FCL_preliminar'].shift(3)",
+      "faltantes": "NaN si falta el valor desplazado o la historia suficiente; sin imputación. Todas las derivaciones usan FCL validado: NaN cuando CAPEX de su año > 0; no altera FCL fuente.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos.",
+      "continuidad_y_moneda": "Requiere 3 filas anuales anteriores del mismo segmento, sin huecos ni cambios de moneda.",
+      "observados": 2854,
+      "faltantes_n": 1367,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCL_preliminar_mean3_previa",
+      "definicion": "Nivel o volatilidad de tres años estrictamente anteriores; redundante exacta: excluir del subconjunto lineal de 19",
+      "formula": "mean de FCL_preliminar(t-3), FCL_preliminar(t-2), FCL_preliminar(t-1); FCL fuente invalidado si CAPEX de su año > 0",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCL_preliminar",
+        "RPJ",
+        "Ejercicio",
+        "Moneda",
+        "CAPEX_reportado"
+      ],
+      "python": "groups['FCL_preliminar'].transform(lambda s: s.shift(1).rolling(3, min_periods=3).mean())",
+      "faltantes": "Los tres valores previos deben estar observados; cualquier NaN invalida la ventana. Todas las derivaciones usan FCL validado: NaN cuando CAPEX de su año > 0; no altera FCL fuente.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos.",
+      "continuidad_y_moneda": "Requiere t-3, t-2 y t-1 contiguos en la misma empresa y moneda; excluye t.",
+      "observados": 2766,
+      "faltantes_n": 1455,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    },
+    {
+      "nombre": "FCL_preliminar_std3_previa",
+      "definicion": "Nivel o volatilidad de tres años estrictamente anteriores",
+      "formula": "std de FCL_preliminar(t-3), FCL_preliminar(t-2), FCL_preliminar(t-1); ddof=1; FCL fuente invalidado si CAPEX de su año > 0",
+      "unidad": "unidad monetaria reportada, escala no acreditada",
+      "columnas_originales": [
+        "FCL_preliminar",
+        "RPJ",
+        "Ejercicio",
+        "Moneda",
+        "CAPEX_reportado"
+      ],
+      "python": "groups['FCL_preliminar'].transform(lambda s: s.shift(1).rolling(3, min_periods=3).std())",
+      "faltantes": "Los tres valores previos deben estar observados; cualquier NaN invalida la ventana. Todas las derivaciones usan FCL validado: NaN cuando CAPEX de su año > 0; no altera FCL fuente.",
+      "ceros_y_dominio": "No hay denominador financiero; ceros y flujos negativos son válidos. Desviación muestral ddof=1 (divide por 3-1).",
+      "continuidad_y_moneda": "Requiere t-3, t-2 y t-1 contiguos en la misma empresa y moneda; excluye t.",
+      "observados": 2766,
+      "faltantes_n": 1455,
+      "infinitos": 0,
+      "coincide_csv": true,
+      "conserva_nan": true
+    }
+  ]
+}

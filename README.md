@@ -597,19 +597,42 @@ CAPEX positivo invalida internamente todas las derivaciones de FCL y su etiqueta
 El notebook cuantifica el sesgo de los casos completos con tablas por año y moneda y Mann-Whitney exploratorio. **No usar `dropna()` sobre predictores para modelado.** También incluye estratificación por revisión interanual y una sensibilidad de escala en memoria: rezagos/ventanas y objetivo divididos por activos positivos de t, con moneda consistente para el objetivo. No se amplía la lista de 22 ni se cambia el objetivo principal. La evaluación predictiva de estas sensibilidades queda para Semana 6; no se entrenan modelos aquí.
 
 
-### Trazabilidad y publicación de los originales SMV
+### Entrega completa al profesor — Semana 5
 
-La revisión de Semana 5 y los comandos reproducibles están en
-[procedimiento_smv.md](reports/procedimiento_smv.md); el
-[inventario por archivo](reports/trazabilidad_smv.json) incluye tamaños, hashes,
-periodos y contraste contra el panel. Los 22 XML (2.559.277 bytes) contienen
-resúmenes, no el detalle FCO/CAPEX. Las 4.221 filas coinciden en sus campos
-compartidos, pero falta el procedimiento histórico de construcción del panel.
-**No puede reproducirse íntegramente el panel desde fuentes oficiales con el
-código disponible.** La ingeniería de características sí se reproduce desde el
-panel existente.
+La rama de entrega es `feature-engineering`. Se incluyen:
 
-Los originales sin derechos verificados, el Excel complementario, la extracción
-intermedia, el CSV de características y el informe interno permanecen locales.
-El panel ya publicado se conserva sin cambios; no se presenta como un dataset
-con derechos nuevamente verificados. No se publica ningún dataset financiero nuevo.
+- [Panel original: 4.221 filas](data/processed/panel_fcl_preliminar.csv).
+- [Cálculos completos: 4.221 filas, 57 columnas y 22 características](data/processed/features_financieras.csv), sin eliminar NaN ni banderas.
+- [Notebook ejecutado](notebooks/02_feature_engineering.ipynb), con fórmulas, tablas, gráficos e interpretaciones.
+- [Funciones de cálculo](src/feature_engineering.py), [diccionario](reports/diccionario_features.md) y [trazabilidad individual de las 22 variables y los objetivos](reports/trazabilidad_variables.md).
+- [Validación de cálculos](reports/validacion_calculos.json), [resumen académico](reports/resumen_feature_engineering.md), pruebas en `tests/` y evidencia de ejecución en `reports/validacion_ejecucion.json`.
+- 22 XML de la SMV en `data/raw/smv/`, con [inventario y SHA-256](reports/trazabilidad_smv.json). Licencia y atribución: [data/README.md](data/README.md).
+
+Las fichas específicas de principales cuentas y flujo de efectivo de la SMV
+indican ODbL. Los XML y la base adaptada se entregan con los avisos correspondientes.
+El Excel complementario y el informe interno de auditoría permanecen locales.
+
+Para crear el entorno y reproducir desde un clon de esta rama:
+
+```bash
+conda env create -f environment-feature-engineering.yml
+conda activate tesis-fcl
+python -m ipykernel install --user --name tesis-fcl --display-name tesis-fcl
+python -m unittest discover -s tests -v
+python scripts/reproduce_features.py --check
+python scripts/execute_feature_engineering.py
+python scripts/reproduce_features.py --check
+```
+
+`python scripts/reproduce_features.py` regenera el dataset sin Jupyter.
+`--check` exige igualdad byte a byte y preservación de NaN frente al CSV entregado.
+Los faltantes se escriben como campos vacíos y se recuperan con `pd.read_csv`;
+RPJ y RUC se leen como texto. No se convierten monedas ni se imputa el dataset.
+
+El [procedimiento completo y sus límites](reports/procedimiento_smv.md) distingue
+lo implementado de lo pendiente. **Feature Engineering es reproducible desde el
+panel incluido. La reconstrucción histórica del panel desde fuentes oficiales
+sigue incompleta**: faltan las respuestas de detalle FCO/CAPEX y el código de
+selección, revisiones y consolidación. Los XML de resumen no contienen FCO/CAPEX.
+
+Publicación remota y autenticación: [entrega y publicación](reports/entrega_semana5.md).

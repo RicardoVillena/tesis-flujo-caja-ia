@@ -4,11 +4,10 @@ __pycache__/
 .ipynb_checkpoints/
 .cache/feature-engineering/
 
-# Derivado financiero conservado localmente; no publicar
-/data/processed/features_financieras.csv
-
-# Originales y extracciones sin autorización de redistribución verificada
-/data/raw/smv/
+# Logs de descargas y extracciones locales; XML autorizados por ODbL
+/data/raw/smv/*
+!/data/raw/smv/*.xml
+!/data/raw/smv/README.md
 /data/raw/base_de_datos.xlsx
 /data/processed/smv_infofinanciera_extraida.csv
 # Informe interno: nunca incorporar a una nueva publicación

@@ -3,7 +3,7 @@
   "python": "3.12.15 | packaged by Anaconda, Inc. | (main, Oct  1 2026, 20:20:25) [GCC 14.3.0]",
   "executable": "/home/ricardo/miniconda3/envs/tesis-fcl/bin/python",
   "celdas_codigo_ejecutadas": 11,
-  "celdas_totales": 11,
+  "celdas_totales": 12,
   "errores": 0,
   "archivos_protegidos_sin_cambios": {
     "notebooks/EDA_FCL_2005_2025.ipynb": "f30f89b13414bc19a22e2cd52f509b108253fbd557af398f6b2527cefa9ae25a",
@@ -14,6 +14,7 @@
     "data/raw/smv/smv_infofinanciera_2016_A_I.xml": "459bcc7672c1c17d1aec5c9092b01f009b34b3aace762faf7db374e771be4dbe",
     "data/raw/smv/smv_infofinanciera_2022_A_I.xml": "d7da9611726bea003145e5bbeb191dec5e4e3ac21e4bae8fe56a50ee3487c585",
     "data/raw/smv/smv_infofinanciera_2017_A_I.xml": "7d6da0d28c668d1c95f4d9eb6511c0ce428c8ea79c6738941b11c9054f487918",
+    "data/raw/smv/README.md": "b8a53c86337428eb0697818ce3496c97e0ef9011e7b8eacbdf86ffeeee566520",
     "data/raw/smv/smv_infofinanciera_2025_A_I_20261002_213002.xml": "9c2dd5411066e2f635bb23b5f84741acbc4069c9053704f480331e079afd16e5",
     "data/raw/smv/smv_infofinanciera_2008_A_I.xml": "9fd010d7feaeea117d878a7eb7df8d3477ec7194842e665accce373bfc1b568d",
     "data/raw/smv/smv_infofinanciera_2013_A_I.xml": "dff77007d2899f77cfbc00e951a0d5e136cf6caee1b43f6d1351486128f3457e",
