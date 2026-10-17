@@ -100,12 +100,19 @@ El panel se conserva sin cambios. La anterior exclusión conservadora del CSV y
 XML se sustituye con esta evidencia específica, sin añadir el Excel.
 
 El Excel (86.183 bytes) contiene dos hojas de análisis financieros complementarios:
-`ESF - Evaluacion Vertical y hor` y `Evaluacion vertical y horizonta`, con dimensiones
-999×32 y 1.000×28 (incluyen celdas de formato). Se identifican ejercicios 2016–2025
-en el título de la primera hoja; no se acredita cobertura integral de ambas hojas.
-No es una respuesta original del servicio, no se utiliza en el notebook y no tiene
-una fuente/licencia documentada: queda local. No se publica su contenido ni sus
-metadatos personales de autoría. El directorio `data/raw` no contiene otras fuentes
+`ESF - Evaluacion Vertical y hor` y `Evaluacion vertical y horizonta`. El XML interno
+declara rangos A1:AF999 y A1:AB1000; la carga normal identifica celdas hasta AF59 y
+AB199, respectivamente. No confundir dimensiones declaradas con filas de datos.
+La primera hoja contiene situación financiera y análisis vertical/horizontal de
+Aceros Arequipa, con encabezados 2016–2025 y unidad rotulada S/ miles; la segunda
+contiene situación financiera y resultados de Agroindustrias AIB, con encabezados
+2017–2025. Hay 2.476 fórmulas en conjunto. Esos análisis no son las 22 características
+del panel; no hay dependencia del Excel en el cálculo ejecutado. Sus etiquetas y
+fórmulas se revisaron, no se descartó por ser XLSX. Hay valores sin etiquetas en
+40 filas desde la 109 de la segunda hoja: no se les atribuye FCO/CAPEX sin evidencia.
+No es una respuesta original del servicio y no tiene fuente/licencia documentada:
+queda local, preservado. Una revisión de permisos podría permitir una entrega
+complementaria posterior. Ver [revisión completa](revision_entrega_semana5.md). El directorio `data/raw` no contiene otras fuentes
 además de ese Excel y los XML inventariados.
 
 El informe interno de Antigravity permanece local y fuera del árbol e historia
