@@ -24,7 +24,7 @@ No se modificaron credenciales, permisos de la integración ni historial.
   `reports/procedimiento_smv.md`, `reports/resumen_feature_engineering.md`,
   `reports/correcciones_antigravity.md` (documentación de correcciones, no informe interno).
 - `reports/trazabilidad_smv.json`, `reports/validacion_calculos.json`,
-  `reports/validacion_ejecucion.json`, `reports/resultados_pruebas.txt` y este documento.
+  `reports/validacion_ejecucion.json`, `reports/resultados_pruebas.txt`, `reports/validacion_clon.json` y este documento.
 - `README.md` y `.gitignore`.
 
 ## Validación
@@ -35,6 +35,10 @@ La regeneración sin kernel coincide byte a byte con el CSV, incluso después de
 reexportar desde el notebook; preserva fuentes y máscara de NaN.
 Hash SHA-256 del CSV de características:
 `0a9cafca02a4272210863c01fdd79f7e1a50573099e5779d09955e19adea5702`.
+La comprobación se repitió en un clon local de la rama, sin Excel ni informe
+interno, con el mismo resultado (ver `validacion_clon.json`). El notebook cambia
+sus tiempos de ejecución y rutas de evidencia al reejecutarse; el CSV permanece
+idéntico.
 No se acredita una instalación nueva de dependencias ni reconstrucción histórica
 del panel desde el servicio SMV; ver las brechas en `procedimiento_smv.md`.
 
@@ -77,3 +81,5 @@ no hacer push forzado ni merge automático.
 - [Cálculos completos](https://github.com/RicardoVillena/tesis-flujo-caja-ia/blob/feature-engineering/data/processed/features_financieras.csv).
 
 Para identificar el commit de entrega: `git rev-parse feature-engineering`.
+
+Último intento de push: falló por ausencia de credenciales HTTPS (`could not read Username`). No se reintentó alterar permisos de la integración que antes devolvió 403.

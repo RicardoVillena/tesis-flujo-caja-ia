@@ -1,0 +1,21 @@
+{
+  "commit_probado": "21ec23272e1a3f7d70efb5438b50acbb634fb77c",
+  "rama": "feature-engineering",
+  "origen": "clon local de los archivos versionados; no descarga de GitHub",
+  "entorno": "tesis-fcl existente, Python 3.12; no instalación nueva",
+  "pruebas_aprobadas": 15,
+  "celdas_codigo_ejecutadas": 11,
+  "errores_notebook": 0,
+  "excel_presente": false,
+  "informe_interno_presente": false,
+  "csv_igual_antes_y_despues_del_notebook": true,
+  "features_sha256": "0a9cafca02a4272210863c01fdd79f7e1a50573099e5779d09955e19adea5702",
+  "archivos_protegidos": 26,
+  "push": "Falló: could not read Username for https://github.com; no credenciales modificadas",
+  "comandos": [
+    "python -m unittest discover -s tests -v",
+    "python scripts/reproduce_features.py --check",
+    "python scripts/execute_feature_engineering.py",
+    "python scripts/reproduce_features.py --check"
+  ]
+}
