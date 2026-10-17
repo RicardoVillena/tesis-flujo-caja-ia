@@ -636,3 +636,5 @@ sigue incompleta**: faltan las respuestas de detalle FCO/CAPEX y el código de
 selección, revisiones y consolidación. Los XML de resumen no contienen FCO/CAPEX.
 
 Publicación remota y autenticación: [entrega y publicación](reports/entrega_semana5.md).
+
+Revisión previa a publicación: [matriz de trazabilidad, examen del Excel y estado de entrega](reports/revision_entrega_semana5.md). Esta revisión no ejecuta operaciones de publicación.
