@@ -1,0 +1,13 @@
+{
+  "metodo": "POST",
+  "url_solicitada": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "solicitud": "<s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\"><s:Body><consultaValoresRAZONSOCIAL xmlns=\"http://tempuri.org/\"><pstrRAZONSOCIAL>MINERA IRL LIMITED</pstrRAZONSOCIAL></consultaValoresRAZONSOCIAL></s:Body></s:Envelope>",
+  "consultado_utc": "2026-10-22T00:51:47.020898+00:00",
+  "firma_solicitud": "050be7771f362d99e29231a34b2179d8ad84f04f998d3029481e4179c7f4fa54",
+  "http_status": 200,
+  "url_final": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "content_type": "text/xml; charset=utf-8",
+  "error": null,
+  "archivo": "data/raw/bvl/smv_OE3161_nombre_050be7771f362d.bin",
+  "sha256": "70c17a9a2e600eaed2247adbba6d28b3077035bb4f4d4c0eefe42e9fcd59a79a"
+}

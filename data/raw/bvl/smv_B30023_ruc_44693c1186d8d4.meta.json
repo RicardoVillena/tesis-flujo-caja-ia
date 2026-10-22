@@ -1,0 +1,13 @@
+{
+  "metodo": "POST",
+  "url_solicitada": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "solicitud": "<s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\"><s:Body><consultaValoresRUC xmlns=\"http://tempuri.org/\"><pstrRUC>20128915711</pstrRUC></consultaValoresRUC></s:Body></s:Envelope>",
+  "consultado_utc": "2026-10-22T00:50:46.833197+00:00",
+  "firma_solicitud": "44693c1186d8d428cb5fbe2cc0a5bcd2143fdca850fdc9952b7f8321a876ae65",
+  "http_status": 200,
+  "url_final": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "content_type": "text/xml; charset=utf-8",
+  "error": null,
+  "archivo": "data/raw/bvl/smv_B30023_ruc_44693c1186d8d4.bin",
+  "sha256": "8548633a50407fd1de1dd081e87a52296f511edd0969763e27a6d63bcee8c2b4"
+}

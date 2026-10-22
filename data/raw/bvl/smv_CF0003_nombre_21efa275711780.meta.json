@@ -1,0 +1,13 @@
+{
+  "metodo": "POST",
+  "url_solicitada": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "solicitud": "<s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\"><s:Body><consultaValoresRAZONSOCIAL xmlns=\"http://tempuri.org/\"><pstrRAZONSOCIAL>CAJA RURAL DE AHORRO Y CREDITO DEL SUR S.A.A. (RET)</pstrRAZONSOCIAL></consultaValoresRAZONSOCIAL></s:Body></s:Envelope>",
+  "consultado_utc": "2026-10-22T00:51:23.436609+00:00",
+  "firma_solicitud": "21efa275711780f0e49c1b734c4a5e59f875f61b6d0c0471a915cfaef0e5cb4c",
+  "http_status": 200,
+  "url_final": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "content_type": "text/xml; charset=utf-8",
+  "error": null,
+  "archivo": "data/raw/bvl/smv_CF0003_nombre_21efa275711780.bin",
+  "sha256": "0c618769369a660d7b4a743358c2ff3bbab93ea5758121da09588fc5f647e855"
+}

@@ -1,0 +1,13 @@
+{
+  "metodo": "POST",
+  "url_solicitada": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "solicitud": "<s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\"><s:Body><consultaValoresRAZONSOCIAL xmlns=\"http://tempuri.org/\"><pstrRAZONSOCIAL>AGROINDUSTRIAS AIB S.A.</pstrRAZONSOCIAL></consultaValoresRAZONSOCIAL></s:Body></s:Envelope>",
+  "consultado_utc": "2026-10-22T00:51:51.297443+00:00",
+  "firma_solicitud": "e6a6d7551a127677bb7867a9fbbbe4567b2d3661f8f08190d59336a71388e1d2",
+  "http_status": 200,
+  "url_final": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "content_type": "text/xml; charset=utf-8",
+  "error": null,
+  "archivo": "data/raw/bvl/smv_OE4115_nombre_e6a6d7551a1276.bin",
+  "sha256": "d734b8a64a039894d62bae61f703f5a5fe5e20b5e3c6b1deafd1ff880ad4be64"
+}

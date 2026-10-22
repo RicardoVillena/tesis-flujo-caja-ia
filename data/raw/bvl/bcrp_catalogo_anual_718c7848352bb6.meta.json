@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/mercado-bursatil",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:46.200114+00:00",
+  "firma_solicitud": "718c7848352bb6fc0e0f55378bb65bcdff7051f0787a4eeffd41057b2679d23d",
+  "http_status": 200,
+  "url_final": "https://estadisticas.bcrp.gob.pe/estadisticas/series/anuales/mercado-bursatil",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "archivo": "data/raw/bvl/bcrp_catalogo_anual_718c7848352bb6.bin",
+  "sha256": "9ba3a81e1d97973e11f7865b0204ba61e9064d315e8f411f79d843de1d15f155"
+}

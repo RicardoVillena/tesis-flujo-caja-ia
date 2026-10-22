@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://www.bvl.com.pe/mercado/indices",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:49.222870+00:00",
+  "firma_solicitud": "b2ef8f5ed78ffa2689f849ae96ec89e7adb9b60ab278ab074e536d03683ae18d",
+  "http_status": 200,
+  "url_final": "https://www.bvl.com.pe/mercado/indices",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "archivo": "data/raw/bvl/bvl_indices_b2ef8f5ed78ffa.bin",
+  "sha256": "7926543a0723c6e904c0d2bbc7c14af23c1a44f9bdb36b98d68643cb3886caef"
+}

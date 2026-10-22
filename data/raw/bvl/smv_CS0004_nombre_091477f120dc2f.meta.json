@@ -1,0 +1,13 @@
+{
+  "metodo": "POST",
+  "url_solicitada": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "solicitud": "<s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\"><s:Body><consultaValoresRAZONSOCIAL xmlns=\"http://tempuri.org/\"><pstrRAZONSOCIAL>MAPFRE PERU COMPAÑIA DE SEGUROS Y REASEGUROS</pstrRAZONSOCIAL></consultaValoresRAZONSOCIAL></s:Body></s:Envelope>",
+  "consultado_utc": "2026-10-22T00:51:30.436883+00:00",
+  "firma_solicitud": "091477f120dc2f62fe6885c4cb677c5820e60b7dfbd07014e1c67af5b1f7ea85",
+  "http_status": 200,
+  "url_final": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "content_type": "text/xml; charset=utf-8",
+  "error": null,
+  "archivo": "data/raw/bvl/smv_CS0004_nombre_091477f120dc2f.bin",
+  "sha256": "240dca9d464a9ebf327a28c5a79e681d232054094cc58f409c4272051779fc04"
+}

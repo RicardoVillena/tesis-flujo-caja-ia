@@ -1,0 +1,13 @@
+{
+  "metodo": "POST",
+  "url_solicitada": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "solicitud": "<s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\"><s:Body><consultaValoresRAZONSOCIAL xmlns=\"http://tempuri.org/\"><pstrRAZONSOCIAL>LATINA HOLDING S.A.</pstrRAZONSOCIAL></consultaValoresRAZONSOCIAL></s:Body></s:Envelope>",
+  "consultado_utc": "2026-10-22T00:51:10.986804+00:00",
+  "firma_solicitud": "57c1113fca261240df634445fc54ae70c60e477f777d6d4f4d155ee1ead1d3bb",
+  "http_status": 200,
+  "url_final": "http://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc",
+  "content_type": "text/xml; charset=utf-8",
+  "error": null,
+  "archivo": "data/raw/bvl/smv_B80031_nombre_57c1113fca2612.bin",
+  "sha256": "0c618769369a660d7b4a743358c2ff3bbab93ea5758121da09588fc5f647e855"
+}

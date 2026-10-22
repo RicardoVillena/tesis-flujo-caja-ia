@@ -1,0 +1,6 @@
+moneda,grupo,media_y_train,mediana_fcl_t_train,persistencia_imputada_train,persistencia_imputada_test
+D lares,todas,85349.57223796034,21620.0,10,0
+D lares,no_bancario,85349.57223796034,21620.0,10,0
+Soles,todas,73239.4686009539,8238.0,89,5
+Soles,bancario,363754.1453488372,63658.0,20,4
+Soles,no_bancario,51921.83873720137,7666.0,69,1

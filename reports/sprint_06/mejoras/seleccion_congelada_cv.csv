@@ -1,0 +1,6 @@
+moneda,grupo,especificacion,experimento,alpha,rmse_cv
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,270451.5560802548
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,270451.5560802548
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,338435.7600759804
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,844654.1191219435
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,2886677.155555384

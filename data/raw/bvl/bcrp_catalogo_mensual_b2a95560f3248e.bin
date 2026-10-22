@@ -1,0 +1,4492 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<head><script src="/oly-Almost-That-hane-Sey-a-sleepe-Atter-Macduffe" async></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<script> if(top == self) { document.documentElement.style.display='block'}
+else { top.location = self.location; } </script>
+
+
+
+<link href="/estadisticas/series/css/ajax_upload.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/estadisticas/series/css/jquery-1.7.2.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/estadisticas/series/css/back.css?20261022004945" media="screen" rel="stylesheet" type="text/css" />
+<link href="/estadisticas/series/css/nav.css?20261022004945" media="screen" rel="stylesheet" type="text/css" />
+
+
+
+<link href="/estadisticas/series/css/series-estadisticas.css?20261022004945" media="screen" rel="stylesheet" type="text/css" />
+<link href="/estadisticas/series/css/estilo.css?20261022004945" media="screen" rel="stylesheet" type="text/css" />
+
+<!--[if lt IE 9]>
+	<link href="/estadisticas/series/css/series-estadisticas-ie.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/estadisticas/series/css/estilo-ie.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 8]>
+    <link href="/estadisticas/series/css/series-estadisticas-ie.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/estadisticas/series/css/estilo-ie.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+
+<!--[if gt IE 7]>
+	<link href="/estadisticas/series/css/series-estadisticas.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/estadisticas/series/css/estilo.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if gte IE 8]>
+	<link href="/estadisticas/series/css/series-estadisticas.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/estadisticas/series/css/estilo.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+<link href="/estadisticas/series/css/tcg-elevator/css/jquery.tcg-elevator.css" media="screen" rel="stylesheet" type="text/css" />
+	
+<script type="text/javascript" src="/estadisticas/series/js/jquery-1.10.2.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/bootstrap/js/bootstrap.js"></script>
+	
+<script type="text/javascript" src="/estadisticas/series/js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/ajax_upload.js" ></script>
+
+
+<script type="text/javascript" src="/estadisticas/series/js/tcg-elevator/js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript">
+	var jQuery_1_12_4 = $.noConflict(true);
+</script>
+<script type="text/javascript" src="/estadisticas/series/js/tcg-elevator/js/jquery.tcg-elevator.js"></script>
+
+<script>
+
+$(document).ready(function(){
+	//$('.tcg-elevator').tcgElevator();
+
+    if ($.fn.tcgElevator) {
+        $('.tcg-elevator').tcgElevator();
+
+
+		$('.elevator').tcgElevator({		
+			toggleSelector: '.panel-heading',
+			contentSelector: '.panel-body',
+			/*
+			speed: 500,
+			openingSpeed: 500,
+			closingSpeed: 1000,
+			*/  
+			openClass: 'open',
+			openingClass: 'opening',
+			closingClass: 'closing'
+		});
+
+    } 
+
+
+	var closed = true;
+	$('.toggle-all').click(function(e){
+		var functionToCall = closed ? 'open' : 'close';
+		closed = !closed;
+		$('.tcg-elevator').tcgElevator(functionToCall);
+	})
+	
+
+	$(".toggle-all").click(
+		function() {
+			if($(this).hasClass("cls-iconos-textos")) {
+			   $(this).removeClass("cls-iconos-textos");
+			   $(this).addClass("cls-iconos-textos-negativo");
+			} else {
+				$(this).removeClass("cls-iconos-textos-negativo");
+			    $(this).addClass("cls-iconos-textos");
+			}
+		}
+	);
+
+	
+})
+
+
+</script>
+
+
+<!-- <script type="text/javascript" src="/estadisticas/series/js/jquery.ui.datepicker_ing.js"></script> -->
+<!-- <script type="text/javascript" src="/estadisticas/series/js/jquery.ui.datepicker_esp.js"></script> -->
+
+<!-- <script type="text/javascript" src="/estadisticas/series/js/jquery.ui.datepicker.js"></script> -->
+
+<script type="text/javascript" src="/estadisticas/series/js/jquery.ui.datepicker_esp.js"></script>
+
+
+
+<script type="text/javascript" src="/estadisticas/series/js/estadisticas.js?20261022004945"></script>
+<script type="text/javascript" src="/estadisticas/series/js/js.js?20261022004945"></script>
+<script type="text/javascript" src="/estadisticas/series/js/validCampoFranz.js"></script>
+
+
+<script type="text/javascript" src="/estadisticas/series/js/funciones-personalizadas.js"></script>
+
+
+<link href="/estadisticas/series/css/font-awesome/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+
+
+<script type="text/javascript" src="/estadisticas/series/js/jalert/jquery.ui.draggable.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/jalert/jquery.alerts.js"></script>
+
+
+<link href="/estadisticas/series/js/jalert/jquery.alerts.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+		
+
+
+<script language="JavaScript">
+$(function() {
+	
+	    if ($('#desde').val() != undefined)
+		{	
+			$("#desde").datepicker({
+					changeMonth: true,
+					changeYear: true,
+					showOn: "button",		  
+					buttonImage: "https://estadisticas.bcrp.gob.pe/estadisticas/series/js/images/calendar.gif",
+					buttonImageOnly: true
+			});
+		}
+
+	    if ($('#hasta').val() != undefined)
+		{			
+			$("#hasta").datepicker({
+					changeMonth: true,
+					changeYear: true,
+					showOn: "button",
+					buttonImage: "https://estadisticas.bcrp.gob.pe/estadisticas/series/js/images/calendar.gif",
+					buttonImageOnly: true
+			});
+		}
+
+	    if ($('#fecha_creacion').val() != undefined)
+		{			
+			$("#fecha_creacion").datepicker({
+					changeMonth: true,
+					changeYear: true,
+					showOn: "button",
+					buttonImage: "https://estadisticas.bcrp.gob.pe/estadisticas/series/js/images/calendar.gif",
+					buttonImageOnly: true
+			});
+		}
+		
+});
+
+
+
+
+
+
+</script> 
+
+
+<script type="text/javascript">
+
+// Bloquear history
+/*history.pushState(null, null, location.href);
+    window.onpopstate = function () {
+        history.go(1);
+    };*/
+	
+</script>  
+
+
+ 
+<meta name="keywords" content="Mercado de capitales" />
+<meta name="description" content="Mercado de capitales" />
+
+<title>Mercado de capitales</title>
+</head>
+
+<script>
+	$(document).ready(function() {
+
+
+		if ($('#txtbuscador').val() != undefined) {
+			$('#txtbuscador').validCampoFranz(' abcdefghijklmnñopqrstuvwxyzáéíóú$1234567890');
+		}
+
+
+		//$('#txtbuscar').on( 'keyup change', function () {   // for text boxes
+		$('#txtbuscador').on('keypress', function(event) { // for text boxes
+
+
+
+			if (event.which == 13) {
+				v = $("#txtbuscador").val();
+
+				if (v != '') {
+
+					var filtropalabras = /^[0-9a-zA-Z$áéíóúñ ]+$/;
+					// utilizamos test para comprobar si el parametro valor cumple la regla
+					if (!filtropalabras.test(v)) {
+						alert('La texto a buscar contiene un caracter no permitido.');
+						return false;
+					}
+
+
+
+					//dataTable.search(v).draw();
+					//document.frmBuscador.action ="/estadisticas/series/mensuales/mercado-de-capitales";
+					document.frmBuscador.action = "https://estadisticas.bcrp.gob.pe/estadisticas/series/buscador";
+					document.frmBuscador.submit();
+
+				} else {
+					alert('Ingresar texto a buscar');
+					return false;
+				}
+			}
+
+			//dataTable.search( $(this).val() ).draw();
+
+		});
+
+
+		$('#btnbuscador').on('click', function(event) { // for text boxes
+
+
+
+			v = $("#txtbuscador").val();
+
+			if (v != '') {
+
+
+				var filtropalabras = /^[0-9a-zA-Z$áéíóúñ ]+$/;
+				// utilizamos test para comprobar si el parametro valor cumple la regla
+				if (!filtropalabras.test(v)) {
+					alert('La texto a buscar contiene un caracter no permitido.');
+					return false;
+				}
+
+
+				dataTable.search(v).draw();
+
+				//document.frmBuscador.action ="/estadisticas/series/mensuales/mercado-de-capitales";
+				document.frmBuscador.action = "https://estadisticas.bcrp.gob.pe/estadisticas/series/buscador";
+				document.frmBuscador.submit();
+
+			} else {
+				alert('Ingresar texto a buscar');
+				return false;
+			}
+
+			//dataTable.search( $(this).val() ).draw();
+
+		});
+
+
+	});
+</script>
+
+
+
+
+<body>
+
+
+
+
+
+	<!-- Google Tag Manager -->
+
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2QFRJ"
+
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start':
+
+					new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+
+				'//www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+
+		})(window, document, 'script', 'dataLayer', 'GTM-T2QFRJ');
+	</script>
+
+	<!-- End Google Tag Manager -->
+
+
+	<script>
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-83099512-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+
+
+
+
+	
+			<div class="header">
+
+				<div class="textocabecera">
+					<div class="logocbm">
+						<a href="http://www.bcrp.gob.pe" target="_blank"><img alt="" src="/estadisticas/series/images/logo-70-espacio.png" id="logobcr"></a>
+					</div>
+					<div class="logoytitulo">
+						<!-- <div class="titlogobcrp"><span class="titulobcrpdata">BCRPData</span><br/>BANCO CENTRAL DE RESERVA DEL PERÚ<br/></div> -->
+						<div class="titlogobcrp">
+							<span class="titulobcrpdata">BCRPData</span><br />
+							<span class="subtitulobcrpdata_1">BANCO CENTRAL DE RESERVA DEL PERÚ</span><br />
+							<span class="subtitulobcrpdata_2">Gerencia Central de Estudios Económicos</span>
+							<br />
+						</div>
+					</div>
+				</div>
+
+
+			
+
+			<ul class="top">
+				
+
+
+
+
+
+					<div class="hidden">
+						<h1>
+							Mercado de capitales						</h1>
+					</div>
+											<li><a title="Suscribirse" href="/estadisticas/series/suscribirse">Suscripción</a>&nbsp;|</li>
+<li><a title="Iniciar Sesión" href="/estadisticas/series/login">Iniciar Sesión</a></li>
+
+					
+
+				
+
+
+
+
+							</ul>
+
+
+
+			
+
+				<form id="frmBuscador" name="frmBuscador" action="/estadisticas/series/buscador" method="post">
+					<div class="input-group input-group-lg div-buscador">
+						<input id="txtbuscador" name="txtbuscador" type="text" class="form-control-buscador" placeholder="Buscar..." autocomplete="off" value="">
+						<span class="input-group-btn">
+							<button id="btnbuscador" name="btnbuscador" type="submit" class="btn btn-default btn-buscador-cabecera" style="background-color:#687f9f;color:white" onclick="Opciones('BU')"><i class="fa fa-search"></i></button>
+						</span>
+					</div>
+					<input type="hidden" id="accion" name="accion" value="buscar" />
+				</form>
+
+			
+
+			<div class="hidden">
+				<h1>
+					Mercado de capitales				</h1>
+			</div>
+			
+			
+			</div>
+
+			
+
+
+
+			
+<div class="menu-principal">
+	<div class="menu">
+		<ul>
+			<li><a href="/estadisticas/series/index"  target="_self">Inicio</a></li><li><a href="http://www.bcrp.gob.pe/docs/Estadisticas/Calendario-Estadisticas.pdf"  target="_blank">Calendario de Difusión</a></li><li><a href="https://www.bcrp.gob.pe/estadisticas/cuadros-de-la-nota-semanal.html"  target="_blank">Cuadros Estadísticos</a></li><li><a href="#"  target="_self">Guías</a><ul><li><a href="/estadisticas/series/documentos/bcrpdataguiadeuso.pdf"  target="_blank">Uso de BCRPData</a></li><li><a href="/estadisticas/series/documentos/bcrpdataapi.pdf"  target="_blank">API para Desarrolladores</a></li><li><a href="/estadisticas/series/documentos/bcrpdataaddin.pdf"  target="_blank">Add-In para Excel</a></li></ul></li><li><a href="#"  target="_self">Acerca de</a><ul><li><a href="/estadisticas/series/ayuda/bcrpdata"  target="_self">BCRPData</a></li><li><a href="/estadisticas/series/ayuda/condiciones-de-uso"  target="_self">Condiciones de Uso</a></li><li><a href="/estadisticas/series/documentos/bcrpdatasuscribirse.pdf"  target="_blank">Ventajas de la Suscripción</a></li></ul></li>				<li class="button-back-nav">
+					<a id="button-back-nav-link">Retroceder</a>
+				</li>
+					</ul>
+	</div>
+</div>
+
+
+
+			<div class="contenido">
+				
+<table border="0" class="estilo-tabla-index" cellpadding="0" cellspacing="0">
+	<tr>
+		<td id="contenedor-barra-menu" valign="top" class="td-index">
+			<div id="barra-lateral">
+				
+
+<div id="menu-izquierda-dinamico">
+<h4 class="titulo-izquierda"><a href="#"  class="titulo-h4" target="_self">Consulta de Series</a></h4><ul class="forma-vineta"><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/index"  target="_self">Por Categoría</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/buscador"  target="_self">Por Series</a></li></ul><h4 class="titulo-izquierda"><a href="#"  class="titulo-h4" target="_self">Herramientas</a></h4><ul class="forma-vineta"><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/lista/listadovalido"  target="_self">Listas Personalizadas</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/ayuda/addin"  target="_self">Add-In para Excel</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/ayuda/api"  target="_self">API para Desarrolladores</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/ayuda/app"  target="_self">App para Móviles</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/ayuda/metadatos"  target="_self">Metadatos</a></li></ul><h4 class="titulo-izquierda"><a href="#"  class="titulo-h4" target="_self">Encuesta de Expectativas</a></h4><ul class="forma-vineta"><li class="forma-separar"><a class="forma-url" href="https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-inflacion.xlsx"  target="_blank">Inflación</a></li><li class="forma-separar"><a class="forma-url" href="https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-pbi.xlsx"  target="_blank">Producto Bruto Interno</a></li><li class="forma-separar"><a class="forma-url" href="https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-tipo-de-cambio.xlsx"  target="_blank">Tipo de Cambio</a></li><li class="forma-separar"><a class="forma-url" href="https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx"  target="_blank">Índices de confianza empresarial</a></li></ul><h4 class="titulo-izquierda"><a href="/estadisticas/series/contactenos"  class="titulo-h4" target="_self">Contáctenos</a></h4>	
+
+
+
+</div>
+			</div>
+		</td>
+
+		<!--<td style="padding-left:10px;" valign="top">-->
+		<td class="centro-contenido" valign="top">
+
+			<div class="nav-links">
+	<ul>
+					<li>
+				<a href="/estadisticas/series">Inicio</a>
+			</li>
+							<li>
+						<span>/</span>
+						<span class="only-title">Mercado de Capitales (Mensuales)</span>
+					</li>
+						</ul>
+</div>
+
+
+			<form id="frmMensual" action="" method="post">
+				<div class="controles">
+					<div class="opciones_consulta">
+						<div class="fechas">
+							<div class="fecha">
+								<div class="etiqueta">
+									<p style="margin-left:-1px;">Desde:</p>
+								</div>
+								<div class="grupo_combos">
+									<label for="mes1"></label>
+									<select id="mes1" name="mes1">
+																					<option value="1" >Ene</option>
+																					<option value="2" >Feb</option>
+																					<option value="3" >Mar</option>
+																					<option value="4" >Abr</option>
+																					<option value="5" >May</option>
+																					<option value="6" >Jun</option>
+																					<option value="7" >Jul</option>
+																					<option value="8" >Ago</option>
+																					<option value="9" >Sep</option>
+																					<option value="10" selected="selected">Oct</option>
+																					<option value="11" >Nov</option>
+																					<option value="12" >Dic</option>
+																			</select>
+									<label for="anio1"></label>
+									<select id="anio1" name="anio1">
+																															<option value="2026">2026</option>
+																					<option value="2025">2025</option>
+										
+
+
+										<option value="2024" selected="selected">2024</option>
+																					<option value="2023" >2023</option>
+																					<option value="2022" >2022</option>
+																					<option value="2021" >2021</option>
+																					<option value="2020" >2020</option>
+																					<option value="2019" >2019</option>
+																					<option value="2018" >2018</option>
+																					<option value="2017" >2017</option>
+																					<option value="2016" >2016</option>
+																					<option value="2015" >2015</option>
+																					<option value="2014" >2014</option>
+																					<option value="2013" >2013</option>
+																					<option value="2012" >2012</option>
+																					<option value="2011" >2011</option>
+																					<option value="2010" >2010</option>
+																					<option value="2009" >2009</option>
+																					<option value="2008" >2008</option>
+																					<option value="2007" >2007</option>
+																					<option value="2006" >2006</option>
+																					<option value="2005" >2005</option>
+																					<option value="2004" >2004</option>
+																					<option value="2003" >2003</option>
+																					<option value="2002" >2002</option>
+																					<option value="2001" >2001</option>
+																					<option value="2000" >2000</option>
+																					<option value="1999" >1999</option>
+																					<option value="1998" >1998</option>
+																					<option value="1997" >1997</option>
+																					<option value="1996" >1996</option>
+																					<option value="1995" >1995</option>
+																					<option value="1994" >1994</option>
+																					<option value="1993" >1993</option>
+																					<option value="1992" >1992</option>
+																					<option value="1991" >1991</option>
+																					<option value="1990" >1990</option>
+																					<option value="1989" >1989</option>
+																					<option value="1988" >1988</option>
+																					<option value="1987" >1987</option>
+																					<option value="1986" >1986</option>
+																					<option value="1985" >1985</option>
+																					<option value="1984" >1984</option>
+																					<option value="1983" >1983</option>
+																					<option value="1982" >1982</option>
+																					<option value="1981" >1981</option>
+																					<option value="1980" >1980</option>
+																					<option value="1979" >1979</option>
+																					<option value="1978" >1978</option>
+																					<option value="1977" >1977</option>
+																					<option value="1976" >1976</option>
+																					<option value="1975" >1975</option>
+																					<option value="1974" >1974</option>
+																					<option value="1973" >1973</option>
+																					<option value="1972" >1972</option>
+																					<option value="1971" >1971</option>
+																					<option value="1970" >1970</option>
+																					<option value="1969" >1969</option>
+																					<option value="1968" >1968</option>
+																					<option value="1967" >1967</option>
+																					<option value="1966" >1966</option>
+																					<option value="1965" >1965</option>
+																					<option value="1964" >1964</option>
+																					<option value="1963" >1963</option>
+																					<option value="1962" >1962</option>
+																					<option value="1961" >1961</option>
+																					<option value="1960" >1960</option>
+																					<option value="1959" >1959</option>
+																					<option value="1958" >1958</option>
+																					<option value="1957" >1957</option>
+																					<option value="1956" >1956</option>
+																					<option value="1955" >1955</option>
+																					<option value="1954" >1954</option>
+																					<option value="1953" >1953</option>
+																					<option value="1952" >1952</option>
+																					<option value="1951" >1951</option>
+																					<option value="1950" >1950</option>
+																					<option value="1949" >1949</option>
+																			</select>
+								</div>
+							</div>
+							<div class="fecha">
+								<div class="etiqueta">
+									<p style="margin-left:-1px;">Hasta:</p>
+								</div>
+								<div class="grupo_combos">
+									<label for="mes2"></label>
+									<select id="mes2" name="mes2">
+																					<option value="1" >Ene</option>
+																					<option value="2" >Feb</option>
+																					<option value="3" >Mar</option>
+																					<option value="4" >Abr</option>
+																					<option value="5" >May</option>
+																					<option value="6" >Jun</option>
+																					<option value="7" >Jul</option>
+																					<option value="8" >Ago</option>
+																					<option value="9" >Sep</option>
+																					<option value="10" selected="selected">Oct</option>
+																					<option value="11" >Nov</option>
+																					<option value="12" >Dic</option>
+																			</select>
+									<label for="anio2"></label>
+									<select id="anio2" name="anio2">
+																				<option value="2026" selected="selected">2026</option>
+																					<option value="2025" >2025</option>
+																					<option value="2024" >2024</option>
+																					<option value="2023" >2023</option>
+																					<option value="2022" >2022</option>
+																					<option value="2021" >2021</option>
+																					<option value="2020" >2020</option>
+																					<option value="2019" >2019</option>
+																					<option value="2018" >2018</option>
+																					<option value="2017" >2017</option>
+																					<option value="2016" >2016</option>
+																					<option value="2015" >2015</option>
+																					<option value="2014" >2014</option>
+																					<option value="2013" >2013</option>
+																					<option value="2012" >2012</option>
+																					<option value="2011" >2011</option>
+																					<option value="2010" >2010</option>
+																					<option value="2009" >2009</option>
+																					<option value="2008" >2008</option>
+																					<option value="2007" >2007</option>
+																					<option value="2006" >2006</option>
+																					<option value="2005" >2005</option>
+																					<option value="2004" >2004</option>
+																					<option value="2003" >2003</option>
+																					<option value="2002" >2002</option>
+																					<option value="2001" >2001</option>
+																					<option value="2000" >2000</option>
+																					<option value="1999" >1999</option>
+																					<option value="1998" >1998</option>
+																					<option value="1997" >1997</option>
+																					<option value="1996" >1996</option>
+																					<option value="1995" >1995</option>
+																					<option value="1994" >1994</option>
+																					<option value="1993" >1993</option>
+																					<option value="1992" >1992</option>
+																					<option value="1991" >1991</option>
+																					<option value="1990" >1990</option>
+																					<option value="1989" >1989</option>
+																					<option value="1988" >1988</option>
+																					<option value="1987" >1987</option>
+																					<option value="1986" >1986</option>
+																					<option value="1985" >1985</option>
+																					<option value="1984" >1984</option>
+																					<option value="1983" >1983</option>
+																					<option value="1982" >1982</option>
+																					<option value="1981" >1981</option>
+																					<option value="1980" >1980</option>
+																					<option value="1979" >1979</option>
+																					<option value="1978" >1978</option>
+																					<option value="1977" >1977</option>
+																					<option value="1976" >1976</option>
+																					<option value="1975" >1975</option>
+																					<option value="1974" >1974</option>
+																					<option value="1973" >1973</option>
+																					<option value="1972" >1972</option>
+																					<option value="1971" >1971</option>
+																					<option value="1970" >1970</option>
+																					<option value="1969" >1969</option>
+																					<option value="1968" >1968</option>
+																					<option value="1967" >1967</option>
+																					<option value="1966" >1966</option>
+																					<option value="1965" >1965</option>
+																					<option value="1964" >1964</option>
+																					<option value="1963" >1963</option>
+																					<option value="1962" >1962</option>
+																					<option value="1961" >1961</option>
+																					<option value="1960" >1960</option>
+																					<option value="1959" >1959</option>
+																					<option value="1958" >1958</option>
+																					<option value="1957" >1957</option>
+																					<option value="1956" >1956</option>
+																					<option value="1955" >1955</option>
+																					<option value="1954" >1954</option>
+																					<option value="1953" >1953</option>
+																					<option value="1952" >1952</option>
+																					<option value="1951" >1951</option>
+																					<option value="1950" >1950</option>
+																					<option value="1949" >1949</option>
+																			</select>
+								</div>
+							</div>
+						</div>
+
+						<div class="consultar" style="margin-top:11px;">
+							<p>
+								<input type="button" id="btnBuscar" name="btnBuscar" class="btnbuscar" value="" onclick="return Opciones('B','frmMensual','mensuales');" />
+								<input type="button" id="btnExportacionXls" name="btnExportacionXls" class="btnxlsx" value="" onclick="return Opciones('EN','frmMensual','mensuales');" />
+								<input type="button" id="btnExportacionCsv" name="btnExportacionCsv" class="btncsv" value="" onclick="return Opciones('CSVN','frmMensual','mensuales');" />
+								<input type="button" id="btnGrafico" name="btnGrafico" class="btngrafico" value="" onclick="return Opciones('GR','frmMensual','mensuales');" />
+							</p>
+
+
+
+															<div style="margin-top:-44px; margin-left:420px;">
+									<fieldset class="cuadro_sin_suscripcion">
+										<legend>Consultar listas sin suscripción</legend>
+										<div style="text-align: center; margin-top:3px;">
+											<input type="button" id="btnAdicionarcar" name="btnAdicionarcar" class="" value="Adicionar" onclick="return Opciones('AGREGAR','frmMensual','mensuales');" />
+
+
+											<input type="button" id="btnConsultarcar" name="btnConsultarcar" class="" value="Consultar" onclick="return Opciones('MOSTRAR','frmMensual','mensuales');" />
+										</div>
+									</fieldset>
+								</div>
+							
+						</div>
+
+
+						<div class="consulto">
+							<p>
+								
+							</p>
+						</div>
+
+
+					</div>
+				</div>
+
+
+
+				<h1 class="categoria"><span class="cls-contenedores-icono"><a id="icono" class="toggle-all cls-iconos-textos" ></a></span>Mercado de capitales<font style='text-transform: lowercase; font-size: 18px;'>&nbsp;(128 series)</font></h1>
+
+				<ul class="frecuenciascategoria" id="menu">
+					
+						<li>
+							
+								<a class="frecuenciacategoria" href='/estadisticas/series/diarias/mercado-de-capitales'>
+									diarias								</a>
+
+													</li>
+
+					
+						<li>
+															<a class="frecuenciacategoria_seleccionada" href='/estadisticas/series/mensuales/mercado-de-capitales'>
+									mensuales								</a>
+													</li>
+
+					
+						<li>
+							
+								<a class="frecuenciacategoria" href='/estadisticas/series/anuales/mercado-de-capitales'>
+									anuales								</a>
+
+													</li>
+
+									</ul>
+
+				<!--
+<div>
+    <span style="float: left; margin-top: -13px; margin-bottom: 8px;  line-height: 10px;">
+    <input type="checkbox" name="idSerie_all" id="idSerie_all"  onClick="seleccionar_todo(this)" />
+    </span>
+    <span style="float: left; margin-top: -8px; margin-bottom: 8px;  margin-left: 5px; line-height: 10px;">
+        <font color="#1A4E7D">
+        <b>Seleccionar Todo</b>
+        </font>
+    </span>
+</div>
+-->
+
+				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+												<div class="tcg-elevator">
+
+
+																													<h2 class="categoria_titulo"><span class="tcg-elevator-toggle cls-contenedor-icono"><a id="icono29" class="cls-icono-texto"></a></span><a href='/estadisticas/series/mensuales/bonos-mill-soles'>Bonos (millones S/)
+
+														<font style='text-transform: lowercase; font-size: 12px;'> - (31 series)</font>													</a>
+													
+
+												</h2>
+
+
+											
+
+											<div class="tcg-elevator-content">
+
+												<table title="" summary="" class="series">
+													<tr>
+														<th class="class5" align="center">
+
+
+															
+
+
+															<label for="idSerie125_all"></label>
+															<input type="checkbox" name="idSerie125_all" id="idSerie125_all" class="idSerie125_all" />
+														</th>
+														<th class="class10">Código</th>
+														<th class="class40">Serie</th>
+														<th class="class15">
+															<center>Fecha Inicio</center>
+														</th>
+														<th class="class15">
+															<center>Fecha Fin</center>
+														</th>
+														<th class="class15" abbr="Ult. Act.">
+															<center>Última Actualización</center>
+														</th>
+													</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5486"></label>
+																	<input type="checkbox" id="idSerie5486" class="idSerie125" name="idSerie125" value="PN01063MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01063MM/html">PN01063MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01063MM/html">Sector Privado </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5487"></label>
+																	<input type="checkbox" id="idSerie5487" class="idSerie125" name="idSerie125" value="PN01064MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01064MM/html">PN01064MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01064MM/html">Sector Privado - Colocación </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5488"></label>
+																	<input type="checkbox" id="idSerie5488" class="idSerie125" name="idSerie125" value="PN01065MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01065MM/html">PN01065MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01065MM/html">Sector Privado - Redención </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5489"></label>
+																	<input type="checkbox" id="idSerie5489" class="idSerie125" name="idSerie125" value="PN01066MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01066MM/html">PN01066MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01066MM/html">Sector Privado - Bonos de Entidades Financieras </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5490"></label>
+																	<input type="checkbox" id="idSerie5490" class="idSerie125" name="idSerie125" value="PN01067MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01067MM/html">PN01067MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01067MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos de Arrendamiento Financiero </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5491"></label>
+																	<input type="checkbox" id="idSerie5491" class="idSerie125" name="idSerie125" value="PN01068MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01068MM/html">PN01068MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01068MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos de Arrendamiento Financiero - Colocación </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5492"></label>
+																	<input type="checkbox" id="idSerie5492" class="idSerie125" name="idSerie125" value="PN01069MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01069MM/html">PN01069MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01069MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos de Arrendamiento Financiero - Redención </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5493"></label>
+																	<input type="checkbox" id="idSerie5493" class="idSerie125" name="idSerie125" value="PN01070MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01070MM/html">PN01070MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01070MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos Subordinados </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5494"></label>
+																	<input type="checkbox" id="idSerie5494" class="idSerie125" name="idSerie125" value="PN01071MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01071MM/html">PN01071MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01071MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos Subordinados - Colocación </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5495"></label>
+																	<input type="checkbox" id="idSerie5495" class="idSerie125" name="idSerie125" value="PN01072MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01072MM/html">PN01072MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01072MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos Subordinados - Redención </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5496"></label>
+																	<input type="checkbox" id="idSerie5496" class="idSerie125" name="idSerie125" value="PN01073MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01073MM/html">PN01073MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01073MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos Hipotecarios </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5497"></label>
+																	<input type="checkbox" id="idSerie5497" class="idSerie125" name="idSerie125" value="PN01074MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01074MM/html">PN01074MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01074MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos Hipotecarios - Colocación </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5498"></label>
+																	<input type="checkbox" id="idSerie5498" class="idSerie125" name="idSerie125" value="PN01075MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01075MM/html">PN01075MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01075MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos Hipotecarios - Redención </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5499"></label>
+																	<input type="checkbox" id="idSerie5499" class="idSerie125" name="idSerie125" value="PN01076MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01076MM/html">PN01076MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01076MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos Corporativos </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5500"></label>
+																	<input type="checkbox" id="idSerie5500" class="idSerie125" name="idSerie125" value="PN01077MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01077MM/html">PN01077MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01077MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos Corporativos - Colocación </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5501"></label>
+																	<input type="checkbox" id="idSerie5501" class="idSerie125" name="idSerie125" value="PN01078MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01078MM/html">PN01078MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01078MM/html">Sector Privado - Bonos de Entidades Financieras - Bonos Corporativos - Redención </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5502"></label>
+																	<input type="checkbox" id="idSerie5502" class="idSerie125" name="idSerie125" value="PN01079MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01079MM/html">PN01079MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01079MM/html">Sector Privado - Bonos de Entidades No Financieras </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5503"></label>
+																	<input type="checkbox" id="idSerie5503" class="idSerie125" name="idSerie125" value="PN01080MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01080MM/html">PN01080MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01080MM/html">Sector Privado - Bonos de Entidades No Financieras - Bonos Corporativos </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5504"></label>
+																	<input type="checkbox" id="idSerie5504" class="idSerie125" name="idSerie125" value="PN01081MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01081MM/html">PN01081MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01081MM/html">Sector Privado - Bonos de Entidades No Financieras - Bonos Corporativos - Colocación </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5505"></label>
+																	<input type="checkbox" id="idSerie5505" class="idSerie125" name="idSerie125" value="PN01082MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01082MM/html">PN01082MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01082MM/html">Sector Privado - Bonos de Entidades No Financieras - Bonos Corporativos - Redención </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5506"></label>
+																	<input type="checkbox" id="idSerie5506" class="idSerie125" name="idSerie125" value="PN01083MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01083MM/html">PN01083MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01083MM/html">Sector Privado - Bonos de Entidades No Financieras - Bonos de Titulización </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5507"></label>
+																	<input type="checkbox" id="idSerie5507" class="idSerie125" name="idSerie125" value="PN01084MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01084MM/html">PN01084MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01084MM/html">Sector Privado - Bonos de Entidades No Financieras - Bonos de Titulización - Colocación </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5508"></label>
+																	<input type="checkbox" id="idSerie5508" class="idSerie125" name="idSerie125" value="PN01085MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01085MM/html">PN01085MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01085MM/html">Sector Privado - Bonos de Entidades No Financieras - Bonos de Titulización - Redención </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5509"></label>
+																	<input type="checkbox" id="idSerie5509" class="idSerie125" name="idSerie125" value="PN01086MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01086MM/html">PN01086MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01086MM/html">Valores del Sector Público por Poseedor </a></td>
+																<td>
+																	<center>Ene-2011</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5510"></label>
+																	<input type="checkbox" id="idSerie5510" class="idSerie125" name="idSerie125" value="PN01087MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01087MM/html">PN01087MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01087MM/html">Valores del Sector Público por Poseedor - Sistema Financiero Nacional </a></td>
+																<td>
+																	<center>Ene-2011</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5511"></label>
+																	<input type="checkbox" id="idSerie5511" class="idSerie125" name="idSerie125" value="PN01088MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01088MM/html">PN01088MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01088MM/html">Valores del Sector Público por Poseedor - Sistema Financiero Nacional - Empresas Bancarias </a></td>
+																<td>
+																	<center>Ene-2011</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5512"></label>
+																	<input type="checkbox" id="idSerie5512" class="idSerie125" name="idSerie125" value="PN01089MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01089MM/html">PN01089MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01089MM/html">Valores del Sector Público por Poseedor - Sistema Financiero Nacional - Banco de la Nación </a></td>
+																<td>
+																	<center>Ene-2011</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5513"></label>
+																	<input type="checkbox" id="idSerie5513" class="idSerie125" name="idSerie125" value="PN01092MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01092MM/html">PN01092MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01092MM/html">Valores del Sector Público por Poseedor - Sistema Financiero Nacional - Resto </a></td>
+																<td>
+																	<center>Ene-2011</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5514"></label>
+																	<input type="checkbox" id="idSerie5514" class="idSerie125" name="idSerie125" value="PN01093MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01093MM/html">PN01093MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01093MM/html">Valores del Sector Público por Poseedor - Sector Público No Financiero </a></td>
+																<td>
+																	<center>Ene-2011</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5515"></label>
+																	<input type="checkbox" id="idSerie5515" class="idSerie125" name="idSerie125" value="PN01094MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01094MM/html">PN01094MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01094MM/html">Valores del Sector Público por Poseedor - Sector Privado </a></td>
+																<td>
+																	<center>Ene-2011</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5516"></label>
+																	<input type="checkbox" id="idSerie5516" class="idSerie125" name="idSerie125" value="PN01095MM|29" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01095MM/html">PN01095MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01095MM/html">Valores del Sector Público por Poseedor - No Residentes </a></td>
+																<td>
+																	<center>Ene-2011</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																									</table>
+																									<p class="fuente">Fuente: SMV, BVL, Cavali, Ministerio de Economía y Finanzas.</p>
+												
+											</div>
+
+																	</div>
+				
+												<div class="tcg-elevator">
+
+
+																													<h2 class="categoria_titulo"><span class="tcg-elevator-toggle cls-contenedor-icono"><a id="icono30" class="cls-icono-texto"></a></span><a href='/estadisticas/series/mensuales/bonos-del-sector-privado-por-moneda-y-plazo'>Bonos del sector privado por moneda y plazo
+
+														<font style='text-transform: lowercase; font-size: 12px;'> - (26 series)</font>													</a>
+													
+
+												</h2>
+
+
+											
+
+											<div class="tcg-elevator-content">
+
+												<table title="" summary="" class="series">
+													<tr>
+														<th class="class5" align="center">
+
+
+															
+
+
+															<label for="idSerie126_all"></label>
+															<input type="checkbox" name="idSerie126_all" id="idSerie126_all" class="idSerie126_all" />
+														</th>
+														<th class="class10">Código</th>
+														<th class="class40">Serie</th>
+														<th class="class15">
+															<center>Fecha Inicio</center>
+														</th>
+														<th class="class15">
+															<center>Fecha Fin</center>
+														</th>
+														<th class="class15" abbr="Ult. Act.">
+															<center>Última Actualización</center>
+														</th>
+													</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5517"></label>
+																	<input type="checkbox" id="idSerie5517" class="idSerie126" name="idSerie126" value="PN01103MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01103MM/html">PN01103MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01103MM/html">Saldos - Por Plazo - Hasta 3 años (millones S/) </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5518"></label>
+																	<input type="checkbox" id="idSerie5518" class="idSerie126" name="idSerie126" value="PN01104MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01104MM/html">PN01104MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01104MM/html">Saldos - Por Plazo - De 3 hasta 5 años (millones S/) </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5519"></label>
+																	<input type="checkbox" id="idSerie5519" class="idSerie126" name="idSerie126" value="PN01105MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01105MM/html">PN01105MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01105MM/html">Saldos - Por Plazo - Más de 5 años (millones S/) </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5520"></label>
+																	<input type="checkbox" id="idSerie5520" class="idSerie126" name="idSerie126" value="PN01106MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01106MM/html">PN01106MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01106MM/html">Participación por Monedas (participación porcentual) </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5521"></label>
+																	<input type="checkbox" id="idSerie5521" class="idSerie126" name="idSerie126" value="PN01107MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01107MM/html">PN01107MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01107MM/html">Participación por Monedas - MN (participación porcentual) </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5522"></label>
+																	<input type="checkbox" id="idSerie5522" class="idSerie126" name="idSerie126" value="PN01108MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01108MM/html">PN01108MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01108MM/html">Participación por Monedas - MN - Bonos Nominales (participación porcentual) </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5523"></label>
+																	<input type="checkbox" id="idSerie5523" class="idSerie126" name="idSerie126" value="PN01109MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01109MM/html">PN01109MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01109MM/html">Participación por Monedas - MN - Bonos Indexados al VAC (participación porcentual) </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5524"></label>
+																	<input type="checkbox" id="idSerie5524" class="idSerie126" name="idSerie126" value="PN01110MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01110MM/html">PN01110MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01110MM/html">Participación por Monedas - MN - Otros Bonos Indexados (participación porcentual) </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5525"></label>
+																	<input type="checkbox" id="idSerie5525" class="idSerie126" name="idSerie126" value="PN01111MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01111MM/html">PN01111MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01111MM/html">Participación por Monedas - ME (participación porcentual) </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5526"></label>
+																	<input type="checkbox" id="idSerie5526" class="idSerie126" name="idSerie126" value="PN01112MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01112MM/html">PN01112MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01112MM/html">Tasas Interés - Bonos en S/ Nominales </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5527"></label>
+																	<input type="checkbox" id="idSerie5527" class="idSerie126" name="idSerie126" value="PN01113MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01113MM/html">PN01113MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01113MM/html">Tasas Interés - Bonos en S/ Nominales - Hasta 3 años </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5528"></label>
+																	<input type="checkbox" id="idSerie5528" class="idSerie126" name="idSerie126" value="PN01114MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01114MM/html">PN01114MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01114MM/html">Tasas Interés - Bonos en S/ Nominales - De 3 hasta 5 años </a></td>
+																<td>
+																	<center>Ago-2003</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5529"></label>
+																	<input type="checkbox" id="idSerie5529" class="idSerie126" name="idSerie126" value="PN01115MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01115MM/html">PN01115MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01115MM/html">Tasas Interés - Bonos en S/ Nominales - Más de 5 años </a></td>
+																<td>
+																	<center>Jun-2005</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5530"></label>
+																	<input type="checkbox" id="idSerie5530" class="idSerie126" name="idSerie126" value="PN01116MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01116MM/html">PN01116MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01116MM/html">Tasas Interés - Bonos en S/ Indexados al VAC </a></td>
+																<td>
+																	<center>Abr-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5531"></label>
+																	<input type="checkbox" id="idSerie5531" class="idSerie126" name="idSerie126" value="PN01117MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01117MM/html">PN01117MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01117MM/html">Tasas Interés - Bonos en S/ Indexados al VAC - Hasta 3 años </a></td>
+																<td>
+																	<center>Ene-2008</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5532"></label>
+																	<input type="checkbox" id="idSerie5532" class="idSerie126" name="idSerie126" value="PN01118MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01118MM/html">PN01118MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01118MM/html">Tasas Interés - Bonos en S/ Indexados al VAC - De 3 hasta 5 años </a></td>
+																<td>
+																	<center>Abr-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5533"></label>
+																	<input type="checkbox" id="idSerie5533" class="idSerie126" name="idSerie126" value="PN01119MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01119MM/html">PN01119MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01119MM/html">Tasas Interés - Bonos en S/ Indexados al VAC - Más de 5 años </a></td>
+																<td>
+																	<center>Abr-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5534"></label>
+																	<input type="checkbox" id="idSerie5534" class="idSerie126" name="idSerie126" value="PN01120MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01120MM/html">PN01120MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01120MM/html">Tasas Interés - Bonos ME </a></td>
+																<td>
+																	<center>Feb-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5535"></label>
+																	<input type="checkbox" id="idSerie5535" class="idSerie126" name="idSerie126" value="PN01121MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01121MM/html">PN01121MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01121MM/html">Tasas Interés - Bonos ME - Hasta 3 años </a></td>
+																<td>
+																	<center>Feb-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5536"></label>
+																	<input type="checkbox" id="idSerie5536" class="idSerie126" name="idSerie126" value="PN01122MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01122MM/html">PN01122MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01122MM/html">Tasas Interés - Bonos ME - De 3 hasta 5 años </a></td>
+																<td>
+																	<center>Oct-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5537"></label>
+																	<input type="checkbox" id="idSerie5537" class="idSerie126" name="idSerie126" value="PN01123MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01123MM/html">PN01123MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01123MM/html">Tasas Interés - Bonos ME - Más de 5 años </a></td>
+																<td>
+																	<center>Abr-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5538"></label>
+																	<input type="checkbox" id="idSerie5538" class="idSerie126" name="idSerie126" value="PN01124MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01124MM/html">PN01124MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01124MM/html">Tasas Interés - Memo Tasas Bonos Tesoro Público - Hasta 5 años </a></td>
+																<td>
+																	<center>Ene-2002</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5539"></label>
+																	<input type="checkbox" id="idSerie5539" class="idSerie126" name="idSerie126" value="PN01125MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01125MM/html">PN01125MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01125MM/html">Tasas Interés - Memo Tasas Bonos Tesoro Público - De 5 hasta 10 años </a></td>
+																<td>
+																	<center>Mar-2004</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5540"></label>
+																	<input type="checkbox" id="idSerie5540" class="idSerie126" name="idSerie126" value="PN01126MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01126MM/html">PN01126MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01126MM/html">Tasas Interés - Memo Tasas Bonos Tesoro Público - De 10 hasta 15 años </a></td>
+																<td>
+																	<center>Jul-2005</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5541"></label>
+																	<input type="checkbox" id="idSerie5541" class="idSerie126" name="idSerie126" value="PN01127MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01127MM/html">PN01127MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01127MM/html">Tasas Interés - Memo Tasas Bonos Tesoro Público - De 15 hasta 20 años </a></td>
+																<td>
+																	<center>May-2006</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5542"></label>
+																	<input type="checkbox" id="idSerie5542" class="idSerie126" name="idSerie126" value="PN01128MM|30" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01128MM/html">PN01128MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01128MM/html">Tasas Interés - Memo Tasas Bonos Tesoro Público - Más de 20 años </a></td>
+																<td>
+																	<center>Jul-2007</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																									</table>
+																									<p class="fuente">Fuente: SMV, BVL, Cavali, Ministerio de Economía y Finanzas.</p>
+												
+											</div>
+
+																	</div>
+				
+												<div class="tcg-elevator">
+
+
+																													<h2 class="categoria_titulo"><span class="tcg-elevator-toggle cls-contenedor-icono"><a id="icono32" class="cls-icono-texto"></a></span><a href='/estadisticas/series/mensuales/bolsa-de-valores-de-lima'>Bolsa de Valores de Lima
+
+														<font style='text-transform: lowercase; font-size: 12px;'> - (27 series)</font>													</a>
+													
+
+												</h2>
+
+
+											
+
+											<div class="tcg-elevator-content">
+
+												<table title="" summary="" class="series">
+													<tr>
+														<th class="class5" align="center">
+
+
+															
+
+
+															<label for="idSerie127_all"></label>
+															<input type="checkbox" name="idSerie127_all" id="idSerie127_all" class="idSerie127_all" />
+														</th>
+														<th class="class10">Código</th>
+														<th class="class40">Serie</th>
+														<th class="class15">
+															<center>Fecha Inicio</center>
+														</th>
+														<th class="class15">
+															<center>Fecha Fin</center>
+														</th>
+														<th class="class15" abbr="Ult. Act.">
+															<center>Última Actualización</center>
+														</th>
+													</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5543"></label>
+																	<input type="checkbox" id="idSerie5543" class="idSerie127" name="idSerie127" value="PN01142MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01142MM/html">PN01142MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01142MM/html">Índices Bursátiles - Índice General BVL (base 31/12/91 = 100) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5544"></label>
+																	<input type="checkbox" id="idSerie5544" class="idSerie127" name="idSerie127" value="PN01143MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01143MM/html">PN01143MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01143MM/html">Índices Bursátiles - Índice Selectivo BVL (base 31/12/91 = 100) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2025</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5545"></label>
+																	<input type="checkbox" id="idSerie5545" class="idSerie127" name="idSerie127" value="PN01144MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01144MM/html">PN01144MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01144MM/html">Índices Bursátiles - Bancos (base 30/10/98 = 100) (descontinuada) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Abr-2015</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5546"></label>
+																	<input type="checkbox" id="idSerie5546" class="idSerie127" name="idSerie127" value="PN01145MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01145MM/html">PN01145MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01145MM/html">Índices Bursátiles - Industrial (base 30/10/98 = 100) (descontinuada) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Abr-2015</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5547"></label>
+																	<input type="checkbox" id="idSerie5547" class="idSerie127" name="idSerie127" value="PN01146MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01146MM/html">PN01146MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01146MM/html">Índices Bursátiles - Mineras (base 30/10/98 = 100) (descontinuada) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Abr-2015</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5548"></label>
+																	<input type="checkbox" id="idSerie5548" class="idSerie127" name="idSerie127" value="PN01147MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01147MM/html">PN01147MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01147MM/html">Índices Bursátiles - Servicios (base 30/10/98 = 100) (descontinuada) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Abr-2015</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5549"></label>
+																	<input type="checkbox" id="idSerie5549" class="idSerie127" name="idSerie127" value="PN01148MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01148MM/html">PN01148MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01148MM/html">Índices Bursátiles - SP/BVL - Financial (base 30/10/98 = 100) </a></td>
+																<td>
+																	<center>May-2015</center>
+																</td>
+																<td>
+																	<center>Ago-2025</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5550"></label>
+																	<input type="checkbox" id="idSerie5550" class="idSerie127" name="idSerie127" value="PN01149MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01149MM/html">PN01149MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01149MM/html">Índices Bursátiles - SP/BVL - Industrial (base 30/10/98 = 100) </a></td>
+																<td>
+																	<center>May-2015</center>
+																</td>
+																<td>
+																	<center>Ago-2025</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5551"></label>
+																	<input type="checkbox" id="idSerie5551" class="idSerie127" name="idSerie127" value="PN01150MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01150MM/html">PN01150MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01150MM/html">Índices Bursátiles - SP/BVL - Mining (base 30/10/98 = 100) </a></td>
+																<td>
+																	<center>May-2015</center>
+																</td>
+																<td>
+																	<center>Ago-2025</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5552"></label>
+																	<input type="checkbox" id="idSerie5552" class="idSerie127" name="idSerie127" value="PN01151MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01151MM/html">PN01151MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01151MM/html">Índices Bursátiles - SP/BVL - Services (base 30/10/98 = 100) </a></td>
+																<td>
+																	<center>May-2015</center>
+																</td>
+																<td>
+																	<center>Ago-2025</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5553"></label>
+																	<input type="checkbox" id="idSerie5553" class="idSerie127" name="idSerie127" value="PN01152MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01152MM/html">PN01152MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01152MM/html">Cotización de Títulos Peruanos en Nueva York (US$) - Minas Buenaventura </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5554"></label>
+																	<input type="checkbox" id="idSerie5554" class="idSerie127" name="idSerie127" value="PN10221MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN10221MM/html">PN10221MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN10221MM/html">Cotización de Títulos Peruanos en Nueva York (US$) - Cementos Pacasmayo </a></td>
+																<td>
+																	<center>Jul-2013</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5555"></label>
+																	<input type="checkbox" id="idSerie5555" class="idSerie127" name="idSerie127" value="PN01153MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01153MM/html">PN01153MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01153MM/html">Cotización de Títulos Peruanos en Nueva York (US$) - Credicorp Ltd. </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5556"></label>
+																	<input type="checkbox" id="idSerie5556" class="idSerie127" name="idSerie127" value="PN01154MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01154MM/html">PN01154MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01154MM/html">Cotización de Títulos Peruanos en Nueva York (US$) - Southern Perú </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5557"></label>
+																	<input type="checkbox" id="idSerie5557" class="idSerie127" name="idSerie127" value="PN01155MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01155MM/html">PN01155MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01155MM/html">Capitalización Bursátil (millones S/) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5558"></label>
+																	<input type="checkbox" id="idSerie5558" class="idSerie127" name="idSerie127" value="PN01156MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01156MM/html">PN01156MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01156MM/html">Tasas Efectivas Anuales - Operaciones de Reporte - MN (S/) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5559"></label>
+																	<input type="checkbox" id="idSerie5559" class="idSerie127" name="idSerie127" value="PN01157MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01157MM/html">PN01157MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01157MM/html">Tasas Efectivas Anuales - Operaciones de Reporte - ME (US$) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5560"></label>
+																	<input type="checkbox" id="idSerie5560" class="idSerie127" name="idSerie127" value="PN01158MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01158MM/html">PN01158MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01158MM/html">Montos Negociados en Bolsa (millones S/) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5561"></label>
+																	<input type="checkbox" id="idSerie5561" class="idSerie127" name="idSerie127" value="PN01159MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01159MM/html">PN01159MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01159MM/html">Montos Negociados en Bolsa - Renta Variable (millones S/) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5562"></label>
+																	<input type="checkbox" id="idSerie5562" class="idSerie127" name="idSerie127" value="PN01160MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01160MM/html">PN01160MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01160MM/html">Montos Negociados en Bolsa - Renta Variable - Operaciones al Contado (millones S/) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5563"></label>
+																	<input type="checkbox" id="idSerie5563" class="idSerie127" name="idSerie127" value="PN01161MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01161MM/html">PN01161MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01161MM/html">Montos Negociados en Bolsa - Renta Variable - Operaciones de Reporte (millones S/) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5564"></label>
+																	<input type="checkbox" id="idSerie5564" class="idSerie127" name="idSerie127" value="PN01162MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01162MM/html">PN01162MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01162MM/html">Montos Negociados en Bolsa - Renta Fija (millones S/) </a></td>
+																<td>
+																	<center>Ene-1999</center>
+																</td>
+																<td>
+																	<center>Sep-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5565"></label>
+																	<input type="checkbox" id="idSerie5565" class="idSerie127" name="idSerie127" value="PN01163MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01163MM/html">PN01163MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01163MM/html">Tenencias Desmaterializadas en CAVALI (millones S/) </a></td>
+																<td>
+																	<center>Dic-2005</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5566"></label>
+																	<input type="checkbox" id="idSerie5566" class="idSerie127" name="idSerie127" value="PN01164MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01164MM/html">PN01164MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01164MM/html">Participación Porcentual de no Residentes (porcentaje) </a></td>
+																<td>
+																	<center>Dic-2005</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5567"></label>
+																	<input type="checkbox" id="idSerie5567" class="idSerie127" name="idSerie127" value="PN01165MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01165MM/html">PN01165MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01165MM/html">Participación Porcentual de no Residentes - Renta Variable (porcentaje) </a></td>
+																<td>
+																	<center>Dic-2005</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5568"></label>
+																	<input type="checkbox" id="idSerie5568" class="idSerie127" name="idSerie127" value="PN01166MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01166MM/html">PN01166MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01166MM/html">Participación Porcentual de no Residentes - Renta Fija (porcentaje) </a></td>
+																<td>
+																	<center>Dic-2005</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5569"></label>
+																	<input type="checkbox" id="idSerie5569" class="idSerie127" name="idSerie127" value="PN10065MM|32" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN10065MM/html">PN10065MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN10065MM/html">Capitalización Bursátil (millones US$) (descontinuada) </a></td>
+																<td>
+																	<center>Ene-1992</center>
+																</td>
+																<td>
+																	<center>Nov-2016</center>
+																</td>
+																<td>
+																	<center>24-12-2021</center>
+																</td>
+															</tr>
+																									</table>
+																									<p class="fuente">Fuente: BVL, Cavali.</p>
+												
+											</div>
+
+																	</div>
+				
+												<div class="tcg-elevator">
+
+
+																													<h2 class="categoria_titulo"><span class="tcg-elevator-toggle cls-contenedor-icono"><a id="icono33" class="cls-icono-texto"></a></span><a href='/estadisticas/series/mensuales/sistema-privado-de-pensiones-m'>Sistema privado de pensiones
+
+														<font style='text-transform: lowercase; font-size: 12px;'> - (38 series)</font>													</a>
+													
+
+												</h2>
+
+
+											
+
+											<div class="tcg-elevator-content">
+
+												<table title="" summary="" class="series">
+													<tr>
+														<th class="class5" align="center">
+
+
+															
+
+
+															<label for="idSerie128_all"></label>
+															<input type="checkbox" name="idSerie128_all" id="idSerie128_all" class="idSerie128_all" />
+														</th>
+														<th class="class10">Código</th>
+														<th class="class40">Serie</th>
+														<th class="class15">
+															<center>Fecha Inicio</center>
+														</th>
+														<th class="class15">
+															<center>Fecha Fin</center>
+														</th>
+														<th class="class15" abbr="Ult. Act.">
+															<center>Última Actualización</center>
+														</th>
+													</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5570"></label>
+																	<input type="checkbox" id="idSerie5570" class="idSerie128" name="idSerie128" value="PN01167MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01167MM/html">PN01167MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01167MM/html">Valor del Fondo (millones S/) </a></td>
+																<td>
+																	<center>Ago-1993</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5571"></label>
+																	<input type="checkbox" id="idSerie5571" class="idSerie128" name="idSerie128" value="PN01168MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01168MM/html">PN01168MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01168MM/html">Valor del Fondo - AFP Habitat (millones S/) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5572"></label>
+																	<input type="checkbox" id="idSerie5572" class="idSerie128" name="idSerie128" value="PN01169MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01169MM/html">PN01169MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01169MM/html">Valor del Fondo - AFP Integra (millones S/) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5573"></label>
+																	<input type="checkbox" id="idSerie5573" class="idSerie128" name="idSerie128" value="PN01170MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01170MM/html">PN01170MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01170MM/html">Valor del Fondo - AFP Prima (millones S/) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5574"></label>
+																	<input type="checkbox" id="idSerie5574" class="idSerie128" name="idSerie128" value="PN01171MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01171MM/html">PN01171MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01171MM/html">Valor del Fondo - AFP Profuturo (millones S/) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5575"></label>
+																	<input type="checkbox" id="idSerie5575" class="idSerie128" name="idSerie128" value="PN01172MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01172MM/html">PN01172MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01172MM/html">Valor del Fondo (millones US$) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5576"></label>
+																	<input type="checkbox" id="idSerie5576" class="idSerie128" name="idSerie128" value="PN01173MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01173MM/html">PN01173MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01173MM/html">Número de Afiliados (miles) </a></td>
+																<td>
+																	<center>Jun-1993</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5577"></label>
+																	<input type="checkbox" id="idSerie5577" class="idSerie128" name="idSerie128" value="PN01174MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01174MM/html">PN01174MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01174MM/html">Número de Afiliados - AFP Habitat (miles) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5578"></label>
+																	<input type="checkbox" id="idSerie5578" class="idSerie128" name="idSerie128" value="PN01175MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01175MM/html">PN01175MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01175MM/html">Número de Afiliados - AFP Integra (miles) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5579"></label>
+																	<input type="checkbox" id="idSerie5579" class="idSerie128" name="idSerie128" value="PN01176MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01176MM/html">PN01176MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01176MM/html">Número de Afiliados - AFP Prima (miles) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5580"></label>
+																	<input type="checkbox" id="idSerie5580" class="idSerie128" name="idSerie128" value="PN01177MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01177MM/html">PN01177MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01177MM/html">Número de Afiliados - AFP Profuturo (miles) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5581"></label>
+																	<input type="checkbox" id="idSerie5581" class="idSerie128" name="idSerie128" value="PN01178MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01178MM/html">PN01178MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01178MM/html">Rentabilidad Real Últimos 12 meses </a></td>
+																<td>
+																	<center>Ago-1994</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5582"></label>
+																	<input type="checkbox" id="idSerie5582" class="idSerie128" name="idSerie128" value="PN01179MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01179MM/html">PN01179MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01179MM/html">Rentabilidad Real Últimos 12 meses - AFP Habitat </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5583"></label>
+																	<input type="checkbox" id="idSerie5583" class="idSerie128" name="idSerie128" value="PN01180MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01180MM/html">PN01180MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01180MM/html">Rentabilidad Real Últimos 12 meses - AFP Integra </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5584"></label>
+																	<input type="checkbox" id="idSerie5584" class="idSerie128" name="idSerie128" value="PN01181MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01181MM/html">PN01181MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01181MM/html">Rentabilidad Real Últimos 12 meses - AFP Prima </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5585"></label>
+																	<input type="checkbox" id="idSerie5585" class="idSerie128" name="idSerie128" value="PN01182MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01182MM/html">PN01182MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01182MM/html">Rentabilidad Real Últimos 12 meses - AFP Profuturo </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5586"></label>
+																	<input type="checkbox" id="idSerie5586" class="idSerie128" name="idSerie128" value="PN01183MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01183MM/html">PN01183MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01183MM/html">Cartera de Inversiones (millones S/) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5587"></label>
+																	<input type="checkbox" id="idSerie5587" class="idSerie128" name="idSerie128" value="PN01184MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01184MM/html">PN01184MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01184MM/html">Cartera de Inversiones (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5588"></label>
+																	<input type="checkbox" id="idSerie5588" class="idSerie128" name="idSerie128" value="PN01185MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01185MM/html">PN01185MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01185MM/html">Cartera de Inversiones - Valores Gubernamentales (composición porcentual) </a></td>
+																<td>
+																	<center>Dic-1996</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5589"></label>
+																	<input type="checkbox" id="idSerie5589" class="idSerie128" name="idSerie128" value="PN01186MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01186MM/html">PN01186MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01186MM/html">Cartera de Inversiones - Valores Gubernamentales - gobierno central (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5590"></label>
+																	<input type="checkbox" id="idSerie5590" class="idSerie128" name="idSerie128" value="PN01187MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01187MM/html">PN01187MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01187MM/html">Cartera de Inversiones - Valores Gubernamentales - Banco Central (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5591"></label>
+																	<input type="checkbox" id="idSerie5591" class="idSerie128" name="idSerie128" value="PN01188MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01188MM/html">PN01188MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01188MM/html">Cartera de Inversiones - Empresas del Sistema Financiero (composición porcentual) </a></td>
+																<td>
+																	<center>Dic-1996</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5592"></label>
+																	<input type="checkbox" id="idSerie5592" class="idSerie128" name="idSerie128" value="PN01189MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01189MM/html">PN01189MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01189MM/html">Cartera de Inversiones - Empresas del Sistema Financiero - Depósitos en moneda nacional (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5593"></label>
+																	<input type="checkbox" id="idSerie5593" class="idSerie128" name="idSerie128" value="PN01190MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01190MM/html">PN01190MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01190MM/html">Cartera de Inversiones - Empresas del Sistema Financiero - Depósitos en moneda extranjera (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5594"></label>
+																	<input type="checkbox" id="idSerie5594" class="idSerie128" name="idSerie128" value="PN01191MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01191MM/html">PN01191MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01191MM/html">Cartera de Inversiones - Empresas del Sistema Financiero - Acciones (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5595"></label>
+																	<input type="checkbox" id="idSerie5595" class="idSerie128" name="idSerie128" value="PN01192MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01192MM/html">PN01192MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01192MM/html">Cartera de Inversiones - Empresas del Sistema Financiero - Bonos (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5596"></label>
+																	<input type="checkbox" id="idSerie5596" class="idSerie128" name="idSerie128" value="PN01193MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01193MM/html">PN01193MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01193MM/html">Cartera de Inversiones - Empresas del Sistema Financiero - Otros (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5597"></label>
+																	<input type="checkbox" id="idSerie5597" class="idSerie128" name="idSerie128" value="PN01194MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01194MM/html">PN01194MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01194MM/html">Cartera de Inversiones - Empresas no Financieras (composición porcentual) </a></td>
+																<td>
+																	<center>Dic-1996</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5598"></label>
+																	<input type="checkbox" id="idSerie5598" class="idSerie128" name="idSerie128" value="PN01195MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01195MM/html">PN01195MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01195MM/html">Cartera de Inversiones - Empresas no Financieras - Acciones comunes y de inversión (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5599"></label>
+																	<input type="checkbox" id="idSerie5599" class="idSerie128" name="idSerie128" value="PN01196MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01196MM/html">PN01196MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01196MM/html">Cartera de Inversiones - Empresas no Financieras - Bonos corporativos (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5600"></label>
+																	<input type="checkbox" id="idSerie5600" class="idSerie128" name="idSerie128" value="PN01197MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01197MM/html">PN01197MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01197MM/html">Cartera de Inversiones - Empresas no Financieras - Otros (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5601"></label>
+																	<input type="checkbox" id="idSerie5601" class="idSerie128" name="idSerie128" value="PN01198MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01198MM/html">PN01198MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01198MM/html">Cartera de Inversiones - Inversiones en el Exterior (composición porcentual) </a></td>
+																<td>
+																	<center>Dic-1996</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5602"></label>
+																	<input type="checkbox" id="idSerie5602" class="idSerie128" name="idSerie128" value="PN01199MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01199MM/html">PN01199MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01199MM/html">Cartera de Inversiones - Inversiones en el Exterior - Títulos de deuda extranjeros (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5603"></label>
+																	<input type="checkbox" id="idSerie5603" class="idSerie128" name="idSerie128" value="PN01200MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01200MM/html">PN01200MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01200MM/html">Cartera de Inversiones - Inversiones en el Exterior - Depósitos (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5604"></label>
+																	<input type="checkbox" id="idSerie5604" class="idSerie128" name="idSerie128" value="PN01201MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01201MM/html">PN01201MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01201MM/html">Cartera de Inversiones - Inversiones en el Exterior - Fondos Mutuos extranjeros (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5605"></label>
+																	<input type="checkbox" id="idSerie5605" class="idSerie128" name="idSerie128" value="PN01202MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01202MM/html">PN01202MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01202MM/html">Cartera de Inversiones - Inversiones en el Exterior - Acciones de empresas extranjeras (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5606"></label>
+																	<input type="checkbox" id="idSerie5606" class="idSerie128" name="idSerie128" value="PN01203MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01203MM/html">PN01203MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01203MM/html">Cartera de Inversiones - Inversiones en el Exterior - American Depositary Shares (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5607"></label>
+																	<input type="checkbox" id="idSerie5607" class="idSerie128" name="idSerie128" value="PN01204MM|33" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN01204MM/html">PN01204MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN01204MM/html">Cartera de Inversiones - Inversiones en el Exterior - Otros (composición porcentual) </a></td>
+																<td>
+																	<center>Mar-1999</center>
+																</td>
+																<td>
+																	<center>Ago-2026</center>
+																</td>
+																<td>
+																	<center>15-10-2026</center>
+																</td>
+															</tr>
+																									</table>
+																									<p class="fuente">Fuente: SBS.</p>
+												
+											</div>
+
+																	</div>
+				
+												<div class="tcg-elevator">
+
+
+																													<h2 class="categoria_titulo"><span class="tcg-elevator-toggle cls-contenedor-icono"><a id="icono154" class="cls-icono-texto"></a></span><a href='/estadisticas/series/mensuales/bonos-mill-usd'>Bonos (millones US$)
+
+														<font style='text-transform: lowercase; font-size: 12px;'> - (6 series)</font>													</a>
+													
+
+												</h2>
+
+
+											
+
+											<div class="tcg-elevator-content">
+
+												<table title="" summary="" class="series">
+													<tr>
+														<th class="class5" align="center">
+
+
+															
+
+
+															<label for="idSerie129_all"></label>
+															<input type="checkbox" name="idSerie129_all" id="idSerie129_all" class="idSerie129_all" />
+														</th>
+														<th class="class10">Código</th>
+														<th class="class40">Serie</th>
+														<th class="class15">
+															<center>Fecha Inicio</center>
+														</th>
+														<th class="class15">
+															<center>Fecha Fin</center>
+														</th>
+														<th class="class15" abbr="Ult. Act.">
+															<center>Última Actualización</center>
+														</th>
+													</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5608"></label>
+																	<input type="checkbox" id="idSerie5608" class="idSerie129" name="idSerie129" value="PN10066MM|154" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN10066MM/html">PN10066MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN10066MM/html">Saldo de Bonos Privados (descontinuada) </a></td>
+																<td>
+																	<center>Dic-1992</center>
+																</td>
+																<td>
+																	<center>Nov-2016</center>
+																</td>
+																<td>
+																	<center>24-12-2021</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5609"></label>
+																	<input type="checkbox" id="idSerie5609" class="idSerie129" name="idSerie129" value="PN10067MM|154" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN10067MM/html">PN10067MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN10067MM/html">Saldo de Bonos de Arrendamiento Financiero (descontinuada) </a></td>
+																<td>
+																	<center>Dic-1992</center>
+																</td>
+																<td>
+																	<center>Nov-2016</center>
+																</td>
+																<td>
+																	<center>24-12-2021</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5610"></label>
+																	<input type="checkbox" id="idSerie5610" class="idSerie129" name="idSerie129" value="PN10068MM|154" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN10068MM/html">PN10068MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN10068MM/html">Saldo de Bonos Subordinados (descontinuada) </a></td>
+																<td>
+																	<center>Dic-1992</center>
+																</td>
+																<td>
+																	<center>Nov-2016</center>
+																</td>
+																<td>
+																	<center>24-12-2021</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5611"></label>
+																	<input type="checkbox" id="idSerie5611" class="idSerie129" name="idSerie129" value="PN10069MM|154" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN10069MM/html">PN10069MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN10069MM/html">Saldo de Bonos Hipotecarios (descontinuada) </a></td>
+																<td>
+																	<center>Dic-1992</center>
+																</td>
+																<td>
+																	<center>Nov-2016</center>
+																</td>
+																<td>
+																	<center>24-12-2021</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5612"></label>
+																	<input type="checkbox" id="idSerie5612" class="idSerie129" name="idSerie129" value="PN10070MM|154" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN10070MM/html">PN10070MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN10070MM/html">Saldo de Bonos Corporativos (descontinuada) </a></td>
+																<td>
+																	<center>Dic-1992</center>
+																</td>
+																<td>
+																	<center>Nov-2016</center>
+																</td>
+																<td>
+																	<center>24-12-2021</center>
+																</td>
+															</tr>
+																												<tr>
+																<td>
+
+
+																	
+
+
+
+
+
+																	<label for="idSerie5613"></label>
+																	<input type="checkbox" id="idSerie5613" class="idSerie129" name="idSerie129" value="PN10071MM|154" />
+																</td>
+																<td class="class10"><a href="/estadisticas/series/mensuales/resultados/PN10071MM/html">PN10071MM</a></td>
+																<td><a href="/estadisticas/series/mensuales/resultados/PN10071MM/html">Saldo de Bonos de Titulización (descontinuada) </a></td>
+																<td>
+																	<center>Dic-1992</center>
+																</td>
+																<td>
+																	<center>Nov-2016</center>
+																</td>
+																<td>
+																	<center>24-12-2021</center>
+																</td>
+															</tr>
+																									</table>
+																									<p class="fuente">Fuente: SMV, BVL, Cavali, Ministerio de Economía y Finanzas.</p>
+												
+											</div>
+
+																	</div>
+				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+									<p>
+					<input type="hidden" id="frecuencia" name="frecuencia" value="2" />
+					<input type="hidden" id="format" name="format" value="" />
+					<input type="hidden" id="accion" name="accion" value="" />
+					<input type="hidden" id="idGrupo" name="idGrupo" value="" />
+					<input type="hidden" id="urlGrupo" name="urlGrupo" value="" />
+					<input type="hidden" id="codigos" name="codigos" value="" />
+					<input type="hidden" id="codigoscarrito" name="codigoscarrito" value="" />
+					<input type="hidden" id="codigosurl" name="codigosurl" value="" />
+					<input type="hidden" id="idiomas" name="idiomas" value="resultados" />
+					<input type="hidden" id="grupos" name="grupos" value="" />
+
+					<input type="hidden" id="enlace" name="enlace" value="mercado-de-capitales" />
+					<input type="hidden" id="codigos_a" name="codigos_a" value="" />
+					<input type="hidden" id="codigos_t" name="codigos_t" value="" />
+					<input type="hidden" id="codigos_m" name="codigos_m" value="" />
+					<input type="hidden" id="codigos_d" name="codigos_d" value="" />
+
+				</p>
+			</form>
+
+
+
+
+		</td>
+	</tr>
+
+</table>
+</div>
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=67333915" async></script></body>
+		<div class="footer-personalizado" id="footer-personalizado-principal">
+			<address class="wrapper-footer-sections datosfooter">
+			Jr. Santa Rosa 441-445, Lima-1, Perú <br>
+			Teléfono:  (511) 613 2000
+			</address>
+		</div>
+
+<script language="javascript" type="text/javascript">
+	if(document.forms[0])
+	update_counter(document.forms[0].id);
+
+	$("#button-back-nav-link").on("click", function(e) {
+		//history.go(-1);
+		console.log(document.referrer);
+		history.back();
+	});
+</script>
+
+</html>
+

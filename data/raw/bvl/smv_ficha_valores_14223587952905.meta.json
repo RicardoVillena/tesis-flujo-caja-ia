@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://mvnet.smv.gob.pe/SMV.OpenData.Web/Views/Datasets/Valores_Inscritos.aspx",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:47.551600+00:00",
+  "firma_solicitud": "1422358795290512132c52068f9e9ef2fb94b833e93373c78d146d84691ae26b",
+  "http_status": 200,
+  "url_final": "https://mvnet.smv.gob.pe/SMV.OpenData.Web/Views/Datasets/Valores_Inscritos.aspx",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "archivo": "data/raw/bvl/smv_ficha_valores_14223587952905.bin",
+  "sha256": "4ceca4bd309063b3780537ffbd73c80991665d8f10b76e37a970186748cfde3e"
+}

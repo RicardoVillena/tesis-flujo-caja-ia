@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://www.bvl.com.pe/main.51eaa9480eef072e76bb.js",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:49.334458+00:00",
+  "firma_solicitud": "ac64b246430fff4a2a88a4c6a28b793e1f066bc1d474733e1a80d3abffe8a2f8",
+  "http_status": 200,
+  "url_final": "https://www.bvl.com.pe/main.51eaa9480eef072e76bb.js",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "archivo": "data/raw/bvl/bvl_cliente_principal_ac64b246430fff.bin",
+  "sha256": "7926543a0723c6e904c0d2bbc7c14af23c1a44f9bdb36b98d68643cb3886caef"
+}

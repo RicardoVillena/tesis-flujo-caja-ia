@@ -1,0 +1,496 @@
+moneda,grupo,especificacion,experimento,variable,p01_train,p99_train,celdas_test_recortadas
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,todas,niveles_t_externos_t,E0_financiero,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,todas,niveles_t_externos_t,E0_financiero,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,todas,niveles_t_externos_t,E0_financiero,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,todas,niveles_t_externos_t,E0_financiero,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,todas,niveles_t_externos_t,E0_financiero,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,todas,niveles_t_externos_t,E0_financiero,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,todas,niveles_t_externos_t,E0_financiero,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,todas,niveles_t_externos_t,E0_financiero,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,todas,niveles_t_externos_t,E0_financiero,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,todas,niveles_t_externos_t,E0_financiero,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,todas,niveles_t_externos_t,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,todas,niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,todas,niveles_t_externos_t_1,E0_financiero,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,todas,niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,todas,niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,todas,niveles_t_externos_t_1,E0_financiero,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,todas,niveles_t_externos_t_1,E0_financiero,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,todas,niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,todas,niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,todas,niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,todas,niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,todas,niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,todas,niveles_t_externos_t,E2_bursatil,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,todas,niveles_t_externos_t,E2_bursatil,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,todas,niveles_t_externos_t,E2_bursatil,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,todas,niveles_t_externos_t,E2_bursatil,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,todas,niveles_t_externos_t,E2_bursatil,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,todas,niveles_t_externos_t,E2_bursatil,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,todas,niveles_t_externos_t,E2_bursatil,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,todas,niveles_t_externos_t,E2_bursatil,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,todas,niveles_t_externos_t,E2_bursatil,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,todas,niveles_t_externos_t,E2_bursatil,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,todas,niveles_t_externos_t,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.001290847200046325,0.9517221750923633,4
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,margen_neto,-0.504992223829139,0.9973741244655315,5
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.1743160555274825,0.563112840170947,1
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.028382118239320964,3.5412783404230117,1
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,fco_activo,-0.17153987974948737,0.6173601598672336,6
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,fco_ingresos,-0.22783565899602093,1.531604906768685,6
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,-0.0,0.31009092456451753,0
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.32123732702924385,0.7463025991581167,2
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.5404802550874447,2.534058740957904,2
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.2866445977591373,0.35150495833921785,8
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.2960880163935485,0.40349062799704366,5
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.0008752827902019311,0.9279669876252207,3
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,margen_neto,-3.984596633581886,25.264439031051882,13
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.22578027530973688,0.35831115763394594,16
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.0006906639527330443,2.203285421962389,4
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.30419034577349124,0.42731586989047937,8
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-16.308448089064893,4.983737652794766,5
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,0.0,0.200324258942594,0
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.42874309047131254,1.69112564676257,6
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.8131609664884293,3.9021105166657777,5
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.41142503372113126,0.4321317383660327,7
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.4774593257574687,0.4198121279860512,6
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.0008752827902019311,0.9279669876252207,3
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-3.984596633581886,25.264439031051882,13
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.22578027530973688,0.35831115763394594,16
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.0006906639527330443,2.203285421962389,4
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.30419034577349124,0.42731586989047937,8
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-16.308448089064893,4.983737652794766,5
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,0.0,0.200324258942594,0
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.42874309047131254,1.69112564676257,6
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.8131609664884293,3.9021105166657777,5
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.41142503372113126,0.4321317383660327,7
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.4774593257574687,0.4198121279860512,6
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.0008752827902019311,0.9279669876252207,3
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,margen_neto,-3.984596633581886,25.264439031051882,13
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.22578027530973688,0.35831115763394594,16
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.0006906639527330443,2.203285421962389,4
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,fco_activo,-0.30419034577349124,0.42731586989047937,8
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,fco_ingresos,-16.308448089064893,4.983737652794766,5
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,0.0,0.200324258942594,0
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.42874309047131254,1.69112564676257,6
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.8131609664884293,3.9021105166657777,5
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.41142503372113126,0.4321317383660327,7
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.4774593257574687,0.4198121279860512,6
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,pasivo_activo,0.0008752827902019311,0.9279669876252207,3
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,margen_neto,-3.984596633581886,25.264439031051882,13
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,rentabilidad_activo_cierre,-0.22578027530973688,0.35831115763394594,16
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,rotacion_activo_cierre,0.0006906639527330443,2.203285421962389,4
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,fco_activo,-0.30419034577349124,0.42731586989047937,8
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,fco_ingresos,-16.308448089064893,4.983737652794766,5
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,inversion_capex_activo,0.0,0.200324258942594,0
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,crecimiento_ActivoTotal,-0.42874309047131254,1.69112564676257,6
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,crecimiento_TotalIngreso,-0.8131609664884293,3.9021105166657777,5
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,cambio_FCO_activo_previo,-0.41142503372113126,0.4321317383660327,7
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.4774593257574687,0.4198121279860512,6
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,pasivo_activo,0.0008752827902019311,0.9279669876252207,3
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,margen_neto,-3.984596633581886,25.264439031051882,13
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,rentabilidad_activo_cierre,-0.22578027530973688,0.35831115763394594,16
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,rotacion_activo_cierre,0.0006906639527330443,2.203285421962389,4
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,fco_activo,-0.30419034577349124,0.42731586989047937,8
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,fco_ingresos,-16.308448089064893,4.983737652794766,5
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,inversion_capex_activo,0.0,0.200324258942594,0
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,crecimiento_ActivoTotal,-0.42874309047131254,1.69112564676257,6
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,crecimiento_TotalIngreso,-0.8131609664884293,3.9021105166657777,5
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,cambio_FCO_activo_previo,-0.41142503372113126,0.4321317383660327,7
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.4774593257574687,0.4198121279860512,6
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.0008752827902019311,0.9279669876252207,3
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-3.984596633581886,25.264439031051882,13
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.22578027530973688,0.35831115763394594,16
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.0006906639527330443,2.203285421962389,4
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.30419034577349124,0.42731586989047937,8
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-16.308448089064893,4.983737652794766,5
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,0.0,0.200324258942594,0
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.42874309047131254,1.69112564676257,6
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.8131609664884293,3.9021105166657777,5
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.41142503372113126,0.4321317383660327,7
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.4774593257574687,0.4198121279860512,6
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.0008752827902019311,0.9279669876252207,3
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,margen_neto,-3.984596633581886,25.264439031051882,13
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.22578027530973688,0.35831115763394594,16
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.0006906639527330443,2.203285421962389,4
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.30419034577349124,0.42731586989047937,8
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-16.308448089064893,4.983737652794766,5
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,0.0,0.200324258942594,0
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.42874309047131254,1.69112564676257,6
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.8131609664884293,3.9021105166657777,5
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.41142503372113126,0.4321317383660327,7
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.4774593257574687,0.4198121279860512,6
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,pasivo_activo,0.0008752827902019311,0.9279669876252207,3
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,margen_neto,-3.984596633581886,25.264439031051882,13
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,rentabilidad_activo_cierre,-0.22578027530973688,0.35831115763394594,16
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,rotacion_activo_cierre,0.0006906639527330443,2.203285421962389,4
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,fco_activo,-0.30419034577349124,0.42731586989047937,8
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,fco_ingresos,-16.308448089064893,4.983737652794766,5
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,inversion_capex_activo,0.0,0.200324258942594,0
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,crecimiento_ActivoTotal,-0.42874309047131254,1.69112564676257,6
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,crecimiento_TotalIngreso,-0.8131609664884293,3.9021105166657777,5
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,cambio_FCO_activo_previo,-0.41142503372113126,0.4321317383660327,7
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.4774593257574687,0.4198121279860512,6
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.0008752827902019311,0.9279669876252207,3
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,margen_neto,-3.984596633581886,25.264439031051882,13
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.22578027530973688,0.35831115763394594,16
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.0006906639527330443,2.203285421962389,4
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,fco_activo,-0.30419034577349124,0.42731586989047937,8
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,fco_ingresos,-16.308448089064893,4.983737652794766,5
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,0.0,0.200324258942594,0
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.42874309047131254,1.69112564676257,6
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.8131609664884293,3.9021105166657777,5
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.41142503372113126,0.4321317383660327,7
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.4774593257574687,0.4198121279860512,6
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,pasivo_activo,0.0009093584295134698,0.9291307075943003,7
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,margen_neto,-3.681727438611055,11.308228163594077,15
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,rentabilidad_activo_cierre,-0.2196597805966225,0.34647143214647036,17
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,rotacion_activo_cierre,0.0007837283370106162,2.173576917905137,6
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,fco_activo,-0.3050317199658649,0.4213046253812708,13
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,fco_ingresos,-16.44693652631972,6.031920907345172,9
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,inversion_capex_activo,0.0,0.19616807348944412,0
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,crecimiento_ActivoTotal,-0.41044027283208384,1.5196104387890637,9
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,crecimiento_TotalIngreso,-0.7908407443677326,3.7836655236315027,8
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,cambio_FCO_activo_previo,-0.4124361238380745,0.4486108377895651,12
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.4792795438608294,0.4249102226704957,12
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.0009093584295134698,0.9291307075943003,7
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,margen_neto,-3.681727438611055,11.308228163594077,15
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.2196597805966225,0.34647143214647036,17
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.0007837283370106162,2.173576917905137,6
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.3050317199658649,0.4213046253812708,13
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-16.44693652631972,6.031920907345172,9
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,0.0,0.19616807348944412,0
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.41044027283208384,1.5196104387890637,9
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.7908407443677326,3.7836655236315027,8
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.4124361238380745,0.4486108377895651,12
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.4792795438608294,0.4249102226704957,12
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.0009093584295134698,0.9291307075943003,7
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-3.681727438611055,11.308228163594077,15
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.2196597805966225,0.34647143214647036,17
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.0007837283370106162,2.173576917905137,6
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.3050317199658649,0.4213046253812708,13
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-16.44693652631972,6.031920907345172,9
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,0.0,0.19616807348944412,0
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.41044027283208384,1.5196104387890637,9
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.7908407443677326,3.7836655236315027,8
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.4124361238380745,0.4486108377895651,12
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.4792795438608294,0.4249102226704957,12
+Soles,todas,niveles_t_externos_t,E2_bursatil,pasivo_activo,0.0009093584295134698,0.9291307075943003,7
+Soles,todas,niveles_t_externos_t,E2_bursatil,margen_neto,-3.681727438611055,11.308228163594077,15
+Soles,todas,niveles_t_externos_t,E2_bursatil,rentabilidad_activo_cierre,-0.2196597805966225,0.34647143214647036,17
+Soles,todas,niveles_t_externos_t,E2_bursatil,rotacion_activo_cierre,0.0007837283370106162,2.173576917905137,6
+Soles,todas,niveles_t_externos_t,E2_bursatil,fco_activo,-0.3050317199658649,0.4213046253812708,13
+Soles,todas,niveles_t_externos_t,E2_bursatil,fco_ingresos,-16.44693652631972,6.031920907345172,9
+Soles,todas,niveles_t_externos_t,E2_bursatil,inversion_capex_activo,0.0,0.19616807348944412,0
+Soles,todas,niveles_t_externos_t,E2_bursatil,crecimiento_ActivoTotal,-0.41044027283208384,1.5196104387890637,9
+Soles,todas,niveles_t_externos_t,E2_bursatil,crecimiento_TotalIngreso,-0.7908407443677326,3.7836655236315027,8
+Soles,todas,niveles_t_externos_t,E2_bursatil,cambio_FCO_activo_previo,-0.4124361238380745,0.4486108377895651,12
+Soles,todas,niveles_t_externos_t,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.4792795438608294,0.4249102226704957,12
+Soles,todas,niveles_t_externos_t,E0_financiero,pasivo_activo,0.0009093584295134698,0.9291307075943003,7
+Soles,todas,niveles_t_externos_t,E0_financiero,margen_neto,-3.681727438611055,11.308228163594077,15
+Soles,todas,niveles_t_externos_t,E0_financiero,rentabilidad_activo_cierre,-0.2196597805966225,0.34647143214647036,17
+Soles,todas,niveles_t_externos_t,E0_financiero,rotacion_activo_cierre,0.0007837283370106162,2.173576917905137,6
+Soles,todas,niveles_t_externos_t,E0_financiero,fco_activo,-0.3050317199658649,0.4213046253812708,13
+Soles,todas,niveles_t_externos_t,E0_financiero,fco_ingresos,-16.44693652631972,6.031920907345172,9
+Soles,todas,niveles_t_externos_t,E0_financiero,inversion_capex_activo,0.0,0.19616807348944412,0
+Soles,todas,niveles_t_externos_t,E0_financiero,crecimiento_ActivoTotal,-0.41044027283208384,1.5196104387890637,9
+Soles,todas,niveles_t_externos_t,E0_financiero,crecimiento_TotalIngreso,-0.7908407443677326,3.7836655236315027,8
+Soles,todas,niveles_t_externos_t,E0_financiero,cambio_FCO_activo_previo,-0.4124361238380745,0.4486108377895651,12
+Soles,todas,niveles_t_externos_t,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.4792795438608294,0.4249102226704957,12
+Soles,todas,niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.0009093584295134698,0.9291307075943003,7
+Soles,todas,niveles_t_externos_t_1,E0_financiero,margen_neto,-3.681727438611055,11.308228163594077,15
+Soles,todas,niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.2196597805966225,0.34647143214647036,17
+Soles,todas,niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.0007837283370106162,2.173576917905137,6
+Soles,todas,niveles_t_externos_t_1,E0_financiero,fco_activo,-0.3050317199658649,0.4213046253812708,13
+Soles,todas,niveles_t_externos_t_1,E0_financiero,fco_ingresos,-16.44693652631972,6.031920907345172,9
+Soles,todas,niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,0.0,0.19616807348944412,0
+Soles,todas,niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.41044027283208384,1.5196104387890637,9
+Soles,todas,niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.7908407443677326,3.7836655236315027,8
+Soles,todas,niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.4124361238380745,0.4486108377895651,12
+Soles,todas,niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.4792795438608294,0.4249102226704957,12
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.0009093584295134698,0.9291307075943003,7
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,margen_neto,-3.681727438611055,11.308228163594077,15
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.2196597805966225,0.34647143214647036,17
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.0007837283370106162,2.173576917905137,6
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.3050317199658649,0.4213046253812708,13
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-16.44693652631972,6.031920907345172,9
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,0.0,0.19616807348944412,0
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.41044027283208384,1.5196104387890637,9
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.7908407443677326,3.7836655236315027,8
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.4124361238380745,0.4486108377895651,12
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.4792795438608294,0.4249102226704957,12
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.0009093584295134698,0.9291307075943003,7
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-3.681727438611055,11.308228163594077,15
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.2196597805966225,0.34647143214647036,17
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.0007837283370106162,2.173576917905137,6
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.3050317199658649,0.4213046253812708,13
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-16.44693652631972,6.031920907345172,9
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,0.0,0.19616807348944412,0
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.41044027283208384,1.5196104387890637,9
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.7908407443677326,3.7836655236315027,8
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.4124361238380745,0.4486108377895651,12
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.4792795438608294,0.4249102226704957,12
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.0009093584295134698,0.9291307075943003,7
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,margen_neto,-3.681727438611055,11.308228163594077,15
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.2196597805966225,0.34647143214647036,17
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.0007837283370106162,2.173576917905137,6
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,fco_activo,-0.3050317199658649,0.4213046253812708,13
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,fco_ingresos,-16.44693652631972,6.031920907345172,9
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,0.0,0.19616807348944412,0
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.41044027283208384,1.5196104387890637,9
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.7908407443677326,3.7836655236315027,8
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.4124361238380745,0.4486108377895651,12
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.4792795438608294,0.4249102226704957,12
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.4478291359685396,0.9285812254884286,7
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-1.5141809527615133,4.439914659305175,4
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.05119768872433777,0.06957195770297855,4
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.009635906386590508,0.5244361073119975,3
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.30779443727939154,0.3779622028287676,5
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-14.612178438650101,23.588818905631925,3
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,-0.0,0.02075187157985454,1
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.30477106695304623,0.8131409473970114,6
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.5485109604451737,0.880289666044961,9
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.5217517568358107,0.620128193627045,5
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.5228681381481706,0.5943021366450681,5
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.4478291359685396,0.9285812254884286,7
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,margen_neto,-1.5141809527615133,4.439914659305175,4
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.05119768872433777,0.06957195770297855,4
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.009635906386590508,0.5244361073119975,3
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.30779443727939154,0.3779622028287676,5
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-14.612178438650101,23.588818905631925,3
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,-0.0,0.02075187157985454,1
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.30477106695304623,0.8131409473970114,6
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.5485109604451737,0.880289666044961,9
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.5217517568358107,0.620128193627045,5
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.5228681381481706,0.5943021366450681,5
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,pasivo_activo,0.4478291359685396,0.9285812254884286,7
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,margen_neto,-1.5141809527615133,4.439914659305175,4
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,rentabilidad_activo_cierre,-0.05119768872433777,0.06957195770297855,4
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,rotacion_activo_cierre,0.009635906386590508,0.5244361073119975,3
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,fco_activo,-0.30779443727939154,0.3779622028287676,5
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,fco_ingresos,-14.612178438650101,23.588818905631925,3
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,inversion_capex_activo,-0.0,0.02075187157985454,1
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,crecimiento_ActivoTotal,-0.30477106695304623,0.8131409473970114,6
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,crecimiento_TotalIngreso,-0.5485109604451737,0.880289666044961,9
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,cambio_FCO_activo_previo,-0.5217517568358107,0.620128193627045,5
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.5228681381481706,0.5943021366450681,5
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,pasivo_activo,0.4478291359685396,0.9285812254884286,7
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,margen_neto,-1.5141809527615133,4.439914659305175,4
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,rentabilidad_activo_cierre,-0.05119768872433777,0.06957195770297855,4
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,rotacion_activo_cierre,0.009635906386590508,0.5244361073119975,3
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_activo,-0.30779443727939154,0.3779622028287676,5
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,fco_ingresos,-14.612178438650101,23.588818905631925,3
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,inversion_capex_activo,-0.0,0.02075187157985454,1
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_ActivoTotal,-0.30477106695304623,0.8131409473970114,6
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,crecimiento_TotalIngreso,-0.5485109604451737,0.880289666044961,9
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCO_activo_previo,-0.5217517568358107,0.620128193627045,5
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.5228681381481706,0.5943021366450681,5
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.4478291359685396,0.9285812254884286,7
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,margen_neto,-1.5141809527615133,4.439914659305175,4
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.05119768872433777,0.06957195770297855,4
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.009635906386590508,0.5244361073119975,3
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,fco_activo,-0.30779443727939154,0.3779622028287676,5
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,fco_ingresos,-14.612178438650101,23.588818905631925,3
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,-0.0,0.02075187157985454,1
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.30477106695304623,0.8131409473970114,6
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.5485109604451737,0.880289666044961,9
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.5217517568358107,0.620128193627045,5
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.5228681381481706,0.5943021366450681,5
+Soles,bancario,niveles_t_externos_t,E0_financiero,pasivo_activo,0.4478291359685396,0.9285812254884286,7
+Soles,bancario,niveles_t_externos_t,E0_financiero,margen_neto,-1.5141809527615133,4.439914659305175,4
+Soles,bancario,niveles_t_externos_t,E0_financiero,rentabilidad_activo_cierre,-0.05119768872433777,0.06957195770297855,4
+Soles,bancario,niveles_t_externos_t,E0_financiero,rotacion_activo_cierre,0.009635906386590508,0.5244361073119975,3
+Soles,bancario,niveles_t_externos_t,E0_financiero,fco_activo,-0.30779443727939154,0.3779622028287676,5
+Soles,bancario,niveles_t_externos_t,E0_financiero,fco_ingresos,-14.612178438650101,23.588818905631925,3
+Soles,bancario,niveles_t_externos_t,E0_financiero,inversion_capex_activo,-0.0,0.02075187157985454,1
+Soles,bancario,niveles_t_externos_t,E0_financiero,crecimiento_ActivoTotal,-0.30477106695304623,0.8131409473970114,6
+Soles,bancario,niveles_t_externos_t,E0_financiero,crecimiento_TotalIngreso,-0.5485109604451737,0.880289666044961,9
+Soles,bancario,niveles_t_externos_t,E0_financiero,cambio_FCO_activo_previo,-0.5217517568358107,0.620128193627045,5
+Soles,bancario,niveles_t_externos_t,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.5228681381481706,0.5943021366450681,5
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,pasivo_activo,0.4478291359685396,0.9285812254884286,7
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,margen_neto,-1.5141809527615133,4.439914659305175,4
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,rentabilidad_activo_cierre,-0.05119768872433777,0.06957195770297855,4
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,rotacion_activo_cierre,0.009635906386590508,0.5244361073119975,3
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,fco_activo,-0.30779443727939154,0.3779622028287676,5
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,fco_ingresos,-14.612178438650101,23.588818905631925,3
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,inversion_capex_activo,-0.0,0.02075187157985454,1
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,crecimiento_ActivoTotal,-0.30477106695304623,0.8131409473970114,6
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,crecimiento_TotalIngreso,-0.5485109604451737,0.880289666044961,9
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,cambio_FCO_activo_previo,-0.5217517568358107,0.620128193627045,5
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,cambio_FCL_preliminar_activo_previo,-0.5228681381481706,0.5943021366450681,5
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,pasivo_activo,0.4478291359685396,0.9285812254884286,7
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,margen_neto,-1.5141809527615133,4.439914659305175,4
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,rentabilidad_activo_cierre,-0.05119768872433777,0.06957195770297855,4
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,rotacion_activo_cierre,0.009635906386590508,0.5244361073119975,3
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,fco_activo,-0.30779443727939154,0.3779622028287676,5
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,fco_ingresos,-14.612178438650101,23.588818905631925,3
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,inversion_capex_activo,-0.0,0.02075187157985454,1
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,crecimiento_ActivoTotal,-0.30477106695304623,0.8131409473970114,6
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,crecimiento_TotalIngreso,-0.5485109604451737,0.880289666044961,9
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,cambio_FCO_activo_previo,-0.5217517568358107,0.620128193627045,5
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,cambio_FCL_preliminar_activo_previo,-0.5228681381481706,0.5943021366450681,5
+Soles,bancario,niveles_t_externos_t,E2_bursatil,pasivo_activo,0.4478291359685396,0.9285812254884286,7
+Soles,bancario,niveles_t_externos_t,E2_bursatil,margen_neto,-1.5141809527615133,4.439914659305175,4
+Soles,bancario,niveles_t_externos_t,E2_bursatil,rentabilidad_activo_cierre,-0.05119768872433777,0.06957195770297855,4
+Soles,bancario,niveles_t_externos_t,E2_bursatil,rotacion_activo_cierre,0.009635906386590508,0.5244361073119975,3
+Soles,bancario,niveles_t_externos_t,E2_bursatil,fco_activo,-0.30779443727939154,0.3779622028287676,5
+Soles,bancario,niveles_t_externos_t,E2_bursatil,fco_ingresos,-14.612178438650101,23.588818905631925,3
+Soles,bancario,niveles_t_externos_t,E2_bursatil,inversion_capex_activo,-0.0,0.02075187157985454,1
+Soles,bancario,niveles_t_externos_t,E2_bursatil,crecimiento_ActivoTotal,-0.30477106695304623,0.8131409473970114,6
+Soles,bancario,niveles_t_externos_t,E2_bursatil,crecimiento_TotalIngreso,-0.5485109604451737,0.880289666044961,9
+Soles,bancario,niveles_t_externos_t,E2_bursatil,cambio_FCO_activo_previo,-0.5217517568358107,0.620128193627045,5
+Soles,bancario,niveles_t_externos_t,E2_bursatil,cambio_FCL_preliminar_activo_previo,-0.5228681381481706,0.5943021366450681,5

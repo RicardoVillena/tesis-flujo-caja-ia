@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:46.882857+00:00",
+  "firma_solicitud": "087ecf8881e135553254d0bf75e5f7d45c1b8f06a8570d6f0d1c8bd089336ca0",
+  "http_status": 200,
+  "url_final": "https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "archivo": "data/raw/bvl/bcrp_api_087ecf8881e135.bin",
+  "sha256": "f4b68ea50ca5f0fe31e0298873ef2a67822e407438eb229bbc16fa352227d415"
+}

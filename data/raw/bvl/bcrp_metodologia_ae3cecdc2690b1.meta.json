@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://www.bcrp.gob.pe/docs/Publicaciones/Guia-Metodologica/nota-semanal/Guia-Metodologica-05.pdf",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:47.173084+00:00",
+  "firma_solicitud": "ae3cecdc2690b113281d587b1e54c92f0c7660cd14da68f55a6e0135344d640c",
+  "http_status": 200,
+  "url_final": "https://www.bcrp.gob.pe/docs/Publicaciones/Guia-Metodologica/nota-semanal/Guia-Metodologica-05.pdf",
+  "content_type": "text/html",
+  "error": null,
+  "archivo": "data/raw/bvl/bcrp_metodologia_ae3cecdc2690b1.bin",
+  "sha256": "7092a071790027c518272faa48a055ce5086976836c8772e14524123cd574a8d"
+}

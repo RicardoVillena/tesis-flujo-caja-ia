@@ -1,0 +1,104 @@
+{
+  "verificado_utc": "2026-10-21T21:31:17.492792+00:00",
+  "periodo": [
+    2005,
+    2025
+  ],
+  "filas": 21,
+  "variables": [
+    "pbi_real_millones_soles_2007",
+    "inflacion_lima_dic_dic_pct",
+    "tipo_cambio_promedio_soles_usd",
+    "tasa_referencia_promedio_pct",
+    "crecimiento_pbi_real_pct"
+  ],
+  "faltantes": 0,
+  "duplicados_anio": 0,
+  "extremos_conservados": 3,
+  "ventana_referencia_riq": [
+    2005,
+    2021
+  ],
+  "variables_riq": [
+    "inflacion_lima_dic_dic_pct",
+    "tipo_cambio_promedio_soles_usd",
+    "tasa_referencia_promedio_pct",
+    "crecimiento_pbi_real_pct"
+  ],
+  "verificaciones": [
+    "cobertura original",
+    "12 meses por año",
+    "formulas anuales",
+    "corte RIQ",
+    "hash originales",
+    "relectura CSV exacta"
+  ],
+  "python": "3.12.15",
+  "paquetes": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "requests": "2.34.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "dataset": "data/processed/macroeconomia_peru_2005_2025.csv",
+  "sha256_dataset": "7dba8aec32f8eae7086b2cb393f7c22d9741314893bef1f8d081bc8d91b1377e",
+  "ejecucion_notebook": {
+    "celdas_codigo": 10,
+    "bloques_previos_completados": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "archivos_preexistentes_preservados": {
+      "README.md": "9e3f14488b425e62e9cef18c8a588da238b880ecd9984c3f5ab091d40d62db33",
+      "notebooks/EDA_FCL_2005_2025.ipynb": "f30f89b13414bc19a22e2cd52f509b108253fbd557af398f6b2527cefa9ae25a",
+      "notebooks/02_feature_engineering.ipynb": "2fdb6abc664ed3b5b73b9526bb4f20aa551bc7793159835807b70028ab2c0157"
+    }
+  },
+  "fuentes": {
+    "PM04860AA": {
+      "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PM04860AA/json/2005/2025/esp",
+      "consultado_utc": "2026-10-21T20:45:55.457203+00:00",
+      "archivo": "data/raw/bcrp/PM04860AA_2005_2025.json",
+      "sha256": "2d148e7ea3370f2468ff14e2363519cd497c5aeab87c778a33411bc6e85da421",
+      "http_status": 200
+    },
+    "PN38705PM": {
+      "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN38705PM/json/2004-12/2025-12/esp",
+      "consultado_utc": "2026-10-21T20:45:55.753027+00:00",
+      "archivo": "data/raw/bcrp/PN38705PM_2004-12_2025-12.json",
+      "sha256": "c396d2a52d05403f21ae20a597ae9ca8779972e4711a2872b4a341af1b63d277",
+      "http_status": 200
+    },
+    "PN01206PM": {
+      "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01206PM/json/2005-1/2025-12/esp",
+      "consultado_utc": "2026-10-21T20:45:55.976047+00:00",
+      "archivo": "data/raw/bcrp/PN01206PM_2005-1_2025-12.json",
+      "sha256": "1ef98823104cc56e9f2426697589f1a722b2c42986b5296f45f95540e8d718dc",
+      "http_status": 200
+    },
+    "PD04722MM": {
+      "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD04722MM/json/2005-1/2025-12/esp",
+      "consultado_utc": "2026-10-21T20:45:56.182725+00:00",
+      "archivo": "data/raw/bcrp/PD04722MM_2005-1_2025-12.json",
+      "sha256": "05c15f8382da0266ed9858886ada2086276700e599a96ded9acd3b07bf7700a0",
+      "http_status": 200
+    },
+    "PM04863AA": {
+      "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PM04863AA/json/2005/2025/esp",
+      "consultado_utc": "2026-10-21T21:30:02.542645+00:00",
+      "archivo": "data/raw/bcrp/PM04863AA_2005_2025.json",
+      "sha256": "ed135ac83d4ef5ffd665063a39f34fa17eb6dedeb9c15a02bc9881a187199e5b",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8"
+    }
+  }
+}

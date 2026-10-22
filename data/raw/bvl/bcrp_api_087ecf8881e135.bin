@@ -1,0 +1,654 @@
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<head><script src="/oly-Almost-That-hane-Sey-a-sleepe-Atter-Macduffe" async></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<script> if(top == self) { document.documentElement.style.display='block'}
+else { top.location = self.location; } </script>
+
+
+
+<link href="/estadisticas/series/css/ajax_upload.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/estadisticas/series/css/jquery-1.7.2.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/estadisticas/series/css/back.css?20261022004947" media="screen" rel="stylesheet" type="text/css" />
+<link href="/estadisticas/series/css/nav.css?20261022004947" media="screen" rel="stylesheet" type="text/css" />
+
+
+
+<link href="/estadisticas/series/css/series-estadisticas.css?20261022004947" media="screen" rel="stylesheet" type="text/css" />
+<link href="/estadisticas/series/css/estilo.css?20261022004947" media="screen" rel="stylesheet" type="text/css" />
+
+<!--[if lt IE 9]>
+	<link href="/estadisticas/series/css/series-estadisticas-ie.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/estadisticas/series/css/estilo-ie.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 8]>
+    <link href="/estadisticas/series/css/series-estadisticas-ie.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/estadisticas/series/css/estilo-ie.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+
+<!--[if gt IE 7]>
+	<link href="/estadisticas/series/css/series-estadisticas.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/estadisticas/series/css/estilo.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if gte IE 8]>
+	<link href="/estadisticas/series/css/series-estadisticas.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/estadisticas/series/css/estilo.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+<link href="/estadisticas/series/css/tcg-elevator/css/jquery.tcg-elevator.css" media="screen" rel="stylesheet" type="text/css" />
+	
+<script type="text/javascript" src="/estadisticas/series/js/jquery-1.10.2.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/bootstrap/js/bootstrap.js"></script>
+	
+<script type="text/javascript" src="/estadisticas/series/js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/ajax_upload.js" ></script>
+
+
+<script type="text/javascript" src="/estadisticas/series/js/tcg-elevator/js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript">
+	var jQuery_1_12_4 = $.noConflict(true);
+</script>
+<script type="text/javascript" src="/estadisticas/series/js/tcg-elevator/js/jquery.tcg-elevator.js"></script>
+
+<script>
+
+$(document).ready(function(){
+	//$('.tcg-elevator').tcgElevator();
+
+    if ($.fn.tcgElevator) {
+        $('.tcg-elevator').tcgElevator();
+
+
+		$('.elevator').tcgElevator({		
+			toggleSelector: '.panel-heading',
+			contentSelector: '.panel-body',
+			/*
+			speed: 500,
+			openingSpeed: 500,
+			closingSpeed: 1000,
+			*/  
+			openClass: 'open',
+			openingClass: 'opening',
+			closingClass: 'closing'
+		});
+
+    } 
+
+
+	var closed = true;
+	$('.toggle-all').click(function(e){
+		var functionToCall = closed ? 'open' : 'close';
+		closed = !closed;
+		$('.tcg-elevator').tcgElevator(functionToCall);
+	})
+	
+
+	$(".toggle-all").click(
+		function() {
+			if($(this).hasClass("cls-iconos-textos")) {
+			   $(this).removeClass("cls-iconos-textos");
+			   $(this).addClass("cls-iconos-textos-negativo");
+			} else {
+				$(this).removeClass("cls-iconos-textos-negativo");
+			    $(this).addClass("cls-iconos-textos");
+			}
+		}
+	);
+
+	
+})
+
+
+</script>
+
+
+<!-- <script type="text/javascript" src="/estadisticas/series/js/jquery.ui.datepicker_ing.js"></script> -->
+<!-- <script type="text/javascript" src="/estadisticas/series/js/jquery.ui.datepicker_esp.js"></script> -->
+
+<!-- <script type="text/javascript" src="/estadisticas/series/js/jquery.ui.datepicker.js"></script> -->
+
+<script type="text/javascript" src="/estadisticas/series/js/jquery.ui.datepicker_esp.js"></script>
+
+
+
+<script type="text/javascript" src="/estadisticas/series/js/estadisticas.js?20261022004947"></script>
+<script type="text/javascript" src="/estadisticas/series/js/js.js?20261022004947"></script>
+<script type="text/javascript" src="/estadisticas/series/js/validCampoFranz.js"></script>
+
+
+<script type="text/javascript" src="/estadisticas/series/js/funciones-personalizadas.js"></script>
+
+
+<link href="/estadisticas/series/css/font-awesome/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+
+
+<script type="text/javascript" src="/estadisticas/series/js/jalert/jquery.ui.draggable.js"></script>
+<script type="text/javascript" src="/estadisticas/series/js/jalert/jquery.alerts.js"></script>
+
+
+<link href="/estadisticas/series/js/jalert/jquery.alerts.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+		
+
+
+<script language="JavaScript">
+$(function() {
+	
+	    if ($('#desde').val() != undefined)
+		{	
+			$("#desde").datepicker({
+					changeMonth: true,
+					changeYear: true,
+					showOn: "button",		  
+					buttonImage: "https://estadisticas.bcrp.gob.pe/estadisticas/series/js/images/calendar.gif",
+					buttonImageOnly: true
+			});
+		}
+
+	    if ($('#hasta').val() != undefined)
+		{			
+			$("#hasta").datepicker({
+					changeMonth: true,
+					changeYear: true,
+					showOn: "button",
+					buttonImage: "https://estadisticas.bcrp.gob.pe/estadisticas/series/js/images/calendar.gif",
+					buttonImageOnly: true
+			});
+		}
+
+	    if ($('#fecha_creacion').val() != undefined)
+		{			
+			$("#fecha_creacion").datepicker({
+					changeMonth: true,
+					changeYear: true,
+					showOn: "button",
+					buttonImage: "https://estadisticas.bcrp.gob.pe/estadisticas/series/js/images/calendar.gif",
+					buttonImageOnly: true
+			});
+		}
+		
+});
+
+
+
+
+
+
+</script> 
+
+
+<script type="text/javascript">
+
+// Bloquear history
+/*history.pushState(null, null, location.href);
+    window.onpopstate = function () {
+        history.go(1);
+    };*/
+	
+</script>  
+
+
+
+
+<meta name="keywords" content="API de consulta" />
+<meta name="description" content="API de consulta" />
+
+<title>API para Desarrolladores</title>
+</head>
+
+<script>
+	$(document).ready(function() {
+
+
+		if ($('#txtbuscador').val() != undefined) {
+			$('#txtbuscador').validCampoFranz(' abcdefghijklmnñopqrstuvwxyzáéíóú$1234567890');
+		}
+
+
+		//$('#txtbuscar').on( 'keyup change', function () {   // for text boxes
+		$('#txtbuscador').on('keypress', function(event) { // for text boxes
+
+
+
+			if (event.which == 13) {
+				v = $("#txtbuscador").val();
+
+				if (v != '') {
+
+					var filtropalabras = /^[0-9a-zA-Z$áéíóúñ ]+$/;
+					// utilizamos test para comprobar si el parametro valor cumple la regla
+					if (!filtropalabras.test(v)) {
+						alert('La texto a buscar contiene un caracter no permitido.');
+						return false;
+					}
+
+
+
+					//dataTable.search(v).draw();
+					//document.frmBuscador.action ="/estadisticas/series/ayuda/api";
+					document.frmBuscador.action = "https://estadisticas.bcrp.gob.pe/estadisticas/series/buscador";
+					document.frmBuscador.submit();
+
+				} else {
+					alert('Ingresar texto a buscar');
+					return false;
+				}
+			}
+
+			//dataTable.search( $(this).val() ).draw();
+
+		});
+
+
+		$('#btnbuscador').on('click', function(event) { // for text boxes
+
+
+
+			v = $("#txtbuscador").val();
+
+			if (v != '') {
+
+
+				var filtropalabras = /^[0-9a-zA-Z$áéíóúñ ]+$/;
+				// utilizamos test para comprobar si el parametro valor cumple la regla
+				if (!filtropalabras.test(v)) {
+					alert('La texto a buscar contiene un caracter no permitido.');
+					return false;
+				}
+
+
+				dataTable.search(v).draw();
+
+				//document.frmBuscador.action ="/estadisticas/series/ayuda/api";
+				document.frmBuscador.action = "https://estadisticas.bcrp.gob.pe/estadisticas/series/buscador";
+				document.frmBuscador.submit();
+
+			} else {
+				alert('Ingresar texto a buscar');
+				return false;
+			}
+
+			//dataTable.search( $(this).val() ).draw();
+
+		});
+
+
+	});
+</script>
+
+
+
+
+<body>
+
+
+
+
+
+	<!-- Google Tag Manager -->
+
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2QFRJ"
+
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start':
+
+					new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+
+				'//www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+
+		})(window, document, 'script', 'dataLayer', 'GTM-T2QFRJ');
+	</script>
+
+	<!-- End Google Tag Manager -->
+
+
+	<script>
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-83099512-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+
+
+
+
+	
+			<div class="header">
+
+				<div class="textocabecera">
+					<div class="logocbm">
+						<a href="http://www.bcrp.gob.pe" target="_blank"><img alt="" src="/estadisticas/series/images/logo-70-espacio.png" id="logobcr"></a>
+					</div>
+					<div class="logoytitulo">
+						<!-- <div class="titlogobcrp"><span class="titulobcrpdata">BCRPData</span><br/>BANCO CENTRAL DE RESERVA DEL PERÚ<br/></div> -->
+						<div class="titlogobcrp">
+							<span class="titulobcrpdata">BCRPData</span><br />
+							<span class="subtitulobcrpdata_1">BANCO CENTRAL DE RESERVA DEL PERÚ</span><br />
+							<span class="subtitulobcrpdata_2">Gerencia Central de Estudios Económicos</span>
+							<br />
+						</div>
+					</div>
+				</div>
+
+
+			
+
+			<ul class="top">
+				
+
+
+
+
+
+					<div class="hidden">
+						<h1>
+							API para Desarrolladores						</h1>
+					</div>
+											<li><a title="Suscribirse" href="/estadisticas/series/suscribirse">Suscripción</a>&nbsp;|</li>
+<li><a title="Iniciar Sesión" href="/estadisticas/series/login">Iniciar Sesión</a></li>
+
+					
+
+				
+
+
+
+
+							</ul>
+
+
+
+			
+
+				<form id="frmBuscador" name="frmBuscador" action="/estadisticas/series/buscador" method="post">
+					<div class="input-group input-group-lg div-buscador">
+						<input id="txtbuscador" name="txtbuscador" type="text" class="form-control-buscador" placeholder="Buscar..." autocomplete="off" value="">
+						<span class="input-group-btn">
+							<button id="btnbuscador" name="btnbuscador" type="submit" class="btn btn-default btn-buscador-cabecera" style="background-color:#687f9f;color:white" onclick="Opciones('BU')"><i class="fa fa-search"></i></button>
+						</span>
+					</div>
+					<input type="hidden" id="accion" name="accion" value="buscar" />
+				</form>
+
+			
+
+			<div class="hidden">
+				<h1>
+					API para Desarrolladores				</h1>
+			</div>
+			
+			
+			</div>
+
+			
+
+
+
+			
+<div class="menu-principal">
+	<div class="menu">
+		<ul>
+			<li><a href="/estadisticas/series/index"  target="_self">Inicio</a></li><li><a href="http://www.bcrp.gob.pe/docs/Estadisticas/Calendario-Estadisticas.pdf"  target="_blank">Calendario de Difusión</a></li><li><a href="https://www.bcrp.gob.pe/estadisticas/cuadros-de-la-nota-semanal.html"  target="_blank">Cuadros Estadísticos</a></li><li><a href="#"  target="_self">Guías</a><ul><li><a href="/estadisticas/series/documentos/bcrpdataguiadeuso.pdf"  target="_blank">Uso de BCRPData</a></li><li><a href="/estadisticas/series/documentos/bcrpdataapi.pdf"  target="_blank">API para Desarrolladores</a></li><li><a href="/estadisticas/series/documentos/bcrpdataaddin.pdf"  target="_blank">Add-In para Excel</a></li></ul></li><li><a href="#"  target="_self">Acerca de</a><ul><li><a href="/estadisticas/series/ayuda/bcrpdata"  target="_self">BCRPData</a></li><li><a href="/estadisticas/series/ayuda/condiciones-de-uso"  target="_self">Condiciones de Uso</a></li><li><a href="/estadisticas/series/documentos/bcrpdatasuscribirse.pdf"  target="_blank">Ventajas de la Suscripción</a></li></ul></li>				<li class="button-back-nav">
+					<a id="button-back-nav-link">Retroceder</a>
+				</li>
+					</ul>
+	</div>
+</div>
+
+
+
+			<div class="contenido">
+				
+
+<div id="contenedor" class="contenedor-index"> 
+
+<table class="estilo-tabla-index" cellpadding="0" cellspacing="0">
+<tr>     
+
+<td id="contenedor-barra-menu" valign="top"   class="td-index">
+<div id="barra-lateral" >
+      
+
+<div id="menu-izquierda-dinamico">
+<h4 class="titulo-izquierda"><a href="#"  class="titulo-h4" target="_self">Consulta de Series</a></h4><ul class="forma-vineta"><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/index"  target="_self">Por Categoría</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/buscador"  target="_self">Por Series</a></li></ul><h4 class="titulo-izquierda"><a href="#"  class="titulo-h4" target="_self">Herramientas</a></h4><ul class="forma-vineta"><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/lista/listadovalido"  target="_self">Listas Personalizadas</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/ayuda/addin"  target="_self">Add-In para Excel</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/ayuda/api"  target="_self">API para Desarrolladores</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/ayuda/app"  target="_self">App para Móviles</a></li><li class="forma-separar"><a class="forma-url" href="/estadisticas/series/ayuda/metadatos"  target="_self">Metadatos</a></li></ul><h4 class="titulo-izquierda"><a href="#"  class="titulo-h4" target="_self">Encuesta de Expectativas</a></h4><ul class="forma-vineta"><li class="forma-separar"><a class="forma-url" href="https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-inflacion.xlsx"  target="_blank">Inflación</a></li><li class="forma-separar"><a class="forma-url" href="https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-pbi.xlsx"  target="_blank">Producto Bruto Interno</a></li><li class="forma-separar"><a class="forma-url" href="https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-tipo-de-cambio.xlsx"  target="_blank">Tipo de Cambio</a></li><li class="forma-separar"><a class="forma-url" href="https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx"  target="_blank">Índices de confianza empresarial</a></li></ul><h4 class="titulo-izquierda"><a href="/estadisticas/series/contactenos"  class="titulo-h4" target="_self">Contáctenos</a></h4>	
+
+
+
+</div>
+</div>	  
+</td>
+  
+ 
+
+<!--<td style="padding-left:10px;" valign="top">-->
+<td class="centro-contenido">
+
+
+
+<div class="nav-links">
+	<ul>
+					<li>
+				<a href="/estadisticas/series">Inicio</a>
+			</li>
+							<li>
+						<span>/</span>
+						<span class="only-title">API Para Desarrolladores</span>
+					</li>
+						</ul>
+</div>
+<h1>API para Desarrolladores</h1>
+
+<div class="contenido-web-api">
+
+<!-- nuevo -->
+	<p>
+	 La Base de Datos de Estadísticas del BCRP
+	 (<a href="https://estadisticas.bcrp.gob.pe/estadisticas/series/" target="_self">BCRPData</a>)
+	 proporciona interfaces API para consultar series estadísticas desde otras aplicaciones Web. Las API pueden generar resultados en diversos formatos de salida como HTML, Gráficos en FLASH, XLS, XML, JSON, JSONP, TXT y CSV.
+	</p>
+
+	<p>
+	 Consulte instrucciones en la
+	 <a href="https://estadisticas.bcrp.gob.pe/estadisticas/series/documentos/bcrpdataapi.pdf" target="_blank">Guía de Uso de API para Desarrolladores <img src="/estadisticas/series/images/icono-pdf.png"></a>.
+	 Además, se recomienda revisar información sobre la actualización de contenidos en
+	 <a href="https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/bcrpdata" target="_self">Acerca de BCRPData</a>,
+	 así como las <a href="https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/condiciones-de-uso" target="_self">Condiciones de Uso</a> de la información.
+	 </p>
+
+	<h3>Fuente de la información</h3>
+
+	<p>
+		La información consultada desde las API se encuentra registrada en
+		<a href="https://estadisticas.bcrp.gob.pe/estadisticas/series/" target="_self">BCRPData</a>,
+		con ello se asegura la obtención de series estadísticas actualizadas. No se requiere ingresar previamente a
+		<a href="https://estadisticas.bcrp.gob.pe/estadisticas/series/" target="_self">BCRPData</a>
+		para consultar series, solo es necesario utilizar correctamente los parámetros y contar con acceso a Internet.
+	</p>
+
+	<h3>Uso de las API</h3>
+
+	<p>
+		Se pueden realizar consultas directas a BCRPData a través de los métodos de envío de datos GET y POST.
+	</p>
+<!-- fin nuevo -->
+
+<h2 class="titulo-h2-api">Método GET</h2>
+La estructura de la consulta mediante este método es la siguiente:<br/><br/>
+<table class="tabla-codigo">
+<tr>
+<td class="tabla-codigo-plomo">
+https://estadisticas.bcrp.gob.pe/estadisticas/series/api/[códigos de series]/[formato de salida]/[periodo inicial]/[periodo final]/[idioma]
+</td>
+</tr>
+</table>
+<h3>Código de series</h3>
+Es el único parámetro obligatorio, se requiere al menos un código de serie y como máximo diez. Las series deben corresponder a una misma frecuencia y los códigos deben estar separados por un guion.<br/><br/>
+Ejemplos:<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01270PM</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/grafico/2010-1/2016-9/esp</td></tr>
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/xml</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM-PN01290PM-PN01291PM</td></tr>
+</table>
+<br/>Nota: Si se colocan series de diversas frecuencias, se considerará la frecuencia de la primera serie y sólo se mostrarán las series que correspondan a esa frecuencia.
+<h3>Formatos de salida</h3>
+Se tiene los siguientes formatos de salida:<br/>
+<br/><strong>HTML</strong>: Formato de salida por defecto, esta opción muestra una tabla en formato HTML.<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/html</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM</td></tr>
+</table>
+<br/><strong>Gráfico:</strong> Esta opción mostrará un gráfico en formato flash.<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/grafico</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/grafico</td></tr>
+</table>
+<br/><strong>XLS:</strong> Esta opción generará un archivo en formato XLS.<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/xls</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/xls/2013-1/2016-9</td></tr>
+</table>
+<br/><strong>XML:</strong> Esta opción mostrará un archivo en formato XML.<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/xml</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/xml/2013-1/2016-9</td></tr>
+</table>
+<br/><strong>JSON y JSONP:</strong> Estas opciones mostrarán salidas en formato JSON (sin paréntesis) y JSONP (con paréntesis).<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/json</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/json/2013-1/2016-9</td></tr>
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/jsonp</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/jsonp/2013-1/2016-9</td></tr>
+</table>
+<br/><strong>TXT:</strong> Esta opción generará un archivo en formato TXT.<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/txt</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/txt/2013-1/2016-9</td></tr>
+</table>
+<br/><strong>CSV:</strong> Esta opción imprimirá en pantalla un archivo con valores separadores por coma.<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/csv</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/csv/2013-1/2016-9</td></tr>
+</table>
+<h3>Periodo inicial y periodo final</h3>
+Estos parámetros representan el rango de la consulta a través del método GET. Si no se colocan los periodos, por defecto se mostrarán los datos más actuales de las series. En el caso que se coloque un solo periodo, se asumirá como una consulta de una fecha.<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/grafico/2010-1/2016-9/esp</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM</td></tr>
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/csv/2016-9</td></tr>
+</table>
+<h3>Idioma</h3>
+Los resultados se pueden generar en idioma español (esp) o inglés (ing). Por defecto se mostrará en idioma español.<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/csv/2010-1/2016-9</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM-PN01289PM/grafico/2010-1/2016-9/ing</td></tr>
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01288PM/json/2010-1/2016-9/ing</td></tr>
+</table>
+<br/>
+<h2 class="titulo-h2-api">Método POST</h2>
+En las consultas mediante el método POST se requiere enviar las siguientes variables equivalentes al método GET:<br/>
+<br/><strong>"series":</strong> Similar a <strong>[códigos de series]</strong>. Sólo esta variable es obligatoria.<br/>
+<br/><strong>"formato":</strong> Similar a <strong>[formato de salida]</strong>.<br/>
+<br/><strong>"fechaini":</strong> Equivalente a <strong>[periodo inicial]</strong>.<br/>
+<br/><strong>"fechafin":</strong> Equivalente a <strong>[periodo final]</strong>.<br/>
+<br/><strong>"idioma":</strong> Similar a <strong>[idioma]</strong>.<br/>
+<br/>Ejemplo 1:<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">series = 'PN01288PM-PN01289PM'</td></tr>
+<tr><td class="tabla-codigo-blanco">formato = 'xml'</td></tr>
+<tr><td class="tabla-codigo-plomo">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/</td></tr>
+</table>
+<br/>Ejemplo 2:<br/>
+<table class="tabla-codigo">
+<tr><td class="tabla-codigo-plomo">series = 'PN01288PM-PN01289PM-PN01290PM-PN01291PM'</td></tr>
+<tr><td class="tabla-codigo-blanco">formato = 'jsonp'</td></tr>
+<tr><td class="tabla-codigo-plomo">fechaini = '2010-1'</td></tr>
+<tr><td class="tabla-codigo-blanco">fechafin = '2016-9'</td></tr>
+<tr><td class="tabla-codigo-plomo">idioma = 'ing'</td></tr>
+<tr><td class="tabla-codigo-blanco">https://estadisticas.bcrp.gob.pe/estadisticas/series/api/</td></tr>
+</table>
+</div>
+<br/><br/>
+
+  </td>
+</tr>
+
+</table>
+
+</div>
+
+
+</div>
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=2045607380" async></script></body>
+		<div class="footer-personalizado" id="footer-personalizado-principal">
+			<address class="wrapper-footer-sections datosfooter">
+			Jr. Santa Rosa 441-445, Lima-1, Perú <br>
+			Teléfono:  (511) 613 2000
+			</address>
+		</div>
+
+<script language="javascript" type="text/javascript">
+	if(document.forms[0])
+	update_counter(document.forms[0].id);
+
+	$("#button-back-nav-link").on("click", function(e) {
+		//history.go(-1);
+		console.log(document.referrer);
+		history.back();
+	});
+</script>
+
+</html>
+

@@ -1,0 +1,7 @@
+moneda,experimento,filas_train,n_predictores,rango,numero_condicion,anios_train
+D lares,E0_financiero,353,19,19,13.821701676269715,16
+D lares,E1_macroeconomico,353,23,23,13.881402281640101,16
+D lares,E2_bursatil,353,26,26,14.008407027588206,16
+Soles,E0_financiero,2516,19,19,210.54566880011538,16
+Soles,E1_macroeconomico,2516,23,23,215.0994016617221,16
+Soles,E2_bursatil,2516,26,26,221.4337027256993,16

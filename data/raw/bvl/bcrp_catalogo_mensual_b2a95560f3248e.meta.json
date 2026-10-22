@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/mercado-de-capitales",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:44.507256+00:00",
+  "firma_solicitud": "b2a95560f3248e3d4bab952c94b0f2458065f8492487fdcbd54140e78b7dcc18",
+  "http_status": 200,
+  "url_final": "https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/mercado-de-capitales",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "archivo": "data/raw/bvl/bcrp_catalogo_mensual_b2a95560f3248e.bin",
+  "sha256": "16fc6f713408307b94a060b5337d20dad28fb389f2329a48cf571dff0650648f"
+}

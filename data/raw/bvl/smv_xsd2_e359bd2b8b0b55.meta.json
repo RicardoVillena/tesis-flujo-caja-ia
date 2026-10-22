@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc/ssl?xsd=xsd2",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:49.283167+00:00",
+  "firma_solicitud": "e359bd2b8b0b5514b5182d2a5bcc95228cbf57277693b07d9ff15724686b3c59",
+  "http_status": 200,
+  "url_final": "https://mvnet.smv.gob.pe/SMV.OpenData.wsGen/SMV.ServiciosOpenData.WCF.ServiceValores.svc/ssl?xsd=xsd2",
+  "content_type": "text/xml; charset=UTF-8",
+  "error": null,
+  "archivo": "data/raw/bvl/smv_xsd2_e359bd2b8b0b55.bin",
+  "sha256": "aa1b6bce4734eda6708e979cc3c45744689769af46b8ce8ed7b70847411cc7aa"
+}

@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://www.bvl.com.pe/mercado/movimientos-diarios",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:49.153082+00:00",
+  "firma_solicitud": "fe1ff968d7160e2259cb3a6cdb7e1a0fd9a08af8a0da04d49343cdd8ed7a0068",
+  "http_status": 200,
+  "url_final": "https://www.bvl.com.pe/mercado/movimientos-diarios",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "archivo": "data/raw/bvl/bvl_movimientos_fe1ff968d7160e.bin",
+  "sha256": "7926543a0723c6e904c0d2bbc7c14af23c1a44f9bdb36b98d68643cb3886caef"
+}

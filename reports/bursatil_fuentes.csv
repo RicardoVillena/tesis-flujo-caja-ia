@@ -1,0 +1,4 @@
+fuente,mecanismo,acceso,cobertura,restriccion,url
+BCRP,API GET JSON,VERIFICADO,2005–2025; base diciembre 2004 para indice,"n.d. diarios, calendario de sesiones no certificado; relevo metodologico mayo 2015",https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api
+SMV,WSDL/SOAP por RUC o razon social,CONSULTADO,Instantanea; no historico diario,Direccion HTTP publica; codigos ISIN y montos recibidos pueden ser inconsistentes; consulta actual no es vintage historico,https://mvnet.smv.gob.pe/SMV.OpenData.Web/Views/Datasets/Valores_Inscritos.aspx
+BVL,Aplicacion web y recursos enlazados,API_PUBLICA_HISTORICA_NO_VERIFICADA,Historicos individuales 2005–2025 no obtenidos,El HTML no expone descarga estructurada; cliente principal devolvio HTML,https://www.bvl.com.pe/mercado/movimientos-diarios

@@ -1,0 +1,646 @@
+{
+  "estado": "COMPLETADO_CON_OBSERVACIONES",
+  "hallazgos_corregidos": [
+    "IMP-INT-01",
+    "IMP-INT-02"
+  ],
+  "verificado_utc": "2026-10-22T00:18:08.259517+00:00",
+  "python": "3.12.15",
+  "paquetes": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "entradas": {
+    "data/processed/features_financieras.csv": {
+      "filas": 4221,
+      "columnas": 57
+    },
+    "data/processed/macroeconomia_peru_2005_2025.csv": {
+      "filas": 21,
+      "columnas": 6
+    }
+  },
+  "esquema_bcrp_conforme_diccionario": true,
+  "columnas_bcrp_esperadas_segun_diccionario": 6,
+  "predictores_macroeconomicos": [
+    "inflacion_lima_dic_dic_pct",
+    "tipo_cambio_promedio_soles_usd",
+    "tasa_referencia_promedio_pct",
+    "crecimiento_pbi_real_pct"
+  ],
+  "referencias_macroeconomicas": [
+    "pbi_real_millones_soles_2007"
+  ],
+  "origen_roles_macro": "Roles explicitos de la correccion; el diccionario BCRP original no incluye roles",
+  "roles_presentes_en_diccionario_original": false,
+  "catalogo_integrado": {
+    "archivo": "reports/diccionario_integracion_datos.csv",
+    "variables": 62,
+    "sha256": "ae8c34447e21feb48a2d1b5b88e8548935915c1eac421cc046fa3e468a2c1abd",
+    "roles_macro": {
+      "pbi_real_millones_soles_2007": "fuente",
+      "inflacion_lima_dic_dic_pct": "predictor",
+      "tipo_cambio_promedio_soles_usd": "predictor",
+      "tasa_referencia_promedio_pct": "predictor",
+      "crecimiento_pbi_real_pct": "predictor"
+    }
+  },
+  "estadisticos_entrenamiento": {
+    "particion": "entrenamiento",
+    "anios": [
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "anios_unicos": 16,
+    "usa_prueba_para_ajuste_o_seleccion": false,
+    "invariancia_ante_perturbacion_prueba": true,
+    "seleccion": "Catalogo de roles e instrucciones; sin seleccion empirica usando prueba",
+    "descriptivos": [
+      {
+        "variable": "pbi_real_millones_soles_2007",
+        "count": 16.0,
+        "mean": 424967.4990779188,
+        "std": 87444.8758892372,
+        "min": 273971.153886791,
+        "25%": 351737.2500490593,
+        "50%": 443817.0000350595,
+        "75%": 490527.5000733968,
+        "max": 546605.00005277
+      },
+      {
+        "variable": "inflacion_lima_dic_dic_pct",
+        "count": 16.0,
+        "mean": 2.7541523579,
+        "std": 1.5960175255,
+        "min": 0.2453164357,
+        "25%": 1.7986337657,
+        "50%": 2.4209460173,
+        "75%": 3.4080812954,
+        "max": 6.650207334
+      },
+      {
+        "variable": "tipo_cambio_promedio_soles_usd",
+        "count": 16.0,
+        "mean": 3.0845761382,
+        "std": 0.2703793345,
+        "min": 2.6382679497,
+        "25%": 2.8362153464,
+        "50%": 3.1578055548,
+        "75%": 3.29018723,
+        "max": 3.4970282666
+      },
+      {
+        "variable": "tasa_referencia_promedio_pct",
+        "count": 16.0,
+        "mean": 3.5625,
+        "std": 1.198933747,
+        "min": 0.6666666667,
+        "25%": 2.9635416667,
+        "50%": 3.8125,
+        "75%": 4.234375,
+        "max": 5.8958333333
+      },
+      {
+        "variable": "crecimiento_pbi_real_pct",
+        "count": 16.0,
+        "mean": 4.1618721541,
+        "std": 4.7332606526,
+        "min": -10.9333064926,
+        "25%": 2.4846659359,
+        "50%": 4.9109347723,
+        "75%": 6.6275885262,
+        "max": 9.1265683155
+      }
+    ]
+  },
+  "bcrp_seleccionado": {
+    "filas": 21,
+    "columnas": 6
+  },
+  "columnas_macro_excluidas": [],
+  "variables_incorporadas": [
+    "pbi_real_millones_soles_2007",
+    "inflacion_lima_dic_dic_pct",
+    "tipo_cambio_promedio_soles_usd",
+    "tasa_referencia_promedio_pct",
+    "crecimiento_pbi_real_pct"
+  ],
+  "salida": {
+    "archivo": "data/processed/panel_financiero_macroeconomico.csv",
+    "filas": 4221,
+    "columnas": 62,
+    "sha256": "435148cba6e72380fd96ee809bc7cd8a0875ae629b9c12b04254bf71d38bde99"
+  },
+  "union": {
+    "tipo": "left",
+    "validacion": "many_to_one",
+    "clave_financiera": "Ejercicio",
+    "clave_bcrp": "anio",
+    "usa_anio_objetivo": false,
+    "filas_coincidentes": 4221,
+    "filas_sin_coincidencia": 0
+  },
+  "controles": {
+    "filas_4221": true,
+    "columnas_esperadas": 62,
+    "dimensiones_correctas": true,
+    "empresas_336": true,
+    "identificadores_exactos": true,
+    "relaciones_rpj_ruc_preservadas": true,
+    "crecimiento_pbi_presente": true,
+    "catalogo_coherente": true,
+    "pbi_nivel_excluido_de_predictores": true,
+    "columnas_financieras_57_exactas": true,
+    "tipos_y_orden_preservados": true,
+    "objetivo_y_anio_objetivo_preservados": true,
+    "particiones_preservadas": true,
+    "indicadores_del_mismo_ejercicio": true,
+    "anio_bcrp_unico": true,
+    "duplicados_rpj_ejercicio_antes": 0,
+    "duplicados_rpj_ejercicio_despues": 0,
+    "duplicados_generados": 0,
+    "sin_columna_anio_adicional": true,
+    "relectura_csv_exacta": true,
+    "archivos_preexistentes_preservados": true
+  },
+  "particiones_antes": {
+    "entrenamiento": 2869,
+    "prueba": 691,
+    "sin_etiqueta_elegible": 661
+  },
+  "particiones_despues": {
+    "entrenamiento": 2869,
+    "prueba": 691,
+    "sin_etiqueta_elegible": 661
+  },
+  "cobertura_por_ejercicio": [
+    {
+      "Ejercicio": 2005,
+      "registros_financieros": 194,
+      "empresas": 194,
+      "registros_integrados": 194,
+      "registro_bcrp": true,
+      "filas_macro_completas": 194
+    },
+    {
+      "Ejercicio": 2006,
+      "registros_financieros": 189,
+      "empresas": 189,
+      "registros_integrados": 189,
+      "registro_bcrp": true,
+      "filas_macro_completas": 189
+    },
+    {
+      "Ejercicio": 2007,
+      "registros_financieros": 202,
+      "empresas": 202,
+      "registros_integrados": 202,
+      "registro_bcrp": true,
+      "filas_macro_completas": 202
+    },
+    {
+      "Ejercicio": 2008,
+      "registros_financieros": 207,
+      "empresas": 207,
+      "registros_integrados": 207,
+      "registro_bcrp": true,
+      "filas_macro_completas": 207
+    },
+    {
+      "Ejercicio": 2009,
+      "registros_financieros": 212,
+      "empresas": 212,
+      "registros_integrados": 212,
+      "registro_bcrp": true,
+      "filas_macro_completas": 212
+    },
+    {
+      "Ejercicio": 2010,
+      "registros_financieros": 213,
+      "empresas": 213,
+      "registros_integrados": 213,
+      "registro_bcrp": true,
+      "filas_macro_completas": 213
+    },
+    {
+      "Ejercicio": 2011,
+      "registros_financieros": 216,
+      "empresas": 216,
+      "registros_integrados": 216,
+      "registro_bcrp": true,
+      "filas_macro_completas": 216
+    },
+    {
+      "Ejercicio": 2012,
+      "registros_financieros": 221,
+      "empresas": 221,
+      "registros_integrados": 221,
+      "registro_bcrp": true,
+      "filas_macro_completas": 221
+    },
+    {
+      "Ejercicio": 2013,
+      "registros_financieros": 217,
+      "empresas": 217,
+      "registros_integrados": 217,
+      "registro_bcrp": true,
+      "filas_macro_completas": 217
+    },
+    {
+      "Ejercicio": 2014,
+      "registros_financieros": 215,
+      "empresas": 215,
+      "registros_integrados": 215,
+      "registro_bcrp": true,
+      "filas_macro_completas": 215
+    },
+    {
+      "Ejercicio": 2015,
+      "registros_financieros": 220,
+      "empresas": 220,
+      "registros_integrados": 220,
+      "registro_bcrp": true,
+      "filas_macro_completas": 220
+    },
+    {
+      "Ejercicio": 2016,
+      "registros_financieros": 214,
+      "empresas": 214,
+      "registros_integrados": 214,
+      "registro_bcrp": true,
+      "filas_macro_completas": 214
+    },
+    {
+      "Ejercicio": 2017,
+      "registros_financieros": 214,
+      "empresas": 214,
+      "registros_integrados": 214,
+      "registro_bcrp": true,
+      "filas_macro_completas": 214
+    },
+    {
+      "Ejercicio": 2018,
+      "registros_financieros": 204,
+      "empresas": 204,
+      "registros_integrados": 204,
+      "registro_bcrp": true,
+      "filas_macro_completas": 204
+    },
+    {
+      "Ejercicio": 2019,
+      "registros_financieros": 193,
+      "empresas": 193,
+      "registros_integrados": 193,
+      "registro_bcrp": true,
+      "filas_macro_completas": 193
+    },
+    {
+      "Ejercicio": 2020,
+      "registros_financieros": 193,
+      "empresas": 193,
+      "registros_integrados": 193,
+      "registro_bcrp": true,
+      "filas_macro_completas": 193
+    },
+    {
+      "Ejercicio": 2021,
+      "registros_financieros": 186,
+      "empresas": 186,
+      "registros_integrados": 186,
+      "registro_bcrp": true,
+      "filas_macro_completas": 186
+    },
+    {
+      "Ejercicio": 2022,
+      "registros_financieros": 183,
+      "empresas": 183,
+      "registros_integrados": 183,
+      "registro_bcrp": true,
+      "filas_macro_completas": 183
+    },
+    {
+      "Ejercicio": 2023,
+      "registros_financieros": 180,
+      "empresas": 180,
+      "registros_integrados": 180,
+      "registro_bcrp": true,
+      "filas_macro_completas": 180
+    },
+    {
+      "Ejercicio": 2024,
+      "registros_financieros": 176,
+      "empresas": 176,
+      "registros_integrados": 176,
+      "registro_bcrp": true,
+      "filas_macro_completas": 176
+    },
+    {
+      "Ejercicio": 2025,
+      "registros_financieros": 172,
+      "empresas": 172,
+      "registros_integrados": 172,
+      "registro_bcrp": true,
+      "filas_macro_completas": 172
+    }
+  ],
+  "cobertura_particiones": [
+    {
+      "particion": "entrenamiento",
+      "registros": 2869,
+      "ejercicio_min": 2005,
+      "ejercicio_max": 2020,
+      "objetivo_min": 2006,
+      "objetivo_max": 2021
+    },
+    {
+      "particion": "prueba",
+      "registros": 691,
+      "ejercicio_min": 2021,
+      "ejercicio_max": 2024,
+      "objetivo_min": 2022,
+      "objetivo_max": 2025
+    },
+    {
+      "particion": "sin_etiqueta_elegible",
+      "registros": 661,
+      "ejercicio_min": 2005,
+      "ejercicio_max": 2025,
+      "objetivo_min": 2006,
+      "objetivo_max": 2026
+    }
+  ],
+  "faltantes_por_columna": {
+    "RPJ": 0,
+    "RUC": 0,
+    "NombreEmpresa": 0,
+    "Ejercicio": 0,
+    "TipoEmpresa": 0,
+    "TipoSector": 0,
+    "CIIU": 3872,
+    "TipoInformacion": 0,
+    "Trimestre": 0,
+    "Moneda": 0,
+    "MetodoFlujoEfectivo": 0,
+    "ActivoTotal": 0,
+    "PasivoTotal": 0,
+    "PatrimonioTotal": 0,
+    "TotalIngreso": 0,
+    "UtilidadNeta": 0,
+    "FCO": 90,
+    "CAPEX_reportado": 247,
+    "FCL_preliminar": 323,
+    "codigo_FCO": 90,
+    "codigo_CAPEX": 247,
+    "revision_interanual": 0,
+    "estado_FCL": 0,
+    "segmento_temporal": 0,
+    "historial_previo_contiguo": 0,
+    "pasivo_activo": 0,
+    "margen_neto": 271,
+    "rentabilidad_activo_cierre": 0,
+    "rotacion_activo_cierre": 271,
+    "fco_activo": 90,
+    "fco_ingresos": 356,
+    "inversion_capex_activo": 269,
+    "fcl_activo": 323,
+    "crecimiento_ActivoTotal": 399,
+    "crecimiento_TotalIngreso": 653,
+    "cambio_FCO_activo_previo": 520,
+    "FCO_lag1": 487,
+    "FCO_lag2": 829,
+    "FCO_lag3": 1148,
+    "FCO_mean3_previa": 1208,
+    "FCO_std3_previa": 1208,
+    "cambio_FCL_preliminar_activo_previo": 765,
+    "FCL_preliminar_lag1": 715,
+    "FCL_preliminar_lag2": 1052,
+    "FCL_preliminar_lag3": 1367,
+    "FCL_preliminar_mean3_previa": 1455,
+    "FCL_preliminar_std3_previa": 1455,
+    "moneda_objetivo": 351,
+    "objetivo_fcl_t1": 614,
+    "anio_objetivo": 0,
+    "objetivo_moneda_consistente": 0,
+    "utilizable_supervisado": 0,
+    "particion": 0,
+    "n_features_disponibles": 0,
+    "ingresos_no_positivos": 0,
+    "capex_signo_revisar": 0,
+    "patrimonio_no_positivo": 0,
+    "pbi_real_millones_soles_2007": 0,
+    "inflacion_lima_dic_dic_pct": 0,
+    "tipo_cambio_promedio_soles_usd": 0,
+    "tasa_referencia_promedio_pct": 0,
+    "crecimiento_pbi_real_pct": 0
+  },
+  "faltantes_financieros_antes": {
+    "RPJ": 0,
+    "RUC": 0,
+    "NombreEmpresa": 0,
+    "Ejercicio": 0,
+    "TipoEmpresa": 0,
+    "TipoSector": 0,
+    "CIIU": 3872,
+    "TipoInformacion": 0,
+    "Trimestre": 0,
+    "Moneda": 0,
+    "MetodoFlujoEfectivo": 0,
+    "ActivoTotal": 0,
+    "PasivoTotal": 0,
+    "PatrimonioTotal": 0,
+    "TotalIngreso": 0,
+    "UtilidadNeta": 0,
+    "FCO": 90,
+    "CAPEX_reportado": 247,
+    "FCL_preliminar": 323,
+    "codigo_FCO": 90,
+    "codigo_CAPEX": 247,
+    "revision_interanual": 0,
+    "estado_FCL": 0,
+    "segmento_temporal": 0,
+    "historial_previo_contiguo": 0,
+    "pasivo_activo": 0,
+    "margen_neto": 271,
+    "rentabilidad_activo_cierre": 0,
+    "rotacion_activo_cierre": 271,
+    "fco_activo": 90,
+    "fco_ingresos": 356,
+    "inversion_capex_activo": 269,
+    "fcl_activo": 323,
+    "crecimiento_ActivoTotal": 399,
+    "crecimiento_TotalIngreso": 653,
+    "cambio_FCO_activo_previo": 520,
+    "FCO_lag1": 487,
+    "FCO_lag2": 829,
+    "FCO_lag3": 1148,
+    "FCO_mean3_previa": 1208,
+    "FCO_std3_previa": 1208,
+    "cambio_FCL_preliminar_activo_previo": 765,
+    "FCL_preliminar_lag1": 715,
+    "FCL_preliminar_lag2": 1052,
+    "FCL_preliminar_lag3": 1367,
+    "FCL_preliminar_mean3_previa": 1455,
+    "FCL_preliminar_std3_previa": 1455,
+    "moneda_objetivo": 351,
+    "objetivo_fcl_t1": 614,
+    "anio_objetivo": 0,
+    "objetivo_moneda_consistente": 0,
+    "utilizable_supervisado": 0,
+    "particion": 0,
+    "n_features_disponibles": 0,
+    "ingresos_no_positivos": 0,
+    "capex_signo_revisar": 0,
+    "patrimonio_no_positivo": 0
+  },
+  "faltantes_macro_origen": {
+    "pbi_real_millones_soles_2007": 0,
+    "inflacion_lima_dic_dic_pct": 0,
+    "tipo_cambio_promedio_soles_usd": 0,
+    "tasa_referencia_promedio_pct": 0,
+    "crecimiento_pbi_real_pct": 0
+  },
+  "integridad_identificadores": {
+    "empresas_rpj": 336,
+    "ruc_distintos": 331,
+    "faltantes_rpj": 0,
+    "faltantes_ruc": 0,
+    "filas_ruc_longitud_no_11_origen": 63,
+    "relaciones_rpj_ruc_observadas": [
+      {
+        "RPJ": "B60051",
+        "RUC": "0"
+      },
+      {
+        "RPJ": "CD0010",
+        "RUC": "0"
+      },
+      {
+        "RPJ": "J01554",
+        "RUC": "0"
+      },
+      {
+        "RPJ": "OE2305",
+        "RUC": "0"
+      },
+      {
+        "RPJ": "OE3161",
+        "RUC": "0"
+      },
+      {
+        "RPJ": "OE5087",
+        "RUC": "0"
+      }
+    ],
+    "valores_preservados_exactamente": true
+  },
+  "disponibilidad_indicadores": [
+    {
+      "variable": "pbi_real_millones_soles_2007",
+      "advertencia": "PBI anual del ejercicio t: requiere cierre y publicacion posterior; las cifras consultadas pueden incorporar revisiones posteriores.",
+      "disponibilidad_fecha_prediccion": "NO VERIFICADA"
+    },
+    {
+      "variable": "inflacion_lima_dic_dic_pct",
+      "advertencia": "IPC de Lima de diciembre: la inflacion anual requiere su publicacion; no equivale a IPC nacional ni a inflacion de IPC medios.",
+      "disponibilidad_fecha_prediccion": "NO VERIFICADA"
+    },
+    {
+      "variable": "tipo_cambio_promedio_soles_usd",
+      "advertencia": "Media de 12 promedios mensuales: requiere completar el año y disponer de los registros publicados; no es cierre diario ni promedio diario ponderado.",
+      "disponibilidad_fecha_prediccion": "NO VERIFICADA"
+    },
+    {
+      "variable": "tasa_referencia_promedio_pct",
+      "advertencia": "Media de 12 registros mensuales: requiere completar el año; no es tasa efectiva anual ni tasa de cierre.",
+      "disponibilidad_fecha_prediccion": "NO VERIFICADA"
+    },
+    {
+      "variable": "crecimiento_pbi_real_pct",
+      "advertencia": "Crecimiento anual oficial del PBI: publicacion posterior y posibles revisiones; no se presume estacionariedad.",
+      "disponibilidad_fecha_prediccion": "NO VERIFICADA"
+    }
+  ],
+  "disponibilidad_real_historica": "NO_VERIFICADA",
+  "limitaciones": [
+    "RUC de origen con longitud distinta de 11: 63 filas, 6 empresas; se conservan sin correccion.",
+    "La union verifica correspondencia con Ejercicio, no disponibilidad historica real de los datos.",
+    "Las entradas no incluyen fechas de prediccion, fechas efectivas de publicacion ni versiones historicas disponibles en cada fecha; no se certifica ausencia de fuga por revisiones o publicacion.",
+    "PBI en niveles: referencia excluida de predictores automaticos. El crecimiento es candidato; no se ha demostrado estacionariedad ni idoneidad predictiva.",
+    "Entrenamiento tiene solo 16 años macro distintos; la repeticion por empresa no aumenta la dimension temporal. Validar posteriormente por bloques anuales.",
+    "El cambio en niveles puede sufrir desplazamiento de soporte; no se seleccionan transformaciones ni variables usando la particion de prueba.",
+    "Se preservan las limitaciones y faltantes del panel financiero de origen; esta integracion no reconstruye ni audita su extraccion historica."
+  ],
+  "hashes_archivos_preexistentes": {
+    "data/processed/features_financieras.csv": "0a9cafca02a4272210863c01fdd79f7e1a50573099e5779d09955e19adea5702",
+    "data/processed/macroeconomia_peru_2005_2025.csv": "7dba8aec32f8eae7086b2cb393f7c22d9741314893bef1f8d081bc8d91b1377e",
+    "reports/diccionario_macroeconomia_bcrp.csv": "cbc045cb65ad6ca0c4c10ccb3b81e365a9ad62de0d9655df9b8e64b72cc1e65b",
+    "reports/diccionario_features.md": "b3b62a6c2b7887efc0927cb1f1d56161a75660208a9b303caccbe50fbed3c4e9",
+    "README.md": "9e3f14488b425e62e9cef18c8a588da238b880ecd9984c3f5ab091d40d62db33",
+    "data/raw/base_de_datos.xlsx": "d2d72e7d7874ba93f22d689f1d799315507095ba1a692e29006f0a75053df79c",
+    "data/raw/bcrp/PD04722MM_2005-1_2025-12.json": "05c15f8382da0266ed9858886ada2086276700e599a96ded9acd3b07bf7700a0",
+    "data/raw/bcrp/PM04860AA_2005_2025.json": "2d148e7ea3370f2468ff14e2363519cd497c5aeab87c778a33411bc6e85da421",
+    "data/raw/bcrp/PM04863AA_2005_2025.json": "ed135ac83d4ef5ffd665063a39f34fa17eb6dedeb9c15a02bc9881a187199e5b",
+    "data/raw/bcrp/PN01206PM_2005-1_2025-12.json": "1ef98823104cc56e9f2426697589f1a722b2c42986b5296f45f95540e8d718dc",
+    "data/raw/bcrp/PN38705PM_2004-12_2025-12.json": "c396d2a52d05403f21ae20a597ae9ca8779972e4711a2872b4a341af1b63d277",
+    "data/raw/bcrp/README.md": "dec847c3b6bfa1c7047378c451a0eabb2ae7439fa6765e14c70bc88f3e4ea0ea",
+    "data/raw/bcrp/manifest_2005_2025.json": "cf553e24098181f2663f3b1303c0bc1715edeec6d80d940091cc116a8c402bd5",
+    "data/raw/bcrp/versiones/manifest_325466826023675614e24a0afe7acbba1180c7a90a0c406c349844b986af0dd9.json": "325466826023675614e24a0afe7acbba1180c7a90a0c406c349844b986af0dd9",
+    "data/raw/smv/README.md": "b8a53c86337428eb0697818ce3496c97e0ef9011e7b8eacbdf86ffeeee566520",
+    "data/raw/smv/smv_infofinanciera_2005_A_I.xml": "aa67fcd07a7e6e33b05d2c825c3671aedcdcb1031b8451e9ff336460ad929831",
+    "data/raw/smv/smv_infofinanciera_2006_A_I.xml": "576d1a4e254700fd6dfab59afdf2c82f9fe193c671c2a8dd4c406d05c2fe4527",
+    "data/raw/smv/smv_infofinanciera_2007_A_I.xml": "2366fe014034bc86729ef52fbec4b4654e5531d5052d8da3b8ca42aa7b8d92d5",
+    "data/raw/smv/smv_infofinanciera_2008_A_I.xml": "9fd010d7feaeea117d878a7eb7df8d3477ec7194842e665accce373bfc1b568d",
+    "data/raw/smv/smv_infofinanciera_2009_A_I.xml": "2e9d2ad9783305edea9ddde0e66ffcbc0b733579f8f0491c4bc2b1a1558bd057",
+    "data/raw/smv/smv_infofinanciera_2010_A_I.xml": "5582a139f83a1b6205b015d4247f4c61a3008aebdd93b497960f2a9e4d70e592",
+    "data/raw/smv/smv_infofinanciera_2011_A_I.xml": "c517285915bdfad4948b365cf9cd2c7fe54e7defbfe959f1b7cb2b34ffe5638b",
+    "data/raw/smv/smv_infofinanciera_2012_A_I.xml": "c975cb2581fea87ae20ce07deb7772c5b7c9cac888462874f1589ee02ff2dcc4",
+    "data/raw/smv/smv_infofinanciera_2013_A_I.xml": "dff77007d2899f77cfbc00e951a0d5e136cf6caee1b43f6d1351486128f3457e",
+    "data/raw/smv/smv_infofinanciera_2014_A_I.xml": "17e2484b1e9a10c2495586b8618edb2826cd84a7b40533cf7153c347db3d4460",
+    "data/raw/smv/smv_infofinanciera_2015_A_I.xml": "67c7c9951f18b688d54e5ef037e705ccc80442bfa3b6c0241ceec1467a7f4597",
+    "data/raw/smv/smv_infofinanciera_2016_A_I.xml": "459bcc7672c1c17d1aec5c9092b01f009b34b3aace762faf7db374e771be4dbe",
+    "data/raw/smv/smv_infofinanciera_2017_A_I.xml": "7d6da0d28c668d1c95f4d9eb6511c0ce428c8ea79c6738941b11c9054f487918",
+    "data/raw/smv/smv_infofinanciera_2018_A_I.xml": "8d8cdd21cd94ff80eb6a3b0fc93273686dfd9250569af778917202bc23eebedf",
+    "data/raw/smv/smv_infofinanciera_2019_A_I.xml": "9ee5362d38d01b270793934e7c6b4d37c30e80a3986e29291379254a177d8f70",
+    "data/raw/smv/smv_infofinanciera_2020_A_I.xml": "d5255bb411dbda49d27690687b687439960953c4db2146b65aef1f06a9446471",
+    "data/raw/smv/smv_infofinanciera_2021_A_I.xml": "e358852429878ba80ab0fdab76cc055266d6c4d6dec784e6a68794b524268849",
+    "data/raw/smv/smv_infofinanciera_2022_A_I.xml": "d7da9611726bea003145e5bbeb191dec5e4e3ac21e4bae8fe56a50ee3487c585",
+    "data/raw/smv/smv_infofinanciera_2023_A_I.xml": "36747c36bcdc668ef70b6706a0efb23d32a3eb6393554a2a6cff71c516fd22c3",
+    "data/raw/smv/smv_infofinanciera_2024_A_I.xml": "51c1a21243e0a240317d9969e1e888c31a61247fbdcccc1465512d3ef471bae2",
+    "data/raw/smv/smv_infofinanciera_2025_A_I.xml": "9c2dd5411066e2f635bb23b5f84741acbc4069c9053704f480331e079afd16e5",
+    "data/raw/smv/smv_infofinanciera_2025_A_I_20261002_213002.xml": "9c2dd5411066e2f635bb23b5f84741acbc4069c9053704f480331e079afd16e5",
+    "notebooks/02_feature_engineering.ipynb": "2fdb6abc664ed3b5b73b9526bb4f20aa551bc7793159835807b70028ab2c0157",
+    "notebooks/03_extraccion_macroeconomica.ipynb": "2a892aee84c14282b215f883e8c6fb6f2194dbdfb752830103157fe40b8f3464",
+    "notebooks/EDA_FCL_2005_2025.ipynb": "f30f89b13414bc19a22e2cd52f509b108253fbd557af398f6b2527cefa9ae25a"
+  },
+  "ejecucion": {
+    "bloques_codigo": 10,
+    "bloques_previos_completados": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

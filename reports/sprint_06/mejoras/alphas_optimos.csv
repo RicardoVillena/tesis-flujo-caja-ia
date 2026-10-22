@@ -1,0 +1,46 @@
+moneda,grupo,especificacion,experimento,alpha,mse_cv,rmse_cv
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,73144044186.2312,270451.5560802548
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,73144044186.2312,270451.5560802548
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,73427703919.78867,270975.46737627126
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,73427703919.78867,270975.46737627126
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,73484972144.13043,271081.1172769701
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,73484972144.13043,271081.1172769701
+D lares,todas,niveles_t_externos_t,E0_financiero,1000.0,73484972144.13043,271081.1172769701
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1000.0,73484972144.13043,271081.1172769701
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,74000635419.0109,272030.5780955716
+D lares,todas,niveles_t_externos_t,E2_bursatil,1000.0,74000635419.0109,272030.5780955716
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,74420228263.05359,272800.7116249032
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,74420228263.05359,272800.7116249032
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,80546415027.6329,283807.00313352543
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,80546415027.6329,283807.00313352543
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,80837720106.6987,284319.74976546864
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,80837720106.6987,284319.74976546864
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,80978136042.42422,284566.57576466043
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,80978136042.42422,284566.57576466043
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,114538763698.20654,338435.7600759804
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,114577438719.38783,338492.893159351
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,114653409269.35397,338605.093389562
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,116883497574.33273,341882.2861371041
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,116901439128.86493,341908.5245045302
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,116924756871.43073,341942.622191839
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,116942192131.2289,341968.11566464626
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,116959109409.93408,341992.84993978176
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,116959109409.93408,341992.84993978176
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,713440580949.6664,844654.1191219435
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10.0,713863966138.1344,844904.7083181242
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,714425164827.6945,845236.7507554877
+Soles,todas,niveles_t_externos_t,E2_bursatil,100.0,714612128321.6975,845347.3418197383
+Soles,todas,niveles_t_externos_t,E0_financiero,10.0,714950821022.3164,845547.6456251986
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10.0,714950821022.3164,845547.6456251986
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,731449983359.217,855248.4921700926
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,731624357481.1558,855350.4296375584
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,731993263895.4271,855566.0488211458
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,8332905000405.32,2886677.155555384
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,8395598277049.1875,2897515.88037912
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,100.0,8408913195944.502,2899812.6139363735
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,8493159094816.998,2914302.5057150465
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,8633538686990.498,2938288.3941149306
+Soles,bancario,niveles_t_externos_t,E0_financiero,100.0,8671732617229.334,2944780.5720001166
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,100.0,8671732617229.334,2944780.5720001166
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,100.0,8797618746240.197,2966078.007443533
+Soles,bancario,niveles_t_externos_t,E2_bursatil,100.0,8902392968744.262,2983687.8135529296

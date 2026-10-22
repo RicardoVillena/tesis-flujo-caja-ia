@@ -1,0 +1,38 @@
+{
+  "PM04860AA": {
+    "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PM04860AA/json/2005/2025/esp",
+    "consultado_utc": "2026-10-21T20:45:55.457203+00:00",
+    "archivo": "data/raw/bcrp/PM04860AA_2005_2025.json",
+    "sha256": "2d148e7ea3370f2468ff14e2363519cd497c5aeab87c778a33411bc6e85da421",
+    "http_status": 200
+  },
+  "PN38705PM": {
+    "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN38705PM/json/2004-12/2025-12/esp",
+    "consultado_utc": "2026-10-21T20:45:55.753027+00:00",
+    "archivo": "data/raw/bcrp/PN38705PM_2004-12_2025-12.json",
+    "sha256": "c396d2a52d05403f21ae20a597ae9ca8779972e4711a2872b4a341af1b63d277",
+    "http_status": 200
+  },
+  "PN01206PM": {
+    "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01206PM/json/2005-1/2025-12/esp",
+    "consultado_utc": "2026-10-21T20:45:55.976047+00:00",
+    "archivo": "data/raw/bcrp/PN01206PM_2005-1_2025-12.json",
+    "sha256": "1ef98823104cc56e9f2426697589f1a722b2c42986b5296f45f95540e8d718dc",
+    "http_status": 200
+  },
+  "PD04722MM": {
+    "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD04722MM/json/2005-1/2025-12/esp",
+    "consultado_utc": "2026-10-21T20:45:56.182725+00:00",
+    "archivo": "data/raw/bcrp/PD04722MM_2005-1_2025-12.json",
+    "sha256": "05c15f8382da0266ed9858886ada2086276700e599a96ded9acd3b07bf7700a0",
+    "http_status": 200
+  },
+  "PM04863AA": {
+    "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PM04863AA/json/2005/2025/esp",
+    "consultado_utc": "2026-10-21T21:30:02.542645+00:00",
+    "archivo": "data/raw/bcrp/PM04863AA_2005_2025.json",
+    "sha256": "ed135ac83d4ef5ffd665063a39f34fa17eb6dedeb9c15a02bc9881a187199e5b",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8"
+  }
+}

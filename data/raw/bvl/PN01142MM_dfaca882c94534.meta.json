@@ -1,0 +1,13 @@
+{
+  "metodo": "GET",
+  "url_solicitada": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01142MM/json/2004-12/2025-12/esp",
+  "solicitud": null,
+  "consultado_utc": "2026-10-22T00:49:49.367090+00:00",
+  "firma_solicitud": "dfaca882c945347ecd43a1546bfbdc588fc8342f3dcc14c7aed46fe1f8b0f5f9",
+  "http_status": 200,
+  "url_final": "https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01142MM/json/2004-12/2025-12/esp",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "archivo": "data/raw/bvl/PN01142MM_dfaca882c94534.bin",
+  "sha256": "79da70c3f90b0c194cd3178589fd626b372f846ae0b77430d4285b05e818f8c7"
+}

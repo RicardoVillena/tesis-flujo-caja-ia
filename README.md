@@ -270,25 +270,23 @@ Para esta investigación se priorizarán las operaciones `obtener_InfoFinanciera
 
 El proceso de ingesta realizará consultas automáticas por ejercicio, periodo y tipo de información financiera mediante scripts desarrollados en Python. Estos scripts enviarán solicitudes al Web Service de la SMV, recibirán respuestas en formato XML/SOAP, extraerán los registros y los convertirán a una estructura tabular adecuada para su procesamiento.
 
-Los datos obtenidos serán organizados en tres niveles. La capa BRONZE almacenará la información original sin modificaciones; la capa SILVER contendrá los datos limpiados, homologados, normalizados y validados; y la capa GOLD contendrá el dataset final preparado para el cálculo del Flujo de Caja Libre y el desarrollo de los modelos de inteligencia artificial.
+La información recopilada se organizará en tres etapas. En la primera se conservarán los datos originales obtenidos de las fuentes oficiales, sin alterar su contenido. En la segunda se efectuarán los procedimientos de depuración, homologación, normalización y validación de los registros. Finalmente, se integrarán las variables financieras, macroeconómicas y bursátiles en un conjunto de datos estructurado para el cálculo del Flujo de Caja Libre y el desarrollo de los modelos predictivos.
 
-El flujo general será: SMV Web Service → consulta de información financiera → obtención del Balance General, Estado de Ganancias y Pérdidas y Estado de Flujo de Efectivo → recepción de respuestas XML/SOAP → transformación de registros → almacenamiento BRONZE → limpieza y homologación SILVER → construcción del dataset GOLD → cálculo del Flujo de Caja Libre → modelado mediante inteligencia artificial.
+El proceso comprenderá la consulta automatizada de los servicios de información financiera de la SMV, la recuperación de los estados financieros, la recepción y transformación de los registros XML/SOAP, el almacenamiento de los archivos originales, la depuración y validación de los datos y la construcción del conjunto de información consolidado. Posteriormente, se incorporarán las variables macroeconómicas y bursátiles disponibles, y se preparará el conjunto de datos para el entrenamiento y evaluación de los modelos de inteligencia artificial.
 
 Para garantizar la trazabilidad y reproducibilidad del proceso, cada consulta almacenará metadatos como fecha de ingesta, fuente, operación utilizada, ejercicio, periodo, tipo de información, empresa, estado de la consulta, número de registros y archivo de origen.
 
-### Arquitectura de ingesta
+### Proceso de adquisición, preparación e integración de datos
 
-La información será organizada utilizando una arquitectura de tres niveles:
+El procesamiento de la información comprende tres etapas:
 
-```text
-BRONZE
-Datos originales obtenidos desde la fuente sin modificaciones.
+1. Adquisición de datos: recuperación y almacenamiento de los registros originales procedentes de las fuentes oficiales, conservando su estructura y procedencia.
 
-SILVER
-Datos limpiados, homologados, transformados y validados.
+2. Preparación y validación: depuración de registros, homologación de variables, estandarización de formatos y verificación de consistencia temporal y financiera.
 
-GOLD
-Dataset final preparado para análisis estadístico y modelos de inteligencia artificial.
+3. Integración de datos: consolidación de las variables empresariales, macroeconómicas y bursátiles en un conjunto de información longitudinal destinado al análisis estadístico y al desarrollo de modelos predictivos.
+
+---
 
 # Pipeline de la investigación
 

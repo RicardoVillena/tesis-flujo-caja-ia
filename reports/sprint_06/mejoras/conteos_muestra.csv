@@ -1,0 +1,7 @@
+Moneda,grupo_bancario,particion,n,empresas,inicio,fin
+D lares,no_bancario,entrenamiento,353,49,2006,2021
+D lares,no_bancario,prueba,92,26,2022,2025
+Soles,bancario,entrenamiento,172,23,2013,2021
+Soles,bancario,prueba,82,22,2022,2025
+Soles,no_bancario,entrenamiento,2344,246,2006,2021
+Soles,no_bancario,prueba,517,139,2022,2025

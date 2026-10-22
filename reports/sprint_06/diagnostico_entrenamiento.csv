@@ -1,0 +1,53 @@
+moneda,variable,faltantes_train,extremos_train,desviacion_train
+D lares,pasivo_activo,0,1,0.23235468013026103
+D lares,margen_neto,27,22,0.2810148103385745
+D lares,rentabilidad_activo_cierre,0,43,0.1477899596883261
+D lares,rotacion_activo_cierre,27,28,0.7322390704587959
+D lares,fco_activo,10,29,0.20448744106763098
+D lares,fco_ingresos,36,14,0.3013506699135374
+D lares,inversion_capex_activo,0,16,0.0566702602424739
+D lares,crecimiento_ActivoTotal,52,19,0.22797092939725852
+D lares,crecimiento_TotalIngreso,70,19,0.7980442872772606
+D lares,cambio_FCO_activo_previo,71,34,0.19139188896822826
+D lares,FCO_lag1,68,26,246803.10628860412
+D lares,FCO_lag2,112,23,250411.74012383338
+D lares,FCO_lag3,154,20,263303.7524373756
+D lares,FCO_std3_previa,169,22,115386.16907563232
+D lares,cambio_FCL_preliminar_activo_previo,71,29,0.19925077965139348
+D lares,FCL_preliminar_lag1,68,47,243845.60333107968
+D lares,FCL_preliminar_lag2,112,45,254240.77223712453
+D lares,FCL_preliminar_lag3,154,36,279938.8390940626
+D lares,FCL_preliminar_std3_previa,169,25,192883.80497289222
+D lares,inflacion_lima_dic_dic_pct,0,0,1.4852608288190776
+D lares,tipo_cambio_promedio_soles_usd,0,0,0.2704256236862552
+D lares,tasa_referencia_promedio_pct,0,0,1.1506936940784722
+D lares,crecimiento_pbi_real_pct,0,23,4.587883415889861
+D lares,rentabilidad_indice_anual_pct,0,22,52.900302269623985
+D lares,volatilidad_diaria_anualizada_pct,0,21,9.578834857047289
+D lares,monto_renta_variable_anual_millones_pen,0,21,6127.335069277835
+Soles,pasivo_activo,0,10,0.4587977876094749
+Soles,margen_neto,141,346,112.9226183045993
+Soles,rentabilidad_activo_cierre,0,216,1.173036433262523
+Soles,rotacion_activo_cierre,141,91,0.5439172626274633
+Soles,fco_activo,41,158,7.062456246840164
+Soles,fco_ingresos,181,337,134.88679861557318
+Soles,inversion_capex_activo,62,185,0.11498127216578403
+Soles,crecimiento_ActivoTotal,243,204,5658.920558334105
+Soles,crecimiento_TotalIngreso,376,251,11.07335734175887
+Soles,cambio_FCO_activo_previo,303,251,8.1867233921812
+Soles,FCO_lag1,289,362,402311.73168860393
+Soles,FCO_lag2,509,326,380004.64737603226
+Soles,FCO_lag3,720,288,385834.30369776266
+Soles,FCO_std3_previa,761,189,364445.2284090838
+Soles,cambio_FCL_preliminar_activo_previo,392,216,8.356932700523787
+Soles,FCL_preliminar_lag1,370,415,374344.20902891096
+Soles,FCL_preliminar_lag2,619,364,347333.6814399205
+Soles,FCL_preliminar_lag3,855,314,351503.2359514351
+Soles,FCL_preliminar_std3_previa,912,178,358002.12011222506
+Soles,inflacion_lima_dic_dic_pct,0,149,1.5015680677844727
+Soles,tipo_cambio_promedio_soles_usd,0,0,0.2667319976759256
+Soles,tasa_referencia_promedio_pct,0,160,1.1446999042795798
+Soles,crecimiento_pbi_real_pct,0,160,4.552553658768903
+Soles,rentabilidad_indice_anual_pct,0,138,52.053494201251006
+Soles,volatilidad_diaria_anualizada_pct,0,149,9.376812845536534
+Soles,monto_renta_variable_anual_millones_pen,0,143,6154.298027504305

@@ -1,0 +1,253 @@
+{
+  "estado": "COMPLETADO_CON_LIMITACIONES",
+  "verificado_utc": "2026-10-22T00:55:10.807421+00:00",
+  "python": "3.12.15",
+  "versiones": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "requests": "2.34.2",
+    "beautifulsoup4": "4.15.0",
+    "nbclient": "0.11.0",
+    "nbformat": "5.11.1"
+  },
+  "mercado_anios": 21,
+  "series_bcrp": 7,
+  "empresas_conservadas": 336,
+  "emisores_identificados_smv": 154,
+  "empresas_con_resultados_smv": 161,
+  "filas_registro_smv": 1032,
+  "instrumentos_registrales": 849,
+  "filas_isin_no_validos": 1032,
+  "historicos_individuales_descargados": 0,
+  "observaciones_diarias_mercado": 5478,
+  "observaciones_mensuales_mercado_incluida_base": 253,
+  "anios_discrepancia_rentabilidad_diaria_mensual": 11,
+  "diferencia_max_indice_anual_mensual_puntos": 16.859999999999673,
+  "montos_diarios_negativos": 3,
+  "identidades_instrumentales_completas": 0,
+  "cotizaciones_snapshot_fuera_periodo": 138,
+  "monedas_snapshot": {
+    "SOLES": 801,
+    "DOLARES": 231
+  },
+  "frecuencia_negociacion_individual": "NO_EVALUABLE",
+  "api_bvl_historica": "NO_VERIFICADA",
+  "disponibilidad_historica": "NO_VERIFICADA",
+  "limitaciones": [
+    "La serie diaria de monto negociado contiene valores negativos; se conservan como anomalias de origen y no se calcula la suma anual del año afectado.",
+    "No se obtuvieron series historicas individuales; no se generan rentabilidades, volatilidades ni juicios de iliquidez por empresa.",
+    "SMV es una instantanea de valores, no una reconstruccion de altas, bajas o clases vigentes en cada fecha. No eliminar empresas segun su estado actual.",
+    "Ultimas cotizaciones posteriores a 2025 no entran en indicadores historicos; permanecen solo en el registro de consulta.",
+    "ISIN truncados, nombres sin coincidencia y montos inscritos contradictorios requieren verificacion adicional; no se corrigen ni se completan identificadores.",
+    "Mayo 2015 cambia el marco de calculo de indices; se usa la continuidad publicada por BCRP, sin certificar homogeneidad metodologica ni mezclar versiones de precio y retorno total.",
+    "Existen discrepancias entre retornos diarios compuestos y variaciones de cierres mensuales, y entre publicaciones de indices anuales y mensuales. No se consideran intercambiables ni se corrigen diferencias con factores estimados.",
+    "Las rentabilidades son variaciones del indice publicado; no se reconstruye por separado el tratamiento de dividendos o acciones corporativas.",
+    "La volatilidad usa sqrt(252) y registros disponibles; los umbrales de 200 dias y 12 meses son controles descriptivos, no certifican cobertura de sesiones.",
+    "Los datos consultados pueden estar revisados; faltan fechas efectivas de publicacion y versiones historicas para certificar ausencia de fuga temporal.",
+    "No se calculan escaladores, umbrales de outliers ni seleccion de predictores usando el periodo completo; no se integra ni se entrena un modelo."
+  ],
+  "salidas": {
+    "data/processed/bursatil_mercado_anual.csv": {
+      "filas": 21,
+      "columnas": 17,
+      "sha256": "f2f29a4a70cefe51c24a2b9b0e6e8a0a31ca75b856d4d24b897dc44b24bd4dfe"
+    },
+    "data/processed/bursatil_mercado_mensual.csv": {
+      "filas": 253,
+      "columnas": 4,
+      "sha256": "a0522c12621af4f737018af0cd678a14d9214b85a9f544504e27823cce987711"
+    },
+    "data/processed/bursatil_mercado_diario.csv": {
+      "filas": 5478,
+      "columnas": 4,
+      "sha256": "df3cebc3b15d7770ec4128ec2bb54927f270d32ba3133de8290ec348c4519ea1"
+    },
+    "data/processed/bursatil_empresas_cobertura.csv": {
+      "filas": 336,
+      "columnas": 14,
+      "sha256": "dc602de27ce324c372e9f5fcee39176a43a50ed7f57c8af29d5d9d177429760e"
+    },
+    "data/processed/bursatil_registro_smv.csv": {
+      "filas": 1032,
+      "columnas": 30,
+      "sha256": "b956f9a3aaf1f048cb687481061fb8de99196988407b277e38bc07f245a85ad4"
+    },
+    "data/processed/bursatil_instrumentos_smv.csv": {
+      "filas": 849,
+      "columnas": 16,
+      "sha256": "9ac863c55669a2f8e917bf6d2782c45e5a96e3df693d3450706ab0caf2fa9be1"
+    },
+    "reports/bursatil_cobertura_mercado.csv": {
+      "filas": 21,
+      "columnas": 9,
+      "sha256": "a05c61c886d1653b4738666833a19ea8c98213fa6b9c4e3f17e564939b512b3f"
+    },
+    "reports/bursatil_cobertura_empresas_anual.csv": {
+      "filas": 7056,
+      "columnas": 5,
+      "sha256": "245ad0457538d2b1334398083ee25be2910deb9c40327c6a8f13aeb26dad1e7a"
+    },
+    "reports/bursatil_cobertura_instrumentos_anual.csv": {
+      "filas": 17829,
+      "columnas": 8,
+      "sha256": "833646f165d4ac5430b750805d6389e19ab1c98955173d1aaf40327cd972198e"
+    },
+    "reports/bursatil_calidad_series.csv": {
+      "filas": 7,
+      "columnas": 8,
+      "sha256": "11542048de16a65d34c7436d063eb829183a9a472623d510944236d9a1f5f20d"
+    },
+    "reports/bursatil_anomalias_montos.csv": {
+      "filas": 3,
+      "columnas": 2,
+      "sha256": "807ccd0d39e6f5e88bbd1f5ea665d6f4078ba6543022411dbf06cddcbd2b5d6b"
+    },
+    "reports/bursatil_periodos_faltantes.csv": {
+      "filas": 385,
+      "columnas": 3,
+      "sha256": "e991b36bd0c50d8da62ddc577e68ac4e73be4284eb546d1fa370d9c0e83c2554"
+    },
+    "reports/bursatil_consultas_smv.csv": {
+      "filas": 512,
+      "columnas": 9,
+      "sha256": "6628c95a8433297d28d14b6cce13e36c03df3eaef7dbf9f57529a527ea0a7ee6"
+    },
+    "reports/bursatil_fuentes.csv": {
+      "filas": 3,
+      "columnas": 6,
+      "sha256": "a72ee4674505a28e7dd117496f7765de81135faf9c2a04e924955d2c903ee7e3"
+    },
+    "reports/bursatil_diccionario_series.csv": {
+      "filas": 7,
+      "columnas": 11,
+      "sha256": "5ff821f7a29c4007ce6df21686e84bc5e1ddd4af17f7fe1b5e55d12d226ad3af"
+    },
+    "reports/bursatil_diccionario_indicadores.csv": {
+      "filas": 17,
+      "columnas": 5,
+      "sha256": "a8079fa834916a57737421cb23c019b829d08e53deaf1eb4b0786ba89e92fead"
+    },
+    "reports/bursatil_faltantes_mercado.csv": {
+      "filas": 22,
+      "columnas": 3,
+      "sha256": "b55f1eab34e8cfd2f46f9a1cae5fff71b80fb7d15ccee4fec7484b9d1ba0e420"
+    },
+    "reports/bursatil_calidad_instrumentos.csv": {
+      "filas": 3,
+      "columnas": 2,
+      "sha256": "5dd26b9b996fc39ab8be3bce28e2bdd500e054a45c685e98ccc49b3f09f08b5c"
+    },
+    "reports/bursatil_monedas_smv.csv": {
+      "filas": 2,
+      "columnas": 3,
+      "sha256": "4137e4ac8094c12c24d25891fef9df212a8ed0f1a57fd8bb7163c231e06be877"
+    },
+    "reports/bursatil_verificacion_calculos.csv": {
+      "filas": 21,
+      "columnas": 4,
+      "sha256": "f93c1afa4cb85592f4c6624dd44528f3b8863d380343379695223451b01f80d4"
+    }
+  },
+  "pruebas": [
+    "rentabilidad diciembre/diciembre",
+    "volatilidad ddof=1 y sqrt252",
+    "composicion diaria por dos formulas",
+    "sin duplicados temporales",
+    "336 empresas y 7056 filas de cobertura anual",
+    "ISIN checksum",
+    "n.d. sin imputacion",
+    "relectura CSV exacta",
+    "hash de cada respuesta",
+    "archivos anteriores sin cambios"
+  ],
+  "archivos_preexistentes_preservados": {
+    "README.md": "9e3f14488b425e62e9cef18c8a588da238b880ecd9984c3f5ab091d40d62db33",
+    "notebooks/02_feature_engineering.ipynb": "2fdb6abc664ed3b5b73b9526bb4f20aa551bc7793159835807b70028ab2c0157",
+    "notebooks/03_extraccion_macroeconomica.ipynb": "2a892aee84c14282b215f883e8c6fb6f2194dbdfb752830103157fe40b8f3464",
+    "notebooks/04_integracion_datos.ipynb": "c54c169d0e22a172618a31375eb0a16caa3fcfcb3ad79549bdfa782cf2676bd9",
+    "notebooks/EDA_FCL_2005_2025.ipynb": "f30f89b13414bc19a22e2cd52f509b108253fbd557af398f6b2527cefa9ae25a",
+    "data/README.md": "bc7f701b95cefc290281d7074e16239f7a7dfd15e0b0d46d8923824264fefa95",
+    "data/processed/features_financieras.csv": "0a9cafca02a4272210863c01fdd79f7e1a50573099e5779d09955e19adea5702",
+    "data/processed/macroeconomia_peru_2005_2025.csv": "7dba8aec32f8eae7086b2cb393f7c22d9741314893bef1f8d081bc8d91b1377e",
+    "data/processed/panel_fcl_preliminar.csv": "5e27fa02d209b571c4e4e5da26137d6f12a3d7b8c2c1125f6de2d982a6ac8008",
+    "data/processed/panel_financiero_macroeconomico.csv": "435148cba6e72380fd96ee809bc7cd8a0875ae629b9c12b04254bf71d38bde99",
+    "data/raw/base_de_datos.xlsx": "d2d72e7d7874ba93f22d689f1d799315507095ba1a692e29006f0a75053df79c",
+    "data/raw/bcrp/PD04722MM_2005-1_2025-12.json": "05c15f8382da0266ed9858886ada2086276700e599a96ded9acd3b07bf7700a0",
+    "data/raw/bcrp/PM04860AA_2005_2025.json": "2d148e7ea3370f2468ff14e2363519cd497c5aeab87c778a33411bc6e85da421",
+    "data/raw/bcrp/PM04863AA_2005_2025.json": "ed135ac83d4ef5ffd665063a39f34fa17eb6dedeb9c15a02bc9881a187199e5b",
+    "data/raw/bcrp/PN01206PM_2005-1_2025-12.json": "1ef98823104cc56e9f2426697589f1a722b2c42986b5296f45f95540e8d718dc",
+    "data/raw/bcrp/PN38705PM_2004-12_2025-12.json": "c396d2a52d05403f21ae20a597ae9ca8779972e4711a2872b4a341af1b63d277",
+    "data/raw/bcrp/README.md": "dec847c3b6bfa1c7047378c451a0eabb2ae7439fa6765e14c70bc88f3e4ea0ea",
+    "data/raw/bcrp/manifest_2005_2025.json": "cf553e24098181f2663f3b1303c0bc1715edeec6d80d940091cc116a8c402bd5",
+    "data/raw/bcrp/versiones/manifest_325466826023675614e24a0afe7acbba1180c7a90a0c406c349844b986af0dd9.json": "325466826023675614e24a0afe7acbba1180c7a90a0c406c349844b986af0dd9",
+    "data/raw/smv/README.md": "b8a53c86337428eb0697818ce3496c97e0ef9011e7b8eacbdf86ffeeee566520",
+    "data/raw/smv/smv_infofinanciera_2005_A_I.xml": "aa67fcd07a7e6e33b05d2c825c3671aedcdcb1031b8451e9ff336460ad929831",
+    "data/raw/smv/smv_infofinanciera_2006_A_I.xml": "576d1a4e254700fd6dfab59afdf2c82f9fe193c671c2a8dd4c406d05c2fe4527",
+    "data/raw/smv/smv_infofinanciera_2007_A_I.xml": "2366fe014034bc86729ef52fbec4b4654e5531d5052d8da3b8ca42aa7b8d92d5",
+    "data/raw/smv/smv_infofinanciera_2008_A_I.xml": "9fd010d7feaeea117d878a7eb7df8d3477ec7194842e665accce373bfc1b568d",
+    "data/raw/smv/smv_infofinanciera_2009_A_I.xml": "2e9d2ad9783305edea9ddde0e66ffcbc0b733579f8f0491c4bc2b1a1558bd057",
+    "data/raw/smv/smv_infofinanciera_2010_A_I.xml": "5582a139f83a1b6205b015d4247f4c61a3008aebdd93b497960f2a9e4d70e592",
+    "data/raw/smv/smv_infofinanciera_2011_A_I.xml": "c517285915bdfad4948b365cf9cd2c7fe54e7defbfe959f1b7cb2b34ffe5638b",
+    "data/raw/smv/smv_infofinanciera_2012_A_I.xml": "c975cb2581fea87ae20ce07deb7772c5b7c9cac888462874f1589ee02ff2dcc4",
+    "data/raw/smv/smv_infofinanciera_2013_A_I.xml": "dff77007d2899f77cfbc00e951a0d5e136cf6caee1b43f6d1351486128f3457e",
+    "data/raw/smv/smv_infofinanciera_2014_A_I.xml": "17e2484b1e9a10c2495586b8618edb2826cd84a7b40533cf7153c347db3d4460",
+    "data/raw/smv/smv_infofinanciera_2015_A_I.xml": "67c7c9951f18b688d54e5ef037e705ccc80442bfa3b6c0241ceec1467a7f4597",
+    "data/raw/smv/smv_infofinanciera_2016_A_I.xml": "459bcc7672c1c17d1aec5c9092b01f009b34b3aace762faf7db374e771be4dbe",
+    "data/raw/smv/smv_infofinanciera_2017_A_I.xml": "7d6da0d28c668d1c95f4d9eb6511c0ce428c8ea79c6738941b11c9054f487918",
+    "data/raw/smv/smv_infofinanciera_2018_A_I.xml": "8d8cdd21cd94ff80eb6a3b0fc93273686dfd9250569af778917202bc23eebedf",
+    "data/raw/smv/smv_infofinanciera_2019_A_I.xml": "9ee5362d38d01b270793934e7c6b4d37c30e80a3986e29291379254a177d8f70",
+    "data/raw/smv/smv_infofinanciera_2020_A_I.xml": "d5255bb411dbda49d27690687b687439960953c4db2146b65aef1f06a9446471",
+    "data/raw/smv/smv_infofinanciera_2021_A_I.xml": "e358852429878ba80ab0fdab76cc055266d6c4d6dec784e6a68794b524268849",
+    "data/raw/smv/smv_infofinanciera_2022_A_I.xml": "d7da9611726bea003145e5bbeb191dec5e4e3ac21e4bae8fe56a50ee3487c585",
+    "data/raw/smv/smv_infofinanciera_2023_A_I.xml": "36747c36bcdc668ef70b6706a0efb23d32a3eb6393554a2a6cff71c516fd22c3",
+    "data/raw/smv/smv_infofinanciera_2024_A_I.xml": "51c1a21243e0a240317d9969e1e888c31a61247fbdcccc1465512d3ef471bae2",
+    "data/raw/smv/smv_infofinanciera_2025_A_I.xml": "9c2dd5411066e2f635bb23b5f84741acbc4069c9053704f480331e079afd16e5",
+    "data/raw/smv/smv_infofinanciera_2025_A_I_20261002_213002.xml": "9c2dd5411066e2f635bb23b5f84741acbc4069c9053704f480331e079afd16e5",
+    "reports/auditoria_extraccion_macroeconomica.md": "7c23652a5eb97831a955d88fbf794825f11d79958fad1ee46d2154ba77227704",
+    "reports/auditoria_feature_engineering.md": "6f37df5d108e317d00bc909900e8d5a7cf632c30a49a524e3feb5d8d9c801d99",
+    "reports/auditoria_integracion_datos.md": "dbdfe007d1094896f7acaf678dfa84ab66ddde69b4cb64041b156221bc7d9084",
+    "reports/banderas_macroeconomia_bcrp.csv": "850ea5154307c2c9b38a5e12b3e0af5433507996c7f053760320d6bbf37bfaf7",
+    "reports/calidad_macroeconomia_bcrp.csv": "326c787467cab7c966a3798dfac08ad405e642e1bc36d8eb153f36ef89a3bfc9",
+    "reports/cobertura_mensual_bcrp.csv": "32afac68a1276ba5bae7ed21933bc37cb06174d8c85f15acb55f8d3a7b9ff4b6",
+    "reports/correcciones_antigravity.md": "356f5a11e30d2aef63ef4be34babfdce5503e5133b0b7a5b1700fc9f4f711a0f",
+    "reports/correcciones_extraccion_macroeconomica.md": "4cd42e1c1cc17c3be979a2fc86adcfe775ca27336fc6320d5cfa82eac579f8d3",
+    "reports/diccionario_features.md": "b3b62a6c2b7887efc0927cb1f1d56161a75660208a9b303caccbe50fbed3c4e9",
+    "reports/diccionario_integracion_datos.csv": "ae8c34447e21feb48a2d1b5b88e8548935915c1eac421cc046fa3e468a2c1abd",
+    "reports/diccionario_macroeconomia_bcrp.csv": "cbc045cb65ad6ca0c4c10ccb3b81e365a9ad62de0d9655df9b8e64b72cc1e65b",
+    "reports/entrega_semana5.md": "c41f11d4d91534b44787e7a2e49a2f49139d4f5a74909c19f5d52e1022eccaae",
+    "reports/extremos_macroeconomia_bcrp.csv": "9776db294cf3cbb6fd3993ca0e99128880c636875c2ca9a628ef012a3a4e5049",
+    "reports/procedimiento_smv.md": "0657d48c311942a36595cb238a4c853a70762187b9e01390ba6d9eb598bbfc66",
+    "reports/resultados_pruebas.txt": "151aeee6bfd9d678dd4ef04f43fc9ef4df02618e9c55d6dd3ad15de91738cba2",
+    "reports/resumen_feature_engineering.md": "5e67ec70394e6cab1669dd648840eea57489ba2398f8f77030503743e62b76b6",
+    "reports/revision_entrega_semana5.md": "3723a9bc798617504ee5e7d14bf72c0ac08fcb369c598d055d909465c153eaeb",
+    "reports/trazabilidad_smv.json": "92e7db3d004d85c4a7a18f7fba48531b24ae87310a072541e5f50c231174af2c",
+    "reports/trazabilidad_variables.md": "2da16692ab302c9b8f652e2f0eb0906e0badd621f5e66422e5f9677f53a6c4d7",
+    "reports/umbrales_macroeconomia_bcrp.csv": "febd35cd96ea5e4669543f4a3940acce9967cda043848557678f4a28085bcf6b",
+    "reports/validacion_calculos.json": "bb5b7bd47596b3f3f1d7cd601598908b0a8c1b6b4fb0d421d5cf855784fc2877",
+    "reports/validacion_clon.json": "be44914bb4ad9670c9630160f451e62435d29d9e518453b22a4ab99ca8285170",
+    "reports/validacion_ejecucion.json": "c16e1cc3d544e2b1abf9239ff0350b52c02d74e88f754e6336dc1eb7ef699700",
+    "reports/validacion_integracion_datos.json": "d6e729eb8f2a973062cac6f88a1214d54bc6ce33406e08f7b3a6f54ec0c1f4ad",
+    "reports/validacion_macroeconomia_bcrp.json": "fa0e555d3e77dc3022c1eb9f88fe7bb0dc92ebd829231d6d7d4e9873cec6efc8",
+    "reports/verificacion_semana5.json": "c9af1394c983c5a673c922c93dface5ee666dff754beed2a9fe6724514644b48"
+  },
+  "ejecucion": {
+    "bloques_codigo": 14,
+    "bloques_previos_completados": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "manifest_originales": "data/raw/bvl/manifest_bursatil.json"
+}

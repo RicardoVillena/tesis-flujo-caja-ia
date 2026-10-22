@@ -1,0 +1,1945 @@
+moneda,grupo,especificacion,experimento,alpha,fold,anio_validacion,mse
+D lares,todas,niveles_t_externos_t,E0_financiero,0.1,1,2014,200886709375.58575
+D lares,todas,niveles_t_externos_t,E0_financiero,0.1,1,2015,174072747920.9748
+D lares,todas,niveles_t_externos_t,E0_financiero,1.0,1,2014,175783194179.14435
+D lares,todas,niveles_t_externos_t,E0_financiero,1.0,1,2015,173856644165.95703
+D lares,todas,niveles_t_externos_t,E0_financiero,10.0,1,2014,127903946437.85873
+D lares,todas,niveles_t_externos_t,E0_financiero,10.0,1,2015,136595739067.80281
+D lares,todas,niveles_t_externos_t,E0_financiero,100.0,1,2014,107031193682.03314
+D lares,todas,niveles_t_externos_t,E0_financiero,100.0,1,2015,117688392832.30685
+D lares,todas,niveles_t_externos_t,E0_financiero,1000.0,1,2014,104970890420.49438
+D lares,todas,niveles_t_externos_t,E0_financiero,1000.0,1,2015,133025900337.71968
+D lares,todas,niveles_t_externos_t,E0_financiero,10000.0,1,2014,108557404220.20135
+D lares,todas,niveles_t_externos_t,E0_financiero,10000.0,1,2015,145664636208.43082
+D lares,todas,niveles_t_externos_t,E0_financiero,0.1,2,2016,192690277296.6842
+D lares,todas,niveles_t_externos_t,E0_financiero,0.1,2,2017,15843155791.311275
+D lares,todas,niveles_t_externos_t,E0_financiero,1.0,2,2016,211458708605.0687
+D lares,todas,niveles_t_externos_t,E0_financiero,1.0,2,2017,21767697960.664604
+D lares,todas,niveles_t_externos_t,E0_financiero,10.0,2,2016,220743843868.9686
+D lares,todas,niveles_t_externos_t,E0_financiero,10.0,2,2017,68143214448.034195
+D lares,todas,niveles_t_externos_t,E0_financiero,100.0,2,2016,107124186366.50304
+D lares,todas,niveles_t_externos_t,E0_financiero,100.0,2,2017,77872725645.25179
+D lares,todas,niveles_t_externos_t,E0_financiero,1000.0,2,2016,30759458945.0582
+D lares,todas,niveles_t_externos_t,E0_financiero,1000.0,2,2017,89782875468.01978
+D lares,todas,niveles_t_externos_t,E0_financiero,10000.0,2,2016,16486296625.129683
+D lares,todas,niveles_t_externos_t,E0_financiero,10000.0,2,2017,103284808784.98383
+D lares,todas,niveles_t_externos_t,E0_financiero,0.1,3,2018,183819270053.0854
+D lares,todas,niveles_t_externos_t,E0_financiero,0.1,3,2019,362224981928.7688
+D lares,todas,niveles_t_externos_t,E0_financiero,1.0,3,2018,184942167860.7469
+D lares,todas,niveles_t_externos_t,E0_financiero,1.0,3,2019,310667557006.7167
+D lares,todas,niveles_t_externos_t,E0_financiero,10.0,3,2018,148135474999.59308
+D lares,todas,niveles_t_externos_t,E0_financiero,10.0,3,2019,167655269265.09622
+D lares,todas,niveles_t_externos_t,E0_financiero,100.0,3,2018,57352425733.80056
+D lares,todas,niveles_t_externos_t,E0_financiero,100.0,3,2019,54560082542.51515
+D lares,todas,niveles_t_externos_t,E0_financiero,1000.0,3,2018,8170389431.4411
+D lares,todas,niveles_t_externos_t,E0_financiero,1000.0,3,2019,18704059546.24785
+D lares,todas,niveles_t_externos_t,E0_financiero,10000.0,3,2018,17911378967.388397
+D lares,todas,niveles_t_externos_t,E0_financiero,10000.0,3,2019,32220632787.78259
+D lares,todas,niveles_t_externos_t,E0_financiero,0.1,4,2020,45319390717.51076
+D lares,todas,niveles_t_externos_t,E0_financiero,0.1,4,2021,101061363172.45604
+D lares,todas,niveles_t_externos_t,E0_financiero,1.0,4,2020,40148822955.444695
+D lares,todas,niveles_t_externos_t,E0_financiero,1.0,4,2021,97591224724.84157
+D lares,todas,niveles_t_externos_t,E0_financiero,10.0,4,2020,26092993293.16559
+D lares,todas,niveles_t_externos_t,E0_financiero,10.0,4,2021,94749386445.41725
+D lares,todas,niveles_t_externos_t,E0_financiero,100.0,4,2020,24809245982.555546
+D lares,todas,niveles_t_externos_t,E0_financiero,100.0,4,2021,109509132302.58382
+D lares,todas,niveles_t_externos_t,E0_financiero,1000.0,4,2020,36087028027.39196
+D lares,todas,niveles_t_externos_t,E0_financiero,1000.0,4,2021,166379174976.67044
+D lares,todas,niveles_t_externos_t,E0_financiero,10000.0,4,2020,59565629443.40039
+D lares,todas,niveles_t_externos_t,E0_financiero,10000.0,4,2021,237836575061.81345
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,0.1,1,2014,201123563380.49646
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,0.1,1,2015,185559999547.1559
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1.0,1,2014,172431169384.7733
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1.0,1,2015,178580205990.24066
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10.0,1,2014,124097697660.34317
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10.0,1,2015,135807329410.0853
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,100.0,1,2014,105205630881.03883
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,100.0,1,2015,116900155551.06699
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2014,104295398276.63052
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2015,131710245086.88928
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2014,108435035240.04964
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2015,145362200747.73972
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,0.1,2,2016,208336781271.86603
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,0.1,2,2017,15457518357.672518
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1.0,2,2016,225739843243.78757
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1.0,2,2017,21340037786.77309
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10.0,2,2016,223475257551.9831
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10.0,2,2017,66130510501.4234
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,100.0,2,2016,103831054788.68039
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,100.0,2,2017,74464206083.2131
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2016,30437144578.932068
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2017,89031014961.62222
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2016,16471855986.39584
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2017,103222246155.96164
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,0.1,3,2018,180358819294.70715
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,0.1,3,2019,364374309180.5208
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1.0,3,2018,181375791612.70135
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1.0,3,2019,313310196286.6541
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10.0,3,2018,144164587406.18713
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10.0,3,2019,168623700757.50815
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,100.0,3,2018,55198891475.38514
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,100.0,3,2019,53567740227.31403
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,3,2018,7899894023.3680105
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,3,2019,18577337304.735023
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,3,2018,17881634499.028374
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,3,2019,32217701087.224655
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,0.1,4,2020,46111909364.77042
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,0.1,4,2021,117211446864.07382
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1.0,4,2020,40736063964.262596
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1.0,4,2021,113506703574.9261
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10.0,4,2020,26443813412.315372
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10.0,4,2021,113513127491.17981
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,100.0,4,2020,25311884409.511154
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,100.0,4,2021,132044428175.6755
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,4,2020,36488813002.32215
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,4,2021,176921978869.92947
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,4,2020,59632726641.852776
+D lares,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,4,2021,239610092580.5027
+D lares,todas,niveles_t_externos_t,E2_bursatil,0.1,1,2014,203198412539.5884
+D lares,todas,niveles_t_externos_t,E2_bursatil,0.1,1,2015,177062483508.21573
+D lares,todas,niveles_t_externos_t,E2_bursatil,1.0,1,2014,173871013623.65262
+D lares,todas,niveles_t_externos_t,E2_bursatil,1.0,1,2015,172307481755.14087
+D lares,todas,niveles_t_externos_t,E2_bursatil,10.0,1,2014,123902546172.32755
+D lares,todas,niveles_t_externos_t,E2_bursatil,10.0,1,2015,134617580819.77007
+D lares,todas,niveles_t_externos_t,E2_bursatil,100.0,1,2014,104516287643.24498
+D lares,todas,niveles_t_externos_t,E2_bursatil,100.0,1,2015,115798675321.09978
+D lares,todas,niveles_t_externos_t,E2_bursatil,1000.0,1,2014,103709828889.95901
+D lares,todas,niveles_t_externos_t,E2_bursatil,1000.0,1,2015,130741143815.98001
+D lares,todas,niveles_t_externos_t,E2_bursatil,10000.0,1,2014,108308740122.76456
+D lares,todas,niveles_t_externos_t,E2_bursatil,10000.0,1,2015,145139686056.36594
+D lares,todas,niveles_t_externos_t,E2_bursatil,0.1,2,2016,212308594426.98795
+D lares,todas,niveles_t_externos_t,E2_bursatil,0.1,2,2017,15344226324.472723
+D lares,todas,niveles_t_externos_t,E2_bursatil,1.0,2,2016,227698396856.32248
+D lares,todas,niveles_t_externos_t,E2_bursatil,1.0,2,2017,21140242273.20205
+D lares,todas,niveles_t_externos_t,E2_bursatil,10.0,2,2016,222527953731.10144
+D lares,todas,niveles_t_externos_t,E2_bursatil,10.0,2,2017,65879650482.08427
+D lares,todas,niveles_t_externos_t,E2_bursatil,100.0,2,2016,105249028777.61058
+D lares,todas,niveles_t_externos_t,E2_bursatil,100.0,2,2017,75091938374.70811
+D lares,todas,niveles_t_externos_t,E2_bursatil,1000.0,2,2016,30769039936.12937
+D lares,todas,niveles_t_externos_t,E2_bursatil,1000.0,2,2017,89592610400.72627
+D lares,todas,niveles_t_externos_t,E2_bursatil,10000.0,2,2016,16391939507.57034
+D lares,todas,niveles_t_externos_t,E2_bursatil,10000.0,2,2017,103314430553.52829
+D lares,todas,niveles_t_externos_t,E2_bursatil,0.1,3,2018,188854552261.67786
+D lares,todas,niveles_t_externos_t,E2_bursatil,0.1,3,2019,384582052408.03485
+D lares,todas,niveles_t_externos_t,E2_bursatil,1.0,3,2018,190103124208.18552
+D lares,todas,niveles_t_externos_t,E2_bursatil,1.0,3,2019,331532124584.73975
+D lares,todas,niveles_t_externos_t,E2_bursatil,10.0,3,2018,151365302881.21878
+D lares,todas,niveles_t_externos_t,E2_bursatil,10.0,3,2019,178404879748.36768
+D lares,todas,niveles_t_externos_t,E2_bursatil,100.0,3,2018,56830269957.91397
+D lares,todas,niveles_t_externos_t,E2_bursatil,100.0,3,2019,54050407445.18668
+D lares,todas,niveles_t_externos_t,E2_bursatil,1000.0,3,2018,7934537509.67987
+D lares,todas,niveles_t_externos_t,E2_bursatil,1000.0,3,2019,18354124758.5151
+D lares,todas,niveles_t_externos_t,E2_bursatil,10000.0,3,2018,17878136589.385696
+D lares,todas,niveles_t_externos_t,E2_bursatil,10000.0,3,2019,32203875134.005062
+D lares,todas,niveles_t_externos_t,E2_bursatil,0.1,4,2020,45890265773.91306
+D lares,todas,niveles_t_externos_t,E2_bursatil,0.1,4,2021,104322266494.55045
+D lares,todas,niveles_t_externos_t,E2_bursatil,1.0,4,2020,40508419198.00063
+D lares,todas,niveles_t_externos_t,E2_bursatil,1.0,4,2021,100362956881.23938
+D lares,todas,niveles_t_externos_t,E2_bursatil,10.0,4,2020,26297569830.14427
+D lares,todas,niveles_t_externos_t,E2_bursatil,10.0,4,2021,99766799491.0906
+D lares,todas,niveles_t_externos_t,E2_bursatil,100.0,4,2020,25433320430.767437
+D lares,todas,niveles_t_externos_t,E2_bursatil,100.0,4,2021,119756613050.03705
+D lares,todas,niveles_t_externos_t,E2_bursatil,1000.0,4,2020,36765125084.6751
+D lares,todas,niveles_t_externos_t,E2_bursatil,1000.0,4,2021,174138672956.42245
+D lares,todas,niveles_t_externos_t,E2_bursatil,10000.0,4,2020,59692463593.508354
+D lares,todas,niveles_t_externos_t,E2_bursatil,10000.0,4,2021,239524134156.79504
+D lares,todas,niveles_t_externos_t_1,E0_financiero,0.1,1,2014,200886709375.58575
+D lares,todas,niveles_t_externos_t_1,E0_financiero,0.1,1,2015,174072747920.9748
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1.0,1,2014,175783194179.14435
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1.0,1,2015,173856644165.95703
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10.0,1,2014,127903946437.85873
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10.0,1,2015,136595739067.80281
+D lares,todas,niveles_t_externos_t_1,E0_financiero,100.0,1,2014,107031193682.03314
+D lares,todas,niveles_t_externos_t_1,E0_financiero,100.0,1,2015,117688392832.30685
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1000.0,1,2014,104970890420.49438
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1000.0,1,2015,133025900337.71968
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10000.0,1,2014,108557404220.20135
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10000.0,1,2015,145664636208.43082
+D lares,todas,niveles_t_externos_t_1,E0_financiero,0.1,2,2016,192690277296.6842
+D lares,todas,niveles_t_externos_t_1,E0_financiero,0.1,2,2017,15843155791.311275
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1.0,2,2016,211458708605.0687
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1.0,2,2017,21767697960.664604
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10.0,2,2016,220743843868.9686
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10.0,2,2017,68143214448.034195
+D lares,todas,niveles_t_externos_t_1,E0_financiero,100.0,2,2016,107124186366.50304
+D lares,todas,niveles_t_externos_t_1,E0_financiero,100.0,2,2017,77872725645.25179
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1000.0,2,2016,30759458945.0582
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1000.0,2,2017,89782875468.01978
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10000.0,2,2016,16486296625.129683
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10000.0,2,2017,103284808784.98383
+D lares,todas,niveles_t_externos_t_1,E0_financiero,0.1,3,2018,183819270053.0854
+D lares,todas,niveles_t_externos_t_1,E0_financiero,0.1,3,2019,362224981928.7688
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1.0,3,2018,184942167860.7469
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1.0,3,2019,310667557006.7167
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10.0,3,2018,148135474999.59308
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10.0,3,2019,167655269265.09622
+D lares,todas,niveles_t_externos_t_1,E0_financiero,100.0,3,2018,57352425733.80056
+D lares,todas,niveles_t_externos_t_1,E0_financiero,100.0,3,2019,54560082542.51515
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1000.0,3,2018,8170389431.4411
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1000.0,3,2019,18704059546.24785
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10000.0,3,2018,17911378967.388397
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10000.0,3,2019,32220632787.78259
+D lares,todas,niveles_t_externos_t_1,E0_financiero,0.1,4,2020,45319390717.51076
+D lares,todas,niveles_t_externos_t_1,E0_financiero,0.1,4,2021,101061363172.45604
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1.0,4,2020,40148822955.444695
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1.0,4,2021,97591224724.84157
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10.0,4,2020,26092993293.16559
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10.0,4,2021,94749386445.41725
+D lares,todas,niveles_t_externos_t_1,E0_financiero,100.0,4,2020,24809245982.555546
+D lares,todas,niveles_t_externos_t_1,E0_financiero,100.0,4,2021,109509132302.58382
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1000.0,4,2020,36087028027.39196
+D lares,todas,niveles_t_externos_t_1,E0_financiero,1000.0,4,2021,166379174976.67044
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10000.0,4,2020,59565629443.40039
+D lares,todas,niveles_t_externos_t_1,E0_financiero,10000.0,4,2021,237836575061.81345
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2014,211599396911.98297
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2015,179367429194.37726
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2014,177017328502.648
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2015,171758611184.4233
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2014,123976323299.22072
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2015,130901659658.71336
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2014,104607613916.93962
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2015,115167631291.82385
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2014,103902644976.604
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2015,131803740407.92416
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2014,108355528075.12001
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2015,145433994012.4804
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2016,206417155895.8685
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2017,15021977824.640343
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2016,225506135303.82376
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2017,21241158850.988365
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2016,229207896887.79147
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2017,69651944709.61922
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2016,107657106061.54395
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2017,76288525763.70013
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2016,30807043607.921143
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2017,89517554681.24135
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2016,16443240257.44563
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2017,103253518887.2
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2018,175413837365.10544
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2019,348596725474.8538
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2018,177600016839.33536
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2019,301011344647.308
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2018,145803902552.61646
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2019,165587785366.27853
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2018,59958930188.734695
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2019,55584807858.10714
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2018,9227309249.46297
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2019,19157282036.886757
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2018,17999097459.565876
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2019,32246940502.412815
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2020,45481953485.973404
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2021,96508963778.95349
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2020,40104039124.4266
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2021,92210681733.29341
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2020,26125844456.360504
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2021,89897915582.51018
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2020,24676152400.147095
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2021,106316171803.57005
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2020,35923871961.781746
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2021,164812906568.02756
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2020,59521058346.791695
+D lares,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2021,237513271480.02
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,0.1,1,2014,201110546415.4822
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,0.1,1,2015,177304127067.13803
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1.0,1,2014,171357579978.71066
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1.0,1,2015,170661384582.8896
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10.0,1,2014,122169647345.6597
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10.0,1,2015,130206330840.38098
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,100.0,1,2014,104221511887.8734
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,100.0,1,2015,114499385741.79553
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2014,104004821060.21632
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2015,131414292006.68791
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2014,108395948515.78741
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2015,145361596572.18903
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,0.1,2,2016,205302998681.21533
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,0.1,2,2017,21556569949.573742
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1.0,2,2016,222476154646.90637
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1.0,2,2017,23467668700.55104
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10.0,2,2016,226620338151.5833
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10.0,2,2017,67798549732.21527
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,100.0,2,2016,108011280611.60863
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,100.0,2,2017,77225297103.00325
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2016,31037709054.226006
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2017,90444644731.04633
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2016,16403933581.703554
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2017,103375095953.0963
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,0.1,3,2018,180996916497.85074
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,0.1,3,2019,352473628608.193
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1.0,3,2018,182993317953.14606
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1.0,3,2019,303298801964.5593
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10.0,3,2018,148512835988.34894
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10.0,3,2019,163356453655.33807
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,100.0,3,2018,60106252710.987335
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,100.0,3,2019,54762101262.64148
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,3,2018,9223986565.766407
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,3,2019,19170621210.764473
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,3,2018,18002978651.50051
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,3,2019,32250257156.91093
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,0.1,4,2020,48135101484.88626
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,0.1,4,2021,100137240578.9706
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1.0,4,2020,42602696100.02729
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1.0,4,2021,95921142349.38676
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10.0,4,2020,27789234701.155
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10.0,4,2021,93447570817.75703
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,100.0,4,2020,25318162686.15065
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,100.0,4,2021,108368650602.76064
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,4,2020,36179652289.0297
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,4,2021,165945904440.57217
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,4,2020,59560358736.518776
+D lares,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,4,2021,237702494832.64746
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2014,269227748460.18375
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2015,475478678163.77246
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2014,226408089484.31815
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2015,413218280236.6952
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2014,145465442754.90195
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2015,243021187951.94644
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2014,112530310917.89049
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2015,160084559415.1544
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2014,106946800040.18639
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2015,148031017116.47922
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2014,109095812483.7561
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2015,148236879179.15118
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2016,242363935262.01288
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2017,457761486931.9146
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2016,224254141295.55692
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2017,451317551017.1926
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2016,153961118277.76932
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2017,367980902540.29114
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2016,51451637758.96092
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2017,162610800371.33334
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2016,18777898224.264156
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2017,106040639270.80957
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2016,15126842725.146648
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2017,105644705968.62508
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,3,2018,434255478767.42
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,3,2019,698568643333.8932
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,3,2018,375010847087.94556
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,3,2019,596498421105.7772
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,3,2018,158017766923.3631
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,3,2019,267569983209.75696
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,3,2018,32138831642.25977
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,3,2019,71257990711.86705
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,3,2018,9226333904.18224
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,3,2019,22294432445.14376
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,3,2018,19807288796.51139
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,3,2019,33717616980.737774
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,4,2020,50991642758.49897
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,4,2021,122595875969.72401
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,4,2020,48099249562.945946
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,4,2021,123065995004.20909
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,4,2020,39756079793.16837
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,4,2021,130028587485.98265
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,4,2020,36101364424.63785
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,4,2021,145512430414.26358
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,4,2020,44434249569.4101
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,4,2021,192073717768.91827
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,4,2020,62339430373.36466
+D lares,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,4,2021,245049637708.62567
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2014,268074864475.53485
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2015,465209954011.5244
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2014,220328004976.11816
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2015,397798188703.5898
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2014,139824959124.03195
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2015,231254491716.8442
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2014,109806384307.73991
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2015,156086960500.59448
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2014,105743693765.27019
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2015,146551594482.18768
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2014,108889046269.02626
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2015,147998728913.76212
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2016,318635088634.22955
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2017,487175432444.26086
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2016,284374689765.9016
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2017,477854497084.8714
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2016,175605804549.41583
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2017,374082894311.95154
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2016,54323442292.767975
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2017,158430977151.90897
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2016,18812416907.10964
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2017,105646670994.90883
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2016,15078792684.760036
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2017,105611146430.09908
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2018,431936586864.1691
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2019,696244325964.6409
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2018,372168736908.5476
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2019,590157247690.0073
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2018,159282475468.46313
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2019,261705806960.47626
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2018,36634353662.234856
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2019,71375115441.14455
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2018,10330231771.805191
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2019,22708175599.24831
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2018,19891678619.526943
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2019,33742232187.213963
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2020,52127274579.24763
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2021,116350058039.894
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2020,48789234086.727974
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2021,116894202311.24686
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2020,39532981899.49037
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2021,125047667033.09897
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2020,35644285110.74865
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2021,142008508537.11002
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2020,44209008156.09804
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2021,190369528544.43527
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2020,62291195363.6724
+D lares,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2021,244716749054.3108
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2014,263811731215.53796
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2015,470271634162.52454
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2014,220693123658.256
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2015,403134207267.63025
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2014,140023665097.96674
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2015,232617228650.84042
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2014,109717064061.4235
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2015,155383810088.3181
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2014,105889115827.55247
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2015,146084833240.56567
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2014,108930797518.37938
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2015,147923614947.54855
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2016,293636382418.76855
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2017,470844790848.87396
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2016,254731698959.61798
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2017,439102365912.66614
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2016,166248421833.4714
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2017,360809903272.0851
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2016,54976024721.19181
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2017,159896119597.24487
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2016,18993010983.054844
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2017,106622256136.28348
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2016,15034455076.813505
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2017,105731587160.49397
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,3,2018,442874369704.2209
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,3,2019,686231038569.785
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,3,2018,380939239371.58307
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,3,2019,580398751607.3861
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,3,2018,162069075808.2935
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,3,2019,254218128852.6948
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,3,2018,36471181434.18643
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,3,2019,70556308227.89487
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,3,2018,10277106759.498636
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,3,2019,22735821056.13549
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,3,2018,19893348109.48695
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,3,2019,33744524018.519596
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,4,2020,53054183339.1319
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,4,2021,119858059873.79428
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,4,2020,49761312390.08667
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,4,2021,120438834903.96022
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,4,2020,40550764617.86318
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,4,2021,128195997638.79263
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,4,2020,36391747513.46827
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,4,2021,144183092330.41837
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,4,2020,44494619037.73403
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,4,2021,191604997812.76498
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,4,2020,62329870914.96758
+D lares,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,4,2021,244906527132.9341
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,0.1,1,2014,200886709375.58575
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,0.1,1,2015,174072747920.9748
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1.0,1,2014,175783194179.14435
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1.0,1,2015,173856644165.95703
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10.0,1,2014,127903946437.85873
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10.0,1,2015,136595739067.80281
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,100.0,1,2014,107031193682.03314
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,100.0,1,2015,117688392832.30685
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,1,2014,104970890420.49438
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,1,2015,133025900337.71968
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,1,2014,108557404220.20135
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,1,2015,145664636208.43082
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,0.1,2,2016,192690277296.6842
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,0.1,2,2017,15843155791.311275
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1.0,2,2016,211458708605.0687
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1.0,2,2017,21767697960.664604
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10.0,2,2016,220743843868.9686
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10.0,2,2017,68143214448.034195
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,100.0,2,2016,107124186366.50304
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,100.0,2,2017,77872725645.25179
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,2,2016,30759458945.0582
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,2,2017,89782875468.01978
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,2,2016,16486296625.129683
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,2,2017,103284808784.98383
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,0.1,3,2018,183819270053.0854
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,0.1,3,2019,362224981928.7688
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1.0,3,2018,184942167860.7469
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1.0,3,2019,310667557006.7167
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10.0,3,2018,148135474999.59308
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10.0,3,2019,167655269265.09622
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,100.0,3,2018,57352425733.80056
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,100.0,3,2019,54560082542.51515
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,3,2018,8170389431.4411
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,3,2019,18704059546.24785
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,3,2018,17911378967.388397
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,3,2019,32220632787.78259
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,0.1,4,2020,45319390717.51076
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,0.1,4,2021,101061363172.45604
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1.0,4,2020,40148822955.444695
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1.0,4,2021,97591224724.84157
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10.0,4,2020,26092993293.16559
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10.0,4,2021,94749386445.41725
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,100.0,4,2020,24809245982.555546
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,100.0,4,2021,109509132302.58382
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,4,2020,36087028027.39196
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,4,2021,166379174976.67044
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,4,2020,59565629443.40039
+D lares,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,4,2021,237836575061.81345
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,1,2014,201123563380.49646
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,1,2015,185559999547.1559
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,1,2014,172431169384.7733
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,1,2015,178580205990.24066
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,1,2014,124097697660.34317
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,1,2015,135807329410.0853
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,1,2014,105205630881.03883
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,1,2015,116900155551.06699
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2014,104295398276.63052
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2015,131710245086.88928
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2014,108435035240.04964
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2015,145362200747.73972
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,2,2016,208336781271.86603
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,2,2017,15457518357.672518
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,2,2016,225739843243.78757
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,2,2017,21340037786.77309
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,2,2016,223475257551.9831
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,2,2017,66130510501.4234
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,2,2016,103831054788.68039
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,2,2017,74464206083.2131
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2016,30437144578.932068
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2017,89031014961.62222
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2016,16471855986.39584
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2017,103222246155.96164
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,3,2018,180358819294.70715
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,3,2019,364374309180.5208
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,3,2018,181375791612.70135
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,3,2019,313310196286.6541
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,3,2018,144164587406.18713
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,3,2019,168623700757.50815
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,3,2018,55198891475.38514
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,3,2019,53567740227.31403
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,3,2018,7899894023.3680105
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,3,2019,18577337304.735023
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,3,2018,17881634499.028374
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,3,2019,32217701087.224655
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,4,2020,46111909364.77042
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,4,2021,117211446864.07382
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,4,2020,40736063964.262596
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,4,2021,113506703574.9261
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,4,2020,26443813412.315372
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,4,2021,113513127491.17981
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,4,2020,25311884409.511154
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,4,2021,132044428175.6755
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,4,2020,36488813002.32215
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,4,2021,176921978869.92947
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,4,2020,59632726641.852776
+D lares,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,4,2021,239610092580.5027
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,1,2014,203198412539.5884
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,1,2015,177062483508.21573
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,1,2014,173871013623.65262
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,1,2015,172307481755.14087
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,1,2014,123902546172.32755
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,1,2015,134617580819.77007
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,1,2014,104516287643.24498
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,1,2015,115798675321.09978
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,1,2014,103709828889.95901
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,1,2015,130741143815.98001
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,1,2014,108308740122.76456
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,1,2015,145139686056.36594
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,2,2016,212308594426.98795
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,2,2017,15344226324.472723
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,2,2016,227698396856.32248
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,2,2017,21140242273.20205
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,2,2016,222527953731.10144
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,2,2017,65879650482.08427
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,2,2016,105249028777.61058
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,2,2017,75091938374.70811
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,2,2016,30769039936.12937
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,2,2017,89592610400.72627
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,2,2016,16391939507.57034
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,2,2017,103314430553.52829
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,3,2018,188854552261.67786
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,3,2019,384582052408.03485
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,3,2018,190103124208.18552
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,3,2019,331532124584.73975
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,3,2018,151365302881.21878
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,3,2019,178404879748.36768
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,3,2018,56830269957.91397
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,3,2019,54050407445.18668
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,3,2018,7934537509.67987
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,3,2019,18354124758.5151
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,3,2018,17878136589.385696
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,3,2019,32203875134.005062
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,4,2020,45890265773.91306
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,4,2021,104322266494.55045
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,4,2020,40508419198.00063
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,4,2021,100362956881.23938
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,4,2020,26297569830.14427
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,4,2021,99766799491.0906
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,4,2020,25433320430.767437
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,4,2021,119756613050.03705
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,4,2020,36765125084.6751
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,4,2021,174138672956.42245
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,4,2020,59692463593.508354
+D lares,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,4,2021,239524134156.79504
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,1,2014,200886709375.58575
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,1,2015,174072747920.9748
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,1,2014,175783194179.14435
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,1,2015,173856644165.95703
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,1,2014,127903946437.85873
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,1,2015,136595739067.80281
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,1,2014,107031193682.03314
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,1,2015,117688392832.30685
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,1,2014,104970890420.49438
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,1,2015,133025900337.71968
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,1,2014,108557404220.20135
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,1,2015,145664636208.43082
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,2,2016,192690277296.6842
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,2,2017,15843155791.311275
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,2,2016,211458708605.0687
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,2,2017,21767697960.664604
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,2,2016,220743843868.9686
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,2,2017,68143214448.034195
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,2,2016,107124186366.50304
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,2,2017,77872725645.25179
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,2,2016,30759458945.0582
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,2,2017,89782875468.01978
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,2,2016,16486296625.129683
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,2,2017,103284808784.98383
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,3,2018,183819270053.0854
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,3,2019,362224981928.7688
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,3,2018,184942167860.7469
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,3,2019,310667557006.7167
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,3,2018,148135474999.59308
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,3,2019,167655269265.09622
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,3,2018,57352425733.80056
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,3,2019,54560082542.51515
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,3,2018,8170389431.4411
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,3,2019,18704059546.24785
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,3,2018,17911378967.388397
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,3,2019,32220632787.78259
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,4,2020,45319390717.51076
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,4,2021,101061363172.45604
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,4,2020,40148822955.444695
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,4,2021,97591224724.84157
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,4,2020,26092993293.16559
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,4,2021,94749386445.41725
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,4,2020,24809245982.555546
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,4,2021,109509132302.58382
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,4,2020,36087028027.39196
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,4,2021,166379174976.67044
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,4,2020,59565629443.40039
+D lares,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,4,2021,237836575061.81345
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2014,211599396911.98297
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2015,179367429194.37726
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2014,177017328502.648
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2015,171758611184.4233
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2014,123976323299.22072
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2015,130901659658.71336
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2014,104607613916.93962
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2015,115167631291.82385
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2014,103902644976.604
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2015,131803740407.92416
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2014,108355528075.12001
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2015,145433994012.4804
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2016,206417155895.8685
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2017,15021977824.640343
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2016,225506135303.82376
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2017,21241158850.988365
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2016,229207896887.79147
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2017,69651944709.61922
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2016,107657106061.54395
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2017,76288525763.70013
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2016,30807043607.921143
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2017,89517554681.24135
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2016,16443240257.44563
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2017,103253518887.2
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2018,175413837365.10544
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2019,348596725474.8538
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2018,177600016839.33536
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2019,301011344647.308
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2018,145803902552.61646
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2019,165587785366.27853
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2018,59958930188.734695
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2019,55584807858.10714
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2018,9227309249.46297
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2019,19157282036.886757
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2018,17999097459.565876
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2019,32246940502.412815
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2020,45481953485.973404
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2021,96508963778.95349
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2020,40104039124.4266
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2021,92210681733.29341
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2020,26125844456.360504
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2021,89897915582.51018
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2020,24676152400.147095
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2021,106316171803.57005
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2020,35923871961.781746
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2021,164812906568.02756
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2020,59521058346.791695
+D lares,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2021,237513271480.02
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,1,2014,201110546415.4822
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,1,2015,177304127067.13803
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,1,2014,171357579978.71066
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,1,2015,170661384582.8896
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,1,2014,122169647345.6597
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,1,2015,130206330840.38098
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,1,2014,104221511887.8734
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,1,2015,114499385741.79553
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2014,104004821060.21632
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2015,131414292006.68791
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2014,108395948515.78741
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2015,145361596572.18903
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,2,2016,205302998681.21533
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,2,2017,21556569949.573742
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,2,2016,222476154646.90637
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,2,2017,23467668700.55104
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,2,2016,226620338151.5833
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,2,2017,67798549732.21527
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,2,2016,108011280611.60863
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,2,2017,77225297103.00325
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2016,31037709054.226006
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2017,90444644731.04633
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2016,16403933581.703554
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2017,103375095953.0963
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,3,2018,180996916497.85074
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,3,2019,352473628608.193
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,3,2018,182993317953.14606
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,3,2019,303298801964.5593
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,3,2018,148512835988.34894
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,3,2019,163356453655.33807
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,3,2018,60106252710.987335
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,3,2019,54762101262.64148
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,3,2018,9223986565.766407
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,3,2019,19170621210.764473
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,3,2018,18002978651.50051
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,3,2019,32250257156.91093
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,4,2020,48135101484.88626
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,4,2021,100137240578.9706
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,4,2020,42602696100.02729
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,4,2021,95921142349.38676
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,4,2020,27789234701.155
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,4,2021,93447570817.75703
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,4,2020,25318162686.15065
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,4,2021,108368650602.76064
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,4,2020,36179652289.0297
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,4,2021,165945904440.57217
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,4,2020,59560358736.518776
+D lares,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,4,2021,237702494832.64746
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2014,269227748460.18375
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2015,475478678163.77246
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2014,226408089484.31815
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2015,413218280236.6952
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2014,145465442754.90195
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2015,243021187951.94644
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2014,112530310917.89049
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2015,160084559415.1544
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2014,106946800040.18639
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2015,148031017116.47922
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2014,109095812483.7561
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2015,148236879179.15118
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2016,242363935262.01288
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2017,457761486931.9146
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2016,224254141295.55692
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2017,451317551017.1926
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2016,153961118277.76932
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2017,367980902540.29114
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2016,51451637758.96092
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2017,162610800371.33334
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2016,18777898224.264156
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2017,106040639270.80957
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2016,15126842725.146648
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2017,105644705968.62508
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,3,2018,434255478767.42
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,3,2019,698568643333.8932
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,3,2018,375010847087.94556
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,3,2019,596498421105.7772
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,3,2018,158017766923.3631
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,3,2019,267569983209.75696
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,3,2018,32138831642.25977
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,3,2019,71257990711.86705
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,3,2018,9226333904.18224
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,3,2019,22294432445.14376
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,3,2018,19807288796.51139
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,3,2019,33717616980.737774
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,4,2020,50991642758.49897
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,4,2021,122595875969.72401
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,4,2020,48099249562.945946
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,4,2021,123065995004.20909
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,4,2020,39756079793.16837
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,4,2021,130028587485.98265
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,4,2020,36101364424.63785
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,4,2021,145512430414.26358
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,4,2020,44434249569.4101
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,4,2021,192073717768.91827
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,4,2020,62339430373.36466
+D lares,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,4,2021,245049637708.62567
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2014,268074864475.53485
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2015,465209954011.5244
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2014,220328004976.11816
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2015,397798188703.5898
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2014,139824959124.03195
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2015,231254491716.8442
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2014,109806384307.73991
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2015,156086960500.59448
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2014,105743693765.27019
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2015,146551594482.18768
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2014,108889046269.02626
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2015,147998728913.76212
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2016,318635088634.22955
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2017,487175432444.26086
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2016,284374689765.9016
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2017,477854497084.8714
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2016,175605804549.41583
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2017,374082894311.95154
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2016,54323442292.767975
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2017,158430977151.90897
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2016,18812416907.10964
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2017,105646670994.90883
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2016,15078792684.760036
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2017,105611146430.09908
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2018,431936586864.1691
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2019,696244325964.6409
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2018,372168736908.5476
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2019,590157247690.0073
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2018,159282475468.46313
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2019,261705806960.47626
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2018,36634353662.234856
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2019,71375115441.14455
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2018,10330231771.805191
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2019,22708175599.24831
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2018,19891678619.526943
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2019,33742232187.213963
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2020,52127274579.24763
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2021,116350058039.894
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2020,48789234086.727974
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2021,116894202311.24686
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2020,39532981899.49037
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2021,125047667033.09897
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2020,35644285110.74865
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2021,142008508537.11002
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2020,44209008156.09804
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2021,190369528544.43527
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2020,62291195363.6724
+D lares,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2021,244716749054.3108
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2014,263811731215.53796
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2015,470271634162.52454
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2014,220693123658.256
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2015,403134207267.63025
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2014,140023665097.96674
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2015,232617228650.84042
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2014,109717064061.4235
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2015,155383810088.3181
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2014,105889115827.55247
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2015,146084833240.56567
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2014,108930797518.37938
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2015,147923614947.54855
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2016,293636382418.76855
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2017,470844790848.87396
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2016,254731698959.61798
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2017,439102365912.66614
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2016,166248421833.4714
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2017,360809903272.0851
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2016,54976024721.19181
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2017,159896119597.24487
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2016,18993010983.054844
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2017,106622256136.28348
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2016,15034455076.813505
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2017,105731587160.49397
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,3,2018,442874369704.2209
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,3,2019,686231038569.785
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,3,2018,380939239371.58307
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,3,2019,580398751607.3861
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,3,2018,162069075808.2935
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,3,2019,254218128852.6948
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,3,2018,36471181434.18643
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,3,2019,70556308227.89487
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,3,2018,10277106759.498636
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,3,2019,22735821056.13549
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,3,2018,19893348109.48695
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,3,2019,33744524018.519596
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,4,2020,53054183339.1319
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,4,2021,119858059873.79428
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,4,2020,49761312390.08667
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,4,2021,120438834903.96022
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,4,2020,40550764617.86318
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,4,2021,128195997638.79263
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,4,2020,36391747513.46827
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,4,2021,144183092330.41837
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,4,2020,44494619037.73403
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,4,2021,191604997812.76498
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,4,2020,62329870914.96758
+D lares,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,4,2021,244906527132.9341
+Soles,todas,niveles_t_externos_t,E0_financiero,0.1,1,2014,273436234228.66666
+Soles,todas,niveles_t_externos_t,E0_financiero,0.1,1,2015,510313351662.06854
+Soles,todas,niveles_t_externos_t,E0_financiero,1.0,1,2014,272638729405.7386
+Soles,todas,niveles_t_externos_t,E0_financiero,1.0,1,2015,510149188268.1071
+Soles,todas,niveles_t_externos_t,E0_financiero,10.0,1,2014,266844454923.20273
+Soles,todas,niveles_t_externos_t,E0_financiero,10.0,1,2015,508935499447.7239
+Soles,todas,niveles_t_externos_t,E0_financiero,100.0,1,2014,253539990495.08853
+Soles,todas,niveles_t_externos_t,E0_financiero,100.0,1,2015,504862820050.1912
+Soles,todas,niveles_t_externos_t,E0_financiero,1000.0,1,2014,242964506136.2501
+Soles,todas,niveles_t_externos_t,E0_financiero,1000.0,1,2015,491925498816.6617
+Soles,todas,niveles_t_externos_t,E0_financiero,10000.0,1,2014,238950903644.9998
+Soles,todas,niveles_t_externos_t,E0_financiero,10000.0,1,2015,479320529736.7125
+Soles,todas,niveles_t_externos_t,E0_financiero,0.1,2,2016,250478437534.62125
+Soles,todas,niveles_t_externos_t,E0_financiero,0.1,2,2017,422915705961.2311
+Soles,todas,niveles_t_externos_t,E0_financiero,1.0,2,2016,250685395889.7342
+Soles,todas,niveles_t_externos_t,E0_financiero,1.0,2,2017,422166386154.2622
+Soles,todas,niveles_t_externos_t,E0_financiero,10.0,2,2016,253110743554.62598
+Soles,todas,niveles_t_externos_t,E0_financiero,10.0,2,2017,415619786266.54645
+Soles,todas,niveles_t_externos_t,E0_financiero,100.0,2,2016,264276644976.1287
+Soles,todas,niveles_t_externos_t,E0_financiero,100.0,2,2017,385845825603.1171
+Soles,todas,niveles_t_externos_t,E0_financiero,1000.0,2,2016,239274054395.51202
+Soles,todas,niveles_t_externos_t,E0_financiero,1000.0,2,2017,361424565842.40643
+Soles,todas,niveles_t_externos_t,E0_financiero,10000.0,2,2016,175720871961.03726
+Soles,todas,niveles_t_externos_t,E0_financiero,10000.0,2,2017,396198091814.8883
+Soles,todas,niveles_t_externos_t,E0_financiero,0.1,3,2018,223233473976.11658
+Soles,todas,niveles_t_externos_t,E0_financiero,0.1,3,2019,267157935321.9834
+Soles,todas,niveles_t_externos_t,E0_financiero,1.0,3,2018,223097205535.83127
+Soles,todas,niveles_t_externos_t,E0_financiero,1.0,3,2019,267372238403.23453
+Soles,todas,niveles_t_externos_t,E0_financiero,10.0,3,2018,221870638922.63452
+Soles,todas,niveles_t_externos_t,E0_financiero,10.0,3,2019,269236816439.17792
+Soles,todas,niveles_t_externos_t,E0_financiero,100.0,3,2018,213756334519.09314
+Soles,todas,niveles_t_externos_t,E0_financiero,100.0,3,2019,277750973067.478
+Soles,todas,niveles_t_externos_t,E0_financiero,1000.0,3,2018,178753352383.8744
+Soles,todas,niveles_t_externos_t,E0_financiero,1000.0,3,2019,304405823783.606
+Soles,todas,niveles_t_externos_t,E0_financiero,10000.0,3,2018,137916350339.63956
+Soles,todas,niveles_t_externos_t,E0_financiero,10000.0,3,2019,360057776871.5836
+Soles,todas,niveles_t_externos_t,E0_financiero,0.1,4,2020,2695358298126.726
+Soles,todas,niveles_t_externos_t,E0_financiero,0.1,4,2021,1082900583503.915
+Soles,todas,niveles_t_externos_t,E0_financiero,1.0,4,2020,2695581943620.8086
+Soles,todas,niveles_t_externos_t,E0_financiero,1.0,4,2021,1083235575668.1638
+Soles,todas,niveles_t_externos_t,E0_financiero,10.0,4,2020,2697629751855.734
+Soles,todas,niveles_t_externos_t,E0_financiero,10.0,4,2021,1086358876768.8861
+Soles,todas,niveles_t_externos_t,E0_financiero,100.0,4,2020,2714683913808.482
+Soles,todas,niveles_t_externos_t,E0_financiero,100.0,4,2021,1105380904757.577
+Soles,todas,niveles_t_externos_t,E0_financiero,1000.0,4,2020,2809048886379.152
+Soles,todas,niveles_t_externos_t,E0_financiero,1000.0,4,2021,1175359252714.1206
+Soles,todas,niveles_t_externos_t,E0_financiero,10000.0,4,2020,3048842157174.3
+Soles,todas,niveles_t_externos_t,E0_financiero,10000.0,4,2021,1333683705526.2122
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,0.1,1,2014,272038149192.59177
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,0.1,1,2015,512108304390.36707
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1.0,1,2014,271254386049.8578
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1.0,1,2015,511955083374.04016
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,1,2014,265575462696.06293
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,1,2015,510794257634.0769
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,100.0,1,2014,252667795588.63702
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,100.0,1,2015,506219846615.9434
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2014,242691386913.09967
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2015,492159419926.1915
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2014,238970028215.7561
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2015,479426649503.86957
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,0.1,2,2016,253346618163.56305
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,0.1,2,2017,413152706419.06134
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1.0,2,2016,253538941565.4593
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1.0,2,2017,412381511843.7442
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,2,2016,255911595207.4894
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,2,2017,405699909681.26776
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,100.0,2,2016,267185680523.7874
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,100.0,2,2017,376496386104.0457
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2016,240773571560.65686
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2017,356860914266.13306
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2016,175780392364.39362
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2017,395947372164.5452
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,0.1,3,2018,222091602204.51904
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,0.1,3,2019,268496898891.04037
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1.0,3,2018,221961274378.33893
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1.0,3,2019,268715543448.2396
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,3,2018,220792444670.26608
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,3,2019,270606665163.80927
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,100.0,3,2018,213059819731.21814
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,100.0,3,2019,278995658847.91016
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,3,2018,178698027830.6011
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,3,2019,304804396731.96814
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,3,2018,137944072851.50787
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,3,2019,359883573009.6195
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,0.1,4,2020,2691088293357.8286
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,0.1,4,2021,1080924541506.5521
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1.0,4,2020,2691332009663.749
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1.0,4,2021,1081283508803.0808
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,4,2020,2693551524064.8047
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10.0,4,2021,1084592788479.554
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,100.0,4,2020,2711324482888.9224
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,100.0,4,2021,1104182440761.8503
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,4,2020,2805887296703.289
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,1000.0,4,2021,1174834905011.6096
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,4,2020,3046127528815.972
+Soles,todas,niveles_t_externos_t,E1_macroeconomico,10000.0,4,2021,1333849641131.8467
+Soles,todas,niveles_t_externos_t,E2_bursatil,0.1,1,2014,274606511952.31662
+Soles,todas,niveles_t_externos_t,E2_bursatil,0.1,1,2015,504409164002.0278
+Soles,todas,niveles_t_externos_t,E2_bursatil,1.0,1,2014,273566629323.22125
+Soles,todas,niveles_t_externos_t,E2_bursatil,1.0,1,2015,504517021332.6812
+Soles,todas,niveles_t_externos_t,E2_bursatil,10.0,1,2014,266967481437.18698
+Soles,todas,niveles_t_externos_t,E2_bursatil,10.0,1,2015,505703290896.22504
+Soles,todas,niveles_t_externos_t,E2_bursatil,100.0,1,2014,253306452564.03052
+Soles,todas,niveles_t_externos_t,E2_bursatil,100.0,1,2015,504103274058.9326
+Soles,todas,niveles_t_externos_t,E2_bursatil,1000.0,1,2014,242939086249.59277
+Soles,todas,niveles_t_externos_t,E2_bursatil,1000.0,1,2015,491942088043.00543
+Soles,todas,niveles_t_externos_t,E2_bursatil,10000.0,1,2014,239012408277.1811
+Soles,todas,niveles_t_externos_t,E2_bursatil,10000.0,1,2015,479454304486.18097
+Soles,todas,niveles_t_externos_t,E2_bursatil,0.1,2,2016,257570814021.4133
+Soles,todas,niveles_t_externos_t,E2_bursatil,0.1,2,2017,427267725170.6303
+Soles,todas,niveles_t_externos_t,E2_bursatil,1.0,2,2016,257647381087.67062
+Soles,todas,niveles_t_externos_t,E2_bursatil,1.0,2,2017,426347162996.94653
+Soles,todas,niveles_t_externos_t,E2_bursatil,10.0,2,2016,259145529607.50885
+Soles,todas,niveles_t_externos_t,E2_bursatil,10.0,2,2017,418371216984.7716
+Soles,todas,niveles_t_externos_t,E2_bursatil,100.0,2,2016,268278386160.8934
+Soles,todas,niveles_t_externos_t,E2_bursatil,100.0,2,2017,383714306930.58813
+Soles,todas,niveles_t_externos_t,E2_bursatil,1000.0,2,2016,241027332729.60245
+Soles,todas,niveles_t_externos_t,E2_bursatil,1000.0,2,2017,358230527245.98224
+Soles,todas,niveles_t_externos_t,E2_bursatil,10000.0,2,2016,175811810175.99753
+Soles,todas,niveles_t_externos_t,E2_bursatil,10000.0,2,2017,395989056649.3083
+Soles,todas,niveles_t_externos_t,E2_bursatil,0.1,3,2018,221743823392.5202
+Soles,todas,niveles_t_externos_t,E2_bursatil,0.1,3,2019,266215124211.9114
+Soles,todas,niveles_t_externos_t,E2_bursatil,1.0,3,2018,221585969061.58417
+Soles,todas,niveles_t_externos_t,E2_bursatil,1.0,3,2019,266469335458.11896
+Soles,todas,niveles_t_externos_t,E2_bursatil,10.0,3,2018,220172662937.6698
+Soles,todas,niveles_t_externos_t,E2_bursatil,10.0,3,2019,268682047218.54224
+Soles,todas,niveles_t_externos_t,E2_bursatil,100.0,3,2018,211370192068.0555
+Soles,todas,niveles_t_externos_t,E2_bursatil,100.0,3,2019,278750120846.5825
+Soles,todas,niveles_t_externos_t,E2_bursatil,1000.0,3,2018,177528961838.40305
+Soles,todas,niveles_t_externos_t,E2_bursatil,1000.0,3,2019,306153861431.18066
+Soles,todas,niveles_t_externos_t,E2_bursatil,10000.0,3,2018,137817530316.89236
+Soles,todas,niveles_t_externos_t,E2_bursatil,10000.0,3,2019,360282212146.50226
+Soles,todas,niveles_t_externos_t,E2_bursatil,0.1,4,2020,2690922817993.984
+Soles,todas,niveles_t_externos_t,E2_bursatil,0.1,4,2021,1082782381238.1266
+Soles,todas,niveles_t_externos_t,E2_bursatil,1.0,4,2020,2691159877400.9253
+Soles,todas,niveles_t_externos_t,E2_bursatil,1.0,4,2021,1083154946891.2078
+Soles,todas,niveles_t_externos_t,E2_bursatil,10.0,4,2020,2693338583232.357
+Soles,todas,niveles_t_externos_t,E2_bursatil,10.0,4,2021,1086556461593.1351
+Soles,todas,niveles_t_externos_t,E2_bursatil,100.0,4,2020,2711112140544.0254
+Soles,todas,niveles_t_externos_t,E2_bursatil,100.0,4,2021,1106262153400.4712
+Soles,todas,niveles_t_externos_t,E2_bursatil,1000.0,4,2020,2806250384320.8174
+Soles,todas,niveles_t_externos_t,E2_bursatil,1000.0,4,2021,1176047511134.6304
+Soles,todas,niveles_t_externos_t,E2_bursatil,10000.0,4,2020,3046175697890.433
+Soles,todas,niveles_t_externos_t,E2_bursatil,10000.0,4,2021,1333917012727.1091
+Soles,todas,niveles_t_externos_t_1,E0_financiero,0.1,1,2014,273436234228.66666
+Soles,todas,niveles_t_externos_t_1,E0_financiero,0.1,1,2015,510313351662.06854
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1.0,1,2014,272638729405.7386
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1.0,1,2015,510149188268.1071
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10.0,1,2014,266844454923.20273
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10.0,1,2015,508935499447.7239
+Soles,todas,niveles_t_externos_t_1,E0_financiero,100.0,1,2014,253539990495.08853
+Soles,todas,niveles_t_externos_t_1,E0_financiero,100.0,1,2015,504862820050.1912
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1000.0,1,2014,242964506136.2501
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1000.0,1,2015,491925498816.6617
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10000.0,1,2014,238950903644.9998
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10000.0,1,2015,479320529736.7125
+Soles,todas,niveles_t_externos_t_1,E0_financiero,0.1,2,2016,250478437534.62125
+Soles,todas,niveles_t_externos_t_1,E0_financiero,0.1,2,2017,422915705961.2311
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1.0,2,2016,250685395889.7342
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1.0,2,2017,422166386154.2622
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10.0,2,2016,253110743554.62598
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10.0,2,2017,415619786266.54645
+Soles,todas,niveles_t_externos_t_1,E0_financiero,100.0,2,2016,264276644976.1287
+Soles,todas,niveles_t_externos_t_1,E0_financiero,100.0,2,2017,385845825603.1171
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1000.0,2,2016,239274054395.51202
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1000.0,2,2017,361424565842.40643
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10000.0,2,2016,175720871961.03726
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10000.0,2,2017,396198091814.8883
+Soles,todas,niveles_t_externos_t_1,E0_financiero,0.1,3,2018,223233473976.11658
+Soles,todas,niveles_t_externos_t_1,E0_financiero,0.1,3,2019,267157935321.9834
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1.0,3,2018,223097205535.83127
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1.0,3,2019,267372238403.23453
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10.0,3,2018,221870638922.63452
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10.0,3,2019,269236816439.17792
+Soles,todas,niveles_t_externos_t_1,E0_financiero,100.0,3,2018,213756334519.09314
+Soles,todas,niveles_t_externos_t_1,E0_financiero,100.0,3,2019,277750973067.478
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1000.0,3,2018,178753352383.8744
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1000.0,3,2019,304405823783.606
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10000.0,3,2018,137916350339.63956
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10000.0,3,2019,360057776871.5836
+Soles,todas,niveles_t_externos_t_1,E0_financiero,0.1,4,2020,2695358298126.726
+Soles,todas,niveles_t_externos_t_1,E0_financiero,0.1,4,2021,1082900583503.915
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1.0,4,2020,2695581943620.8086
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1.0,4,2021,1083235575668.1638
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10.0,4,2020,2697629751855.734
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10.0,4,2021,1086358876768.8861
+Soles,todas,niveles_t_externos_t_1,E0_financiero,100.0,4,2020,2714683913808.482
+Soles,todas,niveles_t_externos_t_1,E0_financiero,100.0,4,2021,1105380904757.577
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1000.0,4,2020,2809048886379.152
+Soles,todas,niveles_t_externos_t_1,E0_financiero,1000.0,4,2021,1175359252714.1206
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10000.0,4,2020,3048842157174.3
+Soles,todas,niveles_t_externos_t_1,E0_financiero,10000.0,4,2021,1333683705526.2122
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2014,274017293176.8794
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2015,510186453917.11896
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2014,273185638735.58795
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2015,509998395631.5442
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2014,267152194832.892
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2015,508602430984.4334
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2014,253341748349.884
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2015,504072406986.8029
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2014,242802712450.79758
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2015,491448391867.77496
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2014,238999255171.9434
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2015,479377459319.8219
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2016,251494187873.46393
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2017,417628039842.2668
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2016,251739398767.70352
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2017,416816246202.67737
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2016,254467791170.6406
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2017,409803569296.3202
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2016,266160632744.5513
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2017,379419406894.9251
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2016,240262204386.6473
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2017,358268648535.65216
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2016,175771178259.9058
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2017,395941451512.55994
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2018,223475464829.25888
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2019,268961745976.79803
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2018,223357496516.523
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2019,269172094835.52966
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2018,222274579626.7218
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2019,271001906119.353
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2018,214506287478.02502
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2019,279364348457.655
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2018,179501303016.26166
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2019,305165142936.12604
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2018,138092889063.49484
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2019,359822163403.2007
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2020,2694259579188.27
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2021,1082849407897.3201
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2020,2694485329106.5806
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2021,1083180529521.1918
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2020,2696546226688.8247
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2021,1086270353235.5149
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2020,2713427541676.2695
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2021,1105108946033.4426
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2020,2806554505779.374
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2021,1174985076643.499
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2020,3046438108079.2217
+Soles,todas,niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2021,1333723025472.7085
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,0.1,1,2014,269279245343.4391
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,0.1,1,2015,505799450519.3506
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1.0,1,2014,268660723367.2421
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1.0,1,2015,505855919449.6806
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10.0,1,2014,264112024078.148
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10.0,1,2015,505896817094.6254
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,100.0,1,2014,252831189274.76917
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,100.0,1,2015,503453125689.4529
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2014,242822751136.15677
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2015,491236464008.7147
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2014,238971236226.816
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2015,479300115711.04645
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,0.1,2,2016,251593462517.046
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,0.1,2,2017,425709869432.9867
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1.0,2,2016,251817578076.09442
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1.0,2,2017,424927915233.5135
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10.0,2,2016,254338323208.3188
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10.0,2,2017,417879548043.52844
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,100.0,2,2016,265859866092.99634
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,100.0,2,2017,385727071391.68567
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2016,240396924517.929
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2017,361025111893.3612
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2016,175796119297.7544
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2017,396519555153.74713
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,0.1,3,2018,222546105939.93372
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,0.1,3,2019,265928131798.77243
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1.0,3,2018,222426656828.96112
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1.0,3,2019,266147476438.64844
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10.0,3,2018,221336769357.46375
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10.0,3,2019,268053797420.2436
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,100.0,3,2018,213705404079.86145
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,100.0,3,2019,276726334859.67316
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,3,2018,179211816347.0907
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,3,2019,303744735386.1471
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,3,2018,138022661188.92352
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,3,2019,359908722492.83905
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,0.1,4,2020,2686207536984.639
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,0.1,4,2021,1087621199968.9072
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1.0,4,2020,2686418461547.8325
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1.0,4,2021,1087937738950.9625
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10.0,4,2020,2688397872542.8223
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10.0,4,2021,1090896577359.9244
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,100.0,4,2020,2705941659480.6772
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,100.0,4,2021,1108937302980.8286
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,4,2020,2803545437451.9165
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,1000.0,4,2021,1176468509811.3188
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,4,2020,3046319925180.63
+Soles,todas,niveles_t_externos_t_1,E2_bursatil,10000.0,4,2021,1333807350951.93
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2014,235641863001.5691
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2015,460163169929.45917
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2014,235616894653.7438
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2015,460300104150.43054
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2014,235375354168.4295
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2015,461540884317.57263
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2014,233937833869.5589
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2015,467286526993.33496
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2014,231346919935.7888
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2015,468808777298.79236
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2014,236685829521.564
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2015,472386169997.04626
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2016,239923902942.66455
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2017,450042388659.6302
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2016,240169212857.68088
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2017,448993327536.6981
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2016,242599759243.6136
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2017,439995007643.53876
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2016,252781631121.78085
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2017,403394513368.01306
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2016,233834702306.23807
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2017,369666708999.6552
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2016,177075466303.1933
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2017,392536526399.4428
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,3,2018,257404409855.34085
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,3,2019,262554017307.1904
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,3,2018,257226396785.12973
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,3,2019,262769688333.12173
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,3,2018,255579704467.26886
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,3,2019,264659282289.62183
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,3,2018,243548125664.0562
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,3,2019,273955963869.70105
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,3,2018,194050749785.8309
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,3,2019,304029390567.5084
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,3,2018,139346032964.1742
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,3,2019,360424317612.777
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,4,2020,2506441570125.7075
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,0.1,4,2021,1463642873299.6719
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,4,2020,2506539985026.095
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1.0,4,2021,1463561860765.6553
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,4,2020,2507873233912.202
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10.0,4,2021,1462616275623.5903
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,4,2020,2527472650038.145
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,100.0,4,2021,1453568866238.8267
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,4,2020,2655606675482.3564
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,1000.0,4,2021,1420202917575.6973
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,4,2020,3000009004049.201
+Soles,todas,sin_niveles_t_externos_t_1,E0_financiero,10000.0,4,2021,1393794661857.6343
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2014,235757842952.3581
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2015,460472214868.3862
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2014,235722846372.21933
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2015,460598821469.1021
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2014,235400648537.71622
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2015,461742456534.65845
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2014,233710788869.5758
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2015,467012264921.9174
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2014,231187402669.2522
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2015,468429953453.50684
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2014,236743955876.0088
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2015,472464252160.0523
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2016,241110914005.77664
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2017,444822934301.5286
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2016,241386067407.61008
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2017,443735362342.08685
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2016,244045937536.81995
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2017,434426600695.2526
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2016,254576922604.71683
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2017,397230350886.2546
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2016,234809640767.50598
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2017,366512915798.49817
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2016,177123900002.2003
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2017,392281739766.10547
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2018,258535182143.6618
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2019,264120406025.91653
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2018,258362421748.399
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2019,264331764644.0596
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2018,256757564909.14496
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2019,266185392872.6424
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2018,244779842411.2454
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2019,275372086430.3694
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2018,194962983879.47794
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2019,304765370173.83856
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2018,139528714530.25357
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2019,360188904536.55884
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2020,2504979778765.7837
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2021,1464538984833.1045
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2020,2505090858341.844
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2021,1464446800572.7104
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2020,2506516265113.2075
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2021,1463416663825.5479
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2020,2526051294128.4033
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2021,1454261309596.7642
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2020,2652763674242.0103
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2021,1421151766014.2317
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2020,2997550129555.522
+Soles,todas,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2021,1394062115089.3064
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2014,236196222674.33383
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2015,455008982223.9493
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2014,235178440027.99597
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2015,455291139973.2196
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2014,233018237079.8245
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2015,458545883327.6317
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2014,233098165810.11536
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2015,466551181298.9002
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2014,231102924032.78995
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2015,468152402224.40814
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2014,236712234508.41214
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2015,472389969191.98737
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2016,241330295352.31107
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2017,453876350929.2804
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2016,241559755102.61188
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2017,452681098621.99347
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2016,243953845869.52808
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2017,442663070881.9205
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2016,254459546173.57852
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2017,403409396496.16095
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2016,234998496464.3369
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2017,369259343572.224
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2016,177144682144.22354
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2017,392861051721.7483
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,3,2018,257500379566.66953
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,3,2019,261151160016.77097
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,3,2018,257324066287.13406
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,3,2019,261370983044.6736
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,3,2018,255699552030.4218
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,3,2019,263296592860.2157
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,3,2018,243873324947.20563
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,3,2019,272769838854.61154
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,3,2018,194669174639.58286
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,3,2019,303323272407.47815
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,3,2018,139464885272.28113
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,3,2019,360275403090.0362
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,4,2020,2497293400293.575
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,0.1,4,2021,1469802554711.5027
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,4,2020,2497396341474.6206
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1.0,4,2021,1469692120562.3936
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,4,2020,2498793599578.676
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10.0,4,2021,1468493721995.9495
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,4,2020,2519138873703.6704
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,100.0,4,2021,1458299539589.4941
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,4,2020,2650193095278.51
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,4,2021,1422375709481.3416
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,4,2020,2997481111920.542
+Soles,todas,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,4,2021,1394084355699.523
+Soles,bancario,niveles_t_externos_t,E0_financiero,0.1,1,2018,2197979216390.5046
+Soles,bancario,niveles_t_externos_t,E0_financiero,0.1,1,2019,1749512230356.0457
+Soles,bancario,niveles_t_externos_t,E0_financiero,1.0,1,2018,2156689947187.4202
+Soles,bancario,niveles_t_externos_t,E0_financiero,1.0,1,2019,1797030934762.6843
+Soles,bancario,niveles_t_externos_t,E0_financiero,10.0,1,2018,1818946302163.4265
+Soles,bancario,niveles_t_externos_t,E0_financiero,10.0,1,2019,1876874828592.2324
+Soles,bancario,niveles_t_externos_t,E0_financiero,100.0,1,2018,977006890358.3676
+Soles,bancario,niveles_t_externos_t,E0_financiero,100.0,1,2019,2279875768386.7817
+Soles,bancario,niveles_t_externos_t,E0_financiero,1000.0,1,2018,721026635284.2258
+Soles,bancario,niveles_t_externos_t,E0_financiero,1000.0,1,2019,2750366272103.7114
+Soles,bancario,niveles_t_externos_t,E0_financiero,10000.0,1,2018,745791169546.9176
+Soles,bancario,niveles_t_externos_t,E0_financiero,10000.0,1,2019,2876784455736.1733
+Soles,bancario,niveles_t_externos_t,E0_financiero,0.1,2,2020,26176985550599.72
+Soles,bancario,niveles_t_externos_t,E0_financiero,0.1,2,2021,7380324822199.863
+Soles,bancario,niveles_t_externos_t,E0_financiero,1.0,2,2020,26070864593387.945
+Soles,bancario,niveles_t_externos_t,E0_financiero,1.0,2,2021,7402277004172.21
+Soles,bancario,niveles_t_externos_t,E0_financiero,10.0,2,2020,25698935665358.746
+Soles,bancario,niveles_t_externos_t,E0_financiero,10.0,2,2021,6940371732621.948
+Soles,bancario,niveles_t_externos_t,E0_financiero,100.0,2,2020,25112528863798.77
+Soles,bancario,niveles_t_externos_t,E0_financiero,100.0,2,2021,6317518946373.42
+Soles,bancario,niveles_t_externos_t,E0_financiero,1000.0,2,2020,24978719962555.215
+Soles,bancario,niveles_t_externos_t,E0_financiero,1000.0,2,2021,7879352282657.5205
+Soles,bancario,niveles_t_externos_t,E0_financiero,10000.0,2,2020,24961754959734.926
+Soles,bancario,niveles_t_externos_t,E0_financiero,10000.0,2,2021,8797052861514.916
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,0.1,1,2018,13952218391522.193
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,0.1,1,2019,20966301125948.83
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,1.0,1,2018,2757125142327.3115
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,1.0,1,2019,2021905356162.7607
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,10.0,1,2018,1965896549786.084
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,10.0,1,2019,1918034389553.6455
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,100.0,1,2018,1043731103934.9215
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,100.0,1,2019,2422708007783.973
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2018,731446829778.8236
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2019,2776509172280.8823
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2018,747003463883.7323
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2019,2879115704717.072
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,0.1,2,2020,25320602152153.145
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,0.1,2,2021,8212976932611.153
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,1.0,2,2020,25257323216805.61
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,1.0,2,2021,8317148698341.017
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,10.0,2,2020,25240152676442.516
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,10.0,2,2021,8698719129250.923
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,100.0,2,2020,24904654241910.418
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,100.0,2,2021,6819381631331.477
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2020,24819560916324.36
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2021,7875830178251.892
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2020,24936508355398.316
+Soles,bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2021,8802580831212.291
+Soles,bancario,niveles_t_externos_t,E2_bursatil,0.1,1,2018,2011483661076.185
+Soles,bancario,niveles_t_externos_t,E2_bursatil,0.1,1,2019,1697097335717.415
+Soles,bancario,niveles_t_externos_t,E2_bursatil,1.0,1,2018,2075269882739.3306
+Soles,bancario,niveles_t_externos_t,E2_bursatil,1.0,1,2019,1756869408444.077
+Soles,bancario,niveles_t_externos_t,E2_bursatil,10.0,1,2018,2024094863823.6514
+Soles,bancario,niveles_t_externos_t,E2_bursatil,10.0,1,2019,1891215674173.399
+Soles,bancario,niveles_t_externos_t,E2_bursatil,100.0,1,2018,1121997788820.2754
+Soles,bancario,niveles_t_externos_t,E2_bursatil,100.0,1,2019,2415321664092.736
+Soles,bancario,niveles_t_externos_t,E2_bursatil,1000.0,1,2018,740386983745.6079
+Soles,bancario,niveles_t_externos_t,E2_bursatil,1000.0,1,2019,2785931454379.8413
+Soles,bancario,niveles_t_externos_t,E2_bursatil,10000.0,1,2018,747850839084.8994
+Soles,bancario,niveles_t_externos_t,E2_bursatil,10000.0,1,2019,2880382246919.707
+Soles,bancario,niveles_t_externos_t,E2_bursatil,0.1,2,2020,25243473050283.656
+Soles,bancario,niveles_t_externos_t,E2_bursatil,0.1,2,2021,11154427551674.455
+Soles,bancario,niveles_t_externos_t,E2_bursatil,1.0,2,2020,24982626135430.72
+Soles,bancario,niveles_t_externos_t,E2_bursatil,1.0,2,2021,11027596570806.021
+Soles,bancario,niveles_t_externos_t,E2_bursatil,10.0,2,2020,24809981444402.21
+Soles,bancario,niveles_t_externos_t,E2_bursatil,10.0,2,2021,11726466058908.63
+Soles,bancario,niveles_t_externos_t,E2_bursatil,100.0,2,2020,24681222010835.566
+Soles,bancario,niveles_t_externos_t,E2_bursatil,100.0,2,2021,7391030411228.472
+Soles,bancario,niveles_t_externos_t,E2_bursatil,1000.0,2,2020,24754347935026.85
+Soles,bancario,niveles_t_externos_t,E2_bursatil,1000.0,2,2021,7847417402772.64
+Soles,bancario,niveles_t_externos_t,E2_bursatil,10000.0,2,2020,24926715140071.586
+Soles,bancario,niveles_t_externos_t,E2_bursatil,10000.0,2,2021,8797187514657.434
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,0.1,1,2018,2197979216390.5046
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,0.1,1,2019,1749512230356.0457
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,1.0,1,2018,2156689947187.4202
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,1.0,1,2019,1797030934762.6843
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,10.0,1,2018,1818946302163.4265
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,10.0,1,2019,1876874828592.2324
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,100.0,1,2018,977006890358.3676
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,100.0,1,2019,2279875768386.7817
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,1000.0,1,2018,721026635284.2258
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,1000.0,1,2019,2750366272103.7114
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,10000.0,1,2018,745791169546.9176
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,10000.0,1,2019,2876784455736.1733
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,0.1,2,2020,26176985550599.72
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,0.1,2,2021,7380324822199.863
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,1.0,2,2020,26070864593387.945
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,1.0,2,2021,7402277004172.21
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,10.0,2,2020,25698935665358.746
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,10.0,2,2021,6940371732621.948
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,100.0,2,2020,25112528863798.77
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,100.0,2,2021,6317518946373.42
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,1000.0,2,2020,24978719962555.215
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,1000.0,2,2021,7879352282657.5205
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,10000.0,2,2020,24961754959734.926
+Soles,bancario,niveles_t_externos_t_1,E0_financiero,10000.0,2,2021,8797052861514.916
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2018,3826730536141.0337
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2019,1707375052549.5771
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2018,2208806594389.4727
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2019,1948494278446.2776
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2018,1755973011588.11
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2019,2212527398869.447
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2018,948457248194.9336
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2019,2562450706483.8486
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2018,730660683231.1676
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2019,2765717452846.6323
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2018,747726859852.9032
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2019,2875666190379.069
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2020,23947809439426.664
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2021,6725731927469.2295
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2020,23407905018788.637
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2021,6751279276940.067
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2020,22855223954629.082
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2021,6507895636534.645
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2020,23631438420460.07
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2021,6369326915521.654
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2020,24490530445189.96
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2021,8007089223633.775
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2020,24894879944530.348
+Soles,bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2021,8817331423429.26
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,0.1,1,2018,1892173758518.886
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,0.1,1,2019,1839631384043.5845
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,1.0,1,2018,1864484881126.8335
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,1.0,1,2019,1945182996708.9512
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,10.0,1,2018,1641128272578.02
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,10.0,1,2019,2154916778406.0637
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,100.0,1,2018,862792398755.3257
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,100.0,1,2019,2631821552581.7646
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2018,697438853159.3096
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2019,2845437708424.4897
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2018,743458947352.5634
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2019,2887073415253.4897
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,0.1,2,2020,25295675601321.7
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,0.1,2,2021,6821362566704.886
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,1.0,2,2020,24673960351789.965
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,1.0,2,2021,6798148060728.494
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,10.0,2,2020,23641476540479.277
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,10.0,2,2021,6491334840274.964
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,100.0,2,2020,23760309847981.86
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,100.0,2,2021,6380728984459.061
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2020,24502700980760.645
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2021,8006260881836.528
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2020,24895344728614.652
+Soles,bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2021,8817269083084.97
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2018,4290915580693.923
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2019,1547285688869.011
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2018,4211702291134.7993
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2019,1590230051106.7148
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2018,3591802808095.125
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2019,1652996508327.8455
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2018,1900951389094.2993
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2019,2206397412612.9233
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2018,894905641961.559
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2019,2793231673539.056
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2018,764828478091.7648
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2019,2884518443108.371
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2020,19905305440315.887
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2021,9235091894621.334
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2020,19932824148494.395
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2021,9172315016786.484
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2020,20236536201480.504
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2021,9052819230058.518
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2020,21536727255339.01
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2021,8935371193401.232
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2020,23986591283429.96
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2021,8890128805817.824
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2020,24836842929493.477
+Soles,bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2021,8934272716752.822
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2018,11568062054254.531
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2019,1718360502703.679
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2018,4839401890710.891
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2019,1722733823890.7
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2018,3511725595253.2827
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2019,2032837340477.8684
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2018,1847471169214.8215
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2019,2496317838134.728
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2018,904735602961.4427
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2019,2807193293014.482
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2018,766784089723.4312
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2019,2883363115933.57
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2020,17449023239528.95
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2021,11065567200206.723
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2020,17293554347868.559
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2021,11225972028141.803
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2020,17551053971248.771
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2021,10885765634778.838
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2020,19971991565803.258
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2021,9656855806115.184
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2020,23497068803962.035
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2021,9069135466750.877
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2020,24769990184848.57
+Soles,bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2021,8955400534161.057
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2018,3779060749167.079
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2019,1728423901485.1187
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2018,3689005900058.332
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2019,1829152555673.9006
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2018,3173036144863.373
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2019,2018590108713.2302
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2018,1684751699992.165
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2019,2616417278370.501
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2018,865785186233.727
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2019,2890623500570.697
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2018,762430485175.5184
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2019,2894826596954.178
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2020,18842895725707.734
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2021,9794541364676.56
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2020,18544400168738.062
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2021,9878775170389.486
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2020,18390588228342.49
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2021,10000178626277.658
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2020,20155374198332.848
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2021,9572265762746.08
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2020,23509597484574.727
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2021,9064712864704.822
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2020,24770453092565.355
+Soles,bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2021,8955292690663.83
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,0.1,1,2014,39583924313.09545
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,0.1,1,2015,371878743832.76215
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1.0,1,2014,39598537525.333405
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1.0,1,2015,372015792336.6522
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10.0,1,2014,39705934911.33539
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10.0,1,2015,373293669399.2099
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,100.0,1,2014,39813219582.908295
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,100.0,1,2015,379571520063.1582
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,1,2014,40417158295.424355
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,1,2015,390586701480.1002
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,1,2014,47787156630.52604
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,1,2015,413856635259.8808
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,0.1,2,2016,418677158811.86835
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,0.1,2,2017,52901092093.778435
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1.0,2,2016,415711767149.3321
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1.0,2,2017,52616575532.27222
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10.0,2,2016,388826685223.6407
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10.0,2,2017,50097069664.29766
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,100.0,2,2016,254052095143.967
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,100.0,2,2017,40516262445.63037
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,2,2016,100032946925.85016
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,2,2017,32328525785.223114
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,2,2016,52571026480.97984
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,2,2017,18533112504.0124
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,0.1,3,2018,25274085733.90296
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,0.1,3,2019,57634763946.02413
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1.0,3,2018,25293415758.4338
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1.0,3,2019,57575351783.86865
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10.0,3,2018,25434666922.052147
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10.0,3,2019,57198629322.58205
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,100.0,3,2018,26186290498.97403
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,100.0,3,2019,58041499022.030785
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,3,2018,30295650375.663834
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,3,2019,64034725820.75609
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,3,2018,37663891188.04508
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,3,2019,59744636169.110374
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,0.1,4,2020,81559101566.11705
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,0.1,4,2021,182248621962.43094
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1.0,4,2020,81641769968.92877
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1.0,4,2021,182456084392.08643
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10.0,4,2020,82132181147.77477
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10.0,4,2021,184346529092.02112
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,100.0,4,2020,79618850635.28568
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,100.0,4,2021,194812136845.84518
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,4,2020,63879272454.46523
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,1000.0,4,2021,214762885187.89178
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,4,2020,55449057070.94865
+Soles,no_bancario,niveles_t_externos_t,E0_financiero,10000.0,4,2021,250067359975.9695
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,1,2014,39279140254.70925
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,1,2015,375347506573.36224
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,1,2014,39293167632.45317
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,1,2015,375448229141.5393
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,1,2014,39399427365.21016
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,1,2015,376426882231.22015
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,1,2014,39556148046.66979
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,1,2015,381410610172.01715
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2014,40295511313.82687
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,1,2015,390804696330.13873
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2014,47786567654.22674
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,1,2015,413919761397.75696
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,2,2016,413426188564.79565
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,2,2017,52758259883.61534
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,2,2016,410483929697.67236
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,2,2017,52461722321.74588
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,2,2016,383842817851.1443
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,2,2017,49844473146.64992
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,2,2016,251081331436.45663
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,2,2017,40080714405.85763
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2016,99885402895.9805
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,2,2017,32202228253.309032
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2016,52580981717.7561
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,2,2017,18508074776.873985
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,3,2018,25515311334.943806
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,3,2019,57890409570.71314
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,3,2018,25531895111.744682
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,3,2019,57835614055.336296
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,3,2018,25650008693.096077
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,3,2019,57491004471.64047
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,3,2018,26327405872.812893
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,3,2019,58365563415.03689
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,3,2018,30363759004.471607
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,3,2019,64145787039.85886
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,3,2018,37653199340.50337
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,3,2019,59704287556.18103
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,4,2020,81497533625.3903
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,0.1,4,2021,181402912388.77725
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,4,2020,81573109704.45595
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1.0,4,2021,181604106890.35278
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,4,2020,82005902195.38585
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10.0,4,2021,183444406708.9371
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,4,2020,79320269843.9904
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,100.0,4,2021,193831439434.7047
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,4,2020,63623278374.37076
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,1000.0,4,2021,214461663158.2001
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,4,2020,55315290638.74173
+Soles,no_bancario,niveles_t_externos_t,E1_macroeconomico,10000.0,4,2021,249743349948.87946
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,1,2014,39870917290.99614
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,1,2015,369794366299.97284
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,1,2014,39807564664.39483
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,1,2015,369784058248.7514
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,1,2014,39679934634.9005
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,1,2015,371907262776.5606
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,1,2014,39664105887.60811
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,1,2015,379174648200.9379
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,1,2014,40317164791.081696
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,1,2015,390255658878.3075
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,1,2014,47793230304.288345
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,1,2015,413892134888.6502
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,2,2016,415597042410.54156
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,2,2017,54106117377.67708
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,2,2016,412639212341.5607
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,2,2017,53815834566.4049
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,2,2016,385848606053.5008
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,2,2017,51241294951.63976
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,2,2016,252049790352.43304
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,2,2017,41260259208.28149
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,2,2016,99888162480.67581
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,2,2017,32381824677.62462
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,2,2016,52593276404.04842
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,2,2017,18520953950.85476
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,3,2018,25350715634.83026
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,3,2019,57762589037.12251
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,3,2018,25362314348.270382
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,3,2019,57709668211.22335
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,3,2018,25448868877.263763
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,3,2019,57382931013.43011
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,3,2018,26201151541.68532
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,3,2019,58408017059.92529
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,3,2018,30410535620.489082
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,3,2019,64394301867.873535
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,3,2018,37689666130.40601
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,3,2019,59793543740.03004
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,4,2020,81941320886.0185
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,0.1,4,2021,180712763842.40878
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,4,2020,82015589758.91342
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1.0,4,2021,180917573657.77402
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,4,2020,82435676805.04723
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10.0,4,2021,182780288021.5281
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,4,2020,79685265421.96695
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,100.0,4,2021,193102555753.8361
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,4,2020,63802221465.521385
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,1000.0,4,2021,213618110813.08835
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,4,2020,55360555853.67092
+Soles,no_bancario,niveles_t_externos_t,E2_bursatil,10000.0,4,2021,249593414069.9551
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,1,2014,39583924313.09545
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,1,2015,371878743832.76215
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,1,2014,39598537525.333405
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,1,2015,372015792336.6522
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,1,2014,39705934911.33539
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,1,2015,373293669399.2099
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,1,2014,39813219582.908295
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,1,2015,379571520063.1582
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,1,2014,40417158295.424355
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,1,2015,390586701480.1002
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,1,2014,47787156630.52604
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,1,2015,413856635259.8808
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,2,2016,418677158811.86835
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,2,2017,52901092093.778435
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,2,2016,415711767149.3321
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,2,2017,52616575532.27222
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,2,2016,388826685223.6407
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,2,2017,50097069664.29766
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,2,2016,254052095143.967
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,2,2017,40516262445.63037
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,2,2016,100032946925.85016
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,2,2017,32328525785.223114
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,2,2016,52571026480.97984
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,2,2017,18533112504.0124
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,3,2018,25274085733.90296
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,3,2019,57634763946.02413
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,3,2018,25293415758.4338
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,3,2019,57575351783.86865
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,3,2018,25434666922.052147
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,3,2019,57198629322.58205
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,3,2018,26186290498.97403
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,3,2019,58041499022.030785
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,3,2018,30295650375.663834
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,3,2019,64034725820.75609
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,3,2018,37663891188.04508
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,3,2019,59744636169.110374
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,4,2020,81559101566.11705
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,0.1,4,2021,182248621962.43094
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,4,2020,81641769968.92877
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1.0,4,2021,182456084392.08643
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,4,2020,82132181147.77477
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10.0,4,2021,184346529092.02112
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,4,2020,79618850635.28568
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,100.0,4,2021,194812136845.84518
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,4,2020,63879272454.46523
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,1000.0,4,2021,214762885187.89178
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,4,2020,55449057070.94865
+Soles,no_bancario,niveles_t_externos_t_1,E0_financiero,10000.0,4,2021,250067359975.9695
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2014,39713949355.56254
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2015,372399731709.5562
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2014,39722474793.32755
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2015,372513908886.95905
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2014,39785004280.49
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2015,373615600615.97424
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2014,39787000311.88944
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2015,379369334206.91943
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2014,40369088295.88274
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2015,390229905388.6378
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2014,47797789310.143425
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2015,413868699525.5256
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2016,415115341047.07227
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2017,52857213069.486015
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2016,412183463374.08136
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2017,52566994672.91708
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2016,385610856318.05176
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2017,50002926683.09555
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2016,252580142697.75345
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2017,40322301412.37931
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2016,100168894655.77028
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2017,32262272122.93443
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2016,52609446393.9688
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2017,18521390979.337746
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2018,26062442265.76431
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2019,57169437441.843254
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2018,26084567648.44701
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2019,57114532421.01949
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2018,26237251392.917294
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2019,56773200787.71132
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2018,26861004396.84181
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2019,57737497675.70734
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2018,30526084364.443172
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2019,63917122086.98024
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2018,37640163460.117966
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2019,59714001250.06011
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2020,82059763088.95903
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2021,182784815657.77573
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2020,82137495373.51279
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2021,182986369138.44812
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2020,82584693957.92969
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2021,184821522772.5075
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2020,79876981290.72519
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2021,194987614328.732
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2020,63862498540.86242
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2021,214601735293.7319
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2020,55363071611.494484
+Soles,no_bancario,niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2021,249883492440.79773
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,1,2014,51770781274.80936
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,1,2015,371165337335.275
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,1,2014,49144686108.9876
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,1,2015,370636474819.06213
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,1,2014,41393629621.08576
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,1,2015,371189917462.5554
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,1,2014,39716884321.180855
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,1,2015,378748248144.96277
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2014,40365890847.608864
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,1,2015,389955969084.3486
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2014,47794466867.56911
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,1,2015,413811898047.3507
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,2,2016,451243812859.27795
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,2,2017,79876102876.64497
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,2,2016,444603279573.47003
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,2,2017,75735334126.65814
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,2,2016,401733376961.376
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,2,2017,58361691163.127014
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,2,2016,256329225254.41776
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,2,2017,41481241823.06912
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2016,100971210041.56009
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,2,2017,32625022727.64
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2016,52677748282.17031
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,2,2017,18630877523.77752
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,3,2018,25692408217.72198
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,3,2019,57526738194.18018
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,3,2018,25713439800.49185
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,3,2019,57472906893.93189
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,3,2018,25858345685.59233
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,3,2019,57126636298.640434
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,3,2018,26494106098.31027
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,3,2019,57855832069.27291
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,3,2018,30392654357.35852
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,3,2019,63709596099.279396
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,3,2018,37653472436.32426
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,3,2019,59685436769.371445
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,4,2020,81690283393.15804
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,0.1,4,2021,182494209936.38733
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,4,2020,81766398648.43423
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1.0,4,2021,182700927234.63846
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,4,2020,82202219028.84511
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10.0,4,2021,184571279672.84927
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,4,2020,79496996180.82382
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,100.0,4,2021,194727104613.1218
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,4,2020,63707121952.50715
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,1000.0,4,2021,214330554832.7666
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,4,2020,55384847989.71151
+Soles,no_bancario,niveles_t_externos_t_1,E2_bursatil,10000.0,4,2021,249898789133.5563
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2014,48006181776.72359
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,1,2015,401523883509.85864
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2014,47977367599.64313
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,1,2015,401383251442.99896
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2014,47710693073.61188
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,1,2015,400305363430.4304
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2014,46252532242.26148
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,1,2015,397654753147.21277
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2014,44907940195.698586
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,1,2015,402244047617.8658
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2014,50637349100.082985
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,1,2015,420934027796.5658
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2016,220492204706.76157
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,2,2017,69164684255.06206
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2016,218451796938.6326
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,2,2017,68871795054.11264
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2016,200322901436.00845
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,2,2017,66334565424.842735
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2016,116084021338.45598
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,2,2017,56516373781.44123
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2016,43622532506.3595
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,2,2017,39197728003.30249
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2016,48664192754.68866
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,2,2017,20045834301.561325
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,3,2018,28173678227.52319
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,3,2019,53643775105.94496
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,3,2018,28171289720.055187
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,3,2019,53666493739.02459
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,3,2018,28172445888.352406
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,3,2019,53911924201.26072
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,3,2018,29084922987.505714
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,3,2019,56545605255.82816
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,3,2018,33452982570.20857
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,3,2019,63928289307.26505
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,3,2018,39318380349.00286
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,3,2019,60164657823.440414
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,4,2020,95291159729.42674
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,0.1,4,2021,189240918648.1781
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,4,2020,95215451924.60971
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1.0,4,2021,189418453802.81277
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,4,2020,94483348202.83455
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10.0,4,2021,190996522550.34125
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,4,2020,89002316384.79953
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,100.0,4,2021,199265495840.94742
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,4,2020,72792092388.29327
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,1000.0,4,2021,217081661565.8385
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,4,2020,60725001602.99984
+Soles,no_bancario,sin_niveles_t_externos_t_1,E0_financiero,10000.0,4,2021,254509331599.70273
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2014,47940517832.4622
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,1,2015,401790528213.34045
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2014,47909118308.99515
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,1,2015,401633868706.78485
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2014,47623436644.39535
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,1,2015,400433188319.8295
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2014,46126331706.3615
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,1,2015,397385021881.05286
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2014,44831912799.29267
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,1,2015,401866188020.8733
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2014,50650022345.07436
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,1,2015,420951529806.29443
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2016,218970036598.8359
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,2,2017,68773897684.2713
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2016,216951985329.50714
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,2,2017,68484691962.304924
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2016,199021323454.58548
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,2,2017,65976372722.27695
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2016,115664971844.81573
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,2,2017,56193320592.999565
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2016,43746581518.23124
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,2,2017,39072317998.71117
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2016,48686224040.04308
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,2,2017,20029903055.110996
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2018,29188611948.994686
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,3,2019,53368386434.053345
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2018,29180341883.466343
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,3,2019,53391033037.97167
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2018,29128945904.96672
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,3,2019,53636496616.99487
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2018,29783229908.03301
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,3,2019,56300487652.273094
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2018,33678327741.463985
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,3,2019,63819235756.46509
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2018,39289063283.92935
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,3,2019,60134160733.95397
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2020,95477819607.66762
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,0.1,4,2021,189702722771.44223
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2020,95401091518.39894
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1.0,4,2021,189872017862.74805
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2020,94659261412.76581
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10.0,4,2021,191379108335.38553
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2020,89108770708.6307
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,100.0,4,2021,199345338368.25467
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2020,72725946801.13089
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,1000.0,4,2021,216878999118.93436
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2020,60629889180.06121
+Soles,no_bancario,sin_niveles_t_externos_t_1,E1_macroeconomico,10000.0,4,2021,254312391018.29507
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2014,60005061869.20369
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,1,2015,399027884720.06506
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2014,57239248632.812355
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,1,2015,398345308515.58356
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2014,48966408168.827644
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,1,2015,397307550615.21295
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2014,46014907904.287025
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,1,2015,396832666072.5994
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2014,44829478405.19413
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,1,2015,401654385442.51965
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2014,50644861026.35122
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,1,2015,420896852335.5753
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2016,261113155401.45367
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,2,2017,109298994817.12408
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2016,254268875705.29852
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,2,2017,103007979306.74557
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2016,215845641835.1738
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,2,2017,77669783135.7705
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2016,118167249227.7372
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,2,2017,57441381715.30642
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2016,43987580980.98173
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,2,2017,39451874431.35852
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2016,48729761628.759056
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,2,2017,20148129145.87605
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,3,2018,28713359563.351864
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,3,2019,54000653047.23143
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,3,2018,28705688991.64211
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,3,2019,54014872984.199326
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,3,2018,28660463984.48392
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,3,2019,54185354285.8845
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,3,2018,29378595648.405006
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,3,2019,56469848956.80799
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,3,2018,33544153960.25305
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,3,2019,63633695705.800095
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,3,2018,39304673771.14459
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,3,2019,60111546218.67447
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,4,2020,95111849187.79875
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,0.1,4,2021,189336853144.7487
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,4,2020,95036302477.74812
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1.0,4,2021,189510814303.14746
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,4,2020,94304413649.46985
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10.0,4,2021,191049821732.6872
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,4,2020,88801324686.83186
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,100.0,4,2021,199014698996.75296
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,4,2020,72604866629.3549
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,1000.0,4,2021,216604074030.1902
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,4,2020,60655870026.13868
+Soles,no_bancario,sin_niveles_t_externos_t_1,E2_bursatil,10000.0,4,2021,254333371127.88654
