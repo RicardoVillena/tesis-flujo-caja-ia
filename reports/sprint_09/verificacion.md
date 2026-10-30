@@ -49,3 +49,11 @@ Siguen señalando `notebooks/03_extraccion_macroeconomica.ipynb`, ahora incluido
 - **Selección sin datos externos:** los hiperparámetros y los atributos de E4 se eligen solo con los pliegues internos del entrenamiento externo. El ranking de importancia del Sprint 09 no interviene en E4.
 - **Presupuesto comparable:** mismas rejillas (8 configuraciones) y mismos pliegues para todas las variantes.
 - **Casos extremos:** no se excluyó ninguna empresa ni se cambió el objetivo. La concentración del error está en [concentracion_error.csv](concentracion_error.csv), y los casos extremos documentados (FOSSAL 2017, CD0009 2016, Cerro Verde y otros) en el Sprint 08.
+
+## Estado de GitHub
+
+- **30 de octubre de 2026:** el acceso está disponible. `gh auth status` está válido para la cuenta RicardoVillena, con permiso ADMIN; el bloqueo anterior (HTTP 403 del conector y autenticación local inválida) ya no aplica.
+- **Publicación:** la rama `sprint-09-variantes-importancia` se publicó en `origin` con `git push -u`. El commit de resultados `078158c` quedó verificado con `git ls-remote`; este documento se publicó en el commit siguiente de la misma rama. No se abrió un Pull Request ni se fusionó con `main`.
+- **Contenido publicado:** la rama incluye el commit `ecf7f16` (cierre local de los Sprints 07 y 08), que no estaba en el remoto. Con él se publicaron unos 1.300 archivos de `data/raw/`: series BCRP/BVL, PDF y textos de documentos de empresas, y datos de Damodaran.
+- **Advertencia de derechos:** el repositorio es **público**. La licencia de redistribución solo está documentada para los XML SMV (ODbL, ver [data/README.md](../../data/README.md)); para los demás archivos de `data/raw/` no se encontró documentación de derechos en el repositorio. Conviene revisarla.
+- **Comprobaciones previas al push:** no hay archivos de más de 50 MB ni credenciales; el único resultado del escaneo fue JavaScript minificado de una página web pública guardada, un falso positivo.
