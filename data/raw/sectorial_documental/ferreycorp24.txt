@@ -1,0 +1,1735 @@
+
+=== PAGINA PDF 1 ===
+Ferreycorp S.A. A.  y Subsidiarias 
+Estados financieros consolidados al 31 de diciembre de 2024 y de 
+2023 junto con el dictamen de los auditores independientes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 2 ===
+ 
+Ferreycorp S.A.A.  y Subsidiarias 
+Estados financieros consolidados al 31 de diciembre de 2024 y de 
+2023 junto con el dictamen de los auditores independientes 
+Contenido 
+ 
+Dictamen de los auditores independientes 
+ 
+Estado consolidado de situación financiera 
+Estado consolidado de resultados 
+Estado consolidado de resultados integrales 
+Estado consolidado de cambios en el patrimonio 
+Estado consolidado de flujos de efectivo 
+Notas a los estados financieros consolidados 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 3 ===
+ 
+Lima 
+Av. Víctor Andrés 
+Belaunde 171 
+San Isidro  
+Tel: +51 (1) 411 4444 
+ 
+Lima II 
+Av. Jorge Basadre 330 
+San Isidro 
+Tel: +51 (1) 411 4444 
+ 
+ 
+Arequipa 
+Edificio City Center ,       
+piso 13, Torre Sur , Cerro 
+Colorado 
+Tel: +51 (54) 484 470 
+ 
+ 
+Trujillo 
+Av. El Golf 591, Urb. Las 
+Flores del Golf III, Víctor 
+Larco Herrera 13009, 
+Sede Miguel Ángel Quijano 
+Doig 
+La Libertad  
+Tel: +51 (44) 608 830 
+ 
+Chiclayo (satélite) 
+Av. Federico Villareal 115, 
+Lambayeque  
+Tel: +51 (74) 227 424 
+ 
+Cusco (satélite) 
+Jr . Ricardo Palma #18, 
+Urb. Santa Mónica, 
+Wanchaq 
+ 
+    
+Inscrita en la partida 13222951 del Registro de Personas Jurídicas de Lima y Callao 
+Miembro de Ernst & Young Global 
+Dictamen de los auditores independientes 
+ 
+Tanaka, Valdivia & Asociados 
+Sociedad Civil de R. L 
+ 
+A los Accionistas de Ferreycorp S.A.A.  y Subsidiarias 
+ 
+Opinión 
+ 
+Hemos auditado los estados financieros consolidados de Ferreycorp S.A.A. y Subsidiarias (en adelante 
+”el Grupo”), que comprenden el estado consolidado de situación financiera al 31 de diciembre de 
+2024, y los estados consolidados de resultados, de resultados integrales, de cambios en el patrimonio 
+neto y de flujos de efectivo por el año terminado en esa fecha, así como las notas a los estados 
+financieros consolidados, que incluyen información sobre las políticas contables materiales. 
+ 
+En nuestra opinión, los estados financieros consolidados adjuntos presentan razonablemente, en 
+todos los aspectos significativos, la situación financiera consolidada del Grupo al 31 de diciembre de 
+2024, así como su desempeño financiero y sus flujos de efectivo consolidados por el año terminado en 
+esa fecha, de acuerdo con las normas contables NIIF. 
+ 
+Base de la opinión 
+ 
+Realizamos nuestra auditoría de conformidad con las Normas Internacionales de Auditoría (NIAs ) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos 
+del Perú. Nuestras responsabilidades en virtud de esas normas se describen con más detalle en la 
+sección Responsabilidades del auditor en relación con la auditoría de los estados financieros  de 
+nuestro informe. Somos independientes de la Compañía de acuerdo con el Código de Ética para 
+Profesionales de la Contabilidad del Consejo de Normas Internacionales de Ética para Contadores 
+(Código IESBA, por sus siglas en inglés) junto con los requisitos éticos que son relevantes para nuestra 
+auditoría de los estados financieros en Perú, y hemos cumplido con nuestras otras responsabilidades 
+éticas de acuerdo con estos requisitos y el Código IESBA. Consideramos que la ev idencia de auditoría 
+que hemos obtenido proporciona una base suficiente y adecuada para nuestra opinión.  
+ 
+Asunto clave de auditoría 
+ 
+Los asuntos clave de auditoría son aquellos asuntos que, a nuestro juicio profesional, fueron de mayor 
+importancia en la auditoría de los estados financieros consolidados del período actual .  Estos asuntos 
+se abordaron en el contexto de la auditoría de los estados financieros en su conjunto, y en la 
+formación de nuestra opinión sobre los mismos; por lo que no proporcionamos una opinión separada 
+sobre estos asuntos.  Con base en lo anterior, más adelante, se detalla la manera en la que cada 
+asunto clave fue abordado durante nuestra auditoría. 
+ 
+  
+
+=== PAGINA PDF 4 ===
+Dictamen de los auditores independientes (continuación)  
+Hemos cumplido con las responsabilidades descritas en la sección Responsabilidades del auditor en 
+relación con la auditoría de los estados financieros de nuestro informe, incluso en relación con estos 
+asuntos.  En consecuencia, nuestra auditoría incluyó la realización de procedimientos diseñados para 
+responder a los riesgos de incorrección material evaluados en los estados financieros consolidados .  
+Los resultados de los procedimientos de auditoría, incluidos los procedimientos realizados para 
+abordar los asuntos que se mencionan a continuación, constituyen la base para la opinión de auditoría 
+sobre los estados financieros consolidados adjuntos. 
+ 
+Asunto clave de auditoría Respuesta de auditoría ________________________________________________ ______________________________________________________ 
+Reconocimiento de ingresos  
+El Grupo mantiene un contrato de largo plazo, 
+acuerdo con múltiples elementos (MARC), por 
+el cual se compromete a prestar un servicio de 
+mantenimiento a todo costo de las maquinarias 
+y equipos de su cliente. 
+ 
+El ingreso es reconocido progresivamente 
+basado en el método de porcentaje de 
+finalización.  Este método se mide por 
+referencia a los costos incurridos hasta la fecha 
+como un porcentaje del total de los costos 
+estimados. La política contable sobre el 
+reconocimiento de ingresos junto con los 
+estimados y supuestos significativos se 
+describen en las notas 3.3(n) y 3.4 de los 
+estados financieros consolidados. 
+ 
+Durante el año 2024, el Grupo reconoció 
+S/365.1 millones de ingresos relacionados con 
+este contrato.  Consideramos esta área como 
+un asunto clave de auditoría debido a que la 
+determinación de los costos estimados durante 
+el periodo de vigencia del contrato son un juicio 
+significativo que podría tener un impacto 
+significativo en el reconocimiento del margen y 
+los ingresos.  Estos juicios significativos están 
+relacionados con mano de obra, materiales y 
+costos generales estimados para la ejecución 
+futura del contrato, cuya subjetividad depende 
+de la complejidad y el avance de servicio a la 
+fecha del cierre de los estados financieros. 
+Nuestros procedimientos de auditoría sobre el 
+reconocimiento de ingresos sobre este contrato se 
+orientaron en obtener una comprensión del proceso, 
+para lo cual revisamos las políticas de ingresos, 
+evaluamos el diseño y la precisión de los datos 
+subyacentes utilizados por la gerencia para la 
+determinación de la estimación.   
+Nuestros procedimientos sustantivos de auditoría de 
+detalle incluyeron entre otros:  
+ 
+(i) Evaluación de los costos estimados iniciales, 
+determinados por la Gerencia, y revisión de los 
+componentes clave del costo total estimado del 
+contrato, incluyendo mano de obra y piezas de 
+reemplazo. 
+ 
+(ii) Revisión de las variaciones significativas de los 
+costos estimados en comparación con los costos 
+incurridos en el periodo corriente para evaluar la 
+capacidad de la Gerencia en la estimación de los 
+costos para completar los acuerdos del contrato 
+a la fecha de cierre de los estados financieros. 
+ 
+También evaluamos la revelación de la política 
+contable del Grupo para el reconocimiento de 
+ingresos para contratos de servicios, así como de las 
+estimaciones y supuestos contables significativos 
+relacionados con dicha estimación en los estados 
+financieros consolidados. 
+ 
+
+=== PAGINA PDF 5 ===
+Dictamen de los auditores independientes (continuación)  
+Asunto clave de auditoría Respuesta de auditoría ________________________________________________ ______________________________________________________ 
+ 
+Deterioro del crédito mercantil 
+El crédito mercantil registrado por el Grupo 
+proviene de la diferencia entre el valor 
+estimado de mercado de los activos netos 
+adquiridos y el precio pagado por dichos 
+activos, como se describe en las notas 3.3(a) 
+y 11(b) a los estados financieros.  Al 31 de 
+diciembre de 2024, el crédito mercantil 
+asciende a S/155,843, que representa el 2.3 
+por ciento de los activos totales. 
+ 
+Anualmente, la Gerencia del Grupo debe 
+realizar pruebas para efectos de identificar 
+algún indicio de deterioro permanente y de 
+ser necesario reconocer una disminución del 
+activo.  La determinación de su importe 
+recuperable es compleja y suele requerir un 
+alto nivel de juicio.  Los juicios más 
+significativos surgen sobre los flujos de caja 
+libre proyectados o futuros, la tasa de 
+descuento y la tasa de crecimiento aplicada 
+en la estimación del valor en uso. 
+ 
+Debido a los factores mencionados 
+anteriormente, la evaluación de deterioro del 
+crédito mercantil se considera un asunto 
+clave de auditoría. 
+ 
+ 
+Nuestros esfuerzos de auditoría sobre la evaluación 
+del deterioro del crédito mercantil se centraron en 
+obtener un entendimiento del proceso de estimación 
+del valor en uso e involucramos a especialistas de 
+valuación para ayudarnos a: 
+ 
+(i) Evaluar la metodología y la razonabilidad de los 
+supuestos empleados por la Gerencia del Grupo, 
+tales como; la tasa de descuento y tasas de 
+crecimiento utilizados en el análisis del modelo 
+de valuación de deterioro realizado por la 
+Compañía. 
+ 
+(ii) Sensibilizar los supuestos y verificación de las 
+proyecciones financieras utilizadas.   
+ 
+(iii) Considerar el rendimiento histórico y análisis de 
+comparables como procedimientos para verificar 
+la existencia de evidencia contraria a lo utilizado 
+por la Compañía, 
+ 
+Adicionalmente, hemos efectuado indagaciones con 
+la Gerencia clave sobre posibles modificaciones o 
+cambios en el modelo de estimación. 
+ 
+Otra información incluida en el Informe Anual 2024 del Grupo  
+ 
+Otra información consiste en la información incluida en la Memoria Anual, distinta de los estados 
+financieros consolidados y nuestro informe de auditoría sobre los mismos.  La gerencia es responsable 
+de la otra información. 
+  
+
+=== PAGINA PDF 6 ===
+Dictamen de los auditores independientes (continuación)  
+Nuestra opinión sobre los estados financieros consolidados no cubre la otra información y no 
+expresamos ninguna forma de conclusión que proporcione un grado de seguridad sobre ésta.  
+ 
+En relación con nuestra auditoría de los estados financieros consolidados, nuestra responsabilidad es 
+leer la otra información y, al hacerlo, considerar si la otra información es materialmente inconsistente 
+con los estados financieros consolidados o nuestro conocimiento obtenido en la auditoría o si de otra 
+manera parece estar materialmente mal expresada.  Si, en base al trabajo que hemos realizado, 
+concluimos que existe un error material de esta otra información, estamos obligados a informar de 
+ese hecho.  No tenemos nada que informar a este respecto. 
+ 
+Responsabilidades de la gerencia y los responsables del gobierno corporativo de la Compañía en 
+relación con los estados financieros consolidados  
+ 
+La gerencia es responsable de la preparación y presentación razonable de los estados financieros 
+consolidados de acuerdo con las NIIF, y del control interno que la gerencia determine que es necesario 
+para permitir la preparación de estados financieros consolidados que estén libres de errores 
+materiales, ya sea debido a fraude o error. 
+ 
+Al preparar los estados financieros consolidados, la gerencia es responsable de evaluar la capacidad 
+del Grupo para continuar como una empresa en marcha, revelando, según corresponda, los asuntos 
+relacionados con la empresa en marcha y utilizando la base contable de la empresa en marcha, a 
+menos que la gerencia tenga la intención de liquidar al Grupo o cesar las operaciones, o no tenga otra 
+alternativa realista diferente a hacerlo. 
+ 
+Los responsables del gobierno corporativo del Grupo son responsables de la supervisión del proceso 
+de información financiera del Grupo. 
+ 
+Responsabilidades del auditor en relación con la auditoría de los estados financieros consolidados  
+ 
+Nuestros objetivos son obtener seguridad razonable sobre si los estados financieros consolidados en 
+su conjunto están libres de incorrección material, ya sea debido a fraude o error, y emitir un informe 
+que incluya nuestra opinión.  La seguridad razonable es un alto nivel de aseguramiento, pero no 
+garantiza que una auditoría realizada de conformidad con las NIA aprobadas para su aplicación en el 
+Perú siempre detectará una incorrección importante cuando exista.  Las incorrecciones pueden surgir 
+debido a fraude o error y se consideran materiales si, individualmente o acumuladas, podría esperar 
+que influyan razonablemente en las decisiones económicas que los usuarios toman basándose en los 
+estados financieros consolidados. 
+  
+
+=== PAGINA PDF 7 ===
+Dictamen de los auditores independientes (continuación)  
+Como parte de una auditoría de acuerdo con las Normas Internacionales de Auditoría (NIA) aprobadas 
+para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos del Perú, 
+ejercemos un juicio profesional y mantenemos el escepticismo profesional durante toda la auditoría.  
+También: 
+ 
+- Identificamos y evaluamos los riesgos de incorrección material de los estados financieros 
+consolidados, ya sea debido a fraude o error, diseñamos y ejecutamos procedimientos de 
+auditoría que respondan a esos riesgos, y obtenemos evidencia de auditoría que sea suficiente y 
+apropiada para proporcionarnos una base para nuestra opinión.  El riesgo de no detectar una 
+incorrección material debido a fraude es mayor que la resultante de un error, ya que el fraude 
+puede implicar colusión, falsificación, omisiones intencionales, declaraciones falsas o sobrepaso 
+del sistema de control interno. 
+- Obtuvimos un entendimiento del control interno relevante para la auditoría con el fin de diseñar 
+procedimientos de auditoría que sean apropiados en las circunstancias, pero no con el propósito 
+de expresar una opinión sobre la efectividad del control interno del Grupo. 
+- Evaluamos la idoneidad de las políticas contables utilizadas, la razonabilidad de las estimaciones 
+contables y las respectivas revelaciones realizadas por la gerencia.   
+- Concluimos sobre la idoneidad del uso por parte de la gerencia de la base contable de la 
+empresa en marcha y, sobre la base de la evidencia de auditoría obtenida, si existe una 
+incertidumbre material relacionada con eventos o condiciones que puedan generar  dudas 
+significativas sobre la capacidad del Grupo para continuar como una empresa en marcha .  Si 
+llegamos a la conclusión de que existe una incertidumbre material, estamos obligados a llamar 
+la atención en nuestro informe de auditoría sobre las revelaciones relacionadas en los estados 
+financieros consolidados o, si dichas revelaciones son inadecuadas, a modificar nuestra opinión.  
+Las conclusiones se basan en la evidencia de auditoría obtenida hasta la fecha de nuestro 
+informe de auditoría.  Sin embargo, los eventos o condiciones futuras pueden hacer que el 
+Grupo deje de continuar como una empresa en marcha. 
+- Evaluamos la presentación general, la estructura, el contenido de los estados financieros 
+consolidados, incluidas las revelaciones, y si los estados financieros consolidados representan 
+las transacciones y eventos subyacentes de manera que logre una presentación razonable. 
+- Obtuvimos evidencia de auditoría suficiente y adecuada en relación con la información 
+financiera de las entidades o actividades de negocio que hacen parte del Grupo, con el fin de 
+expresar una opinión sobre los estados financieros consolidados.  Somos responsables de la 
+dirección, supervisión y ejecución de la auditoría del Grupo y, por lo tanto, de nuestra opinión 
+de auditoría.   
+ 
+Comunicamos a los responsables del gobierno corporativo del Grupo, entre otros asuntos, al alcance 
+planeado y el momento de realización de la auditoría, los hallazgos significativos de la misma, así 
+como cualquier deficiencia significativa del control interno identificada en el transcurso de la 
+auditoría. 
+ 
+
+=== PAGINA PDF 8 ===
+Dictamen de los auditores independientes (continuación)  
+También proporcionamos a los responsables del gobierno corporativo del Grupo una declaración de 
+que hemos cumplido con los requerimientos éticos relevantes respecto a  independencia y les hemos 
+comunicado acerca de todas las relaciones y otros asuntos que podrían razonablemente afectar 
+nuestra independencia y, según corresponda, incluyendo las respectivas salvaguardas.  
+ 
+Entre los asuntos que han sido objeto de comunicación con los responsables del gobierno corporativo 
+del Grupo, determinamos los que han sido de la mayor significatividad en la auditoría de los estados 
+financieros consolidados del periodo corriente y, por lo tanto, son los asuntos clave de auditoría.  
+Hemos descrito esos asuntos en nuestro informe de auditoría salvo que las disposiciones legales o 
+reglamentarias prohíban revelar públicamente el asunto o, en circunstancias extremadamente poco 
+frecuentes, determinemos que un asunto no se debería comunicar en nuestro informe porque se 
+esperaría razonablemente que las consecuencias adversas de hacerlo superarían los beneficios de 
+interés público del mismo. 
+ 
+Lima, Perú 
+24 de febrero de 2025 
+ 
+ 
+Refrendado por:  
+ 
+ 
+ 
+ 
+ 
+_______________________ 
+Carlos Valdivia 
+Socio a cargo 
+C.P.C.C. Matrícula No. 27255 
+
+
+=== PAGINA PDF 9 ===
+ 
+Las notas a los estados financieros consolidados adjuntas son parte integrante de este estado. 
+Ferreycorp S.A.A. y Subsidiarias 
+Estado consolidado de situación financiera  
+Al 31 de diciembre de 2024 y 31 de diciembre de 2023 
+ Notas 2024 2023 
+  S/(000) S/(000) 
+    
+Activo corriente    
+Efectivo y equivalentes de efectivo 5 248,259 219,097 
+Cuentas por cobrar comerciales 6 1,159,227 1,344,509 
+Otros activos corrientes 7 214,019 199,757 
+Inventario 8 2,519,944 2,256,442 
+Gastos contratados por anticipado  32,057 33,991   ___________ ___________ 
+  4,173,506 4,053,796 
+    
+Activo no corriente mantenido para la venta  792 2,777   ___________ ___________ 
+Total activo corriente  4,174,298 4,056,573 
+    
+    
+    
+    
+    
+    
+    
+Activo no corriente    
+Cuentas por cobrar comerciales a largo plazo 6 27,077 36,798 
+Otros activos no corrientes 7 23,241 40,089 
+Inversiones en negocio conjunto y asociadas 9 34,341 23,318 
+Inmuebles, maquinaria y equipo 10 2,079,268 1,825,623 
+Intangibles 11(a) 181,280 208,761 
+Crédito mercantil 11(b) 155,843 156,459 
+Activo diferido por impuesto a las ganancias, neto 16 192,513 177,253   ___________ ___________ 
+Total activo no corriente  2,693,563 2,468,301   ___________ ___________ 
+Total activo  6,867,861 6,524,874   ___________ ___________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+             
+ Notas 2024 2023 
+  S/(000) S/(000) 
+    
+Pasivo corriente    
+Obligaciones financieras 12 1,326,943 1,563,124 
+Pasivo por arrendamiento 13 20,694 26,843 
+Cuentas por pagar comerciales 14 670,519 791,976 
+Otros pasivos 15 710,365 553,115 
+Pasivo por impuesto a las ganancias  15,714 23,486   ___________ ___________ 
+Total pasivo corriente  2,744,235 2,958,544   ___________ ___________ 
+Pasivo no corriente    
+Obligaciones financieras 12 1,006,621 752,004 
+Pasivo por arrendamiento 13 44,492 16,281 
+Otros pasivos a largo plazo 15 2,177 1,654 
+Pasivo diferido por impuesto a las ganancias, neto 16 136,482 129,014 
+Ingresos diferidos  727 2,656   ___________ ___________ 
+Total pasivo no corriente  1,190,499 901,609   ___________ ___________ 
+Total pasivo  3,934,734 3,860,153   ___________ ___________ 
+    
+Patrimonio 17   
+Capital emitido  946,063 946,063 
+Acciones de tesorería  - (12,311) 
+Capital adicional  52,405 27,743 
+Reserva legal  211,631 211,631 
+Otras reservas de patrimonio  344,091 341,150 
+Resultados acumulados  1,378,937 1,150,445   ___________ ___________ 
+Total patrimonio atribuible a los accionistas del Grupo  2,933,127 2,664,721 
+Participación no controlante  - -   ___________ ___________ 
+Total patrimonio  2,933,127 2,664,721   ___________ ___________ 
+Total pasivo y patrimonio  6,867,861 6,524,874   ___________ ___________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 10 ===
+ 
+Las notas a los estados financieros consolidados adjuntas son parte integrante de este estado. 
+Ferreycorp S.A.A. y Subsidiarias 
+Estado consolidado de resultados 
+Al 31 de diciembre de 2024 y 31 de diciembre de 2023 
+ Nota 2024 2023 
+  S/(000) S/(000) 
+    
+Ingresos por ventas 18 7,582,216 6,941,855 
+Otros ingresos operativos  764 2,656   __________ ___________ 
+Total ingresos operativos  7,582,980 6,944,511 
+    
+Costo de ventas 18 (5,586,671) (5,137,031)   ____________ ____________ 
+Utilidad bruta  1,996,309 1,807,480 
+    
+Gastos de venta  19 (776,862) (739,825) 
+Gastos administrativos 20 (381,361) (375,528) 
+Otros ingresos y gastos, neto  17,241 7,916   __________ __________ 
+Utilidad operativa  855,327 700,043  
+   
+Participación en los resultados netos en negocio 
+conjunto y asociadas 9(b) 2,689 2,617 
+Ingresos financieros 22 39,066 31,794 
+Gastos financieros 23 (126,844) (109,838) 
+Diferencia en cambio, neta 29(c) (43,040) 29,066   __________ __________ 
+Utilidad antes del impuesto a las ganancias  727,198 653,682 
+    
+Gasto por impuesto a las ganancias 16 (239,871) (221,730)   __________ _________ 
+Utilidad del año de operaciones continuadas  487,327 431,952 
+    
+Operaciones discontinuas 27   
+Utilidad del ejercicio después de impuestos por 
+operaciones discontinuas  1,476 1,899   _________ __________ 
+Utilidad neta del año  488,803 433,851   _________ __________     
+Utilidad por acción    
+Utilidad neta por acción básica y diluida (en soles) 24 0.520 0.461 
+    
+Utilidad por acción por operaciones continuas    
+Utilidad neta por acción básica y diluida (en soles)  0.518 0.459 
+
+=== PAGINA PDF 11 ===
+ 
+Las notas a los estados financieros consolidados adjuntas son parte integrante de este estado. 
+Ferreycorp S.A.A. y Subsidiarias 
+Estado consolidado de resultados integrales 
+Al 31 de diciembre de 2024 y 31 de diciembre de 2023 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Utilidad del año 488,803 433,851  __________ __________ 
+   
+Efecto de traslación en subsidiarias 6,036 (10,128) 
+Otros resultados integrales (3,095)  9,976  __________ __________ 
+Otros resultados integrales del año 2,941 (152)  __________ __________    
+Resultados integrales del año 491,744 433,699  __________ __________ 
+
+=== PAGINA PDF 12 ===
+ 
+Las notas a los estados financieros consolidados adjuntas son parte integrante de este estado. 
+Ferreycorp S.A.A. y Subsidiarias 
+Estado consolidado de cambios en el patrimonio 
+Al 31 de diciembre de 2024 y 31 de diciembre de 2023 
+   Patrimonio atribuible a los accionistas del Grupo      ______________________________________________________________________________________________________________________________________________________________________________   
+       Otras reservas de patrimonio            _______________________________________________________________________________     
+ Nota 
+Número de 
+acciones de 
+circulación 
+Capital  
+emitido 
+Acciones propias 
+en cartera 
+Capital  
+adicional 
+Reserva 
+legal 
+Excedente de 
+revaluación 
+Ganancias no 
+realizadas 
+Resultado por 
+conversión Otras reservas 
+Total otras 
+reservas de 
+patrimonio 
+Resultados 
+acumulados 
+Total patrimonio 
+atribuible a los 
+accionistas del 
+Grupo 
+Participación no 
+controlante 
+Total 
+patrimonio 
+   S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) 
+                
+Saldos al 1 de enero de 2023  944,959 946,063 (1,104) 42,521 211,631 251,966 (2,634) 70,940 30,416 350,688 938,538 2,488,337 - 2,488,337   ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Utilidad del año  - - - - - - - - - - 433,851 433,851 - 433,851 
+Otros resultados integrales del año:                
+- Diferencia en cambio por conversión 
+de operaciones en el extranjero  17(e) - - - - - - - (10,128) - (10,128) - (10,128) - (10,128) 
+- Superavit  - - - - - 9,976 - - - 9,976 - 9,976 - 9,976 
+- Otros resultados integrales  - - - - - (9,385) - - - (9,385) 9,385 - - -   ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Resultado integral del año  - - - - - 591 - (10,128) - (9,537) 443,236 433,699 - 433,699   ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Transacciones con accionistas:                
+- Distribución de dividendos 17(f) - - - - - - - - - - (231,328) (231,328) - (231,328) 
+- Recompra de acciones 17(b) (11,207) - (11,207) (14,778) - - - - - - - (25,985) - (25,985) 
+- Otros  - - - - - - - - (1) (1) (1) (2) - (2)   ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________                 
+Saldos al 31 de diciembre de 2023  933,752 946,063 (12,311) 27,743 211,631 252,557 (2,634) 60,812 30,415 341,150 1,150,445 2,664,721 - 2,664,721   ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Utilidad del año  - - - - - - - - - - 488,803 488,803 - 488,803 
+Otros resultados integrales del año:                
+- Diferencia en cambio por conversión 
+de operaciones en el extranjero  17(e) - - - - - - - 6,036 - 6,036 - 6,036 - 6,036 
+- Otros resultados integrales  - - - - - (3,095) - - - (3,095) - (3,095) - (3,095)   ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Resultado integral del año  - - - - - (3,095) - 6,036 - 2,941 488,803 491,744 - 491,744   ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Transacciones con accionistas:                
+- Distribución de dividendos 17(f) - - - - - - - - - - (260,311) (260,311) - (260,311) 
+- Venta de acciones en tesorería 17(b) 12,311 - 12,311 24,662 - - - - - - - 36,973 - 36,973   ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________                 
+Saldos al 31 de diciembre de 2024  946,063 946,063 - 52,405 211,631 249,462 (2,634) 66,848 30,415 344,091 1,378,937 2,933,127 - 2,933,127   ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________                 
+
+=== PAGINA PDF 13 ===
+ 
+Las notas a los estados financieros consolidados adjuntas son parte integrante de este estado. 
+Ferreycorp S.A.A. y Subsidiarias 
+Estado consolidado de flujos de efectivo  
+Al 31 de diciembre de 2024 y 31 de diciembre de 2023 
+ Nota 2024 2023 
+  S/(000) S/(000)     
+Actividades de Operación    
+Cobranzas a clientes y terceros  7,983,056  6,817,214  
+Pagos a proveedores  (5,737,012)  (5,327,942) 
+Pagos a trabajadores y otros  (895,754)  (861,677) 
+Pagos por impuestos  (302,555)  (262,848)   ___________ ___________ 
+Efectivo neto proveniente de las actividades de 
+operación 
+ 
+1,047,735 364,747   ___________ ___________ 
+Actividades de Inversión    
+Adquisición de inmuebles, maquinaria y equipo 10(a) (589,483)  (168,537) 
+Adquisición de inversión en asociada 2 (c) y 9 (8,334) - 
+Adquisición de intangibles 11(a) (5,545)  (10,506) 
+Venta de inversiones  -  35  
+Venta de inmuebles, maquinaria y equipo  4,727  4,532    ___________ ___________ 
+Efectivo neto utilizado en las actividades de 
+inversión 
+ 
+(598,635) (174,476)   ___________ ___________ 
+Actividades de Financiamiento    
+Obtención de obligaciones financieras 28 4,667,991  2,575,563  
+Pago de obligaciones financieras 28 (4,684,967)  (2,307,711) 
+Pago de pasivo por arrendamiento 28 (38,823)  (50,085) 
+Intereses pagados 28 (114,487)  (107,187) 
+Pago de dividendos 17(f) (260,311)  (231,327) 
+Venta (compra) de acciones de tesorería 17(b) 36,973  (25,394)   ___________ ___________ 
+Efectivo neto utilizado en las actividades de 
+financiamiento 
+ 
+(393,624) (146,141)   ___________ ___________ 
+Aumento neto de efectivo y equivalentes de 
+efectivo 
+ 
+55,476 44,130 
+Diferencia en cambio del efectivo y equivalentes de 
+efectivo 
+ 
+(26,314) (17,048)   ___________ ___________ 
+Saldo de efectivo y equivalentes de efectivo al inicio 
+del año 
+ 
+219,097 192,015   ___________ ___________ 
+Saldo de efectivo y equivalentes de efectivo al final 
+del año 
+ 
+248,259 219,097   ___________ ___________ 
+    
+Transacciones que no generaron flujos de efectivo     
+Activos por derecho de uso - NIIF 16 10 y 13(b) 57,302 18,757  
+Transferencia de activo fijo a existencias  10 232,760  180,194  
+ 
+
+=== PAGINA PDF 14 ===
+ 
+ 
+Ferreycorp S.A.A. y Subsidiarias 
+Notas a los estados financieros consolidados  
+Al 31 de diciembre de 2024 y de 2023 
+1. Actividad económica 
+(a) Información general - 
+Ferreycorp S.A.A.  (en adelante, “la Matriz” o “la Compañía”) fue constituida en la ciudad de Lima 
+en setiembre de 1922 y es la entidad holding de un conjunto de empresas que operan en Perú y 
+en el exterior, denominado “Grupo Ferreycorp”, coordinando sus políticas y su administración.  El 
+Grupo Ferreycorp (“el Grupo”), a través de las subsidiarias, se dedica principalmente a la 
+importación y venta de maquinarias, motores, componentes y repuestos, alquiler de maquinaria 
+y equipo y la prestación de servicios de taller y campo, así como a la prestación de servicios 
+conexos. Para ello, el Grupo es representante autorizado para distribuir los productos de la 
+marca Caterpillar en Perú y de otras marcas internacionales. 
+ 
+El domicilio legal del Grupo, donde se encuentran sus oficinas administrativas, es Avenida 
+Cristóbal de Peralta Norte No.820, Surco, Lima, Perú. 
+ 
+(b) Contratos de distribución - 
+Con fecha 13 de abril de 2012, el Grupo Ferreycorp, a través de su subsidiaria Ferreyros S.A., 
+suscribió la actualización de dos contratos de distribución en forma no exclusiva de los productos 
+Caterpillar en Perú con Caterpillar S.A.R.L.  (Dutch Limited Partnership), representada por 
+Caterpillar Americas C.V.  (en adelante “CAT”).  Los contratos “Sales & Services Agreement” y 
+“Distribution Agreement for Engine, Parts and Services”, referidos a la venta de maquinaria 
+denominada “Prime” y a la venta de motores, repuestos y servicios, respectivamente, son de 
+plazo indefinido.  El Grupo Ferreycorp, desde hace más de 75 años, comercializa toda la línea de 
+maquinaria y repuestos, brinda la garantía de fábrica y presta servicios posventa (mantenimiento 
+preventivo y reparación).  La Gerencia del Grupo espera que la relación comercial se siga 
+manteniendo en el largo plazo. 
+ 
+(c) Aprobación de estados financieros consolidados - 
+Los estados financieros consolidados al 31 de diciembre de 2024 han sido emitidos con la 
+autorización de la Gerencia de la Compañía y del Comité de Auditoría el 24 de febrero de 2025 y 
+aprobados en el Directorio de la misma fecha, y luego serán puestos a consideración de la Junta 
+General de Accionistas a realizarse en el primer trimestre de 2025, para su aprobación definitiva.   
+ 
+Los estados financieros consolidados al 31 de diciembre de 2023 fueron aprobados por el 
+Directorio el 28 de febrero de 2024 y por la Junta General de Accionistas celebrada el 27 de 
+marzo de 2024. 
+ 
+
+=== PAGINA PDF 15 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+2 
+2. Identificación de la estructura del grupo 
+Al 31 de diciembre de 2024 y de 2023, los estados financieros consolidados comprenden los estados financieros de Ferreycorp S.A.A., las subsidiarias en las que tiene control y una inversión en un negocio conjunto.  El Grupo posee el 100 por 
+ciento de la participación de las subsidiarias, ya sea a través de la Matriz o de otras subsidiarias.  A continuación, se presentan los principales datos de las empresas que son parte de estados financieros consolidados al 31 de diciembre de 2024 
+y de 2023, antes de las eliminaciones realizadas para propósitos de consolidación: 
+ 
+  Porcentaje de Participación Total Activos Total Pasivos Total Patrimonio Neto Utilidad (pérdida) neta   _____________________________ _____________________________ _____________________________ _____________________________ _____________________________ 
+  2024 2023 2024 2023 2024 2023 2024 2023 2024 2023 
+  % % S/000 S/000 S/000 S/000 S/000 S/000 S/000 S/000 
+            
+Ferreyros S.A. 
+Compra-venta de maquinaria y repuestos y prestación de 
+servicios de taller 99.99 99.99 4,307,173 3,909,713 2,937,876 2,574,768 1,369,297 1,334,945 490,148 455,796 
+Inti Inversiones Interamericanas Corp.  y 
+subsidiarias (a) Holding que agrupa el negocio en Centroamérica 100.00 100.00 683,388 728,306 334,454 393,830 348,934 334,476 23,706 23,548 
+Unimaq S.A. 
+Compra-venta de maquinaria y repuestos y prestación de 
+servicios de taller 99.99 99.99 555,003 519,591 410,580 393,496 144,423 126,095 18,328 6,432 
+Trex Latinoamerica SpA y Subsidiarias (b) Holding que agrupa el negocio en Sudamérica 100.00 100.00 341,373 441,897 300,951 425,172 40,422 16,725 (41,455) (55,286) 
+Fargoline S.A. Servicios de almacenaje 99.91 99.91 149,897 115,626 108,726 74,226 41,171 41,400 3,971 4,200 
+Motored S.A. (en liquidación) (d) 
+Compra-venta de línea automotriz, repuestos y prestación de 
+servicios automotrices 99.99 99.99 7,827 19,068 868 13,586 6,959 5,482 1,476 1,899 
+Orvisa S.A.  y subsidiarias 
+Compra-venta de maquinaria y repuestos y prestación de 
+servicios de taller 99.37 99.37 153,947 143,134 113,992 104,261 39,955 38,873 1,114 (1,424) 
+Soltrak S.A. Representante y distribuidor de neumáticos, lubricantes 99.99 99.99 217,137 202,467 151,605 137,093 65,532 65,374 158 (4,586) 
+ y equipos de seguridad           
+Cresko S.A. Compra-venta de maquinaria, equipos y suministros químicos 99.99 99.99 1,002 1,006 - - 1,002 1,006 (4) (106) 
+Vixora S.A.(c) 
+Comercialización de software y equipos relacionados con 
+tecnología 99.98 99.98 36,984 25,502 19,869 8,940 17,115 16,562 535 1,598 
+Forbis Logistics S.A. Agente de carga 99.98 99.98 24,787 26,328 19,792 21,435 4,995 4,893 5,674 5,926 
+Xpedite Procurement Services S.A.C. Venta al por mayor y menor no especializada 90.00 90.00 28,214 4,684 25,035 2,362 3,179 2,322 896 686 
+
+=== PAGINA PDF 16 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+3 
+(a) Esta entidad holding controla las subsidiarias en Centroamérica y Norteamérica, que son: 
+Compañía General de Equipos S.A.  (El Salvador), Corporación General de Tractores S.A.  
+(Guatemala), General Equipment Company (Belice), Mercado Centroamericano de Lubricantes 
+S.A. en liquidación (Nicaragua), Forbis Logistics Corp.  (Estados Unidos de América) y 
+Transportes Pesados S.A.  de C.V.  (El Salvador).  Estas subsidiarias se dedican a la compra y 
+venta de maquinaria, automotores, repuestos y prestación de servicios de taller. 
+ 
+(b) Esta entidad holding controla las subsidiarias en Sudamérica, que son: Trex Latinoamérica SpA y 
+su subsidiaria Equipos y Servicios Trex SpA (ambas domiciliadas en Chile) y Trex Overseas 
+Investments S.A.  (domiciliada en Chile) y su subsidiaria domiciliada en Colombia. 
+ 
+(c) Al 31 de diciembre 2024, el Grupo suscribió el contrato de compra de acciones a través de su 
+subsidiaria Vixora S.A., en donde adquirió el 20 por ciento de las acciones de la empresa Torsa 
+Sistemas SL domiciliada en España, por EUR 2,000,000 (equivalente a S/8,334,000). 
+ 
+(d) Durante el 2021, la Compañía capitalizó acreencias de la subsidiaria Motored, para absorber 
+pérdidas operativas de ésta por S/25,099,000.  Con fecha 29 de setiembre de 2021 la Gerencia 
+del Grupo tomó la decisión de descontinuar la operación de Motored, ver nota 27. 
+ 
+(e) El Grupo posee un negocio conjunto por la inversión del 50 por ciento en Ferrenergy S.A., una 
+entidad controlada de forma conjunta a través la subsidiaria Ferreyros S.A., mediante un acuerdo 
+firmado con SoEnergy International Corporation, que se dedica a la generación y prestación de 
+servicio de suministro de energía eléctrica.  La inversión del Grupo en su negocio conjunto se 
+contabiliza mediante el método de participación patrimonial.  Según este método, la inversión en 
+su negocio conjunto se reconoce inicialmente al costo.  El importe en libros de la inversión se 
+ajusta para reconocer los cambios en la participación del Grupo sobre los activos netos del 
+negocio conjunto desde la fecha de la adquisición.  Al 31 de diciembre de 2024, el valor de dicha 
+inversión por el método de participación patrimonial y su efecto (ganancia) en los resultados 
+consolidado del año ascendieron a S/25,185,000 y S/2,008,000 respectivamente 
+(S/23,178,000 y S/2,617,000, respectivamente, al 31 de diciembre de 2023). 
+ 
+3. Bases de preparación y resumen de principales políticas contables 
+Las principales políticas contables aplicadas en la preparación de los estados financieros consolidados 
+se detallan a continuación.  Estas políticas han sido aplicadas uniformemente en todos los años 
+presentados, a menos que se indique lo contrario. 
+ 
+3.1 Bases de preparación y presentación de los estados financieros consolidados - 
+Los estados financieros consolidados de la Compañía han sido preparados de conformidad con 
+normas contables NIIF, emitidas por el Consejo de Normas Internacionales de Contabilidad 
+(International Accounting Standards Board (IASB) en inglés). 
+ 
+La información contenida en estos estados financieros consolidados es responsabilidad de la 
+Gerencia del Grupo, la que expresamente confirma que en su preparación se han aplicado todos 
+los principios y criterios contemplados en las NIIF emitidas por el IASB. 
+ 
+
+=== PAGINA PDF 17 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+4 
+Los estados financieros consolidados han sido preparados sobre la base del costo histórico, a 
+partir de los registros de contabilidad mantenidos por el Grupo, excepto por los terrenos, sobre 
+los cuales se aplica la política de valor razonable, ver nota 3.3(g).  Los estados financieros 
+consolidados se presentan en miles de soles (bajo el encabezado de S/000), excepto cuando se 
+indique una expresión monetaria distinta. 
+ 
+El Grupo ha preparado sus estados financieros consolidados en base al principio de empresa en 
+marcha  
+ 
+Las políticas de contabilidad adoptadas por el Grupo son consistentes con las aplicadas en años 
+anteriores. 
+ 
+3.2 Bases de consolidación - 
+Los estados financieros consolidados incluyen los estados financieros del Grupo y los de las 
+subsidiarias en que ejerce el control, para todos los ejercicios presentados.  El control se obtiene 
+cuando el Grupo está expuesto, o tiene derecho a rendimientos variables procedentes de su 
+participación en la entidad donde se invierte y tiene la capacidad de influir en dichos 
+rendimientos a través de su poder sobre dicha entidad.  El Grupo controla una entidad si y sólo si 
+tiene: 
+ 
+- Poder sobre la entidad; es decir, posee derechos que le otorgan la capacidad presente de 
+dirigir las actividades relevantes de la misma, 
+- Exposición o derechos a los rendimientos variables procedentes de su participación en la 
+entidad, y, 
+- Capacidad de utilizar su poder sobre la entidad para afectar sus rendimientos de forma 
+significativa. 
+ 
+El Grupo evalúa si tiene o no control sobre una entidad cuando los hechos y circunstancias 
+indican que existen cambios en alguno de los elementos de control.  La consolidación de una 
+subsidiaria empieza cuando el Grupo obtiene control de ésta y deja de ser consolidada desde la 
+fecha en la que dicho control cesa.  Los estados financieros consolidados incluyen los activos, 
+pasivos, ingresos y gastos del Grupo y de sus subsidiarias. 
+ 
+El resultado del periodo y cada componente de otros resultados integrales son atribuidos a los 
+propietarios de la Matriz y a los accionistas que no controlan (interés minoritario), incluso si esto 
+resulta en un interés minoritario con saldo negativo.  Cuando es necesario, se hacen ajustes a los 
+estados financieros de las subsidiarias para alinear sus políticas contables con las políticas 
+adoptadas por el Grupo.  Todos los activos y pasivos, patrimonio, ingresos, gastos y flujos de 
+efectivo relacionados con transacciones entre miembros del Grupo son eliminados en la 
+consolidación. 
+ 
+Un cambio en la participación de una subsidiaria, sin pérdida de control, se contabiliza como una 
+transacción patrimonial. 
+  
+
+=== PAGINA PDF 18 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+5 
+3.3 Resumen de políticas contables materiales - 
+(a) Combinaciones de negocios y crédito mercantil - 
+Las combinaciones de negocios se contabilizan mediante el método de la compra.  Las 
+combinaciones pueden darse a través de la compra de una entidad separada o de un grupo 
+de activos y pasivos que califiquen como un negocio.  En este último caso, el costo de la 
+compra corresponde a la contraprestación transferida, medida por su valor razonable a la 
+fecha de la compra.  Los costos de adquisición incurridos se imputan a gastos a medida 
+que se incurren y se los presenta como gastos de administración en el estado consolidado 
+de resultados. 
+ 
+El crédito mercantil es inicialmente medido a su costo, que es el exceso de la 
+contraprestación transferida sobre el valor razonable de los activos netos identificables 
+adquiridos. 
+ 
+Después del reconocimiento inicial, el crédito mercantil es medido al costo menos las 
+pérdidas acumuladas por deterioro.  Para propósitos de realizar la prueba de deterioro, el 
+crédito mercantil adquirido en una combinación de negocios es, a partir de la fecha de 
+adquisición, atribuido a cada una de las unidades generadoras de efectivo (UGE) del Grupo 
+que se espera que se beneficien de la combinación de negocios, independientemente de si 
+otros activos o pasivos de la adquirida han sido distribuidos a estas unidades. 
+ 
+Si el crédito mercantil ha sido distribuido a una UGE y parte de los activos con los que 
+opera dicha unidad se venden o se dan de baja, el crédito mercantil y los activos 
+dispuestos se incluyen en el valor en libros de la transacción al determinar el resultado de 
+dicha transacción.  Bajo estas circunstancias, el crédito mercantil a disminuir se mide en 
+base al valor relativo de los activos dispuestos y a la parte de la unidad generadora de 
+efectivo retenida.  El crédito mercantil se presenta en estos estados financieros como 
+consecuencia de una compra de negocios efectuada en años anteriores, resultado de la 
+adquisición de diversos activos que calificaron como negocio. 
+ 
+El deterioro del crédito mercantil se determina evaluando el importe recuperable para 
+cada UGE (o grupo de UGE) al cual éste se relaciona.  Cuando el importe recuperable de la 
+UGE es menor al valor en libros, se reconoce una pérdida por deterioro.  Las pérdidas por 
+deterioro relacionadas al crédito mercantil no pueden ser revertidas en periodos futuros. 
+ 
+(b) Inversión en negocio conjunto - 
+Los acuerdos conjuntos son contratos en los que dos o más partícipes comparten el 
+control de la actividad emprendida, a lo que se denomina control conjunto.  Un negocio 
+conjunto es un tipo de acuerdo mediante el cual las partes que tienen control conjunto del 
+acuerdo tienen derecho a los activos netos del acuerdo.  El control conjunto es el reparto 
+del control contractualmente decidido para un acuerdo conjunto y que existe solo cuando 
+las decisiones sobre las actividades relevantes del mismo requieren consentimiento 
+unánime de las partes que comparten el control.  Como resultado de la evaluación de su 
+acuerdo conjunto, el Grupo ha determinado que posee un negocio conjunto. 
+ 
+
+=== PAGINA PDF 19 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+6 
+Las inversiones del Grupo en su negocio conjunto se contabilizan mediante el método de 
+participación patrimonial.  Según este método, la inversión en su negocio conjunto se 
+reconoce inicialmente al costo.  El importe en libros de la inversión se ajusta para 
+reconocer los cambios en la participación del Grupo sobre los activos netos de su negocio 
+conjunto desde la fecha de adquisición. 
+ 
+El estado consolidado de resultados refleja la participación del Grupo en los resultados de 
+las operaciones de su negocio conjunto, luego de dar efecto a los ajustes realizados al 
+momento de su compra.  Cualquier cambio en ‘otros resultados integrales’ de su negocio 
+conjunto se presenta como ‘otros resultados integrales’ del Grupo.  Además, si hubiera 
+cambios reconocidos directamente en el patrimonio del negocio conjunto, el Grupo 
+reconocería su participación sobre cualquiera de estos cambios, según corresponda, en el 
+estado consolidado de cambios en el patrimonio del Grupo. 
+ 
+Cuando la participación en estas inversiones excede el monto de la inversión, el Grupo 
+deja de reconocer esas pérdidas a menos que tenga la obligación de asumirlas. 
+ 
+La participación del Grupo en los resultados de su negocio conjunto se presenta en el 
+rubro “Participación en los resultados netos en negocio conjunto” del estado consolidado 
+de resultados. 
+ 
+Los estados financieros del negocio conjunto se preparan para el mismo período de 
+información que el del Grupo.  De ser necesario, se realizan los ajustes apropiados a fin de 
+que sus políticas contables se ajusten a las políticas contables del Grupo. 
+ 
+(c) Instrumentos financieros: Reconocimiento y medición - 
+(c.1) Activos financieros - Clasificación y medición inicial - 
+El Grupo clasifica sus activos financieros en las siguientes categorías de medición: 
+ 
+- Medidos a su valor razonable (ya sea a través de otros resultados 
+integrales, o a través de resultados), y 
+- Medidos a costo amortizado. 
+ 
+La clasificación depende del modelo de negocio del Grupo para la administración de 
+sus activos financieros y de si los términos contractuales representan únicamente 
+pagos de principal e intereses. 
+ 
+Al momento del reconocimiento inicial, los activos financieros se miden a su valor 
+razonable más, en el caso de un activo financiero que no sea a valor razonable a 
+través de resultados (VR-resultados), costos de transacción directamente 
+atribuibles a la adquisición del activo financiero.  Los costos de transacción de 
+activos financieros a valor razonable a través de resultados se registran en 
+resultados. 
+  
+
+=== PAGINA PDF 20 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+7 
+Medición posterior de instrumentos de deuda - 
+La medición posterior de los instrumentos de deuda depende del modelo de 
+negocios que el Grupo ha establecido para la gestión del activo y las características 
+de los flujos de efectivo que se derivan del activo.  Hay tres categorías de medición 
+con las cuales la Compañía clasifica sus instrumentos de deuda: 
+ 
+(i) Activos a costo amortizado - 
+Los activos que se mantienen para el cobro de flujos de efectivo 
+contractuales, siempre que estos flujos de efectivo representen únicamente 
+pagos de principal e intereses, se miden a costo amortizado.  Los ingresos 
+por intereses que generan estos activos financieros se reconocen como 
+ingresos financieros utilizando el método de tasa de interés efectiva.  
+Cualquier ganancia o pérdida que surja de la baja de este tipo de activo 
+financiero, se reconoce directamente en resultados.  Las pérdidas por 
+deterioro se presentan como una partida separada en el estado consolidado 
+de resultados. 
+ 
+(ii) Activos a valor razonable a través de otros resultados integrales - 
+Activos financieros cuyo modelo de negocio es mixto, esto es, activos 
+financieros que se mantienen tanto para cobrar sus flujos de efectivo 
+contractuales como para su venta y si sus flujos de efectivo corresponden 
+únicamente a pagos de principal e intereses, se miden a valor razonable a 
+través de otros resultados integrales (VR-ORI).  Los cambios en el valor en 
+libros se reconocen en otros resultados integrales (a través de ORI), excepto 
+por el reconocimiento de las pérdidas (o reversión de pérdidas) por deterioro, 
+los ingresos por intereses y las ganancias y pérdidas por diferencia en cambio 
+que se reconocen en resultados.  Cuando el activo financiero es dado de 
+baja, la ganancia o pérdida acumulada reconocida en ORI es reclasificada del 
+patrimonio a resultados y presentada en el rubro “Otros ingresos y gastos, 
+neto”.  Los intereses que generan estos activos financieros se reconocen 
+como ingreso financiero usando el método de interés efectivo.  Las 
+ganancias o pérdidas por diferencia en cambio se reconocen en resultados 
+en el rubro “Otros ingresos y gastos, neto” y las pérdidas por deterioro 
+también son reconocidas en resultados y presentadas en una partida 
+separada del estado consolidado de resultados. 
+ 
+  
+
+=== PAGINA PDF 21 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+8 
+(iii) Activos a valor razonable con cambios en resultados - 
+Los activos que no cumplen con los criterios para usar el costo amortizado o 
+VR-ORI se miden a valor razonable a través de resultados.  Los cambios en 
+el valor razonable de instrumentos de deuda en esta categoría se reconocen 
+en resultados como “Otros ingresos y gastos, neto”. 
+ 
+El Grupo reclasifica los instrumentos de deuda cuando cambia su modelo de 
+negocio para la administración de esos activos. 
+ 
+Deterioro del valor de los activos financieros - 
+El Grupo evalúa, con una perspectiva de futuro, las pérdidas crediticias 
+esperadas asociadas con instrumentos de deuda medidos a costo 
+amortizado y a VR-ORI.  La metodología aplicada para determinar el 
+deterioro depende de si el riesgo de crédito de un activo ha experimentado un 
+aumento significativo. 
+ 
+Para cuentas por cobrar comerciales, la principal cuenta medida al costo 
+amortizado, el Grupo aplica el enfoque simplificado permitido por la NIIF 9, 
+el cual requiere estimar la pérdida crediticia de la cuenta por la duración 
+total del instrumento y reconocerla desde su registro inicial, basado en una 
+matriz de provisión, directamente en los resultados del periodo (ver nota 
+29(c.1) sobre manejo de riesgos financieros para mayores detalles); 
+adicionalmente, para medir las pérdidas crediticias esperadas, las cuentas 
+por cobrar son agrupadas en función de las características de riesgo de 
+crédito compartidas y los días vencidos. 
+ 
+(c.2) Pasivos financieros - Reconocimiento y medición inicial - 
+El Grupo clasifica sus pasivos financieros, para fines de medición, al costo 
+amortizado.  Como excepción, en los casos que sea apropiado los clasifica para ser 
+medidos al valor razonable a través de resultados.  La Gerencia determina la 
+clasificación de sus pasivos financieros en el momento del reconocimiento inicial. 
+ 
+Los pasivos financieros se reconocen cuando el Grupo es parte de los acuerdos 
+contractuales del instrumento.  Todos los pasivos financieros son inicialmente 
+reconocidos a su valor razonable deduciendo, en el caso de los pasivos financieros 
+contabilizados al costo amortizado, los costos incrementales que sean atribuidos 
+directamente a la compra o emisión del pasivo. 
+ 
+Al 31 de diciembre de 2024 y de 2023, el Grupo solo presenta pasivos medidos al 
+costo amortizado, que incluyen las obligaciones financieras, pasivos por 
+arrendamiento, cuentas por pagar comerciales, cuentas por pagar a relacionadas y 
+otros pasivos. 
+ 
+  
+
+=== PAGINA PDF 22 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+9 
+Medición posterior - 
+Después del reconocimiento inicial, cuando el efecto del valor del dinero en el 
+tiempo es importante, los pasivos financieros son medidos al costo amortizado 
+usando el método de la tasa de interés efectiva.  El costo amortizado es calculado 
+considerando cualquier descuento o prima en la emisión y los costos que son parte 
+integral de la tasa de interés efectiva. 
+ 
+Los pasivos financieros son clasificados como obligaciones a corto plazo a menos 
+que el Grupo tenga el derecho irrevocable para diferir el acuerdo de las obligaciones 
+por más de doce meses después de la fecha de los estados financieros consolidados. 
+ 
+Baja en cuentas - 
+Un pasivo financiero, o cuando sea aplicable una parte de un pasivo financiero o 
+una parte de un grupo de pasivos financieros similares, es dado de baja cuando la 
+obligación especificada en el correspondiente contrato haya sido pagada o 
+cancelada, o haya expirado.  Cuando un pasivo financiero existente es reemplazado 
+por otro proveniente del mismo acreedor bajo condiciones sustancialmente 
+diferentes, o si las condiciones de un pasivo existente se modifican de manera 
+sustancial, tal permuta o modificación se trata como una baja del pasivo original y 
+el reconocimiento de un nuevo pasivo, y la diferencia en los importes respectivos 
+en libros se reconoce directamente en resultados. 
+ 
+(c.3) Compensación de instrumentos financieros - 
+Los activos y los pasivos financieros que son objeto de compensación se presentan 
+neto en el estado consolidado de situación financiera, solamente si existe un 
+derecho legalmente exigible de compensar los importes reconocidos, y existe la 
+intención de liquidarlos por el importe neto, o de realizar los activos y cancelar los 
+pasivos en forma simultánea. 
+ 
+(d) Transacciones en moneda extranjera - 
+Moneda funcional y moneda de presentación - 
+Las partidas incluidas en los estados financieros consolidados del Grupo se expresan en 
+soles que a la vez es la moneda del ambiente económico primario donde opera la Compañía 
+(moneda funcional). 
+ 
+Los estados financieros consolidados se presentan en soles, que es la moneda funcional y la 
+moneda de presentación del Grupo. 
+ 
+Cada subsidiaria determina su moneda funcional y preparan sus estados financieros con esa 
+moneda funcional.  El Grupo concluyó en todas sus subsidiarias que las características 
+económicas determinan que la moneda local de su país de origen corresponde a su 
+moneda funcional.  Debido a ello, los estados financieros de subsidiarias con moneda 
+funcional distinta que la Matriz, son convertidos aplicando los criterios descritos más 
+adelante. 
+ 
+
+=== PAGINA PDF 23 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+10 
+Saldos o transacciones en moneda extranjera - 
+Se consideran saldos o transacciones en moneda extranjera a aquellas realizadas en una 
+moneda diferente a la moneda funcional.  Las transacciones en moneda extranjera son 
+inicialmente registradas en la moneda funcional usando los tipos de cambio vigentes en 
+las fechas de las transacciones en las que calificaban inicialmente para su reconocimiento. 
+ 
+Posteriormente, los activos y pasivos monetarios denominados en moneda extranjera se 
+traducen al tipo de cambio de la fecha de su liquidación o, si se mantiene pendiente de 
+pago, a la fecha de cierre.  Las diferencias de cambio generadas por la traducción de las 
+partidas en moneda extranjera se reconocen en resultados, en el rubro "Diferencia en 
+cambio, neta".  Los activos y pasivos no monetarios adquiridos en moneda extranjera son 
+convertidos al tipo de cambio de la fecha de las transacciones iniciales y no se remiden. 
+ 
+Conversión a la moneda de presentación - 
+Los estados financieros consolidados han sido preparados para presentar de manera 
+agrupada la actividad de la Matriz y la de sus subsidiarias, definiéndose que el sol (la 
+moneda funcional de la Matriz) es la moneda de presentación del Grupo.  Los saldos de los 
+estados financieros de las subsidiarias que operan en países cuya moneda funcional es 
+distinta al sol fueron convertidos utilizando la metodología establecida en la NIC 21, 
+“Efectos de las variaciones en las tasas de cambio de la moneda extranjera”, que se 
+resume a continuación: 
+ 
+(i) Los saldos de los activos y pasivos han sido convertidos utilizando los tipos de 
+cambio de cierre a la fecha de cada estado consolidado de situación financiera 
+presentado. 
+ 
+(ii) Los ingresos y gastos han sido convertidos utilizando el tipo de cambio promedio 
+mensual que se aproxima a los tipos de cambio de la fecha de registro de dichas 
+transacciones. 
+ 
+(ii) Las diferencias resultantes de la conversión han sido reconocidas como parte de 
+‘otros resultados integrales’ y presentadas en el estado consolidado de situación 
+financiera en la partida de “Otras reservas de patrimonio”. 
+ 
+(e) Efectivo y equivalentes de efectivo - 
+Para fines de preparación y presentación del estado de flujos de efectivo bajo el método 
+directo, el efectivo y equivalentes de efectivo incluyen el efectivo disponible en fondo fijo, 
+cuentas corrientes, y depósitos en bancos con vencimiento original menor a 90 días.  
+Dichas cuentas no están sujetas a un riesgo significativo de cambios en su valor. 
+ 
+  
+
+=== PAGINA PDF 24 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+11 
+(f) Existencias - 
+Las existencias se miden al costo o al valor neto de realización, el que resulte menor.  El 
+costo se determina siguiendo el método de identificación específica, excepto repuestos 
+que se registran por el método del costo promedio ponderado.  El costo de servicios de 
+taller en proceso comprende los costos de servicios de taller de mecánica y reparación.  El 
+valor neto de realización es el precio estimado de venta de un activo en el curso normal 
+del negocio, neto de descuentos y otros costos y gastos incurridos para poner las 
+existencias en condición de venta y para realizar su comercialización. 
+ 
+La estimación del valor neto de realización toma en cuenta cualquier desvalorización que 
+se observe sobre los inventarios.  Para ello, el Grupo analiza, a cada fecha de cierre, las 
+condiciones y la rotación de las existencias.  En el caso de los repuestos y componentes 
+que no tienen movimiento, se reconoce una provisión en base a un análisis de la Gerencia 
+de Cadena de Abastecimiento, quien determina el valor deteriorado.  Esta pérdida se 
+registra directamente en resultados en los rubros “Costo de ventas” y “Gastos de ventas”. 
+ 
+(g) Inmuebles, maquinaria y equipo - 
+Los inmuebles, maquinaria y equipo, excepto los terrenos, se presentan al costo, neto de 
+la depreciación acumulada y, de ser aplicable, de las pérdidas acumuladas por deterioro 
+del valor.  Este costo incluye el costo de reemplazar componentes de inmuebles, 
+maquinaria y equipo.  Para los componentes significativos de inmuebles, maquinaria y 
+equipo que deben ser reemplazados periódicamente, se da de baja el componente 
+reemplazado y se reconoce el componente nuevo con su correspondiente vida útil y 
+depreciación. 
+ 
+Los costos posteriores se incluyen en el valor en libros del activo o se reconocen como un 
+activo separado, según corresponda, solo cuando es probable que generen beneficios 
+económicos futuros para el Grupo, y el costo de estos activos se pueda medir con 
+confiabilidad.  Desembolsos por mantenimiento ordinario y reparaciones se reconocen en 
+resultados conforme se incurren. 
+ 
+Los terrenos se miden a su valor de revaluación (valor razonable), utilizando tasaciones 
+que se efectúan cada dos a tres años por un tasador perito independiente, para asegurar 
+que el valor razonable no difiera significativamente de su importe en libros.  Cuando las 
+variaciones en el valor razonable no son significativas, las revaluaciones se efectuarán 
+cada tres o cinco años.  Al 31 de diciembre de 2024 y de 2023, las variaciones en el valor 
+razonable de los terrenos no han sido significativas por lo que no ha sido necesario 
+modificar su valor en libros. 
+ 
+  
+
+=== PAGINA PDF 25 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+12 
+Todo incremento por revaluación se reconoce en el estado consolidado de resultados 
+integrales y se acumula en el patrimonio consolidado en “Otras reservas de patrimonio” por 
+revaluación de activos en el patrimonio y en el estado consolidado de resultados 
+integrales, salvo que dicho incremento corresponda a la reversión de una disminución de 
+revaluación del mismo activo reconocida previamente en el estado consolidado de 
+resultados, en cuyo caso ese incremento se reconoce en resultados.  Una disminución por 
+revaluación se reconoce en el estado consolidado de resultados, salvo en la medida en que 
+dicha disminución compense un incremento de revaluación del mismo activo reconocido 
+previamente en la reserva por revaluación de activos.  Al momento de la venta del activo 
+revaluado, cualquier reserva por revaluación relacionada con ese activo se transfiere a los 
+resultados acumulados. 
+ 
+Los terrenos no se deprecian.  La depreciación de los otros activos se calcula en forma 
+lineal a lo largo de las vidas útiles estimadas en años de los activos o en función a horas-
+máquina (h/m) utilizadas, en los plazos mostrados a continuación: 
+ 
+ Plazo 
+  
+Edificaciones y otras construcciones:  
+Obra gruesa Entre 30 y 80  
+Acabados y obras complementarias Entre 15 y 20  
+Instalaciones Entre 5 y 10  
+Maquinaria y equipo Entre 3 y 5  
+Maquinaria y equipo de alquiler h/m utilizadas 
+Unidades de transporte 5  
+Muebles y enseres Entre 3 y 10  
+ 
+Los valores residuales, las vidas útiles y los métodos y tasas de depreciación de los activos 
+se revisan a cada fecha de cierre anual y se ajustan prospectivamente. 
+ 
+Un componente de inmuebles, maquinaria y equipo o cualquier parte significativa del 
+mismo reconocida inicialmente, se da de baja al momento de su venta o cuando no se 
+espera obtener beneficios económicos futuros por su uso o venta.  Cualquier ganancia o 
+pérdida resultante al momento de dar de baja el activo (calculada como la diferencia entre 
+el ingreso neto procedente de la venta y el importe en libros del activo) se incluye en 
+resultados, en el rubro “Otros ingresos y gastos, neto”. 
+ 
+(h) Arrendamientos - 
+La determinación de si un acuerdo constituye o incluye un arrendamiento se basa en la 
+esencia del acuerdo a la fecha de su celebración, si el cumplimiento del acuerdo depende 
+del uso de uno o más activos específicos; o si el acuerdo concede el derecho de uso del 
+activo, incluso si tal derecho no se encuentra especificado de manera explícita en el 
+acuerdo. 
+ 
+  
+
+=== PAGINA PDF 26 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+13 
+El Grupo como arrendatario - 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por 
+arrendamiento, desde la fecha en que el activo arrendado está disponible para su uso por 
+parte del Grupo. 
+ 
+Los activos y pasivos que surgen de un arrendamiento se miden inicialmente en función de 
+valores presentes.  Los pasivos por arrendamiento incluyen el valor presente neto de los 
+siguientes pagos por arrendamiento: 
+ 
+- Pagos fijos (incluidos los pagos que, independiente de su forma, se consideren pagos 
+fijos “en sustancia”), menos cualquier saldo por cobrar por incentivos recibidos 
+para iniciar el arrendamiento; 
+- Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los 
+cuales se miden, inicialmente, utilizando el índice o la tasa vigente a la fecha de 
+inicio del arrendamiento; 
+- Los importes de cualquier garantía de valor residual, que el Grupo se haya obligado 
+a pagar; 
+- El precio de ejercer opciones de compra, si el Grupo considera que es 
+razonablemente seguro que las ejercerá; y 
+- Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del 
+arrendamiento ha considerado el supuesto que el Grupo ejercerá esta opción. 
+ 
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de 
+arrendamiento del plazo extendido también se incluyen en la medición del pasivo. 
+ 
+Los pagos de arrendamiento se descuentan utilizando la tasa de interés implícita en el 
+arrendamiento.  Si esa tasa no puede ser determinada de forma simple, se utiliza la tasa 
+incremental de endeudamiento del arrendatario, que representa la tasa que se cargaría al 
+arrendatario para captar los fondos necesarios para adquirir un activo de valor similar al 
+activo subyacente al derecho de uso, en un contexto económico similar y bajo términos 
+similares, en lo referido al plazo, garantías y condiciones. 
+ 
+Para determinar la tasa de endeudamiento incremental, el Grupo toma en cuenta los 
+siguientes criterios: 
+ 
+- En la medida que sea posible, utiliza, como punto de referencia, las tasas de 
+financiamientos recientemente obtenidos y las ajusta para reflejar los cambios en 
+las condiciones desde la fecha que obtuvo tales financiamientos; 
+- En caso no cuente con financiamientos recientes, aplica un enfoque de acumulación 
+que parte de una tasa libre de riesgo, la que ajusta por el riesgo de crédito del 
+Grupo; y 
+- Aplica ajustes específicos a la tasa calculada que refleje las condiciones específicas 
+del arrendamiento; por ejemplo, lo referido al plazo, país, moneda y tipo de 
+garantías. 
+ 
+
+=== PAGINA PDF 27 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+14 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la 
+porción que corresponde al costo financiero.  El costo financiero se reconoce en 
+resultados durante el plazo de arrendamiento, en un importe que refleje una tasa de 
+interés periódica y constante aplicada sobre el saldo del pasivo a la fecha de cierre. 
+ 
+Los activos por derecho de uso se miden a su costo, el cual incluye: 
+ 
+- El valor de la medición inicial del pasivo por arrendamiento; 
+- Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del 
+arrendamiento; menos cualquier incentivo de arrendamiento que se haya recibido; 
+- Los costos directos iniciales; y 
+- Los costos de restauración o rehabilitación a los que el Grupo esté obligado a 
+incurrir. 
+ 
+Los activos por derecho de uso se deprecian, generalmente, en línea recta en el plazo más 
+corto entre la vida útil del activo arrendado y el plazo del arrendamiento.  Si el Grupo 
+considera que es razonablemente seguro ejercer su opción de compra, el activo por 
+derecho de uso se deprecia en el plazo de vida útil del activo subyacente. 
+ 
+Los pagos asociados con arrendamientos de corto plazo de inmuebles y vehículos y todos 
+los arrendamientos de activos de bajo valor, se reconocen en resultados en línea recta.  
+Los arrendamientos de corto plazo son arrendamientos con un plazo de arrendamiento de 
+12 meses o menos.  Los activos de bajo valor comprenden, equipos de tecnología y 
+equipos diversos. 
+ 
+El Grupo como arrendador - 
+Cuando el Grupo actúa como arrendador, determina, al comienzo del arrendamiento, si 
+cada contrato de arrendamiento es un arrendamiento financiero o un arrendamiento 
+operativo. 
+ 
+Para clasificar cada contrato de arrendamiento, el Grupo realiza una evaluación de si ha 
+transferido al arrendatario sustancialmente todos los riesgos y beneficios inherentes a la 
+propiedad del activo subyacente.  Si este es el caso, entonces el contrato de 
+arrendamiento es un arrendamiento financiero; caso contrario, es un arrendamiento 
+operativo.  Como parte de esta evaluación, el Grupo considera ciertos indicadores, tales 
+como, si el contrato de arrendamiento cubre la mayor parte de la vida económica del 
+activo. 
+ 
+Los ingresos procedentes de los arrendamientos operativos se contabilizan en forma lineal 
+a lo largo del plazo del arrendamiento. 
+ 
+  
+
+=== PAGINA PDF 28 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+15 
+Cuando el Grupo subarrienda un activo, refleja su rol en el contrato de arrendamiento 
+principal y en el sub-arrendamiento por separado.  Se evalúa la clasificación del 
+arrendamiento de un sub- arrendamiento con referencia al activo por derecho de uso que 
+surge del arrendamiento principal, no con referencia al activo subyacente.  Si un contrato 
+de arrendamiento principal es un arrendamiento a corto plazo, para que el Grupo aplique la 
+exención descrita anteriormente, entonces se clasifica el sub-arrendamiento como un 
+arrendamiento operativo. 
+ 
+Si un contrato contiene componentes de arrendamiento y de no arrendamiento, el Grupo 
+aplica la NIIF 15 para distribuir la contraprestación en el contrato entre los diferentes 
+componentes. 
+ 
+(i) Intangibles - 
+Los activos intangibles adquiridos en forma separada se miden inicialmente al costo.  El 
+costo de los activos intangibles adquiridos en combinaciones de negocios se mide a su valor 
+razonable a la fecha de la adquisición.  Después del reconocimiento inicial, los activos 
+intangibles se contabilizan al costo menos la amortización acumulada y, de ser aplicable, 
+cualquier pérdida acumulada por deterioro del valor. 
+ 
+Los costos directos que se capitalizan como parte del costo de programas de cómputo 
+incluyen a los costos de consultoría, costos de los empleados que desarrollan el software, 
+asistencias complementarias, infraestructura y licencias centralizadas, licencias de 
+usuario y una porción de los costos indirectos correspondientes. 
+ 
+Otros costos que no cumplan con estos criterios se reconocen en resultados conforme se 
+incurre. 
+ 
+Las licencias de los programas de cómputo adquiridas se capitalizan sobre la base de los 
+costos incurridos para adquirir y poner en uso el programa específico. 
+ 
+Las vidas útiles de los activos intangibles pueden ser finitas o indefinidas.  Los activos 
+intangibles con vidas útiles finitas se amortizan por el método de línea recta a lo largo de 
+sus vidas útiles, que fluctúan entre dos y treinta y nueve años, y se revisan para 
+determinar si tuvieron algún deterioro del valor en la medida en que exista algún indicio de 
+que el activo intangible pudiera haber sufrido dicho deterioro. 
+ 
+El período y el método de amortización para un activo intangible con una vida útil finita se 
+revisan al menos al cierre de cada período sobre el que se informa.  Los cambios en la vida 
+útil esperada o el patrón esperado de consumo del activo se contabilizan al modificarse el 
+período o el método de amortización, según corresponda, y se tratan como cambios en las 
+estimaciones contables.  El gasto por amortización de activos intangibles con vidas útiles 
+finitas se reconoce en el estado consolidado de resultados en el rubro de la categoría que 
+resulte coherente con la función del activo intangible. 
+ 
+
+=== PAGINA PDF 29 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+16 
+Los activos intangibles con vidas útiles indefinidas no se amortizan, pero se someten a 
+pruebas anuales para determinar si sufrieron algún deterioro del valor, ya sea en forma 
+individual o a nivel de la unidad generadora de efectivo a la que pertenecen.  Una vida útil 
+indefinida se revisa en forma anual para determinar si la misma sigue siendo apropiada.  
+En caso de no serlo, el cambio de vida útil de indefinida a finita se contabiliza en forma 
+prospectiva. 
+ 
+La amortización se calcula en forma lineal a lo largo de las vidas útiles estimadas en años 
+de los activos, tal como se muestra a continuación: 
+ 
+ Plazo 
+  
+Relación con clientes 2 a 28 
+Derechos de uso 2 
+Contrato de distribución 10 
+Relación con proveedores 39 
+Acuerdo de no competencia 4 a 5 
+Licencias de software 2 a 10 
+ 
+Los costos incurridos en el desarrollo de software reconocidos como activos se 
+amortizarán en el plazo de sus vidas útiles estimadas.  La amortización comenzará cuando 
+el activo esté disponible para su utilización, es decir, cuando se encuentre en la ubicación 
+y condiciones necesarias para que pueda operar de la forma prevista por la Gerencia. 
+ 
+Las ganancias o pérdidas que surjan de dar de baja un activo intangible se miden como la 
+diferencia entre el ingreso neto procedente de la venta y el importe en libros del activo, y 
+se reconocen en el estado consolidado de resultados cuando se da de baja el activo 
+respectivo, en el rubro “Otros ingresos y gastos, neto”. 
+ 
+(j) Deterioro del valor de los activos no financieros - 
+El valor neto en libros de los inmuebles, maquinaria y equipo y activos intangibles de vida 
+finita son revisados para determinar si existen indicios de deterioro al cierre de cada 
+ejercicio.  Si existen tales indicios, el Grupo estima el valor recuperable del activo, siendo 
+este el mayor entre el valor razonable, menos los gastos necesarios para realizar la 
+venta, y el valor en uso. 
+ 
+Cuando el importe recuperable de un activo está por debajo de su valor en libros se 
+considera que existe deterioro del valor. 
+ 
+  
+
+=== PAGINA PDF 30 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+17 
+El valor razonable corresponde al monto que se puede obtener en la venta de un activo 
+en un mercado libre, mientras que el valor en uso es el valor presente de los flujos 
+futuros de efectivo neto estimados del uso continuo de un activo y de su disposición al 
+final de su vida útil.  Al determinar el valor en uso, los flujos futuros de efectivo se 
+descuentan a su valor presente utilizando una tasa de descuento antes de impuestos 
+que refleja la evaluación de las condiciones actuales de mercado, del valor del dinero en 
+el tiempo y los riesgos específicos del activo. 
+ 
+Cuando tienen lugar nuevos eventos, o cambios en circunstancias ya existentes, que 
+evidencien que una pérdida por deterioro registrada en un periodo anterior pudiera ya no 
+existir o haberse reducido, el Grupo realiza una nueva estimación del valor recuperable 
+del activo correspondiente.  Las pérdidas por deterioro previamente reconocidas son 
+reversadas sólo si se ha producido un cambio en los estimados usados para determinar 
+el importe recuperable del activo desde la fecha en que se reconoció por última vez la 
+pérdida por deterioro.  Si este es el caso, el valor en libros del activo es aumentado a su 
+importe recuperable.  Dicho aumento no puede exceder el valor en libros que se habría 
+determinado, neto de la depreciación, si no se hubiera reconocido una pérdida por 
+deterioro para el activo en años anteriores.  Dicha reversión es reconocida en 
+resultados.  Luego de efectuada la reversión, el cargo por depreciación es ajustado en 
+períodos futuros distribuyendo el valor en libros del activo a lo largo de su vida útil 
+remanente. 
+ 
+Crédito mercantil y marcas de vida indefinida - 
+El crédito mercantil surge de la compra de un grupo de activos que califica como 
+negocio.  Este crédito mercantil representa el exceso del costo de adquisición respecto 
+del valor razonable de los activos netos adquiridos a la fecha de toma de control.  El 
+valor en libros del crédito mercantil se somete anualmente a pruebas para determinar 
+si existe un deterioro del valor (al 31 de diciembre), y cuando las circunstancias 
+indiquen que su importe en libros pudiera estar deteriorado.  El valor en libros del 
+crédito mercantil se muestra al costo menos, si existieran, las pérdidas por deterioro 
+acumuladas.  Si ocurriera la venta total o parcial del negocio que dio origen al crédito 
+mercantil, la ganancia o pérdida en dicha venta incluye el valor en libros del crédito 
+mercantil. 
+ 
+El deterioro del valor del crédito mercantil se determina evaluando el importe 
+recuperable de cada unidad generadora de efectivo (o un grupo de unidades 
+generadoras de efectivo) con las que se relacione.  Cuando el importe recuperable de 
+la unidad generadora de efectivo es menor que su importe en libros, incluyendo el 
+valor en libros del crédito mercantil, se reconoce una pérdida por deterioro del valor. 
+ 
+Las pérdidas por deterioro de valor relacionadas con el crédito mercantil no se 
+pueden revertir en períodos futuros. 
+  
+
+=== PAGINA PDF 31 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+18 
+(k) Costos de financiamiento - 
+Los costos de financiamiento atribuibles directamente a la adquisición, construcción o 
+producción de un activo que requiere necesariamente un periodo considerable de 
+preparación para encontrarse disponible para uso o venta son capitalizados como parte 
+del costo del respectivo activo.  Todos los otros costos de financiamiento son reconocidos 
+como gasto en resultados.  Los costos de financiamiento están conformados por los 
+intereses y otros costos que el Grupo incurre en relación con los fondos obtenidos 
+ 
+En 2024 y de 2023, el Grupo no incurrió en costos en la construcción de activos que 
+califiquen para la capitalización de costos de financiamiento. 
+ 
+(l) Beneficios a los empleados - 
+Participación en las utilidades - 
+El Grupo reconoce un pasivo y un gasto por la participación de los trabajadores en las 
+utilidades de las compañías sobre la base de las disposiciones legales vigentes en cada país 
+en donde operan, de ser aplicable.  Para el caso de las entidades en Perú, la participación 
+de los trabajadores en las utilidades equivale entre 5% y 8% de la materia imponible 
+determinada de acuerdo con la legislación del impuesto a la renta vigente.  Según las leyes 
+peruanas, existe un límite en la participación de los trabajadores que un empleado puede 
+recibir, equivalente a dieciocho sueldos mensuales. 
+ 
+El Grupo reconoce la participación de los trabajadores de acuerdo con lo establecido en la 
+NIC 19, “Beneficios a los empleados”, esto es, como un beneficio de corto plazo que la 
+entidad proporciona a los trabajadores a cambio de sus servicios.  Este beneficio se 
+reconoce como costo o gasto dependiendo de la función de cada uno de ellos. 
+ 
+Gratificaciones - 
+El Grupo reconoce un pasivo y un gasto por gratificaciones a los trabajadores sobre la 
+base de las disposiciones legales vigentes en cada país en donde opera.  Para el caso de las 
+entidades en Perú, las gratificaciones corresponden a dos remuneraciones anuales que se 
+pagan en julio y diciembre de cada año. 
+ 
+Compensación por tiempo de servicios - 
+El Grupo reconoce la compensación por tiempo de servicios del personal que corresponde 
+a sus derechos indemnizatorios calculados de acuerdo con la legislación vigente en cada 
+país en donde opera, de ser aplicable.  Para el caso de las entidades en Perú, dicha 
+compensación se tiene que depositar en las cuentas bancarias designadas por los 
+trabajadores en los meses de mayo y noviembre de cada año.  La compensación por 
+tiempo de servicios del personal es equivalente a media remuneración mensual vigente a 
+la fecha de su depósito.  El Grupo no tiene obligaciones de pago adicionales una vez que 
+efectúa los depósitos anuales de los fondos a los que el trabajador tiene derecho. 
+  
+
+=== PAGINA PDF 32 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+19 
+Descanso vacacional - 
+Las vacaciones anuales del personal y otras ausencias remuneradas se reconocen sobre la 
+base del devengado y de acuerdo con la legislación vigente en cada país en donde el Grupo 
+opera, de ser aplicable.  Para el caso de las entidades en Perú, la provisión por la 
+obligación estimada por vacaciones anuales del personal, que se calcula sobre la base de 
+una remuneración por cada doce meses de servicios prestados por los empleados, se 
+reconoce a cada fecha de cierre de los estados financieros. 
+ 
+El Grupo no proporciona beneficios posteriores a la relación laboral y tampoco opera un 
+plan de compensación patrimonial sobre la base de acciones. 
+ 
+(m) Impuesto a las ganancias - 
+El impuesto a las ganancias del período comprende al impuesto a las ganancias corriente y 
+al diferido, y se reconoce en el estado consolidado de resultados, excepto en la medida 
+que se relacione con partidas reconocidas como otros resultados integrales o 
+directamente en el patrimonio. 
+ 
+Impuesto a las ganancias corriente - 
+El impuesto a las ganancias para el período corriente se calcula de acuerdo a las normas 
+legales vigentes en cada país, a partir de los estados financieros no consolidados y por el 
+monto que se espera pagar a las autoridades tributarias.  Las normas legales y tasas 
+usadas para calcular los importes por pagar son las que están vigentes en la fecha de los 
+estados financieros consolidados. 
+ 
+La Gerencia evalúa periódicamente las normas tributarias en las que están sujetas a 
+interpretaciones y reconoce provisiones sobre los montos que espera deberá pagar a las 
+autoridades tributarias. 
+ 
+Cuando el Grupo efectúa pagos en exceso de lo que considera son sus obligaciones de 
+pago del impuesto a la renta, por ejemplo, cuando paga bajo protesto a la Administración 
+Tributaria para evitar acumulación de intereses y multas, pero considera que es probable 
+que obtendrá su devolución, reconoce estos importes en el rubro de “Otros activos”.  La 
+Compañía analiza el plazo estimado de recuperación a fin de identificar los importes a ser 
+presentados como parte del activo corriente y del activo no corriente. 
+ 
+Impuesto a las ganancias diferido - 
+El impuesto a las ganancias para los períodos futuros es reconocido usando el método del 
+pasivo, considerando las diferencias temporales entre la base tributaria de los activos y 
+pasivos y sus respectivos saldos contables a la fecha del estado consolidado de situación 
+financiera.  Los activos y pasivos diferidos se miden utilizando las tasas de impuesto (y 
+legislación) que se esperan aplicar a la renta imponible en los años en que estas diferencias 
+se recuperan o eliminan. 
+  
+
+=== PAGINA PDF 33 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+20 
+Los activos diferidos son reconocidos para todas las diferencias deducibles y pérdidas 
+tributarias arrastrables, en la medida que sea probable que exista utilidad gravable contra 
+la cual se pueda compensar las diferencias temporales deducibles, y se puedan usar las 
+pérdidas tributarias arrastrables.  El valor en libros del activo diferido es revisado en cada 
+fecha de cierre de estados financieros y es reducido en la medida en que sea improbable 
+que exista suficiente utilidad imponible contra la cual se pueda compensar todo o parte del 
+activo diferido.  Los activos diferidos no reconocidos son revisados en cada fecha de los 
+estados financieros. 
+ 
+Los activos y pasivos por impuestos diferidos son compensados si existe el derecho legal 
+de compensarlos y se relacionan con la misma autoridad tributaria. 
+ 
+La Compañía reconoce un pasivo para hacer distribuciones de dividendos en efectivo a sus 
+accionistas cuando la distribución se encuentra debidamente autorizada y no quede a 
+discreción del Grupo. De acuerdo con las políticas del Grupo, la distribución de dividendos 
+es autorizada cuando es aprobada por la Junta General de Accionistas.  El monto 
+correspondiente autorizado es registrado directamente con cargo al patrimonio neto.   
+ 
+Posiciones tributarias inciertas - 
+Una posición tributaria incierta es cualquier tratamiento impositivo aplicado por una 
+entidad respecto al cual existe incertidumbre sobre si éste será aceptado por la autoridad 
+tributaria.  El reconocimiento y medición de los activos y pasivos por impuestos diferidos y 
+corrientes pueden verse afectados en los casos en que una entidad tenga posiciones 
+tributarias inciertas asociadas con el impuesto a la renta, en las que se considere que es 
+probable que la autoridad tributaria no acepte el tratamiento del Grupo.  La existencia de 
+posiciones tributarias inciertas puede afectar la determinación de la utilidad o pérdida 
+tributaria, la base tributaria de activos y pasivos, créditos tributarios o las tasas de 
+impuesto usadas. 
+ 
+(n) Reconocimiento de ingresos, costos y gastos - 
+Ingresos - 
+Los ingresos se miden con base en la contraprestación especificada en el contrato con el 
+cliente, y excluye los montos recibidos en representación de terceros.  Los ingresos se 
+presentan netos de los impuestos a las ventas, reembolsos, descuentos, bonificaciones y 
+otros conceptos relacionados a las ventas. 
+ 
+Al inicio del contrato, la Gerencia determina si el Grupo se compromete a entregar 
+múltiples bienes o servicios e identifica cuáles de ellos califican como obligaciones de 
+desempeño separables, que requerirán reconocer ingresos de forma independiente.  Esto 
+puede originar que distribuya el precio del contrato entre diversas promesas de entrega 
+de bienes o servicios al cliente, que podrían ser reconocidos como ingresos en momentos 
+distintos. 
+  
+
+=== PAGINA PDF 34 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+21 
+En caso se identifiquen diferentes obligaciones de desempeño separables identificadas, el 
+Grupo distribuye el precio del contrato de forma proporcional a cada obligación de 
+desempeño con base en sus precios de venta individuales.  Si el Grupo no dispone del 
+precio de venta individual, lo estima mediante un enfoque de costo más un margen 
+razonable de mercado. 
+ 
+Las obligaciones de desempeño no satisfechas a la fecha de los estados financieros, por las 
+cuales el Grupo ya recibió del cliente la contraprestación total o parcial, se presentan en el 
+rubro “Otros pasivos corrientes”, en el estado consolidado de situación financiera, bajo el 
+concepto de “Anticipos de clientes” (nota 15). 
+ 
+Los ingresos por venta de máquinas, motores, equipos y repuestos se reconocen cuando 
+se transfiere el control de los bienes, situación que se da cuando el producto se entrega al 
+cliente, éste tiene total discreción sobre el mismo y el Grupo no asume obligación alguna 
+que esté pendiente de ser satisfecha y que pudiera afectar la aceptación del producto por 
+parte del cliente.  Se considera entregado el producto cuando los productos se envían a la 
+locación especificada por el cliente, los riesgos de obsolescencia y de pérdida han sido 
+transferidos al cliente y el cliente ha aceptado los productos de acuerdo con los términos 
+de la venta. 
+ 
+Prestación de servicio – 
+El Grupo presta servicios de reparación de máquinas y componentes; así como servicios 
+de alquiler de equipos. 
+ 
+El grado de realización de una transacción puede determinarse mediante varios métodos. 
+El Grupo usan el método que mide con más fiabilidad los servicios ejecutados. Entre los 
+métodos a emplear se encuentran, dependiendo de la naturaleza de la operación:   
+ 
+- A inspección de los trabajos ejecutados;  
+- La proporción que los servicios ejecutados hasta la fecha como porcentaje del total 
+de servicios a prestar que se ingresan en las ordenes de trabajo;   
+- La proporción que los costos incurridos hasta la fecha suponen sobre el costo total 
+estimado de la operación, calculada de manera que sólo los costos que reflejen 
+servicios ya ejecutados se incluyan entre los costos incurridos hasta la fecha y sólo 
+los costos que reflejan servicios ejecutados o por ejecutar se incluyan en la 
+estimación de los costos totales de la operación. 
+ 
+Ni los pagos a cuenta ni los anticipos recibidos de los clientes reflejan, forzosamente, el 
+porcentaje del servicio prestado hasta la fecha.   
+ 
+Los servicios pueden prestarse en el transcurso de un único periodo o a lo largo de varios 
+periodos contables.  
+  
+
+=== PAGINA PDF 35 ===
+Notas a los estados financieros consolidados (consolidados) 
+ 
+ 
+ 
+22 
+En el caso de que los servicios se presten a través de un número indeterminado de actos, 
+a lo largo de un periodo de tiempo especificado, los ingresos se reconocen con base en el 
+grado de realización en cada momento que se prestan los servicios y que los mismos 
+pueden ser medidos con fiabilidad. 
+ 
+Acuerdos con múltiples elementos - La Compañía ofrecen ciertos acuerdos donde un 
+cliente puede comprar un producto junto con un acuerdo de servicio. Cuando haya lugar a 
+múltiples elementos, el importe de los ingresos asignados a cada obligación de desempeño 
+se basa en los valores razonables de las mismas identificadas. Los valores razonables de 
+cada obligación se determinan con base al precio actual de mercado de cada uno de los 
+elementos cuando se venden por separado. Los ingresos en relación con la venta del 
+producto se reconocen en un punto de tiempo cuando los riesgos y beneficios inherentes 
+son transferidos al cliente. Los ingresos en relación a obligaciones de desempeño de 
+servicio se reconocen a lo largo del tiempo de acuerdo al grado de realización de los 
+mismo durante el período de servicio, según si las actividades relacionadas con el servicio 
+son o no determinables. 
+ 
+Prestación de servicio contrato MARC – 
+Los ingresos se reconocen progresivamente según el método de porcentaje de finalización 
+durante el plazo del contrato y cualquier modificación en el trabajo contratado. Este 
+método se mide por referencia a los costos incurridos hasta la fecha como un porcentaje 
+de los costos totales estimados.  
+ 
+Los costos del contrato incluyen los costos que se relacionan directamente con el contrato 
+específico y los costos que son atribuibles a la actividad de contratación en general y 
+pueden ser imputados al contrato, entre las que tenemos: actividades de mantenimiento 
+rutinario, actividades de reparación, actividades de soldadura, administración de 
+inventarios, entre otros. 
+ 
+Costos y gastos - 
+El costo de venta, que corresponde al costo de los productos que comercializa el Grupo, se 
+registra cuando se entregan los bienes, de manera simultánea al reconocimiento de los 
+ingresos por la correspondiente venta. 
+ 
+El costo de servicios se capitaliza conforme se incurre y se reconoce en resultados de 
+forma simultánea el reconocimiento de los ingresos asociados.  Para fines de 
+presentación, el Grupo incorpora los costos capitalizados como parte del rubro 
+“Existencias”. 
+ 
+Los otros costos y gastos se reconocen a medida que se devengan, independientemente 
+del momento en que se paguen, y se registran en los períodos con los cuales se 
+relacionan. 
+  

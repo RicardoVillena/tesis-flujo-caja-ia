@@ -1,0 +1,30 @@
+[
+  {
+    "id": "minem24_cap3",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/8890985/7324144-capitulo-3-generacion-electrica-2024-15-09-25.xlsx?v=1767377974",
+    "fecha_consulta": "2026-10-23",
+    "sha256": "9cd0a306956e722198b6da9d445d16c36f99951181da637da757b9a1abf0846e",
+    "pagina_indice": "https://www.gob.pe/institucion/minem/informes-publicaciones/7324144-anuario-estadistico-de-electricidad-2024"
+  },
+  {
+    "id": "minem24_cap4",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/9230059/7324144-capitulo-4-transmision-electrica-2024.xlsx?v=1767377963",
+    "fecha_consulta": "2026-10-23",
+    "sha256": "8176be0556118e8ee55c7980b6f313d081846e73dfec247f3626718c6d8b0533",
+    "pagina_indice": "https://www.gob.pe/institucion/minem/informes-publicaciones/7324144-anuario-estadistico-de-electricidad-2024"
+  },
+  {
+    "id": "minem24_cap5",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/9231852/7324144-capitulo-5-distribucion-de-energia-electrica-2024.xlsx?v=1767377961",
+    "fecha_consulta": "2026-10-23",
+    "sha256": "62cb8fc24bdeb07a24e5ca01c25c264158ea69649b17cf2ef960c09255c14200",
+    "pagina_indice": "https://www.gob.pe/institucion/minem/informes-publicaciones/7324144-anuario-estadistico-de-electricidad-2024"
+  },
+  {
+    "id": "minem24_cap10",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/9232016/7324144-capitulo-10-evoluciones-en-subsector-electrico-2024.xlsx?v=1767377929",
+    "fecha_consulta": "2026-10-23",
+    "sha256": "35d5d385767b160de0a3c24b47f57d50d6e21ec6346fd753196fa707a86faba1",
+    "pagina_indice": "https://www.gob.pe/institucion/minem/informes-publicaciones/7324144-anuario-estadistico-de-electricidad-2024"
+  }
+]

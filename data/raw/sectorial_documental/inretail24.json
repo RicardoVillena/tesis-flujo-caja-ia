@@ -1,0 +1,11 @@
+{
+  "id": "inretail24",
+  "url": "https://www.smv.gob.pe/ConsultasP8/temp/InRetail_DIA2024.pdf",
+  "url_final": "https://www.smv.gob.pe/ConsultasP8/temp/InRetail_DIA2024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "7eeb0d56e66f98fa6f35298b2cff765f03ea21d30885053bbc853ff462e36641",
+  "sha256_texto": "5cd7fd42fbc33281c2457f667cb96709ea05cc05cfe8eef7b06d7705f4c87277",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 41
+}

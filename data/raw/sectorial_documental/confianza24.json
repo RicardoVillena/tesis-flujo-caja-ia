@@ -1,0 +1,11 @@
+{
+  "id": "confianza24",
+  "url": "https://confianza.pe/docs/2025/04/EEFF%20Financiera%20Confianza%202024.pdf",
+  "url_final": "https://confianza.pe/docs/2025/04/EEFF%20Financiera%20Confianza%202024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "fa684776d81763f4f94e1a4f5ae375852753b67590340273941e03cee159c5b1",
+  "sha256_texto": "bb5bbcf62e5966e04f4f4acbafd1768b5f71b7de674656be3e937a0039098e3e",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

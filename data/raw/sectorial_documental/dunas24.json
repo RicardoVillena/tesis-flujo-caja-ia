@@ -1,0 +1,11 @@
+{
+  "id": "dunas24",
+  "url": "https://www.electrodunas.com/cms2/archivos/ELD%202024.pdf",
+  "url_final": "https://www.electrodunas.com/cms2/archivos/ELD%202024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "163c96bf96dd17e08f5386719ae1c446085e647254db07261c0f55dcff52f6ef",
+  "sha256_texto": "347063995fdaa507bfd4a6fea3e117e172b80918e76b4b2f95ee5aacba2f5bd1",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

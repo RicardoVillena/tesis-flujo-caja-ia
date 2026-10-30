@@ -1,0 +1,14 @@
+{
+  "fuente": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Betas.html",
+  "titulo": "Betas by Sector (US)",
+  "version": "January 2026",
+  "fecha_consulta": "2026-10-23",
+  "sha256_html": "10993bab71504e2449ccdd9e3d67fa4da983bed380b2f4486e5200a7b258616b",
+  "alcance": "Vocabulario industrial; no es una correspondencia oficial CIIU-SMV ni una clasificación oficial de emisores peruanos.",
+  "reglas_version": "sprint07-v1",
+  "evidencias": {
+    "AFP": "https://www.sbs.gob.pe/sistema-privado-de-pensiones/temas-de-interes-del-spp/fondo-de-pensiones",
+    "5510_rev31": "https://unstats.un.org/unsd/classifications/Econ/Structure/Detail/EN/17/5510",
+    "5510_rev4": "https://unstats.un.org/unsd/classifications/Econ/Structure/Detail/EN/27/5510"
+  }
+}

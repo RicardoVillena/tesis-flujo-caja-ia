@@ -1,0 +1,4553 @@
+
+=== PAGINA PDF 1 ===
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EMPRESA REGIONAL DE SERVICIO PÚBLICO DE ELECTRICIDAD  
+ELECTRONORTE MEDIO S.A. – HIDRANDINA S.A. 
+ 
+ 
+ESTADOS FINANCIEROS  
+AL 31 DE MARZO DE 2015   
+ 
+ 
+ 
+
+=== PAGINA PDF 2 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+2 
+ 
+EMPRESA REGIONAL DE SERVICIO PÚBLICO DE ELECTRICIDAD 
+ELECTRONORTE MEDIO S.A. – HIDRANDINA  S.A. 
+ 
+ 
+ESTADOS FINANCIEROS 
+AL 31 DE MARZO DE 2015  
+ 
+ 
+CONTENIDO 
+ 
+ 
+Estados financieros: 
+ 
+ Estado de situación financiera 
+ 
+ Estado de resultados integrales 
+ 
+ Estado de cambios en el patrimonio neto  
+ 
+ Estado de flujos de efectivo 
+ 
+ Notas a los estados financieros 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  S/. =  Nuevo sol 
+  US$ =  Dólar estadounidense 
+
+=== PAGINA PDF 3 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+____________________________________________________________________ 
+3 
+ 
+EMPRESA REGIONAL DE SERVICIO PÚBLICO DE ELECTRICIDAD ELECTRONORTE 
+MEDIO S.A. – HIDRANDINA S.A. 
+ 
+NOTAS A LOS ESTADOS FINANCIEROS  
+POR LOS PERIODOS TERMINADOS EL 31 DE MARZO DE 2015 Y 2014 Y POR EL AÑO 
+TERMINADO EL 31 DE DICIEMBRE DE 2014 
+(Expresados en Miles de Nuevos Soles) 
+ 
+1 CONSTITUCIÓN, ACTIVIDAD ECONÓMICA Y APROBACIÓN DE ESTADOS 
+FINANCIEROS 
+ 
+Constitución, accionista mayoritario y supervisores 
+ 
+La Empresa Regional de Servicio Público de Electricidad Electronor te Medio S.A. – Hidrandina 
+S.A., fue autorizada a operar el 05  de abril de 1983, medi ante Resolución Ministerial N° 089-83-
+EM/DGE del Ministerio de Energía y Minas, y su constitución como empre sa pública de derecho 
+privado se formalizó mediante escritura pública del 08 de julio de 1983 , siendo su domicilio legal 
+calle San Martín N° 831 de la ciudad de Trujillo, Región La Libertad.  
+ 
+La Empresa es una subsidiaria del Fondo Nacional de Financiamie nto de la Actividad Empresarial 
+del Estado (FONAFE), una entidad de propiedad del Estado Peruano, que posee el 95.1823 por 
+ciento de las acciones representativas del capital social de la Empresa. 
+ 
+A efectos de llevar a cabo el proceso de privatización, en 1998 las acciones de capital social de la 
+Empresa fueron clasificadas en acciones clase A 1 por el 6 0% del capital, acciones clase A2  por el 
+5.3054%  acciones clase B  por el 34.691%% del capital y  acciones clase C por el 0.0035% del 
+capital.  
+ 
+En concordancia con el acuerdo COPRI -207-98 del 24 de julio de 1998 la Empresa, a partir de la 
+transferencia de las acciones Clase A mencionadas en el párrafo anterior, estuvo sujeta al régimen de 
+la actividad privada. En consecuencia, dejó de pertenecer al ámbito de la ac tividad empresarial del 
+Estado. 
+ 
+Con fecha 25 de noviembre de 1998, José Rodríguez Banda S.A. se adjudicó el Concurso Público 
+Internacional para la privatización de la Empresa y con fecha 22 de diciembre de 1998 se suscribió el 
+contrato de transferencia de acciones del 30% del capital, porcentaje que equivale al 50% de las 
+acciones clase A1. 
+ 
+Asimismo, de acuerdo con el contrato de fideicomiso del 22 de diciembre de 1998, la Corporación 
+Financiera de Desarrollo – COFIDE fue designada como fiduciaria del saldo de las acciones clase 
+A1. Entre otras  funciones inherentes a su nombramiento, COFIDE votará  en Junta General de 
+Accionistas en el sentido que vote la empresa compradora  en los casos seña lados en el contrato 
+referido, con el objetivo de  garantizar la gestión  privada de la Empresa. 
+ 
+Con fecha 20 de diciembre del 2000 se suscribió el contrato de cesión de posición contractual en 
+virtud del cual José Rodríguez  Banda S.A. transfiere las acci ones clase A 1 a JORBSA Eléctricas 
+S.A.C., con la intervención del FONAFE , regresando al ámbito de la actividad empresarial del 
+Estado.  
+ 
+De conformidad con la Ley N ° 26844 del 19 de Julio de 1997 y los estatutos de la Empresa, las 
+acciones Clase C, de propiedad  del Estado Peruano, confieren  a su titular  voto determinante en las 
+siguientes decisiones de la  Empresa: 
+ Cierre de la empresa. 
+
+=== PAGINA PDF 4 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+4 
+ 
+ Incorporación de nuevos accionistas  median te cualquier modalidad, excepto cuando se realiza la 
+transferencia de acciones a través de la Bolsa de Valores. 
+ Reducción del Capital, emisión de obligaciones convertibles en acciones. 
+ Inscripción de cualquier clase de acciones  de la Empresa en la Bolsa de Valores. 
+ Cambio de objeto social, transformación, fusión, escisión  o disolución  de la sociedad. 
+ Constitución de garantías reales sobre bienes sociales para respaldar  obligaciones  distintas  a las 
+de la propia empresa. 
+ Aprobación de cualquier acto de concertación económica  en el sector eléctrico conforme a la Ley 
+26844.   
+ 
+En el marco de la ejecución de este contrato, se suscitaron una serie de diferencias entre JORBSA 
+Eléctricas S.A.C. y FONAFE que tuvieron como consecuencia la apertura de diversos procesos 
+judiciales y arbitrales. Al respecto con la finalidad de arribar a u na solución definitiva, el 13 de 
+diciembre del 2001 estas entidades suscribieron un contrato de reconocimiento de obligación, dación 
+en pago, transacción, extinción de derechos y obligaciones y pactos diversos, por el cual dejaron sin 
+efecto cualquier dema nda judicial y arbitral en proceso, comprometiéndose JORBSA Eléctricas 
+S.A.C. a entregar el 30% de las acciones adquiridas. Asimismo, se aprobó la entrega de la 
+administración y gestión de la Empresa por parte de JORBSA Eléctricas S.A.C., a pa rtir del 15 de 
+agosto del 2001. 
+ 
+De acuerdo con la Resolución Suprema N ° 444-2001-EF del 14 de septiembre del 2001, se 
+constituyó un Comité Especial de Promoción de la Inversión Privada en Activos, Proyectos y 
+Empresas del Estado, que se encargaría de llevar adelante los procesos de promoción de la inversión 
+privada bajo los mecanismos y procedimientos establecidos en el Decreto Legislativo N ° 674 y sus 
+normas complementarias, habiéndose constituido a dicha fecha el Comité correspondiente para el 
+proceso de promoción de las empresas regionales de distribución eléctrica.  
+ 
+De conformidad con lo establecido en la Ley N ° 27170 y su Reglamento, aprobado por Decreto 
+Supremo N° 072-2000-EF FONAFE es la persona jurídica de derecho público encargada de normar 
+y dirigir la activ idad empresarial del Estado, estando bajo su ámbito las empresas cuyo capital 
+pertenece, de manera directa o indirecta, íntegramente al Estado y aquellas en las cuales el Estado 
+tiene participación mayoritaria. 
+ 
+Mediante Resolución Suprema N° 355-92-PCM del 04 de Julio de 1992 la Presidencia del Consejo 
+de Ministros  ratificó el acuerdo adoptado por la Comisión de Promoción de la Inversión Privada, por 
+el cual se incluyó, entre otras, a las Empresas del Grupo Distriluz en el proceso de promoción de la  
+inversión privada. 
+ 
+Con fecha 28 de Octubre de 1998, se publicó  en el Diario Oficial “ El Peruano” el Acuerdo COPRI  
+N° 207-98 mediante el cual, sobre la base de lo dispuesto por la  Primera Disposición 
+Complementaria del Decreto Legislativo N ° 674, Ley d e Promoción  de la Inversión  Privada, las 
+empresas del Grupo Distriluz quedaron  sujetas al régimen de la actividad privada, sin más 
+limitaciones que las que rigen para las empresas del sector privado. 
+ 
+Luego de un periodo en el que la administración de las empresas del Grupo Distriluz estuvo en poder 
+de un grupo empresarial privado, dichas empresas fueron devueltas al control del Estado  en el  mes 
+de Diciembre del año  2001, con la suscripción del Contrato de Reconocimiento de Obligación, 
+Dación en Pago,  Transacción, Extinción de Derechos y  Obligaciones y Pactos Diversos entre 
+FONAFE y el mencionado grupo empresarial privado. En este sentido, la Comisión de Promoción de 
+la Inversión Privada- COPRI (hoy denominada Proinversión) emitió el Acuerdo N ° 363-01-2001 
+disponiendo  que las empresas del Grupo Distriluz  continuarán sujetas al régimen de la actividad 
+privada, sin más limitaciones que las que disponga FONAFE. 
+ 
+
+=== PAGINA PDF 5 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+5 
+ 
+Posteriormente mediante acuerdo PROINVERSION  de fecha 12 de Julio del 2004 se acordó 
+mantener la vigencia del Acuerdo COPRI N° 363-01-2001. 
+ 
+Atendiendo a una solicitud formulada por Osinergmin, mediante Acuerdo del Consejo Directivo de 
+Proinversión  de la Sesión  N ° 156 de fecha 18 de Octubre del 2006, publicado en el Diario Oficial 
+El Peruano el 04 de Noviembre del 2006, se dispuso que el Acuerdo COPRI  N ° 363-01-2001, que 
+aprobaba el régimen legal de las empresas del Grupo Distriluz, quede sin efecto a partir de 1º de 
+Enero del 2007. 
+ 
+Antes de que se cumpla la fecha para que el Acuerdo N ° 363-01-2001 quede sin efecto, mediante 
+Acuerdo del Consejo Directivo de ProInversión de la Sesión N o.161 de fecha 19 de Diciembre del 
+2006, publicado en el Diario Oficial El Peruano el 23 de Diciembre del 2006, se modificó la fecha de 
+entrada en vigencia del  acuerdo de Proinversión de fecha 18 de Octubre del 2006, quedando fijado 
+para el 1º de Enero del 2008. Posteriormente, el 29 de Diciembre del 2007, 12 de Julio del 2008  y 
+31de diciemb re del 2008 se publicaron en el Diario Oficial “El Peruano” los Acuerdos 
+PROINVERSION No.212-01-2007, 240 -01-2008 y 261 -01-2008  respectivamente, postergándose 
+hasta el 01 de Enero del 2010 la entrada en vigencia del acuerdo del 28 de Octubre del 2006, 
+ampliando de esta manera hasta dicha fecha la vigencia del régimen legal aplicable a las  empresas 
+del Grupo Distriluz. 
+ 
+En el acuerdo PROINVERSION N° 453-2-2011-CPC del 22 de diciembre de 2011, se decide 
+mantener a las Empresas del Grupo Distriluz en los alca nces del segundo párrafo de la Primera 
+Disposición Complementaria Transitoria y F inal del Decreto Legislativo N° 674, concordado con el 
+artículo 32 del Decreto Supremo N° 070-92-PCM, hasta el 31de diciembre de 2012. Sin perjuicio de 
+esto, las empresas deberán publicar en el SEACE las contrataciones de bienes y servicios cuyo valor 
+referencial supere los 3 UITs. 
+ 
+El Decreto Legislativo N° 674 establece en su primer disposición complementaria segundo párrafo 
+“Una vez expedida la resolución suprema a que se re fiere el artículo 4, las respectivas empresas 
+quedarán sujetas al régimen de la actividad privada, sin más limitaciones que las que rigen para las 
+empresas del sector privado, en lo que no se oponga a esta ley, salvo que COPRI decida la aplicación 
+de uno o varios de los dispositivos señalados en el párrafo anterior hasta la conclusión del proceso.”  
+ 
+Adicionalmente, mediante acuerdo PROINVERSION N° 453-3-2011-CPC adoptado en el Consejo 
+Directivo en Sesión de fecha 22 de diciembre de 2011, se acuerda “Dar po r concluido el régimen 
+especial, establecido en el de creto ley N° 25604, otorgado a las empresas Electrocentro SA., 
+Hidrandina SA., Electronorte SA. y Electronoroeste SA.”  
+ 
+El “Decreto Ley  N° 25604, determina la intangibilidad de los activos de propiedad  de las empresas 
+que conforman la actividad empresarial del estado, que hayan sido declaradas en liquidación o 
+comprendidas formalmente en el proceso de promoción de la inversión privada; debiendo en este 
+supuesto ser acordada de manera expresa por el consejo Directivo de PROINVERSION”. 
+ 
+En cuanto a la composición de los Directorios de las Empresas, estos se rigen por las normas de la 
+actividad empresarial privada y  conforme a lo establecido  en el artículo  4º de la Resolución 
+Ejecutiva N° 029-2004/DE – FONAFE, todos los  Directorios de las  empresas  del Grupo Distriluz 
+estarán integrados por las mismas personas y sesionarán de manera corporativa. Los miembros de 
+tales Directorios  solo percibirán el pago de dietas de la Empresa Hidrandina  S.A., desempeñ ando 
+sus funciones en las demás Empresas ad -honorem, de conformidad con el Acuerdo N ° 002 -
+2004/004-FONAFE, que fuera notificado a la Gerencia General de las Empresas del Grupo Distriluz 
+el 25 de Marzo de 2004, mediante Oficio N° 648-2004/DE-FONAFE. 
+ 
+
+=== PAGINA PDF 6 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+6 
+ 
+Finalmente el artículo 5° señala que las Empresas podrán adoptar medidas complementarias con el 
+objeto de reducir costos y gastos, siempre que éstas no colisionen con las normas y disposiciones que 
+rigen la actividad empresarial del Estado, que les sean aplicables.  
+ 
+La Empresa se encuentra bajo el ámbito de supervisión de la Superintendencia del Mercado de 
+Valores (ahora SMV, antes CONASEV), por tener inscritas en el Registro Público del Mercado de 
+Valores las acciones Clase “A2” de propiedad de accionistas privados. También, está sujeta al 
+control de la Contraloría General de la República del Perú por ser una empresa del Sector Público. 
+ 
+Actividad económica 
+ 
+Su actividad principal es la distribución y comercialización de energía eléctrica dentro del área de 
+concesión autorizada, comprendida en los departamentos de Ancash y La Libertad en su integridad y 
+en las provincias de Contumazá, Cajamarca, San Pablo, Cel endín, San Marcos, San Miguel y 
+Cajabamba, dentro del departamento de Cajamarca. Desarrolla también actividades de sub 
+transmisión y actividades de generación de energía eléctrica en algunos servicios eléctricos 
+interconectados y/o aislados, pudiendo prest ar servicios de consultoría de contraste de medidores 
+eléctricos, y diseñar o ejecutar cualquier tipo de estudio u obra vinculada a actividades eléctricas. 
+ 
+La zona de concesión comprende 897 km2, para un ámbito geográfico de 74,753 km2 y cuenta con 
+una población aproximada de 4.215.000 habitantes. Al 31 de marzo de 2015, la Empresa atiende un 
+total de 765,921 usuarios (755,468 usuarios al 31de diciembre de 2014). 
+ 
+Las empresas conformantes del Grupo Distriluz, son: 
+ 
+ Electronorte S.A.   
+ Electrocentro S.A. 
+ Electronoroeste S.A. 
+ Hidrandina S.A. 
+ 
+Asimismo, el Grupo Distriluz, es dirigido administrativamente en forma Corporativa por personal 
+que labora en el Holding, el mismo que se encuentra ubicado en la Torre El Pilar - Piso 13; sito en la 
+Avenida Camino Real N° 348, en el distrito de San Isidro – Lima. 
+ 
+La actividad económica de la Empresa está regulada por la Ley de Concesiones Eléctricas Decreto 
+Ley N° 25844 del 6 de noviembre de 1992, su reglamento aprobado por el Decreto Supremo N° 009-
+93-EM y disposiciones ampliatorias y modificatorias de Ley General de Sociedades.  Los principales 
+requerimientos de cumplimiento obligatorio por la Empresa, se resumen como sigue: 
+ 
+a) Efectuar los estudios y/o la ejecución de las obras cumpliendo los plazos señalados en el 
+cronograma correspondiente;  
+b) Conservar y mantener sus obras e instalaciones en condiciones adecuadas para su operación 
+eficiente, de acuerdo a lo previsto en el contrato de concesión, o de acuerdo a las normas que 
+emita el Ministerio de Energía y Minas (MEM), según corresponda; 
+c) Aplicar los precios regulados fijados por el Organismo Supervisor de la Inversión en Energía y 
+Minería (OSINERGMIN), de conformidad con las disposiciones de la Ley de Concesiones 
+Eléctricas; 
+d) Presentar la información técnica y económica a los organismos normativos y reguladores en la 
+forma y plazos fijados en el Reglamento; 
+e) Cumplir con las disposiciones del Código Nacional de Electricidad y demás normas técnicas 
+aplicables; 
+f) Facilitar las inspecciones técnicas a sus insta laciones que dispongan los organismos 
+normativos y reguladores; 
+
+=== PAGINA PDF 7 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+7 
+ 
+g) Contribuir al sostenimiento de los organismos normativos y reguladores mediante aportes 
+fijados por la autoridad competente que, en conjunto, no podrán ser superiores al uno por 
+ciento (1%) de sus ventas anuales; y, 
+h) Cumplir con las normas de conservación del medio ambiente y del Patrimonio Cultural de la 
+Nación. 
+ 
+La Empresa también está obligada a: a) Suministrar electricidad a quien lo solicite dentro de su zona 
+de concesión o a aquellos  que lleguen a dicha zona con sus propias líneas, en un plazo no mayor de 
+un (1) año, y que tengan carácter de servicio público de electricidad; b) tener contratos vigentes con 
+empresas generadoras que le garanticen su requerimiento total de potencia y ene rgía, por los 
+siguientes veinticuatro (24) meses como mínimo; c) garantizar la calidad del servicio que fije su 
+contrato de Concesión y las normas aplicables; y, d) permitir la utilización de todos sus sistemas y 
+redes por parte de terceros para el transpo rte de electricidad, en las condiciones establecidas en la 
+presente Ley y en el Reglamento, excepto cuando tenga por objeto el suministro de electricidad a 
+usuarios regulados dentro o fuera de su zona de concesión. El incumplimiento de la obligación del 
+literal b) es causal de caducidad de la concesión definitiva de la Empresa. 
+ 
+En opinión de la Gerencia, la Empresa realiza su actividad económica cumpliendo con las 
+regulaciones de la Ley de Conc esiones Eléctricas Decreto Ley N°  25844, su reglamento y normas 
+complementarias. 
+ 
+Aprobación de estados financieros 
+ 
+La emisión de los estados financieros por el año term inado el 31de diciembre de 2014 preparados de 
+conformidad con las Normas Internacionales de Información Financiera ha sido autorizada por la 
+Gerencia de la Empresa. En opinión de la Gerencia, los estados financieros por el año term inado el 
+31de diciembre  de 201 4 fueron aprobados sin modificaciones por el Directorio y por la Junta 
+General de Accionistas. 
+ 
+Los estados financieros por el año term inado el 31de diciembre de 2014 fueron aprobados en sesión 
+de Directorio del 24 de marzo de 2015, por el Directorio y la Junta General de Accionistas.  
+ 
+2 REGULACION OPERATIVA Y NORMAS LEGALES RELACIONADAS CON 
+ACTIVIDADES DEL SECTOR ELECTRICO 
+ 
+Las principales normas que afectan las actividades de la Empresa son: 
+ 
+(a) Ley de Concesiones Eléctricas - 
+ 
+En el Perú el sector eléctrico se rige por la Ley de Concesi ones Eléctricas, Decreto Ley N° 25844, 
+promulgado el 19 de noviembre de 1992; su  reglamento, Decreto Supremo N° 009-93-EM, 
+promulgado el 19 de febrero de 1993; y sus diferentes modificatorias y ampliatorias. 
+ 
+De acuerdo con dicha ley, el sector eléctrico peruano está dividido en tres grandes segmentos:  
+generación, transmisión y distribución.  A partir de octubre de 2000, el sistema eléctrico peruano está 
+conformado por un solo Sistema Interconectado Nacional (SINAC), además de algunos  sistemas 
+aislados.  La Empresa desarrolla sus operaciones dentro del segmento de distribución  de energ ía 
+eléctrica perteneciendo al SINAC.  En el año 2006 la Ley de Concesiones Eléctricas fue  modificada 
+al promulgarse la Ley 28832, Ley para Asegurar el Desarrollo Eficiente de la  Generación Eléctrica, 
+que introdujo importantes cambios en la regulación del sector. 
+ 
+De acuerdo con la Ley de Concesiones Eléctricas, la operación de las centrales de generación y  de 
+los sistemas de transmisión se sujetarán a las disposiciones del Comité de Operación  Económica del 
+Sistema Interconectado Nacional - COES-SINAC, con la finalidad de coordinar su  operación al 
+
+=== PAGINA PDF 8 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+8 
+ 
+mínimo costo, garantizando la seguridad del abastecimiento de energía eléctrica y el  mejor 
+aprovechamiento de los recursos energéticos. El COES-SINAC regula los precios de transferencia de 
+potencia y energía entre los generadores, así como las compensaciones a los  titulares de los sistemas 
+de transmisión. 
+ 
+Los principales cambios introducidos por la Ley, para Asegurar el Desarrollo Eficiente de la  
+Generación Eléctrica, están referidos a la participación en el mercad o de corto plazo, además de  las 
+empresas de generación, a las empresas de distribución y los grandes clientes libres,  incluyéndose 
+por tanto a distribuidores y clientes libres como integrantes del COES,  modificándose la estructura 
+de este organismo. Adicio nalmente se regula el procedimiento para  que las empresas distribuidoras 
+convoquen a licitaciones para asegurar el abastecimiento  de energía para el mercado regulado. Esta 
+norma ha modificado también el marco legal relativo a la actividad de transmisión. 
+ 
+(b) Organismo Supervisor de la Inversión en Energía - 
+ 
+Mediante Ley N°  26734, promulgada el 27 de diciembre de 1996, se creó el Organismo  Supervisor 
+de la Inversión en Energía y Minería - OSINERGMIN (antes OSINERG), cuya finalidad es  
+supervisar las activi dades que desarrollan las empresas en los sub -sectores de electricidad e  
+hidrocarburos, velar por la calidad y eficiencia del servicio brindado al usuario y fiscalizar el  
+cumplimiento de las obligaciones contraídas por los concesionarios en los contratos de concesión, así 
+como de los dispositivos legales y normas técnicas vigentes, incluyendo lo relativo  a la protección y 
+conservación del medio ambiente. 
+ 
+Asimismo, OSINERGMIN debe fiscalizar el cumplimiento de los compromisos de inversión de  
+acuerdo a lo establecido en los respectivos contratos. 
+ 
+Las tarifas del servicio público de electricidad son establecidas y actualizadas cada cuatro años por el 
+Organismo Supervisor de la Inversión en Energía y Minas – OSINERGMIN, un organismo técnico 
+descentralizado del sector de energía y minas (la tarifa vigente corresponde al periodo noviembre 
+2013 – octubre 201 7);  y, los precios de transferencia de potencia y energía entre las empresas 
+generadoras de energía, así como las compensaciones a los titulares de los siste mas de transmisión 
+son regulados por el Comité de Operación Económica del Sistema Interconectado Nacional – COES 
+– SINAC. 
+ El servicio público de electricidad en las zonas urbanas es facturado a las tarifas reguladas, más un 
+recargo de 1.026%, correspondie nte al Fondo de Compensación Eléctrica (FOSE) aplicado a los 
+usuarios que sobrepasen el consumo de 100 Kwh ., para compensar las tarifas reducidas aplicadas a 
+los usuarios de las zonas rurales y aisladas. El OSINERGMIN se encarga de fijar el porcentaje de 
+recargo y de liquidar el monto recaudado para distribuirlo entre las empresas distribuidoras cuyos 
+ingresos por el suministro de energía en las zonas rurales y aisladas son menores que los costos 
+correspondientes. 
+(c) Norma Técnica de Calidad de los Servicios Eléctricos - 
+ 
+Mediante Decreto Supremo N° 020-97-EM, se aprobó la Norma Técnica de Calidad de los Servicios 
+Eléctricos-NTCSE que establece los niveles mínimos de calidad de los servicios eléctricos, 
+incluyendo el alumbrado público, y las obligaciones de  las empresas del sector eléctrico y los 
+clientes que operan en el marco de la Ley de Concesiones Eléctricas. 
+ 
+La NTCSE contempla procedimientos de medición, tolerancias y una aplicación por etapas, 
+asignando la responsabilidad de su implementación y aplic ación a OSINERGMIN, así como la 
+aplicación, tanto a empresas eléctricas como a clientes, contemplando también compensaciones a los 
+usuarios en casos de incumplimiento de los parámetros establecidos por la norma. 
+ 
+
+=== PAGINA PDF 9 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+9 
+ 
+Actualmente, se encuentra en aplicación la Tercera Etapa de la NTCSE cuyo plazo de aplicación 
+según dicha norma es indefinido y a partir del 01 de julio del 2013 se amplió los alcances de NTCSE 
+a las localidades de los Sectores Típicos de Distribución 2 y 3 menores a 500 kW. 
+ 
+ (d) Ley Antimonopolio y Antioligopolio en el Sector Eléctrico – 
+ 
+El 18 de noviembre de 1997 se promulgó la Ley Antimonopolio y Antioligopolio en el Sector  
+Eléctrico, Ley N° 26876, la cual establece que las concentraciones verticales iguales o mayores  al 5 
+por ciento u horizont ales iguales o mayores al 15 por ciento que se produzcan en las  actividades de 
+generación, transmisión y distribución de energía eléctrica se sujetarán a un  procedimiento de 
+autorización previa a fin de evitar concentraciones que afecten la libre  competencia. Mediante 
+Resolución N° 012-99/INDECOPI/CLC, se establecen condiciones en  defensa de la libre 
+competencia y transparencia en el sector que afectan a la Empresa. 
+ 
+(e) Ley que establece el mecanismo para asegurar el suministro de electricidad para el 
+mercado regulado – 
+ 
+El 3 de ener o de 2008, se publicó la Ley N°  29179 que establece el mecanismo para asegurar el  
+suministro de electricidad para el mercado regulado. Esta ley indica que las demandas de  potencia y 
+energía destinadas al servicio público de  electricidad, que no cuenten con contratos de  suministro de 
+energía eléctrica que las respalden (mediante los mecanismos de licitación de  suministro de 
+electricidad establecidos en la Ley N° 28832, Ley para asegurar el desarrollo  eficiente de la 
+generación eléctrica, y/o mediante los contratos bilaterales suscritos al amparo  del Decreto Ley N°  
+25844, Ley de Concesiones Eléctricas), serán asumidas por los generadores,  conforme al 
+procedimiento que establezca OSINERGMIN. 
+ 
+Para tal fin, el monto faltante par a cerrar las transferencias de energía en el COES, debido a los  
+retiros de potencia y energía sin contrato valorizado a precios de barra del mercado regulado, se  
+asignará a los generadores en proporción a la energía firme eficiente anual del generador, men os sus 
+ventas de energía por contratos.  
+ 
+El incumplimiento de pago por parte de las distribuidoras a los generadores constituirá causal de  
+caducidad de la concesión en caso de  reincidencia. 
+ 
+ 
+3.      PRINCIPIOS Y PRACTICAS CONTABLES SIGNIFICATIVAS 
+3.1 Base de preparación  
+ 
+ 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (NIIF) emitidas por la “International Accounting Standard Board” (en 
+adelante “IASB”), y sus interpretaciones emitidas po r “IFRS Interpretations Committee” (“IFRIC”) 
+vigentes al 31 de diciembre de 2014. 
+ 
+Los estados financieros adjuntos han sido preparados sobre la base del costo histórico, excepto por 
+las inversiones financieras disponibles para la venta que han sido medidas a su valor razonable a 
+partir de los registros de contabilidad mantenidos por la Compañía.  Los estados financieros están 
+presentados en nuevos soles, su moneda funcional y de presentación, y todos los valores se 
+redondean a la unidad más próxima e n miles de Nuevos Soles, excepto cuando se indique lo 
+contrario. 
+ 
+
+=== PAGINA PDF 10 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+10 
+ 
+Las políticas de contabilidad adoptadas son consistentes con las aplicadas en años anteriores, excepto 
+por las nuevas NIIF y NIC’s revisadas que son obligatorias para los periodos que se ini cian en o 
+después del 1 de enero de 2014, sin embargo, debido a la estructura de la Compañía y la naturaleza 
+de sus operaciones, la adopción de dichas normas no tuvo un efecto significativo en su posición 
+financiera y resultados; por lo tanto, no ha sido n ecesario modificar los estados financieros 
+comparativos de la Compañía.  Dichas nuevas NIIF y NIC’s revisadas se describen a continuación: 
+ 
+- NIC 32 Instrumentos financieros: Presentación – Compensación de activos y pasivos 
+financieros (modificación) 
+La modificación precisa el significado de "cuenta actualmente con un derecho legal de 
+compensación” y los criterios de los mecanismos de solución no simultáneas de las cámaras de 
+compensación para tener derecho a la compensación.  Además, esta enmienda aclara  que para 
+compensar dos o más instrumentos financieros, las entidades deben tener un derecho de 
+compensación que no puede estar condicionado a un hecho futuro, y debe ser de cumplimiento 
+obligatorio las siguientes circunstancias: (i) el curso normal de sus  operaciones, (ii) un evento de 
+incumplimiento, y (iii) en caso de insolvencia o quiebra de la entidad o de cualquiera de las 
+contrapartes. 
+ 
+- NIC 36 Deterioro del valor de los activos (Enmiendas) 
+Estas enmiendas eliminan las consecuencias imprevistas de la NIIF 13 sobre las revelaciones 
+requeridas por la NIC 36.  Asimismo, las modificaciones también requieren la revelación de los 
+importes recuperables de los activos o unidades generadoras de efectivo para los que la pérdida por 
+deterioro ha sido reconocida o cuando se hayan reconocido reversiones en el periodo.  
+ 
+- NIC 39 Novación de derivados y continuidad de la contabilidad de coberturas 
+(modificaciones 
+Estas modificaciones proporcionan una excepción para suspender la contabilidad de coberturas 
+cuando se da l a novación de un derivado designado como un instrumento de cobertura que cumple 
+con ciertos criterios. 
+ 
+- CINIIF 21 Gravámenes 
+La CINIIF 21 aclara que una entidad reconoce un pasivo por un gravamen cuando se realiza la 
+actividad que dé lugar al pago, tal como se identifica en la legislación pertinente.  Para un gravamen 
+que se activa al alcanzar un umbral mínimo, la interpretación aclara que ningún pasivo debe ser 
+anticipado antes de alcanzar el umbral mínimo especificado. 
+ 
+ 
+4. POLITICAS CONTABLES SIGNIFICATIVAS 
+ 
+Las políticas contables significativas aplicadas uniformemente, salvo que se indique lo contrario, en 
+la preparación de los estados financieros, se resumen como sigue: 
+ 
+(a) Base de preparación y declaración de cumplimiento con las NIIF 
+ 
+Los estados financieros se preparan y presentan de acuerdo con las Normas e Interpretaciones 
+emitidas o adoptadas por el IASB, las cuales incluyen las NIIF, las Normas Internacionales de 
+Contabilidad (NIC), y las Interpretaciones emitidas por el Comité de Interpretaciones de las Normas 
+Internacionales de Información Financiera (CINIIF), o por el anterior Comité Permanente de 
+
+=== PAGINA PDF 11 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+11 
+ 
+Interpretación (SIC) – adoptadas por el IASB,  las que han sido adoptadas en Perú y representan la 
+adopción integral, explicita y sin reservas de las referidas normas internacionales. 
+En la preparación y presentación de los estados financieros al 31de diciembre de  2014 y de 2013, la 
+empresa ha observado el cumplimiento  de las Normas e Interpretaciones antes mencionadas. 
+(b) Responsabilidad de la información  y estimaciones realizadas  
+Los estados financieros de la Empresa son de responsabilidad de la Gerencia y muestran los 
+resultados de su gestión realizada con los recursos que les han sido confiados. En la preparación de 
+los estados financieros se han utilizado determinadas estimaciones contables para cuantificar el valor 
+de algunos de  los activos, pasivos, ingresos, gastos y compromisos que figuran registrados en los 
+estados financieros, en base a la experiencia y otros factores rel evantes. Los resultados finales de 
+dichas estimaciones podrían variar, dada la incertidumbre inherente de los supuestos utilizados. 
+La Gerencia estima que las diferencias, si las hubiera, no tendrían efectos significativos sobre los 
+estados financieros, basada en su conocimiento de los hechos relevantes y circunstancias a la fecha 
+de su preparación. Las principales áreas de incertidumbre vinculadas a las estimaciones y juicios 
+críticos están referidas a las siguientes estimaciones contables significativas c ontenidas en los 
+estados financieros: 
+- Estimación para deterioro de cuentas por cobrar. 
+- Estimación de las desvalorización de los inventarios 
+- Estimación de la vida útil  de las propiedades, planta y equipo, y estimación del deterioro de su 
+valor. 
+- Estimación de vida útil  de los activos intangibles y estimación  de su deterioro de valor. 
+- Determinación del impuesto a las ganancias diferidas. 
+- Determinación de los activos y pasivos diferidos por impuesto a la ganancia. 
+- Estimación de los ingresos de energía entregada y no facturada. 
+- Provisión por compras de energía recibida y no facturada.  
+- Estimación de provisiones por litigios. 
+- Probabilidad de las  contingencias. 
+ 
+Estas estimaciones son revisadas sobre una base continua y a pesar de que estas estimaciones se han 
+realizado en función de la mejor información disponible en la fecha de emisión de los presentes 
+estados financieros, es posible que acontecimientos que puedan tener lugar en el futuro obliguen a 
+modificarlas (al alza o a la baja) en próximos ejercicios, lo  que se haría de forma prospectiva, 
+reconociendo los efectos del cambio de estimación en los correspondientes estados financieros 
+futuros. 
+(c)  Traducción de moneda extranjera 
+Moneda funcional y moneda de presentación 
+La Empresa  prepara y presenta sus estados financieros en nuevos soles, que es la moneda funcional 
+determinada por la Gerencia. La moneda funcional es la moneda del entorno económico principal en 
+el que opera una entidad, aquella que influye en los precios de venta de los servicios que presta, entre 
+otros factores. 
+Transacciones y saldos  
+Las transacciones en moneda extranjera (cualquier moneda distinta a la moneda funcional) son 
+inicialmente trasladadas a la moneda funcional (Nuevos Soles) usando los tipos de cambio vigentes 
+en las fechas d e las transacciones. En la conversión de la moneda extranjera se utilizan los tipos de 
+cambio emitidos por la Superintendencia de Banca y Seguros y AFP. Los activos y pasivos 
+monetarios denominados en moneda extranjera son posteriormente ajustados a la mon eda funcional 
+
+=== PAGINA PDF 12 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+12 
+ 
+usando el tipo de cambio vigente en la fecha del estado de situación financiera. Las ganancias y 
+pérdidas por diferencia en cambio resultante de la liquidación de dichas transacciones y de la 
+traslación de los activos y pasivos monetarios en moneda extranjera a los tipos de cambio de fin de 
+mes, son reconocidas en el estado de resultados. 
+(d) Activos financieros 
+ 
+La Empresa clasifica sus activos financieros en las siguientes categorías: activos financieros a valor 
+razonable a través de ganancias y pérdidas, préstamos y cuentas por cobrar, activos financieros a 
+vencimiento y activos financieros disponibles para la venta .  La clasificación depende del propósito 
+para el cual se adquirieron los activos financieros.  La Gerencia determina la clasificación de sus 
+activos financieros a la fecha de su reconocimiento inicial.  Al 31 de diciembre de 2014 y 2013, la 
+empresa mantiene sólo activos financieros en la categoría de cuentas y préstamos por cobrar. 
+Las cuentas por cobrar son activos financieros no derivados que dan derecho a pagos fijos o 
+determinables y que no cotizan en un mercado activo.  Se incluyen en el activo corriente, excepto por 
+los de vencimiento mayor a 12 meses contados desde la fecha del estado de situación financiera.  
+Estos últimos se clasifican como no corrientes.  Los préstamos y las cuentas por cobrar se registran a 
+su costo amortizado por el método del interés efectivo. 
+ 
+Las diferencias de cambio que resulten de la variación en el valor razonable de los títulos valores 
+monetarios denominados en moneda distinta en la moneda funcional, se reconocen en resultados. 
+ 
+La Empresa evalúa a cada fecha del estado d e situación financiera, si existe evidencia objetiva de la 
+desvalorización o deterioro en el valor de un activo financiero o grupos de activos financieros.  Si 
+existe tal evidencia, este deterioro se reconoce en los resultados del periodo. 
+ 
+(e) Efectivo y equivalente de efectivo 
+ 
+El efectivo y equivalente de efectivo incluye el efectivo en caja y  depósitos de libre disponibilidad,  
+inversiones financieras de corto plazo altamente líquidas con vencimientos originales menores a tres 
+meses contados a partir de su fecha de adquisición, fácilmente convertibles en montos conocidos de 
+efectivo y no están sujetos a riesgos significativos de cambios en su valor. 
+ 
+(f) Cuentas por cobrar comerciales 
+ 
+Las cuentas por cobrar comerciales son activos financieros a corto plazo que se reconocen a su valor 
+nominal cuando: (a) el importe de los servicios prestados de potencia y distribución de energía 
+eléctrica, complementarios y de peaje, puede medirse con fiabilidad a las tarifas establecidas o 
+pactadas; (b) es probable que fluyan a la Empresa beneficios económicos; y, (c) puede medirse 
+confiablemente la cantidad de potencia y de energía eléctrica distribuida a los clientes y el grado de 
+terminación de los servicios prestados, así como los correspondientes costos incurridos. 
+ 
+Posteriormente, las cuentas por cobrar comerciales se miden al costo amortizado, a través del método 
+de interés efectivo. 
+Las cuentas por cobrar se presentan netas de la provisión por deterioro de valor, la cual es estimada 
+cuando exista evidencia objetiva de deterioro de que las cuentas por cobrar o un grupo de ellas, el 
+importe de la pérdida por deterioro se mide como la diferencia entre el importe en libros de la cuenta 
+por cobrar y el monto que se espera recuperar a dicha fecha. El importe de la pérdida por deterioro se 
+reconoce en el resultado del periodo. 
+ 
+ 
+
+=== PAGINA PDF 13 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+13 
+ 
+(g) Inventarios 
+ 
+Los inventarios s on medidos al costo o al valor neto reali zable, el que resulte menor. El valor neto 
+realizable es el precio de venta estimado en el curso normal del negocio, menos los co stos estimados 
+para poner las existencias en condiciones de venta y realizar su comercialización. El costo se 
+determina usando el método de promedio ponderado  diario, excepto en el caso de los materiales, 
+suministros y repuestos por recibir que se determinan usando el método de identificación especifica. 
+  
+Los materiales, suministros y repuestos son adquiridos para su uso en el mantenimiento y/o 
+construcción de las propiedades, planta y equipo; así como en la prestación de los servicios 
+complementarios a los clientes. 
+Cuando se estima que los inventarios han perdido valor por no tener el mismo potencial de servicio y 
+no se espera utilizarlos como resultado de su evaluación técnica, se reconoce  una desvalorización de 
+inventarios con cargo a resultados del ejercicio en el que ocurren tales reducciones. 
+(h) Propiedades, planta y equipo 
+ 
+Las propiedades, planta y equipo son medidos al costo de adquisición menos la depreciación 
+acumulada y el deterioro de valor. Los bienes de propiedad, planta y equipo son reconocidos c omo 
+activos cuando es probable obtener los beneficios económicos derivados del uso de los mismos y su 
+costo puede medirse con fiabilidad. 
+ 
+El costo es el precio en efectivo de adquisición de los bienes menos los descuentos, incluyendo 
+aranceles de importación, impuestos indirectos, los costos de financiamiento y aquellos incurridos 
+para darles su condición y ubicación actuales para operar en la forma prevista. 
+Las renovaciones y mejoras significativas que se incurren con posterioridad a la adquisici ón del 
+activo son incluidos en el valor en libros del activo o reconocidos como un activo separado, cuando 
+aumenta la productividad, capacidad o eficiencia o se amplia la vida útil del bien; asimismo, es 
+probable que generen un beneficio económico futuro, y el costo desembolsado  pueda determinarse 
+de forma fiable.  
+Las propiedades, planta y equipo incluyen las obras para la dotación de nuevos suministros o 
+ampliación de la potencia generada o contratada construidas por clientes, valorizada a su valor nuevo 
+de reemplazo (VNR), de acuerdo a la Ley de Concesiones Eléctricas.   
+Los desembolsos para  mantenimiento, conservación  y reparaciones rutinarios se reconocen  en el 
+estado de resultados cuando se incurren.  
+El costo de los componentes de elementos de prop iedad, planta y equipo que necesitan ser 
+reemplazados a intervalos regulares es reconocido como activo si representan beneficios económicos 
+futuros. El importe en libros de las partes sustituidas es dado de baja.  
+Los activos en etapa de construcción se ca pitalizan como un componente separado de propiedades, 
+planta y equipo. A su culminación y cuando se encuentran disponibles para su uso, el costo es 
+transferido a la categoría adecuada. Las obras en curso no se deprecian. 
+Los terrenos no se deprecian. La de preciación del resto de los activos se inicia cuando se encuentra 
+disponible para su uso, en la ubicación y en las condiciones necesarias para operar de la manera 
+prevista por la Gerencia. La depreciación cesa cuando el activo se clasifica como mantenido p ara la 
+venta o en la fecha de su retiro. 
+La depreciación anual del activo se reconoce como gasto y se determina  siguiendo el método de 
+línea recta, a tasas que se estiman suficientes para absorber el costo al término de la vida útil de los 
+bienes. 
+
+=== PAGINA PDF 14 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+14 
+ 
+Las estimaciones sobre la vida útil, valores residuales, de ser el caso, y el método de depreciación se 
+revisan periódicamente para asegurar que el método y el período de depreciación sean consistentes 
+con el patrón previsto de beneficios económicos de las partid as de propiedades, planta y equipo; de 
+ser necesario se procede al ajuste de la depreciación en la fecha de cada estado de situación 
+financiera 
+Los planes de mantenimiento de estos activos actúan como soporte fundamental dentro del modelo 
+de gestión en bús queda de eficiencia productiva en un mercado regulado que observa los costos de 
+depreciación y mantenimiento mayor y menor en el estimado de vida útil referenciadas por la 
+Comisión  de Tarifas Eléctricas. 
+Anualmente se determina la necesidad o no de efectu ar provisiones por pérdida por deterioro de 
+valor de un activo. Las provisiones reconocidas en años anteriores es revertida y reconocida en el 
+resultado del periodo (ganancia), si se hubiera producido posteriormente un incremento en las 
+estimaciones del valor recuperable del mismo. El importe en libros del activo se aumentará hasta su 
+valor recuperable, sin exceder el importe que tenía antes del reconocimiento del deterioro. 
+En concordancia con la Ley 28749, Ley General de Electrificación Rural y su Reglame nto D.S.025-
+2007-EM la Empresa recibe del MINISTERIO DE ENERGIA Y MINAS (MEM) Obras de 
+Electrificación en calidad de Transferencias las que ingresa como Propiedad, Planta y Equipo a su 
+Valor de Resolución, siendo posteriormente afectado a su valor de tasac ión, correspondiendo este 
+valor al importe de capital adicional que debe ser reconocido en acciones a favor de FONAFE. Por 
+otro lado y en conexión con la normatividad de electrificación recibe subsidios del MEM para la 
+ejecución de obras, las que en su por ción subsidiada es acreditada a Ingresos Diferidos para su 
+posterior reconocimiento. Su valor de registro en el activo es del valor monetario desembolsado más 
+el subsidio recibido/aportado. 
+En el caso de obras de electrificación rural transferidas por el Ministerio de Energía y Minas a la 
+Empresa en calidad de aportes, dichas obras han sido dadas de alta con tasación efectuado por un 
+perito contable independiente; siendo este costo estimado l a base para  depreciaciones y pruebas de 
+deterioro. 
+Debido a las características particulares de los activos mantenidos por la Empresa (difícil de ser 
+reutilizables y vendibles al final de su vida útil), la Gerencia,  conjuntamente con su área técnica, han 
+determinado que el valor residual de los mismos no es significativo; por lo que se considera que para 
+las estimaciones tiene valor cero. 
+Los costos de financiamiento incurridos en la adquisición o  construcción de activos aptos, se 
+capitalizan durante el t iempo requerido para finalizar y preparar el activo para el uso que se tiene 
+previsto. Otros costos financieros se registran como gastos financieros al momento de incurrirse. 
+Las ganancias o pérdidas que surgen en ventas o retiro de bienes de propiedades, planta y equipo se 
+incluyen en el estado de resultados y se calculan como la diferencia entre el valor de venta y el valor 
+neto contable del activo. 
+(i) Activos intangibles 
+ 
+Los activos intangibles son activos no monetarios, identificables, aunque sin aparienc ia física, que 
+surgen a través de la adquisición o son desarrollados internamente por la empresa. 
+ 
+Los activos intangibles con vidas útiles finita s  se reconocen al costo de adquisición, siendo su 
+presentación neta de  la amortización acumulada y deterioro de valor. 
+El costo incluye el costo de adquisición menos los descuentos, asimismo, los costos  
+complementarios directamente relacionados con la adquisición o desarrollo del  activo intangible. 
+
+=== PAGINA PDF 15 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+15 
+ 
+ La amortización se reconoce como gasto y se determina siguiendo el método de línea recta en base a 
+la vida útil estimada de los activos, representada por tasas de amortización equivalentes. La vida útil 
+de estos activos ha sido estimada de 1 a 10 años, por el área de Tecnología de la Información de la 
+Empresa. 
+Las estimaciones sobre la vida útil y el método de amortización se revisan periódicamente para 
+asegurar que el método y el periodo de amortización sean consistentes con el patrón previsto de 
+beneficios económicos de dichos activos. 
+(j) Pasivos financieros 
+ 
+Los pasivos financieros incluyen cuentas por pagar y otros pasivos financieros, se clasifican 
+conforme al contenido de los acuerdos contractuales pactados y teniendo en cuenta la sustancia 
+económica del contrato. 
+ 
+Los pasivos financieros se reconocen inicialmente a su valor razonable, neto de los costos de 
+transacción incurridos.  Estos pasivos se registran subsecuentemente a su costo amortizado; cualquier 
+diferencia entre los fondos recibidos (neto de los costos de transacción) y el valor de redención se 
+reconoce en el estado de resultados durante el periodo del pasivo usando el método de interés 
+efectivo. 
+ 
+Los pasivos financieros se clasifican en el pasivo corriente a menos que la Empresa tenga derecho 
+incondicional de diferir el pago de la obligación por lo menos 12 meses contados desde la fecha del 
+estado de situación financiera. 
+ 
+(k) Contribuciones reembolsables 
+ 
+Contribuciones reembolsables comprende los apo rtes recibidos de clientes y el costo asignado a las 
+obras construidas por los usuarios del servicio, y que luego mediante un convenio son transferidas a 
+la Empresa. Estas contribuciones se reconocen como propiedades, planta y equipo y otras cuentas 
+por pa gar a largo plazo, devengan intereses y son reembolsables a los clientes de acuerdo a lo 
+establecido por la Ley de Concesiones y su Reglamento. 
+ 
+(l) Pérdida por deterioro 
+ 
+La Empresa revisa periódicamente los importes en libros de sus activos tangibles e intangibles para 
+determinar si existen indicios de que dichos activos hayan sufrido una pérdida por deterioro de valor. 
+Si existe cualquier indicio, el importe recuperable del activo se calcula con el objeto de determinar el 
+alcance de la pérdida por deterioro de valor (si la hubiera). Donde no es posible estimar el valor 
+recuperable de un activo individual, la Empresa estima el valor recuperable  de la unidad generadora 
+de efectivo a l a que pertenece el activo. Donde se identifica una base consistente y razonable de 
+distribución, los activos comunes son también distribuidos a las unidades generadoras de efectivo 
+individuales o, en su defecto, al grupo más pequeño de unidades generadoras de efectivo para el cual 
+se identifica una base consistente y razonable de distribución. 
+ 
+El valor recuperable es el mayor valor entre el valor razonable menos el costo de venderlo y  los 
+flujos de efectivo futuros  estimados descontados a su valor actual, utilizando una tasa de descuento 
+antes de impuestos, que refleja las valoraciones actuales del mercado con respecto al valor del dinero 
+en el tiempo y los riesgos específicos del activo. 
+ 
+Si se estima que el valor  recuperable de un activo (o una unidad generadora de efectivo) es inferior a 
+su importe en libros, el importe en libros del activo (unidad generadora de efectivo) se deduce a su 
+importe recuperable. Inmediatamente se reconoce una pérdida por deterioro de valor como gasto a 
+
+=== PAGINA PDF 16 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+16 
+ 
+menos de que el activo correspondiente sea mantenido a valores de revaluación, en cuyo caso tales 
+pérdidas son reconocidas inicialmente como reducción a las reservas por revaluación. 
+ 
+Una pérdida por deterioro de valor se puede revertir posteriormente y registrarse como ingresos en la 
+utilidad del periodo, hasta el monto en que el valor en libros incrementando no supere el valor en 
+libros que se habría sido determinado de no haberse reconocido ninguna pérdida por deterioro de 
+valor para el activo (unidad generadora de efectivo) en años anteriores. 
+ 
+(m) Cuentas por pagar comerciales  
+ 
+Las cuentas por pagar comerciales se originan principalmente por la adquisición de compra de 
+energía y suministros necesarios para la operación y mantenimiento de l servicio y corresponden a 
+facturas emitidas por proveedores nacionales  y del exterior que están denominados principalmente 
+en moneda nacional, tiene vencimiento corriente menor a 45 días, y no generan interés. 
+ 
+Las cuentas por pagar se reconocen inicial mente a su valor razonable y posteriormente se redimen a 
+su costo amortizado usando el método de interés efectivo. 
+ 
+(n) Provisiones, pasivos contingentes y activos contingentes 
+ 
+Las provisiones se reconocen cuando la Empresa tiene una obligación presente (legal o implícita) 
+como resultado de un evento pasado, es probable que se requiera entregar recursos para liquidar  la 
+obligación y se puede estimar fiablemente el monto de la obligación.  
+ 
+Las provisiones se revisan en cada período y se ajustan para reflejar la  mejor estimación al final del 
+periodo sobre el que se informa, del desembolso necesario para cancelar la obligación presente, éstas 
+estimaciones están  basadas en la evalu ación racional del efecto económico de cada desenlace 
+posible,  el juicio de la Gerencia, la experiencia en casos similares, informe de expertos y cualquier 
+información adicional relacionada.  
+Las provisiones se revierten contra resultados cuando es menor la posibilidad de ocurrencia de que 
+exista una salida de recursos para cancelar tal obligación. 
+Los pasivos contingentes no se reconocen en el estado de situación financiera y solo requieren 
+revelación en las notas a los estados  financieros, dado que es posible que se genere  una salida de 
+recursos.  
+Los activos contingentes no se reconocen en los estados financieros, sólo se revelan en nota a los 
+estados financieros cuando es probable que se produzca un ingreso de recursos. 
+Los activos y pasivos contingentes son objeto de evaluación continua para reflejar oportunamente el 
+cambio de probabilidad de ocurrencia, de remota o posible a probable, en cuyo caso son reconocidos 
+en el estado de situación financiera. 
+(o) Beneficios a los empleados 
+ 
+Los beneficios a los empleado , i ncluyen remuneraciones, vacaciones,  gratificaciones, 
+participaciones, entre otros; los beneficios a los empleados son reconocidos como un pasivo y un 
+gasto devengado  del periodo en que los servicios son prestados. 
+La e mpresa  define los beneficios a los empleados como todos los tipos de retribuciones 
+proporcionadas a los trabajadores a cambio de los servicios prestados. Los beneficios a los 
+empleados están constituidos por beneficios a corto plazo y beneficios post-empleo. Los beneficios a 
+corto plazo identificados por la empresa al cierre de ejercicio, corresponden a sueldos, salarios y 
+aportes a la seguridad social, vacaciones y gratificaciones, y participaciones en las utilidades. 
+
+=== PAGINA PDF 17 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+17 
+ 
+La contabilización de los beneficios a corto plazo a los empleados es generalmente inmediata, puesto 
+que no es necesario plantear ninguna hipótesis actuarial para medir las obligaciones. 
+Los beneficios post -empleo corresponden a compensación por tiempo de servicios  y pensión de 
+jubilación para los empleados que se encuentran bajo el alcance de la Ley No 20530. 
+Remuneraciones 
+Los sueldos, salarios y aportes a la seguridad social se reconocen mediante un gasto en el ejercicio 
+en que se incurren. Este beneficio es registrado a su valor nominal. 
+Vacaciones y gratificaciones 
+La provisión por la obligación estimada por vacaciones anuales del personal resultantes de servicios 
+prestados por los empleados se reconoce en la fecha del estado de situación financiera. Las 
+gratificaciones del personal se reconocen por el método del devengado y se determina de acuerdo a 
+disposiciones laborales vigentes. Las vacaciones anuales y las gratificaciones del personal se 
+reconocen a su valor nominal. 
+Participación de trabajadores 
+La empresa reconoce un pasivo y un gasto por participación de los trabajadores en las utilidades 
+sobre la base de las disposiciones legales vigentes. La participación de los trabajadores en las 
+utilidades equivale a   5% de la materia imponible determinada de acuerdo con la legislación del 
+impuesto a la renta vigente. Este beneficio es reconocido a su valor nominal. 
+Compensación por tiempo de servicio 
+La provisión para compensación por tiempo de servicios del personal se constituye por el integro de 
+los derechos indemnizatorios de acuerdo con la legislación vigente y se muestra neta de los depósitos 
+efectuados con carácter cancelatorio. El gasto es  rec onocido a su valor nominal por el método del 
+devengo.  
+Pensiones de jubilación 
+La empresa reconoce un pasivo por pensiones de jubilación con base de un plan de beneficios 
+definido y de acuerdo a lo dispuesto en la Ley No 20530. La provisión de pensiones de  jubilación se 
+mide a su valor actual de la obligación en la fecha de cierre de los estados financieros, determinados 
+teniendo en cuenta los informes de los estudios actuariales, sobre la base de la población y tabla de 
+mortalidad.  Dicho valor fue calcula do descontando los flujos de salida de efectivo futuros 
+estimados, a una tasa de interés anual del 4%.Las pérdidas y ganancias que surgen de ajustes por la 
+experiencia y cambios en las hipótesis actuariales se cargan o abonan en el estado de resultados en el 
+período en que ocurren. 
+(p) Ingresos diferidos 
+ 
+Los ingresos diferidos corresponden a los subsidios que otorga el Ministerio de Energía y Minas para 
+ejecución de obras de electrificación rural. Estas partidas se registran como Ingresos diferidos en el 
+estado de situación financiera y se reconocen en resultados sobre una base sistemática del valor de la 
+depreciación a lo largo de la vida útil estimada del activo correspondiente. 
+(q)  Distribución de dividendos 
+ 
+La distribución de dividendos a los accionistas se reconoce como  pasivo en los estados financieros 
+en el período en el que los dividendos son declarados y aprobados por los accionistas de la empresa o 
+cuando se configura la obligación correspondiente en función de las disposiciones legales vigentes o 
+las políticas de distribución establecidas por la Junta de Accionistas. 
+
+=== PAGINA PDF 18 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+18 
+ 
+(r)  Clasificación de saldos en corrientes y no corrientes 
+ 
+En el estado de situación financiera, los saldos se clasifican en función de sus vencimientos o plazos 
+estimados de realización, como corrientes los con vencimiento igual o inferior a doce meses 
+contados desde la fecha de corte de los estados financieros, y como no corrientes, los mayores a ese 
+período. 
+En el caso que existan obligaciones cuyo vencimiento es inferior a doce meses, p ero cuyo 
+refinanciamiento a largo plazo se encuentre asegurado, se reclasifican como no corrientes. 
+(s)  Reconocimiento de ingresos  
+ 
+El ingreso se reconoce cuando se produce la entrada bruta de beneficios económicos originados en el 
+curso de las actividades o rdinarias la empresa durante el ejercicio. Siempre que dicha entrada de 
+beneficios genere un aumento en el patrimonio que no esté relacionado con las aportaciones de los 
+propietarios de ese patrimonio y estos beneficios puedan ser medidos con fiabilidad. L os ingresos se 
+miden por el valor razonable de la contrapartida  recibida o a recibir, derivada de los mismos. 
+El ingreso comprende el valor facturado por la venta de servicios, netos  del impuesto general a las 
+ventas, devoluciones, rebajas y descuentos.  
+Los ingresos por la prestación de servicios de  distribución de energía se facturan mensualmente en 
+base a lecturas cíclicas, y son reconocidos como un ingreso en el periodo en el que se presta el 
+servicio.  El ingreso por energía entregada y no facturada  entre la última lectura cíclica y el fin de 
+cada mes se incluye en la facturación del mes siguiente, pero se reconoce como un ingreso en el mes 
+en el que se entrega la energía, en base al consumo estimado de energía utilizada por el usuario del 
+servicio durante el referido periodo. 
+Los ingresos por intereses compensatorios y moratorios que se determinan sobre la base de las 
+facturas vencidas, se reconocen como ingresos en la fecha de su facturación en la cuenta ingresos 
+financieros en el estado de resultados. 
+Los ingresos por intereses sobre depósitos  se reconocerán sobre una base devengada en proporción 
+del tiempo transcurrido, de forma que reflejen el rendimiento efectivo del instrumento financiero. 
+(t) Reconocimiento de costos y gastos 
+ 
+El costo del servicio corresponde al costo de compra de energía, costo de generación, distribución, 
+transmisión de energía eléctrica, se reconocen cuando se incurren en el consumo de energía o se 
+reciben los servicios, independientemente si se facturo o no el servicio. 
+Los otros costos y gastos se reconocen a medida que devengan, independiente del momento en que 
+se paguen, y se registran en los períodos con los cuales de relacionan. 
+ 
+(u) Impuesto a las ganancias 
+ 
+Los impuestos a las ganancias por el período corriente se rec onocen como gasto o ingreso, y se 
+calcula por el monto que se espera será pagado o recuperado a las autoridades tributarias. Las normas 
+legales y tasas usadas para calcular los importes a pagar son las que están vigentes en la fecha del 
+estado de situación financiera. 
+ 
+Los impuestos a las ganancias corriente y diferido se incluyen en la determinación de la ganancia o 
+pérdida neta del ejercicio, excepto si tales impuestos se relacionan con partidas reconocidas en otros 
+resultados integrales o directamente en  patrimonio, en cuyo caso, el impuesto a las ganancias 
+corriente y diferido  es también reconocido en otros resultados integrales o directamente en 
+patrimonio, respectivamente. 
+
+=== PAGINA PDF 19 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+19 
+ 
+El impuesto a las ganancias diferido es reconocido usando el método del pasivo por la diferencia 
+temporal entre la base tributaria y la base contable de los activos y pasivos en la fecha del estado de 
+situación financiera. 
+El activo por impuesto a las ganancias diferidas se reconoce por las diferencias temporales 
+deducibles que surgen al comprar el valor en libros de los activos y pasivos y su base tributaria, en la 
+medida en que sea probable que en el futuro, la Empresa disponga de suficiente renta gravable contra 
+la cual pueda aplicar las diferencias temporales que reviertan. 
+El importe en libros de un activo por impuestos a las ganancias diferidos se reduce cuando se estime 
+probable que en el futuro no se dispondrá de suficiente ganancia tributaria, para permitir su 
+recuperación. Si posteriormente se recupera la expectativa de sufic iente ganancia tributaria futura, 
+esta reducción deberá ser objeto de reversión. 
+El pasivo por impuesto a las ganancias diferido se reconoce por todas las diferencias temporales 
+gravables que surgen al comprar el valor en libros de los activos y pasivo y s u base tributaria, sin 
+tener en cuenta el momento en que se estime que las diferencias temporales que le dieron origen, 
+serán reversadas.  
+Los activos y pasivos diferidos se miden empleando las tasas tributarias que se espera sean de 
+aplicación en el perio do que el activo se recupere y el pasivo se cancele, basándose en las tasas y 
+leyes fiscales aprobadas al final del periodo sobre el que se informa. 
+La medición de los activos y pasivos por impuestos diferidos refleja las consecuencias fiscales que se 
+derivan de la forma en que la Empresa espera recuperar o liquidar el importe en libros de sus activos 
+y pasivos a la fecha del estado de situación financiera. 
+Los activos y pasivos diferidos son compensados si existe el derecho legal de compensarlos y los 
+impuestos se relacionan con la misma entidad y la misma autoridad tributaria. 
+ 
+4.1 NUEVOS PRONUNCIAMIENTOS CONTABLES 
+ 
+La empresa decidió no adoptar anticipadamente las siguientes normas e interpretaciones que fueron 
+emitidas por el IASB, pero que no son efectivas al 31 de diciembre de 2014: 
+- NIIF 9 "Instrumentos financieros: Clasificación y Medición"  
+En julio de 2014, el IASB emitió la versión final de la NIIF 9 Instrumentos Financieros, la cual 
+refleja todas las fases del proyecto de instrumentos financi eros y reemplaza a la NIC 
+39”Instrumentos Financieros: Reconocimiento y Medición” y a todas las versiones previas de la 
+NIIF 9.  La norma introduce nuevos requerimientos para la clasificación y medición, deterioro, y 
+contabilidad de cobertura.  La NIIF 9 e ntra en vigencia para los periodos anuales a partir del 1 de 
+enero de 2018, y se permite la adopción anticipada.  Se requiere la aplicación retrospectiva, pero la 
+información comparativa no es obligatoria.  La aplicación anticipada de las versiones previas  de la 
+NIIF 9 (2009, 2010 y 2013) se permite si la fecha de la aplicación inicial es anterior al 1 de febrero 
+de 2015.  La adopción de la NIIF 9 tendrá un efecto en la clasificación y medición de los activos 
+financieros de la empresa, pero no afecta a la clasificación y medición de los pasivos financieros. 
+ 
+- Modificaciones a la NIC 19 “Planes de beneficios definidos: Contribuciones de los 
+Empleados” 
+La NIC 19 requiere que una entidad considere las contribuciones de los empleados o de terceros 
+cuando registre  los planes de beneficios definidos.  Cuando las contribuciones están ligadas a un 
+servicio, éstas deben ser atribuidas a los periodos del servicio como un beneficio negativo.  Estas 
+
+=== PAGINA PDF 20 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+20 
+ 
+modificaciones precisan que, si el importe de las contribuciones es independiente del número de años 
+de servicio, se permite a la entidad reconocer dichas contribuciones como una reducción del costo 
+del servicio en el periodo en el cual el servicio es prestado, en lugar de alocar las contribuciones a los 
+periodos del servicio.  Esta modificación es efectiva para los periodos anuales que empiecen en o a 
+partir del 1 de julio de 2014.  
+ 
+- NIIF 15, Ingresos procedentes de los contratos con clientes 
+La NIIF 15 fue emitida en mayo de 2014 y establece un nuevo modelo de cinco pasos que se aplicará 
+a los ingresos procedentes de los contratos con los clientes.  Bajo la NIIF 15 los ingresos se 
+reconocen por un importe que refleja la consideración de que la  entidad espera tener derecho a 
+cambio de la transferencia de bienes o servicios a un cliente.  Los principios de la NIIF 15 
+proporcionan un enfoque más estructurado para la medición y el reconocimiento de ingresos.  El 
+nuevo estándar para reconocer los ingresos es aplicable a todas las entidades y reemplazará todos los 
+requisitos actuales de reconocimiento de ingresos bajo NIIF.  La aplicación retroactiva completa o 
+modificada es requerida para períodos anuales que comiencen en o después del 1 de enero 201 7, la 
+adopción anticipada es permitida.  
+ 
+- Modificaciones a la NIC 27: Método de participación patrimonial en los estados financieros 
+separados 
+Las modificaciones permiten a las entidades utilizar el método de participación patrimonial para 
+contabilizar las inversiones en subsidiarias, negocios conjuntos y asociadas en sus estados 
+financieros separados.  Las entidades que ya aplican NIIF y que eli jan cambiar al método de 
+participación patrimonial en sus estados financieros separados tendrán que aplicar dicho cambio 
+retrospectivamente.   
+ 
+Las modificaciones serán efectivas para los periodos que inicien en o a partir del 1 de enero de 2016, 
+con adopción anticipada permitida.   
+ 
+- Modificaciones a la NIC 16 y NIC 38: Precisión de métodos de depreciación y amortización 
+aceptables 
+Las modificaciones precisan el principio en la NIC 16 y en la NIC 38 que establece que los ingresos 
+reflejan un patrón de ben eficios económicos que son generados por la operación de un negocio (del 
+cual el activo es parte) en lugar de los beneficios económicos que son consumidos a través del uso 
+del activo.  Como resultado, un método basado en los ingresos no puede ser usado par a depreciar 
+propiedades, planta y equipos y solo puede ser usado en circunstancias muy limitadas para amortizar 
+activos intangibles.  Las modificaciones son efectivas prospectivamente para periodos que empiecen 
+en o a partir del 1 de enero de 2016 con adop ción anticipada permitida.  La Gerencia estima que 
+estas modificaciones no tendrán un impacto para la empresa, dado que la empresa no ha utilizado un 
+método basado en los ingresos para depreciar sus activos no corrientes. 
+ 
+La empresa está en proceso de eva luar el impacto de la aplicación de estas normas, si lo hubiere, en 
+sus estados financieros, así como en las revelaciones de sus notas. 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 21 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+21 
+ 
+5 ADMINISTRACION DE RIESGOS FINANCIEROS 
+ 
+5.1 Factores de riesgo financiero 
+ 
+ Las actividades de la Empresa la exponen a ciertos riesgos financieros cuyos potenciales efectos 
+adversos son permanentemente evaluados por el Directorio y la Gerencia de la Empresa, a efectos de 
+minimizarlos.  Los riesgos financieros son riesgo de mercado (incluye el riesgo de tipo de ca mbio, 
+riesgo de precio, riesgo de tasa de interés), riesgo de crédito y riesgo de liquidez. 
+El programa de administración de riesgos financieros de la Empresa comprende la identificación, 
+evaluación y acciones de cobertura de los riesgos a que está expuest a la Empresa en el curso normal 
+de sus operaciones. La Gerencia de Administración y Finanzas tiene a su cargo la administración de 
+riesgos financieros, como sigue: 
+ 
+(a) Riesgo de mercado, representados por: 
+ 
+a1) Riesgo de tipo de cambio 
+La Empresa no mantiene una posición significativa de instrumentos financieros en moneda 
+extranjera ni exposición al riesgo de pérdidas por fluctuaciones en el tipo de cambio. 
+ 
+Los saldos de activos y pasivos en moneda extranjera al 31 de marzo de 2015 y al 31de diciembre 
+2014 corresponden a saldos en dólares estadounidenses, se convierten a la moneda funcional a los 
+tipos de cambio promedio ponderado,  publicado por la Superintendencia de Banca, Seguros y AFP 
+(SBS). 
+ 
+Al 31de marzo de 2015, el tipo de cambio venta  fue de S/.  3.097 y el tipo de cambio de compra fue 
+de S/. 3.094 (S/. 2.989 venta y S/. 2.961 compra al 31de diciembre del 2014). 
+ 
+Los activos y pasivos en moneda extranjera se resumen como sigue: 
+ 
+2015 
+ 
+2014 
+ 
+US$ 000 
+ 
+US$ 000 
+Activos: 
+   Efectivo y equivalentes de efectivo 55  5 
+Cuentas por cobrar a relacionadas 410 
+ 
+332 
+Otras cuentas por cobrar 5,377 
+ 
+1,315 
+Total Activos 5,842 
+ 
+1,652 
+    Pasivos: 
+   Cuentas por pagar comerciales 1,424 
+ 
+960 
+Cuentas por pagar a entidades relacionadas 1,247 
+ 
+1,247 
+Otras cuentas por Pagar 22 
+ 
+22 
+Total Pasivos 2,693 
+ 
+2,229 
+    Posición activo (pasivo) neto 3,149 
+ 
+-577 
+ 
+ 
+El resultado del mantenimiento de activos y pasivos en moneda extranjera, se presenta a 
+continuación: 
+ 
+ 
+
+=== PAGINA PDF 22 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+22 
+ 
+ 
+2015 
+ 
+2014 
+ 
+S/.000 
+ 
+S/.000 
+    Ganancia por diferencia de cambio (Nota 32) 242   99 
+Pérdida por diferencia de cambio (Nota 32) -386   -215 
+ 
+-145 
+ 
+-116 
+ 
+ 
+a2) Riesgo de precios 
+ 
+ La Empresa opera en un mercado en el que los precios de compra y de distribución de energía 
+son regulados y de aplicación obligatoria por todas las empresas integrantes del sistema de 
+generación, transmisión y distribución de energía eléctrica del país. Las tarifas de precios 
+regulados de compra y venta de energía son actualizadas periódicamente por el OSINERGMIN, 
+organismo regulador, cuidando el interés público y la rentabilidad adecuada de la inversión en la 
+industria. Adicionalmente se efectúan contratos con usuarios denominados libres, con quiénes 
+se acuerdan precios entre las partes.   Asimismo, la gerencia no espera que éstos varíen de 
+manera significativa en los próximos doce meses. 
+ 
+La Empresa tiene una pequeña inversión en valores mobiliarios de Agroindustrias San Jacinto, 
+Complejo Agroindustrial Cartavio y Telefónica, por un total de S/. 3’870,907 representados por 
+títulos de patrimonio con  cotización, susceptibles al riesgo de prec ios de mercado en relación 
+con los valores futuros de los títulos. La Gerencia estima que el riesgo de pérdidas es bajo dada 
+la sólida y rentable calidad de los títulos y que este riesgo no afectará significativamente los 
+resultados de la Empresa.  
+ 
+a3) Riesgo de tasa de interés 
+ 
+ La Empresa no tiene activos ni pasivos significativos que generan intereses. 
+ 
+La Gerencia considera como bajo el riesgo de tasas de interés y que no afectará 
+significativamente los resultados futuros de la Empresa. 
+ 
+ 
+La posición de activos y pasivos financieros al 31 de marzo de 2015 es como sigue: 
+ 
+ 
+ 
+Con 
+ 
+Sin 
+ 
+Total 
+ 
+Tasa 
+promed 
+ 
+Intereses 
+ 
+  
+ 
+  
+ 
+de interés 
+ 
+S/.000 
+ 
+S/.000 
+ 
+S/.000 
+ 
+% 
+2015 
+       Activos financieros: 
+       Efectivo y equivalentes de efectivo 4,200,000 
+ 
+9,548,659 
+ 
+13,748,659 
+ 
+3.77% 
+Inversiones Financieras 0 
+ 
+3,870,907 
+ 
+3,870,907 
+  Cuentas por cobrar comerciales 1,615,742 
+ 
+102,144,481 
+ 
+103,760,223 
+  Cuentas por cobrar relacionadas 0 
+ 
+10,536,552 
+ 
+10,536,552 
+  Otras cuentas por cobrar 0 
+ 
+11,045,072 
+ 
+11,045,072 
+  Total 5,815,742 
+ 
+137,145,671 
+ 
+142,961,413 
+  
+        
+
+=== PAGINA PDF 23 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+23 
+ 
+Pasivos financieros: 
+       
+Otros pasivos financieros 65,811,130 
+ 
+6,691,944 
+ 
+72,503,074 
+ 
+4.42 a 
+4.63% 
+Cuentas por pagar comerciales 0 
+ 
+100,533,662 
+ 
+100,533,662 
+  Cuentas por pagar relacionadas 3,890,089 
+ 
+10,595,074 
+ 
+14,485,163 
+ 
+4.70% 
+Otras cuentas por pagar 
+  
+37,923,881 
+ 
+37,923,881 
+  Contribuciones reembolsables 25,580,538 
+ 
+0 
+ 
+25,580,538 
+ 
+9.04% 
+Total 95,281,757 
+ 
+155,744,561 
+ 
+251,026,318 
+  
+         
+ 
+ 
+La posición de activos y pasivos financieros al 31de diciembre de 2014 es como sigue: 
+ 
+Con 
+ 
+Sin 
+ 
+Total 
+ 
+Tasa 
+promed 
+ 
+Intereses 
+ 
+  
+ 
+  
+ 
+de interés 
+ 
+S/.000 
+ 
+S/.000 
+ 
+S/.000 
+ 
+% 
+2014 
+       Activos financieros: 
+       Efectivo y equivalentes de efectivo 0 
+ 
+14,602,224 
+ 
+14,602,224 
+  Inversiones Financieras 0 
+ 
+4,445,309 
+ 
+4,445,309 
+  Cuentas por cobrar comerciales 1,752,661 
+ 
+89,602,274 
+ 
+91,354,935 
+  Cuentas por cobrar relacionadas 0 
+ 
+8,310,134 
+ 
+8,310,134 
+  Otras cuentas por cobrar 0 
+ 
+10,654,682 
+ 
+10,654,682 
+  Total 1,752,661 
+ 
+127,614,623 
+ 
+129,367,284 
+  
+        Pasivos financieros: 
+       
+Otros pasivos financieros 72,306,368 
+ 
+874,519 
+ 
+73,180,887 
+ 
+4.42 a 
+4.67% 
+Cuentas por pagar comerciales 0 
+ 
+87,041,620 
+ 
+87,041,620 
+  Cuentas por pagar relacionadas 4,637,607 
+ 
+10,461,987 
+ 
+15,099,594 
+ 
+4.70% 
+Otras cuentas por pagar 
+  
+32,489,354 
+ 
+32,489,354 
+  Contribuciones reembolsables 23,477,139 
+ 
+0 
+ 
+23,477,139 
+ 
+8.97% 
+Total 100,421,114 
+ 
+131,137,480 
+ 
+231,288,594 
+   
+ 
+Los ingresos y gastos por intereses se resumen como sigue: 
+ 
+ 
+ 
+ 
+2015 
+ 
+2014 
+ 
+S/.000 
+ 
+S/.000 
+Ingresos por intereses ( Nota 30 ) 746 
+ 
+586 
+Gastos por intereses (Nota 31 ) 1,566 
+ 
+791 
+     
+ 
+ 
+
+=== PAGINA PDF 24 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+24 
+ 
+La Gerencia considera que el riesgo de cambios adversos en las tasas de interés no afectará 
+significativamente los resultados de la Empresa, considerando que su endeudamiento a corto y largo 
+plazo no es significativo, y devengan intereses a tasas fijas similares a las de mercado. 
+ 
+(b) Riesgo de crédito  
+ 
+Los activos expuestos al riesgo de cr édito comprenden depósitos en 11 instituciones financieras de 
+primera categoría y cuentas por cobrar comerciales a una amplia base de clientes (765,921 en 2015 y 
+755,468 en 2014).  La gerencia estima que el riesgo crediticio es bajo, teniendo en cuenta solvencia y 
+solidez de las instituciones financieras, así como la naturaleza del servicio público básico de 
+suministro de energía eléctrica que presta a una amplia base de clientes, de acu erdo con regulaciones 
+estrictas. El servicio es suspendido a los clientes con deudas vencidas que exceden 2 meses. 
+ 
+La necesidad de registrar una provisión por deterioro se analiza a cada fecha del período sobre el que 
+se informa.  El cálculo de esta provisión se basa en información histórica real. 
+ 
+(c) Riesgo de liquidez 
+ 
+La Empresa mantiene adecuados niveles de efectivo, lo que le permite no recurrir a líneas de crédito  
+para cumplir con el pago de sus obligaciones a su vencimiento. A continuación se presenta el 
+resumen del vencimiento de los pasivos financieros:  
+ 
+ 
+ 
+2015 
+ 
+2014 
+ 
+S/.000 
+ 
+S/.000 
+A la vista 
+   Menos de 3 meses 12,126 
+ 
+11,149 
+De 3  a 12 meses 88,610 
+ 
+66,757 
+De 13 a 24 meses 150,290 
+ 
+153,382 
+Más de 24 meses 
+   Total 251,026 
+ 
+231,289 
+ 
+ 
+ 
+5.2 Administración del riesgo de la estructura de capital 
+ 
+Los objetivos de la empresa al administrar el capital son el salvaguardar su capacidad de continuar 
+como empresa en marcha con el propósito de generar retornos a sus accionistas, beneficios a otros 
+grupos de interés y mantener una estructura de capital óptima para reducir el costo del capital. 
+ 
+La compañía evalúa su ratio de apalancamiento usando la relación deuda total con patrimonio, la 
+misma que trata de mantener alrededor de 1.00.  El ratio de apalancamiento fue como sigue: 
+ 
+ 
+2015 
+ 
+2014 
+ 
+S/.000 
+ 
+S/.000 
+Deuda Total (A) 403,678 
+ 
+381,425 
+Patrimonio Total (B) 1,006,581 
+ 
+991,829 
+Ratio de apalancamiento (A) / (B) 0.40 
+ 
+0.38 
+ 
+ 
+  
+
+=== PAGINA PDF 25 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+25 
+ 
+5.3 Estimación del valor razonable de los instrumentos financieros 
+ 
+El valor razonable es el importe por el cual puede ser intercambiado un activo, o cancelado un 
+pasivo, entre un comprador y un vendedor interesado y debidamente informado, que realizan una 
+transacción libre. La Gerencia considera que el importe en libros es similar al valor razonable cuando 
+los activos y pasivos financieros son líquidos o tienen vencimiento menor de tres meses, tales como 
+efectivo, cuentas por cobrar comerciales, otras cuentas por cobrar, cuentas por pagar comerciales y 
+otras cuentas por pagar. 
+ 
+ 
+6 EFECTIVO Y EQUIVALENTES DE EFECTIVO    
+ 
+Comprende: 
+ 
+ AL 31.03.2015  AL 31.12.2014 
+ S/.000  S/.000 
+Dinero en efectivo 967  625 
+Fondos fijos 189   
+Cuentas Corrientes en Instituciones Financieras   
+ 
+ 
+   En nuevos soles 8,392  13,977 
+Depósitos a Plazo 4,200   
+    
+Total 13,749  14,602 
+ 
+ 
+El efectivo en las cuentas corrientes bancarias en moneda nacional y extranjera se encuentra 
+depositado en bancos locales y son de libre disponibilidad.  Las cuentas corrientes no generan 
+intereses a excepción de la remunerada que se mantiene con el BIF. 
+7 CUENTAS POR COBRAR COMERCIALES  
+Comprende: 
+ AL 31.03.2015  AL 31.12.2014 
+ S/.000  S/.000 
+Corriente:    
+Facturación venta de energía terceros 100,507  87,643 
+Facturación venta de energía relacionadas  ( Nota 9) 220  351 
+Cuotas de Convenio 1,616  1,753 
+Peajes  1,418  1,608 
+Cobranza dudosa facturación optimus 15,345  14,958 
+Cobranza dudosa-letras por cobrar 446  446 
+Prov Cob dudosa - otras cuentas por cob diversas 3,955  3,955 
+Sub total 123,505  110,713 
+Menos: Deterioro  de cuentas por cobrar   
+ Provisión Cobranza dudosa facturación optimus -15,790  -15,404 
+Prov Cob dudosa - otras cuentas por cob diversas -3,955  -3,955 
+Total 103,760  91,355 
+ 
+ 
+
+=== PAGINA PDF 26 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+26 
+ 
+Los recibos de venta de energía están denominados en nuevos soles, y tienen un v encimiento 
+promedio de 15 días, garantías específicas y devengan intereses  compensatorios y moratorios a su 
+vencimiento. 
+La Empresa está obligada a atender a cualquier cliente regulado que solicite suministro en su zona de 
+concesión siempre y cuando no te nga deudas por otros suministros y abone el costo de adquirir su 
+conexión, pudiendo por  ley mantenerlo con servicio hasta un máximo de 2 facturas impagas hasta su 
+vencimiento antes de suspenderle el mismo. En el caso de clientes libres se evalúa adicionalmente su 
+experiencia crediticia antes de suscribir un contrato y establecer fechas límites de pago, esta 
+información es revisada anualmente. 
+ 
+La estimación para deterioro de cuentas por cobrar se determina de acuerdo con las políticas 
+establecidas por la G erencia y se reconoce considerando, entre otros factores, los saldos pendientes 
+de cobro con una antigüedad mayor a 240 días, sus posibilidades de ser recuperados, y la evidencia 
+de dificultades financieras del deudor que incremente más allá de lo normal e l riesgo de 
+incobrabilidad de los saldos pendientes de cobro, de modo que su monto tenga un nivel que la 
+Gerencia estime adecuado para cubrir eventuales pérdidas en las cuentas por cobrar a la fecha del 
+estado de situación financiera. 
+ 
+El monto de la estimación se reconoce con cargo a los resultados del ejercicio. Los cobros 
+posteriores se reconocen con crédito a los resultados del ejercicio. Los criterios básicos para dar de 
+baja los activos financieros deteriorados contra dicha cuenta de valuación so n los siguientes: (i) 
+agotamiento de la gestión de cobranza, incluyendo ejecución de garantías; y (ii) dificultades 
+financieras del deudor que evidencien la imposibilidad de hacer efectiva la cobranza de la cuenta por 
+cobrar. 
+Las cuentas por cobrar comerciales incluyendo las de vencimiento corriente y no corriente presentan 
+la siguiente antigüedad: 
+ AL 31.03.2015  AL 31.12.2014 
+ S/.000  S/.000 
+Por Vencer 80,869  71,444 
+Vencidas hasta 30 días 18,985  17,548 
+Vencidas más de 30 días y hasta 60 días 1,358  708 
+Vencidas más de 60 días y hasta 180 días 1,761  891 
+Vencidas más de 180 días y hasta 240 días 787  764 
+Vencidas más de 240 días (8 meses) 19,745  19,359 
+Total 123,505  110,713 
+ 
+El movimiento en la estimación para deterioro de cuentas por cobrar ha  tenido el siguiente 
+movimiento: 
+ 
+ AL 31.03.2015  AL 31.12.2014 
+ S/.000  S/.000 
+Saldo al principio del año 19,359  18,585 
+Adiciones 415  1,176 
+Deducciones:  0  -230 
+  Castigos   
+   Recuperaciones -29  -172 
+Saldos al fin del año 19,745  19,359 
+ 
+ 
+
+=== PAGINA PDF 27 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+27 
+ 
+La estimación de cobranza dudosa del año se debito a los gastos de ventas en el estado de resultados 
+en la cuenta provisiones (nota 26) 
+ 
+En opinión de la gerencia, la estimación por deterioro de cuentas por cobrar al 3 1 de marzo de 2015  
+y 31  de diciembre del 201 4 cubre adecuadamente el riesgo de crédito  de estas partidas  a esas 
+fechas. 
+8 OTRAS CUENTAS POR COBRAR 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+Corriente: S/.000  S/.000 
+Prestamos al personal ( a) 593  91 
+Adelanto de remuneraciones 0  126 
+Entregas a Rendir Cuenta 71  0 
+Otras cuentas por cobrar al personal 100  130 
+Reclamaciones a terceros- aseguradora 434  458 
+Reclamaciones a terceros - Otros 414  360 
+Intereses,regalías y dividendos (b) 380 
+ 
+326 
+Depositos en garantia por alquileres 23 
+ 
+23 
+Otros depósitos en garantía 25 
+ 
+25 
+Convenio Pafe 128 
+ 
+157 
+Electrificación Rural (g) 1,517 
+ 
+1,387 
+Fondo de Inclusion Social Energetico - FISE (d) 831 
+ 
+1,364 
+Compensación por generación adicional ( e) 2,150 
+ 
+3,664 
+Otras Cuentas por cobrar diversas (c) 5,338 
+ 
+3,350 
+Anticipos Otorgados 224 
+ 
+377 
+Sub Total 12,229 
+ 
+11,838 
+Menos: Deterioro de cuentas por cobrar -1,184  -1,184 
+Total Parte Corriente 11,045  10,654 
+ 
+ 
+ 
+(a) Comprende adelantos y préstamos de hasta 12 meses de plazo, a l a tasa de interés activa 
+promedio TAMN vigente. 
+ 
+(b) Los intereses por cobrar comprenden los intereses compensatorios, moratorios y de convenios 
+que se facturan en los recibos de consumo de energía a los usuarios por el no pago de sus 
+recibos al vencimiento y por las cuotas de convenios. 
+ 
+(c) Las otras cuentas por cobrar diversas  comprenden la facturación a los clientes por conceptos 
+diversos, como son: peaje de líneas de transmisión, venta de chatarra, penalidades 
+contractuales, ventas de bases, reembolso de gastos, alquiler de postes a empresas de cable, 
+alquileres de equipos, entre otros. 
+ 
+(d) Corresponde a las cuentas por cobrar al OSINERGMIN por la administración, en la zona de 
+concesión de la Compañía, del mecanismo de política de inclusión social del Estado destinado 
+a expandir la frontera energética en los segmentos vulnerables de la pobl ación mediante la 
+promoción para el acceso al GLP, dando aplicación a la distribución del vale de descuento 
+FISE. 
+ 
+(e) En virtud del Decreto de Urgencia N°037 -2008-Medidas Necesarias para Asegurar el 
+Abastecimiento Oportuno de Energía eléctrica al Sistema Inte rconectado Nacional-SEIN, se 
+
+=== PAGINA PDF 28 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+28 
+ 
+establecen disposiciones necesarias para asegurar, el abastecimiento oportuno de energía 
+eléctrica en el SEIN, por lo que durante los ejercicios 2014,2013 y 2012 Osinergmin emitió 
+resoluciones ministeriales, que establecen, el procedimiento. 
+ 
+g)       Corresponden a cuentas por cobrar a los usuarios del servicio eléctrico urbano, de acuerdo a la 
+aplicación de la Ley N°28749. Dicho importe se destina a la promoción y desarrollo eficiente 
+y sostenible de la electrificación de zonas rurales. 
+ 
+ 
+9 SALDOS Y TRANSACCIONES CON ENTIDADES RELACIONADAS 
+ 
+Los saldos de cuentas por cobrar y por pagar se resumen como sigue: 
+ 
+ 
+ 
+ 
+AL 31.03.2015   AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Facturas, boletas y otros-Relacionadas-no emitidas   
+ Adinelsa 0  22 
+Electrocentro S.A. 0  132 
+Electronorte S.A. 0  132 
+Electronoroeste S.A. 0  132 
+Electroperú S.A. 84  0 
+Facturación Otros Relacionadas   
+ Adinelsa 1,398  1,063 
+Electrocentro S.A. 1,192  1,229 
+Electronorte S.A. 6,765  4,181 
+Electronoroeste S.A. 845  1,043 
+Electroperú S.A. 170  145 
+Egasa 15  16 
+Egesur 2  2 
+Egemsa 9  8 
+San Gabán 9  32 
+ElectroOriente 11  137 
+Reclamaciones a Terceros - Relacionadas   
+ Electronoroeste S.A. 35  35 
+ 
+10,537 
+ 
+8,310 
+     
+Cuentas por Cobrar comerciales Relacionadas AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Adinelsa S.A. 20 
+ 
+181 
+Sima Perú S.A. 75 
+ 
+72 
+Banco de la Nación 81 
+ 
+63 
+Enapu S.A. 24 
+ 
+22 
+Corpac S.A. 16 
+ 
+10 
+Otros 4 
+ 
+3 
+ 
+220 
+ 
+351 
+ 
+
+=== PAGINA PDF 29 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+29 
+ 
+ 
+OTRAS CUENTAS A ENTIDADES RELACIONADOS 
+   
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Corriente 
+  
+ 
+Adinelsa 2,235 
+ 
+1,802 
+Egemsa 848 
+ 
+956 
+Egesur -53 
+ 
+-53 
+Electrocentro S.A. 4 
+ 
+4 
+Electronorte S.A. 264 
+ 
+91 
+Electronoroeste S.A. 87 
+ 
+69 
+Autoridad Nacional del Agua 5 
+ 
+4 
+Electro oriente 0 
+ 
+574 
+San Gabán 1 
+ 
+1 
+Electroperú S.A. 29 
+ 
+27 
+Petroperú 2 
+ 
+2 
+Editora Perú 1 
+ 
+0 
+Fonafe - Préstamo 757 
+ 
+1,504 
+ETECEN S.A.- Convenio obras 3,170  3,060 
+ETECEN S.A.- Convenio estudios 693  668 
+ TOTAL 8,042 
+ 
+8,709 
+    No Corriente 
+   
+    FONAFE - préstamo Largo plazo 3,134  3,134 
+ADINELSA 3,310  3,257 
+ 6,444  6,391 
+   
+  
+ 
+a) Con las empresas  Electronoroeste, Electronorte y Electrocentro, que conforman el Grupo 
+Distriluz, las transacciones están referidas a servicios corporativos, los cuales son distribuidos 
+de acuerdo con el Convenio Marco de Asunción de Gastos Corporativos y sus respectivas 
+adendas. 
+b) Se refiere a adeudos según contrato suscrito con Adinelsa para la administración de 
+instalaciones eléctricas de propiedad de dicha empresa. 
+c) El 10 de abril de 1994 el estado peruan o suscribió un contrato de préstamo con el Banco 
+Interamericano de Desarrollo (BID) No. 790/OC -PE, para financiar el programa de 
+transmisión y apoyo a la reestructuración del sector eléctrico, esta operación de deuda fue 
+aprobada mediante D.S. 35-94-EF el 06 de abril de 1994, en el cual la empresa se compromete 
+a devolver este préstamo  a ETECEN S.A. hasta 20 años desde abril de 1994 con cinco años 
+de gracia, pagaderos a partir de abril de 1999, los prestamos fueron utilizados en ejecución de 
+obras por US$ 1,023,893 y estudios por US$ 223,606, a la fecha se encuentra pendiente de 
+formalización los convenios de devolución por ejecución de obras. 
+ 
+Al 31 de marzo de 2015  y 31de diciembre de 2014, la empresa no ha otorgado garantías por cuenta 
+de entidades relacionadas. 
+ 
+Las principales transacciones entre la Empresa y sus entidades relacionadas fueron como sigue:  
+ 
+
+=== PAGINA PDF 30 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+30 
+ 
+  
+Venta de Energía Relacionadas AL 31.03.2015 
+ 
+AL 31.03.2014 
+(Como usuarios comunes del servicio eléctrico) S/.000 
+ 
+S/.000 
+Corpac S.A. 36 
+ 
+26 
+Enapu S.A. 58 
+ 
+52 
+Serpost S.A. 7 
+ 
+6 
+Banmat S.A.C. 2 
+ 
+1 
+Sima Perú S.A. 177 
+ 
+214 
+Enaco S.A. 1 
+ 
+2 
+Banco de la Nación 191 
+ 
+178 
+Adinelsa 80 
+ 
+0 
+ 
+551 
+ 
+479 
+ 
+ 
+ 
+Remuneraciones del personal clave  
+ 
+El personal clave incluye a los directores y personal gerencial. Las remuneraciones de los Directores,  
+del personal Gerencial de la empresa y de la corporación Distriluz, así como sus cuentas de 
+préstamos personales han sido: 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Remuneraciones Directores Corporativos 
+   Remuneraciones Gerencia 
+                           Regional 149 
+ 
+511 
+                       Corporativo 227 
+ 
+1,048 
+Préstamos Gerencia 
+                           Regional 112 
+ 
+45 
+                       Corporativo 294 
+ 
+156 
+ TOTAL 782 
+ 
+1,760 
+ 
+Las remuneraciones y gastos del personal corporativo se distribuyen entre las empresas que 
+conforman el Grupo Distriluz, de acuerdo al Convenio Marco de Asunción de Gastos del Comité 
+Corporativo de Gestión. 
+ 
+Porcentaje de distribución de gastos corporativos:  
+ 
+Porcentajes de Distribución de Gastos   %  
+Electronoroeste  23.4678 
+Electronorte  18.1008 
+Electrocentro  22.0952 
+Hidrandina  36.3362 
+Total  100.0000 
+ 
+La empresa no otorga beneficios a largo plazo a sus Directores ni a su Gerencia clave. 
+ 
+ 
+ 
+
+=== PAGINA PDF 31 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+31 
+ 
+ 
+10 ANTICIPOS 
+ 
+Comprende lo siguiente: 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Seguros pagados por adelantado (a) 1,826 
+ 
+3,173 
+Cargas Diferidas varias (b) 283 
+ 
+397 
+Anticipos Otorgados (b) 148 
+ 
+148 
+Parte corriente 2,257 
+ 
+3,718 
+    Parte No corriente 
+   Anticipos Otorgados (b) 12 
+ 
+25 
+     
+(a) Los seguros pagados por adelantado, corresponde a las primas por devengar de las pólizas de 
+los seguros patrimoniales de multiriesgo, deshonestidad, responsabilidad civil, vehículos, 
+seguros personales, que cubre instalaciones eléctricas, robo y asalto, ac cidentes de trabajo de 
+funcionarios y personal, entre otros. 
+ 
+(b) Otros gastos pagados por anticipado, corresponden a cargas diferidas diversas por servicios  de 
+datos corporativos IBM anuales. 
+ 
+11 INVENTARIOS 
+ 
+Comprende: 
+ 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Materiales auxiliares, suministros y repuestos (a) 15,859 
+ 
+11,759 
+Combustibles  (b) 73 
+ 
+104 
+ Lubricantes (b) 2 
+ 
+2 
+Sub total 15,934 
+ 
+11,865 
+Menos: 
+   Ferreteria Eléctrica desvalorización (c) -533 
+ 
+-533 
+Saldo 15,401 
+ 
+11,332 
+ 
+ 
+a) Los materiales auxiliares, suministros y repuestos, corresponden a existencias de materiales en 
+los almacenes, para la operatividad y mantenimiento de las instalaciones eléctricas 
+b) Los combustibles y lubricantes, corresponden a stock de petróleo diesel y lubricantes para la 
+generación de energía en las centrales térmicas, las cuales generan energía en ocasiones 
+esporádicas.  
+c)  La estimación para desvalorización, se ha efectuado tomando como base un informe técnico, 
+por los bienes obsoletos y de lenta rotación. 
+ 
+ 
+El movimiento de la estimación para desvalorización, se muestra a continuación: 
+ 
+
+=== PAGINA PDF 32 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+32 
+ 
+ 
+ 
+ AL 31.03.2015  AL 31.12.2014 
+ S/.000  S/.000 
+Saldo al principio del año 533  629 
+Adiciones 0  495 
+Deducciones:  0  591 
+Saldos al fin del año 533  533 
+ 
+ 
+En opinión de la Gerencia, la estimación por desvalorización de inventario cubre adecuadamente su 
+riesgo de desvalorización al 31 de marzo de 2015 y 31de diciembre del 2014. 
+ 
+ 
+ 
+12 OTROS ACTIVOS  FINANCIERAS 
+ 
+Comprende:  
+ 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Acciones Telefónica del Perú (a) 240 
+ 
+240 
+Complejo Agroindustrial Cartavio (b) 2,139 
+ 
+2,139 
+Agroindustrias San Jacinto (c) 6,422 
+ 
+6,422 
+Menos: 0 
+ 
+0 
+Provisión para Fluctuación de Valores  0 
+ 
+0 
+Prov. Fluct. Valores Telefónica -124  -91 
+Prov. Fluct. Valores San Jacinto -4,592  -4,104 
+Prov. Fluct. Valores Agroinsutria Cartavio -215  -160 
+Saldo 3,870 
+ 
+4,445 
+ 
+(a) Las acciones de Telefónica del Perú corresponden a 55,701 acciones, de un valor nominal de 
+S/. 1.00 cada uno, a su valor de cotización en bolsa de S/. 2.08  (S/. 2.67 en 2014),  
+(b) Las acciones de Complejo Agroindustrial  Cartavio S.A. corresponden a 213,864 acciones, 
+de un valor nominal de S/. 10.00 cada uno, a su valor de cotización en bolsa de S/. 9.00  (S/. 
+9.50 en 2014). 
+(c) Las  acciones de Agroindustrias San Jacinto S.A. corresponden a 642,201 acciones, de un 
+valor nominal de S/. 10.00 cada uno, a su valor de cotización en bolsa de S/. 2.85 (S/. 3.61 
+en 2014).  
+ 
+ 
+13 PROPIEDADES, PLANTA Y EQUIPO  
+ 
+A continuación se presenta el movimiento y la composición del costo y la depreciació n acumulada 
+del rubro por los años terminados el al 31de marzo de 2015 y 31de diciembre del 2014: 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 33 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+33 
+ 
+ 
+Año 2015-MARZO 
+         
+ 
+Saldos 
+   
+Retiros y 
+ 
+Transferencia 
+ 
+Saldos 
+ 
+Iniciales 
+ 
+ Adiciones  
+ 
+ventas 
+ 
+y Ajustes 
+ 
+finales 
+ 
+S/. 
+ 
+ S/.    S/.   S/.   S/.  
+Costo 
+         Terrenos 33,546 
+       
+33,546 
+Edificios y otras 
+construcciones 124,767 
+       
+124,767 
+Maquinaria y equipos 1,392,910 
+ 
+4,458 
+     
+1,397,368 
+Unidades de transporte 12,407 
+       
+12,407 
+Muebles y enseres 3,710 
+ 
+3 
+     
+3,713 
+Equipos diversos 20,697 
+ 
+56 
+     
+20,752 
+Unidades de reemplazo 20,741 
+ 
+-3,221 
+     
+17,520 
+Trabajos en curso 176,009 
+ 
+35,747 
+     
+211,756 
+Total costo  1,784,787   37,042           1,821,829 
+Depreciación acumulada: 
+         Edificios y otras 
+construcciones 41,190 
+ 
+364 
+     
+41,554 
+Maquinaria y equipos 492,158 
+ 
+13,555 
+     
+505,713 
+Unidades de transporte 8,998 
+ 
+261 
+     
+9,259 
+Muebles y enseres 2,886 
+ 
+31 
+     
+2,917 
+Equipos diversos 9,587 
+ 
+377 
+     
+9,964 
+Trabajos en curso  0 
+ 
+0 
+     
+0 
+Total depreciación acumulada  554,820   14,587           569,407 
+Total neto  1,229,967   22,455           1,252,422 
+Desvalorización de activos 
+fijos -4,056 
+ 
+-1,419 
+     
+-5,476 
+Total neto menos 
+desvalorización 1,225,911   21,035           1,246,946 
+ 
+ 
+ 
+ 
+Año 2014-Diciembre 
+         
+ 
+Saldos 
+   
+Retiros y 
+ 
+Transferencia 
+ 
+Saldos 
+ 
+Iniciales 
+ 
+ Adiciones  
+ 
+ventas 
+ 
+y Ajustes 
+ 
+finales 
+ 
+S/. 
+ 
+ S/.    S/.   S/.   S/.  
+Costo 
+         Terrenos 32,455 
+ 
+0 
+ 
+0 
+ 
+1,090 
+ 
+33,546 
+Edificios y  otras 
+construcciones 122,741 
+ 
+0 
+ 
+0 
+ 
+2,026 
+ 
+124,767 
+Maquinaria y equipos 1,320,277 
+ 
+42,873 
+ 
+0 
+ 
+29,760 
+ 
+1,392,910 
+Unidades de transporte 12,148 
+ 
+697 
+ 
+-438 
+ 
+0 
+ 
+12,407 
+Muebles y enseres 3,591 
+ 
+120 
+ 
+0 
+ 
+0 
+ 
+3,710 
+Equipos diversos 19,546 
+ 
+478 
+ 
+-5 
+ 
+678 
+ 
+20,697 
+Unidades de reemplazo 7,136 
+ 
+13,605 
+ 
+0 
+ 
+0 
+ 
+20,741 
+Trabajos en curso 132,498 
+ 
+77,065 
+ 
+0 
+ 
+-33,555 
+ 
+176,009 
+Total costo  1,650,392 
+ 
+134,838 
+ 
+-443 
+ 
+0 
+ 
+1,784,787 
+ 
+         
+
+=== PAGINA PDF 34 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+34 
+ 
+Depreciación acumulada: 
+          
+Edificios y otras 
+construcciones 39,729 
+ 
+1,461 
+ 
+0 
+ 
+0 
+ 
+41,190 
+Maquinaria y equipos 439,526 
+ 
+52,632 
+ 
+0 
+ 
+0 
+ 
+492,158 
+Unidades de transporte 8,230 
+ 
+1,095 
+ 
+-327 
+ 
+0 
+ 
+8,998 
+Muebles y enseres 2,760 
+ 
+126 
+ 
+0 
+ 
+0 
+ 
+2,886 
+Equipos diversos 8,068 
+ 
+1,521 
+ 
+-1 
+ 
+0 
+ 
+9,587 
+Trabajos en curso  0 
+ 
+0 
+ 
+0 
+ 
+0 
+ 
+0 
+Total depreciación acumulada  498,313   56,834   -328 0 0 0 554,820 
+Total neto  1,152,079   78,004   -115 0 0 0 1,229,967 
+Desvalorización de activos 
+fijos -1,450 
+ 
+-2,607 
+ 
+0 
+ 
+0 
+ 
+-4,056 
+Total neto menos 
+desvalorización 1,150,629   75,397   -115 0 0 0 1,225,911 
+ 
+ 
+ 
+Las adiciones de Propiedad, Planta y Equipo, comprenden los bienes adquiridos por la Empresa, 
+incluyendo las instalaciones eléctricas adquiridas por Contribuciones Reembolsables  (Nota 17), así 
+como las transferencias efectuadas por el Ministerio de Energía y Minas con abono al capital 
+adicional para su posterior capitalización. 
+ 
+Los trabajos  en curso comprenden I nstalaciones Eléctricas en proceso de construcción por la 
+empresa con recursos propios, subsidios del Ministerio de Energía y Minas y Transferencias por 
+Decreto de Urgencia del Ministerio de Energía y Minas , cuyos costos son determinados utilizando 
+los mismos principios como si fueran elementos adquiridos, sin exceder el rango normal en consumo 
+de materiales, mano de obra y otros costos. Para continuar con la construcción de obras en curso en 
+el año 201 5, se ha considerado una inversión de S/. 90’000,000 que ha sido aprobada por FONAF E 
+en el presupuesto del año 2015.  
+ 
+ 
+El monto de depreciación anual cargado a los resultados, se distribuye como sigue:  
+ 
+   
+ 
+Al 31.03.2015 
+ 
+ Al 31.12.2014  
+ 
+S/.000 
+ 
+S/.000 
+Costos y gastos de. 
+   Costo de Ventas 13,648 
+ 
+52,934 
+Gastos de Ventas 710 
+ 
+2,847 
+Gastos de  Administración 229 
+ 
+1,053 
+Total 14,587 
+ 
+                           
+56,834  
+                                      
+ 
+Los años de vida útil y las tasas anuales de depreciación, se resumen como sigue: 
+ 
+ 
+
+=== PAGINA PDF 35 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+35 
+ 
+ Años de   Tasa anual  
+Activos  vida útil  de depreciación 
+   % 
+Edificios y otras construcciones    80 a 100       1    a  1.25 
+Maquinaria, equipo y otras unidades de explotación  20 a 40       2.5 a  5 
+Unidades de Transporte  5 a 12       20  a  8.33 
+Muebles y Enseres  10  10 
+Equipos Diversos  4 a 10       10  a  25 
+ 
+Las propiedades planta y equipo  al 31 de marzo de 2015 y 31de diciembre de 2014, no incluyen 
+elementos fuera de servicio temporal, elementos totalmente depreciados que se encuentren en uso, 
+elementos retirados de uso y no clasificados como mantenidos para la venta , ni elementos con valor 
+razonable significativamente diferente del costo en libros. 
+ 
+Al 31 de marzo de 201 5 no existen restricciones, gravámenes y compromisos de adquisición de 
+elementos de inmuebles, maquinaria,  equipos y para adelantos de obras en curso se han recibido 
+garantías para el cumplimiento de su ejecución. 
+ 
+Al 31 de marzo de 201 5 y 31de diciembre  de 201 4, la empresa no ha identificado indicios de 
+deterioro sobre sus activos fijos en general. 
+14 ACTIVOS INTANGIBLES  
+ 
+A continuación se presenta el movimiento y la composición del costo y la amortización acumulada 
+del rubro por los años terminados  al 31 de marzo de 2015 y 31de diciembre de 2014. 
+ 
+ 
+Saldos 
+     
+Saldos  
+ 
+iniciales  
+ 
+Adiciones 
+ 
+Deducciones  finales 
+ 
+S/.  
+ 
+S/.  
+ 
+S/. 000 
+ 
+S/. 000 
+Año 2015 MARZO 
+    Licencias  y derechos 3,642 
+ 
+6 
+ 
+0 
+ 
+3,647 
+Software de computadora 2,500 
+   
+0 
+ 
+2,500 
+Otros activos intangibles 967 
+   
+0 
+ 
+967 
+Amortización acumulada -4,206 
+ 
+-225 
+ 
+0 
+ 
+-4,431 
+Total neto  2,902 
+ 
+-220 
+ 
+0 
+ 
+2,682 
+ 
+ 
+Saldos 
+     
+Saldos  
+ 
+iniciales  
+ 
+Adiciones 
+ 
+Deducciones  finales 
+ 
+S/. 000 
+ 
+S/. 000 
+ 
+S/. 000 
+ 
+S/. 000 
+Año 2014-DICIEMBRE 
+       
+        Licencias  y derechos 3,642 
+     
+3,642 
+Software de computadora 2,500 
+     
+2,500 
+Otros activos intangibles 967 
+ 
+285 
+ 
+-285 
+ 
+967 
+Amortización acumulada -3,243 
+ 
+-993 
+ 
+30 
+ 
+-4,206 
+Total neto  3,865 
+ 
+-707 
+ 
+-256 
+ 
+2,902 
+         
+
+=== PAGINA PDF 36 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+36 
+ 
+Los activos intangibles, corresponden a licencias de software, implementación del sistema Optimus, 
+y costos de implementación  de mejoras del sistema SAP,  estudios especiales para la fijación de 
+tarifas, los mismos que se vienen amortizando con  tasas de 1 a 10%. 
+El monto de la amortización anual cargado a resultados  al 31 de marzo de 2015  y 31 de diciembre 
+de 2014, se distribuye como sigue: 
+ 
+ 
+    
+ 
+Al 31.03.2015 
+ 
+Al 31.12.2014 
+ 
+S/. 000  S/. 000 
+Costos y gastos de. 
+   Costo de Ventas 15 
+ 
+61 
+Gastos de Ventas 3 
+ 
+11 
+Gastos de  Administración 207 
+ 
+891 
+Total 225 
+ 
+963 
+ 
+ 
+ 
+ 
+15 OTROS PASIVOS FINANCIEROS 
+ 
+Comprende: 
+OTROS PASIVOS FINANCIEROS 
+   
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Corriente 
+   Pagarés (a) 65,811 
+ 
+72,306 
+Factoring  (b) 6,692 
+ 
+875 
+Total Parte Corriente 72,503 
+ 
+73,181 
+ 
+a) Los  pagarés bancarios de corto plazo han sido obtenidos para capital de trabajo y 
+financiamiento de planes de inversión de la Empresa. Estos créditos son en moneda nacional, 
+no tienen garantías específicas han sido concertados en nuevos soles en diferentes entidades 
+financieras, con tasas que fluctúan de 4. 17% a 4. 63% en el 2015 (de 4.42% a 4. 67% en el 
+2014). 
+b) Los factoring corresponden a operaciones de factoring en moneda naciona l en diferentes 
+entidades financieras en este caso con el Banco Continental, Scotiabank, Interbank, no 
+gravadas con costo financiero.  
+ 
+A continuación se presenta la concentración de pagarés bancarios por entidad financiera: 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+    CONTINENTAL 56,250 
+ 
+58,900 
+SCOTIABANK 9,561 
+ 
+13,406 
+ 
+65,811 
+ 
+72,306 
+
+=== PAGINA PDF 37 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+37 
+ 
+ 
+ 
+Al 31 de Marzo de 2015 el detalle de los pagarés bancarios en miles de nuevos soles vigentes es el 
+siguiente: 
+ 
+ 
+ 
+DETALLE DE LOS PAGARES 
+Al 31 DE MARZO DE 2015 
+Fecha de  
+ 
+BANCO 
+ 
+Tasas de  
+ 
+Periodo  
+ 
+Importe  
+ 
+Saldo  
+ 
+Vencimiento 
+Inicio 
+ 
+  
+ 
+Intereses 
+ 
+de pago 
+ 
+Original 
+ 
+S/.  
+ 
+Pagare 
+05.09.2014 
+ 
+CONTINENTAL 
+ 
+4.54% 
+ 
+mensual 
+ 
+19,000 
+ 
+9,605 
+ 
+07.09.2015 
+02.10.2014 
+ 
+CONTINENTAL 
+ 
+4.44% 
+ 
+mensual 
+ 
+4,500 
+ 
+2,649 
+ 
+02.10.2015 
+05.11.2014 
+ 
+CONTINENTAL 
+ 
+4.42% 
+ 
+mensual 
+ 
+8,000 
+ 
+5,371 
+ 
+05.11.2015 
+05.12.2014 
+ 
+CONTINENTAL 
+ 
+4.49% 
+ 
+mensual 
+ 
+6,000 
+ 
+4,524 
+ 
+05.12.2015 
+10.12.2014 
+ 
+CONTINENTAL 
+ 
+4.51% 
+ 
+mensual 
+ 
+8,000 
+ 
+6,693 
+ 
+10.12.2015 
+11.12.2014 
+ 
+CONTINENTAL 
+ 
+4.51% 
+ 
+mensual 
+ 
+8,000 
+ 
+6,033 
+ 
+11.12.2015 
+30.12.2014 
+ 
+CONTINENTAL 
+ 
+4.63% 
+ 
+mensual 
+ 
+5,800 
+ 
+4,374 
+ 
+30.12.2015 
+05.01.2015 
+ 
+CONTINENTAL 
+ 
+4.59% 
+ 
+mensual 
+ 
+8,000 
+ 
+6,030 
+ 
+05.01.2016 
+02.02.2015 
+ 
+CONTINENTAL 
+ 
+4.17% 
+ 
+mensual 
+ 
+8,000 
+ 
+7,344 
+ 
+02.02.2016 
+13.03.2015 
+ 
+CONTINENTAL 
+ 
+4.53% 
+ 
+mensual 
+ 
+3,627 
+ 
+3,627 
+ 
+13.11.2015 
+09.10.2014 
+ 
+SCOTIABANK 
+ 
+4.43% 
+ 
+mensual 
+ 
+9,400 
+ 
+5,533 
+ 
+07.10.2015 
+11.11.2014 
+ 
+SCOTIABANK 
+ 
+4.42% 
+ 
+mensual 
+ 
+6,000 
+ 
+4,029 
+ 
+11.11.2015 
+        
+TOTAL 
+ 
+65,811 
+   
+   
+Al 31 de diciembre  de 2014 el detalle de los pagares bancarios en  miles de nuevos soles vigentes es 
+el siguiente: 
+ 
+ 
+DETALLE DE LOS PAGARES 
+Al 31 DE DICIEMBRE DE 2014 
+BANCO 
+ 
+Fecha de  
+ 
+Tasas de  
+ 
+Periodo  
+ 
+Importe  
+ 
+Saldo  
+ 
+Vencimiento 
+  
+ 
+Inicio 
+ 
+Intereses 
+ 
+de pago 
+ 
+Original 
+ 
+S/. 000 
+ 
+Pagare 
+             CONTINENTAL 
+ 
+05.02.2014 
+ 
+4.67% 
+ 
+mensual 
+ 
+2,600,000 
+ 
+442 
+ 
+05.02.2015 
+CONTINENTAL 
+ 
+13.03.2014 
+ 
+4.53% 
+ 
+mensual 
+ 
+9,434,322 
+ 
+5,107 
+ 
+13.03.2015 
+CONTINENTAL 
+ 
+05.09.2014 
+ 
+4.54% 
+ 
+mensual 
+ 
+19,000,000 
+ 
+14,362 
+ 
+07.09.2015 
+CONTINENTAL 
+ 
+02.10.2014 
+ 
+4.44% 
+ 
+mensual 
+ 
+4,500,000 
+ 
+3,774 
+ 
+02.10.2015 
+CONTINENTAL 
+ 
+05.11.2014 
+ 
+4.42% 
+ 
+mensual 
+ 
+8,000,000 
+ 
+7,365 
+ 
+05.11.2015 
+CONTINENTAL 
+ 
+05.12.2014 
+ 
+4.49% 
+ 
+mensual 
+ 
+6,000,000 
+ 
+6,019 
+ 
+05.12.2015 
+CONTINENTAL 
+ 
+10.12.2014 
+ 
+4.51% 
+ 
+mensual 
+ 
+8,000,000 
+ 
+8,019 
+ 
+10.12.2015 
+CONTINENTAL 
+ 
+11.12.2014 
+ 
+4.51% 
+ 
+mensual 
+ 
+8,000,000 
+ 
+8,019 
+ 
+11.12.2015 
+CONTINENTAL 
+ 
+30.12.2014 
+ 
+4.63% 
+ 
+mensual 
+ 
+5,800,000 
+ 
+5,800 
+ 
+30.12.2015 
+SCOTIABANK 
+ 
+09.10.2014 
+ 
+4.43% 
+ 
+mensual 
+ 
+9,400,000 
+ 
+7,877 
+ 
+07.10.2015 
+SCOTIABANK 
+ 
+11.11.2014 
+ 
+4.42% 
+ 
+mensual 
+ 
+6,000,000 
+ 
+5,523 
+ 
+11.11.2015 
+        
+TOTAL 
+ 
+72,306 
+   
+
+=== PAGINA PDF 38 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+38 
+ 
+ 
+16 CUENTAS POR PAGAR COMERCIALES 
+ 
+Comprende: 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Proveedores de energía 
+   Facturas por pagar terceros 42,179 
+ 
+35,843 
+Facturas por pagar relacionadas  10,806 
+ 
+10,360 
+Total proveedores de energía 52,984 
+ 
+46,203 
+Cuentas por Pagar Terceros - Provisión -No emitidas 4,506 
+ 
+2,842 
+Cuentas por Pagar Terceros  - Proveedores Emitidas 36,297 
+ 
+34,296 
+Honorarios por pagar 0 
+ 
+2 
+Préstamo Instituciones financieras 15 
+ 
+17 
+Provisiones Varias 6,731 
+ 
+3,683 
+Total 100,534 
+ 
+87,042 
+     
+Las cuentas por pagar comerciales, se originan principalmente  por adquisición de energía y 
+suministros y corresponden a facturas emitidas  por proveedores nacionales ,  están denomin adas 
+principalmente en moneda nacional, tienen  vencimiento corriente, no generan intereses y no tienen 
+garantías específicas por cumplimiento de su pago. 
+ 
+Las condiciones contractuales con proveedores de energía, se detallan a continuación: 
+ 
+ 
+Contratos licitados 
+ Los precios de energía y potencia resultan de un proceso de li citación, y no están sujetos a 
+fijación administrativa del regulador. 
+ El proceso se inicia con una anticipación mínima de 3 años. 
+ Regulados por la Ley 28832. 
+ Los contratos con plazos inferiores a cinco (5) años no podrán cubrir requerimientos mayores al 
+veinticinco por ciento (25%) de la demanda total de los Usuarios Regulados del Distribuidor. 
+ Las Licitaciones se pueden iniciar con una anticipación menor a tres (3) años por una cantidad no 
+mayor al diez por ciento (10%) de la demanda total de sus Usuarios Regulados, a fin de cubrir las 
+desviaciones que se produzcan en sus proyecciones de demanda. 
+ Plazos de suministro de hasta veinte (20) años y Precios Firmes, ninguno de los cuales podrá ser 
+modificado por acuerdo de las partes, a lo largo de la vigencia del contrato, salvo autorización 
+previa de OSINERGMIN. 
+ 
+Contratos bilaterales 
+ De acuerdo con el Decreto Ley N° 28544 Ley de Concesiones Eléctricas, los precios de energía y 
+potencia no pueden ser superiores a los precios en barra a que se refiere el artículo 47° de la 
+referida Ley. 
+ Se suscriben para las demandas de potencia y energía, destinadas al Servicio Público de 
+Electricidad, que no cuenten con contratos de suministro de energía que las respalden. 
+ 
+Mercado Atendido 
+ Es el mercado regulado y libre. 
+ 
+
+=== PAGINA PDF 39 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+39 
+ 
+ 
+17 OTRAS CUENTAS POR PAGAR 
+  
+Comprende: AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Corriente 
+   Impuesto General a las Ventas ( a ) 12,003 
+ 
+7,910 
+Impuesto a la Renta ( a ) 6,925 
+ 
+7,996 
+Otras Instituciones ( a ) 1,612 
+ 
+1,061 
+Reclamaciones de Terceros (b ) 2,230 
+ 
+2,276 
+Depósitos en Garantía (c ) 4,063 
+ 
+1,844 
+Dividendos ( d ) 730 
+ 
+731 
+Cuentas por  Pagar diversas ( e ) 3,544 
+ 
+3,437 
+Provisiones Diversas (Proveedores, Interrupciones ) (f) 6,567 
+ 
+7,085 
+Fondo de Inclusión Social - FISE 182 
+ 
+84 
+Contribuciones Reembolsables  ( g ) 25,581 
+ 
+23,477 
+Total 63,437 
+ 
+55,902 
+    No Corriente 
+   Préstamo sin garantía Sipán 67 
+ 
+65 
+    Total 67 
+ 
+65 
+ 
+ 
+a) Los tributos y contribuciones, corresponden a los impuestos del Gobierno Central, 
+contribuciones a instituciones públicas,  impuestos y contribuciones municipales, entre otros.  
+b) Las reclamaciones de terceros, corresponden a partidas por reintegrar a varios proveedores por 
+pagos en exceso y, pagos pendientes por órdenes del poder judicial, entre otros. 
+c) Los depósitos en garantía, corresponden a pagos a cuenta de los usuarios, por sus recibos de 
+energía, los mismos que se aplican cuando cancelan la totalidad del recibo. 
+d) Los dividendos corresponde al saldo de dividendos por pagar a favor del accionista minoritario. 
+e) Las cuentas por pagar  diversas, incluyen retenciones judiciales, retenciones de planillas, aporte  
+Ley 28749, este aporte de electrificación rural est á constituido por los aportes de los usuarios 
+finales, cuyos consumos son mayores de acuerdo al art. 7 de la referida Ley, que servirá para el 
+financiamiento de las obras de electrificación rural, así como la compensación a las empresas 
+que tienen mayor cantidad de usuarios rurales. 
+f) Las provisiones diversas se componen  por la provisión de las compensaciones por N ormas 
+Técnicas de Calidad Sub Estaciones - NTCSE y Rurales pendientes de pago. 
+g) Las  contribuciones reembolsables corresponden a las cuentas por pagar contraídas por los 
+proyectos eléctricos de ampliación, del sistema de Distribución hasta el punto de entrega, 
+ejecutadas por Asociaciones de Vivienda, Urbanizadores, Gobiernos locales, entre otros, dentro 
+del marco de la Ley de Concesiones Eléctricas y la R.M. 346 -96-EM/NME, que determina los 
+procedimientos para la aprobación de los proyectos, el sistema de valorización de los activos 
+transferidos, la recepción de las obras y la forma de  pago. De acuerdo a ello, las obras 
+ejecutadas por los referidos proyectos son recibidas a su valor de reposición a nuevo e 
+incorporadas como activo y pasivo de la Empresa, a pagar a elección del usuario, en efectivo en 
+cierto plazo o aplicadas a cancelar el consumo de energía futuro. Estas cuentas no tienen 
+garantías específicas.  Por estas obligaciones se reconoce el devengamiento de interés con tasa 
+de interés promedio cobro del mercado al cierre del 31 de marzo de 2015 es 9.04 %   (de 8.97 %  
+en el 2014). 
+
+=== PAGINA PDF 40 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+40 
+ 
+ 
+ 
+ 
+18 INGRESOS DIFERIDOS 
+ 
+Comprende: 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Ingresos Diferidos 2,075 
+ 
+918 
+Subsidios del FONCUR de la DGER (a) 3,319 
+ 
+3,319 
+Generación Adicional Cajamarca Norte/Chimbote-SET Kiman 
+Ayllu 15,948 
+ 
+15,948 
+Total Corriente 21,342 
+ 
+20,185 
+    No Corriente: 
+   Subsidios del FONCUR de la DGER (a) 75,458 
+ 
+75,458 
+Costo Reposición de medidores  4,445 
+ 
+4,377 
+Total No Corriente 79,903 
+ 
+79,834 
+ 
+ 
+a) Esta cuenta corresponde a los subsidios que otorga el Ministerio de Energía y Minas a través de 
+la Dirección de Electrificación Rural para la ejecución de obras de electrificación rural, en las 
+cuales el Estado subsidia aproximadamente el 80% y la empresa asume el 20%. Estos ingresos 
+diferidos se van reconociendo como ingr esos cuando las obras son concluidas y se empiezan a 
+depreciar. El importe de la depreciación en la parte que corresponde al subsidio (80%) es el 
+monto que se transfiere a otros ingresos. 
+ 
+ 
+El movimiento de los subsidios del FONCUR al 31 de marzo de 2015 y 31 de diciembre de 2014, se 
+muestran a continuación: 
+ 
+ 
+         2015 
+ 
+         2014 
+ 
+         S/.000 
+ 
+         S/.000 
+Saldos al inicio del año 100,019 
+ 
+103,831 
+Adiciones 1,722 
+ 
+2,720 
+Deducciones -496 
+  Transferencia a ingresos  
+  
+-6,531 
+Saldos al final de año 101,245 
+ 
+100,019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 41 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+41 
+ 
+19 PROVISION POR BENEFICIOS A  EMPLEADOS 
+ 
+Comprende: 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Corriente: 
+   Gratificaciones por Pagar 959 
+ 
+0 
+Vacaciones por Pagar 940  1,096 
+Participaciones por Pagar 1,715  5,111 
+Beneficios Sociales CTS 902  352 
+Provisiones Reserva Pensionaria 447  445 
+Otras remuneraciones por pagar 677  677 
+ESSALUD 206  173 
+ONP- SISTEMA NACIONAL DE PENSIONES 15  14 
+Contribuciones al SENATI 8  0 
+Contribuciones AFP 259  222 
+Contribuciones EPS 20  1 
+Provisión de Impuestos, de Vacaciones 187  123 
+ 
+6,334 
+ 
+8,213 
+    No Corriente: 
+   Pensiones de jubilación (a) 3,733 
+ 
+3,825 
+  
+(a) El plan de pensiones de jubilación Ley № 20530 corresponde al valor presente de los flujos de 
+efectivo de la obligación por pensiones de jubilación de ex trabajadores de la Empresa, en base 
+al cálculo actuarial efectuado por la Oficina de Normalización Pre visional (ONP), a la tasa de 
+descuento anual de 4 %. 
+ 
+ 
+20 OTRAS PROVISIONES 
+ 
+Comprende: 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+Provisiones por Litigios Laborales  2,434 
+ 
+1,690 
+Provisiones por Litigios Administrativos 259 
+ 
+259 
+Provisiones Litigios Osinergmin  2,149 
+ 
+2,149 
+Provisiones Arbitrales 6,543 
+ 
+4,026 
+Total 11,386 
+ 
+8,125 
+ 
+ 
+Este rubro comprende la estimación de las obligaciones  sobre las situaciones derivadas de procesos  
+judiciales, laborales, tributarios y otros. 
+ 
+a) La Empresa ha recibido desde años anteriores, demandas de ex trabajadores, personal 
+tercerizado y otros quienes solicitan actualización de remuneraciones y beneficios salariales, 
+incorporación en las nóminas de la Empresa y otras preten siones que se vienen  litigando en el 
+fuero correspondiente. Al respecto, se ha registrado provisiones por los montos estimados de las 
+
+=== PAGINA PDF 42 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+42 
+ 
+pretensiones de jui cios calificados como probables para cu brir pérdidas que podrían originarse 
+como resultado de la resolución final de las demandas, lo cual es considerado prudente por parte 
+de los asesores legales de la empresa.  
+b) La empresa ha registrado provisiones por demandas civiles y penales , para cubrir pérdidas que 
+podrían originarse como resultado de la resolución final de estas demand as, lo cual es 
+considerado como prudente por parte de los asesores legales de la empresa. 
+c) La Empresa ha provisionado las multas impuestas en años anteriores por el organismo regulador 
+de las empresas eléctricas OSINERGMIN, las que se continúan reclamando, lo cual es 
+considerado prudente por los asesores legales de la empresa. 
+ 
+Los asesores legales de la empresa consideran que los montos reconocidos como pérdidas son 
+prudentes. 
+ 
+Las provisiones han tenido el siguiente movimiento 
+ 
+ 
+           2015 
+ 
+           2014 
+ 
+         S/.000 
+ 
+          S/.000 
+Saldos al inicio del año 8,125 
+ 
+6,898 
+Adiciones 3,379 
+ 
+1,808 
+Deducciones -118 
+ 
+-580 
+Saldos al final de año 11,386 
+ 
+8,125 
+ 
+ 
+21 PASIVOS IMPUESTO A LAS GANANCIAS DIFERIDAS 
+ 
+El movimiento del impuesto  a las ganancias diferidas  por las diferencias temporales, imponibles y 
+deducibles durante el primer trimestre del año 2015 y al 31 de diciembre de 2014, se resumen como 
+sigue:  
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+ 
+ 
+ 
+ 
+Impuestos y participaciones diferidas 29,953 
+ 
+29,953 
+    
+ 
+22 PATRIMONIO 
+ 
+a) Capital social 
+ 
+Al 31 de marzo de 2015 y 31de diciembre de 2014, el capital social suscrito y pagado asciende a S/. 
+678’278 y está representado por  678’278  acciones de valor nominal S/.1.00 cada una pertenecientes 
+al Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado - FONAFE. 645’601 
+acciones 
+ 
+El capital social está compuesto por: 1) 423’339 acciones clase “A1” que representan el 62.4137% 
+del capital; 2) 222’240 acciones clase “B ” que representan  el 32.7653% del capital; 3) 22, acciones 
+clase “C” que representan el 0.0033% del capital; todas de propiedad del FONAFE; y, 4) 32’677 
+acciones clase “A2” que representan el 4.8177% del capital, de propiedad de accionistas 
+privados.  Las acciones clase “A1”, “A2” y “B” otorgan a sus titulares iguales derechos y 
+
+=== PAGINA PDF 43 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+43 
+ 
+obligaciones, y las acciones clase “C” otorgan a su titular voto restrictivo para las decisiones que se 
+indican en la nota 1.  
+La composición del capital social al 31 de marzo de 2015  y al 31 de diciembre de  2014, se resume 
+como sigue:  
+        
+Capital social 
+   
+ 
+Al 31.03.2015 
+ 
+Al 31.12.2014 
+ 
+S/. 000  S/. 000 
+Controladora: 
+   Clase A1 423,339 
+ 
+423,339 
+Clase B 222,240 
+ 
+222,240 
+Clase C 22 
+ 
+22 
+Total 645,601 
+ 
+645,601 
+    No Controladora 
+   Clase A2 32,677 
+ 
+32,677 
+ 
+32,677 
+ 
+32,677 
+Total Acciones 678,278 
+ 
+678,278 
+ 
+Al 31 de marzo de 2015  y al 31 de diciembre de 2014 no se ha producido movimientos en el capital 
+social de la empresa. 
+ 
+b) Capital adicional  
+ 
+Comprende los aportes en bienes recibidos del FONAFE (Controladora), de acuerdo con la Ley N° 
+27170 – Ley del Fondo Nacional de Financiamiento de la Actividad Empresarial  del Estado – 
+FONAFE,  y aportes en obras ejecutadas por el Ministerio de Energía y Minas, que  constituyen 
+aportes de FONAFE,  para aumentar el capital social de la Empresa, después de cumplir las 
+formalidades de ley, como sigue: 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+    Saldos al inicio del año 227,130,270 
+ 
+199,336,821 
+    
+    Aporte Efectivo de DGER 0 
+ 
+0 
+Aporte Obras ER DGER 0 
+ 
+27,793,449 
+    Saldos al final del año 227,130,270 
+ 
+227,130,270 
+     
+El saldo de capital adicional tiene efecto diluyente para fines del cálculo de la ganancia diluida por 
+acción. 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 44 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+44 
+ 
+ 
+c) Reserva legal  
+ 
+De acuerdo con la Ley General de Sociedades la reserva legal es constituida por apropiaciones de no 
+menos del 1 0 por ciento de la utilidad distribuible  de cada ejercicio hasta alcanzar un monto 
+equivalente a la quinta parte del capital pagado. En ausencia de utilidades no distribuidas o reservas 
+de libre disposición, l a reserva  legal  podrá ser aplicada  a compensar pérdidas y puede ser 
+capitalizada con la obligación de reponerla de utilidades futuras. 
+ 
+El saldo de la reserva legal se constituirá por un monto que representa el 10% de la ganancia neta del 
+año 201 4, cuya apropiación será hecha en el año 201 5, después de la aprobación de los estados 
+financieros al 31de diciembre del 2014 por la Junta General de Accionistas, en un importe de S/. 
+6’580,097.72. 
+ 
+d) Otras reservas de patrimonio 
+ 
+En esta cuenta se incluye las variaciones en el valor de mercado de los inversiones en instrumentos 
+de patrimonio con las empresas Agroindustrial San Jacinto S.A.A, Complejo Agroindustrial Cartavio 
+S.A.A. y Telefónica del Perú, las variacio nes  negativas en el I Trimestre del 2015  fueron S/.53,466 
+de disminución ocasionadas por la baja en la Bolsa de Valores,  y al 31 de diciembre de 2014 fue S/. 
+132,381 de disminución. 
+ 
+ 
+e) Resultados Acumulados 
+ 
+Durante el primer  trimestre de 2015 y al 31de diciembre de 2014 se han efectuado los siguientes 
+movimientos patrimoniales que se incluyen en el Estado de Cambios en el Patrimonio: 
+ 
+ 
+AL 31.03.2015 
+ 
+AL 31.12.2014 
+ 
+S/.000 
+ 
+S/.000 
+    Saldos al inicio del año 65,801 
+ 
+34,738 
+Utilidad del ejercicio 14,805 
+ 
+65,801 
+Transferencias y ajustes 
+   Dividendos declarados 
+  
+-31,264 
+Reserva legal  
+  
+-3,474 
+Saldos al final del año 80,606 
+ 
+65,801 
+ 
+ 
+ 
+La política de dividendos se sujeta a l a Ley N° 27170 – Ley del Fondo Nacional de Financiamiento 
+de la Actividad Empresarial del Estado – FONAFE, en su artículo 4º dispone que las subsidiarias del 
+FONAFE, como la Empresa, deberán transferirle automáticamente antes del 30 de abril de cada año, 
+el total d e las utilidades distribuibles obtenidas en el ejercicio anterior, sobre la base de estados 
+financieros auditados.  
+ 
+En Junta General de Accionistas de fecha 24 de marzo de 2015 se acordó distribuir dividendos por 
+un importe de S/ 59’220,879 con cargo a las utilidades acumuladas. 
+ 
+ 
+ 
+
+=== PAGINA PDF 45 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+45 
+ 
+ 
+23 INGRESOS DE ACTIVIDADES ORDINARIAS 
+ 
+Comprende: 
+    
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Venta de energía a terceros : 
+   Venta de energía (a) 161,291 
+ 
+147,493 
+Alumbrado público (a) 9,766 
+ 
+8,834 
+Cargo fijo (a) 7,882 
+ 
+7,221 
+Recupero de energía  295 
+ 
+165 
+Venta de energía – Fose  2,637 
+ 
+1,718 
+Compensación sistemas aislados e interconectados  (c) -1,035 
+ 
+-382 
+Total  180,835 
+ 
+165,048 
+    Venta de energía a relacionadas: 
+   Total venta de energía (a) 551 
+ 
+479 
+    Prestación de servicios: (b) 
+   Peaje y uso del sistema de transmisión 2,032 
+ 
+1,305 
+Costo de conexión, acometidas y conexiones nuevas 1,673 
+ 
+1,848 
+Corte de servicio, reconexión y reinstalación 592 
+ 
+507 
+Medidores 19 
+ 
+305 
+Fondo de mantenimiento y reposición  1,599 
+ 
+1,537 
+Servicios complementarios varios 1,536 
+ 
+1,128 
+Nuevos negocios comerciales 
+  
+0 
+Total 7,451 
+ 
+6,630 
+Total ingresos de actividades ordinarias 188,286 
+ 
+171,678 
+ 
+ 
+(a) La venta de energía, el alumbrado público y el cargo fijo, son conceptos regulados por el 
+OSINERGMIN y se facturan a los usuarios en base a las lecturas de los consumos de energía 
+eléctrica en forma mensual. 
+ 
+(b) Los servicios complementarios, corresponden a ingresos por las actividades conexas 
+relacionadas a la actividad principal. Estos ingresos principalmente son por conexiones nuevas 
+por la incorporación de nuevos clientes, por el fondo de mantenimiento y reposición que es un 
+concepto regulado, entre otros. 
+ 
+(c) Compensación de Sistemas Aislados: Mediante el artículo 30° de la citada Ley N° 28832, se 
+creó el “Mecanismo de Compensación para Sistemas Aislados”, destinado a favorecer el acceso 
+y utilización de energía eléctrica a los usuarios regulados atendidos a través de estos sistemas. 
+ 
+Compensación de Sistemas Interconectados: Mediante Decreto Supremo N° 019 -2007-EM, se 
+aprobó el “Reglamento del Mecanismo de Compensación entre los Usurarios Regulados del 
+SEIN”, que dispone que OSINERGMIN apruebe los procedimientos para calcular el precio a 
+nivel g eneración y determinar el programa de transferencias entre empresas aportantes y 
+receptoras del mecanismo de Compensación.  En cumplimiento de dicha norma, se aprobó la  
+
+=== PAGINA PDF 46 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+46 
+ 
+ 
+norma “Precios a Nivel Generación y Mecanismo de Compensación entre Usuarios Regulados”, 
+mediante resolución OSINERGMIN N° 180-2007-OS/CD y sus modificaciones. 
+ 
+ 
+24 COSTO DE VENTAS 
+Comprende: 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Compras de Energía: 83,257 
+ 
+80,037 
+     Terceros 
+        Relacionadas                 23,606 
+ 
+22,482 
+Gastos de Personal 4,082 
+ 
+2,626 
+Servicios Prestados por Terceros 8,940 
+ 
+12,890 
+Suministros diversos 1,176 
+ 
+1,065 
+Tributos 2,338 
+ 
+2,080 
+Cargas diversas de Gestión 2,085 
+ 
+2,635 
+Provisiones 
+        Depreciación 13,648 
+ 
+12,666 
+     Amortización 15 
+ 
+15 
+     Deterioro de activos  1,419 
+       Provisión Litigios 2,950 
+ 
+1,109 
+    Cobranza Dudosa 
+   Total 143,517 
+ 
+137,605 
+ 
+Compra de energía 106,863 
+ 
+102,519 
+Generación 3,418 
+ 
+5,562 
+Transmisión 5,501 
+ 
+4,777 
+Distribución 27,736 
+ 
+24,747 
+Total 143,517 
+ 
+137,605 
+25 GASTOS DE VENTAS  
+Comprende: 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Gastos de personal 2,160 
+ 
+1,556 
+Servicios prestados por terceros 11,638 
+ 
+8,809 
+Suministros 1,282 
+ 
+1,596 
+Tributos 33 
+ 
+15 
+Gastos diversos de gestión 260 
+ 
+603 
+Provisiones 
+       Depreciación 710 
+ 
+650 
+    Amortización de intangibles 3 
+ 
+3 
+    Deterioro de cuentas por cobrar 416 
+ 
+193 
+
+=== PAGINA PDF 47 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+47 
+ 
+     Provisión Litigios 0 
+ 
+0 
+Total 16,501 
+ 
+13,425 
+26 GASTOS DE ADMINISTRACION 
+Comprende: 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Gastos de personal 4,948 
+ 
+4,081 
+Servicios prestados por terceros 3,870 
+ 
+3,252 
+Suministros 1,034 
+ 
+340 
+Tributos 76 
+ 
+61 
+Gastos diversos de gestión -184 
+ 
+165 
+Provisiones 
+       Depreciación 229 
+ 
+283 
+    Amortización de intangibles 207 
+ 
+226 
+    Provisión Litigios 428 
+  Total 10,609 
+ 
+8,408 
+ 
+ 
+27 OTROS INGRESOS OPERATIVOS 
+ 
+Comprende: 
+ 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Recupero de cuentas por Cobrar deterioradas 46 
+ 
+70 
+Alquileres 1,142 
+ 
+961 
+Venta de almacén 372 
+ 
+81 
+Penalidades a proveedores 151 
+ 
+868 
+Subsidios recibidos-dep. Foncur 0 
+  Ingresos por interrupciones 8 
+ 
+0 
+Indemnización por seguros 31 
+ 
+17 
+Partes relacionadas 2,593 
+ 
+2,027 
+Enajenación propiedades, planta y equipo 
+   Comisiones y corretajes 113 
+ 
+113 
+Otros ingresos de gestión  3,426 
+ 
+189 
+Otros ingresos de gestión - Generación Térmica Huaylas 0 
+ 
+3,786 
+Total 7,885 
+ 
+8,114 
+ 
+28 OTROS GASTOS OPERATIVOS 
+ 
+Comprende: 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Provisión para contingencias 0 
+ 
+0 
+Costo de enajenación de activos 0 
+ 
+114 
+
+=== PAGINA PDF 48 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+48 
+ 
+ Deterioro de Planta y Equipo 0 
+ 
+0 
+Total 0 
+ 
+114 
+ 
+ 
+29 INGRESOS FINANCIEROS  
+Comprende: 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Intereses compensatorios y moratorios 600 
+ 
+478 
+Intereses de convenios 1 
+ 
+1 
+Intereses por depósitos bancarios 128 
+ 
+91 
+Intereses factoring 11 
+ 
+9 
+Dividendos  0 
+ 
+0 
+Otros ingresos financieros 6 
+ 
+5 
+Total 746 
+ 
+586 
+ 
+30 GASTOS FINANCIEROS  
+ 
+Comprende: 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Intereses de préstamos 655 
+ 
+527 
+Intereses  por contribuciones reembolsables 309 
+ 
+133 
+Gastos de compra de Valores 521 
+  Otros gastos financieros 81 
+ 
+131 
+Total 1,566 
+ 
+791 
+ 
+31 DIFERENCIA DE CAMBIO NETO 
+ 
+Comprende: 
+ 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Ganancia por diferencia de cambio (nota 5) 242 
+ 
+99 
+Pérdida por Diferencia de cambio (nota 5) -386 
+ 
+-215 
+Total neto -145 
+ 
+-116 
+ 
+ 
+ 
+ 
+32 GASTO POR IMPUESTO A LAS GANANCIAS 
+ 
+ 
+a) La Gerencia considera que ha determinado la materia imponible bajo el régimen general del 
+impuesto a las ganancias de acuerdo con la legislación tributaria vigente, la que exige agregar y 
+deducir al resultado, mostrado en los estados financieros, aquellas partidas que la referida 
+legislación reconoce como gravables y no gravables, respectivamente. 
+ 
+
+=== PAGINA PDF 49 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+49 
+ 
+El gasto por impuesto a las gan ancias corriente corresponde al impuesto por pagar, aplicando 
+una tasa de 30% sobre la utilidad imponible, después de deducir la participación de los 
+trabajadores  un porcentaje de 5%. 
+ 
+En consecuencia la materia imponible ha sido determinada como sigue: 
+ 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Impuesto a la Ganancia corriente 9,774 
+ 
+7,000 
+Impuesto a las ganancias diferido  
+   
+ 
+9,774 
+ 
+7,000 
+ 
+ 
+b) De conformidad con la Resolución de Superintendencia N° 167 -2006- SUNAT publicada el 14 
+de octubre del 2006, las empresas que conforman la Actividad Empresarial del Estado , como es 
+el caso de la Empresa, están exonerados de la obligación de presentar la declaración jurada anual 
+informativa y de contar con estudio técnico de precios transferencia, respecto d e las 
+transacciones con parte relacionadas. 
+ 
+c) El Impuesto Temporal a los Activos Netos, grava a los generadores de rentas de tercera categoría 
+sujetos al régimen general del Impuesto a la Renta.  A partir del año 2009, la tasa del impuesto 
+es de 0.5% aplicable al monto de los activos netos que excedan S/. 1 millón. 
+ 
+El monto efectivamente pagado podrá utilizarse como crédito contra los pagos a cuenta del 
+Régimen General del Impuesto a la Renta o contra el pago de regularización del Impuesto a la 
+Renta del ejercicio gravable al que corresponda. 
+ 
+d) Las autoridades tributarias tienen la facultad de revisar y de ser aplicable, corregir el Impuesto a 
+la Renta calculado por la Empresa en los cuatro años posteriores al año de la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta de los años 2008 a 
+2013 e Impuesto General a las Ventas de los años 2008 a 201 3 se encuentran pendientes de 
+revisión por parte de las autoridades tributarias. 
+ 
+Debido a que pueden surgir difere ncias en la interpretación por parte de la Administración 
+Tributaria sobre las normas aplicables a la Empresa, no es posible participar a la fecha si se 
+producirán pasivos tributarios adicionales como resultado de eventuales revisiones.  Cualquier 
+impuesto adicional, moras e intereses, si se producen, se reconocerán en los resultados de año en 
+el que la diferencia de criterios con la Administración Tributaria se resuelve.  Sin embargo; en 
+opinión de la Gerencia de la Empresa y de sus asesores legales, cualq uier eventual liquidación 
+adicional de impuestos no sería significativa para los estados financieros al 31 de diciembre de 
+2014 y al 31 de diciembre de 2013. 
+ 
+ 
+33 PARTICIPACIÓN DE LOS TRABAJADORES 
+ 
+De acuerdo a la legislación vigente la participación anual de los trabajadores en las utilidades de la 
+empresa es de 5% de la renta neta .Esta participación es gasto deducible para propósito del cálculo 
+del impuesto a las  ganancias. 
+Al primer trimestre de 2015 la Empresa determinó una participación  a favor de su s trabajadores por 
+la suma de S /. 1,715 que se registró con cargo a resultados del año (S/. 1,228 en el 201 4).  La 
+participación se ha distribuido como sigue: 
+ 
+
+=== PAGINA PDF 50 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+50 
+ 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+COSTO Y GASTOS 
+   Costo de Ventas 625 
+ 
+389 
+Gastos de Ventas 332 
+ 
+230 
+Gastos de Administración 757 
+ 
+609 
+Total 1,715 
+ 
+1,228 
+ 
+ 
+  
+34 TRANSACCIONES NO MONETARIAS Y ESTADO DE FLUJOS DE EFECTIVO 
+  
+ Las actividades de inversión y financiamiento que no generaron desembolsos de efectivo, y que 
+afectaron activos y pasivos para el trimestre  terminados el 31 de marzo de 2015 y al 31de diciembre 
+de 2014 se resumen de la siguiente forma: 
+ 
+ 
+Al 31.03.2015 
+ 
+Al 31.12.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Propiedad, planta y equipo recibido como 
+   aporte de capital 0 
+ 
+27,793,449 
+Propiedad, planta y equipo recibido como  
+   contribuciones 
+   Propiedad, planta y equipo recibido como 
+   Subvenciones 0 
+ 
+0 
+Activos por impuesto a las ganancias diferidas 
+  
+10,742,745 
+Pasivos por impuesto a las ganancias diferidas 0 
+ 
+44,847,809 
+Otros por identificar 
+    
+ 
+ 
+35 CONTINGENCIAS 
+ 
+Actualmente, la Empresa tiene vigentes  diversos procesos tributarios, legales y laborales 
+relacionados con sus operaciones.  En opinión de la Gerencia y de los asesores legales de la 
+Empresa, el resultado de estos procesos no representará desembolsos para la Empresa, por lo que no 
+se ha regist rado ninguna provisión por estos procesos al 31 de marzo de 2015 y 31de diciembre de 
+2013. 
+ 
+A continuación se describen los principales procesos: 
+a) La Empresa tiene diversas acciones civiles en su contra, que han sido evaluadas por la gerencia 
+y sus asesores  legales como posibles, las cuales están relacionadas a 9 (nueve) reclamo por 
+indemnización de denuncia calumniosa , reivindicación de daños y perjuicios , por 
+aproximadamente S/.  3’533,005. En opinión de la Gerencia y de sus asesores legales, como 
+consecuencia de estas acciones judiciales no resultarán pasivos de importancia para los estados 
+financieros.   
+b) La Empresa tiene diversas acciones judiciales en su contra, y están relacionados con 
+257(doscientos cincuentaisiete) reclamos laborales por revisión de beneficios sociales, reintegro 
+de beneficios y remuneraciones,  incorporación a planilla  e indemnizaciones por despido por 
+aproximadamente S/.30’351,103  En opinión de la Gerencia y de sus a sesores legales, como 
+consecuencia de estas acciones judiciales no resultarán pasivos de importancia para los estados 
+financieros. 
+
+=== PAGINA PDF 51 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+51 
+ 
+c) La Empresa tiene un proceso laboral adicional con el Sindicato de Trabajadores de 
+HIDRANDINA, siendo la materia demandada inc remento y reintegro de remuneraciones por 
+aproximadamente S/. 1’077,586.  La Gerencia de la empresa y sus asesores legales consideran 
+que existen argumentos sólidos para que se obtenga un resultado favorable para los intereses de 
+la empresa. 
+d) La Empresa tiene 2 (dos) procesos arbitrales, que se encuentran en el Centro de Arbitraje de la 
+Cámara de Comercio de Lima , por S/. 1’294,099.  La Gerencia de la empresa y sus asesores 
+legales consideran que existen argumentos sólidos para que se obtenga un resultado fa vorable 
+para los intereses de la empresa. 
+  
+ 
+36 SITUACION TRIBUTARIA 
+ 
+La Empresa  está sujeta al régimen peruano. Al 31 de marzo de 2015 y al 31 de diciembre de 201 4, 
+la tasa del impuesto a las ganancias es de 30 %  sobre la utilidad gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un impuesto 
+adicional de 4.10 % sobre los dividendos. 
+ 
+Al 31 de marzo de 2015 se encuentran pendientes de resolución por  parte del Tribunal Fiscal los 
+recursos de apelación interp uesta contra las Resoluciones de Intendencia N° 
+0650140000928/SUNAT y N° 06501400001084/SUNAT que declararon infundados los recursos de 
+reclamación  interpuestos contra las resoluciones emitidas como resultado de la fiscalización del 
+Impuesto a la Renta de los ejercicios 2004 y 2008 respectivamente. 
+ 
+Con fecha 11 de diciembre de 2012, la empresa efectúo el pago de la deuda tributaria apelada 
+correspondiente a los reparos tributarios que a juicio de los asesores legales no obtendrán un 
+resultado favorable. El importe pagado ascendió a S/. 4’661,762.  Al 31 de marzo de 2015 la deuda 
+tributaria no pagada asciende a S/ 6’574,913 ( S/. 6’422,763 al 31.12.2014), la cual está vinculada al 
+reparo por concepto de merma técnica de energía no sustentada. 
+A juicio de la Gerencia y sus asesores legales, existen argumentos jurídicos para obtener un resultado 
+favorable en relación a este reparo. 
+ 
+37 COMPROMISOS 
+ 
+La Empresa ha otorgado cartas fianzas por garantía a terceros, por compromisos de devolución de 
+costo de conexiones domiciliarias a la DGER Dirección General de Electrificación Rural por S/. 
+895,451 en el 2015 (S/. 245,046 en el 2014). 
+ 
+ 
+38 REGLAMENTO AMBIENTAL 
+ 
+En cumplimiento del Decreto Ley N° 25844 y del Decreto Supremo N° 29 -94-EM Reglamento de 
+Protección Ambiental en las Actividades Eléctricas, la Empresa en su oportunidad elaboró y presentó 
+su Programa de Adecuación y Manejo Ambiental (PAMA) en relación con su actividad de 
+distribución de energía eléctrica.   
+Para la ejecución de los informes de monitoreo ambiental  se cuenta con el apoyo de la empresa AW 
+Ingenieros Consultores SAC, autorizada por la Dirección General de Asuntos Ambientales del 
+Ministerio de Energía y Minas. 
+De acuerdo a lo establecido en el D.S. 029 -94-EM, se viene cumpliendo con realizar el monitoreo 
+encaminados a evaluar los siguientes parámetros medio ambientales: niveles de ruido, 
+
+=== PAGINA PDF 52 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+52 
+ 
+electromagnetismo, calidad de aire, emisiones gaseosas, calidad de agua en efluentes líquidos, 
+calidad de agua en cuerpos receptores.   En Enero 2015 se presentó el Informe de Monitoreo 
+Ambiental al Organismo de Evaluación y Fiscalización Ambiental (OEFA) y al Ministerio de 
+Energía y Minas correspondiente al IV Trimestre 2014. 
+Asimismo, se viene cumpliendo con la atención de la Resolución OSINERGMIN N° 245 -2007-
+OS/CD relacionada con el Procedimiento para la Supervisión Ambiental de las Empresa 
+Eléctricas.  De igual modo, se viene dando atención a la Resolución N° 009 -2009-MINAN 
+“Implementación de las Medidas de Ecoeficiencia para el Sector Público”. 
+ 
+ 
+SEGURIDAD Y SALUD EN EL TRABAJO 
+En Febrero 2015 se realizó la Primera Auditoria Externa de Seguimiento del Sistema del Sistema 
+Integrado de Gestión, bajo los estándares de las normas I SO 9001:2008 Gestión de la Calidad, 
+OHSAS 18001:2007 Gestión de la Seguridad y Salud en el Trabajo e ISO 14001:2004 Gestión 
+Ambiental, que comprende los procesos de Generación, Transmisión, Distribución y 
+Comercialización de la energía eléctrica.  
+ 
+39 UTILIDAD POR ACCIÓN 
+ 
+La utilidad por acción básica y diluida ha sido determinada como sigue: 
+ 
+(a) Ganancia básica por acción 
+ 
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Ganancia atribuible a los accionistas comunes  
+                 
+14,805  
+ 
+              
+12,918  
+Promedio ponderado de las acciones en circulación  
+               
+678,278  
+ 
+            
+678,278  
+Ganancia básica por acción común:  0.02183  
+ 
+0.01905  
+ 
+ 
+ 
+(b) Ganancia diluida por acción 
+  
+ 
+Al 31.03.2015 
+ 
+Al 31.03.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+Ganancia atribuible a los accionistas comunes  
+                 
+14,805  
+ 
+              
+12,918  
+Promedio ponderado de las acciones en  
+   circulación, ajustado por todos los efectos  
+   
+dilusivos, inherentes a las acciones potenciales 905,408  
+ 
+            
+877,615  
+Ganancia diluida por acción común: 0.01635 
+ 
+0.01472 
+ 
+  
+ 
+
+=== PAGINA PDF 53 ===
+NOTAS A LOS ESTADOS FINANCIEROS AL 31 DE MARZO DE 2015 
+HIDRANDINA S.A. 
+ 
+ 
+53 
+ 
+ 
+Los efectos dilusivos inherentes a las acciones potenciales provienen del capital adicional de la 
+Empresa (Nota 23), por los aportes pendientes de capitalización. 
+ 
+40 DIVIDENDOS 
+ 
+La Ley No.27170 – Ley del Fondo Nacional de Financiamiento de la Actividad Empresarial del 
+Estado – FONAFE, en su artículo 4º dispone que las empresas del Holding del FONAFE, como la 
+Empresa, deberán transferirle automáticamente antes del 30 de abril de ca da año, el total de las 
+utilidades distribuibles obtenidas en el ejercicio anterior, sobre la base de estados financieros 
+auditados. Los dividendos declarados  y pagados en los años 2014 y 2013, se resumen como sigue: 
+Declarados y pagados sobre acciones comunes Al 31.03.2015 
+ 
+Al 31.12.2014 
+ 
+S/. 000 
+ 
+S/. 000 
+    
+    Distribución de S/. 34'737,987.40  correspondiente a la  
+   ganancia neta de 2013, aprobada por la Junta General  
+   de Accionistas del 31 de marzo de 2014 
+   
+    Dividendo de S/. 0.04609347 por acción 
+   FONAFE (95.182333% de S/.31'264,188.66) 
+  
+29,758 
+Accionistas privados (4.817667% de S/31'264,188.66) 
+  
+1,506 
+   
+31,264 
+Distribución de S/. 65'800,977.19  correspondiente a la  
+   ganancia neta de 2014, aprobada por la Junta General  
+   de Accionistas del 24 de marzo de 2015 
+   
+    Dividendo de S/. 0.08731063 por acción 
+   FONAFE (95.182333% de S/.59'220,879.47) 56,368 
+  Accionistas privados (4.817667% de S/59'220,879.47) 2,853 
+  
+ 
+59,221 
+ 
+0 
+ 
+  
+El monto de dividendos pendiente de pago en el año 201 5 es de S/. 59’220,879 y en el año 201 4 es 
+de S/. 31’264,188.  
+ 
+41 HECHOS POSTERIORES 
+ 
+No se tiene conocimiento de hechos importantes ocurridos entre la fecha de cierre de estos estados 
+financieros y la fecha de este informe, que puedan afectarlos significativamente. 
+ 

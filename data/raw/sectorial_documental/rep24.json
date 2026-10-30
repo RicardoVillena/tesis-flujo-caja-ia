@@ -1,0 +1,11 @@
+{
+  "id": "rep24",
+  "url": "https://www.smv.gob.pe/ConsultasP8/temp/Informacion_Financiera_Auditada_REP_2024.pdf",
+  "url_final": "https://www.smv.gob.pe/ConsultasP8/temp/Informacion_Financiera_Auditada_REP_2024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "c15c12db4bad02c50fd9cf1f15cbfe8277b37d6a02e6b82946d4fb5f1986495b",
+  "sha256_texto": "1fb028590bfbefeb8649e8b3d8ad3e960a9b6e91a25a1905c80609dafa5d79fd",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

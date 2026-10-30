@@ -1,0 +1,3 @@
+moneda,menor_RMSE_anual_medio,alternativa_con_superioridad_consistente,modelo_vigente,cambio_recomendado,motivo_decision,elastic_net_recomendado,boosting_recomendado,orden_RMSE_anual_medio,empresa_excluida
+D lares,persistencia,persistencia,persistencia,Sustituir ridge por persistencia (exploratorio; requiere confirmación en datos no examinados),persistencia cumple la regla frente a los otros 4 procedimientos.,False,False,persistencia < boosting < ridge < elastic_net < media_historica,CM0006
+Soles,ridge,,ridge,Conservar ridge; no se recomienda sustituirlo,"ridge tiene el menor RMSE observado, pero ningún procedimiento cumple la regla frente a todos los demás.",False,False,ridge < boosting < elastic_net < media_historica < persistencia,B80004

@@ -1,0 +1,1981 @@
+
+=== PAGINA PDF 1 ===
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ESTADOS FINANCIEROS 
+Hidrostal S.A. 
+Al 31 de diciembre de 2024 y 2023 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 2 ===
+Hidrostal S.A.   
+ 
+ 
+Contenido  
+  Página 
+ 
+Dictamen de los auditores independientes                                                                                            3 
+ 
+Estados de situación financiera 7 
+ 
+Estados de resultados integrales 8 
+ 
+Estados de cambios en el patrimonio  9 
+ 
+Estados de flujos de efectivo 10 
+ 
+Notas a los estados financieros 11  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 3 ===
+Hidrostal S.A.  3  
+ 
+Ropert, Sarrio & Asociados S.C. 
+Av. Santa Cruz Nro. 381 Dpto. 501 - Miraflores   
+ 
+T. +51 1 615 6868 
+info@tgs-sarrio.pe 
+www.tgs-sarrio.pe 
+ 
+ 
+Ropert, Sarrio y Asociados SC es miembro independiente de TGS. Como entidad legal separada e independiente de TGS, Ropert, Sa rrio y Asociados SC es el 
+único responsable del trabajo que realiza y de los servicios que brinda a sus clientes. Ropert, Sarrio y Asociados SC no tien e responsabilidad por los actos u 
+omisiones de otras firmas miembro. 
+www.tgs-sarrio.pe 
+Dictamen de los auditores independientes 
+ 
+ 
+ 
+Al Directorio y Controladora de 
+Hidrostal S.A. 
+ 
+ 
+1. Opinión  
+Hemos auditado los estados financieros de Hidrostal S.A. que comprenden el estado de situación financiera al 
+31 de diciembre de 2024, el estado de resultados y otros resultados integrales, de cambios en el patrimonio y 
+de flujos de efectivo por los años terminados en esa fecha, así como las notas explicativas a los estados 
+financieros que incluyen el resumen de las políticas contables significativas y otra información explicativa. 
+ 
+En nuestra opinión, los estados financieros adjuntos presentan razonablemente, en todos sus aspectos 
+significativos, la situación financiera de Hidrostal S.A. al 31 de diciembre de 2024, su desempeño financiero y 
+flujos de efectivo por el año terminado en esa fecha, de conformidad con Normas Internaciones de 
+Información Financiera (NIIF) emitidas por el International Accounting Standards Board (IASB). 
+ 
+2. Bases o fundamento para nuestra opinión  
+Efectuamos nuestra auditoría de conformidad con Normas Internacionales de Auditoría (NIA) aprobadas para 
+su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos del Perú. Nuestras 
+responsabilidades de acuerdo con estas normas se describen con más detalle en la sección Responsabilidades 
+del Auditor por la auditoría de los estados financieros de nuestro dictamen.  
+ 
+Somos independientes de la Compañía de conformidad con el Código de Ética para Profesionales de la 
+Contabilidad del Consejo de Normas Internacionales de Ética para Contadores (Código de Ética del IESBA) 
+junto con los requisitos éticos que son relevantes para nuestra auditoría de los estados financieros en Perú, y 
+hemos cumplido con nuestras otras responsabilidades de ética en conformidad con estos requisitos 
+ 
+Consideramos que la evidencia de auditoría que hemos obtenido es suficiente y apropiada para fundamentar 
+nuestra opinión. 
+ 
+3. Asuntos clave de la auditoría 
+Los asuntos clave de la auditoría son aquellos que, según nuestro juicio profesional, han sido de mayor 
+importancia en nuestra auditoría de los estados financieros del período actual. Estos asuntos han sido tratados 
+en el contexto de nuestra auditoría de l os estados financieros en su conjunto y al formarnos nuestra opinión 
+sobre los mismos; sin embargo, no emitimos una opinión por separado sobre estos asuntos. Para cada asunto 
+clave de auditoría, describimos cómo se abordó en el contexto de nuestra auditoría. 
+ 
+Hemos cumplido las responsabilidades descritas en la sección “Responsabilidades del auditor por la auditoría 
+de los estados financieros” de nuestro informe, incluyendo las relacionadas con los asuntos clave de auditoría. 
+Consecuentemente, nuestra auditoría incluyó la aplicación de procedimientos diseñados a responder a nuestra 
+evaluación de los riesgos de desviación material de los estados financieros adjuntos.  
+ 
+Los resultados de nuestros procedimientos de auditoría, incluyendo los procedimientos aplicados para 
+abordar los asuntos clave de la auditoría descritos más adelante, proporcionan las bases para nuestra opinión 
+de auditoría de los estados financieros adjuntos. 
+
+=== PAGINA PDF 4 ===
+Hidrostal S.A.  4  
+ 
+Ropert, Sarrio & Asociados S.C. 
+Av. Santa Cruz Nro. 381 Dpto. 501 - Miraflores   
+ 
+T. +51 1 615 6868 
+info@tgs-sarrio.pe 
+www.tgs-sarrio.pe 
+ 
+ 
+Ropert, Sarrio y Asociados SC es miembro independiente de TGS. Como entidad legal separada e independiente de TGS, Ropert, Sa rrio y Asociados SC es el 
+único responsable del trabajo que realiza y de los servicios que brinda a sus clientes. Ropert, Sarrio y Asociados SC no tien e responsabilidad por los actos u 
+omisiones de otras firmas miembro. 
+www.tgs-sarrio.pe 
+ 
+ 
+Determinación del valor razonable de terrenos, inmuebles y maquinarias 
+ 
+Descripción del asunto clave de auditoría: 
+Hemos considerado un asunto clave de auditoria el proceso y los criterios seguidos por la Compañía para 
+contabilizar la valuación de sus activos fijos en operación (terrenos, inmuebles y otras construcciones y 
+maquinarias) incluidos en el rubro de Propiedades, planta y equipo,  esto debido a que la Gerencia cada dos 
+años evalúa la necesidad de efectuar revaluaciones, de tal manera que el valor en libros no difiera de forma 
+importante de lo que se habría calculado utilizando los valores razonables al final del periodo sobre el que se 
+informa, evalúa el uso de supuestos y cálculos con juicio significativo en el cálculo de valor de mercado y 
+determinación de sus  vidas útiles los cuales requieren de juicios significativos de la Gerencia. 
+ 
+El proceso de revaluación de los terrenos, inmuebles y otras construcciones y maquinarias es complejo e 
+involucra un alto grado de juicio que toma como base supuestos que pueden ser afectados por condiciones 
+económicas y de mercado futuras, como son, entre  otras, la competencia, cambios tecnológicos, entorno 
+político y económico, el desempeño comercial, el tipo de cambio y las inversiones futuras. Los resultados de 
+este proceso de revaluación fueron materiales en los estados financieros. 
+ 
+Como abordamos el asunto clave en nuestra auditoría: 
+Evaluamos las políticas para el reconocimiento de activos de Propiedades, planta y equipos relacionados con 
+la Norma Internacional de Contabilidad NIC 16 – Propiedades, planta y equipo, obtuvimos las tasaciones 
+realizadas en años anteriores y evaluamos los  juicios significativos hechos por la Gerencia y los consultores 
+externos. Revisamos que los activos no hayan experimentado cambios significativos en su valor razonable para 
+la necesidad de obtener revaluaciones anuales, así como la comparación entre el va lor razonable de dichos 
+activos revaluados y respectivos importes en libros por eventuales diferencias significativas. 
+ 
+Adicionalmente, nuestros procedimientos de auditoria incluyeron entre otros, el entendimiento de los 
+procesos de negocio relevantes: la revisión de las tasaciones y registros realizados en años anteriores y 
+verificamos la razonabilidad de la vida útil asignada a los activos y las revelaciones en los estados financieros, 
+para ello involucramos a nuestros especialistas para participar en la evaluación de los supuestos significativos 
+y la metodología utilizada por los consultores externos para determinar los v alores razonables y vida útil de 
+los activos fijos. Los resultados se mencionan en la Nota 2 (i) a los estados financieros.  
+ 
+4. Otra información  
+La Gerencia es responsable de la otra información. La otra información comprende la información incluida en 
+el Reporte Anual presentado a la Superintendencia del Mercado de Valores (SMV), pero no incluye los estados 
+financieros ni nuestro informe de audito ría correspondiente. Esperamos disponer de la otra información 
+después de la fecha de este informe de auditoría. Nuestra opinión sobre los estados financieros no cubre la 
+otra información y no expresamos ninguna forma de conclusión que proporcione un grado de seguridad sobre 
+esta. En relación con nuestra auditoría de los estados financieros, nuestra responsabilidad es leer y considerar 
+la otra información que identificamos anteriormente cuando dispongamos de ella y, al hacerlo, considerar si 
+existe una inco nsistencia material entre la otra información y los estados financieros o el conocimiento 
+obtenido por nosotros en la auditoría o si parece que existe una desviación material en la otra información 
+por algún otro motivo. Cuando leamos y consideremos el Rep orte Anual presentado a la SMV, si concluimos 
+que contiene una desviación material, estamos obligados a comunicar el asunto a los responsables del 
+gobierno de la Compañía y emitir la declaratoria sobre el Reporte Anual requerida por la SMV, en la cual se 
+describirá el asunto. 
+ 
+
+=== PAGINA PDF 5 ===
+Hidrostal S.A.  5  
+ 
+Ropert, Sarrio & Asociados S.C. 
+Av. Santa Cruz Nro. 381 Dpto. 501 - Miraflores   
+ 
+T. +51 1 615 6868 
+info@tgs-sarrio.pe 
+www.tgs-sarrio.pe 
+ 
+ 
+Ropert, Sarrio y Asociados SC es miembro independiente de TGS. Como entidad legal separada e independiente de TGS, Ropert, Sa rrio y Asociados SC es el 
+único responsable del trabajo que realiza y de los servicios que brinda a sus clientes. Ropert, Sarrio y Asociados SC no tien e responsabilidad por los actos u 
+omisiones de otras firmas miembro. 
+www.tgs-sarrio.pe 
+5. Responsabilidades de la Gerencia por los estados financieros  
+La Gerencia es responsable de la preparación y presentación razonable de los estados financieros de acuerdo 
+con Normas Internacionales de Información Financiera (NIIF) emitidas por el Internacional Accounting 
+Standards Board (IASB), y del control interno q ue la Gerencia considere que es necesario para permitir la 
+preparación de estados financieros libres de incorrección material, ya sea por fraude o error. 
+ 
+En la preparación de los estados financieros, la Gerencia es responsable de evaluar la capacidad de la 
+Compañía de continuar como empresa en marcha, revelando, según sea aplicable, los asuntos relacionados a 
+la continuidad de operaciones y utilizando el pr incipio contable de empresa en marcha, a menos que la 
+Gerencia tenga la intención de liquidar a la Compañía o cesar sus operaciones, o no tenga otra alternativa 
+realista que liquidar o cesar sus operaciones. 
+ 
+Los encargados del Gobierno de Hidrostal S.A. son responsables de la supervisión del proceso de información 
+financiera de la Compañía. 
+ 
+6. Responsabilidades del auditor por la auditoría de los estados financieros  
+Nuestros objetivos son obtener una seguridad razonable de que los estados financieros en su conjunto estén 
+libres de errores materiales, ya sea por fraude o error, y emitir un dictamen de auditoría que incluya nuestra 
+opinión. Seguridad razonable es un alto nivel de seguridad, pero no garantiza que una auditoría efectuada de 
+conformidad con las NIA aprobadas para si aplicación el Perú siempre detecte errores materiales, cuando 
+existan. Los errores pueden surgir de fraude o error que son considerados materiales si, individualmente o en 
+agregado, podrían razonablemente influenciar en las decisiones económicas que los usuarios toman 
+basándose en los estados financieros. 
+ 
+Como parte de una auditoría de acuerdo con NIA, ejercemos nuestro juicio profesional y mantenemos 
+escepticismo profesional durante toda la auditoría. Además: 
+ 
+. Identificamos y evaluamos los riesgos de errores materiales en los estados financieros, ya sea por fraude o 
+error, y deseñamos y aplicamos procedimientos de auditoría en respuestas estos riesgos y obtenemos 
+evidencia de auditoría que sea suficiente y apropiada en ofrecer fundamento para nuestra opinión. El riesgo 
+de no detectar un error material que resulte de fraude es más elevado que el no detectar uno que surge 
+de un error, puesto que el fraude puede involucrar colusión, falsificación, omisiones intencionales, 
+declaraciones falsas o la vulneración del control interno. 
+. Obtuvimos un entendimiento del control interno relevante a la auditoría con el propósito de diseñar 
+procedimientos de auditoría que sean apropiados en las circunstancias, pero no con el propósito de 
+expresar una opinión sobre la efectividad del control interno de Hidrostal S.A. 
+. Evaluamos lo adecuado de las políticas contables aplicadas y la razonabilidad de las estimaciones contables 
+y respectiva información revelada por la Gerencia. 
+. Concluimos sobre el adecuado uso del principio contable de empresa en marcha por parte de la Gerencia 
+y, sobre la base de la evidencia obtenida, no se identificó alguna incertidumbre significativa relacionada a 
+eventos o condiciones que pueden suscitar dud as significativas sobre la capacidad de Hidrostal S.A. de 
+continuar como empresa en marcha. Si llegáramos a la conclusión que existe una incertidumbre 
+significativa, tenemos el requerimiento de llamar la atención en nuestro dictamen de auditoría de la 
+respectiva información revelada en los estados financieros o, si tales revelaciones son inadecuadas, 
+modificar nuestra opinión. Nuestras conclusiones se sustentan en la evidencia de auditoría obtenida hasta 
+la fecha de nuestro dictamen de auditoría. Sin embarg o, eventos o condiciones futuras podrían originar 
+que Hidrostal S.A. ya no pueden continuar como empresa en marcha. 
+
+=== PAGINA PDF 6 ===
+Hidrostal S.A.  6  
+ 
+Ropert, Sarrio & Asociados S.C. 
+Av. Santa Cruz Nro. 381 Dpto. 501 - Miraflores   
+ 
+T. +51 1 615 6868 
+info@tgs-sarrio.pe 
+www.tgs-sarrio.pe 
+ 
+ 
+Ropert, Sarrio y Asociados SC es miembro independiente de TGS. Como entidad legal separada e independiente de TGS, Ropert, Sa rrio y Asociados SC es el 
+único responsable del trabajo que realiza y de los servicios que brinda a sus clientes. Ropert, Sarrio y Asociados SC no tien e responsabilidad por los actos u 
+omisiones de otras firmas miembro. 
+www.tgs-sarrio.pe 
+. Evaluamos la presentación general, estructura y contenido de los estados financieros, incluyendo la 
+información revelada y si los estados financieros representan las respectivas transacciones eventos de una 
+manera que logre su presentación razonable. 
+. Obtenemos evidencia suficiente y apropiada de auditoría respecto a información financiera de las 
+principales entidades o actividades de negocios dentro de la Compañía para expresar una opinión sobre 
+los estados financieros. Somos responsables por la dirección, supervisión y ejecución de la auditoría de la 
+Compañía. Somos los únicos responsables por nuestra opinión de auditoría. 
+ 
+ 
+ 
+ 
+Nos comunicamos con aquellos encargados del Gobierno respecto de, entre otros aspectos, el alcance y la 
+oportunidad de la auditoría planificados y los hallazgos significativos de auditoría, así como cualquier 
+deficiencia significativa en el control interno que identificamos en el transcurso de nuestra auditoría. 
+ 
+ 
+ 
+Lima, Perú 10 de marzo de 2025 
+ 
+ 
+Refrendado por:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Andrés Ropert (Socio) 
+Contador Público Colegiado 
+Matrícula N° 39184 
+ 
+ 
+
+
+=== PAGINA PDF 7 ===
+Hidrostal S.A.  7  
+ 
+Estados de situación financiera 
+Al 31 de diciembre de 2024 y 2023 
+(Expresado en Soles) 
+ 
+ 
+ 
+ 
+  Notas 31.12.2024 31.12.2023 
+Efectivo y equivalente de efectivo 2.e., 4 20,034,349 25,019,936 
+Cuentas por cobrar comerciales, neto 2.e., 5 37,153,552 29,615,767 
+Cuentas por cobrar a partes relacionadas 2.e., 6 2,695,383 3,382,125 
+Otras cuentas por cobrar, neto 2.e., 7 1,186,967 2,958,362 
+Inventarios, neto 2.g., 8 57,848,243 53,905,830 
+Gastos pagados por anticipado    47,611 52,530 
+Total activo corriente   118,966,105 114,934,550 
+      
+Otras cuentas por cobrar, neto 2.e., 7 12,168,545 11,374,468 
+Propiedades de inversión, neto 2.h., 9 7,175,773 7,219,826 
+Propiedades, planta y equipo, neto 2.i., 10 233,975,924 222,329,595 
+Intangibles, neto 2j. 1,404,963 1,399,476 
+Total activo no corriente   254,725,205 242,323,365 
+TOTAL ACTIVO   373,691,310 357,257,915 
+      
+Cuentas por pagar comerciales 2.e., 11 10,774,098 15,429,611 
+Cuentas por pagar a partes relacionadas 2.e., 6 2,814,479 3,190,803 
+Otras cuentas por pagar 2.e., 12 16,040,496 12,386,417 
+Total pasivo corriente   29,629,073 31,006,831 
+      
+Cuentas por pagar a partes relacionadas 2.e., 6 3,208,460 4,059,706 
+Otras cuentas por pagar 2.e., 12 951,822 0 
+Impuesto a la renta diferido, neto 2.s., 13 53,682,384 50,262,312 
+Total pasivo no corriente   57,842,666 54,322,018 
+TOTAL PASIVO   87,471,738 85,328,849 
+       
+Patrimonio      
+Capital social 2.o., 14 53,971,078 53,971,078 
+Acciones de inversión 15 21,602,650 21,602,650 
+Reserva legal 16 10,794,216 10,660,058 
+Superávit de revaluación 17 139,887,858 129,281,685 
+Resultados acumulados 18 59,963,770 56,413,595 
+Total patrimonio   286,219,572 271,929,066 
+TOTAL PASIVO Y PATRIMONIO   373,691,310 357,257,915 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas que se adjuntan forman parte de los estados financieros.
+
+=== PAGINA PDF 8 ===
+Hidrostal S.A.  8  
+ 
+Estados de resultados integrales 
+Al 31 de diciembre de 2024 y 2023 
+(Expresado en Soles) 
+ 
+ 
+ 
+ 
+  Notas 31.12.2024 31.12.2023 
+        
+Venta de bienes y servicios  2.p., 19 141,646,907 169,260,857 
+Costo de ventas y servicios 2.r., 20 (95,622,098) (126,091,116) 
+Utilidad bruta  46,024,809 43,169,741 
+     
+Gastos de administración 2.r., 21 (11,668,572)           (11,533,526) 
+Gastos de ventas 2.r., 22 (27,994,250)          (28,397,794) 
+Otros ingresos 2.q., 23 1,977,007 1,928,220    
+Otros gastos 2.r. (174,937)                   (97,277)     
+Utilidad operativa  8,164,057 5,069,363 
+     
+Ingresos Financieros  1,256,474    763,978    
+Gastos Financieros  (356,751)    (311,091) 
+Diferencia en cambio, neto 2.d. (74,251)               (700,161) 
+Utilidad antes del Impuesto a la Renta  8,989,529 4,822,089 
+     
+Impuesto a la Renta   2.s., 25 (5,305,197) (3,411,515) 
+Utilidad neta   3,684,332 1,410,574 
+    
+Utilidad básica y diluida por acción 2.u., 29 0.049 0.019 
+    
+OTROS RESULTADOS INTEGRALES:    
+Incremento por revaluación de propiedades, planta y 
+equipo 2.i. 15,044,217 0 
+Impuesto a la Renta diferido por revaluación de 
+propiedades, planta y equipo 2.i. (4,438,044) 0 
+Total otros resultados integrales  10,606,173 0 
+    
+Total resultados integrales del año  14,290,505 1,410,574 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas que se adjuntan forman parte de los estados financieros.
+
+=== PAGINA PDF 9 ===
+Hidrostal S.A.  9  
+ 
+Estados de cambio en el patrimonio 
+Al 31 de diciembre de 2024 y 2023 
+(Expresado en Soles) 
+ 
+ 
+ 
+ 
+  Capital 
+ social 
+Acciones 
+de 
+inversión 
+Reserva  
+legal 
+Superávit de 
+revaluación 
+Resultados 
+Acumulados Total   
+Saldos al 31 de diciembre 
+del 2022 53,971,078 21,602,650 9,513,629 129,281,685 56,149,450 270,518,492 
+Utilidad neta 0 0 0 0 1,410,574 1,410,574 
+Detracción de reserva legal  0 0 1,146,429 0 (1,146,429) 0 
+Saldos al 31 de diciembre 
+del 2023 53,971,078 21,602,650 10,660,058 129,281,685 56,413,595 271,929,066 
+Incremento por revaluación 
+(Nota 10) 0 0 0 15,044,217 0 15,044,217 
+Impuesto a la renta diferido 
+(Nota 13) 0 0 0 (4,438,044) 0 (4,438,044) 
+Utilidad neta 0 0 0 0 3,684,332 3,684,332 
+Detracción de reserva legal  0 0 134,157 0 (134,157) 0 
+Saldos al 30 de setiembre         
+del 2024 53,971,078 21,602,650 10,794,216 139,887,858 59,963,770 286,219,572 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas que se adjuntan forman parte de los estados financieros. 
+
+=== PAGINA PDF 10 ===
+Hidrostal S.A.  10  
+ 
+Estados de flujos de efectivo 
+Al 31 de diciembre de 2024 y 2023 
+(Expresado en Soles) 
+ 
+ 
+ 
+ 
+Actividades de operación Notas 31.12.2024 31.12.2023 
+Cobranzas a clientes  137,391,237 172,685,232 
+Otros cobros operativos  1,422,447 7,695,452 
+Pagos a proveedores  (77,699,524) (99,266,878) 
+Pagos de remuneraciones y beneficios sociales  (42,413,993) (41,818,809) 
+Pagos de tributos  (14,842,045) (18,794,770) 
+Pagos de regalías  (3,463,564) (3,564,662) 
+Flujo neto de efectivo proveniente de actividades de 
+operación  394,558 16,935,565 
+    
+Actividades de inversión    
+Cobranza por venta de maquinaria 10 270,964 107,564 
+Pagos por compra de maquinaria 10 (4,004,830) (4,668,613) 
+Compra de activos intangibles   (856,005) (591,652) 
+Flujo neto de efectivo utilizado en actividades de 
+inversión  (4,589,871) (5,152,701) 
+    
+Actividades de financiamiento    
+Amortizaciones de préstamos recibidos   (790,274) (4,124,796) 
+Flujo neto de efectivo utilizado en actividades de 
+financiamiento  (790,274) (4,124,796) 
+    
+(Disminución) aumento neto de efectivo y equivalente de 
+efectivo  (4,985,587) 7,658,068 
+Saldo de efectivo y equivalente de efectivo al inicio 4 25,019,936 17,361,868 
+Saldo de efectivo y equivalente de efectivo al final 4 20,034,349 25,019,936 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas que se adjuntan forman parte de los estados financieros.  
+
+=== PAGINA PDF 11 ===
+Hidrostal S.A.  11  
+ 
+Notas a los estados financieros 
+Al 31 de diciembre de 2024 y 2023 
+ 
+ 
+ 
+ 
+1. Identificación y actividad económica 
+ 
+a. Identificación 
+Hidrostal S.A. (en adelante la Compañía) se constituyó en el Perú, en la ciudad de Lima el 9 de abril de 
+1955. Es una empresa de derecho privado que se rige por sus estatutos y la Ley General de Sociedades. La 
+Compañía es subsidiaria de Hidrostal Holding A.G. domiciliada en Suiza, quien posee el 61.57% del 
+accionariado. La Compañía actúa en forma independiente de su Controladora en sus decisiones financieras 
+y operacionales, pero siempre manteniendo las metas y objetivos previstos por la Matriz. 
+ 
+El domicilio legal de la Compañía  donde se ubica  su fábrica, almacenes y oficinas administrativas se 
+encuentran en Avenida Portada del Sol No. 722 , Urbanización Zárate, distrito de San Juan de Lurigancho, 
+departamento de Lima. 
+ 
+b. Actividad económica 
+La Compañía se dedica principalmente a la fabricación y comercialización de bombas centrífugas, de partes 
+y piezas fundidas y mecanizadas. Asimismo, se dedica a la importación y comercialización de motores 
+eléctricos y transformadores y de otros productos afines al giro del negocio. 
+ 
+El 16 de abril de 2015, Frideco AG (empresa relacionada domiciliada en Suiza) y la Compañía suscribieron 
+un contrato indefinido de licencia de marcas, para el uso de la marca “Hidrostal” en todos los productos 
+fabricados y/o comercializados por la Compañía. 
+ 
+c. Aprobación de estados financieros 
+Los estados financieros de la Compañía al 31 de diciembre de 20 23 han sido aprobados por el Directorio 
+y la Junta General de Accionistas el 16 de marzo 2024 y 27 de marzo de 2024, respectivamente. Los estados 
+financieros de la Compañía al 3 1 de diciembre de 20 24 han sido autorizados para su emisión por la 
+Gerencia de la Compañía  el 14 de febrero del 2025 . En opinión de la Gerencia, los estados financieros 
+adjuntos serán aprobados por el Directorio y la Junta General de Accionistas sin modificaciones. 
+ 
+2. Políticas contables significativas 
+ 
+Las principales políticas contables adoptadas por la Compañía en la preparación y presentación de sus estados 
+financieros se señalan a continuación. Han sido preparados de acuerdo con Normas Internacionales de 
+Información Financiera (en adelante NIIF), bajo principios y criterios aplicados consistentemente por los años 
+presentados. 
+ 
+a. Base de presentación  
+En la preparación de los estados financieros adjuntos, la Gerencia de la Compañía ha cumplido con todas 
+las Normas Internacionales de Información Financiera (NIIF), emitidas por el International Accounting 
+Standards Board (IASB) vigentes al 31 de diciembre de 2024, que comprenden, las Normas Internacionales 
+de Información Financiera (NIIF), las interpretaciones de las NIIF, las Normas Internacionales de 
+Contabilidad (NIC) y las interpretaciones de las NIC. 
+ 
+i Declaración de cumplimiento y base de preparación y presentación 
+En la preparación de los estados financieros adjuntos, la Gerencia de la Compañía ha cumplido con 
+todas las Normas Internacionales de Información Financiera (NIIF), emitidas por el International 
+Accounting Standards Board (IASB) vigentes al 31 de diciembre de 2024, que comprenden, las Normas 
+Internacionales de Información Financiera (NIIF), las interpretaciones de las NIIF, las Normas 
+Internacionales de Contabilidad (NIC) y las interpretaciones de las NIC. 
+ 
+
+=== PAGINA PDF 12 ===
+Hidrostal S.A.  12  
+ 
+ii    La información contenida en estos estados financieros es responsabilidad de la Gerencia de la 
+Compañía, que manifiesta expresamente haber cumplido con la aplicación de las NIIF en su totalidad, 
+sin restricciones ni reservas. 
+ 
+iii  Los estados financieros han sido preparados sobre la base del costo histórico, a partir de los registros 
+de contabilidad mantenidos por la Compañía, excepto por los terrenos, edificios y otras construcciones 
+y maquinarias y equipos revaluados que han sido medidos al valor razonable y los activos y pasivos 
+financieros a valor razonable con cambios en resultados. 
+ 
+b. Uso de estimaciones contables 
+El proceso de preparación de los estados financieros requiere que la Gerencia de la Compañía lleve a cabo 
+estimaciones y supuestos para la determinación de los saldos de los activos, pasivos y montos de ingresos 
+y gastos, el monto de contingencias y la exposición de eventos significativos en notas a los estados 
+financieros.  
+ 
+El uso de estimaciones razonables es una parte esencial de la preparación de estados financieros y no 
+menoscaba su fiabilidad. Las estimaciones y juicios, determinados por la Compañía, son continuamente 
+evaluados y están basados en la experiencia histórica  y toda información que sea considerada relevante. 
+Si estas estimaciones y juicios variaran en el futuro como resultado de cambios en las premisas que las 
+sustentaron, los correspondientes saldos de los estados financieros serán corregidos en la fecha en la que 
+el cambio en las estimaciones y juicios se produzca.  Las estimaciones más significativas consideradas por 
+la Gerencia en relación con los estados financieros adjuntos están referidas a: 
+ 
+. Pérdidas crediticias esperadas de las cuentas por cobrar y préstamos por cobrar a terceros. 
+. Estimación para desvalorización de inventarios. 
+. Vida útil y valor recuperable de  las propiedades de inversión, propiedades, planta y equipo y activos 
+intangibles. 
+. La determinación del impuesto a la renta diferido. 
+. La determinación del valor razonable de las propiedades, planta y equipo. 
+ 
+c. Moneda funcional y de presentación 
+Para expresar sus estados financieros, la Compañía ha determinado su moneda funcional, sobre la base 
+del entorno económico principal donde opera, el cual influye fundamentalmente en la determinación de 
+los precios de los bienes que vende y/o los servicios que presta y en los costos que se incurren para 
+producir estos bienes y brindar estos servicios. Los estados financieros se presentan en soles, que es, a su 
+vez, la moneda funcional y la moneda de registro de la Compañía. Todas las transacciones son medidas en 
+la moneda funcional y, por el contrario, moneda extranjera es toda aquella distinta de la funcional.    
+ 
+d. Transacciones y saldos en moneda extranjera 
+Las operaciones en moneda extranjera se registran en soles aplicando los tipos de cambio del día de la 
+transacción. Los saldos al 31 de diciembre de 2024 y 2023 están valuados al tipo de cambio de cierre del 
+año. Las diferencias de cambio que se generan entre el tipo de cambio registrado al inicio de una operación 
+y el tipo de cambio de liquidación de la operación o el tipo de cambio de cierre del año  forman parte en 
+el estado de resultados integrales y presentadas como “Diferencia en cambio, neta”. 
+ 
+e. Clasificación y medición de los instrumentos financieros 
+Los instrumentos financieros se definen como cualquier contrato que origina simultáneamente un activo 
+financiero en una empresa y un pasivo financiero o un instrumento de patrimonio en otra empresa. En el 
+caso de la Compañía, los instrumentos financieros corresponden a los instrumentos primarios descritos a 
+continuación, 
+ 
+Activos financieros 
+Los activos financieros en el reconocimiento inicial se miden por su valor razonable más los costos de 
+transacción que sean directamente atribuibles a la adquisición o emisión del activo, excepto por las cuentas 
+por cobrar comerciales cuya medición es en base al precio de transacción (de acuerdo con NIIF 15) siempre 
+que no exista un componente financiero significativo. 
+ 
+Clasificación de activos financieros 
+
+=== PAGINA PDF 13 ===
+Hidrostal S.A.  13  
+ 
+Una entidad clasifica los activos financieros según se midan posteriormente a costo amortizado, a valor 
+razonable con cambios en otros resultados integrales y a valor razonable con cambios en resultados. La 
+clasificación depende del modo en que una entidad gestiona sus activos financieros de acuerdo con su 
+modelo de negocio y las características de los flujos de efectivo contractuales que espera recibir. 
+ 
+Para la medición posterior de los activos financieros al 31 de diciembre de 2024 y 2023, a la Compañía le 
+son aplicables:   
+ 
+Activos financieros a costo amortizado (instrumentos de deuda) 
+Los activos financieros de la Compañía medidos a costo amortizado corresponden a cuentas por cobrar 
+comerciales, cuentas por cobrar a partes relacionadas y otras cuentas por cobrar. Cuando estos activos son 
+de corto plazo, su valor nominal es similar a su costo amortizado. 
+ 
+La Compañía mide los activos financieros a costo amortizado cuando cumple con las siguientes 
+condiciones: 
+ 
+. El objetivo del modelo de negocio es mantener un activo financiero con el fin de cobrar flujos de efectivo 
+contractuales y, 
+. Según las condiciones del contrato, se reciben flujos de efectivo en fechas específicas que constituyen 
+exclusivamente pagos del principal más intereses sobre dicho principal. 
+ 
+La determinación del costo amortizado para estos activos financieros se realiza bajo el método de la tasa 
+de interés efectiva. Estos activos financieros están sujetos a deterioro. Las ganancias y pérdidas se 
+reconocen en el Estado de resultados integrales cuando el activo es dado de baja en cuentas, se modifica 
+o se deteriora. 
+ 
+Activos financieros al valor razonable con cambio en resultados 
+Una entidad mide un activo financiero a valor razonable con cambios en resultados a menos que no pueda 
+ser medido a costo amortizado o a valor razonable con cambios en otros resultados integrales. 
+ 
+Esta categoría incluye al efectivo y equivalente de efectivo. El efectivo es un activo financiero porque 
+representa un medio de pago y por ello es la base sobre la que se miden y reconocen todas las 
+transacciones en los estados financieros. Los equivalentes de efectivo son inversiones en depósitos a plazos 
+altamente líquidos a corto plazo. 
+ 
+Los cambios en el valor razonable de estos activos son registrados en el Estado de resultados integrales.  
+Los intereses ganados son devengados en el Estado de resultados integrales en el rubro ingresos 
+financieros. 
+ 
+Pasivos financieros 
+Los pasivos financieros en el reconocimiento inicial se miden por su valor razonable menos los costos de 
+transacción que sean directamente atribuibles a la adquisición del pasivo. Una entidad clasifica los pasivos 
+financieros y los mide ya sea a costo amortizado o a valor razonable con cambios en resultados.  
+ 
+Los pasivos financieros de la Compañía medidos a costo amortizado corresponden a  obligaciones 
+financieras, cuentas por pagar comerciales, cuentas por pagar a partes relacionadas  y otras cuentas por 
+pagar. Cuando estos pasivos financieros son de corto plazo, su valor nominal es similar a su costo 
+amortizado. La determinación del costo amortizado de los pasivos financieros se realiza bajo el método de 
+la tasa de interés efectiva. Las ganancias y pérdidas se reconocen en el Estado de resultados integrales. 
+ 
+Compensación de instrumentos financieros 
+Los instrumentos financieros (activos y pasivos) se compensan cuando se tiene el derecho legal de 
+compensarlos y la Gerencia tiene la intención de cancelarlos sobre una base neta o de realizar el activo y 
+cancelar el pasivo simultáneamente. 
+ 
+Baja de activos y pasivos financieros   
+Un activo financiero es dado de baja cuando: i) los derechos de recibir flujos de efectivo del activo han 
+terminado, ii) la Compañía ha transferido sus derechos a recibir flujos de efectivo del activo o ha asumido 
+
+=== PAGINA PDF 14 ===
+Hidrostal S.A.  14  
+ 
+una obligación de pagar la totalidad de los flujos de efectivo recibidos inmediatamente a una tercera parte 
+bajo un acuerdo de traspaso o iii) la Compañía ha transferido sustancialmente todos los riesgos y beneficios 
+del activo o, de no haber transferido ni retenido sustancialmente todos los riesgos y beneficios del activo, 
+si ha transferido su control. 
+ 
+Un pasivo es dado de baja cuando la obligación relacionada con el pasivo es cancelada o expira.  Cuando 
+un pasivo financiero existente es reemplazado por otro del mismo prestatario en condiciones 
+significativamente diferentes, o las condiciones son modificadas en forma importante, dicho reemplazo o 
+modificación se trata como una baja del pasivo original, se reconoce el nuevo pasivo y la diferencia entre 
+ambos se refleja en los resultados del periodo en el rubro (gastos) ingresos financieros. 
+ 
+f. Deterioro de activos financieros 
+La Compañía reconoce una estimación para pérdidas crediticias esperadas para todos los instrumentos de 
+deuda que no se miden a valor razonable con cambios en resultados. Las pérdidas crediticias esperadas se 
+basan en la diferencia entre los flujos de efectivo contractuales de conformidad con el contrato y todos los 
+flujos de efectivo que la Compañía espera recibir, descontados a la tasa de interés efectiva original. Los 
+flujos de efectivo esperados incluirán los flujos de efectivo procedentes de la venta de  garantías 
+mantenidas u otras mejoras crediticias que sean parte integrante de los términos contractuales. 
+ 
+La Compañía determina la estimación de pérdidas crediticias esperadas bajo el enfoque simplificado para 
+sus cuentas por cobrar comerciales y el enfoque general para las otras cuentas por cobrar.  
+ 
+La Compañía aplica un enfoque simplificado al calcular las pérdidas crediticias esperadas para cuentas por 
+cobrar comerciales  que no contienen un componente de financiamiento significativo.  Por lo tanto, la 
+Compañía no realiza un seguimiento de los cambios en el riesgo de crédito, sino que reconoce una 
+estimación basada en la pérdida crediticia esperada de por vida en cada fecha de presentación.  La 
+Compañía ha establecido una matriz de provisiones que se basa en su experiencia histórica de pérdidas 
+crediticias, ajustada por factores prospectivos específicos para los deudores y el entorno económico. 
+Para las otras cuentas por cobr ar, la Compañía aplica el enfoque general. El enfoque general definido en 
+la NIIF 9 se basa en el análisis de la calidad crediticia del deudor; es decir, exige estimar las pérdidas 
+crediticias esperadas antes de que exista evidencia objetiva de deterioro  El enfoque general se estructura 
+a través de fases que se basan en el grado de riesgo crediticio y en la circunstancia que se haya producido 
+un incremento significativo del mismo. 
+ 
+g. Inventarios, neto 
+Las mercaderías, productos terminados, materias primas y suministros se valúan al costo o valor neto de 
+realización, el menor, siguiendo el método de costo promedio, excepto en el caso de existencias por recibir 
+que se valúan a su costo específico. El valor neto de realización es el precio de venta normal menos los 
+costos para efectuar la venta, incluyendo los gastos de comercialización y distribución. La estimación por 
+desvalorización se carga a los resultados del año y se determina por la comparación del valor de realización 
+con el valor en libros. 
+ 
+Los productos terminados y en proceso se registran al costo de producción, que incluye el costo de las 
+materias primas, mano de obra directa, otros costos directos y una proporción de los costos fijos y variables 
+de fabricación basada en la capacidad normal de operación, excluyendo los costos d e financiamiento 
+posterior, se sigue el método del costo promedio. 
+ 
+La capacidad normal se define como el nivel de uso de la capacidad que satisface la demanda promedio 
+de la Compañía a lo largo de cierto periodo que incluye factores de estacionalidad, ciclos y tendencia. 
+ 
+La estimación por desvalorización es determinada en función a un análisis efectuado sobre las condiciones 
+y la rotación de los inventarios.  
+ 
+h. Propiedades de inversión, neto 
+Las propiedades de inversión están valuadas al costo de adquisición más los costos directos relacionados 
+con su adquisición menos su depreciación acumulada y cualquier pérdida por deterioro del valor 
+acumulado. El costo histórico de adquisición incluye los desembolsos directamente atribuibles a la 
+adquisición de los activos. 
+
+=== PAGINA PDF 15 ===
+Hidrostal S.A.  15  
+ 
+ 
+La depreciación de las propiedades de inversión es calculada siguiendo el método de línea recta sobre la 
+base de su vida útil estimada , la cual es de 20 años . La vida útil, los valores residuales y el método de 
+depreciación se revisan periódicamente para asegurar que el método y el periodo de la depreciación sean 
+consistentes con el patrón previsto de beneficios económicos futuros. 
+ 
+Al vender o retirar las propiedades de inversión la Compañía elimina el costo y la depreciación acumulada 
+correspondiente. Cualquier pérdida o ganancia que resultase de su disposición se incluye en el Estado de 
+resultados integrales. 
+ 
+Se realizan traspasos sólo cuando hay un cambio en el uso del activo. Para la reclasificación de propiedades 
+de inversión a activo fijo, el costo estimado del inmueble es el valor razonable a la fecha del cambio de 
+uso. Si un activo fijo se reclasifica a propiedades de inversión, la Compañía contabiliza dicha propiedad de 
+acuerdo con la política de activos fijos establecida a la fecha del cambio de uso. 
+ 
+i. Propiedades, planta y equipo, neto  
+Las propiedades, planta y equipos se presentan al costo de  adquisición menos su depreciación acumulada 
+y si las hubiera, el importe acumulado de las pérdidas por deterioro del valor.  El costo histórico de 
+adquisición incluye los desembolsos directamente atribuibles a la adquisición de los activos. 
+ 
+El costo de terrenos, edificaciones y otras construcciones, maquinarias y equipo s incluyen la revaluación 
+efectuada sobre la base de tasaciones efectuadas por peritos independientes. Dichos activos se expresan 
+al valor razonable determinado en la fecha de la tasación menos su depreciación acumulada y el importe 
+acumulado de las pérdidas por deterioro del valor. El mayor valor se refleja como Superávit de revaluación, 
+neto del pasivo por impuesto a la renta diferido en Otros resultados integrales. 
+ 
+Los desembolsos posteriores y renovaciones de importan cia se reconocen como activo, cuando es 
+probable que la Compañía obtenga beneficios económicos futuros derivados del mismo y su costo pueda 
+ser valorizado con fiabilidad. El mantenimiento y las reparac iones menores son reconocidos como gastos 
+según se incurren. 
+ 
+La depreciación de las propiedades, planta y equipos es calculada siguiendo el método de línea recta sobre 
+la base de su vida útil estimada y con las tasas anuales indic adas líneas abajo.  La vida útil, los valores 
+residuales y el método de depreciación de los activos se revisan periódicamente para asegurar que el 
+método y el periodo de la depreciación sean consistentes con el patrón previsto de beneficios económicos 
+futuros. 
+ 
+ 
+Edificaciones y otras construcciones Entre 5 y 22 años 
+Maquinaria y equipo Entre 5 y 10 años 
+Unidades de transporte Hasta 5 años 
+Muebles y enseres Hasta 10 años 
+Equipo de computo Hasta 4 años 
+Equipo diverso Hasta 10 años 
+Activos por derecho de uso Hasta 4 años 
+ 
+Al vender o retirar l as propiedades, planta y equipos  la Compañía elimina el costo y la depreciación 
+acumulada correspondiente. Cualquier pérdida o ganancia que resultase de su disposición se incluye en el 
+estado separado de resultados integrales. 
+ 
+Las unidades por recibir se capitalizan como componentes separados. A su culminación, el costo de estos 
+activos se transfiere a su categoría definitiva. Estos activos, así como los terrenos, no se deprecian. 
+ 
+Cuando el valor en libros de un activo es mayor que su valor recuperable estimado es reducido 
+inmediatamente a su valor recuperable. 
+ 
+j. Intangibles, neto 
+
+=== PAGINA PDF 16 ===
+Hidrostal S.A.  16  
+ 
+Los activos intangibles se contabilizan al costo inicial menos su amortización acumulada y posteriormente 
+menos cualquier pérdida acumulada por desvalorización. En el reconocimiento inicial la Compañía evalúa 
+si la vida útil de los intangibles es definida o indefinida. 
+ 
+Los activos intangibles con vida útil definida que corresponden a software y licencias se amortizan bajo el 
+método de línea recta sobre la base de su vida útil estimada que es de 10 años. El periodo y el método de 
+amortización se revisan al final de cada año.  
+ 
+k. Arrendamientos 
+ 
+La Compañía evalúa al inicio del contrato si un contrato es, o contiene, un arrendamiento. Es decir, si el 
+contrato transmite el derecho de controlar el uso de un activo identificado, por un período de tiempo, a 
+cambio de una contraprestación. 
+ 
+Arrendatario  
+Todos los arrendamientos en donde la Compañía participa como arrendatarios se contabilizan 
+reconociendo un activo por derecho de uso y un pasivo por arrendamiento, excepto por: 
+ 
+. Arrendamientos de activos de bajo valor; y 
+. Arrendamientos con una duración de 12 meses o menos 
+ 
+Activos por derecho de uso 
+Los activos por derecho de uso se miden inicialmente por el monto del pasivo por arrendamiento  en la 
+fecha del inicio del arrendamiento , reducido por cualquier incentivo recibido por el arrendamiento y 
+aumentados por: 
+ 
+. Pagos de arrendamiento realizados al inicio del arrendamiento o antes; 
+. Costos directos iniciales incurridos; y 
+. El monto de cualquier provisión reconocida cuando la Compañía está obligada contractualmente a 
+desmantelar, eliminar o restaurar el activo arrendado. 
+ 
+Los activos por derecho de uso se deprecian linealmente por el método de línea recta durante el plazo 
+restante del arrendamiento o durante el resto de vida económica del activo si se considera que es más 
+corto que el plazo del arrendamiento.  
+ 
+Si la propiedad del activo arrendado se transfiere a la Compañía al final del plazo del arrendamiento o el 
+costo refleja el ejercicio de una opción de compra, la depreciación se calcula utilizando la vida útil estimada 
+del activo. Los activos por derecho de uso también están sujetos a deterioro. 
+ 
+Pasivos por arrendamiento 
+Los pasivos por arrendamiento se miden al valor presente de los pagos contractuales debido al arrendador 
+sobre el plazo del arrendamiento, con la tasa de descuento determinada por referencia a la tasa 
+incremental de endeudamiento al comienzo del arrendamiento. 
+ 
+Los pagos de arrendamiento variables solo se incluyen en la medición del pasivo por arrendamiento si 
+dependen de un índice o tasa. En tales casos, en la medición inicial del pasivo por arrendamiento se asume 
+que el elemento variable permanecerá sin cambios durante el plazo de arrendamiento. Los otros pagos de 
+arrendamiento variables se cargan al resultado del periodo en el que s e devengan. En el reconocimiento 
+inicial, el valor en libros del pasivo por arrendamiento también incluye:  
+ 
+. Montos que se espera pagar bajo cualquier garantía de valor residual; 
+. El precio de ejercicio de cualquier opción de compra otorgada a favor de la Compañía y Subsidiarias, si 
+es razonablemente seguro que se ejercerá la opción; 
+. Cualquier penalidad pagadera por rescindir el contrato de arrendamiento, si el plazo del contrato de 
+arrendamiento se ha estimado sobre la base de la opción de rescisión que se ejerce. 
+ 
+
+=== PAGINA PDF 17 ===
+Hidrostal S.A.  17  
+ 
+Posterior a la medición inicial, los pasivos por arrendamiento aumentan como resultado de intereses 
+cobrados a tasa constante sobre el saldo pendiente y se reducen por los pagos de arrendamiento 
+realizados.  
+ 
+Cuando la Compañía revisa la estimación del plazo de cualquier arrendamiento (porque, por ejemplo, se 
+revisa la probabilidad de que se ejerza una opción de extensión o terminación del arrendatario), ajusta el 
+monto del pasivo de arrendamiento para reflejar  los pagos a realizar durante el plazo revisado y es 
+descontado a la misma tasa que se aplicó al inicio del arrendamiento. El valor en libros de los pasivos por 
+arrendamiento se revisa de manera similar cuando el elemento variable de futuros pagos de arrendamiento 
+depende de una tasa o índice.  
+ 
+Para contratos que transmiten un derecho a la Compañía para usar un activo identificado y requieren 
+servicios para ser proporcionado, a la Compañía por el arrendador, la Compañía ha  elegido contabilizar 
+todo el contrato como un arrendamiento y no separar los componentes, es decir, registra los pagos 
+contractuales y cualquier servicio proporcionado por el proveedor como parte del contrato de 
+arrendamiento. 
+ 
+Arrendador 
+Arrendamientos en los que la Compañía participa como arrendador y no transfieren sustancialmente todos 
+los riesgos y recompensas relacionados con la propiedad de los activos, se clasifican como arrendamientos 
+operativos. Los ingresos por rentas que surgen se contabilizan linealmente sobre el plazo de arrendamiento 
+y se incluye en los ingresos en el Estado de resultados integrales debido a su naturaleza operativa. Los 
+costos incurridos en la negociación y organización de un arrendamiento operativo se reconoc en como 
+gastos pagados por anticipados y se reconocen en resultados durante el plazo del arrendamiento sobre la 
+misma base que los ingresos por alquiler. 
+ 
+l. Deterioro de activos no financieros 
+El valor de las propiedades de inversión , propiedades, planta y equipo y activos intangibles es revisado 
+periódicamente para determinar si existe deterioro, cuando se producen circunstancias que indiquen que 
+el valor en libros puede no ser recuperable. De haber indicios de deterioro, la Compañía estima el importe 
+recuperable de los activos y reconoce una pérdida por desvalorización en el estado de resultados integrales 
+o una disminución, hasta el límite del excedente de revaluación, si dichos activos han si do revaluados 
+previamente. 
+ 
+El valor recuperable de un activo es el mayor entre su valor razonable menos los gastos de venta y su valor 
+de uso. El valor de uso es el valor presente de los flujos de efectivo futuros estimados que resultarán del 
+uso continuo de un activo, así como de su disposición al final de su vida útil. Los importes recuperables se 
+estiman para cada activo o, si no es posible, para la menor unidad generadora de efectivo que haya sido 
+identificada. De existir una disminución de las pérdidas por desvalorización, determinada en años 
+anteriores, se registra un ingreso en el estado de resultados integrales o se aumenta el excedente de 
+revaluación rebajado en años anteriores. 
+   
+m. Beneficios a los trabajadores 
+La Compañía tiene obligaciones de corto plazo por beneficios a sus empleados que incluyen sueldos, 
+aportaciones sociales, gratificaciones de ley, bonificaciones por desempeño y participaciones en las 
+utilidades. Estas obligaciones se registran mensualmente  con cargo al Estado de resultados integrales, a 
+medida que se devengan. La obligación de cumplimiento de pago de la compensación por tiempo de 
+servicios es semestral. 
+ 
+n. Provisiones  
+Se reconoce una provisión sólo cuando la Compañía tiene alguna obligación presente (legal o implícita) 
+como consecuencia de un hecho pasado, es probable que se requieran para su liquidación un flujo de 
+salida de recursos y puede hacerse una estimación conf iable del monto de la obligación. Las provisiones 
+se revisan periódicamente y se ajustan para reflejar la mejor estimación que se tenga a la fecha de estado 
+de situación financiera. El gasto relacionado con una provisión se muestra en el Estado de resultad os 
+integrales. Cuando son significativas, las provisiones son descontadas a su valor presente usando una tasa 
+que refleje los riesgos específicos relacionados con el pasivo. Cuando se efectúa el descuento, el aumento 
+en la provisión por el paso del tiempo es reconocido como un gasto financiero. 
+o. Capital emitido   
+
+=== PAGINA PDF 18 ===
+Hidrostal S.A.  18  
+ 
+Las acciones comunes se clasifican en el patrimonio. Los costos incrementales directamente atribuibles a 
+la emisión de nuevas acciones u opciones se muestran en el patrimonio como una deducción del monto 
+recibido, neto de impuestos.  
+ 
+p. Ingresos de actividades ordinarias procedentes de contratos con clientes 
+ 
+Obligaciones de desempeño y momento del reconocimiento de ingresos 
+La mayoría de los ingresos de la Compañía se deriva de la venta de bienes reconocidos en un momento 
+determinado en que el control de los bienes se ha transferido al cliente. Esto es generalmente cuando los 
+bienes se entregan al cliente. Sin embargo, para l as ventas de exportación, el control también se puede 
+transferir cuando efectúa la entrega en el puerto de embarque o en el puerto de llegada, según los 
+términos específicos del contrato con el cliente. Se requiere un juicio limitado para identificar los traspasos 
+de control: una vez que se ha producido la entrega física de los productos a la ubicación acordada, la 
+Compañía ya no tiene posesión física, por lo general tendrá un derecho presente al pago (como un pago 
+único en la entrega) y no retiene ninguno de los riesgos y beneficios significativos de los productos en 
+cuestión. 
+ 
+Algunos productos vendidos por la Compañía incluyen garantías que requieren que se reemplace o repare 
+un producto defectuoso durante el periodo de garantía, si los productos no cumplen con las 
+especificaciones acordadas. De acuerdo con la NIIF 15, dichas garantías no se contabilizan como 
+obligaciones de desempeño separadas y, por lo tanto, no se les asignan ingresos. En cambio, se hace una 
+provisión por los costos de satisfacer las  reclamaciones de garantía previstas de los productos vendidos 
+durante los primeros dieciocho meses, en base a la experiencia pasada respecto al volumen de 
+reparaciones y devoluciones. La provisión anual se basa en los niveles actuales de venta y en la información 
+actual disponible sobre devoluciones. 
+ 
+La Compañía tiene una división que lleva a cabo servicios reconocidos generalmente a lo largo del tiempo. 
+Esto se debe a que los diseños creados no tienen un uso alternativo para la Compañía y los contratos 
+requerirán que se reciba el pago por el tiempo y el esfuerzo invertido por la Compañía en el transcurso de 
+los contratos en caso de que el cliente cancele el contrato antes de su finalización por cualquier motivo 
+distinto al incumplimiento de la Compañía de sus obligaciones según el contrato. En los cont ratos de 
+prestación de servicios, la Compañía reconoce los ingresos en función de la etapa de finalización del 
+proyecto, que se estima comparando la cantidad de horas realmente invertidas en el proyecto con la 
+cantidad total de horas que se espera para com pletar el proyecto. Esto se considera una representación 
+fiel de la transferencia de servicios, ya que los contratos se valorizan inicialmente en base a las horas 
+anticipadas para completar los proyectos y, por lo tanto, también representan la cantidad a l a que la 
+Compañía tendría derecho según su desempeño hasta la fecha. 
+ 
+Determinación del precio de la transacción 
+La mayor parte de los ingresos de la Compañía se deriva de los contratos a precio fijo y, por lo tanto, el 
+importe de ingresos que se obtendrá de cada contrato se determina por referencia a esos precios fijos.  
+ 
+Asignación de precios entre las obligaciones de desempeño 
+Para la mayoría de los contratos, hay un precio unitario fijo para cada producto vendido. Por lo tanto, no 
+hay un juicio involucrado en la asignación del precio del contrato a cada unidad ordenada en dichos 
+contratos (es el precio total del contrato dividido por el número de unidades ordenadas). Cuando un cliente 
+solicita más de una línea de productos, la Compañía puede determinar la división del precio total del 
+contrato entre cada línea de productos por referencia a los precios de venta independientes de cada 
+producto (todas las líneas de productos son capaces de ser o son vendidas por separado). 
+ 
+q. Reconocimiento de ingresos por intereses, drawback y otros ingresos 
+Los intereses son reconocidos conforme se devengan, utilizando el método de la tasa de interés efectiva 
+consistente en igualar la tasa de descuento con el importe en libros del activo financiero.  
+Los ingresos por drawback  se reconocen cuando la solicitud de devolución es presentada a la autoridad 
+competente. La solicitud de devolución se presenta de manera recurrente y siempre es favorable,  porque 
+cumple con las condiciones que la ley exige para la obtención de este beneficio. 
+ 
+
+=== PAGINA PDF 19 ===
+Hidrostal S.A.  19  
+ 
+Los otros ingresos se reconocen a medida que se realizan, se devengan y se registran en los períodos con 
+los cuales se relacionan. 
+ 
+r. Reconocimiento de costos y gastos 
+El costo de ventas corresponde al costo de producción y adquisición de los productos que comercializa y 
+se registran cuando son entregados al cliente, en el momento del reconocimiento de ingreso (transferencia 
+del control al cliente). Los costos de servicios se registran según el avance, cuando devengan. 
+ 
+Los intereses se reconocen en proporción al tiempo transcurrido de manera que reflejen el costo efectivo 
+del instrumento financiero. 
+ 
+Los otros gastos se reconocen a medida que se realizan y devengan, y se registran en los periodos con los 
+cuales se relacionan. 
+ 
+s. Impuesto a la Renta 
+El impuesto a la renta incluye un componente corriente y uno diferido.  
+  
+Corriente 
+El impuesto a la renta corriente es considerado como el importe por pagar a la autoridad tributaria. Es 
+calculado sobre la base de la renta imponible determinada para fines tributarios.  
+ 
+Diferido 
+El Impuesto a la renta diferido se calcula bajo el método del pasivo, que consiste en determinar las 
+diferencias temporales entre los activos y pasivos financieros y tributarios y aplicar a dichas diferencias la 
+tasa del impuesto a la renta. 
+ 
+Los activos diferidos son reconocidos para todas las diferencias deducibles y pérdidas tributarias 
+arrastrables, en la medida que sea probable que exista utilidad gravable contra la cual se pueda compensar 
+las diferencias temporales deducibles y se puedan usar las pérdidas tributarias arrastrables.  Los pasivos 
+diferidos son reconocidos para todas las diferencias temporales imponibles. 
+ 
+El valor en libros del activo diferido es revisado en cada fecha del Estado de situación financiera y es 
+reducido en la medida que no sea probable que exista suficiente utilidad imponible contra la cual se pueda 
+compensar todo o parte del activo diferido a ser utilizado. Los activos diferidos no reconocidos son 
+reevaluados en cada fecha del Estado de situación financiera y son reconocidos en la medida que sea 
+probable que la utilidad imponible futura permita recupera r el activo diferido. El activo y pasivo diferido 
+se reconocen sin tomar en cuenta el momento en que se estime que las diferencias temporales se anulan. 
+ 
+Los activos y pasivos diferidos son medidos con las tasas legales que se esperan aplicar en el año en el que 
+el activo es realizado o el pasivo es liquidado, sobre la base de las tasas que han sido promulgadas o 
+sustancialmente promulgadas en la fecha del Estado de situación financiera. 
+ 
+Los activos y pasivos diferidos son compensados, si existe un derecho legal de compensar los impuestos 
+corrientes contra los pasivos corrientes y los impuestos diferidos se relacionan con la misma entidad y 
+autoridad tributarias. 
+ 
+Posiciones inciertas 
+La Compañía evalúa en cada cierre de estados financieros si cada tratamiento fiscal incierto es considerado 
+por separado o junto con uno o más otros tratamientos fiscales inciertos y utiliza el enfoque que predice 
+mejor la resolución de la incertidumbre.  La Compañía aplica un juicio significativo al identificar 
+incertidumbres sobre los tratamientos del Impuesto a la renta.  
+ 
+t. Contingencias 
+Las contingencias son activos o pasivos que surgen a raíz de sucesos pasados, cuya existencia quedará 
+confirmada sólo si llegan a ocurrir sucesos futuros que no están enteramente bajo el control de la 
+Compañía. 
+ 
+
+=== PAGINA PDF 20 ===
+Hidrostal S.A.  20  
+ 
+Los activos contingentes no se registran en los estados financieros, pero se revelan en notas cuando su 
+grado de contingencia es probable. Los pasivos contingentes no se registran en los estados financieros y 
+se revelan en notas a los estados financieros sólo cuando existe una obligación posible. 
+ 
+u. Utilidad básica y diluida por la acción  
+La utilidad básica por acción resulta de dividir el resultado neto atribuible a los accionistas entre el 
+promedio ponderado del número de acciones comunes y de inversión en circulación en el periodo.  La 
+utilidad diluida por acción resulta de dividir el resultado neto atribuible a los accionistas entre el promedio 
+ponderado del número de acciones comunes y de inversión en circulación y acciones potenciales que 
+podían haber sido emitidas en el periodo. 
+ 
+ 
+ 
+ 
+ 
+ 
+v. Segmentos. 
+Un segmento de negocios es un grupo de activos y operaciones que proveen bienes o servicios, y que está 
+sujeto a riesgos y retornos significativos distintos a los riesgos y retornos de otros segmentos de negocios.  
+Los segmentos son componentes de la Compañía para los cuales la información financiera está disponible 
+y se evalúa periódicamente por la máxima autoridad en la toma de decisiones acerca de cómo asignar los 
+recursos y como realizar la evaluación del desempeño.  La Gerencia no considera necesario i ncluir la 
+información por segmento geográfico, debido principalmente a que en el caso de la Compañía no existe 
+un componente diferenciable que esté dedicado a suministrar productos dentro de un entorno particular 
+y que esté sujeto a riesgos y rentabilidad diferente. La Gerencia de la Compañía gestiona líneas de negocios 
+dirigidos al mismo mercado, mismos clientes y por ende, las operaciones de la Compañía se realizan en el 
+territorio nacional y extranjero, están sujetas a los mismos riesgos, no existiendo d iferencias significativas 
+de rentabilidad en razón de la región o lugar en que se realizan las ventas.  Debido a lo anteriormente 
+indicado, la Gerencia considera que la Compañía no posee segmentos de negocios sino, líneas de negocios 
+cuya principal data financiera se presenta en la nota 24. 
+ 
+w. Modificaciones y nuevas Normas Internacionales de Información Financiera (NIIF) emitidas  
+Las normas que entraron en vigencia en el 2024 y aplican a la Compañía, pero no tuvieron efecto en 
+los estados financieros se indica a continuación: 
+ 
+Modificaciones a la NIC 1: Clasificación de Pasivos como Corrientes o No Corrientes 
+En enero de 2020 y octubre de 2022, el IASB emitió las modificaciones del párrafo 69 al 76 de la NIC 1 para 
+especificar los requisitos para clasificar los pasivos como corrientes o no corrientes. Las modificaciones 
+aclaran los siguientes puntos:  
+ 
+- El significado del derecho a diferir la liquidación de un pasivo  
+- Que el derecho a diferir la liquidación del pasivo debe existir al cierre del período  
+- Que la clasificación no se ve afectada por la probabilidad de que la entidad ejerza su derecho a diferir 
+la liquidación del pasivo  
+- Que únicamente si algún derivado implícito en un pasivo convertible representa en sí un instrumento 
+de patrimonio, los términos del pasivo no afectarían su clasificación 
+ 
+Adicionalmente, se introdujo un requisito de revelación cuando un pasivo derivado de un contrato de 
+préstamo se clasifica como no corriente y el derecho de la entidad a diferir la liquidación está sujeto al 
+cumplimiento de compromisos futuros dentro de un periodo incluido en un plazo de doce meses. 
+ 
+Modificaciones a la NIIF 16: Pasivo por Arrendamiento en una Transacción de Venta y Arrendamiento 
+posterior  
+En septiembre de 2022, el IASB emitió modificaciones a la NIIF 16 con el fin de especificar los requisitos 
+que un vendedor -arrendatario utiliza en la medición del pasivo por arrendamiento que surge en una 
+transacción de venta y arrendamiento posterior, par a garantizar que el vendedor -arrendatario no 
+reconozca ningún monto por la ganancia o pérdida que esté relacionada con el derecho de uso que 
+
+=== PAGINA PDF 21 ===
+Hidrostal S.A.  21  
+ 
+mantiene. La aplicación se realizará de forma retroactiva a las transacciones de venta y arrendamiento 
+posterior celebradas después de la fecha de aplicación inicial de la NIIF 16.  Estas modificaciones no 
+tuvieron ningún impacto en los estados financieros de la Compañía 
+ 
+Acuerdos de Financiamiento de Proveedores - Modificaciones a la NIC 7 y la NIIF 7  
+En mayo de 2023, el IASB emitió modificaciones a la NIC 7 Estado de Flujos de Efectivo y la NIIF 7 
+Instrumentos Financieros: Revelaciones para aclarar las características de los acuerdos de financiamiento 
+de proveedores y requerir que se revele información  adicional sobre dichos acuerdos. El objetivo de los 
+requisitos de revelación que imponen las modificaciones es el de ayudar a los usuarios de los estados 
+financieros a tener un mejor entendimiento de los efectos de los acuerdos de financiamiento de 
+proveedores sobre los pasivos, flujos de efectivo y exposición al riesgo de liquidez de una entidad. Estas 
+modificaciones no tuvieron ningún impacto en los estados financieros de la Compañía .  
+ 
+Las normas e interpretaciones nuevas y modificadas que han sido emitidas, pero que aún no están 
+vigentes, hasta la fecha de emisión de los estados financieros de la Compañía se describen a 
+continuación: 
+ 
+Modificaciones a la NIC 21: Falta de convertibilidad 
+En agosto de 2023, el IASB modificó la NIC 21 para añadir requisitos que ayuden a las entidades a 
+determinar si una moneda es convertible a otra moneda y el tipo de cambio al contado que se debe utilizar 
+cuando no lo es. Antes de estas modificaciones, la NIC 21 establecía el tipo de cambio que se debe utilizar 
+cuando la falta d e convertibilidad es temporal, pero no lo que se debe hacer cuan -do la falta de 
+convertibilidad no es temporal. 
+ 
+Estos nuevos requisitos se aplicarán a los períodos de presentación de informes anuales que comiencen a 
+partir del 1 de enero de 2025. Se permite la aplicación anticipada. 
+ 
+Modificaciones a la NIIF 9 y NIIF 7: Modificaciones a la clasificación y medición de instrumentos financieros 
+El 30 de mayo de 2024, el IASB emitió modificaciones específicas a la NIIF 9 y la NIIF 7 para responder a 
+las preguntas recientes que surgen en la práctica e incluir nuevos requisitos no solo para las instituciones 
+financieras sino también para las entidad es corporativas. Estas modificaciones aclaran y añaden los 
+siguientes puntos:  
+ 
+- La fecha de reconocimiento y baja en cuentas de algunos activos y pasivos financieros, con una nueva 
+excepción para algunos pasivos financieros liquidados a través de un sistema de transferencia 
+electrónica de efectivo;  
+- Orientaciones para evaluar que un activo financiero cumple con el criterio de pagos únicamente de 
+principal e intereses;  
+- Añadir nuevas revelaciones para ciertos instrumentos con términos contractuales que pueden cambiar 
+los flujos de efectivo (como algunos instrumentos financieros con características vinculadas al logro de 
+objetivos ambientales, sociales y de gobernanza); y  
+- Actualizar las revelaciones para los instrumentos de patrimonio designados a valor razonable con 
+cambios en otros resultados integrales. 
+ 
+Las modificaciones a la NIIF 9 y la NIIF 7 serán efectivas para los períodos de presentación de informes 
+anuales que comiencen el 1 de enero de 2026 y se permite la aplicación anticipada. 
+ 
+NIIF 18: Presentación y revelación en estados financieros 
+Esta es la nueva norma sobre presentación y revelación en los estados financieros, que reemplaza a la NIC 
+1, con un enfoque en las actualizaciones del estado de resultados.  
+ 
+Los nuevos conceptos clave introducidos en la NIIF 18 se relacionan con:  
+ 
+- La estructura del estado de resultados con subtotales definidos;  
+- El requisito de determinar el resumen de estructura más útil para presentar los gastos en el estado de 
+resultados;  
+
+=== PAGINA PDF 22 ===
+Hidrostal S.A.  22  
+ 
+- Revelaciones requeridas en una sola nota dentro de los estados financieros para ciertas medidas de 
+desempeño de resultados que se informan fuera de los estados financieros de una entidad (es decir, 
+medidas de desempeño definidas por la administración); y  
+- Principios mejorados sobre agregación y desagregación que se aplican a los estados financieros 
+principales y a las notas en general. 
+ 
+Esta norma entrará en vigencia a partir del 1 de enero 2027 y se permite la aplicación anticipada. 
+ 
+NIIF 19: Subsidiarias sin obligación pública de rendir cuentas: Información a revelar  
+Esta nueva norma funciona junto con otras Normas de contabilidad NIIF. Una subsidiaria elegible aplica 
+los requisitos de otras Normas de contabilidad NIIF, excepto los requisitos de revelación; y aplica en su 
+lugar los requisitos de revelación reducidos de la NIIF 19. Los requisitos de revelación reducidos de la NIIF 
+19 equilibran las necesidades de información de los usuarios de los estados financieros de las subsidiarias 
+elegibles con ahorros de costos para los preparadores. La NIIF 19 es una norma volunt aria para las 
+subsidiarias elegibles. Una subsidiaria es elegible si: 
+ 
+- No tiene obligación pública de rendir cuentas; y  
+- Tiene una matriz última o intermedia que produce estados financieros consolidados disponibles 
+para uso público que cumplen con las Normas de contabilidad NIIF. 
+ 
+Esta norma entrará en vigencia a partir del 1 de enero 2027 y se permite la aplicación anticipada. 
+ 
+Se desconoce el impacto que su aplicación inicial tendrá en los estados financieros, debido a que su importe 
+no se puede estimar de manera razonable. La Compañía tiene la intención de adoptar estas normas e 
+interpretaciones nuevas y modificadas, si corresponde, cuando entren en vigencia. 
+ 
+3. Instrumentos financieros y administración de riesgos financieros  
+ 
+3.1. Categorías de instrumentos financieros 
+Los activos y pasivos financieros de la Compañía son los siguientes (expresado en Soles): 
+ 
+Activos financieros  31.12.2024 31.12.2023 
+Al Costo amortizado                 
+Efectivo y equivalente de efectivo  20,034,349 25,019,936 
+Cuentas por cobrar comerciales, neto  37,153,552 29,615,767 
+Cuentas por cobrar a partes relacionadas  2,695,383 3,382,125 
+Otras cuentas por cobrar, neto  13,183,527 12,343,482 
+Total activos financieros al costo amortizado  73,066,811 70,361,310 
+Pasivos financieros    
+Al costo amortizado    
+Cuentas por pagar comerciales  10,774,098 15,429,611 
+Cuentas por pagar a partes relacionadas  6,022,939 7,250,509 
+Otras cuentas por pagar  2,012,605 1,214,937 
+Total pasivos financieros al costo amortizado  18,809,642   23,895,057  
+ 
+3.2. Riesgos financieros 
+Las actividades de la Compañía la exponen a una variedad de riesgos financieros. Los principales riesgos 
+que pueden afectar adversamente a los activos y pasivos financieros de la Compañía, así como a sus 
+flujos de caja futuros son: riesgo de liquidez, de crédito, de interés y de cambio. El programa de 
+administración de riesgos de la Compañía trata de minimizar los potenciales efectos adversos. La 
+Gerencia es conocedora de las condiciones existentes en el mercado y sobre la base de su conocimiento 
+y experiencia revisa y controla los riesgos, siguiendo las políticas aprobadas por el Directorio. 
+ 
+
+=== PAGINA PDF 23 ===
+Hidrostal S.A.  23  
+ 
+Se incluye el análisis de sensibilidad en los instrumentos financieros de la Compañía para ver su 
+variabilidad frente a los cambios del mercado y mostrar el impacto en el estado de resultados y de otros 
+resultados integrales o en el patrimonio si fuese el caso. 
+ 
+La sensibilidad ha sido preparada al 31 de diciembre de 2024 y 2023 con los saldos de los activos y 
+pasivos financieros a esas fechas. La Compañía no mantiene instrumentos derivados para propósitos 
+especulativos. 
+ 
+a. Riesgo de liquidez 
+El riesgo de liquidez surge de la administración de la Compañía del capital de trabajo, de los cargos 
+financieros y de los pagos del capital de sus instrumentos de deuda. Es el riesgo que la Compañía 
+tenga dificultades para cumplir sus obligaciones cuando estas venzan. 
+ 
+La política de la Compañía es asegurarse de tener suficiente efectivo que le permita cumplir con el 
+pago de sus obligaciones a su vencimiento. Para lograr este fin, trata de mantener saldos de efectivo, 
+para cubrir sus requerimientos esperados por un periodo razonable.  
+ 
+El riesgo de liquidez de la Compañía está administrado centralmente por la Gerencia de 
+Administración y Finanzas. Los presupuestos son preparados con anticipación, permitiendo que los 
+requerimientos de efectivo de la Compañía se conozcan con anticipación. Los pasivos financieros de 
+la Compañía tienen los siguientes vencimientos (expresado en Soles): 
+ 
+ Menos de Mayor a Total 1 año 1 año 
+2024      
+Cuentas por pagar comerciales  10,774,098  0  10,774,098  
+Cuentas por pagar a partes relacionadas 2,814,479  3,208,460  6,022,939  
+Otras cuentas por pagar 1,060,783  951,822  2,012,605  
+Total 14,649,360  4,160,282  18,809,642  
+      
+ Menos de Mayor a Total  1 año 1 año 
+2023      
+Cuentas por pagar comerciales  15,429,611 0 15,429,611 
+Cuentas por pagar a partes relacionadas 3,190,803 4,059,706 7,250,509 
+Otras cuentas por pagar 1,214,937  0  1,214,937  
+Total 19,835,351 4,059,706  23,895,057 
+ 
+En opinión de la Gerencia no existe riesgo significativo de liquidez de la Compañía al 31 de diciembre 
+de 2024 y 2023. 
+ 
+b. Riesgo de crédito  
+El riesgo de crédito surge del efectivo y equivalente de efectivo, la exposición al crédito de los clientes 
+y préstamos a terceros, que está reflejado por los saldos de cuentas por cobrar comerciales y otras 
+cuentas por cobrar respectivamente. En relación con bancos, la Compañía sólo acepta instituciones 
+cuyas calificaciones de riesgo independientes sean como mínimo de “A”. 
+ 
+i) Gestión del riesgo – 
+La Gerencia evalúa la calidad crediticia de un cliente en base a un extenso cuadro de calificación 
+crediticia y los límites de crédito individuales se definen de acuerdo con esta evaluación. Al 31 de 
+diciembre de 2024, la Compañía tenía 63 clientes (62 en 2023) que le debían más de S/ 80,000 
+cada uno y representaban aproximadamente el 95% ( 90% en 2023) de todas las cuentas por 
+cobrar pendientes de cobro. Hubo 11 clientes (5 en 2023) con saldos superiores a S/ 1, 000,000 
+que representan poco más del 67% (42% en 2023) de los montos totales de cuentas por cobrar. 
+
+=== PAGINA PDF 24 ===
+Hidrostal S.A.  24  
+ 
+ 
+ii) Deterioro de activos financieros – 
+La Compañía tiene los siguientes tipos de activos financieros que están sujetos a modelos para 
+determinar la pérdida crediticia esperada: 
+ 
+- Efectivo y equivalentes de efectivo 
+- Cuentas por cobrar comerciales 
+- Préstamos por cobrar a terceros, incluido en el rubro de otras cuentas por cobrar. 
+ 
+Para el efectivo y equivalentes de efectivo, por su naturaleza la Compañía considera cualquier 
+pérdida crediticia como irrelevante. 
+Para las cuentas por cobrar comerciales, la Compañía realiza un análisis del deterioro en cada 
+fecha de reporte utilizando una matriz de provisión para medir las pérdidas crediticias esperadas; 
+las tasas de provisión se basan en los saldos pendientes de co bro según los días transcurridos 
+desde la fecha de emisión del activo financiero. El cálculo refleja el resultado de probabilidad 
+ponderada, el valor temporal del dinero y la información razonable y sustentable que está 
+disponible en la fecha de reporte so bre eventos pasados, condiciones actuales y pronósticos de 
+condiciones económicas futuras. 
+ 
+Para los préstamos por cobrar a terceros, en función de su evaluación de las características de las 
+contrapartes, la Compañía ha establecido que poseen un riesgo de crédito bajo a pesar de que el 
+préstamo se encuentre refinanciado, considerando este evento como un tema aislado que no 
+repercute en el historial crediticio y  capacidad de pago del deudor. Una deuda tiene riesgo de 
+crédito bajo cuando se posee bajo riesgo de incumplimiento , las deudas se encuen tre 
+garantizadas y el deudor exhibe una sólida capacidad para cumplir con sus obligaciones 
+contractuales cuando éstas sean requeridas. Por ello, en aplicación del enfoque general que 
+requiere estimar la pérdida esperada por los siguientes doce meses, la Compañía considera  la 
+necesidad de reconocer pérdida por deterioro no significativa. Ver nota 7 a. 
+ 
+c. Riesgo de interés 
+La exposición de la Compañía a este riesgo se da por cambios en las tasas de interés en sus activos y 
+pasivos financieros. La Compañía principalmente mantiene sus activos y pasivos financieros sujetos a 
+una tasa de interés fija, por lo que no se espera incurrir en pérdidas significativas por riesgo de tasa 
+de interés. Para aquellos endeudamientos a tasas de interés variable, la Gerencia no ha efectuado 
+instrumentos financieros de cobertura para minimizar este riesgo. 
+ 
+La Compañía no tiene una política formal para determinar cuánto de su exposición debe estar a tasa 
+fija o a tasa variable. Sin embargo, al asumir nuevos préstamos o endeudamiento, la Gerencia ejerce 
+su criterio para decidir si una tasa fija o variable serí a más favorable para la Compañía durante un 
+periodo de tiempo hasta su vencimiento. La Compañía analiza la exposición a la tasa de interés 
+anualmente. 
+ 
+d. Riesgo de tipo de cambio  
+La mayoría de las transacciones de la Compañía se realizan en Soles . La exposición a los tipos de 
+cambio proviene principalmente de los saldos de ef ectivo, cuentas por cobrar y pagar a terceros y 
+partes relacionadas  y obligaciones financieras que toma la Compañía y están básicamente 
+denominadas en dólares estadounidenses. En el estado de situación financiera, estos conceptos son 
+presentados al tipo de cambio de fin de período.  
+ 
+Para mitigar la exposición de la Compañía al riesgo cambiario los flujos de caja en moneda no 
+funcional son revisados continuamente, por lo general, cuando los importes a pagar por compras en 
+dólares superan el importe disponible en esa moneda, se realiza una operación de cambio de 
+moneda.  
+ 
+Las operaciones en moneda extranjera se efectúan al tipo de cambio fijado por la oferta y la demanda 
+en el Sistema Financiero Nacional.  Al 3 1 de diciembre de 202 4, el tipo de cambio promedio 
+ponderado publicado por la Superintendencia de Banca, Seguros y AFP para las transacciones en 
+dólares estadounidenses era de S/ 3.758 para la compra y S/ 3.770 para la venta (S/ 3.705 y S/ 3.713 
+
+=== PAGINA PDF 25 ===
+Hidrostal S.A.  25  
+ 
+al 31 de diciembre de 2023, respectivamente). La Compañía tenía los siguientes activos y pasivos en 
+moneda extranjera (expresado en dólares estadounidenses): 
+ 
+  31.12.2024 31.12.2023 
+Activos monetarios    
+Efectivo y equivalente de efectivo  4,959,635  1,150,933 
+Cuentas por cobrar comerciales  7,833,411  8,294,773 
+Otras cuentas por cobrar  3,319,888  3,199,235 
+  16,112,934  12,644,941 
+Pasivos monetarios    
+Cuentas por pagar comerciales  (2,718,660) (3,855,470) 
+Cuentas por pagar a partes relacionadas  (1,106,819) (1,336,650) 
+Otras cuentas por pagar  (1,564,194) (728,344)                             
+  (5,389,673) (5,920,464) 
+Posición activa, neta  10,723,261  6,724,477  
+ 
+Al 31 de diciembre de 2024 y 2023, la Gerencia ha decidido asumir el riesgo de cambio que generó 
+esta posición, por lo que no ha realizado operaciones de cobertura con productos derivados. Durante 
+el ejercicio 2024 la Compañía registró ganancias y pérdidas por diferencia de cambio por S/ 1,788,797 
+y S/ 1,863,048 (S/ 626,547 y S/ 1,326,709 en el 2023), respectivamente. 
+ 
+Al realizar el análisis de sensibilidad de la variación de l dólar estadounidense, si al 3 1 de diciembre 
+de 2024 y 2023 el Sol se hubiera devaluado/revaluado en 5% en relación con el dólar estadounidense, 
+el resultado del periodo se hubiese incrementado/disminuido en S/ 2,018,118 (S/ 1,247,054 al 31 de 
+diciembre de 2023). 
+ 
+e. Administración del riesgo de capital 
+Para efectos de gestión de capital, la Compañía consideran como tal al capital social y acciones de 
+inversión. El objetivo es salvaguardar la capacidad de la Compañía de continuar como negocios en 
+marcha con el fin de proporcionar retornos para los accionistas y beneficios para los grupos de interés 
+y mantener una óptima estructura que permita reducir el costo de capital.   
+ 
+La Gerencia de la Compañía maneja su estructura de capital y realiza ajustes para afrontar los cambios 
+en las condiciones económicas del mercado. La política de la Gerencia de la Compañía es la de 
+financiar todos sus proyectos de corto y largo plazo median te préstamos de su relacionada  y 
+entidades financieras y con sus propios recursos operativos. Para mantener o ajustar la estructura de 
+capital, la Compañía puede ajustar el pago de dividendos a los accionistas, devolver capital a sus 
+accionistas o emitir n uevas acciones. No ha habido cambios en los objetivos, políticas o 
+procedimientos al 31 de diciembre de 2024 y 2023. 
+ 
+La Compañía monitorea su capital sobre la base del ratio de apalancamiento, este ratio se calcula 
+dividiendo la deuda neta entre el patrimonio. La deuda neta corresponde al total de  obligaciones 
+financieras y cuentas por pagar a relacionada (incluyendo el endeudamiento corriente y no corriente) 
+menos el efectivo y equivalentes de efectivo. El capital total corresponde al patrimonio tal y como se 
+muestra en el estado de situación financiera más la deuda neta. 
+ 
+Al 3 1 de diciembre de 202 4 y 2023 no existe una ratio de apalancamiento debido a que l as 
+obligaciones financieras más las cuentas por pagar a relacionada no superan el efectivo y equivalente 
+de efectivo de la Compañía. 
+ 
+f. Valor razonable 
+Para incrementar la coherencia y comparabilidad de las mediciones del valor razonable, se ha 
+establecido una jerarquía del valor razonable que clasifica en tres niveles los datos de entrada de 
+técnicas de valoración utilizadas para medir el valor razonable:  
+ 
+
+=== PAGINA PDF 26 ===
+Hidrostal S.A.  26  
+ 
+Nivel 1: Precios cotizados (sin ajustar) para activos o pasivos idénticos en mercados activos. Un precio 
+cotizado en un mercado activo proporciona la evidencia más fiable del valor razonable y se utilizará 
+sin ajuste para medir el valor razonable siempre que estén disponibles. 
+ 
+Nivel 2: La información es distinta a los precios cotizados incluidos en el Nivel 1. Se utilizan otras 
+técnicas por las que son observables todos los datos que tienen un efecto significativo en el valor 
+razonable registrado, ya sea directa o indirectamente. 
+ 
+Nivel 3: Técnicas que utilizan datos que no se basan en datos de mercado observables y que tienen 
+un efecto significativo sobre el valor razonable. 
+ 
+A continuación, se describe los instrumentos financieros no medidos a valor razonable que posee la 
+Compañía y su nivel de jerarquía: 
+ 
+Nivel 1  
+El efectivo y equivalentes de efectivo no posee tasa de interés significativa, por lo tanto, sus valores 
+en libros se aproximan a sus valores razonables.  
+ 
+Nivel 2 
+Las cuentas por cobrar comerciales y las otras cuentas por cobrar, debido a que se encuentran netas 
+de su provisión para incobrabilidad y, principalmente, tienen vencimientos mayores a tres meses ; 
+excepto por el préstamo a terceros, incluido en el rubro de otras cuentas por cobrar; sin embargo, la 
+Gerencia ha considerado que sus valores razonables no son significativamente diferentes a sus 
+valores en libros debido a que se aplican tasas de interés de mercado anuales.  
+ 
+Las cuentas por pagar comerciales y otras cuentas por pagar, debido a que su vencimiento es 
+principalmente corriente, la Gerencia de la Compañía estima que su saldo contable se aproxima a sus 
+valores razonables. Para las obligaciones financieras se ha determinado que su valor en libros es 
+similar a su valor razonable ya que las tasas de interés de mercado en el  momento de su 
+reconocimiento inicial son similares a las tasas de mercado actuales. 
+ 
+4. Efectivo y equivalente de efectivo 
+ 
+Este rubro comprende lo siguiente (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+Efectivo  814,387 808,821 
+Cuentas corrientes   19,219,962 24,211,115 
+Total  20,034,349 25,019,936 
+ 
+La Compañía mantiene sus cuentas corrientes en soles y en dólares estadounidenses en diversas entidades 
+financieras locales, son de libre disponibilidad y no generan intereses. 
+ 
+5. Cuentas por cobrar comerciales, neto 
+ 
+Este rubro comprende lo siguiente (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+Facturas   35,719,740 28,434,838 
+Letras en cartera   4,103,037 4,237,716 
+  39,822,777 32,672,554 
+Estimación para pérdidas crediticias esperadas  (2,669,225) (3,056,787) 
+Total  37,153,552 29,615,767 
+ 
+Las facturas y letras en cartera se encuentran d enominadas en soles y dólares estadounidenses, son de  
+vencimiento corriente y no devengan intereses. Para garantizar los contratos firmados con sus clientes , la 
+
+=== PAGINA PDF 27 ===
+Hidrostal S.A.  27  
+ 
+Compañía ha otorgado cartas fianzas a favor de sus clientes por S/ 3,861,506 y US$ 1,978,332 (S/ 13,132,143 
+y US$ 1,246,404 al 31 de diciembre de 2023) con vencimientos a diciembre de 2025 y 2024, respectivamente.  
+ 
+El período de crédito otorgado a los clientes nacionales es de 90 días en promedio y para clientes del exterior 
+es entre 60 y 90 días. La calidad crediticia de las cuentas por cobrar se ha evaluado sobre la base de información 
+histórica que refleja los índices de incumplimiento, como sigue (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+Por vencer  36,768,207 28,151,207 
+Vencidos:    
+Menor a 30 días  232,775 1,312,120 
+Entre 31 y 60 días  234,067 671,330 
+Entre 61 y 90 días  109,338 85,429 
+Mayor a 90 días  2,478,390 2,452,468 
+Total  39,822,777 32,672,554 
+ 
+El movimiento de la estimación para pérdidas crediticias esperadas fue el siguiente (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+Saldo inicial  3,056,787  2,940,208 
+Adiciones (Ver Nota 22)  1,033,310  2,193,138 
+Recuperos (Ver Nota 22)  (1,420,872) (2,076,559) 
+Total  2,669,225  3,056,787 
+ 
+Las cuentas por cobrar comerciales generan flujos de efectivo, mediante su cobranza; por tanto, se miden al 
+costo amortizado. 
+ 
+Las pérdidas crediticias esperadas de las cuentas por cobrar comerciales se determinan mediante la 
+estructuración de una matriz de provisiones históricas para estimar la probabilidad de incumplimiento (PD), 
+ajustados a un factor macroeconómico futuro (FWL) y el nivel de exposición (LGD) según política contable a 
+fin de estable cer un indicador por cada momento de incumplimiento durante el plazo de crédito (EAD), 
+aplicando el enfoque simplificado señalado en el párrafo 5.5.15. al 5.5.20 de la NIIF 9. El deterioro acumulado 
+al 31.12.2024 es S/ 2,669,225, su estimación se incluye en el rubro “Gastos de ventas” en el estado de resultados 
+y se castigan cuando no existe expectativa de recuperación. 
+ 
+En opinión de la Gerencia, el saldo de la estimación para pérdidas crediticias esperadas cubre adecuadamente 
+el riesgo de pérdidas por cuentas por cobrar de dudosa recuperabilidad al 31 de diciembre de 2024 y 2023. 
+ 
+6. Cuentas por cobrar y pagar a partes relacionadas 
+ 
+Este rubro comprende lo siguiente (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+Cuentas por cobrar comerciales     
+Hidrostal LLC (accionista común)  1,327,702 2,021,314 
+Hidrostal AG (accionista común)  1,367,681 1,113,368 
+Pannon – Hidrostal KFT (accionista común)  0 247,443 
+Total   2,695,383 3,382,125 
+    
+Cuentas por pagar comerciales    
+Frideco AG (accionista común)  1,759,808 2,046,989 
+Hidrostal AG (accionista común)  90,423 240,539 
+  1,850,231 2,287,528 
+
+=== PAGINA PDF 28 ===
+Hidrostal S.A.  28  
+ 
+  31.12.2024 31.12.2023 
+Préstamo por pagar    
+Hidrostal Holding AG (Controladora)  4,172,708 4,962,981 
+Total  6,022,939 7,250,509 
+    
+Cuentas por pagar, parte corriente  2,814,479 3,190,803 
+Cuentas por pagar, parte no corriente  3,208,460 4,059,706 
+Total  6,022,939 7,250,509 
+ 
+Las cuentas por cobrar se encuentran denominadas en dólares estadounidenses, son de vencimiento corriente, 
+no devengan intereses y están siendo cobradas durante el 2025 y 2024, respectivamente.  
+ 
+Las cuentas por pagar a Frideco AG corresponden a los pagos por el uso de la marca “Hidrostal” en todos los 
+productos fabricados y/o comercializados por la Compañía. La compensación por pagar asciende al 2% de sus 
+ventas netas, las cuales son facturadas semestralmente. Durante el 2024 se pagaron regalías por S/ 3,171,522 
+(S/ 3,683,974 en el 2023) y son registradas en el rubro Gastos de ventas.  
+ 
+El préstamo por pagar recibido de Hidrostal Holding AG para capital de trabajo, no tiene garantías específicas, 
+desde junio de 2022 genera una tasa de interés de 2.7% (0.6% anual hasta mayo de 2022) con pagos en cuotas 
+mensuales hasta julio de 2028. El contrato señala que  la tasa debe ser revisada al 31 de mayo de cada año, 
+tomando como referencia la tasa SOFR USD para préstamos de 12 meses. En caso la tasa SOFR haya 
+aumentado o disminuido más del 1%, respecto del 31 de mayo anterior, la tasa de interés será aumentada o 
+disminuida automáticamente por los mismos puntos porcentuales, a partir del 1 de julio subsiguiente, por un 
+periodo de 12 meses. Según adenda de fecha 19 de junio de 2023, la tasa de interés referencial LIBOR será 
+reemplazado por la tasa SOFR al 31 de mayo de cada año, para la determinación de la tasa de interés a partir 
+del 01 de julio de 2024 . Al 31 de diciembre de 2024 el gasto por intereses ascendió a S/ 278,050 (189,970 al 
+31 de diciembre de 2023). 
+ 
+Al 31 de diciembre de 2024 y 2023, la Gerencia estima que recuperará los saldos por cobrar a sus relacionadas 
+por lo que a la fecha de los estados financieros no ha registrado alguna provisión para incobrables. La 
+evaluación de la cobrabilidad de estas cuentas se lleva a cabo al cierre de cada período, la que consiste en el 
+examen de la situación financiera de las entidades relacionadas. 
+ 
+El valor razonable de las cuentas por cobrar a entidades relacionadas no difiere de su valor en libros por tener 
+vencimiento en el corto plazo. 
+ 
+Las principales transacciones efectuadas con las partes relacionadas se detallan a continuación (expresado en 
+Soles): 
+ 
+  31.12.2024 31.12.2023 
+Venta de productos terminados    
+Hidrostal LLC  7,313,862 6,990,569 
+Hidrostal AG  7,332,724 6,654,073 
+Pannon – Hidrostal KFT  796,689 1,493,913 
+  15,443,275 15,138,555 
+Compra de inventarios    
+Hidrostal AG  1,334,791 0 
+    
+Regalías    
+Frideco AG   3,171,522 3,683,974 
+ 
+En opinión de la Gerencia, las transacciones con sus partes relacionadas han sido efectuadas en condiciones 
+similares a las realizadas con empresas no relacionadas.  
+ 
+
+=== PAGINA PDF 29 ===
+Hidrostal S.A.  29  
+ 
+Remuneraciones al personal clave 
+Personal clave es aquel personal que cuentan con la autoridad y responsabilidad de planear, dirigir y controlar 
+la Compañía e incluye al Gerente General y otras Gerencias.  Al 31 de diciembre de 2024 y 2023 se realizaron 
+pagos al Directorio por S/ 11,310 y S/ 11,139 respectivamente; y al personal clave por S/ 11,123,724 y S/ 
+10,317,840; respectivamente. 
+ 
+7. Otras cuentas por cobrar, neto 
+ 
+Este rubro comprende lo siguiente (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+Préstamo a tercero (a)  13,286,225  12,477,980 
+Préstamos al personal  557,095  342,647 
+Reclamos por cobrar  451,544  694,619 
+Crédito fiscal por Impuesto General a las Ventas por aplicar  171,985  0 
+Pagos a cuenta de impuesto a la renta  0  1,989,348 
+Diversas  217,164  108,687 
+  14,684,013  15,613,281 
+Estimación para pérdidas crediticias esperadas   (1,328,501) (1,280,451) 
+Total  13,355,512 14,332,830 
+    
+Otras cuentas por cobrar, parte corriente  1,186,967  2,958,362 
+Otras cuentas por cobrar, parte no corriente  12,168,545  11,374,468 
+Total  13,355,512  14,332,830 
+ 
+a. Este saldo incluye principalmente un préstamo otorgado a una persona natural por un importe ascendente 
+a US$ 2,940,741 (equivalente a S/ 11,233,631) realizado en junio 2022 con vencimiento en junio de 2023. 
+Con fecha 26 de junio de 2023, se suscribió la adenda para ampliar el plazo de cancelación hasta el 30 de 
+junio de 2028. Al 31 de diciembre de 2024 el capital refinanciado asciende a US$ 3,326,977 (US$ 3,071,679 
+en el 2023) equivalentes a S/ 12,502,778 (S/ 11,380,571 en el 2023) y devengó una tasa de interés que toma 
+como referencia la tasa SOFR en dólares americanos para 12 meses, debiendo ser revisada al 31 de mayo 
+de cada año. La tasa de interés hasta mayo 2024 ascendió a 5.38% anual (3.9% anual hasta mayo de 2023). 
+y desde junio 2024 devengó una tasa de  5.72% que estará vigente hasta mayo 2025. El préstamo se 
+encuentra garantizado con 8,170,041 acciones de inversión de la propia Compañía, cubriendo un 86% de 
+la deuda. Por e l saldo pendiente de cobertura, la Compañía ha realizado una estimación de pérdidas 
+crediticias esperadas, por US$ 65,250. 
+ 
+b. El movimiento de la estimación para pérdidas crediticias esperadas fue el siguiente (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+Saldo inicial  1,280,451  1,252,883 
+Adición (Ver Nota 22)  427,703  27,568 
+Recuperos (Ver Nota 22)  (18,233) 0 
+Castigos  (361,420) 0 
+Total  1,328,501 1,280,451 
+ 
+En opinión de la Gerencia, el saldo de la estimación para pérdidas crediticias esperadas cubre 
+adecuadamente el riesgo de deterioro de las otras cuentas por cobrar al 31 de diciembre de 2024 y 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 30 ===
+Hidrostal S.A.  30  
+ 
+8. Inventarios, neto 
+ 
+Este rubro comprende lo siguiente (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+Productos terminados  27,344,842  24,713,034 
+Mercadería   15,275,099  16,790,404 
+Suministros diversos  15,206,690  14,910,564 
+Materias primas   10,180,341  9,979,859 
+Productos en proceso   4,797,325  4,525,329 
+Inventarios por recibir  5,940,727  4,425,006 
+  78,745,024  75,344,196 
+Estimación para desvalorización de existencias  (20,896,781) (21,438,366) 
+Total   57,848,243  53,905,830 
+ 
+A continuación, se presenta el movimiento de la estimación para desvalorización de existencias (expresado en 
+Soles): 
+ 
+  31.12.2024 31.12.2023 
+Saldo Inicial  21,438,366  22,631,037 
+Adiciones por mercadería (Ver Nota 20)  0 2,790,973 
+Adiciones por productos terminados (Ver Nota 20)  4,667,885  1,719,953 
+Recuperos (Ver Nota 20)  (5,119,339) (4,193,025) 
+Castigos  (90,131) (1,510,572) 
+Saldo final   20,896,781  21,438,366 
+ 
+En opinión de la Gerencia de la Compañía y, de acuerdo con la evaluación efectuada por las áreas operativas, 
+el saldo de la estimación para desvalorización de inventarios cubre adecuadam ente el riesgo de deterioro al 
+31 de diciembre de 2024 y 2023. 
+ 
+9. Propiedades de inversión, neto 
+ 
+A continuación, se presenta el movimiento y composición del rubro (expresado en Soles): 
+ 
+ Saldos al 
+31.12.2023 Adiciones Saldos al 31.12.2024 
+Costo    
+Terrenos 6,818,694  0  6,818,694  
+Edificaciones y otras construcciones 886,880  0  886,880  
+ 7,705,574  0  7,705,574  
+Depreciación acumulada      
+Edificaciones y otras construcciones (485,748) (44,052) (529,801) 
+Costo neto 7,219,826    7,175,773 
+ Saldos al 
+31.12.2022 Adiciones Saldos al 31.12.2023 
+Costo    
+Terrenos 6,818,694 0 6,818,694 
+Edificaciones y otras construcciones 886,880 0 886,880 
+ 7,705,574 0 7,705,574 
+Depreciación acumulada    
+Edificaciones y otras construcciones (441,696) (44,052) (485,748) 
+Costo neto 7,263,878  7,219,826 
+
+=== PAGINA PDF 31 ===
+Hidrostal S.A.  31  
+ 
+ 
+Corresponde a tres propiedades dentro de la provincia de Lima: un terreno ubicado en Avenida Santuario 
+1080, distrito de San Juan de Lurigancho, una oficina ubicada en Avenida Paseo de La República 2500, Lince y 
+dos palcos ubicados en el Estadio Monumental, distrito de Ate. Las citadas propiedades se encuentran 
+desocupadas, no generando ingresos  por arrendamiento con terceros. El cargo por depreciación  al 31 de 
+diciembre de 2024 es de S/44,052 (S/44,052 en 2023) se presenta en el rubro gastos de administración. Ver 
+nota 21. 
+ 
+El valor razonable de estas propiedades al 3 1 de diciembre de 2024 y 2023 ascienden a S/ 16,470,629 y   S/ 
+16,122,390 respectivamente, basados en tasaciones realizadas por peritos independientes.  
+ 
+De acuerdo con las políticas establecidas por la Gerencia, al 31 de diciembre de 2024 y 2023 la Compañía ha 
+contratado una póliza de seguros contra todo riesgo que le permite asegurar los inmuebles considerados 
+como propiedades de inversión.  
+
+=== PAGINA PDF 32 ===
+Hidrostal S.A.  32  
+ 
+10. Propiedades, planta y equipo, neto 
+ 
+A continuación, se presenta el movimiento y composición del rubro (expresado en Soles): 
+ 
+ Saldos al 
+31.12.2023 Adiciones Revaluación Transferencia Ventas y/o bajas Saldos al 31.12.2024 
+Costo       
+Terrenos 175,163,987  0  (1,799,318) 0  0  173,364,669  
+Edificaciones y otras construcciones 54,223,345  2,801,016  13,166,655  915,924  (1,291,149) 69,815,791  
+Maquinaria y equipo 65,086,832  1,539,302  3,676,880  0  (795,039) 69,507,975  
+Unidades de transporte 3,148,926  514,438  0  0  (316,767) 3,346,597  
+Muebles y enseres 929,333  52,350  0  0  (4,300) 977,383  
+Equipo de cómputo 4,104,114  153,990  0  0  (140,340) 4,117,764  
+Equipo diverso 1,475,103  273,017  0  0  (25,208) 1,722,912  
+Obras en curso 915,924  0  0  (915,924) 0  0  
+ 305,047,564  5,334,113  15,044,217  0  (2,572,803) 322,853,091  
+Depreciación acumulada        
+Edificaciones y otras construcciones (26,635,208) (3,956,572) 0  0  1,291,149  (29,300,631) 
+Maquinaria y equipo (49,335,294) (3,785,098) 0  0  659,851  (52,460,541) 
+Unidades de transporte (2,005,284) (361,415) 0  0  316,767  (2,049,932) 
+Muebles y enseres (716,658) (39,956) 0  0  143  (756,471) 
+Equipo de cómputo (3,401,436) (278,228) 0  0  125,391  (3,554,273) 
+Equipo diverso (624,089) (135,794) 0  0  4,564  (755,319) 
+ (82,717,969) (8,557,063) 0  0  2,397,865  (88,877,167) 
+Costo neto 222,329,595      233,975,924  
+   
+ 
+ 
+
+=== PAGINA PDF 33 ===
+Hidrostal S.A.  33  
+ 
+ Saldos al 
+31.12.2022 Adiciones Ventas y/o bajas Saldos al 31.12.2023 
+Costo     
+Terrenos 175,163,987 0 0 175,163,987 
+Edificaciones y otras 
+construcciones 53,787,902 435,443 0 54,223,345 
+Maquinaria y equipo 63,631,157 1,852,285 (396,610) 65,086,832 
+Unidades de transporte 2,760,796 472,818 (84,688) 3,148,926 
+Muebles y enseres 849,945 80,465 (1,077) 929,333 
+Equipo de cómputo 3,353,224 781,571 (30,681) 4,104,114 
+Equipo diverso 1,376,629 130,107 (31,633) 1,475,103 
+Obras en curso 0 915,924 0 915,924 
+ 300,923,640 4,668,613 (544,689) 305,047,564 
+Depreciación acumulada     
+Edificaciones y otras 
+construcciones (22,966,630) (3,668,578) 0 (26,635,208) 
+Maquinaria y equipo (45,790,445) (3,848,738) 303,889 (49,335,294) 
+Unidades de transporte (1,789,919) (300,053) 84,688 (2,005,284) 
+Muebles y enseres (680,923) (36,761) 1,026 (716,658) 
+Equipo de cómputo (2,977,175) (450,437) 26,176 (3,401,436) 
+Equipo diverso (544,039) (111,683) 31,633 (624,089) 
+ (74,749,131) (8,416,250) 447,412 (82,717,969) 
+Costo neto 226,174,509   222,329,595 
+ 
+El costo de los activos por derecho de uso como son las edificaciones y equipos de cómputo al 31 de diciembre 
+de 202 4 ascienden a S/ 2,498,610 y 1,053,197 (S/ 1,407,279 y 1,155,540 en 202 3) respectivamente, y su 
+depreciación acumulada asciende a S/ 1,472,326 y S/ 1,155,540 (S/ 233,739 y S/ 249,886 en 202 3) 
+respectivamente. 
+ 
+Al 31 de diciembre de 2024, los rubros terrenos, edificaciones y otras construcciones, maquinarias y equipo 
+incluyen saldos revaluados netos por  S/ 173,364,669, S/ 33,572,773 y S/ 12,680,792, respectivamente (S/ 
+161,412,853, S/ 22,539,189 y S/ 12,140,288 al 31 de diciembre de 2023), basados en tasaciones realizadas por 
+peritos independientes durante diciembre del 2024. 
+ 
+El gasto por depreciación de propiedades, planta y equipo h an sido distribuido en el Est ado de resultados 
+integrales como sigue (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+ Costo de ventas (Nota 20)  6,474,879  6,464,033 
+ Costo de servicio (Nota 20)  167,963  172,362 
+ Gastos de administración (Nota 21)  396,567  389,164 
+ Gastos de ventas (Nota 22)  1,517,654  1,390,691 
+ Total  8,557,063  8,416,250 
+ 
+El Saldo de activos al 31 de diciembre 2024 y 2023 incluyen activos totalmente depreciados cuyos costos y 
+ascienden a S/1,129,227 y S/3,809,542, respectivamente. 
+ 
+De acuerdo con las políticas establecidas por la Gerencia, al 31 de diciembre de 2024 y 2023 la Compañía ha 
+contratado pólizas de seguros contra todo riesgo que le permite asegurar sus propiedades, planta y equipo. 
+En opinión de la Gerencia, las pólizas de seguros contratadas están de acuerdo con el estándar utilizado para 
+estos casos, por empresas equivalentes del sector, y cubren adecuadamente el riesgo de eventuales pérdidas 
+por cualquier siniestro que pudiera ocurrir. 
+ 
+
+=== PAGINA PDF 34 ===
+Hidrostal S.A.  34  
+ 
+Al 31 de diciembre de 2024 y 2023, la Gerencia de la Compañía considera que no existen acontecimientos o 
+cambios económicos que indiquen que el valor en libros neto registrado no pueda ser recuperado. 
+ 
+11. Cuentas por pagar comerciales 
+ 
+Las cuentas por pagar comerciales corresponden a facturas emitidas por proveedores nacionales y del exterior 
+que se originan principalmente por la adquisición de suministros necesarios para la producción. Se encuentran 
+denominadas en soles y dólares estadounidenses, no generan intereses y no cuentan con garantías asociadas 
+al cumplimiento de su pago. 
+ 
+12. Otras cuentas por pagar 
+  
+Este rubro comprende lo siguiente (expresado en Soles): 
+ 
+  31.12.2024 31.12.2023 
+Anticipos de clientes  6,165,523  2,381,434 
+Vacaciones y participaciones por pagar  6,259,829  5,149,435 
+Pasivo por arrendamiento   1,279,507  290,654 
+Impuesto a la renta de tercera categoría  1,195,256  0 
+Provisión para garantías por ventas   608,381  697,327 
+Aportes a fondos de pensiones y contribuciones por trabajadores  557,907  545,163 
+Compensación por tiempo de servicios  504,017  506,661 
+Otros impuestos por pagar  297,181  322,800 
+Impuesto general a las ventas - IGV  0  2,265,987 
+Diversas  124,717  226,956 
+Total  16,992,318  12,386,417 
+ 
+    
+Otras cuentas por pagar, parte corriente   16,040,496  12,386,417 
+Otras cuentas por pagar, parte no corriente  951,822  0 
+Total  16,992,318  12,386,417 
+ 
+Los anticipos de clientes se relacionan con la prestación de servicios para la fundición y mecanizado de piezas 
+industriales, así como soluciones integrales en base a requerimientos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 35 ===
+Hidrostal S.A.  35  
+ 
+13. Impuesto a la Renta diferido, neto 
+ 
+A continuación, se presenta el movimiento del pasivo diferido al 31 de diciembre de 2024 y 2023 (expresado 
+en Soles): 
+ 
+ Saldos al 
+31.12.2023 
+Efecto en 
+resultado del 
+periodo 
+Efecto en 
+resultados 
+integrales 
+Saldos al 
+31.12.2024 
+Partidas temporarias activas     
+Desvalorización de inventarios 6,324,318  (159,767) 0  6,164,551  
+Pérdidas crediticias esperadas 446,902  (371,349) 0  75,553  
+Vacaciones no pagadas 942,059  136,599  0  1,078,658  
+Garantía por ventas 205,712  (26,240) 0  179,472  
+ 7,918,991  (420,757) 0  7,498,234  
+Partidas temporarias pasivas      
+Revaluaciones voluntarias de 
+propiedades, planta y equipo (47,884,673) 1,367,213  (4,438,044) (50,955,504) 
+Costo atribuido de propiedades, 
+planta y equipo por adopción a NIIF (9,964,470) 187,275  0  (9,777,195) 
+Otros menores (332,160) (115,759) 0  (447,919) 
+ (58,181,303) 1,438,729  (4,438,044) (61,180,618) 
+Pasivo diferido neto  (50,262,312) 1,017,972  (4,438,044) (53,682,384) 
+ 
+ 
+ Saldos al 
+31.12.2022 
+Efecto en 
+resultado del 
+periodo 
+Efecto en 
+resultados 
+integrales 
+Saldos al 
+31.12.2023 
+Partidas temporarias activas     
+Desvalorización de inventarios 6,676,156 (351,838) 0 6,324,318 
+Pérdidas crediticias esperadas 642,876 (195,974) 0 446,902 
+Vacaciones no pagadas 843,719 98,340 0 942,059 
+Garantía por ventas 213,795 (8,083) 0 205,712 
+ 8,376,546 (457,555) 0 7,918,991 
+Partidas temporarias pasivas     
+Revaluaciones voluntarias de 
+propiedades, planta y equipo (49,284,249) 1,399,576 0 (47,884,673) 
+Costo atribuido de propiedades, 
+planta y equipo por adopción a NIIF (10,113,358) 148,888  (9,964,470) 
+Otros menores (434,835) 102,675 0 (332,160) 
+ (59,832,442) 1,651,139 0 (58,181,303) 
+Pasivo diferido neto  (51,455,896) 1,193,584 0 (50,262,312) 
+ 
+14. Capital social 
+ 
+Al 31 de diciembre de 2024 y 2023 se encuentra representado por 53,971,078 acciones comunes suscritas, 
+pagadas e inscritas en Registros Públicos, cuyo valor nominal es de un sol por acción. La inversión extranjera 
+directa ascendente a US$13,734,906 se encuentra registrada ante la Agencia de Promoción de la Inversión 
+Privada - PROINVERSION. 
+ 
+Al 31 de diciembre de 202 4 y 2023, la participación accionaria se compone  de su C ontroladora Hidrostal 
+Holding AG con el 61.57% de participación , 1 parte relacionada con el 35.43% de participación y 1 persona 
+natural con el 3% de participación restante . No existen, restricciones respecto a la repatriación de las 
+inversiones y utilidades al exterior.  
+ 

@@ -1,0 +1,15 @@
+{
+  "archivos_verificados": 1583,
+  "sin_cambios_durante_ejecucion": true,
+  "git_modificados_previos": [
+    "notebooks/03_extraccion_macroeconomica.ipynb",
+    "reports/auditoria_extraccion_macroeconomica.md"
+  ],
+  "filas_entrenamiento": 2869,
+  "filas_prueba_usadas": 0,
+  "reproduccion_revision": {
+    "media_historica": 8.215236474396787e-16,
+    "persistencia": 8.215236474396787e-16,
+    "ridge": 4.482974128505536e-15
+  }
+}

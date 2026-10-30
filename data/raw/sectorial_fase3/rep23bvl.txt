@@ -1,0 +1,2857 @@
+
+=== PAGINA PDF 1 ===
+ 
+Red de Energía del Perú S. A. 
+Estados financieros al 31 de diciembre de 2023 y de 2022 
+junto con el dictamen de los auditores independientes 
+ 
+
+=== PAGINA PDF 2 ===
+ 
+Red de Energía del Perú S.A. 
+Estados financieros al 31 de diciembre de 2023 y de 2022  
+junto con el dictamen de los auditores independientes 
+Contenido 
+ 
+ 
+Dictamen de los auditores independientes 
+ 
+Estados financieros 
+ 
+Estado de situación financiera 
+Estado de resultados integrales 
+Estado de cambios en el patrimonio  
+Estado de flujos de efectivo 
+Notas a los estados financieros 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 3 ===
+Dictamen de los auditores independientes 
+ 
+Tanaka, Valdivia & Asociados 
+Sociedad Civil de R. L 
+ 
+A los accionistas de Red de Energía del Perú S.A.  
+ 
+Opinión 
+ 
+Hemos auditado los estados financieros de Red de Energía del Perú S.A. (en adelante “la Compañía”), 
+que comprenden el estado de situación financiera al 31 de diciembre de 2023, y los estados de 
+resultados, de resultados integrales, de cambios en el patrimonio neto y de flujos de efectivo por el 
+año terminado en esa fecha, así como las notas explicativas a los estados financieros que incluyen 
+información sobre políticas contables materiales. 
+ 
+En nuestra opinión, los estados financieros adjuntos presentan razonablemente, en todos los aspectos 
+significativos, la situación financiera de la Compañía al 31 de diciembre de 2023, así como su 
+desempeño financiero y sus flujos de efectivo correspondientes por el año terminado en esa fecha, de 
+acuerdo con las Normas Internacionales de Información Financiera (NIIF) emitidas por el International 
+Accounting Standards Board. 
+ 
+Base de la opinión 
+ 
+Realizamos nuestra auditoría de conformidad con las Normas Internacionales de Auditoría (NIAs) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos 
+del Perú. Nuestras responsabilidades en virtud de esas normas se describen con más detalle en la 
+sección Responsabilidades del auditor en relación con la auditoría de los estados financieros de 
+nuestro informe.  
+ 
+Somos independientes de la Compañía de acuerdo con el Código de Ética para Profesionales de la 
+Contabilidad del Consejo de Normas Internacionales de Ética para Contadores (Código IESBA) junto 
+con los requisitos éticos que son relevantes para nuestra auditoría de los estados financieros en Perú, 
+y hemos cumplido con nuestras otras responsabilidades éticas de acuerdo con estos requisitos y el 
+Código IESBA. Consideramos que la evidencia de auditoría que hemos obtenido proporciona una base 
+suficiente y adecuada para nuestra opinión. 
+  
+
+=== PAGINA PDF 4 ===
+Dictamen de los auditores independientes (continuación) 
+Asuntos clave de auditoría 
+ 
+Los asuntos clave de auditoría son aquellos asuntos que, a nuestro juicio profesional, fueron de mayor 
+importancia en la auditoría de los estados financieros del período actual. Estos asuntos se abordaron 
+en el contexto de la auditoría de los estados financieros en su conjunto, y en la formación de nuestra 
+opinión sobre los mismos; por lo que no proporcionamos una opinión separada sobre estos asuntos. 
+Con base en lo anterior, más adelante, se detalla la manera en la que cada asunto clave fue abordado 
+durante nuestra auditoría. 
+ 
+Hemos cumplido con las responsabilidades descritas en la sección Responsabilidades del auditor en 
+relación con la auditoría de los estados financieros de nuestro informe, incluso en relación con estos 
+asuntos.En consecuencia, nuestra auditoría incluyó la realización de procedimientos diseñados para 
+responder a los riesgos de incorrección material evaluados en los estados financieros. Los resultados 
+de los procedimientos de auditoría, incluidos los procedimientos realizados para abordar los asuntos 
+que se mencionan a continuación, constituyen la base para la opinión de auditoría sobre los estados 
+financieros adjuntos. 
+ 
+Provisión para mantenimiento y reemplazos mayores 
+ 
+Descripción del 
+asunto 
+ Anualmente, la Compañía actualiza y registra la provisión para mantenimientos y 
+reemplazos la cual corresponde principalmente a costos necesarios para 
+mantener la infraestructura de las líneas de transmisión en las condiciones de 
+operatividad requeridas por el Estado Peruano descritas en el contrato de 
+concesión (obligación contractual). Al 31 de diciembre de 2023, la provisión por 
+mantenimiento registrada asciende a US$29,403,507. 
+ 
+La Compañía reconoce como obligación la mejor estimación disponible de los 
+desembolsos necesarios para mantener operativos los bienes de cada línea de 
+transmisión. 
+ 
+La auditoría de este tipo de registro contable es compleja y altamente crítica 
+debido al grado de incertidumbre en la estimación necesaria para determinar el 
+valor a provisionar por cada línea de transmisión. En particular, ésta es sensible 
+principalmente a supuestos tales como el presupuesto de mantenimiento 
+(CAPEX), inflación, tasas de descuento y probabilidades de ejecución. 
+ 
+  Debido a los factores mencionados anteriormente, consideramos que la 
+determinación del cálculo de la provisión para mantenimiento y reemplazos 
+mayores es un asunto clave de auditoría. 
+ 
+Cómo abordamos 
+el asunto en 
+nuestra auditoría 
+ Nuestros procedimientos de auditoría incluyeron pruebas sobre el análisis de la 
+provisión para mantenimientos y reemplazos mayores realizado por la 
+Compañía. 
+ 
+Obtuvimos un entendimiento, evaluamos el diseño de los controles sobre el 
+proceso de revisión de la provisión de mantenimiento que realiza la Compañía, 
+incluyendo la revisión de los principales supuestos descritos anteriormente, de la 
+
+=== PAGINA PDF 5 ===
+Dictamen de los auditores independientes (continuación) 
+Provisión para mantenimiento y reemplazos mayores 
+ 
+información financiera proyectada, de la metodología utilizada para desarrollar 
+dicha estimación y los datos subyacentes utilizados por la Compañía en su 
+análisis. 
+ 
+Efectuamos la revisión de la razonabilidad de los presupuestos de 
+mantenimiento (CAPEX) realizado por el área de Operación y Mantenimiento de 
+la Compañía.  
+ 
+Realizamos una evaluación del presupuesto del año anterior para validar la 
+confiabilidad en la estimación del presupuesto corriente y revisamos los 
+desembolsos efectuados. 
+ 
+Revisamos la tasa de descuento utilizada, la fuente externa de donde es 
+obtenida, así como la metodología empleada para el descuento del presupuesto y 
+la determinación de la provisión al 31 de diciembre de 2023. 
+ 
+Verificamos el adecuado registro de la provisión y las revelaciones contables en 
+los estados financieros al 31 de diciembre de 2023.  
+ 
+Otra información incluida en el Informe Anual 2023 de la Compañía  
+ 
+Otra información consiste en la información incluida en la Memoria Anual, distinta de los estados 
+financieros y nuestro informe de auditoría sobre los mismos, del que se espera que dispondremos 
+después de la fecha de este informe de auditoría. La Gerencia es responsable de la otra información. 
+ 
+Nuestra opinión sobre los estados financieros no cubre la otra información y no expresamos ninguna 
+forma de conclusión que proporcione un grado de seguridad sobre ésta.  
+ 
+En relación con nuestra auditoría de los estados financieros, nuestra responsabilidad es leer la otra 
+información y, al hacerlo, considerar si la otra información es materialmente inconsistente con los 
+estados financieros o nuestro conocimiento obtenido en la auditoría o si de otra manera parece estar 
+materialmente mal expresada. 
+ 
+Cuando leamos y consideremos la Memoria Anual, si concluimos que contiene una incorrección 
+material, estamos obligados a comunicar el asunto a los responsables del gobierno de la Compañía. 
+ 
+  
+
+=== PAGINA PDF 6 ===
+Dictamen de los auditores independientes (continuación) 
+Responsabilidades de la gerencia y los responsables del gobierno corporativo de la Compañía en 
+relación con los estados financieros 
+ 
+La Gerencia es responsable de la preparación y presentación razonable de los estados financieros de 
+acuerdo con las NIIF, y del control interno que la Gerencia determine que es necesario para permitir la 
+preparación de estados financieros que estén libres de errores materiales, ya sea debido a fraude o 
+error. 
+Al preparar los estados financieros, la Gerencia es responsable de evaluar la capacidad de la Compañía 
+para continuar como una empresa en marcha, revelando, según corresponda, los asuntos 
+relacionados con la empresa en marcha y utilizando la base contable de la empresa en marcha, a 
+menos que la Gerencia tenga la intención de liquidar la Compañía o cesar las operaciones, o no tenga 
+otra alternativa realista diferente a hacerlo. 
+ 
+Los responsables del gobierno corporativo de la Compañía son responsables de la supervisión del 
+proceso de información financiera de la Compañía. 
+ 
+Responsabilidades del auditor en relación con la auditoría de los estados financieros  
+ 
+Nuestros objetivos son obtener seguridad razonable sobre si los estados financieros en su conjunto 
+están libres de incorrección material, ya sea debido a fraude o error, y emitir un informe que incluya 
+nuestra opinión. La seguridad razonable es un alto nivel de aseguramiento, pero no garantiza que una 
+auditoría realizada de conformidad con las NIAs aprobadas para su aplicación en el Perú siempre 
+detectará una incorrección importante cuando exista. Las incorrecciones pueden surgir debido a 
+fraude o error y se consideran materiales si, individualmente o acumuladas, podría esperar que 
+influyan razonablemente en las decisiones económicas que los usuarios toman basándose en los 
+estados financieros. 
+ 
+  
+
+=== PAGINA PDF 7 ===
+Dictamen de los auditores independientes (continuación) 
+Como parte de una auditoría de acuerdo con las Normas Internacionales de Auditoría (NIAs) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos 
+del Perú, ejercemos un juicio profesional y mantenemos el escepticismo profesional durante toda la 
+auditoría. También: 
+ 
+- Identificamos y evaluamos los riesgos de incorrección material de los estados financieros, ya 
+sea debido a fraude o error, diseñamos y ejecutamos procedimientos de auditoría que 
+respondan a esos riesgos, y obtenemos evidencia de auditoría que sea suficiente y apropiada 
+para proporcionarnos una base para nuestra opinión. El riesgo de no detectar una incorrección 
+material debido a fraude es mayor que la resultante de un error, ya que el fraude puede implicar 
+colusión, falsificación, omisiones intencionales, declaraciones falsas o sobrepaso del sistema de 
+control interno. 
+- Obtuvimos un entendimiento del control interno relevante para la auditoría con el fin de diseñar 
+procedimientos de auditoría que sean apropiados en las circunstancias, pero no con el propósito 
+de expresar una opinión sobre la efectividad del control interno de la Compañía. 
+- Evaluamos la idoneidad de las políticas contables utilizadas, la razonabilidad de las estimaciones 
+contables y las respectivas revelaciones realizadas por la Gerencia.  
+- Concluimos sobre la idoneidad del uso por parte de la Gerencia de la base contable de la 
+empresa en marcha y, sobre la base de la evidencia de auditoría obtenida, si existe una 
+incertidumbre material relacionada con eventos o condiciones que puedan generar dudas 
+significativas sobre la capacidad de la Compañía para continuar como una empresa en marcha. 
+Si llegamos a la conclusión de que existe una incertidumbre material, estamos obligados a 
+llamar la atención en nuestro informe de auditoría sobre las revelaciones relacionadas en los 
+estados financieros o, si dichas revelaciones son inadecuadas, a modificar nuestra opinión. Las 
+conclusiones se basan en la evidencia de auditoría obtenida hasta la fecha de nuestro informe 
+de auditoría. Sin embargo, los eventos o condiciones futuras pueden hacer que la Compañía 
+deje de continuar como una empresa en marcha. 
+- Evaluamos la presentación general, la estructura, el contenido de los estados financieros, 
+incluidas las revelaciones, y si los estados financieros representan las transacciones y eventos 
+subyacentes de manera que logre una presentación razonable. 
+ 
+Comunicamos a los responsables del gobierno corporativo de la Compañía, entre otros asuntos, al 
+alcance planeado y el momento de realización de la auditoría, los hallazgos significativos de la misma, 
+así como cualquier deficiencia significativa del control interno identificada en el transcurso de la 
+auditoría. 
+ 
+También proporcionamos a los responsables del gobierno corporativo de la Compañía una declaración 
+de que hemos cumplido con los requerimientos éticos relevantes respecto a independencia y les 
+hemos comunicado acerca de todas las relaciones y otros asuntos que podrían razonablemente 
+afectar nuestra independencia y, según corresponda, incluyendo las respectivas salvaguardas. 
+ 
+
+=== PAGINA PDF 8 ===
+Dictamen de los auditores independientes (continuación) 
+Entre los asuntos que han sido objeto de comunicación con los responsables del gobierno corporativo 
+de la Compañía, determinamos los que han sido de la mayor significatividad en la auditoría de los 
+estados financieros del periodo corriente y, por lo tanto, son los asuntos clave de auditoría. Hemos 
+descrito esos asuntos en nuestro informe de auditoría salvo que las disposiciones legales o 
+reglamentarias prohíban revelar públicamente el asunto o, en circunstancias extremadamente poco 
+frecuentes, determinemos que un asunto no se debería comunicar en nuestro informe porque se 
+esperaría razonablemente que las consecuencias adversas de hacerlo superarían los beneficios de 
+interés público del mismo. 
+ 
+ 
+Lima, Perú 
+14 de febrero de 2024 
+ 
+ 
+Refrendado por: 
+ 
+ 
+ 
+ 
+  
+Percy Zarria 
+Socio a cargo 
+C.P.C.C. Matrícula N°C37450  
+ 
+ 
+
+=== PAGINA PDF 9 ===
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado de situación financiera. 
+Red de Energía del Perú S.A. 
+Estado de situación financiera 
+Al 31 de diciembre de 2023 y de 2022  
+ Nota 2023 2022 
+  US$ US$ 
+    
+Activo    
+    
+Activo corriente    
+    
+Efectivo y equivalentes de efectivo 3.2(c) y 5 69,513,607 41,356,439 
+    
+Cuentas por cobrar comerciales, neto 3.2(a) y 6 17,053,124 24,992,738 
+    
+Cuentas por cobrar a partes relacionadas 3.2(a) y 24(c) 9,378,216 8,705,838 
+    
+Otras cuentas por cobrar 3.2(a) y 7 2,593,802 2,792,222 
+    
+Suministros y repuestos, neto 3.2(d) y 8 13,207,020 12,592,134 
+    
+Activo por impuesto a las ganancias 3.2 (l) y 18(g) - 1,104,654     
+Gastos pagados por anticipado  987,871 137,369   ____________ ____________ 
+Total activo corriente  112,733,640 91,681,394   ____________ ____________     
+    
+    
+    
+    
+    
+    
+    
+Activo no corriente    
+    
+Cuentas por cobrar a partes relacionadas 3.2(a) y 24(c) - 1,053,388 
+    
+Otras cuentas por cobrar 3.2(a) y 7 4,026,535 4,210,412 
+    
+Instalaciones, muebles y equipo, neto 3.2(e) y 9 10,862,856 8,285,336 
+    
+Activos por derecho de uso, neto 3.2(f) y 10 3,631,359 3,101,380 
+    
+Activos intangibles, neto 3.2(h) y 11 355,295,459 373,377,642   ____________ ____________ 
+Total activo no corriente  373,816,209 390,028,158   ____________ ____________     
+Total activo  486,549,849 481,709,552   ____________ ____________ 
+ Nota 2023 2022 
+  US$ US$ 
+    
+Pasivo y patrimonio neto    
+Pasivo corriente    
+Obligaciones financieras 3.2(a) y 15 38,550,285 62,344,128 
+Cuentas por pagar comerciales 3.2(a) y 12 10,217,670 7,284,571 
+Cuentas por pagar a partes relacionadas 3.2(a) y 24(c) 2,410,893 3,898,317 
+Impuesto a las ganancias por pagar 3.2 (l) y 18(g) 2,928,505 - 
+Tributos y contribuciones por pagar 3.2(l) 2,471,053 2,196,859 
+Otras cuentas por pagar 3.2(a) y 13 7,000,257 5,906,394 
+Anticipos de clientes 3.2(o)  2,600,698 3,188,925 
+Instrumentos derivados de cobertura 25 - 10,019,333 
+Provisiones 3.2(k) y 14 12,166,528 12,857,074   ____________ ____________ 
+Total pasivo corriente  78,345,889 107,695,601   ____________ ____________ 
+Pasivo no corriente    
+Obligaciones financieras 3.2(a) y 15 223,481,843 191,941,608 
+Provisiones 3.2(k) y 14 18,238,949 21,729,755 
+Otras cuentas por pagar 3.2(a) y 13 1,037,440 876,861 
+Pasivo por impuesto a las ganancias diferido, neto 3.2(l) y 16 22,574,996 19,699,713   ____________ ____________ 
+Total pasivo no corriente  265,333,228 234,247,937   ____________ ____________ 
+Total pasivo   343,679,117 341,943,538   ____________ ____________     
+    
+Patrimonio 17   
+Capital emitido  23,682,675 23,682,675 
+Prima de emisión  47,271,273 47,271,273 
+Otras reservas de capital  4,736,535 4,736,535 
+Otras reservas de patrimonio  - (385,044) 
+Resultados acumulados  67,180,249 64,460,575   ____________ ____________     
+Total patrimonio neto   142,870,732 139,766,014   ____________ ____________     
+Total pasivo y patrimonio neto  486,549,849 481,709,552   ____________ ____________ 
+ 
+
+=== PAGINA PDF 10 ===
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado de situación financiera. 
+Red de Energía del Perú S.A. 
+Estado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2023 y de 2022 
+ Nota 2023 2022 
+  US$ US$ 
+    
+Ingresos de operación     
+Servicios de transmisión de energía eléctrica 2 170,668,710 157,970,645 
+Servicios de construcción  4,184,753 29,252 
+Servicios complementarios 20 24,804,009 22,576,714   ____________ ____________ 
+  199,657,472 180,576,611   ____________ ____________ 
+Costo de servicios de transmisión de energía 
+eléctrica 21 (69,064,607) (65,344,587) 
+Costo de servicio de construcción  (4,169,200) (26,593) 
+Provisión para mantenimientos y reemplazos 14(a) (7,089,437) (7,946,283)   ____________ ____________ 
+Utilidad bruta  119,334,228 107,259,148   ____________ ____________ 
+Gastos e ingresos de operación     
+Gastos de administración 22 (15,204,089) (11,626,544) 
+Otros ingresos operacionales, neto  1,040,068 2,327,741   ____________ ____________ 
+  (14,164,021) (9,298,803)   ____________ ____________ 
+Utilidad operativa  105,170,207 97,960,345   ____________ ____________ 
+Otros ingresos (gastos)     
+Ingresos financieros 23(a) 3,351,284 1,425,795 
+Costos financieros 23(b) (15,945,009) (12,392,104) 
+Diferencia en cambio, neta 27(b) 266,357 1,647,656   ____________ ____________     
+  (12,327,368) (9,318,653)   ____________ ____________ 
+Utilidad antes de impuesto a las ganancias  92,842,839 88,641,692 
+Impuesto a las ganancias 16(b) (25,662,590) (24,181,116)   ____________ ____________ 
+Utilidad neta   67,180,249 64,460,576   ____________ ____________ 
+Otros resultados integrales:    
+Cobertura de flujo de efectivo 25 527,458 1,628,733 
+Impuesto a las ganancias diferido 16(a) (142,414) (439,758)   ____________ ____________ 
+  385,044 1,188,975   ____________ ____________     
+Resultado integral total del ejercicio  67,565,293 65,649,551   ____________ ____________ 
+Utilidad básica y diluida por acción común (en 
+dólares estadounidenses) 26 0.93 0.89   ____________ ____________ 
+Promedio ponderado de acciones en circulación (en 
+unidades)  26 72,160,000 72,160,000   ____________ ____________ 
+
+=== PAGINA PDF 11 ===
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Red de Energía del Perú S.A. 
+Estado de cambios en el patrimonio neto  
+Por los años terminados el 31 de diciembre de 2023 y de 2022 
+ 
+Capital  
+emitido 
+Prima  
+de emisión 
+Otras reservas 
+de capital 
+Otras reservas 
+de patrimonio 
+Resultados 
+acumulados Total 
+ US$ US$ US$ US$ US$ US$ 
+       
+Saldos al 1 de diciembre de 2022 23,682,675 72,571,273 4,736,535 (1,574,019) 28,760,769 128,177,233 
+Utilidad neta - - - - 64,460,576 64,460,576 
+Otros resultados integrales, nota 17(d) - - - 1,188,975 - 1,188,975  ____________ ____________ ____________ ____________ ____________ ____________ 
+Resultado integral del año - - - 1,188,975 64,460,576 65,649,551  ____________ ____________ ____________ ____________ ____________ ____________ 
+Reducción de primas de emisión, nota 17(e) - (25,300,000) - - - (25,300,000) 
+Dividendos declarados, nota 17(e) - - - - (28,760,770) (28,760,770)  ____________ ____________ ____________ ____________ ____________ ____________ 
+Saldos al 31 de diciembre de 2022 23,682,675 47,271,273 4,736,535 (385,044) 64,460,575 139,766,014  ____________ ____________ ____________ ____________ ____________ ____________ 
+       
+Utilidad neta - - - - 67,180,249 67,180,249 
+Otros resultados integrales, nota 17(d) - - - 385,044 - 385,044  ____________ ____________ ____________ ____________ ____________ ____________ 
+Resultado integral del año - - - 385,044 67,180,249 67,565,293  ____________ ____________ ____________ ____________ ____________ ____________ 
+Dividendos declarados, nota 17(e) - - - - (64,460,575) (64,460,575)  ____________ ____________ ____________ ____________ ____________ ____________        
+Saldos al 31 de diciembre de 2023 23,682,675 47,271,273 4,736,535 - 67,180,249 142,870,732  ____________ ____________ ____________ ____________ ____________ ____________ 
+ 
+ 
+
+=== PAGINA PDF 12 ===
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Red de Energía del Perú S.A. 
+Estado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2023 y de 2022 
+ Nota 2023 2022 
+  US$ US$ 
+    
+Actividades de operación    
+Cobranzas a clientes  209,237,389 182,440,211 
+Pagos a proveedores y empleados  (68,736,220) (63,323,294) 
+Pagos de impuesto a las ganancias  (18,519,281) (23,951,105) 
+Pagos de intereses  (15,945,009) (12,745,404) 
+Efecto neto por intercambio de divisas  - (16,689,647) 
+Otros cobros(pagos) de operación  (4,365,194) 1,118,520   ____________ ____________ 
+Efectivo neto proveniente de las actividades de operación  101,671,685 66,849,282   ____________ ____________ 
+    
+Actividades de inversión    
+Adquisición de activos intangibles 11 (10,017,046) (3,455,432) 
+Adquisición de muebles y equipo 9 (4,404,890) (1,448,281) 
+Venta de vehículos  - 445,599   ____________ ____________ 
+Efectivo neto utilizado de las actividades de inversión  (14,421,936) (4,458,114)   ____________ ____________ 
+    
+Actividades de financiamiento    
+Dividendos pagados y distribución de primas de emisión 17(e) (64,460,575) (54,060,770) 
+Pagos de préstamos bancarios, bonos y arrendamientos 27 (60,340,063) (65,587,521) 
+Préstamos bancarios recibidos 27 65,999,224 70,425,687   ____________ ____________ 
+Efectivo neto utilizado en las actividades de 
+financiamiento 
+ 
+(58,801,414) (49,222,604)   ____________ ____________ 
+    
+Aumento neto (disminución neta) de efectivo en el año 
+antes de las variaciones en la tasa de cambio 
+ 
+28,448,335 13,168,564 
+Efecto en la variación en la tasa de cambio  (291,167) 81,924   ____________ ____________ 
+Aumento neto (disminución neta) de efectivo en el año  28,157,168 13,250,488 
+Efectivo y equivalente al efectivo al inicio del año  41,356,439 28,105,951   ____________ ____________     
+Efectivo y equivalente al efectivo al final del año 5 69,513,607 41,356,439   ___________ ___________ 
+    
+Transacciones que no generan flujo de efectivo    
+Pérdida neta no realizada en instrumentos de cobertura  385,044 1,188,975 
+ 
+
+=== PAGINA PDF 13 ===
+ 
+ 
+Red de Energía del Perú S.A. 
+Notas a los estados financieros 
+Al 31 de diciembre de 2023 y de 2022 
+1. Identificación y actividad económica 
+(a)  Identificación - 
+Red de Energía del Perú S.A. (en adelante "la Compañía") fue constituida el 3 de julio de 2002. 
+La Compañía es subsidiaria de Interconexión Eléctrica S.A. E.S.P. (empresa con domicilio legal en 
+Colombia que posee el 60% de las acciones de la Compañía). El domicilio legal de la Compañía es 
+Av. Juan de Arona 720, piso 6, San Isidro, Lima, Perú. En agosto de 2021, el control último de la 
+Compañía pasó de Grupo ISA a Ecopetrol S.A. 
+ 
+(b)  Actividad económica - 
+Su actividad principal es la transmisión de energía eléctrica proveniente de empresas 
+generadoras. Asimismo, la Compañía presta servicios de operación y mantenimiento a 
+instalaciones de terceros y de entidades relacionadas.  
+ 
+Las actividades de transmisión de energía eléctrica de la Compañía se desarrollan de acuerdo con 
+la Ley de Concesiones Eléctricas y su reglamento, y están reguladas y supervisadas por el 
+Organismo Supervisor de la Inversión en Energía y Minería (OSINERGMIN).  
+ 
+(c)  Aprobación de los estados financieros - 
+Los estados financieros por el año terminado al 31 de diciembre de 2023 han sido aprobados 
+para su emisión por el Directorio de la Compañía el 14 de febrero de 2024 y serán presentados 
+para la aprobación de los Accionistas en los plazos establecidos por Ley. En opinión de la 
+Gerencia de la Compañía, los estados financieros adjuntos serán aprobados sin modificaciones en 
+la Junta General de Accionistas a llevarse a cabo en el primer trimestre de 2024.  
+ 
+2. Principales contratos de operación  
+2.1 Contratos de concesión del sistema de transmisión eléctrica 
+La Compañía ha adoptado la CINIIF 12 – “Acuerdos de Concesión de Servicios” para reconocer 
+sus contratos de concesión con el Estado Peruano. 
+ 
+De acuerdo con el análisis de la CINIIF 12 – “Contratos de Concesión de Servicios”, la Compañía 
+ha establecido que el modelo del activo intangible es el aplicable para reconocer las concesiones 
+de líneas de transmisión otorgadas por el Estado Peruano. A pesar de que el régimen tarifario es 
+determinado anualmente por el Estado Peruano durante la vigencia de la concesión, el contrato 
+de concesión no establece obligación alguna por parte del Estado Peruano de hacerse cargo del 
+pago de las obligaciones asignadas a cada usuario del servicio como consecuencia de los ingresos 
+anuales por el servicio. No existe ningún mecanismo en el contrato de concesión que garantice 
+incondicionalmente el cobro de los derechos generados por los ingresos anuales del servicio por 
+parte del Estado. Las ampliaciones de la infraestructura se registran como adiciones a los activos 
+intangibles. 
+ 
+
+=== PAGINA PDF 14 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+2 
+El 5 de junio de 2002 el Estado Peruano adjudicó a Interconexión Eléctrica S.A. E.S.P. (en 
+adelante "ISA")  la concesión de los sistemas de transmisión eléctrica del Estado Peruano, 
+operados por la Empresa de Transmisión Eléctrica Centro Norte S.A. - ETECEN y la Empresa de 
+Transmisión Eléctrica del Sur S.A. - ETESUR. Adjudicada la buena pro, se constituyó la Compañía 
+y se efectuó el pago de US$286,657,295, ver nota11(a), iniciando sus operaciones el 5 de 
+setiembre de 2002, fecha en la que se suscribió el contrato mediante el cual ISA cede a la 
+Compañía sus derechos de concesión. El contrato de concesión está regulado por OSINERGMIN. 
+ 
+De acuerdo con el contrato de concesión, ISA es el operador precalificado de la concesión, por lo 
+que la Compañía, de acuerdo con sus estatutos, paga a ésta una regalía equivalente al 1% de sus 
+ingresos.  
+ 
+En retribución del servicio de transmisión de energía eléctrica, la Compañía es remunerada a 
+través de la Remuneración Anual Garantizada (RAG), la cual tiene validez durante el periodo de 
+vigencia de la concesión y se reajusta anualmente según la variación del índice "Finished Good 
+Less Food and Energy" de los Estados Unidos de Norteamérica.  
+ 
+Como resultado de la retribución anual, la Compañía reconoció en los años 2023 y 2022 ingresos 
+por servicios de transmisión de energía por eléctrica por US$ 170,668,710 y US$157,970,645, 
+respectivamente. 
+ 
+Modificaciones al contrato de concesión  
+Entre los años 2006 y 2020, se aprobaron cláusulas adicionales al contrato de concesión para la 
+ejecución de las siguientes ampliaciones, que a la fecha ya han sido capitalizadas. De acuerdo con 
+las adendas al Contrato de Concesión, estas ampliaciones son remuneradas como parte de la 
+remuneración anual por ampliaciones. La remuneración rige desde la puesta en operación 
+comercial de la respectiva ampliación y son reajustadas anualmente, a partir del 1 de mayo de 
+cada año, por la variación del índice Fishished Goods Less Food and Energy de los Estados Unidos 
+de Norteamérica. 
+ 
+  
+
+=== PAGINA PDF 15 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+3 
+El resumen de los contratos de concesión, características, inversión y plazo en años se detalla a 
+continuación: 
+ 
+Contratos de Concesión Inversión US$ Periodo en años 
+   
+Proyecto Ampliación N°1 33,968,262 25 
+Proyecto Ampliación N°2 34,703,622  24 
+Proyecto Ampliación N°3 16,272,245  23 
+Proyecto Ampliación N°4 4,751,515  23 
+Proyecto Ampliación N°5 40,788,769  21 
+Proyecto Ampliación N°6 21,080,960  21 
+Proyecto Ampliación N°7 22,315,075  20 
+Proyecto Ampliación N°8 2,851,671  21 
+Proyecto Ampliación N°9 32,629,122  20 
+Proyecto Ampliación N°10  4,276,257  19 
+Proyecto Ampliación N°11  10,134,732  19 
+Proyecto Ampliación N°12  8,330,620  18 
+Proyecto Ampliación N°13  19,639,856  15 
+Proyecto Ampliación N°14  24,044,879  17 
+Proyecto Ampliación N°15  56,870,098  16 
+Proyecto Ampliación N°16  16,334,676  16 
+Proyecto Ampliación N°17  28,319,817  15 
+Proyecto Ampliación N°18  13,587,549  13 
+Proyecto Ampliación N°19  7,221,566  15 
+Proyecto Ampliación N°20  25,706,518  12 
+Otras ampliaciones 34,942,866    _____________     
+Total 458,770,675    _____________  
+ 
+Proyecto Ampliación N°21: La Compañía suscribió con el Estado Peruano el contrato de 
+concesión con fecha 06 de setiembre de 2022. Al 31 de diciembre de 2023, la Compañía ha 
+efectuado inversiones por este proyecto en curso por US$4,159,623 (US$120,193 al 31 de 
+diciembre de 2022), ver nota 11(d). 
+ 
+2.2 Contratos privados de transmisión eléctrica 
+A partir del año 2013, la Compañía decidió aceptar contrataciones de servicios de transmisión 
+eléctrica con empresas privadas, siendo los siguientes proyectos: 
+ 
+Contrato Privado - Planta Fría de Generación ETEN  
+En agosto de 2013, la Compañía suscribió un contrato por servicios de transmisión con Planta de 
+Reserva Fría de Generación de ETEN, en virtud del cual se comprometió a la construcción, 
+operación y mantenimiento de las instalaciones para la prestación del servicio de transmisión 
+eléctrica. Este contrato tiene una vigencia de 18 años desde su puesta en operación en julio de 
+2015. Al 31 de diciembre de 2023, el saldo por cobrar asciende a US$ 949,801, ver nota 7 
+(US$984,233 al 31 de diciembre de 2022).  
+
+=== PAGINA PDF 16 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+4 
+Contrato Privado - Energía Eólica  
+En octubre de 2013, la Compañía suscribió un Contrato por Servicios de Transmisión con Energía 
+Mica, en virtud del cual se comprometió a la construcción, operación y mantenimiento de las 
+instalaciones para la prestación del servicio de transmisión eléctrica. Este contrato tiene una 
+vigencia de 18 años desde su puesta en operación en abril de 2015. Al 31 de diciembre de 2023, 
+el saldo por cobrar asciende a US$ 1,521,280, ver nota 7 (US$ 1,577,464 al 31 de diciembre de 
+2022). 
+ 
+Contrato Privado - Generación Andina  
+En setiembre de 2013, la Compañía suscribió un contrato por servicios de transmisión con 
+Generación Andina, en virtud del cual se comprometió a la construcción, operación y 
+mantenimiento de las instalaciones para la prestación del servicio de transmisión eléctrica. Este 
+contrato tiene una vigencia de 18 años desde su puesta en operación en enero de 2017. Al 31 de 
+diciembre de 2023, el saldo por cobrar asciende a US$ 1,755,061, ver nota 7(b) (US$1,836,810 
+al 31 de diciembre de 2022).  
+ 
+3.  Principales principios y políticas contables  
+3.1 Bases de preparación y presentación – 
+Los estados financieros de la Compañía han sido preparados de acuerdo con las Normas 
+Internacionales de Información Financiera (en adelante “NIIF”), emitidas por la International 
+Accounting Standards Board (en adelante “IASB”) al 31 de diciembre de 2023 y de 2022. 
+ 
+Los estados financieros adjuntos han sido preparados en base al costo histórico, a partir de los 
+registros de contabilidad mantenidos por la Compañía. Los estados financieros están 
+presentados en dólares estadounidenses que es la moneda funcional y de presentación.  
+ 
+Los estados financieros brindan información comparativa respecto del periodo anterior, existen 
+ciertas normas aplicadas por primera vez a partir del 1 de enero de 2023, que no han tenido 
+impacto en los estados financieros de la Compañía, tal como se explica en la nota 4. 
+ 
+En la nota 3.3 se incluye información sobre los juicios, estimaciones y supuestos contables 
+significativos utilizada por la Gerencia para la preparación de los estados financieros adjuntos. 
+ 
+3.2 Resumen de políticas contables - 
+(a) Instrumentos financieros: reconocimiento inicial y medición posterior 
+(i) Activos financieros - 
+Reconocimiento y medición inicial – 
+Los activos financieros se clasifican, al momento de su reconocimiento inicial, 
+como medidos al costo amortizado, al valor razonable con cambios en otros 
+resultados integrales y al valor razonable con cambios en resultados. 
+ 
+La clasificación depende de las características de los flujos de efectivo de los activos 
+financieros y del modelo de negocios de la Compañía para administrarlos. 
+ 
+  
+
+=== PAGINA PDF 17 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+Medición posterior –  
+Para propósitos de la medición posterior, los activos financieros se clasifican en las 
+siguientes categorías: 
+ 
+- Activos financieros al costo amortizado (instrumentos de deuda); 
+- Activos financieros a valor razonable con cambios en otros resultados 
+integrales (instrumentos de deuda); 
+- Activos financieros al valor razonable con cambios en otros resultados 
+integrales que no se trasladan a ganancias y pérdidas cuando se dan de baja 
+(instrumentos de patrimonio);  
+- Activos financieros al valor razonable con cambios en resultados. 
+ 
+Activos financieros al costo amortizado (instrumentos de deuda) – 
+La Compañía miden los activos financieros al costo amortizado si se cumplen las 
+siguientes condiciones: 
+ 
+- El activo financiero se mantiene con el objetivo de mantener los activos 
+financieros para poder cobrar los flujos de efectivo contractuales y no 
+realizar su venta o negociación; y 
+- Las condiciones contractuales del activo financiero dan lugar, en fechas 
+específicas, a flujos de efectivo que son únicamente pagos del principal e 
+intereses sobre el importe del principal pendiente. 
+ 
+Los activos financieros a costo amortizado son posteriormente medidos utilizando 
+el método de interés efectivo y están sujetos a deterioro. Las ganancias y pérdidas 
+son reconocidas en resultados cuando el activo es dado de baja, modificado o 
+deteriorado. 
+ 
+Los activos financieros no se reclasifican después de su reconocimiento inicial, 
+excepto si la Compañía cambian su modelo de negocio para su gestión. 
+ 
+En esta categoría se incluyen el efectivo y equivalentes de efectivo, las cuentas por 
+cobrar comerciales, cuentas por cobrar a partes relacionadas y otras cuentas por 
+cobrar. 
+ 
+Activos financieros al valor razonable con cambios en otros resultados integrales 
+(instrumentos de deuda) - 
+La Compañía mide los instrumentos de deuda al valor razonable con cambios en 
+otros resultados integrales si se cumplen las dos condiciones siguientes: 
+ 
+- El activo financiero se mantiene dentro del modelo de negocio cuyo objetivo 
+es mantener activos financieros para cobrar flujos de efectivo contractuales 
+y luego venderlos, y 
+
+=== PAGINA PDF 18 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+- Los términos contractuales del activo financiero dan lugar, en fechas 
+específicas, a flujos de efectivo que solo son pagos del principal e intereses 
+sobre el importe del principal pendiente. 
+ 
+La Compañía no posee instrumentos de deuda clasificados en esta categoría. 
+ 
+Activos financieros al valor razonable con cambios en otros resultados integrales 
+(instrumentos de patrimonio) – 
+Al momento del reconocimiento, la Compañía elige clasificar irrevocablemente sus 
+instrumentos de patrimonio como instrumentos de patrimonio al valor razonable 
+con cambios en otros resultados integrales cuando cumplen con la definición de 
+patrimonio y no se mantienen para negociación. La clasificación se determina 
+sobre la base de instrumento por instrumento. 
+ 
+Las ganancias y pérdidas sobre estos instrumentos financieros nunca son 
+trasladadas a resultados. Los dividendos son reconocidos como otros ingresos en el 
+estado de resultados cuando el derecho de pago ha sido establecido, excepto 
+cuando la Compañía se beneficien de dichos ingresos como un recupero de parte 
+del costo del activo financiero, en cuyo caso, dichas ganancias son registradas en 
+otros resultados integrales. Los instrumentos de patrimonio al valor razonable con 
+cambios en otros resultados integrales no están sujetos a evaluación de deterioro. 
+ 
+La Compañía no posee inversiones de patrimonio en esta categoría. 
+ 
+Activos financieros al valor razonable con cambios en resultados - 
+Los activos financieros al valor razonable con cambios en resultados incluyen 
+activos financieros mantenidos para negociar, activos financieros designados en el 
+momento del reconocimiento inicial al valor razonable con cambios en resultados, o 
+activos financieros que obligatoriamente deben ser medidos al valor razonable. Los 
+activos financieros se clasifican como mantenidos para negociar si ellos son 
+adquiridos para venderlos o recomprarlos en el corto plazo. Los derivados se 
+clasifican como mantenidos para negociar a menos que se designen como 
+instrumentos de cobertura efectivos. Los activos financieros con flujos de efectivo 
+que no son solo pagos del principal e intereses son clasificados y medidos al valor 
+razonable con cambios en resultados, con independencia del modelo de negocio.  
+ 
+Los activos financieros al valor razonable con cambios en resultados se registran 
+en el estado de situación financiera al valor razonable, y los cambios netos en dicho 
+valor razonable se presentan como costos financieros (cambios negativos netos en 
+el valor razonable) o ingresos financieros (cambios positivos netos en el valor 
+razonable) en el estado de resultados y otros resultados integrales. 
+ 
+La Compañía no mantiene inversiones al valor razonable en esta categoría.  
+ 
+  
+
+=== PAGINA PDF 19 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+Baja en cuentas - 
+Un activo financiero (o, de corresponder, parte de un activo financiero o parte de 
+un grupo de activos financieros similares) se da de baja en cuentas, es decir, se 
+elimina del estado de situación financiera, cuando:  
+ 
+(i) Hayan expirado los derechos contractuales a recibir los flujos de efectivo 
+generados por el activo; o 
+(ii) La Compañía haya transferido sus derechos para recibir los flujos de 
+efectivo generados por el activo, o ha asumido una obligación de pagar a un 
+tercero la totalidad de esos flujos de efectivo sin una demora significativa, a 
+través de un acuerdo de transferencia (pass-through arrangement), y (a) la 
+Compañía haya transferido sustancialmente todos los riesgos y beneficios 
+inherentes a la propiedad del activo; o (b) la Compañía no ha transferido ni 
+retenido sustancialmente todos los riesgos y beneficios inherentes a la 
+propiedad del activo, pero ha transferido el control del activo. 
+ 
+Cuando la Compañía ha transferido sus derechos de recibir los flujos de efectivo 
+generados por el activo, o se ha celebrado un acuerdo de transferencia, la 
+Compañía evalúa si ha retenido, y en qué medida, los riesgos y beneficios de la 
+propiedad del activo. Cuando la Compañía no ha transferido ni retenido 
+sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo, 
+ni ha transferido el control del mismo, la Compañía continúan reconociendo 
+contablemente el activo transferido. En ese caso, la Compañía también reconoce el 
+pasivo relacionado. El activo transferido y el pasivo relacionado se miden de 
+manera tal que reflejen los derechos y obligaciones que la Compañía ha retenido. 
+ 
+Cuando la implicación continuada toma la forma de una garantía sobre los activos 
+transferidos, ésta se mide al menor valor entre el valor contable original de activo y 
+el importe máximo de la contraprestación que la Compañía tendría que pagar por la 
+garantía. 
+ 
+Deterioro del valor de los activos financieros –  
+La Compañía reconoce una provisión por deterioro con un modelo de pérdida de 
+crédito esperada (PCE) para todos los instrumentos de deuda no mantenidos al 
+valor razonable con cambios en resultados. La PCE se determina como la diferencia 
+entre los flujos de caja contractuales que vencen de acuerdo con el contrato y 
+todos los flujos de efectivo que la Compañía espera recibir, descontados a una tasa 
+que se aproxima a la tasa de interés efectiva original. Los flujos de efectivo 
+esperados incluirán flujos de efectivo producto de la venta de garantías mantenidas 
+u otras mejoras crediticias que sean parte integral de los términos contractuales. 
+ 
+  
+
+=== PAGINA PDF 20 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+8 
+La PCE es reconocida en dos etapas. Para las exposiciones de crédito por las cuales 
+no ha habido un aumento significativo en el riesgo de crédito desde el 
+reconocimiento inicial, la PCE se reconoce para pérdidas que resultan de eventos 
+de incumplimiento que son posibles dentro de los próximos 12 meses (“PCE de 12 
+meses”). Para las exposiciones de créditos por los cuales ha habido un incremento 
+significativo en el riesgo de crédito desde el reconocimiento inicial, se requiere una 
+pérdida por deterioro por pérdidas de crédito esperada durante la vida remanente 
+de la exposición, con independencia de la oportunidad del incumplimiento (“PCE 
+durante toda la vida”). 
+ 
+Para las cuentas por cobrar comerciales, la Compañía aplica un enfoque 
+simplificado al calcular la PCE. Por lo tanto, la Compañía no monitorea los cambios 
+en el riesgo de crédito, en vez de esto, reconoce una provisión por deterioro en 
+base a la “PCE durante toda la vida” en cada fecha de reporte. La Compañía ha 
+establecido una matriz de provisión que se basa en su experiencia de pérdida 
+histórica, ajustada por factores esperados específicos a los deudores y al entorno 
+económico. 
+ 
+La Compañía podría considerar que un activo financiero presenta incumplimiento 
+cuando información interna o externa indica que es improbable que la Compañía 
+reciba los importes contractuales adeudados antes que la Compañía ejecute las 
+garantías recibidas. Un activo financiero se da de baja cuando no hay una 
+expectativa razonable de recuperar los flujos de efectivo contractuales. 
+ 
+La Compañía aplica NIIF 9, y el modelo financiero con el cálculo de la pérdida 
+esperada es realizado por una entidad bajo control común, XM Compañía de 
+Expertos en Mercados S.A.E.S.P. 
+ 
+(ii) Pasivos financieros - 
+Los pasivos financieros se clasifican al momento de su reconocimiento inicial como 
+pasivos financieros al valor razonable con cambios en resultados, préstamos, 
+cuentas por pagar, o como derivados designados como instrumentos de cobertura 
+en una cobertura efectiva, según corresponda.  
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable y en 
+el caso de los préstamos y cuentas por pagar, netos de los costos de transacción 
+directamente atribuibles. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales, 
+cuentas por pagar a partes relacionadas, otras cuentas por pagar, obligaciones 
+financieras y provisiones. 
+ 
+  
+
+=== PAGINA PDF 21 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+9 
+Medición posterior – 
+La medición posterior de los pasivos financieros depende de su clasificación, según 
+se describe a continuación: 
+ 
+Pasivos financieros al valor razonable con cambios en resultados – 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen los 
+pasivos financieros mantenidos para negociar, los derivados y los pasivos 
+financieros designados al momento del reconocimiento inicial como al valor 
+razonable con cambios en resultados. 
+ 
+Los pasivos financieros se clasifican como mantenidos para negociar si se contraen 
+con el propósito de negociarlos en un futuro cercano; las ganancias o pérdidas 
+relacionadas con estos pasivos se reconocen en resultados. Esta categoría también 
+incluye los instrumentos financieros derivados tomados por la Compañía y que no 
+se designan como instrumentos de cobertura eficaces según lo define la NIIF 9. 
+ 
+Los pasivos financieros designados al momento de su reconocimiento inicial como 
+al valor razonable con cambios en resultados se designan como tales a la fecha de 
+su reconocimiento inicial únicamente si se cumplen los criterios definidos en la NIIF 
+9. 
+ 
+La Compañía no ha clasificado ningún pasivo financiero al valor razonable con 
+cambios en resultados al 31 de diciembre de 2023 y de 2022. 
+ 
+Deudas y préstamos que devengan interés – 
+Esta es la categoría más significativa para la Compañía. Después del 
+reconocimiento inicial, las deudas y préstamos se miden por su costo amortizado, 
+utilizando el método de la tasa de interés efectiva. Las ganancias y pérdidas se 
+reconocen en el estado de resultados integrales cuando los pasivos se dan de baja, 
+como así también a través del proceso de amortización aplicando el método de la 
+tasa de interés efectiva. 
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en 
+la adquisición y las comisiones o los costos que sean una parte integrante de la tasa 
+de interés efectiva. La amortización de la tasa de interés efectiva se reconoce 
+como costos financieros en el estado de resultados y otros resultados integrales. 
+ 
+En esta categoría se incluyen las cuentas por pagar comerciales, cuentas por pagar 
+a partes relacionadas, otras cuentas por pagar y las obligaciones financieras.  
+ 
+  
+
+=== PAGINA PDF 22 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+10 
+Baja en cuentas - 
+Un pasivo financiero se da de baja cuando la obligación ha sido pagada o cancelada, 
+o haya vencido. Cuando un pasivo financiero existente es reemplazado por otro 
+proveniente del mismo prestamista bajo condiciones sustancialmente diferentes, o 
+cuando las condiciones de un pasivo existente se modifican de manera sustancial, 
+tal permuta o modificación se trata como una baja del pasivo original y el 
+reconocimiento de un nuevo pasivo. La diferencia en los importes respectivos en 
+libros se reconoce en el estado de resultados y otros resultados integrales. 
+ 
+(iii) Compensación de instrumentos financieros - 
+Los activos financieros y los pasivos financieros son objeto de compensación de 
+manera que se informa el importe neto en el estado de situación financiera, si 
+existe un derecho actual legalmente exigible de compensar los importes 
+reconocidos, y si existe la intención de liquidarlos por el importe neto, o de realizar 
+los activos y cancelar los pasivos en forma simultánea. 
+ 
+Al 31 de diciembre de 2023 y de 2022, la Compañía no presenta activos o pasivos 
+financieros por un monto neto; ni presenta importes brutos sujetos a derechos de 
+compensación. 
+ 
+(iv) Instrumentos financieros derivados y contabilidad de cobertura – 
+La Compañía utiliza instrumentos financieros derivados para administrar su 
+exposición a la variación en los tipos de cambio. Estos instrumentos financieros 
+derivados se reconocen a sus valores razonables a la fecha de los estados 
+financieros. Los derivados se contabilizan como activos financieros cuando su valor 
+razonable es positivo y como pasivos financieros cuando su valor razonable es 
+negativo. 
+ 
+Para fines de la contabilidad de coberturas, las coberturas que aplican a la 
+Compañía se clasifican como: 
+ 
+- Coberturas de valor razonable, cuando cubren la exposición a los cambios 
+en el valor razonable de activos o pasivos reconocidos, o de compromisos en 
+firme no reconocidos; 
+- Coberturas de flujos de efectivo, cuando cubren la exposición a las 
+variaciones en los flujos de efectivo atribuidas ya sea a un riesgo particular 
+asociado con un activo o pasivo reconocido o a una transacción prevista 
+altamente probable, o al riesgo de tipo de cambio en un compromiso en 
+firme no reconocido;  
+ 
+Al inicio de una relación de cobertura, la Compañía designa y documenta 
+formalmente la relación de cobertura a la que desea aplicar la contabilidad de 
+coberturas, el objetivo de la gestión del riesgo y la estrategia para llevar a cabo la 
+cobertura. 
+ 
+
+=== PAGINA PDF 23 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+11 
+A partir del 1 de enero de 2018, la documentación incluye la identificación del 
+instrumento de cobertura, el bien cubierto, la naturaleza del riesgo que se cubre y 
+como la Compañía va a evaluar si la relación de cobertura cumple con los 
+requerimientos de efectividad (incluyendo análisis de las fuentes de inefectividad y 
+cómo se determina el ratio de cobertura). Una relación de cobertura se trata como 
+contabilidad de cobertura si cumple con los siguientes requerimientos de 
+efectividad: 
+ 
+- Existe una relación económica entre el bien cubierto y el instrumento de 
+cobertura. 
+- El efecto de riesgo de crédito no domina los cambios en el valor que resultan 
+de la relación económica. 
+- El ratio de cobertura de la relación de cobertura es el mismo que resulta de 
+la cantidad del bien cubierto que la Compañía realmente cubre, y la cantidad 
+del instrumento de cobertura que la Compañía realmente usa para cubrir la 
+cantidad del bien cubierto. 
+ 
+(v) Valor razonable de los instrumentos financieros - 
+El valor razonable es el precio que se recibiría por vender un activo o pagaría por 
+transferir un pasivo en una transacción ordenada entre participantes de un 
+mercado en la fecha de medición. Una medición a valor razonable supone que la 
+transacción de venta del activo o transferencia del pasivo tenga lugar: 
+ 
+- En el mercado principal para el activo o pasivo, o 
+- En ausencia de un mercado principal, en el mercado más ventajoso para el 
+activo o pasivo. 
+ 
+El mercado principal o más ventajoso debe ser accesible por la Compañía. 
+ 
+El valor razonable de un activo o un pasivo se mide utilizando los supuestos que los 
+participantes del mercado utilizarían para fijar el precio del activo o pasivo, 
+suponiendo que los participantes del mercado actúan en su mejor interés 
+económico. 
+ 
+Una medición a valor razonable de un activo no financiero tendrá en cuenta la 
+capacidad del participante del mercado para generar beneficios económicos 
+mediante la utilización del activo en su máximo y mejor uso, o mediante la venta de 
+este a otro participante del mercado que utilizaría el activo en su máximo y mejor 
+uso. 
+ 
+La Compañía utiliza la técnica de valoración que resultan más apropiadas en las 
+circunstancias y para las cuales existen datos suficientes para medir el valor 
+razonable, maximizando el uso de datos de entrada observables relevantes y 
+minimizando el uso de datos de entrada no observables. 
+ 
+
+=== PAGINA PDF 24 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+12 
+Todos los activos y pasivos por los cuales se mide o revela el valor razonable en los 
+estados financieros se categorizan dentro de la jerarquía de valor razonable, tal 
+como se describe a continuación, con base en la información de nivel más bajo que 
+es significativa para la medición del valor razonable en su conjunto:  
+ 
+- Nivel 1 - Precios cotizados (sin ajustar) en mercados activos, para activos o 
+pasivos idénticos. 
+- Nivel 2 - Técnicas de valuación por las cuales se puede observar directa o 
+indirectamente el nivel más bajo de información que es significativo para la 
+medición al valor razonable.  
+- Nivel 3 - Técnicas de valuación por las cuales no se puede observar de 
+manera directa o indirecta los niveles más bajos de información. 
+ 
+Para los activos y pasivos que son reconocidos en los estados financieros sobre una 
+base recurrente, la Compañía determina si se ha producido transferencias entre los 
+diferentes niveles dentro de la jerarquía mediante la revisión de la categorización 
+(basada en la variable de menor nivel que es significativa para el cálculo del valor 
+razonable en su conjunto) al final de cada período de reporte. 
+ 
+La Gerencia determina las políticas y procedimientos para mediciones al valor 
+razonable recurrentes y no recurrentes. 
+ 
+A cada fecha de reporte, la Gerencia analiza los cambios en los valores de los 
+activos y pasivos que deben medirse o determinarse de manera recurrente y no 
+recurrente según las políticas contables de la Compañía. Para este análisis, la 
+Gerencia contrasta las principales variables utilizadas en las últimas valoraciones 
+realizadas con información actualizada disponible de valoraciones incluidas en 
+contratos y otros documentos relevantes. 
+ 
+La Gerencia también compara los cambios en el valor razonable de cada activo y 
+pasivo con las fuentes externas pertinentes para determinar si el cambio es 
+razonable.  
+ 
+Para propósitos de revelación del valor razonable, la Compañía ha determinado 
+clases de activos y pasivos en base a la naturaleza, características y riesgos 
+inherentes de cada activo y pasivo, y el nivel de la jerarquía de valor razonable 
+según se explicó anteriormente. 
+  
+
+=== PAGINA PDF 25 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+13 
+(b)  Conversión de moneda extranjera (Nota 27(b) - 
+(i)  Moneda funcional y de presentación – 
+Las partidas incluidas en los estados financieros de la Compañía se expresan en 
+dólares estadounidenses que es la moneda funcional y de presentación de la 
+Compañía. 
+ 
+(ii) Transacciones y saldos en moneda extranjera – 
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una 
+moneda diferente a la moneda funcional. Las transacciones en moneda extranjera 
+son inicialmente registradas en la moneda funcional usando los tipos de cambio 
+vigentes en las fechas de las transacciones. Los activos y pasivos monetarios 
+denominados en moneda extranjera son posteriormente ajustados a la moneda 
+funcional usando el tipo de cambio vigente a la fecha del estado de situación 
+financiera. Las ganancias o pérdidas por diferencia de cambio resultante de la 
+liquidación de dichas transacciones y de la traslación de los activos y pasivos 
+monetarios en moneda extranjera a los tipos de cambio de fin de año, son 
+reconocidas en el estado de resultados y otros resultados integrales. Los activos y 
+pasivos no monetarios determinados en moneda extranjera son trasladados a la 
+moneda funcional al tipo de cambio prevaleciente a la fecha de la transacción 
+inicial. 
+ 
+(c)  Efectivo y equivalentes de efectivo (Nota 5) - 
+El rubro efectivo y equivalentes de efectivo presentado en el estado de situación 
+financiera de la Compañía incluye todos los saldos en efectivo, saldos en cuentas 
+bancarias y depósitos a corto plazo con un vencimiento original es de tres meses o menos. 
+Dichas cuentas no están sujetas a un riesgo significativo de cambios en su valor. 
+ 
+(d)  Suministros y repuestos (Nota 8) - 
+Los suministros y repuestos se registran al costo o el valor neto de realización, el menor. 
+El costo se determina usando el método promedio ponderado.  
+ 
+La estimación para pérdida de valor de los suministros y repuestos es calculada sobre la 
+base de un análisis especifico que realiza anualmente la Gerencia y es reconocida en 
+resultados en el ejercicio en el cual se determina la necesidad de esa estimación.  
+ 
+(e)  Instalaciones, muebles y equipo (Nota 9) - 
+Las instalaciones, muebles y equipo se presentan al costo, neto de la depreciación 
+acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere. El costo de un 
+elemento de instalaciones, mueble y equipo comprende su precio de compra o su costo de 
+fabricación, incluyendo aranceles e impuestos de compra no reembolsadles y cualquier 
+costo necesario para poner el activo en condiciones de operación como lo anticipa la 
+Gerencia. El precio de compra o el costo de construcción corresponden al total del importe 
+pagado y el valor razonable de cualquier otra contraprestación entregada por adquirir el 
+activo. Este costo incluye el costo de reemplazar componentes de instalaciones, muebles 
+y equipo y en el caso de activos calificados, el costo de financiamiento. El rubro de 
+
+=== PAGINA PDF 26 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+14 
+instalaciones, muebles y equipo también incluye el costo de los activos adquiridos bajo 
+contratos de arrendamiento financiero. Para los componentes significativos de 
+instalaciones, muebles y equipo que deben ser reemplazados periódicamente, la Compañía 
+da de baja el componente reemplazado y reconoce el componente nuevo con su 
+correspondiente vida útil y depreciación. Del mismo modo, cuando se efectúa una 
+inspección de gran envergadura, su costo se reconoce como un reemplazo en la medida 
+en que se cumplan los requisitos para su reconocimiento. Todos los demás costos 
+rutinarios de reparación y mantenimiento se reconocen como gasto en el estado de 
+resultados integrales a medida que se incurren. 
+ 
+La depreciación se calcula siguiendo el método de línea recta, utilizando las siguientes 
+vidas útiles estimadas: 
+ 
+ Años 
+  
+Proyectos propios  20 
+Mejoras en instalaciones arrendadas  10 
+Muebles y enseres  10 
+Equipos diversos  De 4 a 10 
+Unidades de transporte  5 
+ 
+El valor residual, la vida útil y los métodos de depreciación son revisados y ajustados en 
+caso sea apropiado, al final de cada año.  
+ 
+Una partida de instalaciones, muebles y equipo es retirada al momento de su disposición o 
+cuando no se esperan beneficios económicos de su uso. Cualquier ganancia o pérdida que 
+surja al momento del retiro de la instalación, muebles y equipo (calculada como la 
+diferencia entre los ingresos por la venta y el valor en libros del activo) es incluida en el 
+estado de resultados integrales en el año en que se retira el activo.  
+ 
+Al 31 de diciembre de 2023 y 2022, la Compañía no mantiene instalaciones, muebles y 
+equipo, por los cuales se tenga que capitalizar los intereses por préstamos.  
+ 
+(f)  Arrendamientos (Notas 7, 10 y 15) - 
+La Compañía evalúa al inicio del contrato si este es, o contiene, un arrendamiento. Es 
+decir, si el contrato transmite el derecho a controlar el uso de un activo identificado por 
+un período de tiempo a cambio de una contraprestación. 
+ 
+- Como arrendador - 
+Los arrendamientos financieros en donde la Compañía transfiere sustancialmente 
+todos los riesgos y los beneficios inherentes a la propiedad del bien arrendado, se 
+reconoce una cuenta por cobrar por arrendamiento financiero, ya sea por el valor 
+razonable del activo arrendando (desembolsos incurridos en la construcción del 
+activo) o por el valor presente de los cobros mínimos de arrendamiento, el que sea 
+menor.   
+
+=== PAGINA PDF 27 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+15 
+Posteriormente, en la fecha de inicio de uso del activo se reconoce la operación de 
+arrendamiento financiero bajo el método financiero, registrándose como cuenta 
+por cobrar el capital de las cuotas de arrendamiento pendientes de cobro. Los 
+cobros por arrendamientos financieros se distribuyen entre los ingresos financieros 
+y la reducción de la cuenta por cobrar por arrendamiento financiero de manera tal 
+de determinar una tasa de interés constante sobre el saldo remanente de la cuenta 
+por cobrar. Estos abonos financieros se reconocen como ingresos financieros en el 
+estado de resultados y otros resultados integrales. 
+ 
+Al 31 de diciembre de 2023 y de 2022, la Compañía mantiene contratos privados 
+de transmisión de energía eléctrica firmados con terceros (ver notas 2.2 y 7(b)), 
+los cuales son considerados contratos de arrendamiento financiero. Los 
+desembolsos incurridos por la Compañía para la construcción del activo 
+relacionado se reconocen como una cuenta por cobrar, en la medida que aún se 
+encuentren en construcción las líneas de transmisión, y como una cuenta por 
+cobrar equivalente al capital de cuotas de arrendamiento pendientes de cobro 
+cuando la construcción ha sido terminada. 
+ 
+- Como arrendatario -  
+A partir del 1 de enero de 2019, la Compañía aplica un solo método de 
+reconocimiento y medición para todos los contratos de arrendamiento, con la 
+exención de arrendamientos a corto plazo (menores a 12 meses) y arrendamientos 
+de activos de bajo valor. La Compañía reconoce como pasivos por arrendamiento 
+los pagos a realizar por el arrendamiento y como derecho de uso los activos 
+subyacentes. 
+ 
+La NIIF 16 introduce un modelo único de contabilidad del arrendatario y requiere 
+que el arrendatario reconozca activos y pasivos para todos los arrendamientos con 
+un plazo de más de doce meses, a menos que el activo subyacente sea de bajo 
+valor. 
+ 
+La Compañía no tiene montos significativos bajo este concepto. 
+ 
+  
+
+=== PAGINA PDF 28 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+16 
+(i) Los activos por derecho de uso  
+La Compañía reconoce los activos por derecho de uso a la fecha de inicio del 
+contrato de arrendamiento (es decir, la fecha en la que el activo subyacente 
+esté disponible para su uso). Los activos por derecho de uso se miden al 
+costo, menos la depreciación acumulada y las pérdidas por deterioro, y se 
+ajustan por cualquier actualización de los pasivos por arrendamiento. El 
+costo de los activos por derecho de uso incluye la cantidad de pasivos por 
+arrendamiento reconocidos, costos directos iniciales incurridos, y los pagos 
+de arrendamiento realizados o a partir de la fecha de comienzo menos los 
+incentivos de arrendamientos recibidos. Los activos por derecho de uso se 
+deprecian sobre una base de línea recta basado en el periodo más corto 
+entre el plazo del arrendamiento y la vida útil estimada de los activos, el que 
+sea menor. 
+ 
+Si la propiedad del activo arrendado se transfiere a la Compañía al final del 
+plazo del arrendamiento o el costo refleja el ejercicio de una opción de 
+compra, la depreciación se calcula utilizando la vida útil estimada del activo. 
+ 
+Los activos por derecho de uso están sujetos a pruebas de deterioro si se 
+presentan indicios de deterioro. 
+ 
+(ii) Los pasivos por arrendamiento 
+En la fecha de inicio del arrendamiento, la Compañía reconoce los pasivos 
+por arrendamiento medidos al valor presente de los pagos pendientes a esa 
+fecha. Los pagos de arrendamiento incluyen pagos fijos (incluyendo los 
+pagos en esencia fijos) menos cualquier incentivo de arrendamiento por 
+cobrar, pagos de arrendamiento variables que dependen de un índice o una 
+tasa, y montos que se espera pagar bajo garantías de valor residual. Los 
+pagos de arrendamiento también incluyen el precio de ejercicio de una 
+opción de compra que es razonablemente segura de ser ejercida por la 
+Compañía y las penalidades por rescindir el arrendamiento, si el plazo del 
+arrendamiento refleja que la Compañía ejercerá la opción de rescisión.  
+ 
+Los pagos de arrendamiento variables que no dependen de un índice o una 
+tasa se reconocen como gastos en el período en el que ocurre el evento o 
+condición que desencadena el pago; excepto que se destinen a la producción 
+de bienes de inventario, en cuyo caso se aplicará la NIC 2 Inventarios. 
+ 
+Al calcular el valor presente de los pagos de arrendamiento, la Compañía 
+utiliza la tasa de interés incremental que le aplica en la fecha de inicio del 
+arrendamiento, debido a que la tasa de interés implícita en el arrendamiento 
+no es fácilmente determinable. Después de la fecha de inicio, el monto de los 
+pasivos por arrendamiento se incrementa para reflejar la acumulación de 
+intereses y se reduce por los pagos de arrendamiento realizados. Además, el 
+importe en libros de los pasivos por arrendamiento se vuelve a medir si hay 
+
+=== PAGINA PDF 29 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+17 
+una modificación, un cambio en el plazo del arrendamiento, un cambio en 
+los pagos del arrendamiento (por ejemplo, cambios en los pagos futuros que 
+resulten de un cambio en un índice o tasa utilizada para determinar dichos 
+pagos de arrendamiento) o un cambio en la evaluación de una opción para 
+comprar el activo subyacente. 
+ 
+(g) Costos por préstamos (Notas 11, 15 y 23) – 
+Los costos por préstamos que sean directamente atribuibles a la adquisición o 
+construcción de un activo calificado se capitalizan como parte del costo de los activos 
+respectivos. Todos los demás costos por préstamos se contabilizan como gastos en el 
+período en que se incurren. Los costos por préstamos incluyen los intereses y otros costos 
+en los que incurre la entidad en relación con la celebración de los acuerdos de préstamos. 
+ 
+La capitalización de los costos de las obligaciones financieras comienza cuando las 
+actividades para preparar el bien están en curso y se están incurriendo en los gastos y 
+costos del préstamo. La capitalización de intereses se realiza hasta que los activos estén 
+listos para su uso previsto. Si el valor del activo que resulta excede su valor recuperable, 
+se registra una pérdida por desvalorización. 
+ 
+(h)  Activos intangibles (Nota 11) - 
+Contrato de Concesión con el Estado Peruano  
+La Compañía ha adoptado la CINIIF 12 - Contratos de Concesión, para registrar su 
+contrato de concesión con el Gobierno Peruano (ver nota 2). Para que un contrato de 
+concesión se encuentre dentro del alcance de la CINIIF 12, se deben cumplir los siguientes 
+dos criterios:  
+ 
+- La Concedente controla o regula que servicios debe proporcionar el operador con 
+la infraestructura, a quien debe suministrarlos y a qué precio; y  
+- La Concedente controla, a través de la propiedad, el derecho de usufructo o de 
+otra manera cualquier participación residual en la infraestructura al final del plazo 
+del acuerdo.  
+ 
+La Compañía utiliza el modelo de activos intangibles para registrar sus contratos de 
+concesión y los contratos de ampliaciones de acuerdo con la NIC 38.  
+ 
+El activo intangible representa el derecho otorgado por el Estado Peruano para efectuar 
+cargos a los usuarios del servicio de transmisión de energía eléctrica  
+ 
+Los reemplazos y mantenimientos significativos que la Compañía debe efectuar a la 
+infraestructura del sistema de transmisión eléctrica a fin de mantener las condiciones 
+requeridas por el Estado Peruano de acuerdo con el Contrato de concesión, y que no 
+generaran flujos económicos futuros para la Compañía, se contabilizan como parte de la 
+provisión de mantenimiento y remplazo significativos, ver nota 14.  
+  
+
+=== PAGINA PDF 30 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+18 
+El activo intangible originado por el Contrato de concesión se amortiza por el método de 
+línea recta durante el plazo de vigencia de dicho contrato. El gasto de amortización en 
+activos intangibles con vidas útiles finitas se reconoce en el estado de resultados  
+integrales en la categoría de gastos que resulte coherente con la función de dichos activos 
+intangibles.  
+ 
+Las estimaciones sobre la vida útil, valor residual, de ser el caso, y el método de 
+amortización se revisan periódicamente para asegurar que el método y el periodo de 
+amortización sean consistentes con el patrón de beneficio económico de las partidas de 
+bienes de la concesión.  
+ 
+Las estimaciones sobre la vida útil, valor residual, de ser el caso, y el método de 
+amortización se revisan periódicamente para asegurar que el método y el periodo de 
+amortización sean consistentes con el patrón de beneficio económico de las partidas de 
+bienes de la concesión. 
+ 
+Programas de cómputo - 
+Las licencias de los programas de cómputo adquiridas se capitalizan sobre la base de los 
+costos incurridos para adquirir o poner en use el programa de cómputo especifico. Estos 
+costos se amortizan en 5 años.  
+ 
+Los activos intangibles con vidas útiles finitas se evalúan para determinar si tuvieron 
+algún deterioro del valor siempre que exista un indicio de que el activo intangible pudiera 
+haber sufrido dicho deterioro.  
+ 
+Las ganancias o pérdidas que surjan de dar de baja un activo intangible se miden como la 
+diferencia entre el ingreso neto procedente de la venta y el importe en libros del activo, y 
+se reconocen en el estado de resultados integrales cuando se da de baja el activo.  
+ 
+Intangible por derecho de uso – 
+Los derechos de uso corresponden a contratos irrevocables para el uso de capacidad y 
+conectividad de la infraestructura tecnológica utilizada en la operación reconocidos de 
+acuerdo con la NIC 38; son medidos al costo y amortizados durante el plazo del contrato. 
+ 
+(i)  Desvalorización de activos de larga duración (Notas 9 y 10) - 
+Los contratos de concesión y ampliaciones contienen diferentes activos con diferentes 
+vidas útiles, sin embargo, este elemento no tiene impacto en el resultado anual ya que los 
+ingresos se determinan con base en el contrato de concesión. 
+ 
+Los ingresos percibidos por los contratos de concesión y ampliaciones se asignan bajo el 
+marco eléctrico siendo regulado por Osinergmin (entidad de Gobierno). 
+  
+
+=== PAGINA PDF 31 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+19 
+La Compañía evalúa a fin de cada año si existe algún indicio de que el valor de sus activos 
+se ha deteriorado. Si existe tal indicio, la Compañía hace un estimado del importe 
+recuperable del activo. El importe recuperable del activo es el mayor entre su valor 
+razonable de la Unidad Generada de Efectivo (UGE) menos los costos de venta y su valor 
+en uso, y es determinado para cada activo individual, a menos que el activo no genere 
+flujos de efectivo en una manera independiente. Cuando el valor en libros de un activo 
+excede su importe recuperable, se considera que el activo ha perdido valor y es reducido a 
+ese importe recuperable. Para determinar el valor en uso, los flujos futuros estimados son 
+descontados a su valor presente usando una tasa de descuento que refleja la evaluación 
+actual del mercado del valor del dinero en el tiempo y los riesgos específicos del activo.  
+ 
+Para la determinación del valor razonable menos el costo de venta, se toman en cuenta 
+operaciones recientes del mercado, si las hubiera. Si no pueden identificarse este tipo de 
+operaciones, se utiliza el modelo de valoración que resulte más apropiado. Estos cálculos 
+se verifican contra múltiples de valoración, cotizaciones de acciones y otros indicadores 
+disponibles de valor razonable. Las pérdidas por deterioro son reconocidas en el estado de 
+resultados y otros resultados integrales. 
+ 
+Dicha evaluación requiere el uso de estimados y supuestos tales como los volúmenes de 
+proyectos, inversiones licitadas, presupuestos operativos de capital, tasa de actualización, 
+tarifas establecidas y costos operativos.  
+ 
+Al 31 de diciembre de 2023 y de 2022, la Gerencia de la Compañía considera que no 
+existen indicios del tipo operativo y/o económico que indiquen que el valor neto registrado 
+de sus activos de larga duración no pueda ser recuperado. 
+ 
+(j)  Reconocimiento de ingresos y gastos (Notas 20, 21 y 23) - 
+La NIIF 15 requiere que una entidad proporcione información más descriptiva sobre sus 
+obligaciones de desempeño, también requiere que una entidad incluya una descripción de 
+todo lo siguiente: 
+Los términos de pago significativos (por ejemplo, cuando el pago suele ser debido, si el 
+contrato tiene un componente de financiamiento significativo, si el monto de la 
+contraprestación es variable y si la estimación de la contraprestación variable suele estar 
+restringida). 
+ 
+La naturaleza de los bienes o servicios que la entidad se ha comprometido a transferir, 
+destacando cualquier obligación de desempeño para hacer arreglos para que otra parte 
+transfiera bienes o servicios (es decir, si la entidad está actuando como agente). 
+ 
+Servicios de transmisión de energía – 
+Para los activos clasificados como activos intangibles, la Compañía ha identificado dos 
+obligaciones de desempeño, (construcción y operación), en este caso la contraprestación 
+que recibe la Compañía por la construcción y también por la operación es una licencia del 
+concedente, (Estado Peruano) la cual es el activo intangible durante el contrato de 
+concesión. 
+
+=== PAGINA PDF 32 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+20 
+Para efectos de la NIIF 15 de asignación de ingresos, la Compañía reconoce como ingreso 
+por la primera obligación de desempeño los servicios de construcción y venta de 
+transmisión de energía como una segunda obligación de desempeño. 
+ 
+Servicios de construcción y costos de servicios de construcción- 
+Durante la etapa de construcción la Compañía reconoce un intangible en curso en el 
+estado de situación financiera y los ingresos y costos por servicios de construcción en el 
+estado de resultados y otros resultados integrales. 
+ 
+A partir de la fecha de inicio del proyecto, cuando se lanza la operación comercial (POC), 
+la Compañía reconoce un intangible en el estado de situación financiera y los ingresos 
+operacionales y gastos de amortización en el estado de resultados y otros resultados 
+integrales. 
+ 
+Servicios de operación y mantenimiento – 
+Los ingresos por servicios de operación y mantenimiento a instalaciones de terceros se 
+reconocen a lo largo del tiempo a medida que se prestan los servicios. 
+   
+(k)  Provisiones (Nota 14) - 
+Las provisiones se reconocen cuando la Compañía tiene una obligación presente (legal o 
+implícita) como consecuencia de un hecho pasado, es probable que la entidad tenga que 
+desprenderse de recursos que involucre beneficios económicos para cancelar la 
+obligación, y cuando pueda hacerse una estimación confiable del monto de la obligación. 
+El gasto relacionado con cualquier provisión se presenta en el estado de resultados y otros 
+resultados integrales, neto de cualquier reembolso. Si el valor del dinero en el tiempo es 
+significativo, las provisiones son descontadas usando una tasa antes de impuestos que 
+refleje, cuando sea apropiado, los riesgos específicos del pasivo. Cuando se efectúa el 
+descuento, el aumento de la provisión por el paso del tiempo es reconocido como un costo 
+financiero. 
+ 
+Provisión para mantenimientos y reemplazos significativos – 
+Como parte de sus obligaciones bajo el Contrato de Concesión suscrito con el Estado 
+Peruano (nota 2), la Compañía asume responsabilidad por el mantenimiento y reemplazos 
+de la infraestructura que administra. Los costos de mantenimiento y reemplazos 
+significativos, necesarios para mantener la infraestructura en las condiciones requeridas 
+por el Estado Peruano, son estimados y registrados como un gasto y una provisión al 
+cierre de cada ejercicio anual, en función al período estimado de uso de los activos a los 
+cuales se les dará mantenimiento o serán reemplazados. 
+ 
+(l) Impuestos (Notas 16 y 18) - 
+Impuesto a las ganancias – 
+El activo o pasivo por impuesto a las ganancias es medido como el importe esperado que 
+sea recuperado de o pagado a las autoridades tributarias. El impuesto a las ganancias es 
+calculado sobre la base de la información financiera de la Compañía. 
+ 
+
+=== PAGINA PDF 33 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+21 
+La porción corriente del impuesto a las ganancias se calcula y contabiliza de conformidad 
+con el convenio de estabilidad jurídica del año 2002, cuya vigencia se extiende por todo el 
+plazo de la concesión otorgada. 
+ 
+Impuesto a las ganancias diferido – 
+Los impuestos a las ganancias para los períodos futuros son reconocidos usando el 
+método del pasivo sobre las diferencias temporales entre la base tributaria y contable a la 
+fecha del estado de situación financiera.  
+ 
+Los pasivos por impuesto a las ganancias diferido se reconocen para todas las diferencias 
+temporales imponibles. 
+ 
+Los activos por impuesto a las ganancias diferido se reconocen para todas las diferencias 
+temporales deducibles y por la compensación futura de créditos fiscales y pérdidas 
+tributarias arrastrables, en la medida en que sea probable la disponibilidad de la utilidad 
+tributaria futura contra las cuales imputar esos créditos fiscales o pérdidas tributarias 
+arrastrables. 
+ 
+El importe en libros de los activos por impuesto a las ganancias diferido se revisa en cada 
+fecha del estado de situación financiera y se reduce en la medida en que ya no sea 
+probable que exista suficiente ganancia impositiva para permitir que se utilice la totalidad 
+o una parte de dichos activos. Los activos por impuesto a las ganancias diferido no 
+reconocidos se reevalúan en cada fecha del estado de situación financiera y se reconocen 
+en la medida en que se torne probable que la utilidad tributaria futura permita recuperar 
+dichos activos. 
+ 
+Los activos y pasivos por impuesto a las ganancias diferido se miden a las tasas 
+impositivas que se espera sean de aplicación en el período en el que el activo se realice o 
+el pasivo se cancele, de conformidad con el convenio de estabilidad jurídica suscrito con el 
+Estado Peruano en 2002. 
+ 
+El impuesto a las ganancias diferido relacionado con las partidas reconocidas fuera del 
+resultado se reconoce fuera de éste. Las partidas de impuesto a las ganancias diferido se 
+reconocen en correlación con la transacción subyacente, ya sea en el otro resultado 
+integral o directamente en el patrimonio. 
+ 
+Los activos y pasivos por impuesto a las ganancias diferido se compensan si existe un 
+derecho legalmente exigible de compensar los activos impositivos corrientes contra los 
+pasivos impositivos corrientes, y si los impuestos a las ganancias diferidos se relacionan 
+con la misma entidad sujeta al impuesto y la misma autoridad tributaria. 
+ 
+  
+
+=== PAGINA PDF 34 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+22 
+Impuesto sobre las ventas – 
+Los ingresos de actividades ordinarias, los gastos y los activos se reconocen excluyendo el 
+importe de cualquier impuesto sobre las ventas (ej. Impuesto al valor agregado), salvo: 
+ 
+- Cuando el impuesto sobre las ventas incurrido en una adquisición de activos o en 
+una prestación de servicios no resulte recuperable de la autoridad fiscal, en cuyo 
+caso ese impuesto se reconoce como parte del costo de adquisición del activo o 
+como parte del gasto, según corresponda;  
+- Las cuentas por cobrar y por pagar que ya estén expresadas incluyendo el importe 
+de impuestos sobre las ventas. 
+ 
+El importe neto del impuesto sobre las ventas que se espera recuperar de, o que 
+corresponda pagar a la autoridad fiscal, se presenta como una cuenta por cobrar o una 
+cuenta por pagar en el estado de situación financiera, según corresponda. 
+ 
+(m)  Beneficios a los empleados (Notas 21 y 22) - 
+La Compañía tiene obligaciones de corto plazo por beneficios a sus empleados que 
+incluyen sueldos, aportaciones sociales, gratificaciones de ley, bonificaciones por 
+desempeño y participaciones en las utilidades. Estas obligaciones se registran 
+mensualmente con cargo al estado de resultados integrales, a medida que se devengan.  
+ 
+El valor presente del beneficio del quinquenio se basa en valoración actuarial. Esta 
+valoración incluye la formulación de varias hipótesis que podrían diferir de hechos reales 
+futuros como la determinación de la tasa de descuento, futuros incrementos salariales, 
+futuros incrementos de pensiones y tasas de mortalidad. Debido a la complejidad de la 
+valuación, su naturaleza de largo plazo y las hipótesis subyacentes, el cálculo de la 
+obligación por beneficios definidos es muy sensible a cambios en estas hipótesis. La 
+Compañía actualiza estas estimaciones anualmente, en cada fecha de cierre. La tasa de 
+mortalidad se basa en las tasas de mortalidad públicas del país. El aumento futuro de 
+salarios y pensiones se basa en las tasas de inflación esperadas. 
+ 
+(n) Clasificación de saldos en corrientes y no corrientes - 
+La Compañía presenta sus activos corrientes y no corrientes y sus pasivos corrientes y no 
+corrientes como categorías separadas en su estado de situación financiera. 
+ 
+Un activo se clasificará como corriente cuando: 
+ 
+- la entidad espera realizar el activo, o tiene la intención de venderlo o consumirlo, 
+en su ciclo normal de operación; 
+- mantiene el activo principalmente con fines comerciales; 
+- espera realizar el activo dentro de los doce meses posteriores al período sobre el 
+que se informa; o 
+- el activo es efectivo o equivalente al efectivo (como se define en la NIC 7) a menos 
+que el activo esté restringido para ser intercambiado o utilizado para liquidar un 
+pasivo durante al menos 12 meses después del período sobre el que se informa 
+
+=== PAGINA PDF 35 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+23 
+Un pasivo se clasificará como corriente cuando: 
+ 
+- la entidad espera liquidar el pasivo en su ciclo normal de operación. 
+- mantiene la responsabilidad principalmente con el fin de negociar; 
+- el pasivo debe liquidarse dentro de los doce meses posteriores al período sobre el 
+que se informa; o 
+- la entidad no tiene derechos incondicionales para diferir el pago del pasivo durante 
+al menos 12 meses después del período sobre el que se informa. 
+- las condiciones de un pasivo que pudieran dar lugar a su liquidación, a elección de 
+la otra parte, mediante la emisión de instrumentos de patrimonio, no afectan a su 
+clasificación. La Compañía clasificará todos los demás como pasivos no corrientes. 
+ 
+(o) Anticipos de clientes - 
+La Compañía presenta en su pasivo corriente anticipos de clientes que están relacionados 
+al convenio de cooperación interinstitucional suscrito en octubre del año 2021 con la 
+empresa Proyecto Especial de Infraestructura de Transporte Nacional (en adelante 
+“Provías Nacional”) para cumplir con la altura mínima de seguridad reglamentaria de las 
+líneas de transmisión L-1103, L-1104 y L-2233, que interfieren con la ejecución de la vía 
+de “Evitamiento Chimbote”, Proyecto Red Vial N°4: Tramo Pativilca - Santa - Trujillo y 
+Puerto Salaverry – Empalme PN1N. 
+ 
+Al 31 de diciembre de 2023 y 2022 la Compañía mantiene anticipos de clientes por 
+US$2,600,698 y US$3,188,925, respectivamente. 
+ 
+3.3 Juicios, estimaciones y supuestos contables significativos – 
+La preparación de los estados financieros requiere que la Gerencia utilice juicios, estimados y 
+supuestos para determinar las cifras reportadas de activos y pasivos, la exposición de activos y 
+pasivos contingentes a la fecha de los estados financieros, así como las cifras reportadas de 
+ingresos y gastos por los años terminados el 31 de diciembre de 2023 y 2022. 
+ 
+Los juicios, estimados y supuestos más significativos considerados por la Gerencia en relación 
+con los estados financieros se refieren básicamente a: 
+ 
+(a) Juicios significativos – 
+El juicio más significativo en relación con los estados financieros se describe a 
+continuación: 
+ 
+(i)  Reconocimiento de la concesión según el modelo de activo intangible (ver nota 11)- 
+De acuerdo con el análisis de la CINIIF 12 – Acuerdos de Concesión de Servicios, la 
+Compañía ha evaluado que el modelo de activos intangibles es el que aplica para 
+registrar la concesión de las líneas de trasmisión otorgado por el Estado Peruano. 
+De acuerdo al juicio utilizado por la Gerencia de la Compañía para preparar los 
+estados financieros, si bien la retribución es determinada anualmente por el Estado 
+Peruano durante el plazo de la concesión, el Contrato de Concesión no establece 
+ninguna obligación por parte del Estado Peruano de hacerse responsable por el 
+
+=== PAGINA PDF 36 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+24 
+pago de las obligaciones asignadas a cada usuario del servicio como resultado de la 
+prestación del mismo. Es decir, una vez asignada la retribución a los usuarios del 
+servicio, no hay ningún mecanismo establecido en el Contrato de Concesión que 
+garantice incondicionalmente la cobranza de los derechos generados por la 
+prestación del servicio de transmisión.  
+ 
+Asimismo, la Gerencia de la Compañía considera que los derechos de cobro a cada 
+usuario de las tarifas por los servicios de las líneas de trasmisión se generan en 
+forma anualy están garantizados por el Contrato de Concesión. Sin embargo, este 
+no garantiza su recaudo, el cual frente algún contingente deberá seguir los canales 
+normativos del sector eléctrico o civil para su reclamación. En caso de no prestarse 
+el servicio de acuerdo a las normas de calidad requeridas, está sujeto a la 
+fiscalización y sanción por parte de la entidad reguladora.  
+ 
+Por todo lo anterior, la Gerencia de la Compañía ha concluido que el Estado 
+Peruano no garantiza el pago de la retribución sino su asignación a cada uno de los 
+usuarios, en consecuencia, el modelo de intangibles es el que se debe utilizar de 
+acuerdo a la CINIIF 12 – Acuerdos de Concesión de Servicios. 
+ 
+(ii) Ingresos no facturados (nota 6) - 
+Todos los meses se reconoce una estimación de los ingresos del mes y la 
+facturación se realiza al mes siguiente. Este estimado se basa en una resolución del 
+COES que determina el monto a cobrar de cada empresa generadora de energía 
+eléctrica. 
+ 
+(iii) Puesta en Operación Comercial – POC (nota 11) – 
+Es el momento del tiempo en que el proyecto cumple con los requisitos solicitados 
+por el concedente (Estado Peruano) y puede ser conectado al sistema de 
+transmisión eléctrica. En este momento, la Compañía comienza a reconocer 
+ingresos de acuerdo con el contrato de concesión. Puesta en Operación Comercial 
+(POC) se define como la fecha en que el servicio entra en funcionamiento. 
+ 
+(iv) Contingencias - 
+Por su naturaleza, las contingencias solamente serán resueltas cuando uno o más 
+eventos futuros ocurran o dejen de ocurrir. La evaluación de la existencia e 
+importes potenciales de las contingencias del Grupo involucra inherentemente el 
+ejercicio de un juicio significativo por parte de la Gerencia y el uso de estimados 
+sobre los resultados de eventos futuros. 
+  
+
+=== PAGINA PDF 37 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+25 
+(b) Estimaciones y supuestos contables significativos – 
+Los estimados y supuestos más significativos en relación con los estados financieros se 
+describen a continuación:  
+ 
+(i) Desvalorización de activos de larga duración (ver nota 9 y 11) – 
+La Compañía evalúa a fin de cada año si existe algún indicio de que el valor de sus 
+activos se ha deteriorado. Si existe tal indicio o cuando se requieren pruebas 
+anuales de deterioro para un activo, la Compañía hace un estimado del importe 
+recuperable del activo.  
+ 
+A la fecha de los estados financieros, no se han identificado indicios de deterioro de 
+activos de larga duración. 
+ 
+(ii) Provisión para mantenimientos y reemplazos significativos (ver nota 14) – 
+La provisión para mantenimientos y reemplazos representa el valor presente de los 
+costos de mantenimientos y reemplazos significativos en que se espera incurrir en 
+la vida remanente de la concesión. La provisión para mantenimientos y reemplazos 
+corresponde principalmente a costos necesarios para mantener la infraestructura 
+de las líneas de transmisión en las condiciones de operatividad requeridas por el 
+Estado Peruano y establecidas en el contrato de concesión correspondiente. La 
+provisión es elaborada por la Gerencia de Operación y Mantenimiento, en base a la 
+evaluación de los factores de condición y antigüedad de las líneas de transmisión y 
+subestaciones. La evaluación incluye tanto un análisis cualitativo como 
+cuantitativo. 
+ 
+Los presupuestos son revisados anualmente para tomar en cuenta cualquier 
+cambio material en las proyecciones realizadas. Sin embargo, los costos de 
+mantenimientos y reemplazos significativos dependerán de los precios de mercado, 
+de las actividades de mantenimiento y los precios de los equipos requeridos que 
+reflejarán las condiciones económicas futuras. 
+ 
+El área de planificación financiera en base al presupuesto de gastos de capital 
+aprobado previamente por el Directorio, indexa a los flujos de salidas de efectivo la 
+inflación respectiva y actualiza los flujos del presupuesto aplicando una tasa anual 
+libre de riesgo considerando las condiciones actuales de mercado y el riesgo 
+específico del pasivo relacionado. 
+ 
+Los principales criterios y supuestos utilizados para el cálculo de la provisión de 
+mantenimientos y reemplazos significativos se describen en la nota 14(c). 
+  
+
+=== PAGINA PDF 38 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+26 
+(iii) Impuestos (ver nota 18) – 
+Existen incertidumbres con respecto a la interpretación de regulaciones tributarias 
+complejas, a los cambios en las normas tributarias y al monto y la oportunidad en 
+que se genera el resultado gravable futuro. Dada la naturaleza del contrato de 
+concesión a largo plazo y la complejidad de los acuerdos contractuales existentes, 
+las diferencias que surjan entre los resultados reales y las suposiciones efectuadas, 
+o por las modificaciones futuras de tales suposiciones, podrían requerir ajustes 
+futuros a los ingresos y gastos impositivos ya registrados. La Compañía calcula 
+provisiones, sobre la base de estimaciones razonables, para las posibles 
+consecuencias derivadas de las inspecciones realizadas por parte de la autoridad 
+tributaria. El importe de esas provisiones se basa en varios factores, tales como la 
+experiencia en inspecciones tributarias anteriores, y en las diferentes 
+interpretaciones acerca de las regulaciones tributarias realizadas por la Compañía 
+y sus asesores. Esas diferencias de interpretación pueden surgir en una gran 
+variedad de cuestiones, dependiendo de las circunstancias y condiciones existentes 
+en el lugar de domicilio de la Compañía. 
+ 
+Debido a que la Compañía considera remota la probabilidad de litigios de carácter 
+tributario y posteriores desembolsos como consecuencia de ello, no se ha 
+reconocido ningún pasivo contingente relacionado con impuestos. 
+ 
+(iv) Recuperación de los activos tributarios diferidos (ver nota 16) – 
+Se requiere el uso de juicio profesional para determinar si los activos tributarios 
+diferidos se deben reconocer en el estado de situación financiera. Los activos 
+tributarios diferidos exigen que la Gerencia evalúe la probabilidad de que la 
+Compañía genere utilidades gravables en períodos futuros para utilizar los activos 
+tributarios diferidos registrados. Los estimados de ingresos gravables futuros se 
+basan en las proyecciones de flujos de caja de operaciones y la aplicación de las 
+leyes tributarias existentes en cada jurisdicción. En la medida en que los flujos de 
+caja futuros y los ingresos gravables difieran significativamente de los estimados, 
+ello podría tener un impacto en la capacidad de la Compañía para realizar los 
+activos tributarios diferidos netos registrados en la fecha de reporte. 
+ 
+Adicionalmente, los cambios futuros en las leyes tributarias podrían limitar la 
+capacidad de la Compañía para obtener deducciones tributarias en períodos 
+futuros. Cualquier diferencia entre las estimaciones y los desembolsos reales 
+posteriores es registrada en el año en que ocurre. 
+ 
+En opinión de la Gerencia, las estimaciones incluidas en los estados financieros se 
+efectuaron sobre la base de su mejor conocimiento de los hechos relevantes y 
+circunstancias a la fecha de preparación de los mismos; sin embargo, los resultados finales 
+podrán diferir de las estimaciones incluidas en los estados financieros.  
+  
+
+=== PAGINA PDF 39 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+27 
+3.3 Asuntos relacionados con el clima -  
+La Compañía, cuando es apropiado, evalúa el impacto del cambio climático en el entorno 
+empresarial y operativo, viéndose reflejado en sus estados financieros. Esta evaluación incluye 
+un amplio rango de posibles impactos en la Compañía debido a riesgos físicos y de transición. A 
+pesar de ello, la Compañía considera que su modelo de negocio seguirá siendo viable luego de la 
+transición a una economía de emisiones de carbono neutral puesto que viene desarrollando 
+iniciativas relacionadas a mitigar estos riesgos, y que incluyen consideraciones como: 
+ 
+- Estudio de impacto ambiental (EIA): Seguimiento y cumplimiento de medidas preventivas 
+con el fin de mitigar los impactos en la calidad del aire y el agua, preservación del habitad 
+de la zona afectada, y planes de rehabilitación en caso aplique. 
+- Conservación de la biodiversidad: Cooperando con agencias ambientales públicas y 
+privadas y las comunidades locales para desarrollar programas de conservación de la 
+biodiversidad, asegurando practicas ambientalmente responsables y protección del 
+habitad.  
+- Gestión y conservación del agua: Implementando medidas para optimizar el uso del agua, 
+reducir su consumo, y mejorar el proceso de reciclaje de agua dentro de las 
+subestaciones.  
+ 
+Cabe mencionar que, a pesar de las medidas adoptadas, los riesgos relacionados con el clima 
+podrían tener impacto en la medición de ciertas estimaciones significativas que podrían tener 
+impacto en los estados financieros como: 
+ 
+- Vida útil de Instalaciones, muebles y equipo, neto (Notas 3.2(e)): Generado por cambios 
+en leyes y regulaciones que podrían generar cambios en el plazo estimado de uso de los 
+activos o requerir inversiones significativas de capital para su adecuación.  
+- Provisión por mantenimiento y reemplazos (Notas 3.2(k) y 10): la Compañía cumple con 
+las condiciones de calidad y eficiencia exigidas por el Estado Peruano, reconociendo de 
+manera apropiada en los estados financieros. 
+- Provisión para Norma Técnica de Calidad de Servicios Eléctricos (NTCSE) (Notas 3.2(k) y 
+10: la Compañía. 
+ 
+Al 31 de diciembre de 2023, la Compañía continúa evaluando el impacto de los riesgos 
+relacionados al clima para incorporar revelaciones relacionadas en respuesta a cambios y 
+desarrollos de leyes y regulaciones que puedan tener un impacto significativo directo en los 
+estados financieros. Es importante destacar que la Compañía se encuentra comprometida a 
+continuar mejorando su participación en la preservación del clima y medio ambiente para 
+garantizar su sostenibilidad. Los impactos futuros podrían incluir la adopción de tecnologías 
+avanzadas y mejoras en prácticas ambientalmente más sostenibles para mantenerse alineado a 
+las cambiantes normas ambientales y las expectativas de la comunidad.  
+ 
+  
+
+=== PAGINA PDF 40 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+28 
+3.4  Incertidumbre macroeconómica y geopolítica -  
+El panorama económico del Perú a corto y mediano plazo estará marcado por el rebote 
+estadístico post recesión, un entorno internacional desafiante y la capacidad de las autoridades 
+para mitigar el ruido político a ojos del sector empresarial. Se espera un contexto político 
+relativamente estable. 
+A nivel internacional, el riesgo geopolítico aumentó tras el conflicto entre Israel y Hamás, pero la 
+incertidumbre de política económica se ha mantenido relativamente baja. 
+ 
+La Gerencia de la Compañía continuará evaluando de manera cercana el impacto de la 
+incertidumbre macroeconómica y geopolítica, al 31 de diciembre de 2023 no tienen un impacto 
+en los estados financieros. 
+ 
+4.  Normas contables 
+(a) Nuevas normas contables, interpretaciones y modificaciones - 
+La Compañía aplicó por primera vez ciertas nomas y modificaciones, las cuales estuvieron 
+vigentes desde el 1 de enero de 2023. La Compañía no adoptó de manera anticipada cualquier 
+otra norma, interpretación o modificación que haya sido emitida pero que no estaba vigente.  
+  
+Las siguientes modificaciones estuvieron vigentes a partir del 1 de enero de 2023: 
+- Modificaciones a la NIC 8: Definición de estimaciones contables. 
+- Modificaciones a la NIC 1 y al documento de práctica de la NIIF N° 2: Información a 
+revelar sobre políticas contables. 
+- Modificaciones a la NIC 12: Impuesto Diferido relacionado con Activos y Pasivos que 
+surgen de una sola Transacción. 
+  
+Estas modificaciones no tuvieron impacto en los estados financieros de la Compañía.  
+ 
+La Compañía no ha adoptado de forma anticipada ninguna otra norma, interpretación o 
+modificación que haya sido emitida pero que aún no esté vigente.  
+ 
+(b)  Normas aún no vigentes - 
+Las normas e interpretaciones emitidas relevantes para la Compañía, pero aún no efectivas a la 
+fecha de emisión de los estados financieros, se detallan a continuación. La Compañía tiene la 
+intención de adoptar estas normas, en lo aplicable, cuando sean efectivas: 
+  
+- Modificaciones a la NIC 1: Clasificación de pasivos como corrientes o no corrientes  
+ En enero de 2020 y octubre de 2022, el IASB emitió modificaciones a los párrafos 69 al 
+76 de la NIC 1 “Presentación de estados financieros” para especificar los requerimientos 
+de clasificación de los pasivos como corrientes o no corrientes. Las enmiendas aclaran: 
+  
+- Que se entiende por derecho a aplazar la liquidación 
+- Que debe existir un derecho a diferir al final del período sobre el que se informa. 
+- Que la clasificación no se ve afectada por la probabilidad de que una entidad ejerza 
+su derecho de diferimiento. 
+
+=== PAGINA PDF 41 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+29 
+- Que solo si un derivado implícito en un pasivo convertible es en sí mismo un 
+instrumento de patrimonio, los términos de un pasivo no afectarían su clasificación. 
+ 
+ Además, se ha introducido un requisito para exigir la divulgación cuando un pasivo que 
+surge de un contrato de préstamo se clasifica como no corriente y el derecho de la entidad 
+a diferir la liquidación está supeditado al cumplimiento de obligaciones futuras dentro de 
+los doce meses. 
+ 
+ Las modificaciones son efectivas para los períodos anuales de presentación de informes 
+que comiencen a partir del 1 de enero de 2024 y deben aplicarse retroactivamente.  
+ 
+La Compañía considera que esta modificación no tendrá un impacto significativo en los 
+estados financieros. 
+  
+- Modificaciones a la NIIF 16: Pasivo por arrendamiento en una venta y arrendamiento 
+posterior 
+En septiembre de 2022, el IASB emitió una modificación de la NIIF 16 “Arrendamientos” 
+relacionada con el reconocimiento del pasivo por arrendamiento en una venta con 
+arrendamiento posterior. La modificación especifica los requisitos que un vendedor - 
+arrendatario debe utilizar para cuantificar el pasivo por arrendamiento que surge en la 
+venta y arrendamiento posterior con el objetivo de que el vendedor-arrendatario no 
+reconozca ninguna ganancia o pérdida relacionada con el derecho de uso que conserva. 
+ 
+Las modificaciones son efectivas para los períodos anuales de presentación de informes 
+que comienzan a partir del 1 de enero de 2024 y deben aplicarse retrospectivamente a las 
+transacciones de venta y arrendamiento posterior celebradas después de la fecha de 
+aplicación inicial de la NIIF 16. Se permite la aplicación anticipada y ese hecho debe 
+revelarse. 
+ 
+La Compañía considera que esta modificación no tendrá un impacto significativo en los 
+estados financieros. 
+ 
+- Modificaciones a la NIC 7 y la NIIF 7: Acuerdos de financiación de proveedores 
+En mayo de 2023, el IASB publicó modificaciones a la NIC 7 “Estado de flujos de Efectivo” 
+y a la NIIF 7 “Instrumentos Financieros: Información a Revelar”. Con las modificaciones las 
+IASB ha introducido nuevos requisitos de divulgación en las NIIF para mejorar la 
+transparencia y, por lo tanto, la utilidad de la información proporcionada por las entidades 
+sobre los acuerdos de financiación de proveedores. 
+ 
+La Compañía considera que esta modificación no tendrá un impacto significativo en los 
+estados financieros. 
+ 
+  
+
+=== PAGINA PDF 42 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+30 
+- Modificaciones a la NIC 1: Pasivos no circulantes con covenants - 
+En octubre de 2022, el IASB publicó modificaciones a la NIC 1 “Presentación de Estados 
+Financieros”. Las modificaciones aclaran cómo las condiciones que una entidad debe 
+cumplir después de la fecha de reporte y en los doce meses posteriores afectan la 
+clasificación de un pasivo. Los covenants que una entidad debe cumplir en la fecha de 
+reporte o antes afectarían la clasificación como circulante o no circulante, incluso si el 
+covenant solo se evalúa después de la fecha de reporte de la entidad. 
+ 
+Las modificaciones son efectivas para los períodos anuales de presentación de informes 
+que comienzan a partir del 1 de enero de 2024. Se permite la aplicación anticipada y ese 
+hecho debe revelarse. 
+ 
+La Compañía considera que esta modificación no tendrá un impacto significativo en los 
+estados financieros. 
+ 
+-  Modificaciones a la NIC 21: Ausencia de Convertibilidad - 
+En agosto de 2023, el IASB publicó modificaciones a la NIC 21 “Efecto de las Variaciones 
+en las Tasas de Cambio de la Moneda Extranjera”. Las modificaciones aclaran cómo 
+identificar cuando existe la ausencia de convertibilidad de una moneda a otra, definiendo 
+guías que pueda ayuda a su conclusión, así como los procedimientos a seguir en caso 
+exista esta ausencia de convertibilidad.  
+ 
+Las modificaciones son efectivas para los períodos anuales de presentación de informes 
+que comienzan a partir del 1 de enero de 2025. Se permite la aplicación anticipada y ese 
+hecho debe revelarse. 
+ 
+La Compañía considera que esta modificación no tendrá un impacto significativo en los 
+estados financieros. 
+ 
+-  Normas Internacionales de Información Financiera de Sostenibilidad y Divulgaciones 
+Climáticas 
+El 26 de junio de 2023, el Consejo de Normas Internacionales de Sostenibilidad publicó 
+oficialmente sus primeros estándares de NIIF de Sostenibilidad, marcando el comienzo de 
+una nueva era en la presentación de informes corporativos internacionales. 
+ 
+Tanto la NIIF S1 como la NIIF S2 entran en vigencia para los periodos anuales comiencen 
+en o a partir del 1 de enero del 2024. 
+ 
+Existe una opción de transición de “primero el clima”, la cual permite a una entidad 
+proporcionar únicamente información relacionada con el clima en su primer año de 
+aplicación de la NIIF S1 y NIIF S2. 
+ 
+  
+
+=== PAGINA PDF 43 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+31 
+Si bien estas nuevas normas son efectivas desde el 1 de enero de 2024 a nivel 
+internacional, a nivel de país, los organismos que regulan el mercado local peruano vienen 
+evaluando la aplicabilidad y vigencia de estas nuevas NIIF. No obstante, la Compañía viene 
+dedicando esfuerzos a la planificación para obtener información amplia y oportuna, con el 
+objetivo de presentar a los usuarios de los Estados Financieros la información necesaria 
+conforme a las normas establecidas. 
+ 
+5. Efectivo y equivalentes de efectivo  
+(a) A continuación se presenta la composición del rubro:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Fondos fijos y efectivo  39,547 39,000 
+Cuentas corrientes bancarias (b)  23,377,890 3,925,292 
+Depósitos a plazo (c) 46,096,170 37,392,147  ___________ ___________    
+ 69,513,607 41,356,439  ___________ ___________ 
+  
+Ver políticas contables relacionadas en Nota 3.2(c). 
+ 
+(b)  Al 31 de diciembre de 2023 y 2022, las cuentas corrientes bancarias, están denominadas en 
+soles y dólares estadounidenses, se encuentran depositados en bancos locales e internacionales 
+y son de libre disponibilidad.  
+ 
+(c)  Los depósitos a plazo tienen vencimientos originales menores a 90 días y pueden ser renovados 
+a su vencimiento. Al 31 de diciembre de 2023, los intereses son calculados con una tasa efectiva 
+anual entre 4.80% y 5.57% para los depósitos en dólares y con una tasa efectiva anual entre 
+6.45% y 6.90% para los depósitos en soles (al 31 de diciembre de 2022, los intereses son 
+calculados con una tasa efectiva anual entre 4.46% y 5.04% para los depósitos en dólares y con 
+una tasa efectiva anual entre 7% y 8.35% para los depósitos en soles).  
+ 
+6.  Cuentas por cobrar comerciales, neto  
+(a) A continuación se presenta la composición del rubro:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Facturas por cobrar (b) y (d)  1,849,419 2,494,941 
+Estimación de servicios de transmisión devengados (c) y 
+(d) 15,869,652 22,740,816  ___________ ___________ 
+ 17,719,071 25,235,757 
+Estimación de cobranza dudosa (e)  (665,947) (243,019)  ___________ ___________    
+ 17,053,124 24,992,738  ___________ ___________ 
+ 
+Ver políticas contables relacionadas en Nota 3.2(a). 
+
+=== PAGINA PDF 44 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+32 
+(b) Las cuentas por cobrar comerciales están denominadas principalmente en soles, tienen 
+vencimiento corriente y no generan intereses.  
+ 
+(c)  Corresponde principalmente a la venta por los servicios de transmisión realizados en el mes de 
+diciembre de cada año y que fueron facturados en enero del siguiente año.  
+ 
+(d)  El análisis de antigüedad de las cuentas por cobrar comerciales al 31 de diciembre de 2023 y 
+2022 es como sigue:  
+ 
+ 
+No 
+provisionado Provisionado Total 
+ US$ US$ US$ 
+    
+Al 31 de diciembre de 202 3    
+No vencido  15,869,652 - 15,869,652 
+Vencido:    
+Hasta 30 días 879,502 28,242 907,744 
+Entre 31 y 180 días 168,984 393,373 562,357 
+Entre 181 y 360 días 55,140 - 55,140 
+Mas de 360 días 79,846 244,332 324,178  ___________ ___________ ___________     
+Total 17,053,124 665,947 17,719,071  ___________ ___________ ___________ 
+ 
+ 
+No 
+provisionado Provisionado Total 
+ US$ US$ US$ 
+    
+Al 31 de diciembre de 2022     
+No vencido  22,740,816 - 22,740,816 
+Vencido:    
+Hasta 30 días 1,799,127 26,238 1,825,365 
+Entre 31 y 180 días 227,813 18,221 246,034 
+Entre 181 y 360 días 195,006 83,158 278,164 
+Mas de 360 días 29,976 115,402 145,378  ___________ ___________ ___________     
+Total 24,992,738 243,019 25,235,757  ___________ ___________ ___________ 
+ 
+  
+
+=== PAGINA PDF 45 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+33 
+ (e)  El movimiento de la estimación por deterioro de las cuentas por cobrar durante los años 2023 y 
+2022 fue como sigue:  
+   
+ 2023 2022 
+ US$ US$ 
+   
+Saldo inicial 243,019 277,466 
+Estimación para cuentas de cobro dudoso, nota 22 422,928 99,099 
+Recuperación de cuentas dudosas  - (100,014) 
+Castigos - (33,532)  ____________ ____________    
+Saldo final 665,947 243,019  ____________ ____________ 
+ 
+En opinión de la Gerencia de la Compañía, el saldo de la estimación por deterioro de cuentas por 
+cobrar cubre adecuadamente el riesgo de crédito de las cuentas por cobrar de dudosa 
+recuperabilidad al 31 de diciembre de 2023 y 2022.  
+ 
+7. Otras cuentas por cobrar  
+(a) A continuación se presenta la composición del rubro:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Cuentas por cobrar por contratos  privados de transmisión 
+(b) 
+4,226,142 4,398,507 
+Crédito de obras por impuestos - 960,539 
+Anticipos a proveedores (c) 457,747 574,551 
+Cuentas por cobrar al personal 321,472 282,147 
+Reclamos a terceros 153,542 371,282 
+Intereses por cobrar 78,849 95,265 
+Otras cuentas por cobrar 1,392585 320,343   ___________ ___________ 
+ 6,620,337 7,002,634  ___________ ___________ 
+   
+Porción corriente 2,593,802 2,792,222 
+Porción no corriente 4,026,535 4,210,412  ___________ ___________    
+Total 6,620,337 7,002,634  ___________ ___________ 
+ 
+ Ver políticas contables relacionadas en Notas 3.2(a) y 3.2(f). 
+ 
+  
+
+=== PAGINA PDF 46 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+34 
+(b) Contratos privados de transmisión - 
+Los contratos privados de transmisión de energía eléctrica firmados con terceros (ver nota 2.1) 
+son considerados contratos de arrendamiento financiero. De acuerdo con la política contable 
+descrita en la nota 3.2(f), los desembolsos incurridos por la Compañía para la construcción del 
+activo relacionado se reconocen como una cuenta por cobrar, en la medida que aún se 
+encuentren en construcción las líneas de transmisión, y como una cuenta por cobrar equivalente 
+al capital de cuotas de arrendamiento pendientes de cobro cuando la construcción ha sido 
+terminada. Durante el año 2023, las cuentas por cobrar por contratos privados de transmisión 
+han generado intereses por US$877,702 mostrados en el rubro "Ingresos financieros" del estado 
+de resultados integrales (US$824,225 durante el año 2022).  
+ 
+Estos contratos de arrendamientos contienen cláusulas de renovación, pero no establecen 
+opciones de compra o cláusulas de actualización. Las renovaciones son a opción del arrendatario. 
+ 
+Al 31 de diciembre de 2023 y 2022, la Gerencia de la Compañía considera que no es necesario 
+registrar una estimación para cuentas de cobranza dudosa relacionados a contratos privados de 
+transmisión ya que sus principales clientes cuentan con un reconocido prestigio en el mercado 
+nacional e internacional y no muestran problemas financieros ni presentan ningún indicio de 
+deterioro al cierre del periodo.  
+ 
+Los cobros mínimos por arrendamientos futuros por los contratos de arrendamientos financieros, 
+junto con el valor presente de los cobros mínimos netos por arrendamientos, son los siguientes:  
+ 
+ 2023 2022  ___________________________  ___________________________  
+ Costos 
+mínimos 
+Valor 
+presente 
+Costos 
+mínimos 
+Valor 
+presente 
+ US$ US$ US$ US$ 
+     
+A un año 1,005,991 204,636 942,978 190,297 
+A más de un año y hasta cinco 
+años 5,029,955 1,890,329 3,771,910 1,195,831 
+Más de cinco años  2,800,817 2,131,177 4,518,476 3,012,379  ___________ ___________ ___________ ___________ 
+Cobros mínimos por      
+Arrendamientos futuros  8,836,763 4,226,142 9,233,364 4,398,507 
+Menos - importes que 
+representan ingresos 
+financieros  (4,610,621) - 
+  
+(4,834,857) -  ___________ ___________ ___________ ___________      
+Valor presente de los cobros 
+mínimos por arrendamientos 
+financieros  4,226,142 4,226,142 4,398,507 4,398,507  ___________ ___________ ___________ ___________ 
+ 
+(c) Los anticipos corresponden a adelantos a diversos proveedores para la construcción de los 
+proyectos de transmisión y a la negociación de servidumbres de éstos. Al 31 de diciembre de 
+2023 se reclasificó al rubro de Intangibles en curso el importe de US$327,811. 
+  
+
+=== PAGINA PDF 47 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+35 
+ 8. Suministros y repuestos, neto  
+(a) A continuación se presenta la composición del rubro:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Suministros y repuestos (b)  13,580,835 12,623,637 
+Menos - Estimación para desvalorización de suministros y 
+repuestos (c)  (373,815) (31,503)  ___________ ___________    
+ 13,207,020 12,592,134  ___________ ___________ 
+ 
+Ver políticas contables relacionadas en Nota 3.2(d). 
+ 
+(b) El rubro está compuesto por suministros para equipos de alta tensión y para los sistemas de 
+control de las líneas de transmisión. 
+ 
+(c) El movimiento de la obsolescencia de suministros durante los años 2023 y 2022 fue como sigue: 
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Saldo inicial  31,503 355,596 
+Desvalorización de suministros  342,312 171,737 
+Venta de suministros  - (495,830)  ___________ ___________    
+Saldo final  373,815 31,503  ___________ ___________ 
+ 
+En opinión de la Gerencia de la Compañía, la provisión para desvalorización de existencias cubre 
+adecuadamente el riesgo de deterioro de los suministros al 31 de diciembre de 2023 y 2022.
+
+=== PAGINA PDF 48 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+36 
+9. Instalaciones, muebles y equipo, neto  
+(a) El movimiento del costo de este rubro y de su correspondiente depreciación acumulada por los años 2023 y 2022 es como sigue:  
+ 
+ 
+Edificio propios y 
+mejoras en 
+instalaciones 
+arrendadas 
+Unidades de 
+transporte 
+Muebles y 
+enseres 
+Equipos 
+diversos 
+Proyectos  
+propios 
+Activos  
+en transito Total 
+ US$ US$ US$ US$ US$ US$ US$ 
+        
+Costo        
+Saldos al 1 de enero de 2022 2,638,111 6,299,661 424,876 17,197,896 8,349,069 573,208 35,482,821 
+Adiciones (c) - 427,222 - 615,095 - 405,964 1,448,281 
+Transferencias (200,000) - - - 200,000 - - 
+Transferencias a intangibles (e)  - 14,281 - (20,575) - (420,930) (427,224) 
+Ventas y/o retiros (g) - (445,599) - (4,645) - - (450,244)   ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Saldos al 31 de diciembre de 2022 2,438,111 6,295,565 424,876 17,787,771 8,549,069 558,242 36,053,634   ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Adiciones (c) - 426,683 - 923,382 - 3,054,825 4,404,890 
+Transferencias a intangibles (e)  - - - 208,721 - (449,134) (240,413) 
+Ventas y/o retiros (g) - (30,155) - (4,636) - - (34,791)   ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Saldos al 31 de diciembre de 202 3 2,438,111 6,692,094 424,876 18,915,239 8,549,069 3,163,932 40,183,321   ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+         
+Depreciación acumulada         
+Saldos al 1 de enero de 2022 2,220,159 5,365,892 417,445 13,976,148 4,595,468 - 26,575,112 
+Adiciones (b) 110,675 478,413 2,633 645,302 427,454 - 1,664,477 
+Transferencias - - - (25,227) - - (25,227) 
+Ventas y/o retiros - (445,599)  - (465) - - (446,064)   ___________ ___________ ___________ ___________ ___________ ___________ ___________         
+Saldos al 31 de diciembre de 202 2 2,330,834 5,398,706 420,078 14,595,758 5,022,922 - 27,768,298  ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Adiciones (b) 2,645 483,186 1,620 668,731 427,453 - 1,583,635 
+Ventas y/o retiros - (30,155) - (1,314) - - (31,469)   ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Saldos al 31 de diciembre de 202 3 2,333,479 5,851,738 421,697 15,263,175 5,450,376 - 29,320,465   ___________ ___________ ___________ ___________ ___________ ___________ ___________         
+Valor neto        
+Al 31 de diciembre de 2022 107,277  896,859 4,798 3,192,014 3,526,147 558,241 8,285,336  __________ __________ __________ __________ __________ __________ __________ 
+Al 31 de diciembre de 2023 104,632 840,356 3,179 3,652,064 3,098,693 3,163,932 10,862,856  __________ __________ __________ __________ __________ __________ __________ 
+ 
+Ver políticas contables relacionadas en Notas 3.2(e), 3.2(f) y 3.2(i). 
+ 
+ 
+
+=== PAGINA PDF 49 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+37 
+(b)  El gasto de depreciación se muestra en el estado de resultados integrales como sigue:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Costo de servicios, nota 21 1,469,653 1,019,343 
+Gastos de administración, nota 22  113,982 645,133  ___________ ___________    
+ 1,583,635 1,664,476  ___________ ___________ 
+ 
+(c) Durante el 2023, las adiciones corresponden principalmente a compras de servicios para el 
+proyecto de monitoreo avanzado, de instalación de transformadores de reserva, y de 
+Ciberseguridad, así como, el nuevo arrendamiento vehicular, equipos de medición, drones, 
+detectores de tensión, cámaras, entre otros por US$923,382. Durante el 2022, las adiciones 
+corresponden principalmente a compras de computadoras, compras de bienes para el proyecto 
+de ciberseguridad, nuevo arrendamiento vehicular, equipos de medición, analizadores de 
+interruptores por US$615,095. 
+ 
+(d)  Al 31 de diciembre de 2023 y de 2022, las instalaciones, muebles y equipo, neto no se 
+encuentran otorgados en garantías a terceros.  
+ 
+(e) Al 31 de diciembre de 2023 y de 2022, las transferencias a intangibles corresponden 
+principalmente a RPAs (Automatizaciones Robóticas de Procesos) implementados para líneas de 
+transmisión, generación de maniobras operativas, entre otros. 
+ 
+(f)  La Compañía mantiene seguros sobre sus principales activos, de conformidad con las políticas 
+establecidas por la Gerencia y en su opinión, los seguros contratados al 31 de diciembre de 2023 
+y de 2022 cubren razonablemente el riesgo de pérdida por siniestro de los activos a dichas fecha.  
+ 
+(g) Al 31 de diciembre de 2023, los retiros por US$34,792 corresponden principalmente a la venta 
+de vehículos y baja de un dron. Al 31 de diciembre de 2022, los retiros por US$450,244 
+corresponden principalmente a la venta de vehículos y baja de un equipo detector de gases. 
+ 
+(h)  Al 31 de diciembre de 2023 y de 2022, la Gerencia de la Compañía efectuó una evaluación sobre 
+la existencia de indicios de deterioro de sus instalaciones, muebles y equipo, y concluyó que no 
+existen indicios de deterioro.  
+ 
+10. Activos por derecho de uso, neto  
+(a) La Compañía tiene un contrato de arrendamiento por las instalaciones de las oficinas de la sede 
+central. El plazo del arrendamiento en mención abarca hasta el final de la concesión. Las 
+obligaciones de la Compañía en virtud de sus arrendamientos están garantizadas por el título del 
+arrendador sobre los activos arrendados. En general, la Compañía tiene restricciones para 
+asignar y subarrendar los activos arrendados y algunos contratos requieren que la Compañía 
+mantenga ciertos índices financieros.  
+
+=== PAGINA PDF 50 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+38 
+La Compañía suscribió un contrato de arrendamiento con Hewlett-Packard Perú S.R. desde abril 
+2016; en virtud de este contrato, se firman órdenes de entrega por grupos de equipos necesarios 
+para soportar el crecimiento de la nómina actual; en cada entrega se firman certificados de 
+recepción de los bienes. En junio de 2023 se firmó el acta de recepción de nuevos equipos por 
+US$609,785, cuyo plazo es de 3 años. 
+ 
+Durante el año 2023, las adiciones corresponden principalmente a la indexación de las cuotas del 
+contrato de Alquiler de oficinas con Alpina Inversiones Inmobiliarias por US$497,582 y la 
+actualización del contrato con Hewlett-Packard Perú S.R. por US$564,017. 
+ 
+(b) La Compañía también tiene ciertos arrendamientos de vehículos, maquinarias y equipos diversos 
+con plazos de arrendamiento de 12 meses o menos y arrendamientos de equipos de oficina de 
+bajo valor. La Compañía aplica las exenciones de reconocimiento de "arrendamiento a corto 
+plazo" y "arrendamiento de activos de bajo valor" para estos arrendamientos. 
+ 
+(c) La conciliación del activo por derecho de uso y pasivos por arrendamiento al 31 de diciembre de 
+2023 y 2022, es la siguiente:  
+ 
+ Activo por derecho 
+de uso 
+Pasivo por 
+arrendamiento 
+ US$ US$ 
+   
+Saldo al 1 de enero de 202 3 3,101,380 3,894,829 
+Adiciones / Retiros (a) 1,061,601 1,147,767 
+Depreciación del ejercicio, nota 21 (531,622) - 
+Gastos financieros - 239,145 
+Pagos - (610,985)  ___________ ___________ 
+Saldo al 31 de diciembre de 202 3 3,631,359 4,670,756  ___________ ___________ 
+   
+Porción corriente  495,076 
+Porción no corriente  4,175,680   ___________    
+Saldo final   4,670,756   ___________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 51 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+39 
+ Activo por derecho 
+de uso 
+Pasivo por 
+arrendamiento 
+ US$ US$ 
+   
+Saldo al 1 de enero de 2022  3,624,482 4,369,539 
+Adiciones / Retiros - (89,999) 
+Depreciación del ejercicio, nota 21 (523,102) - 
+Gastos financieros - 220,746 
+Pagos - (605,457)  ___________ ___________ 
+Saldo al 31 de diciembre de 2022  3,101,380 3,894,829  ___________ ___________ 
+   
+Porción corriente  286,159 
+Porción no corriente  3,608,670   ___________    
+Saldo final   3,894,829   ___________ 
+ 
+Ver políticas contables relacionadas en Notas 3.2(f) y 3.2(i). 
+
+=== PAGINA PDF 52 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+40 
+11.  Activos intangibles, neto  
+(a) A continuación se presenta la composición y movimiento del rubro:  
+ 
+ 2023  ______________________________________________________________________________________________________________ 
+ 
+Concesiones del 
+sistema de 
+transmisión 
+eléctrica (e) 
+Adicionales a la 
+concesión (c) Software Derecho en uso (h) 
+Proyectos  
+en curso (d) Total 
+ US$ US$ US$ US$ US$ US$ 
+       
+Costo       
+Saldos al 1 de enero  286,657,295 458,770,675 6,141,885 3,365,047 196,002 755,130,904 
+Adiciones - - 112,332 5,891,048 4,013,666 10,017,046 
+Transferencias de otros activos (f)  - - 240,413 - - 240,413   _____________ _____________ _____________ _____________ _____________ _____________ 
+Saldos al 31 de diciembre  286,657,295 458,770,675 6,494,630 9,256,095 4,209,668 765,388,363   _____________ _____________ _____________ _____________ _____________ _____________ 
+       
+Amortización acumulada        
+Saldos al 1 de enero  194,288,818 183,301,658 4,145,779 17,007 - 381,753,262 
+Adiciones (b) 9,555,243 17,799,669 360,501 624,229 - 28,339,642   _____________ _____________ _____________ _____________ _____________ _____________        
+Saldos al 31 de diciembre  203,844,061 201,101,327 4,506,280 641,236 - 410,092,904  _____________ _____________ _____________ _____________ _____________ _____________ 
+       
+Valor neto 82,813,234 257,669,348 1,988,350 8,614,859 4,209,668 355,295,459  ___________ ___________ ___________ ___________ ___________ ___________ 
+ 
+ 2022  ______________________________________________________________________________________________________________ 
+ 
+Concesiones del 
+sistema de 
+transmisión 
+eléctrica (e) 
+Adicionales a la 
+concesión (c) Software Derecho en uso (h) 
+Proyectos  
+en curso (d) Total 
+ US$ US$ US$ US$ US$ US$ 
+       
+Costo       
+Saldos al 1 de enero  286,657,295 458,770,675  5,624,276 - 196,002 751,248,248 
+Adiciones - - 90,385 3,365,047 - 3,455,432 
+Transferencias de otros activos (f)  - - 427,224 - - 427,224   _____________ _____________ _____________ _____________ _____________ _____________ 
+Saldos al 31 de diciembre  286,657,295 458,770,675 6,141,885 3,365,047 196,002 755,130,904   _____________ _____________ _____________ _____________ _____________ _____________ 
+       
+Amortización acumulada        
+Saldos al 1 de enero  184,733,574 165,501,989 3,780,363 - - 354,015,926 
+Adiciones (b) 9,555,244 17,799,669 340,189 17,007 - 27,712,109 
+Transferencias - - 25,227 - - 25,227   _____________ _____________ _____________ _____________ _____________ _____________        
+Saldos al 31 de diciembre  194,288,818 183,301,658 4,145,779 17,007 - 381,753,262  _____________ _____________ _____________ _____________ _____________ _____________ 
+       
+Valor neto 92,368,477  275,469,017 1,996,106 3,348,040 196,002 373,377,642  ___________ ___________ ___________ ___________ ___________ ___________ 
+
+=== PAGINA PDF 53 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+41 
+Ver políticas contables relacionadas en Notas 3.2(g), 3.2(h) y 3.2(i). 
+ 
+(b) El gasto anual de amortización se muestra en el estado de resultados integrales como sigue:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Costo de servicios, nota 21 28,080,903 27,476,285 
+Gastos de administración, nota 22  258,739 235,824  ___________ ___________    
+ 28,339,642 27,712,109  ___________ ___________ 
+ 
+(c)  El rubro "Adicionales a la concesión" corresponden a los costos incurridos para cumplir con los 
+compromisos de inversión acordados con el Estado Peruano (nota 2.1), cuyo saldo se detalla a 
+continuación:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Ampliación N°1 33,968,262 33,968,262 
+Ampliación N°2 34,703,622 34,703,622 
+Ampliación N°3 16,272,245 16,272,245 
+Ampliación N°4 4,751,515 4,751,515 
+Ampliación N°5 40,788,769 40,788,769 
+Ampliación N°6 21,080,960 21,080,960 
+Ampliación N°7 21,080,960 22,315,075 
+Ampliación N°8 2,851,671 2,851,671 
+Ampliación N°9 32,629,122 32,629,122 
+Ampliación N°10 4,276,257 4,276,257 
+Ampliación N°11 10,134,732 10,134,732 
+Ampliación N°12 8,330,620 8,330,620 
+Ampliación N°13 (Hito A y C) 11,808,102 11,808,102 
+Ampliación N°13 (Hito B)  7,831,754 7,831,754 
+Ampliación N°14 24,044,879 24,044,879 
+Ampliación N°15 56,870,098 56,870,098 
+Ampliación N°16 16,334,676 16,334,676 
+Ampliación N°17 28,319,817 28,319,817 
+Ampliación N°18 28,319,817 13,587,549 
+Ampliación N°19 (Hito 1) 1,224,252 1,224,252 
+Ampliación N°19 (Hito 2) 5,997,314 5,997,314 
+Ampliación N°20 25,706,518 25,706,518 
+Otras ampliaciones 34,942,866 34,942,866  ____________ _____________    
+ 458,770,675 458,770,675  ____________ _____________ 
+ 
+  
+
+=== PAGINA PDF 54 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+42 
+(d)  Al 31 de diciembre de 2023 y 2022, los proyectos en curso comprenden las siguientes 
+ampliaciones:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Ampliación N°21 4,159,623 120,193 
+Otras ampliaciones 50,045 75,809  ___________ ___________    
+ 4,209,668 196,002  ___________ ___________ 
+ 
+(e)  El rubro "Concesiones del sistema de transmisión eléctrica" corresponde al pago efectuado al 
+Estado Peruano por la adjudicación de la buena-pro de los sistemas de transmisión eléctrica 
+operados por ETECEN y ETESUR (nota 2.1).  
+ 
+(f)  Durante el 2023, las trasferencias a otros activos corresponden principalmente a software y 
+licencias, debido a que los proyectos en curso incluyeron elaboración de RPAs y Softwares 
+(principalmente Traserep, Acceso remoto a Redes operativas) implementados para la gestión 
+líneas de transmisión, generación de maniobras operativas, entre otros, por US$240,412. 
+Durante el año 2022, las transferencias a otros activos corresponden principalmente a software 
+y licencias, debido a que los proyectos en curso incluyeron elaboración de RPAs para líneas de 
+transmisión, generación de maniobras operativas, entre otros US$450,224. 
+ 
+(g)  La Compañía mantiene seguros sobre sus líneas de transmisión de acuerdo con las políticas 
+establecidas por la Gerencia de la Compañía. En opinión de la Gerencia de la Compañía, sus 
+políticas de seguros son consistentes con la practica internacional en la industria y el riesgo de 
+eventuales pérdidas por siniestros considerados en la póliza de seguros es razonable 
+considerando las concesiones de líneas de transmisión que posee. 
+ 
+(h) El 8 de abril del 2022 la Compañía e Internexa Perú S.A. firmaron un contrato de fibra oscura, 
+por el cual se otorga a la Compañía el derecho irrevocable de uso sobre Hilos de Fibras Oscuras 
+(2,079 km aproximadamente) en forma ininterrumpida y continua. Al 31 de diciembre 2023 y 
+2022 Internexa Perú S.A. entregó a la Compañía 2,825 km y 1,027 km de hilos de fibra oscura, 
+por US$9,256,095 y US$3,365,047, respectivamente. 
+ 
+(i) Al 31 de diciembre de 2023 y de 2022, la Gerencia de la Compañía efectuó una evaluación sobre 
+la existencia de indicios de deterioro de sus activos intangibles, y concluyó que no existen 
+indicios de deterioro. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 55 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+43 
+12. Cuentas por pagar comerciales  
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Proveedores 8,635,093 5,971,688 
+Provisiones de facturas por pagar  1,582,577 1,312,883  ___________ ___________    
+ 10,217,670 7,284,571  ___________ ___________ 
+ 
+ Ver políticas contables relacionadas en Nota 3.2(a)(ii) 
+ 
+(b)  Las cuentas por pagar comerciales se originan principalmente por la adquisición de bienes y 
+servicios destinados al desarrollo de las operaciones de la Compañía, estos pasivos están 
+denominados en soles y en dólares estadounidenses, no devengan intereses y normalmente se 
+cancelan en 30 días. No se ha otorgado garantías especificas por estas obligaciones.  
+ 
+13. Otras cuentas por pagar  
+(a) A continuación se presenta la composición del rubro:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Participación de los trabajadores (b)  4,219,951 3,811,891 
+Remuneraciones por pagar  3,625,307 2,780,797 
+Otras cuentas por pagar 192,439 190,567  ___________ ___________ 
+ 8,037,697 6,783,255  ___________ ___________ 
+   
+Porción corriente 7,000,257 5,906,394 
+Porción no corriente (c) 1,037,440 876,861  ___________ ___________    
+Total 8,037,697 6,783,255  ___________ ___________ 
+ 
+ Ver políticas contables relacionadas en Notas 3.2(a)(ii) y 3.2(m) 
+ 
+(b)  Participación de los trabajadores en las utilidades – 
+Conforme a la legislación peruana, la Compañía mantiene un plan de participación de los 
+trabajadores en las utilidades de 5% de la utilidad tributaria. 
+  
+
+=== PAGINA PDF 56 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+44 
+(c)  El quinquenio es un beneficio que consiste en el pago quinquenal de una suma fija cuando el 
+empleado cumple cinco años de servicio en la compañía y, posteriormente, cada cinco años de 
+trabajar en ella.Para efectos de los cálculos se emplean las tablas de mortalidad de “La tabla del 
+Sistema Privado de Pensionistas del año 2017" validado por la Superintendencia de Banca, 
+Seguros y Administradora de Fondos de Pensiones (en adelante “SBS”). Al 31 de diciembre de 
+2023, la Compañía registró un pasivo neto por quinquenio de US$1,037,440 (US$876,861 al 31 
+de diciembre de 2022). 
+ 
+14. Provisiones  
+(a) A continuación se presenta la composición del rubro:  
+ 
+ 
+Provisión para 
+norma técnica 
+de servicios 
+(b) 
+Provisión para 
+mantenimient
+os y 
+reemplazos 
+(c) 
+Provisión por 
+litigios (d) Total 
+ US$ US$ US$ US$ 
+     
+Al 1 de enero de 2023 757,297 33,829,532 - 34,586,829 
+Desembolsos (685,110) (11,944,769) - (12,629,879) 
+Gastos para mantenimientos y 
+reemplazos 
+ 
+354,457 
+ 
+7,089,437 
+ 
+- 
+ 
+7,443,894 
+Actualización del valor presente, 
+nota 23 
+ 
+- 
+ 
+429,307 
+ 
+- 
+ 
+429,307 
+Gastos por procesos judiciales  - - 575,325 575,325  ___________ ___________ ___________ ___________ 
+Al 31 de diciembre de 2023 426,644 29,403,507 575,325 30,405,476  ___________ ___________ ___________ ___________ 
+Porción corriente 426,644 11,739,884 - 12,166,528 
+Porción no corriente - 17,663,623 575,325 18,238,948  ___________ ___________ ___________ ___________      
+Total 426,644 29,403,507 575,325 30,405,476  ___________ ___________ ___________ ___________ 
+ 
+ 
+Provisión para 
+norma técnica 
+de servicios (b) 
+Provisión para 
+mantenimientos 
+y reemplazos 
+(c) Total 
+ US$ US$ US$ 
+    
+Al 1 de enero de 2022 614,086 37,492,472 38,106,558 
+Desembolsos (10,414) (12,164,669) (12,175,083) 
+Gastos para mantenimientos y reemplazos  153,625 7,946,283 8,099,908 
+Actualización del valor presente, nota 23  - 555,446 555,446  ___________ ___________ ___________ 
+Al 31 de diciembre de 2022  757,297 33,829,532 34,586,829  ___________ ___________ ___________ 
+Porción corriente 757,297 12,099,777 12,857,074 
+Porción no corriente - 21,729,755 21,729,755  ___________ ___________ ___________     
+Total 757,297 33,829,532 34,586,829  ___________ ___________ ___________     
+
+=== PAGINA PDF 57 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+45 
+Ver políticas contables relacionadas en Nota 3.2(k) 
+ 
+(b)  Provisión para Norma Técnica de Calidad de los Servicios Eléctricos (NTCSE) - 
+Conforme el Decreto Supremo N° 020-1997-EM Norma Técnica de Calidad de los Servicios 
+Eléctricos, la Compañía registra las compensaciones económicas que tendría que pagarse a los 
+usuarios del servicio de transmisión por problemas técnicos en las líneas de trasmisión. Esta 
+compensación económica por interrupción de suministro de energía se calcula sobre la base del 
+número de interrupciones y a la duración total de las interrupciones, y es cancelado a los 
+generadores que hayan sido afectados.  
+ 
+(c)  Provisión para mantenimientos y reemplazos - 
+La provisión para mantenimientos y reemplazos representa el valor presente de los costos de 
+mantenimientos y reemplazos significativos en que se espera incurrir entre los años 2024 y 
+2032 en relación con los sistemas de transmisión eléctrica que antes fueron operados por 
+ETECEN y ETESUR. La provisión para mantenimientos y reemplazos corresponde principalmente 
+a costos necesarios para mantener la infraestructura de las líneas de transmisión en las 
+condiciones de operatividad requeridas por el Estado Peruano en el contrato de concesión, y ha 
+sido estimada por la Gerencia de Operación y Mantenimiento sobre la base de la evaluación de los 
+factores de condición y antigüedad de las líneas de transmisión.  
+ 
+Los presupuestos de mantenimientos y reemplazos utilizados para calcular la provisión se 
+basaron en los niveles de mantenimiento presupuestados y en la información actual disponible 
+sobre las concesiones operativas a la fecha, sobre la base de un periodo equivalente a los años 
+remanentes al Contrato de concesión. Los presupuestos son revisados regularmente para tomar 
+en cuenta cualquier cambio material en las proyecciones realizadas. Sin embargo, los costos de 
+mantenimientos y reemplazos significativos dependerán de los precios de mercado, de las 
+actividades de mantenimiento y los precios de los equipos requeridos que reflejarán las 
+condiciones económicas futuras. Asimismo, el momento en que se realizarán los desembolsos 
+depende de la vida útil de las unidades que serán sujetas al mantenimiento o aquellas a ser 
+reemplazadas.  
+ 
+Los principales supuestos utilizados para calcular la provisión para mantenimientos y reemplazos 
+al 31 de diciembre de 2023 y 2022 fueron los siguientes:  
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Presupuesto operativo (valor nominal en US$)  39,954,732 50,062,064 
+Tasa libre de riesgo  5.473%- 4.909% 4.994%- 6.052% 
+Probabilidad promedio de ejecución de presupuesto  85% 84% 
+Tasa de inflación proyectada de Estados Unidos de América  3% 3.8% 
+ 
+Al 31 de diciembre de 2023 y 2022, la Gerencia de la Compañía considera que la provisión para 
+mantenimientos y reemplazos significativos es suficiente para cumplir con las condiciones de 
+calidad y eficiencia exigidas por el Estado Peruano. 
+  
+
+=== PAGINA PDF 58 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+46 
+(d)  La Compañía al 31 de diciembre de 2023 reconoció un gasto en el estado de resultados 
+integrales producto de la calificación del riesgo de pérdida y posterior salida de dinero 
+correspondiente a dos procesos judiciales laborales y civiles por el importe de US$75,325 y 
+US$500,000, respectivamente.  
+ 
+15. Obligaciones financieras  
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2023 2022 
+ US$ US$ 
+   
+Bonos corporativos    
+Bonos corporativos (b) 77,828,703 98,016,188 
+   
+Arrendamiento financiero    
+Scotiabank Perú S.A.A. 644,731 615,847 
+   
+Préstamos bancarios   
+Scotiabank Perú S.A.A. (c) 69,943,296 109,886,192 
+Export Development Canada (d) 105,444,821 39,258,491 
+   
+Pasivo por arrendamiento   
+Edificaciones, nota 10(c) 4,670,757 3,894,829 
+   
+Intereses por pagar   
+Bonos 944,389 1,125,852 
+Préstamos 2,549,607 1,487,713 
+Arrendamientos 5,824 624  _____________ _____________    
+Total obligaciones financieras  262,032,128 254,285,736  _____________ _____________ 
+   
+Porción corriente 38,550,285 62,344,128 
+Porción no corriente (g) 223,481,843 191,941,608  _____________ _____________    
+ 262,032,128 254,285,736   _____________ _____________ 
+ 
+Ver políticas contables relacionadas en Notas 3.2(a)(ii), 3.2(f) y 3.2(g) 
+ 
+ 
+
+=== PAGINA PDF 59 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+47 
+(b)  Bonos corporativos  
+A continuación se presenta la composición de la deuda por bonos corporativos: 
+ 
+ 
+Monto  
+autorizado Moneda 
+Fecha de 
+colocación 
+Tasa de interés 
+anual Forma de pago 
+Vencimiento  
+capital 2023 2022 
+ US$      US$ US$ 
+         
+Segundo programa         
+Vigésima Emisión Serie A (*) 38,000,000 US$ Enero 2011 6.5 Trimestral Enero 2026 38,000,000 38,000,000 
+         
+Tercer programa          
+Cuarta Emisión (*) 40,000,000 US$ Octubre 2012 5.875 Semestral Abril 2031 40,000,000 40,000,000 
+Primera Emisión Serie B 77,305,000 PEN Febrero 2013 5.125 Semestral Febrero 2023 - 20,236,911        ___________ _____________          
+       78,000,000 98,236,911        __________ ____________ 
+ 
+(*) El pago del capital de estos bonos se efectuará en un único pago en los años 2026 y 2031, respectivamente.  
+ 
+Garantías y obligaciones  
+Con fecha 13 de noviembre de 2013, se celebró la Asamblea General de Obligacionistas del Segundo Programa de Bonos Corporativos de Red de Energía del Perú S.A., en virtud de la cual los titulares de los Bonos en 
+circulación de todas las emisiones vigentes efectuadas en el marco del Segundo Programa aprobaron por mayoría modificar el Contrato Marco del Segundo Programa de Bonos Corporativos, a efectos de eliminar y dejar sin 
+efecto (i) el numeral 6.11 de la Cláusula Sexta del Contrato Marco (obligaciones financieras), (¡i) el literal k) del numeral 8.1 de la Cláusula Octave del Contrato Marco, y (iii) cualquier otra referencia al numeral 6.11 de la 
+Cláusula Sexta del Contrato Marco. El objetivo de la modificación es homologar los resguardos financieros del Contrato Marco de Emisión del Segundo Programa, con el Tercer Programa de Bonos Corporativos, debido a que 
+este último programa de bonos no se estableció el cumplimiento de ratios financieros u otros tipos de ratios.  
+ 
+Con fecha 17 de mayo de 2018, se celebró la Asamblea General de Obligacionistas del Segundo y Tercer Programa de Bonos Corporativos de Red de Energía del Perú S.A, en virtud de la cual los titulares de los Bonos en 
+circulación de todas las emisiones vigentes efectuadas en el marco del Segundo y Tercer Programa aprobaron por mayoría lo siguiente:  
+ 
+- Modificación del Contrato Marco del Segundo Programa con el objeto de eliminar, levantar y cancelar las garantías especificas otorgadas en respaldo del cumplimiento de las obligaciones bajo los Bonos emitidos con 
+cargo al Segundo Programa de Bonos Corporativos de Red de Energía del Perú (en adelante, el "Segundo Programa"), así como cualquier referencia a ellas.  
+ 
+- Otorgamiento de facultades al Representante General de Obligacionistas para suscribir todos los documentos públicos y/o privados que se requieran para formalizar los acuerdos adoptados por la Asamblea General 
+de Obligacionistas del Segundo Programa.  
+ 
+- Modificación del Contrato Marco del Tercer Programa con el objeto de eliminar, levantar y cancelar las garantías especificas otorgadas en respaldo del cumplimiento de las obligaciones bajo los Bonos emitidos con 
+cargo al Tercer Programa de Bonos Corporativos de Red de Energía del Perú (en adelante, el "Tercer Programa"), así como cualquier referencia a ellas.  
+ 
+- Otorgamiento de facultades al Representante General de Obligacionistas para suscribir todos los documentos públicos y/o privados que se requieran para formalizar los acuerdos adoptados por la Asamblea General 
+de Obligacionistas del Tercer Programa.  
+ 
+ 
+
+=== PAGINA PDF 60 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+48 
+(c)  Scotiabank Perú S.A.  
+El 20 de setiembre de 2019, la Compañía suscribió un pagaré con Scotiabank Perú, en el que se 
+otorgaba un crédito por US$70,000,000 amortizable a partir del quinto año. El plazo del 
+préstamo es de 6 años contados desde la fecha cierre. Dicho préstamo devenga intereses 
+anuales a una tasa efectiva anual de 3.10 por ciento. La Compañía no está obligada a mantener 
+ratios financieros como parte de los compromisos contractuales. 
+ 
+(d)  Export Development Canada 
+El 29 de noviembre de 2022, la Compañía suscribió un préstamo de mediano plazo con Export 
+Development Canada (en adelante EDC) en el que se otorga un crédito hasta por 
+US$105,997,687 a ser utilizados para refinanciar deuda. El plazo del préstamo es 8 años 
+contados desde la fecha cierre y se amortiza a partir del quinto año. Dicho préstamo devenga 
+intereses semestrales a una tasa nominal anual compensatoria SOFR Term 6-Month más 2 por 
+ciento. La Compañía no está obligada a mantener ratios financieros como parte de los 
+compromisos contractuales. El 6 de diciembre de 2022 EDC realizó el primer desembolso de este 
+préstamo por US$39,998,464, el segundo desembolso el 06 de febrero de 2023 por 
+US$29,999,224 y el último el 15 de marzo de 2023 por US$36,000,000. 
+ 
+(e)  Cronograma de pagos - 
+Al 31 de diciembre de 2023 y de 2022, el calendario de amortización de la porción no corriente 
+de las obligaciones financieras es como sigue: 
+ 
+ 2023 2022 
+ US$ US$    
+2024  - 35,682,530  
+2025 35,476,907 78,629,052 
+2026 38,177,057 38,177,057 
+2027 en adelante  150,437,449 40,306,749  
+Menos: Comisión de estructuración  (609,570) (853,780)  _____________ _____________    
+ 223,481,843 191,941,608  _____________ _____________ 
+.

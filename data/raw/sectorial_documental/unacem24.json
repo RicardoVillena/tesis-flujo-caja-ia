@@ -1,0 +1,11 @@
+{
+  "id": "unacem24",
+  "url": "https://www.smv.gob.pe/ConsultasP8/temp/EEFF%20Separados%20auditados%20Unacem%20Corp%202024.pdf",
+  "url_final": "https://www.smv.gob.pe/ConsultasP8/temp/EEFF%20Separados%20auditados%20Unacem%20Corp%202024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "c3bc08ada84f3abdbae2126fd865ec3c49898fdb72ba65dcaca0d9e4e69be34f",
+  "sha256_texto": "887bfd6336cf05354a6fd70c7efa217bbb258c065022a32264a9771dd058674a",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

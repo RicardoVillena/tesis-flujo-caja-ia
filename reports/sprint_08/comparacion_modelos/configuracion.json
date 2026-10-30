@@ -1,0 +1,212 @@
+{
+  "caracter": "EXPLORATORIA: años externos 2017–2021 ya examinados en la ablación y su revisión; la elección del ganador no es una estimación independiente.",
+  "ajuste_de_alcance": "reports/sprint_08/instrucciones_claude.md (Etapa 1) excluía entrenar modelos nuevos; este encargo autoriza una comparación acotada como continuación del Sprint 08.",
+  "datos": "Solo filas elegibles de entrenamiento (anio_objetivo <= 2021); 26 atributos de E2 sin selección; soles y dólares por separado.",
+  "validacion": {
+    "anios_externos": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "entrenamiento_externo": "anio_objetivo < año externo, misma moneda",
+    "interna": "3 últimos años antes del externo, ventana expansiva, >= 8 años de historia (mismo código que la revisión)",
+    "criterio": "promedio simple del RMSE de los años internos",
+    "aleatoria": false
+  },
+  "referencias": {
+    "media_historica": "media de objetivo_fcl_t1 en el entrenamiento externo",
+    "persistencia": "FCL(t) válido (src/ablacion_variables.fcl_t); respaldo: media del entrenamiento externo"
+  },
+  "ridge": {
+    "pipeline": "src/ablacion_variables.crear_modelo (mediana keep_empty_features + StandardScaler + Ridge svd)",
+    "rejilla_alpha": [
+      0.1,
+      1.0,
+      10.0,
+      100.0,
+      1000.0,
+      10000.0,
+      100000.0,
+      1000000.0
+    ],
+    "configuraciones": 8
+  },
+  "elastic_net": {
+    "pipeline": "TransformedTargetRegressor(Pipeline(ColumnTransformer(mediana keep_empty_features + StandardScaler), ElasticNet), transformer=StandardScaler()): el objetivo se estandariza con la media y desviación del entrenamiento; predicciones en unidades originales",
+    "alpha": [
+      0.001,
+      0.01,
+      0.1,
+      1.0
+    ],
+    "l1_ratio": [
+      0.1,
+      0.5,
+      0.9
+    ],
+    "max_iter": 10000,
+    "tol": 0.0001,
+    "configuraciones": 12
+  },
+  "boosting": {
+    "algoritmo": "HistGradientBoostingRegressor",
+    "max_depth": [
+      2,
+      3
+    ],
+    "max_iter": [
+      100,
+      300
+    ],
+    "l2_regularization": [
+      0.0,
+      10.0
+    ],
+    "fijos": {
+      "loss": "squared_error",
+      "learning_rate": 0.05,
+      "min_samples_leaf": 20,
+      "early_stopping": false,
+      "random_state": 0
+    },
+    "faltantes": "tratamiento nativo de NaN (sin imputación ni eliminación de filas); sin escalado (árboles)",
+    "configuraciones": 8
+  },
+  "maximo_configuraciones": {
+    "ridge": 8,
+    "elastic_net": 12,
+    "boosting": 8
+  },
+  "desempate": "diferencia relativa <= 1e-09 en el RMSE interno medio: configuración más simple (Ridge/Elastic Net: mayor alpha, luego mayor l1_ratio; boosting: menor profundidad, menos iteraciones, mayor l2)",
+  "fallos": "una configuración con excepción, predicción no finita o ConvergenceWarning en cualquier pliegue interno queda excluida de la selección de ese año externo; si el ajuste externo de la configuración elegida emite ConvergenceWarning se registra y se marca; si ninguna configuración es válida, el modelo no se evalúa en ese año",
+  "regla_recomendacion": "un modelo se recomienda frente a un comparador si su RMSE anual medio es <= -1 %, su RMSE es menor en >= 4 de 5 años y su MAE anual medio no es mayor. Un modelo nuevo (Elastic Net o boosting) se recomienda solo si cumple frente a media histórica, persistencia y Ridge. Decisión: el modelo vigente (Ridge) solo se sustituye por un procedimiento que cumpla la regla frente a todos los demás (superioridad consistente); el menor RMSE observado se reporta por separado y no implica superioridad consistente. (Aclaración de etiquetas tras la auditoría; la regla y los umbrales no cambian.)",
+  "no_es": "significancia estadística ni estimación independiente del rendimiento futuro",
+  "versiones": {
+    "python": "3.12.15",
+    "scikit-learn": "1.9.1",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6"
+  },
+  "configuraciones": {
+    "ridge": [
+      {
+        "alpha": 1000000.0
+      },
+      {
+        "alpha": 100000.0
+      },
+      {
+        "alpha": 10000.0
+      },
+      {
+        "alpha": 1000.0
+      },
+      {
+        "alpha": 100.0
+      },
+      {
+        "alpha": 10.0
+      },
+      {
+        "alpha": 1.0
+      },
+      {
+        "alpha": 0.1
+      }
+    ],
+    "elastic_net": [
+      {
+        "alpha": 1.0,
+        "l1_ratio": 0.9
+      },
+      {
+        "alpha": 1.0,
+        "l1_ratio": 0.5
+      },
+      {
+        "alpha": 1.0,
+        "l1_ratio": 0.1
+      },
+      {
+        "alpha": 0.1,
+        "l1_ratio": 0.9
+      },
+      {
+        "alpha": 0.1,
+        "l1_ratio": 0.5
+      },
+      {
+        "alpha": 0.1,
+        "l1_ratio": 0.1
+      },
+      {
+        "alpha": 0.01,
+        "l1_ratio": 0.9
+      },
+      {
+        "alpha": 0.01,
+        "l1_ratio": 0.5
+      },
+      {
+        "alpha": 0.01,
+        "l1_ratio": 0.1
+      },
+      {
+        "alpha": 0.001,
+        "l1_ratio": 0.9
+      },
+      {
+        "alpha": 0.001,
+        "l1_ratio": 0.5
+      },
+      {
+        "alpha": 0.001,
+        "l1_ratio": 0.1
+      }
+    ],
+    "boosting": [
+      {
+        "max_depth": 2,
+        "max_iter": 100,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 100,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 300,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 300,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 100,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 100,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 300,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 300,
+        "l2_regularization": 0.0
+      }
+    ]
+  }
+}

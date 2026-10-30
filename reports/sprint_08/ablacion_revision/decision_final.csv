@@ -1,0 +1,3 @@
+moneda,regla_reducido_vs_completo,decision,delta_RMSE_reducido_pct,anios_mejora_reducido,anios_empeora_reducido,selecciones_alpha_en_maximo,delta_RMSE_modelo_vs_media_pct,delta_RMSE_modelo_vs_persistencia_pct,modelo_vs_media,modelo_vs_persistencia,modelo_aporta_mejora_consistente_frente_a_referencias,lista_final_propuesta
+D lares,Conservar modelo completo,Conservar los 26 atributos,-2.73224417411466,1,3,0,-14.1363117416438,29.0620116828012,mejora consistente,sin mejora,False,crecimiento_pbi_real_pct
+Soles,Conservar modelo completo,Conservar los 26 atributos,0,0,0,6,-1.44901750723134,-29.8099938538149,mejora consistente,mejora consistente,True,

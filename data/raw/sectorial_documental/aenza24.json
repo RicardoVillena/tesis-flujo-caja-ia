@@ -1,0 +1,11 @@
+{
+  "id": "aenza24",
+  "url": "https://api.aenza.com.pe/storage/hechosimportantes/pdf/4q-2024-eeff-separado-aenza.pdf",
+  "url_final": "https://api.aenza.com.pe/storage/hechosimportantes/pdf/4q-2024-eeff-separado-aenza.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "c6f73ed7610c9bfb3eae15cffefb1c36e4a58e4631362d9852fe9444a91050f6",
+  "sha256_texto": "c9c4f193334d7b8dbbc73840f899c8395574742e02e2d4783552757d47f84756",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 29
+}

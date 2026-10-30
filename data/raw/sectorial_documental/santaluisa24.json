@@ -1,0 +1,11 @@
+{
+  "id": "santaluisa24",
+  "url": "https://www.smv.gob.pe/ConsultasP8/temp/INFORME%20AUDITADO%202024.pdf",
+  "url_final": "https://www.smv.gob.pe/ConsultasP8/temp/INFORME%20AUDITADO%202024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "cd09f447e5612a5182d4dff29414ecdb448b01ee5770b3a9769bba564d5350ee",
+  "sha256_texto": "33035a4167a0aa8c3b42568dca46641c9592c01b02a07203bf321c2548fc0d52",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

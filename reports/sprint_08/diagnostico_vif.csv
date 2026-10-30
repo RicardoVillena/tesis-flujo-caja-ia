@@ -1,0 +1,145 @@
+moneda,especificacion,variable,VIF,n,n_anios,imputados_pct,constante,rango,columnas,numero_condicion
+D lares,imputada_mediana_E2,pasivo_activo,1.34102506586947,353,16,0,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,margen_neto,2.31855488331986,353,16,7.64872521246459,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,rentabilidad_activo_cierre,2.75275621833172,353,16,0,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,rotacion_activo_cierre,1.38114763321986,353,16,7.64872521246459,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,fco_activo,1.75063621334386,353,16,2.8328611898017,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,fco_ingresos,1.62421807946426,353,16,10.1983002832861,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,inversion_capex_activo,1.87701223925025,353,16,0,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,crecimiento_ActivoTotal,1.29567321426529,353,16,14.7308781869688,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,crecimiento_TotalIngreso,1.14823602422708,353,16,19.8300283286119,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,cambio_FCO_activo_previo,23.4458045075031,353,16,20.1133144475921,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,FCO_lag1,6.5881242709179,353,16,19.2634560906516,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,FCO_lag2,9.57476667956415,353,16,31.728045325779,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,FCO_lag3,13.1173987737272,353,16,43.6260623229462,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,FCO_std3_previa,9.38351038955025,353,16,47.8753541076487,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,cambio_FCL_preliminar_activo_previo,24.6108978411841,353,16,20.1133144475921,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,FCL_preliminar_lag1,4.69499539883302,353,16,19.2634560906516,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,FCL_preliminar_lag2,7.36765665973097,353,16,31.728045325779,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,FCL_preliminar_lag3,12.5561468558675,353,16,43.6260623229462,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,FCL_preliminar_std3_previa,12.4083266455225,353,16,47.8753541076487,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,inflacion_lima_dic_dic_pct,6.42052233602779,353,16,0,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,tipo_cambio_promedio_soles_usd,1.86964967707874,353,16,0,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,tasa_referencia_promedio_pct,3.51200808938212,353,16,0,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,crecimiento_pbi_real_pct,3.95201236633712,353,16,0,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,rentabilidad_indice_anual_pct,4.27484460556475,353,16,0,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,volatilidad_diaria_anualizada_pct,2.59807902401725,353,16,0,False,26,26,14.0084070275882
+D lares,imputada_mediana_E2,monto_renta_variable_anual_millones_pen,1.40585757800553,353,16,0,False,26,26,14.0084070275882
+D lares,casos_completos,pasivo_activo,1.46110456788155,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,margen_neto,3.03673619410217,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,rentabilidad_activo_cierre,3.99731671747927,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,rotacion_activo_cierre,1.49113528098795,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,fco_activo,2.90259703451054,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,fco_ingresos,2.33062412558752,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,inversion_capex_activo,2.28293111524274,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,crecimiento_ActivoTotal,1.40442626066125,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,crecimiento_TotalIngreso,1.35382354684084,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,cambio_FCO_activo_previo,12.8993540941843,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,FCO_lag1,14.0138474601655,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,FCO_lag2,14.9650308570634,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,FCO_lag3,20.3949903110775,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,FCO_std3_previa,10.7851560182922,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,cambio_FCL_preliminar_activo_previo,13.9720354052073,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,FCL_preliminar_lag1,6.50518996591112,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,FCL_preliminar_lag2,10.2519106469468,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,FCL_preliminar_lag3,16.7052903310386,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,FCL_preliminar_std3_previa,13.5418036073624,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,inflacion_lima_dic_dic_pct,6.66395752936415,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,tipo_cambio_promedio_soles_usd,2.36716543519076,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,tasa_referencia_promedio_pct,2.88286447295144,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,crecimiento_pbi_real_pct,4.20537221738487,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,rentabilidad_indice_anual_pct,3.25364528161765,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,volatilidad_diaria_anualizada_pct,2.76817991366126,176,13,0,False,26,26,13.7494195812537
+D lares,casos_completos,monto_renta_variable_anual_millones_pen,1.81739083162343,176,13,0,False,26,26,13.7494195812537
+D lares,externos_anual,inflacion_lima_dic_dic_pct,5.77915321450627,16,16,0,False,7,7,5.67546922847772
+D lares,externos_anual,tipo_cambio_promedio_soles_usd,1.60870347448904,16,16,0,False,7,7,5.67546922847772
+D lares,externos_anual,tasa_referencia_promedio_pct,2.89912506783875,16,16,0,False,7,7,5.67546922847772
+D lares,externos_anual,crecimiento_pbi_real_pct,3.00042094072268,16,16,0,False,7,7,5.67546922847772
+D lares,externos_anual,rentabilidad_indice_anual_pct,3.92466468022641,16,16,0,False,7,7,5.67546922847772
+D lares,externos_anual,volatilidad_diaria_anualizada_pct,2.1714514737037,16,16,0,False,7,7,5.67546922847772
+D lares,externos_anual,monto_renta_variable_anual_millones_pen,1.25477164186308,16,16,0,False,7,7,5.67546922847772
+Soles,imputada_mediana_E2,pasivo_activo,1.12589646145524,2516,16,0,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,margen_neto,5.74339128905052,2516,16,5.60413354531002,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,rentabilidad_activo_cierre,1.06835435628981,2516,16,0,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,rotacion_activo_cierre,1.22936138375418,2516,16,5.60413354531002,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,fco_activo,10.5984400789619,2516,16,1.62957074721781,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,fco_ingresos,6.89317202994151,2516,16,7.1939586645469,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,inversion_capex_activo,9.77598703905893,2516,16,2.46422893481717,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,crecimiento_ActivoTotal,1268.71435583938,2516,16,9.65818759936407,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,crecimiento_TotalIngreso,1.03558228560564,2516,16,14.9443561208267,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,cambio_FCO_activo_previo,7942.5540699314,2516,16,12.0429252782194,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,FCO_lag1,28.0519582110742,2516,16,11.4864864864865,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,FCO_lag2,35.7815707242107,2516,16,20.2305246422893,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,FCO_lag3,28.8281823149077,2516,16,28.6168521462639,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,FCO_std3_previa,11.2193899958471,2516,16,30.2464228934817,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,cambio_FCL_preliminar_activo_previo,7519.18753540885,2516,16,15.5802861685215,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,FCL_preliminar_lag1,23.3674108139022,2516,16,14.7058823529412,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,FCL_preliminar_lag2,28.9818202430146,2516,16,24.6025437201908,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,FCL_preliminar_lag3,23.1135675579921,2516,16,33.9825119236884,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,FCL_preliminar_std3_previa,10.6417029335751,2516,16,36.248012718601,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,inflacion_lima_dic_dic_pct,5.56738154210333,2516,16,0,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,tipo_cambio_promedio_soles_usd,1.67203952292544,2516,16,0,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,tasa_referencia_promedio_pct,3.1653310697813,2516,16,0,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,crecimiento_pbi_real_pct,3.17889223833407,2516,16,0,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,rentabilidad_indice_anual_pct,3.74453357173936,2516,16,0,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,volatilidad_diaria_anualizada_pct,2.22015921274612,2516,16,0,False,26,26,221.433702725703
+Soles,imputada_mediana_E2,monto_renta_variable_anual_millones_pen,1.26486002952637,2516,16,0,False,26,26,221.433702725703
+Soles,casos_completos,pasivo_activo,1.22107619868061,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,margen_neto,6.46408020381316,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,rentabilidad_activo_cierre,1.81334828667619,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,rotacion_activo_cierre,1.46703664127197,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,fco_activo,2.72514520556531,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,fco_ingresos,6.40079202173425,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,inversion_capex_activo,2.2173735589976,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,crecimiento_ActivoTotal,1.19245349075872,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,crecimiento_TotalIngreso,1.01141556451192,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,cambio_FCO_activo_previo,14.8362618954836,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,FCO_lag1,55.1175153245829,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,FCO_lag2,98.4933411886219,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,FCO_lag3,76.7946579144954,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,FCO_std3_previa,111.260310352524,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,cambio_FCL_preliminar_activo_previo,15.1789600000166,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,FCL_preliminar_lag1,47.7025444775493,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,FCL_preliminar_lag2,84.6612765336121,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,FCL_preliminar_lag3,66.2440726690581,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,FCL_preliminar_std3_previa,111.022586897063,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,inflacion_lima_dic_dic_pct,7.8667328372848,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,tipo_cambio_promedio_soles_usd,2.14514969090539,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,tasa_referencia_promedio_pct,3.12207413427361,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,crecimiento_pbi_real_pct,4.38251975364937,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,rentabilidad_indice_anual_pct,3.81371995406134,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,volatilidad_diaria_anualizada_pct,2.8466331203809,1498,13,0,False,26,26,32.3737473425775
+Soles,casos_completos,monto_renta_variable_anual_millones_pen,1.5079372988046,1498,13,0,False,26,26,32.3737473425775
+Soles,imputada_sin_casos_influyentes,pasivo_activo,1.13715401201504,2513,16,0,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,margen_neto,1.26691757879683,2513,16,5.57103064066852,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,rentabilidad_activo_cierre,1.07739852924921,2513,16,0,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,rotacion_activo_cierre,1.31187925704973,2513,16,5.57103064066852,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,fco_activo,1.36013809583687,2513,16,1.63151611619578,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,fco_ingresos,1.25851146446094,2513,16,7.16275368085953,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,inversion_capex_activo,1.51430014657634,2513,16,2.46717071229606,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,crecimiento_ActivoTotal,2.09759538011426,2513,16,9.66971746916037,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,crecimiento_TotalIngreso,1.03775808073621,2513,16,14.9224035017907,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,cambio_FCO_activo_previo,5.85686878004094,2513,16,12.0573020294469,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,FCO_lag1,28.0537865919499,2513,16,11.50019896538,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,FCO_lag2,35.737919622268,2513,16,20.2148826104258,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,FCO_lag3,28.8297891114258,2513,16,28.6112216474334,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,FCO_std3_previa,11.2153096706112,2513,16,30.2427377636291,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,cambio_FCL_preliminar_activo_previo,5.75480324588941,2513,16,15.5988857938719,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,FCL_preliminar_lag1,23.389401779012,2513,16,14.7234381217668,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,FCL_preliminar_lag2,28.9329958202689,2513,16,24.5921209709511,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,FCL_preliminar_lag3,23.1223541081634,2513,16,33.9434938320732,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,FCL_preliminar_std3_previa,10.6431633294824,2513,16,36.2116991643454,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,inflacion_lima_dic_dic_pct,5.56135429733951,2513,16,0,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,tipo_cambio_promedio_soles_usd,1.67398933076221,2513,16,0,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,tasa_referencia_promedio_pct,3.17650474857268,2513,16,0,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,crecimiento_pbi_real_pct,3.18864700208632,2513,16,0,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,rentabilidad_indice_anual_pct,3.74602487434056,2513,16,0,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,volatilidad_diaria_anualizada_pct,2.22185721602307,2513,16,0,False,26,26,18.3892222213974
+Soles,imputada_sin_casos_influyentes,monto_renta_variable_anual_millones_pen,1.2635434142912,2513,16,0,False,26,26,18.3892222213974
+Soles,externos_anual,inflacion_lima_dic_dic_pct,5.77915321450627,16,16,0,False,7,7,5.67546922847772
+Soles,externos_anual,tipo_cambio_promedio_soles_usd,1.60870347448904,16,16,0,False,7,7,5.67546922847772
+Soles,externos_anual,tasa_referencia_promedio_pct,2.89912506783875,16,16,0,False,7,7,5.67546922847772
+Soles,externos_anual,crecimiento_pbi_real_pct,3.00042094072268,16,16,0,False,7,7,5.67546922847772
+Soles,externos_anual,rentabilidad_indice_anual_pct,3.92466468022641,16,16,0,False,7,7,5.67546922847772
+Soles,externos_anual,volatilidad_diaria_anualizada_pct,2.1714514737037,16,16,0,False,7,7,5.67546922847772
+Soles,externos_anual,monto_renta_variable_anual_millones_pen,1.25477164186308,16,16,0,False,7,7,5.67546922847772

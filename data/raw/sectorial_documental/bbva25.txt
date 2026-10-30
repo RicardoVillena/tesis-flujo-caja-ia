@@ -1,0 +1,1639 @@
+
+=== PAGINA PDF 1 ===
+Banco BBVA Perú 
+Estados financieros separados al 31 de diciembre de 2025 y de 
+2024 junto con el informe de los auditores independientes 
+ 
+
+=== PAGINA PDF 2 ===
+ 
+Banco BBVA Perú  
+Estados financieros separados al 31 de diciembre de 2025 y de 2024 
+junto con el informe de los auditores independientes 
+ 
+ 
+ 
+Contenido 
+ 
+Informe de los auditores independientes 
+ 
+Estados financieros separados 
+ 
+Estado separado de situación financiera 
+Estado separado de resultados 
+Estado separado de resultados integrales 
+Estado separado de cambios en el patrimonio neto 
+Estado separado de flujos de efectivo  
+Notas a los estados financieros separados 
+
+=== PAGINA PDF 3 ===
+Informe de los auditores independientes  
+Lima 
+Av. Víctor Andrés 
+Belaunde 171,  
+San Isidro  
+Lima II 
+Av. Jorge 
+Basadre 330,  
+San Isidro  
+ 
+Lima III 
+Av. Jorge 
+Basadre 350,  
+San Isidro  
+ 
+Arequipa 
+Edificio City Center ,  
+piso 13, Torre Sur , 
+Cerro Colorado 
+Trujillo 
+Av. El Golf 591, 
+Víctor Larco Herrera, Sede 
+Miguel Ángel Quijano Doig, 
+La Libertad  
+Chiclayo (satélite) 
+Av. Federico Villareal 115, 
+Lambayeque  
+Cusco (satélite) 
+Jr . Ricardo Palma #18, 
+Urb. Santa Mónica, 
+Wanchaq 
+Inscrita en la partida 11396556 del Registro de Personas Jurídicas de Lima y Callao 
+Miembro de Ernst & Young Global 
+Tanaka, Valdivia, Arribas & Asociados 
+Sociedad Civil de R. L 
+ 
+A los accionistas y Directores del Banco BBVA Perú 
+ 
+Opinión 
+ 
+Hemos auditado los estados financieros separados de Banco BBVA Perú (una subsidiaria de BBVA 
+Perú Holding S.A.C., entidad constituida en Perú, en adelante “el Banco”), que comprenden el 
+estado separado de situación financiera al 31 de diciembre de 2025, y los estados separados de 
+resultados, de resultados integrales, de cambios en el patrimonio neto y de flujos de efectivo por el 
+año terminado en esa fecha; así como las notas explicativas a los estados financieros separados, 
+que incluyen información sobre las políticas contables significativas. 
+ 
+En nuestra opinión, los estados financieros separados adjuntos presentan razonablemente, en todos 
+los aspectos significativos, la situación financiera separada del Banco al 31 de diciembre de 2025, 
+así como su desempeño financiero y sus flujos de efectivo separados por el año terminado en esa 
+fecha, de acuerdo con las normas contables establecidas por la Superintendencia de Banca, Seguros 
+y AFP (en adelante “la SBS”) para las entidades financieras en el Perú, ver nota 2.  
+ 
+Base de la opinión 
+ 
+Realizamos nuestra auditoría de conformidad con las Normas Internacionales de Auditoría (NIAs) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores 
+Públicos del Perú. Nuestras responsabilidades en virtud de esas normas se describen con más 
+detalle en la sección Responsabilidades del auditor en relación con la auditoría de los estados 
+financieros de nuestro informe. Somos independientes del Banco de acuerdo con el Código de Ética 
+para Profesionales de la Contabilidad del Consejo de Normas Internacionales de Ética para 
+Contadores (Código IESBA, por sus siglas en inglés) junto con los requisitos éticos que son 
+relevantes para nuestra auditoría de los estados financieros en Perú, y hemos cumplido con 
+nuestras otras responsabilidades éticas de acuerdo con estos requisitos y el Código IESBA. 
+Consideramos que la evidencia de auditoría que hemos obtenido proporciona una base suficiente y 
+adecuada para nuestra opinión. 
+ 
+Asuntos clave de auditoría 
+ 
+Los asuntos clave de auditoría son aquellos asuntos que, a nuestro juicio profesional, fueron de 
+mayor importancia en la auditoría de los estados financieros separados del período actual. Estos 
+asuntos se abordaron en el contexto de la auditoría de los estados financieros separados en su 
+conjunto, y en la formación de nuestra opinión sobre los mismos; por lo que no proporcionamos una 
+opinión separada sobre estos asuntos. Más adelante, se detalla la manera en la que cada asunto 
+clave fue abordado durante nuestra auditoría. 
+
+=== PAGINA PDF 4 ===
+Informe de los auditores independientes (continuación) 
+. 
+ 
+Hemos cumplido con las responsabilidades descritas en la sección Responsabilidades del auditor en 
+relación con la auditoría de los estados financieros separados de nuestro informe, incluso en 
+relación con estos asuntos.  En consecuencia, nuestra auditoría incluyó la realización de 
+procedimientos diseñados para responder a los riesgos de incorrección material evaluados en los 
+estados financieros separados. Los resultados de los procedimientos de auditoría, incluidos los 
+procedimientos realizados para abordar los asuntos que se mencionan a continuación, constituyen 
+la base para la opinión de auditoría sobre los estados financieros separados adjuntos.  
+ 
+Asunto clave de auditoría Respuesta de auditoria 
+Estimación de la provisión de cartera de créditos no minoristas bajo las normas de la Superintendencia de 
+Banca, Seguros y AFP (SBS) 
+ 
+Como se describe en la nota 3(e) a los estados 
+financieros separados, la estimación de la provisión 
+de cartera de créditos no minoristas se determina 
+siguiendo la metodología definida por la SBS, la cual 
+establece porcentajes específicos para el cálculo de 
+la provisión que dependen de la clasificación 
+crediticia de riesgo del deudor. Para definir la 
+clasificación del deudor, el Banco, entre otros 
+factores relevantes, considera: la experiencia de 
+pagos del deudor, la historia de las relaciones 
+comerciales con la gerencia del deudor, la historia de 
+las operaciones, la capacidad de pago y 
+disponibilidad de fondos del deudor, las situaciones 
+de los colaterales y las garantías recibidas, el análisis 
+de los estados financieros del deudor, así como el 
+riesgo del deudor en otras instituciones financieras 
+del mercado. 
+Por lo expuesto, consideramos que la estimación de 
+la provisión de cartera de créditos no minoristas es 
+un asunto clave de auditoría; dado que, para definir 
+la tasa de cálculo de la provisión debe clasificarse el 
+deudor en base a variables cualitativas y 
+cuantitativas en las que interviene el juicio crítico y 
+profesional de los especialistas de riesgos del Banco. 
+ 
+Obtuvimos un entendimiento, evaluamos el diseño y 
+probamos la efectividad operativa de los controles 
+del proceso de estimación de la provisión de cartera 
+de créditos no minoristas bajo las normas de la SBS, 
+que incluyeron: 
+ 
+- Metodología y los criterios establecidos para el 
+cálculo según las regulaciones requeridas por 
+la SBS. 
+- Integridad y exactitud de la base de datos en 
+los sistemas del Banco. 
+- Clasificación crediticia de los deudores no 
+minoristas, considerando la metodología del 
+Banco y requerimientos de la SBS. 
+- Revisión del cálculo de la provisión de cartera 
+de créditos no minoristas en los sistemas del 
+Banco.  
+- Divulgación y revelación en las notas a los 
+estados financieros separados. 
+ 
+Además, realizamos los siguientes procedimientos 
+sustantivos de detalle: 
+ 
+- Evaluamos si las políticas contables definidas 
+por el Banco son coherentes con los 
+requerimientos de la SBS.  
+
+=== PAGINA PDF 5 ===
+Informe de los auditores independientes (continuación) 
+. 
+Asunto clave de auditoría Respuesta de auditoria 
+- Probamos la integridad y precisión de los datos 
+utilizados en el cálculo de la provisión. 
+- Inspeccionamos de manera selectiva la 
+clasificación crediticia de deudores no 
+minoristas evaluando la razonabilidad de los 
+supuestos más relevantes utilizados por la 
+Gerencia. 
+- Realizamos un recálculo de la estimación de la 
+provisión de cartera de créditos no minoristas. 
+- Evaluamos la idoneidad de las revelaciones y 
+divulgaciones en las notas de los estados 
+financieros separados. 
+Entorno de Tecnología de la Información (TI)  
+Las actividades del Banco dependen en gran medida 
+del funcionamiento eficaz y continuo de los sistemas 
+de información y de las infraestructuras 
+tecnológicas, que engloban un gran número de 
+aplicaciones y sistemas clave de Tecnología de la 
+Información (TI) para el procesamiento de sus 
+operaciones (de volúmenes significativos), registros 
+contables y elaboración de sus estados financieros.  
+ 
+El sistema informático del Banco está integrado por 
+un conjunto de aplicaciones informáticas complejas, 
+esenciales en las diversas operaciones de negocio 
+del Banco. Los controles del entorno de TI incluyen: 
+el gobierno de TI, los controles generales de TI sobre 
+el desarrollo y los cambios de programas, el acceso a 
+programas y datos y las operaciones de TI, por lo 
+tanto, dichos controles deben diseñarse y operar de 
+manera efectiva con el objetivo de garantizar la 
+integridad de los registros contables e informes 
+financieros precisos, de esta manera mitigar el 
+potencial riesgo de fraude o error. De misma 
+importancia son los cálculos del sistema, otros 
+controles de aplicaciones de TI y las interfaces entre 
+los sistemas de TI.  
+ 
+ 
+Asistidos por nuestros profesionales de Tecnología 
+de la Información (TI), nuestros esfuerzos de 
+auditoría se centraron en los sistemas claves del 
+Banco, relacionados a procesamiento de sus 
+operaciones, registros contables y elaboración de los 
+estados financieros separados del Banco realizando, 
+entre otros, los siguientes procedimientos: 
+Evaluamos y probamos los controles generales de TI 
+realizando: un entendimiento del gobierno de TI, 
+revisamos controles claves (incluidos los 
+compensatorios) sobre la gestión de accesos a 
+aplicaciones y datos, cambios y desarrollos de 
+aplicaciones y las operaciones de TI. 
+Probamos los controles de aplicación, es decir, el 
+diseño y la efectividad operativa de los controles 
+automatizados críticos para el procesamiento de 
+datos, registros contables y elaboración de los 
+estados financieros. Con respecto a las deficiencias 
+de control identificadas, probamos el diseño y la 
+efectividad operativa de los controles 
+compensatorios. 
+ 
+
+=== PAGINA PDF 6 ===
+Informe de los auditores independientes (continuación) 
+. 
+Asunto clave de auditoría Respuesta de auditoria 
+ 
+Por lo expuesto, consideramos el entorno de la 
+tecnología de la información como un asunto clave, 
+dado que, la confiabilidad y seguridad de los 
+sistemas de TI y de los controles automatizados 
+juegan un papel fundamental para asegurar el 
+correcto tratamiento de procesamientos de datos, 
+registro contables y preparación de los estados 
+financieros.  
+ 
+ 
+Otro asunto 
+ 
+Los estados financieros separados de Banco BBVA Perú han sido preparados en cumplimiento de los 
+requerimientos legales vigentes en Perú para la presentación de información financiera, tal como se 
+indica en la nota 2. Estos estados financieros separados se deben leer conjuntamente con los 
+estados financieros consolidados de Banco BBVA Perú y Subsidiarias al 31 de diciembre de 2025, 
+que se preparan y presentan por separado. 
+ 
+Otra información incluida en el Informe Anual 2025 del Banco  
+ 
+Otra información consiste en la información incluida en la Memoria Anual, distinta de los estados 
+financieros separados y nuestro informe de auditoría sobre los mismos. La Gerencia es responsable 
+de la otra información. 
+ 
+Nuestra opinión sobre los estados financieros separados no cubre la otra información y no 
+expresamos ninguna forma de conclusión que proporcione un grado de seguridad sobre ésta.  
+ 
+En relación con nuestra auditoría de los estados financieros separados, nuestra responsabilidad es 
+leer la otra información y, al hacerlo, considerar si la otra información es materialmente 
+inconsistente con los estados financieros separados o nuestro conocimiento obtenido en la auditoría 
+o si de otra manera parece estar materialmente mal expresada. Si, en base al trabajo que hemos 
+realizado, concluimos que existe un error material de esta otra información, estamos obligados a 
+informar de ese hecho. No tenemos nada que informar al respecto. 
+  
+
+=== PAGINA PDF 7 ===
+Informe de los auditores independientes (continuación) 
+. 
+Responsabilidades de la Gerencia y los responsables del gobierno corporativo del Banco en relación 
+con los estados financieros separados 
+ 
+La Gerencia es responsable de la preparación y presentación razonable de los estados financieros 
+separados de acuerdo con las normas contables establecidas por la Superintendencia de Banca, 
+Seguros y AFP (SBS) para las entidades financieras en el Perú, y del control interno que la Gerencia 
+determine que es necesario para permitir la preparación de estados financieros separados que 
+estén libres de errores materiales, ya sea debido a fraude o error. 
+ 
+Al preparar los estados financieros separados, la Gerencia es responsable de evaluar la capacidad 
+del Banco para continuar como una empresa en marcha, revelando, según corresponda, los asuntos 
+relacionados con la empresa en marcha y utilizando la base contable de la empresa en marcha, a 
+menos que la Gerencia tenga la intención de liquidar al Banco o cesar las operaciones, o bien no 
+exista otra alternativa realista. 
+ 
+Los responsables del gobierno corporativo del Banco son responsables de la supervisión del proceso 
+de información financiera separada del Banco. 
+ 
+Responsabilidades del Auditor en relación con la auditoría de los estados financieros separados  
+ 
+Nuestros objetivos son obtener seguridad razonable sobre si los estados financieros separados en 
+su conjunto están libres de incorrección material, ya sea debido a fraude o error, y emitir un 
+informe que incluya nuestra opinión. La seguridad razonable es un alto nivel de aseguramiento, 
+pero no garantiza que una auditoría realizada de conformidad con las NIAs aprobadas para su 
+aplicación en el Perú siempre detectará una incorrección importante cuando exista. Las 
+incorrecciones pueden surgir debido a fraude o error y se consideran materiales si, individualmente 
+o acumuladas, podría esperar que influyan razonablemente en las decisiones económicas que los 
+usuarios toman basándose en los estados financieros separados. 
+ 
+Como parte de una auditoría de acuerdo con las NIAs aprobadas para su aplicación en el Perú, 
+ejercemos un juicio profesional y mantenemos el escepticismo profesional durante toda la auditoría. 
+También: 
+ 
+- Identificamos y evaluamos los riesgos de incorrección material de los estados financieros 
+separados, ya sea debido a fraude o error, diseñamos y ejecutamos procedimientos de 
+auditoría que respondan a esos riesgos, y obtenemos evidencia de auditoría que sea  suficiente 
+y apropiada para proporcionarnos una base para nuestra opinión. El riesgo de no detectar una 
+incorrección material debido a fraude es mayor que la resultante de un error, ya que el fraude 
+puede implicar colusión, falsificación, omisiones intencionales, declaraciones falsas o elusión 
+del control interno. 
+
+=== PAGINA PDF 8 ===
+Informe de los auditores independientes (continuación) 
+. 
+- Obtenemos un entendimiento del control interno relevante para la auditoría con el fin de 
+diseñar procedimientos de auditoría que sean apropiados en las circunstancias, pero no con el 
+propósito de expresar una opinión sobre la efectividad del control intern o del Banco. 
+- Evaluamos lo apropiado de las políticas contables utilizadas, la razonabilidad de las 
+estimaciones contables y las respectivas revelaciones realizadas por la Gerencia.  
+- Concluimos sobre el uso apropiado por parte de la Gerencia de la base contable de la empresa 
+en marcha y, sobre la base de la evidencia de auditoría obtenida, si existe una incertidumbre 
+material relacionada con eventos o condiciones que puedan generar dudas significativas sobre 
+la capacidad del Banco para continuar como una empresa en marcha. Si llegamos a la 
+conclusión de que existe una incertidumbre material, estamos obligados a llamar la atención en 
+nuestro informe de auditoría sobre las revelaciones relacionadas en los estados financieros o, 
+si dichas revelaciones son inadecuadas, a modificar nuestra opinión. Las conclusiones se basan 
+en la evidencia de auditoría obtenida hasta la fecha de nuestro informe de auditoría. Sin 
+embargo, los eventos o condiciones futuras pueden hacer que el Banco deje de continuar como 
+una empresa en marcha. 
+- Evaluamos la presentación general, la estructura, el contenido de los estados financieros 
+separados, incluidas las revelaciones, y si los estados financieros separados representan las 
+transacciones y eventos subyacentes de manera que logre una presentación razonable. 
+- Planificamos y efectuamos la auditoría del Banco para obtener evidencia de auditoría suficiente 
+y adecuada en relación con la información financiera de las entidades o unidades de negocio 
+que la conforman, con el fin de expresar una opinión sobre los estad os financieros separados. 
+Somos responsables de la dirección, supervisión y del trabajo de auditoría efectuado para fines 
+de la auditoría del Banco. Somos los únicos responsables de nuestra opinión de auditoría.  
+ 
+ 
+Comunicamos a los responsables del gobierno corporativo del Banco, entre otros asuntos, al 
+alcance planeado y el momento de realización de la auditoría, los hallazgos significativos de la 
+auditoría, incluyendo cualquier deficiencia significativa del control interno identificada en el 
+transcurso de nuestra auditoría. 
+ 
+También proporcionamos a los responsables del gobierno corporativo del Banco una declaración de 
+que hemos cumplido con los requerimientos éticos relevantes respecto a independencia y les hemos 
+comunicado acerca de todas las relaciones y otros asuntos que podrían razonablemente afectar 
+nuestra independencia y, según corresponda, incluyendo las respectivas salvaguardas.  
+  
+
+=== PAGINA PDF 9 ===
+Informe de los auditores independientes (continuación) 
+. 
+Entre los asuntos que han sido objeto de comunicación con los responsables del gobierno 
+corporativo del Banco, determinamos los que han sido de la mayor significatividad en la auditoría de 
+los estados financieros separados del periodo actual y, por lo tanto, son los asuntos clave de 
+auditoría. Hemos descrito esos asuntos en nuestro informe de auditoría salvo que las disposiciones 
+legales o reglamentarias prohíban revelar públicamente el asunto o, en circunstancias 
+extremadamente poco frecuentes, determinemos que un asunto no se debería comunicar en 
+nuestro informe porque se esperaría razonablemente que las consecuencias adversas de hacerlo 
+superarían los beneficios de interés público del mismo. 
+ 
+ 
+Lima, Perú 
+26 de febrero de 2026 
+ 
+ 
+Refrendado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________ 
+Mónica Padilla 
+Socia 
+C.P.C.C. Matrícula No. 43105 
+
+=== PAGINA PDF 10 ===
+ 
+Las notas a los estados financieros separados adjuntas son parte integrante de este estado. 
+Banco BBVA Perú 
+Estado separado de situación financiera 
+Al 31 de diciembre de 2025 y de 2024 
+ Nota 2025 2024 
+  S/(000) S/(000) 
+    
+Activo    
+Disponible 5 12,259,098 13,526,288 
+Fondos Interbancarios  - 20,005 
+Inversiones a valor razonable con cambios en resultados y 
+disponibles para la venta 6 
+15,007,555 15,442,169 
+Cartera de créditos, neto 7 78,225,677 74,074,772 
+Derivados para negociación 8 1,066,635 995,396 
+Derivados de cobertura 8 40,840 10,180 
+Bienes realizables, recibidos en pago y adjudicados  18,837 58,808 
+Participaciones en subsidiarias y asociadas 9 263,230 280,262 
+Inmuebles, mobiliario y equipo, neto 10 1,189,250 1,202,028 
+Impuesto a la renta diferido 24 817,172 807,792 
+Otros activos, neto 11 3,473,295 4,811,570   _____________ _____________ 
+Total activo  112,361,589 111,229,270   ___________ _ _____________ 
+Riesgo y compromisos contingentes 16 48,303,931 40,751,730   ___________ _ _____________     
+Pasivo    
+Obligaciones con el público y depósitos de empresas del 
+Sistema Financiero 12 
+83,420,443 80,344,816 
+Fondos interbancarios  - 94,084 
+Adeudos y obligaciones financieras 13 7,869,656 7,332,438 
+Derivados para negociación 8 1,061,790 821,514 
+Derivados de cobertura 8 197,816 78,602 
+Cuentas por pagar, provisiones y otros pasivos 14 4,821,288 9,258,572   _____________ _____________ 
+Total pasivo  97,370,993 97,930,026   _____________ _____________ 
+    
+Patrimonio neto 15   
+Capital social  9,649,414 8,894,852 
+Reservas  2,622,072 2,432,622 
+Resultados no realizados  328,131 85,365 
+Resultados acumulados  2,390,979 1,886,405   _____________ _____________ 
+Total patrimonio  14,990,596 13,299,244   _____________ _____________ 
+Total pasivo y patrimonio neto  112,361,589 111,229,270   _____________ _____________ 
+Riesgo y compromisos contingentes 16 48,303,931 40,751,730   _____________ _____________ 
+ 
+
+=== PAGINA PDF 11 ===
+ 
+Las notas a los estados financieros separados adjuntas son parte integrante de este estado. 
+Banco BBVA Perú 
+Estado separado de resultados 
+Al 31 de diciembre de 2025 y de 2024 
+ Nota 2025 2024 
+  S/(000) S/(000) 
+    
+Ingresos por intereses 17 7,961,099 8,075,266 
+Gastos por intereses 18 (1,898,152) (2,246,080)   ____________ ____________ 
+Margen financiero bruto  6,062,947 5,829,186   ____________ ____________ 
+Provisiones para créditos directos, neto de recuperos 7 (1,492,848) (2,229,543)   ____________ ____________ 
+Margen financiero neto  4,570,099 3,599,643   ____________ ____________ 
+Ingresos por servicios financieros, neto 19 1,152,185 1,045,308   ____________ ____________ 
+Margen financiero neto de ingresos y gastos por servicios 
+financieros  5,722,284 4,644,951   ____________ ____________ 
+Resultados por operaciones financieras 20 931,205 957,534   ____________ ____________ 
+Margen operacional  6,653,489 5,602,485 
+Gastos de administración 21 (2,927,472) (2,669,278) 
+Depreciación y amortización  (270,178) (268,643)   ____________ ____________ 
+Margen operacional neto  3,455,839 2,664,564 
+Valuación de activos y provisiones  (168,661) (263,312)   ____________ ____________ 
+Resultado de operación  3,287,178 2,401,252   ____________ ____________ 
+Otros (gastos) e ingresos, neto 22 (9,619) 17,240   ____________ ____________ 
+Utilidad antes de impuesto a la renta  3,277,559 2,418,492   ____________ ____________ 
+Impuesto a la renta 23 (886,580) (532,087)   ____________ ____________ 
+Utilidad neta  2,390,979 1,886,405   ____________ ____________ 
+Utilidad por acción básica y diluida en soles 25 0.2478 0.1955   ____________ ____________ 
+Promedio ponderado de número de acciones en circulación 
+(en miles de acciones) 25 9,649,414 9,649,414   ____________ ____________ 
+    
+  
+
+=== PAGINA PDF 12 ===
+ 
+Las notas a los estados financieros separados adjuntas son parte integrante de este estado. 
+Banco BBVA Perú 
+Estado separado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2025 y de 2024 
+  2025 2024 
+  S/(000) S/(000) 
+    
+Utilidad neta  2,390,979 1,886,405 
+    
+Otros resultados integrales:    
+Resultado no realizado de inversiones disponibles para la 
+venta  215,667 (16,495) 
+Resultado no realizado de coberturas de flujo de efectivo  23,837 (12,772) 
+Participación en otro resultado integral de subsidiarias y 
+asociadas  4,225 (790) 
+Resultados no realizados de pasivos actuariales  10,000 7,119 
+Impuesto a la renta relacionado con los componentes de otro 
+resultado integral  (10,963) 890   ____________ ____________ 
+Otros resultados integrales del año, neto de impuesto a la 
+renta  242,766 (22,048)   ____________ ____________     
+Total resultados integrales del año  2,633,745 1,864,357   ____________ ____________ 
+ 
+
+=== PAGINA PDF 13 ===
+ 
+Las notas a los estados financieros separados adjuntas son parte integrante de este estado. 
+Banco BBVA Perú 
+Estado separado de cambios en el patrimonio neto 
+Por los años terminados el 31 de diciembre de 2025 y de 2024 
+ 
+Número de 
+acciones en miles 
+Capital 
+social Reservas 
+Resultados no 
+realizados 
+Resultados 
+acumulados Total 
+ (nota 15(a)) (nota 15(a)) (nota 15(b)) (nota 15(c)) (nota 15(d))  
+  S/(000) S/(000) S/(000) S/(000) S/(000) 
+       
+Saldos al 1 de enero de 2024 8,147,211 8,147,211 2,245,122 107,413 1,869,103 12,368,849 
+Utilidad neta - - - - 1,886,405 1,886,405 
+Otro resultado integral      - 
+Resultados no realizados en inversiones disponibles para la venta - - - (17,273) - (17,273) 
+Resultados no realizados en derivados de cobertura de flujos de 
+efectivo - - - (9,004) - (9,004) 
+Resultados no realizados en otro resultado integral de subsidiarias y 
+asociadas - - - (790) - (790) 
+Resultados no realizados en pasivos actuariales - - - 5,019 - 5,019  _____________ _____________ _____________ _____________ _____________ _____________ 
+Total resultado integral del año - - - (22,048) 1,886,405 1,864,357  _____________ _____________ _____________ _____________ _____________ _____________ 
+Cambios en el patrimonio neto (no incluidos en el resultado 
+integral): 
+      
+Dividendos, nota 15(d) - - - - (934,551) (934,551) 
+Capitalización de resultados acumulados, nota 15(a) 747,641 747,641 - - (747,641) - 
+Aplicación a reservas y otros movimientos, nota 15(b) - - 187,500 - (186,911) 589  _____________ _____________ _____________ _____________ _____________ _____________ 
+Saldos al 31 de diciembre de 2024 8,894,852 8,894,852 2,432,622 85,365 1,886,405 13,299,244  _____________ _____________ _____________ _____________ _____________ _____________ 
+Utilidad neta - - - - 2,390,979 2,390,979 
+Otro resultado integral      - 
+Resultados no realizados en inversiones disponibles para la venta - - - 214,686 - 214,686 
+Resultados no realizados en derivados de cobertura de flujos de 
+efectivo - - - 16,805 - 16,805 
+Resultados no realizados en otro resultado integral de subsidiarias y 
+asociadas - - - 4,225 - 4,225 
+Resultados no realizados en pasivos actuariales - - - 7,050 - 7,050  _____________ _____________ _____________ _____________ _____________ _____________ 
+Total resultado integral del año - - - 242,766 2,390,979 2,633,745  _____________ _____________ _____________ _____________ _____________ _____________ 
+Cambios en el patrimonio neto (no incluidos en el resultado 
+integral): 
+      
+Dividendos, nota 15(d) - - - - (943,202) (943,202) 
+Capitalización de resultados acumulados, nota 15(a) 754,562 754,562 - - (754,562) - 
+Aplicación a reservas y otros movimientos, nota 15(b) - - 189,450 - (188,641) 809  _____________ _____________ _____________ _____________ _____________ _____________ 
+Saldos al 31 de diciembre de 2025 9,649,414 9,649,414 2,622,072 328,131 2,390,979 14,990,596  _____________ _____________ _____________ _____________ _____________ _____________ 
+
+=== PAGINA PDF 14 ===
+ 
+ 
+Banco BBVA Perú 
+Estado separado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2025 y de 2024 
+ Nota 2025 2024 
+  S/(000) S/(000) 
+    
+Conciliación de la utilidad neta con el efectivo y 
+equivalentes al efectivo proveniente de (utilizado en) las 
+actividades de operación    
+Utilidad neta  2,390,979 1,886,405   ______________ ______________ 
+Ajustes    
+Depreciación y amortización  270,178 268,643 
+Deterioro de Inmuebles, mobiliario y equipo y activos 
+intangibles  41,413 66,713 
+Provisiones  1,620,097 2,426,142 
+Otros ajustes  1,293,825 618,234   ______________ ______________ 
+Variación neta en activos y pasivos    
+Cartera de créditos  (8,164,704) (5,495,138) 
+Inversiones disponibles para la venta  (745,030) 1,484,337 
+Cuentas por cobrar y otras  (748,013) 1,082,073 
+Pasivos financieros no subordinados  7,717,536 10,797,031 
+Cuentas por pagar y otros  (4,472,141) (4,956,409)   ______________ ______________ 
+Resultado del año después de la variación neta en activos 
+y pasivos, y ajustes  (795,860) 8,178,031   ______________ ______________ 
+Impuesto a la renta pagado  (323,577) (693,148)   ______________ ______________ 
+Efectivo y equivalentes de efectivo neto (utilizado en) 
+proveniente de las actividades de operación  (1,119,437) 7,484,883   ______________ ______________ 
+Flujos de efectivo de las actividades de inversión    
+Venta de activos intangibles e inmuebles, mobiliario y 
+equipo  18,312 - 
+Compra de activos intangibles e inmuebles, mobiliario y 
+equipo  (379,904) (381,918) 
+Otras entradas relacionadas con actividades de inversión  63,891 92,738   ______________ ______________ 
+Efectivo y equivalentes de efectivo neto utilizado en 
+actividades de inversión  (297,701) (289,180)   ______________ ______________ 
+    
+    
+    
+    
+    
+
+=== PAGINA PDF 15 ===
+Estado separado de flujos de efectivo (continuación) 
+ 
+ 
+Las notas a los estados financieros separados adjuntas son parte integrante de este estado. 
+ Nota 2025 2024 
+  S/(000) S/(000) 
+    
+    
+Flujos de efectivo de las actividades de financiamiento    
+Entradas por la emisión de pasivos financieros 
+subordinados  - 1,115,400 
+Rescate de pasivos financieros subordinados  - (1,135,913) 
+Pago de dividendos 15(d) (940,958) (933,163) 
+Otras entradas relacionadas a actividades de 
+financiamiento  426,489 2,636,005 
+Otras salidas relacionadas a actividades de financiamiento  (458,833) (3,315,035)   ______________ ______________ 
+Efectivo y equivalentes de efectivo neto utilizado en 
+actividades de financiamiento  (973,302) (1,632,706)   ______________ ______________ 
+(Disminución) aumento neto de efectivo y equivalentes de 
+efectivo antes del efecto de las variaciones de tipo de 
+cambio  (2,390,440) 5,562,997   ______________ ______________ 
+Efecto de las variaciones en el tipo de cambio sobre el 
+efectivo y equivalentes de efectivo  (882,180) 98,791   ______________ ______________ 
+(Disminución) aumento neto en el efectivo y equivalentes 
+de efectivo  (3,272,620) 5,661,788   ______________ ______________ 
+Efectivo y equivalentes de efectivo al inicio del año  24,198,512 18,536,724   ______________ ______________ 
+Efectivo y equivalentes de efectivo al final del año  20,925,892 24,198,512 
+Fondos en garantía  2,534,749 980,153 
+Fondos interbancarios  - (20,005) 
+Inversiones con vencimientos menores a 90 días  (11,201,543) (11,632,372)   ______________ ______________ 
+Disponible según el estado separado de situación 
+financiera 5 12,259,098 13,526,288   ______________ ______________ 
+
+=== PAGINA PDF 16 ===
+ 
+1 
+Banco BBVA Perú 
+Notas a los estados financieros separados 
+Al 31 de diciembre de 2025 y de 2024 
+1. Operaciones 
+(a) Identificación y actividad económica - 
+El Banco BBVA Perú (en adelante el Banco) es una subsidiaria de BBVA Perú Holding S.A.C., que 
+posee el 47.13% de su capital social al 31 de diciembre de 2025 y de 2024. El Banco Bilbao 
+Vizcaya Argentaria S.A. posee el 100% de las acciones de BBVA Perú Holding S.A.C. 
+ 
+El Banco es una sociedad anónima constituida en el año 1951, autorizada a operar como entidad 
+bancaria por la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de 
+Pensiones (en adelante la SBS). 
+ 
+Las operaciones que realiza el Banco comprenden principalmente la intermediación financiera 
+que corresponde a los bancos múltiples, actividades que están normadas por la SBS de acuerdo 
+con la Ley General del Sistema Financiero y del Sistema de Seguros y Orgánica de la SBS, Ley 
+N°26702 y sus modificatorias (en adelante Ley General), que establece los requisitos, derechos, 
+obligaciones, garantías, restricciones y demás condiciones de funcionamiento a que se sujetan 
+las personas jurídicas de derecho privado que operan en el Sistema Financiero y de Seguros. 
+ 
+El domicilio legal y sede del Banco es Av. República de Panamá N° 3055, San Isidro, Lima, Perú. 
+ 
+Al 31 de diciembre de 2025 y de 2024, el Banco desarrolla sus actividades a través de una red 
+nacional de 277 y 287 agencias, respectivamente. La cantidad de personal empleado por el 
+Banco al 31 de diciembre de 2025 y de 2024 es de 7,710 y 7,477, respectivamente. 
+ 
+(b) Aprobación de los estados financieros separados - 
+Los estados financieros separados al 31 de diciembre de 2025 han sido aprobados por el 
+Directorio el 26 de febrero de 2026 y serán presentados para la aprobación de la Junta General 
+de Accionistas dentro de los plazos establecidos por Ley. En opinión de la Gerencia y el 
+Directorio, dichos estados financieros separados serán aprobados por la Junta General de 
+Accionistas sin modificaciones. Los estados financieros separados al 31 de diciembre de 2024 
+fueron aprobados por la Junta General de Accionistas del 27 de marzo de 2025. 
+ 
+2. Bases de preparación de los estados financieros separados 
+(a) Declaración de cumplimiento - 
+Los estados financieros separados adjuntos han sido preparados y presentados de acuerdo con 
+las normas contables establecidas por la SBS para las entidades financieras en el Perú. Las 
+normas señaladas están contenidas en el Manual de Contabilidad para Empresas del Sistema 
+Financiero (en adelante el Manual de Contabilidad) aprobado por Resolución SBS N° 895-98 del 1 
+de setiembre de 1998, vigente a partir del 1 de enero de 2001, y normas complementarias y 
+modificatorias. 
+
+=== PAGINA PDF 17 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+2 
+La SBS ha establecido que, en caso de existir situaciones no previstas en dichas normas, se aplica 
+lo dispuesto en las normas contables NIIF emitidas por el International Accounting Standards 
+Board (“IASB”, por sus siglas en inglés) y oficializadas por el Consejo Normativo de Contabilidad 
+(CNC). 
+ 
+Los estados financieros separados conforme lo refieren las normas legales en Perú, no incluyen 
+los efectos de consolidación del Banco con sus subsidiarias (nota 9). Al 31 de diciembre de 2025 
+y de 2024, el Banco registra estas inversiones aplicando el método de participación patrimonial. 
+ 
+Al 31 de diciembre de 2025, las empresas subsidiarias del Banco son las siguientes: BBVA Bolsa 
+Sociedad Agente de Bolsa S.A., BBVA Asset Management S.A. SAF, BBVA Sociedad Titulizadora 
+S.A., Inmuebles y Recuperaciones BBVA S.A., Forum Distribuidora del Perú S.A. y Continental 
+DPR Financié Company B.V., una entidad de propósito especial. Al 31 de diciembre de 2024, 
+adicionalmente a estas empresas se tuvo como subsidiarias a BBVA Consumer Finance EDPYME 
+en liquidación y Forum Comercializadora del Perú S.A. en liquidación; las cuales han completado 
+sus respectivos procesos de liquidación durante el año 2025. 
+ 
+Los saldos consolidados del Banco se presentan a continuación al 31 de diciembre de: 
+ 
+ 2025 2024 
+ S/(000) S/(000) 
+   
+Cartera de créditos 78,309,916 74,118,352 
+Total activos 112,336,347 111,188,992 
+Total pasivos 97,344,718 97,888,646 
+Patrimonio 14,991,629 13,300,346 
+Utilidad neta 2,390,911 1,882,772 
+ 
+(b) Bases de medición - 
+Los estados financieros separados han sido preparados en soles a partir de los registros de 
+contabilidad del Banco de acuerdo con el principio de costo histórico, excepto por los 
+instrumentos financieros derivados, instrumentos financieros a valor razonable con cambios en 
+resultados y los activos financieros disponibles para la venta que son medidos a valor razonable. 
+ 
+(c) Moneda funcional y de presentación - 
+El Banco prepara y presenta sus estados financieros separados en soles (S/ o PEN), que es la 
+moneda del entorno económico principal en el que opera, aquella que influye en las transacciones 
+que realiza y en los servicios que presta, entre otros factores. Toda la información es presentada 
+en miles de soles y ha sido redondeada a la unidad más cercana, excepto cuando se indica de otra 
+manera. 
+  
+
+=== PAGINA PDF 18 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+3 
+(d) Uso de juicios y estimaciones - 
+Al preparar estos estados financieros separados, la Gerencia ha realizado juicios y estimaciones 
+que afectan la aplicación de las políticas contables y los montos de activos, pasivos, ingresos y 
+gastos informados, y la divulgación de eventos significativos en las notas a los estados 
+financieros. Las estimaciones son continuamente evaluadas y están basadas en la experiencia 
+histórica y otros factores. Los resultados finales pueden diferir de estas estimaciones. 
+ 
+Los efectos relacionados con estimaciones son registrados en cuentas del estado separado de 
+resultados, a partir del año en el que se efectúa la revisión posterior. 
+ 
+Los juicios y estimaciones más importantes para la elaboración de los estados financieros 
+separados del Banco son los siguientes: 
+ 
+- La determinación del valor razonable de las inversiones, nota 3(c) y nota 30. 
+- La provisión para incobrabilidad de la cartera de créditos, nota 3(e) y nota 7. 
+- La vida útil de los inmuebles, mobiliario y equipo, nota 3(f) y de los activos intangibles, 
+nota 3(g). 
+- La provisión del impuesto a la renta, nota 3(l) y nota 23. 
+- El impuesto a la renta diferido, nota 3(l) y nota 24. 
+- La determinación del valor razonable de los instrumentos financieros derivados, nota 3(b) 
+y nota 30. 
+- El deterioro de los activos no monetarios, nota 3(h). 
+- La provisión por contingencias, nota 3(k). 
+ 
+(e) Nuevos pronunciamientos - 
+(i) Normas contables NIIF emitidas y vigentes en el Perú al 31 de diciembre de 2025: 
+Durante el año 2025, el CNC emitió las siguientes resoluciones: 
+ 
+- Resolución N°001-2025-EF/30 emitida el 23 de mayo de 2025, mediante la cual se 
+aprueban las modificaciones a la Norma Internacional de Información Financiera - 
+NIIF 9 Instrumentos Financieros y a la Norma Internacional de Información 
+Financiera - NIIF 7 Instrumentos Financieros: Información a revelar. 
+ 
+- Resolución N°005-2025-EF/30 emitida el 19 de noviembre de 2025, mediante la 
+cual se aprueba la Norma Internacional de Información Financiera para las 
+Pequeñas y Medianas Entidades - Norma de Contabilidad NIIF para las PYMES. 
+ 
+- Resolución N°006-2025-EF/30 emitida el 20 de noviembre de 2025, mediante la 
+cual se aprueba el Set Completo de las Normas Internacionales de Información 
+Financiera versión 2025 que incluye el Marco Conceptual para la Información 
+Financiera. 
+  
+
+=== PAGINA PDF 19 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+4 
+La aplicación de las referidas Normas contables NIIF es a partir del día siguiente de la emisión de 
+la resolución o, en forma posterior, según la entrada en vigor establecida en cada NIIF. 
+ 
+El 30 de julio de 2025, la SBS emitió la Resolución N°02663-2025, mediante la cual modificó el 
+Manual de Contabilidad para las Entidades del Sistema Financiero, con el propósito de 
+armonizarlo con la NIIF 9 Instrumentos Financieros, la NIIF 13 Medición del Valor Razonable y la 
+NIIF 15 Ingresos Procedentes de Contratos con Clientes. La mayoría de estas modificaciones 
+serán exigibles para la información que las entidades financieras elaboren a partir de enero de 
+2027. En opinión de la Gerencia, dichos cambios no generarán un impacto significativo en el 
+Banco. 
+ 
+Por otro lado, en el año 2019 entró en vigor la NIIF 16 “Arrendamientos” que reemplaza a la NIC 
+17 “Arrendamientos”, a la IFRIC 4 “Determinación de si un acuerdo contiene un arrendamiento”, 
+a la SIC 15 “Arrendamientos operativos-incentivos” y a la SIC 27 “Evaluación del contenido de las 
+transacciones que involucran la forma legal de un arrendamiento”. La SBS emitió el oficio 
+múltiple N°467-2019 -SBS del 7 de enero de 2020, en el que establece la no aplicación de la NIIF 
+16 para entidades que se encuentren bajo su supervisión. En ese sentido, al 31 de diciembre de 
+2025, el Banco no ha incorporado los efectos de esta norma ni revelado ningún efecto si dicha 
+norma fuera adoptada por la SBS en el futuro. 
+ 
+(ii) NIIF emitidas internacionalmente pero no vigentes al 31 de diciembre de 2025: 
+ 
+- NIIF 18 “Presentación y Revelación en los Estados Financieros” La Norma entrará 
+en vigencia para los periodos anuales que inicien a partir del 1 de enero de 2027, 
+se permite la aplicación anticipada siempre y cuando se revele este hecho. 
+ 
+- NIIF 19 “Subsidiarias sin Obligación Pública de Rendir Cuentas: Información a 
+Revelar” La Norma entrará en vigencia para los periodos anuales que inicien a 
+partir del 1 de enero de 2027, se permite la aplicación anticipada siempre y cuando 
+se revele este hecho. 
+ 
+Tal como se indica en la nota 2(a), las normas e interpretaciones antes detalladas en (i) y (ii), sólo 
+serán aplicables al Banco en forma supletoria a las indicadas por la SBS, cuando se presenten 
+situaciones no previstas en el Manual de Contabilidad. La Gerencia del Banco no ha determinado 
+el efecto en la preparación de sus estados financieros consolidados debido a que dichas normas 
+no han sido adoptadas por la SBS. 
+  
+
+=== PAGINA PDF 20 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+5 
+3. Principios y prácticas contables  
+En la preparación y presentación de los estados financieros separados adjuntos, la Gerencia del Banco 
+ha observado el cumplimiento de las normas de la SBS vigentes en el Perú. Los principios y prácticas 
+contables al 31 de diciembre de 2025 no han variado significativamente respecto de los principios 
+seguidos al 31 de diciembre de 2024 resumidos en el informe de auditoría de fecha 27 de febrero de 
+2025. 
+ 
+(a) Instrumentos financieros - 
+Reconocimiento de instrumentos financieros 
+Los instrumentos financieros se definen como cualquier contrato que da lugar, de manera 
+simultánea a un activo financiero en una empresa y a un pasivo financiero o a un instrumento de 
+capital en otra empresa. 
+ 
+Los instrumentos financieros se reconocen en la fecha en que son originados (fecha de 
+negociación) y se clasifican como activos, pasivos o patrimonio, según la sustancia del acuerdo 
+contractual que les dio origen. Los intereses, dividendos, ganancias y pérdidas generadas por un 
+instrumento financiero clasificado como activo o pasivo se registran como ingresos o gastos en el 
+estado separado de resultados. Los pagos a los tenedores de los instrumentos financieros 
+clasificados como patrimonio se registran afectando de manera directa el patrimonio. 
+ 
+Las ganancias originadas por la transferencia de cartera de créditos se reconocen como ingreso.  
+Las pérdidas originadas por transferencia de cartera se reconocen en el momento de la 
+transferencia. Por otro lado, en el caso de ganancias por transferencias mediante permuta, o 
+financiadas, dichas ganancias se reconocen como ingreso diferido, y se devenga en función a los 
+ingresos dinerarios que se obtengan de la realización de los bienes recibidos en permuta, o en 
+forma proporcional a la percepción del pago del adquirente de la cartera crediticia transferida. Al 
+31 de diciembre de 2025 y de 2024, el Banco no mantiene ingresos diferidos por transferencia 
+mediante permutas. 
+ 
+Clasificación de instrumentos financieros: 
+El Banco clasifica sus instrumentos financieros en el momento del reconocimiento inicial y sobre 
+la base de instrumento por instrumento, en las siguientes categorías, según lo establecido en el 
+Manual de Contabilidad: a valor razonable con cambios en resultados, créditos y cuentas por 
+cobrar, disponibles para la venta, mantenidos hasta su vencimiento, a costo amortizado, y otros 
+pasivos. 
+ 
+La clasificación de los instrumentos financieros en su reconocimiento inicial depende de la 
+intención de la Gerencia al adquirirlos y de sus características. Todos los instrumentos 
+financieros son reconocidos al inicio a su valor razonable más los costos incrementales 
+relacionados con la transacción que sean atribuibles de manera directa a la compra o emisión del 
+instrumento, excepto en el caso de los activos o pasivos financieros llevados a valor razonable 
+con cambios en resultados. 
+  
+
+=== PAGINA PDF 21 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+6 
+Baja de activos y pasivos financieros: 
+El Banco reconoce la baja en cuentas de un activo financiero cuando: (i) expiran los derechos 
+contractuales sobre los flujos de efectivo del activo financiero; (ii) cuando transfiere su derecho 
+contractual de recibir flujos de efectivo del activo o asume la obligación de pagar la totalidad de 
+los flujos de efectivo recibidos de manera inmediata a un tercero mediante un acuerdo de 
+traspaso; o (iii) cuando transfiere de manera sustancial los riesgos y beneficios inherentes a la 
+propiedad del activo financiero a otra entidad. 
+ 
+El Banco reconoce una baja en cuentas de un pasivo financiero cuando la obligación de pago 
+termina, se cancela o expira. Cuando un pasivo financiero existente es reemplazado por otro del 
+mismo prestatario en condiciones diferentes, o las condiciones son modificadas de forma 
+significativa, dicho reemplazo o modificación se trata como una baja del pasivo original y se 
+reconoce un nuevo pasivo, la diferencia entre ambos se reconoce en el estado separado de 
+resultados. 
+ 
+Deterioro de activos financieros: 
+El deterioro de los activos financieros y las provisiones por deterioro que corresponden son 
+evaluados y registrados por el Banco de acuerdo con las normas de la SBS. Un activo financiero o 
+un grupo de activos financieros se considera afectado si existe evidencia objetiva de deterioro 
+como resultado de uno o más eventos que hayan ocurrido después del reconocimiento inicial del 
+activo (evento de pérdida), y si dicho evento de pérdida tiene un impacto en los flujos de efectivo 
+futuros estimados del activo financiero o del grupo de activos financieros, que pueda ser 
+estimado de manera confiable. La pérdida por deterioro es reconocida en el estado separado de 
+resultados. 
+ 
+Compensación de instrumentos financieros: 
+Los instrumentos financieros se compensan cuando el Banco tiene el derecho legal de 
+compensarlos y la Gerencia tiene la intención de cancelarlos sobre una base neta, o de realizar el 
+activo y cancelar el pasivo de manera simultánea. 
+ 
+(b) Instrumentos financieros derivados - 
+De acuerdo con la Resolución SBS N° 1737-2006 “Reglamento para la Negociación y 
+Contabilización de Productos Financieros Derivados en las Empresas del Sistema Financiero” y 
+sus modificatorias, los instrumentos financieros derivados se registran en la fecha de 
+negociación. 
+ 
+Instrumentos financieros derivados para negociación: 
+Al inicio, los instrumentos financieros derivados para negociación son reconocidos en el estado 
+separado de situación financiera al costo, posteriormente son medidos a su valor razonable. 
+  
+
+=== PAGINA PDF 22 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+7 
+Las operaciones a futuro de moneda extranjera (“forwards”), las operaciones de intercambio de 
+tasa de interés o de moneda (“swaps”) y las opciones se registran a su valor estimado de 
+mercado, reconociéndose un activo o pasivo en el estado separado de situación financiera, según 
+corresponda, y la ganancia o pérdida por la valorización o liquidación en el resultado del año. El 
+valor nominal de los instrumentos financieros derivados es registrado en la moneda 
+comprometida o pactada, en cuentas contingentes y/o de orden. 
+  
+Instrumentos financieros derivados de cobertura: 
+Un instrumento financiero derivado de cobertura es registrado como tal si, en la fecha de 
+negociación, se prevé que los cambios en su valor razonable o en los flujos de efectivo que 
+genere serán altamente efectivos en compensar los cambios generados en la partida cubierta, 
+durante el plazo de cobertura. De acuerdo con la Resolución SBS N° 1737-2006 y modificatorias, 
+una cobertura es considerada altamente efectiva si se espera que los cambios en el valor 
+razonable o en los flujos de efectivo del instrumento cubierto y del utilizado como cobertura 
+estén dentro de un rango de 80% a 125% de efectividad para reducir el riesgo asociado con la 
+exposición cubierta. 
+ 
+En caso la SBS considere insatisfactoria la documentación o encuentre debilidades en la 
+metodología empleada para medir si la cobertura es efectiva, puede requerir su disolución, y el 
+registro del producto financiero derivado como de negociación. 
+ 
+(i) Cobertura de valor razonable - 
+Los cambios en el valor razonable del instrumento financiero derivado de cobertura y de 
+la partida cubierta, desde el momento de designación de la cobertura y siempre que esta 
+sea eficaz, son reconocidos en el estado separado de resultados. 
+ 
+Los cambios en el valor razonable de la partida cubierta (ganancia o pérdida en la 
+valorización) son registrados como cuentas por cobrar o cuentas por pagar, según 
+corresponda, en el estado separado de situación financiera. 
+ 
+(ii) Cobertura de flujos de efectivo - 
+Las coberturas de flujos de efectivo son valorizadas y reconocidas a su valor razonable, 
+pudiendo impactar tanto cuentas patrimoniales como cuentas de resultados. La parte 
+efectiva del ajuste a su valor razonable se reconoce en cuentas patrimoniales (del estado 
+separado de resultados integrales). La parte inefectiva se reconoce en el estado separado 
+de resultados. 
+ 
+Para ambos tipos de cobertura, si el derivado vence, es vendido, finaliza o se ejecuta, o deja de 
+cumplir con los criterios para la contabilidad de cobertura, la relación de cobertura termina de 
+manera prospectiva y los saldos registrados en el estado separado de situación financiera y en el 
+estado separado de resultados y otro resultado integral, según corresponda, son transferidos al 
+estado separado de resultados en el plazo de la vigencia de la partida cubierta. 
+  
+
+=== PAGINA PDF 23 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+8 
+(c) Inversiones - 
+El Banco aplica los criterios de registro y valorización de las inversiones en valores establecidos 
+en la Resolución SBS N° 7033-2012 “Reglamento de Clasificación y Valorización de las 
+Inversiones de las Empresas del Sistema Financiero” y modificatorias, según se detalla a 
+continuación: 
+ 
+(i) Inversiones a valor razonable con cambios en resultados - 
+Los valores mobiliarios representativos de capital y/o deuda son clasificados como 
+inversiones a valor razonable con cambios en resultados si han sido adquiridos 
+principalmente con la intención de negociarlos en un futuro cercano, o forman parte de un 
+grupo de valores que se manejan como una cartera, que evidencian que en el corto plazo 
+tienen un patrón de toma de ganancias o han sido designados en esta categoría desde su 
+registro inicial. 
+ 
+El registro inicial de estas inversiones se efectúa a valor razonable sin considerar los 
+costos de transacción, los cuales son reconocidos como gasto en los resultados del año. 
+Posteriormente, se miden a su valor razonable y la ganancia o pérdida por la valorización 
+o venta de estos activos financieros, se registra en los resultados del año. 
+ 
+Los ingresos por intereses de esta categoría de inversiones son reconocidos mediante el 
+método de la tasa de interés efectiva. Los dividendos son reconocidos en el estado 
+separado de resultados cuando se establece el derecho a recibir el pago. 
+ 
+Las inversiones a valor razonable con cambios en resultados que son entregadas en 
+garantía deben ser reclasificadas como inversiones disponibles para la venta. Al concluir 
+estas operaciones, las inversiones deberán ser reclasificadas a su categoría inicial, 
+transfiriéndose los resultados no realizados del patrimonio al estado separado de 
+resultados integrales. 
+ 
+(ii) Inversiones mantenidas hasta su vencimiento - 
+En esta categoría se incluyen los instrumentos de deuda cuyos cobros son de cuantía fija o 
+determinable y cuyos vencimientos son fijos, y que además cumplen con los siguientes 
+requisitos: i) han sido adquiridos o reclasificados con la intención de mantenerlos hasta su 
+fecha de vencimiento; ii) el Banco deberá tener la capacidad financiera para mantenerlos 
+hasta su vencimiento; y iii) son instrumentos distintos de los que, en el momento del 
+reconocimiento inicial, el Banco haya designado para ser contabilizados a su valor 
+razonable con cambios en resultados o como activos disponibles para la venta. 
+ 
+Asimismo, deberán estar clasificado por al menos dos clasificadoras de riesgo locales o del 
+exterior y las calificaciones deberán estar dentro de los parámetros establecidos por la 
+SBS, quedando excluidos de este requerimiento los instrumentos de Bancos Centrales de 
+países cuya deuda soberana reciba como mínimo la clasificación que corresponde a la 
+deuda soberana de Perú. 
+
+=== PAGINA PDF 24 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+9 
+El registro contable inicial de estos activos financieros se efectúa a valor razonable, 
+incluyendo los costos de transacción que sean atribuibles de manera directa a la 
+adquisición. 
+ 
+La medición posterior de estas inversiones se efectúa a costo amortizado, utilizando el 
+método de la tasa de interés efectiva. Cualquier pérdida por deterioro de valor es 
+reconocida en el estado separado de resultados. 
+ 
+(iii) Inversiones disponibles para la venta - 
+En esta categoría se incluyen todos los instrumentos de inversión que no estén 
+clasificados como inversiones a valor razonable con cambios en resultados, inversiones a 
+vencimiento o inversiones en subsidiarias y asociadas y participaciones en negocios 
+conjuntos. Asimismo, se incluirán todos los valores que por norma expresa la SBS señale. 
+ 
+El registro inicial de estas inversiones se efectúa a valor razonable, incluyendo los costos 
+de transacción que sean directamente atribuibles a la adquisición. La medición posterior 
+de estas inversiones se efectúa a valor razonable; en el caso de instrumentos 
+representativos de capital que no cuenten con precios cotizados en mercados activos y 
+cuyo valor razonable no pueda ser estimado de manera confiable, deben medirse al costo. 
+Asimismo, en el caso de instrumentos representativos de deuda, previo a la medición a 
+valor razonable, debe actualizarse contablemente su costo amortizado, y a partir de éste 
+debe reconocerse la ganancia o pérdida por los cambios en el valor razonable. 
+ 
+La ganancia o pérdida originada por la fluctuación del valor razonable de las inversiones 
+disponibles para la venta, se reconoce de manera directa en el patrimonio hasta que el 
+instrumento sea vendido o realizado, momento en el cual la ganancia o pérdida que 
+hubiese sido reconocida previamente en el patrimonio es transferida y registrada en el 
+resultado del año, excepto las pérdidas por deterioro de valor que se registran en los 
+resultados cuando se presentan. 
+ 
+Si una inversión disponible para la venta ha sufrido un deterioro de valor, la pérdida debe 
+ser reconocida en el resultado del ejercicio. Dicha pérdida por deterioro se calcula como 
+sigue: 
+ 
+- Instrumentos representativos de deuda: Diferencia entre su costo amortizado y su 
+valor razonable menos cualquier pérdida por deterioro previamente reconocida en 
+el resultado del ejercicio o de ejercicios anteriores. 
+- Instrumentos representativos de capital: Diferencia entre su costo de adquisición y 
+su valor razonable, menos cualquier deterioro que haya sido reconocido 
+previamente en el resultado del ejercicio o de ejercicios anteriores. En el caso de 
+instrumentos de capital no negociados en un mercado activo que se miden al costo, 
+el importe de la pérdida es la resultante de la diferencia entre su costo de 
+adquisición y el valor presente de los flujos de caja futuros esperados descontados 
+a la tasa de rentabilidad de mercado para valores similares. 
+ 
+
+=== PAGINA PDF 25 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+10 
+Las ganancias o pérdidas por diferencia de cambio relacionadas con instrumentos 
+representativos de capital se reconocen en la cuenta “Resultados no realizados” del 
+patrimonio, mientras que aquellas relacionadas con instrumentos representativos de 
+deuda se reconocen en el resultado del período. 
+ 
+Los ingresos por intereses de las inversiones disponibles para la venta son reconocidos 
+utilizando el método de la tasa de interés efectiva, considerando el plazo del instrumento. 
+Las primas o descuentos derivados de la compra son considerados en el cálculo de la tasa 
+de interés efectiva. 
+ 
+Los dividendos son reconocidos en el estado separado de resultados cuando se establece 
+el derecho a recibir el pago. 
+ 
+Evaluación de deterioro – 
+La Resolución SBS N° 7033-2012 y sus respectivas modificatorias, establecen una metodología 
+estándar para la identificación del deterioro de valor de inversiones disponibles para la venta e 
+inversiones a vencimiento. Dicha metodología es aplicada trimestralmente a todos los 
+instrumentos representativos de deuda y capital de la siguiente manera: 
+ 
+(I) Instrumentos de deuda: 
+Al cierre de cada trimestre, para toda la cartera representativa de deuda, se deberá 
+evaluar las siguientes ocurrencias: 
+ 
+1. Debilitamiento en la situación financiera o ratios financieros del emisor y de su 
+grupo económico.  
+2. Rebaja en cualquiera de las clasificaciones crediticias del instrumento o del emisor, 
+en al menos dos (02) “notches”, desde el momento que se adquirió el instrumento; 
+donde un “notch” corresponde a la diferencia mínima entre dos calificaciones de 
+riesgo dentro de una misma escala de calificación. 
+3. Interrupción de transacciones o de un mercado activo para el activo financiero, 
+debido a dificultades financieras del emisor.  
+4. Los datos observables indican que, desde su reconocimiento inicial de un grupo de 
+activos financieros con características similares al instrumento evaluado, existe 
+una disminución medible en sus flujos futuros estimados de efectivo, aunque no 
+pueda todavía identificársela con activos financieros individuales del grupo.  
+5. Disminución del valor por cambios normativos (impositivos, regulatorios u otros 
+gubernamentales).  
+6. Disminución significativa del valor razonable por debajo de su costo amortizado. Se 
+considera como una disminución significativa si el valor razonable a la fecha de 
+cierre ha disminuido por lo menos 40% por debajo de su costo amortizado a dicha 
+fecha. 
+7. Disminución prolongada en el valor razonable. Se considera como una disminución 
+prolongada si el valor razonable a la fecha de cierre ha disminuido por lo menos 
+20% en comparación con el costo amortizado de doce (12) meses atrás y, el valor 
+razonable a la fecha de cierre de cada mes durante el periodo de doce (12) meses 
+previos, se ha mantenido siempre por debajo del costo amortizado correspondiente 
+a la fecha de cierre de cada mes.   
+ 
+
+=== PAGINA PDF 26 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+11 
+El valor razonable a utilizar a efectos de evaluar los criterios 6 y 7 es aquel considerado para 
+efectos de la valorización de los instrumentos de deuda disponibles para la venta, de acuerdo a 
+los criterios establecidos por la indicada Resolución, independientemente de la clasificación 
+contable que tenga el instrumento de deuda. Sin embargo, si el descenso en el valor razonable en 
+el instrumento representativo de deuda es consecuencia íntegramente de un incremento en el 
+tipo de interés libre de riesgo, este descenso no debe considerarse como indicio de deterioro. 
+ 
+En caso se cumplan por lo menos dos (2) de las situaciones anteriormente descritas, se 
+considerará que existe deterioro de valor. En caso no se hayan dado por lo menos dos (2) de las 
+situaciones arriba descritas, bastará con que se presente alguna de las siguientes situaciones 
+específicas para considerar que existe deterioro:  
+  
+(a) Incumplimiento de las cláusulas contractuales, tales como la interrupción en el pago de 
+intereses o capital.  
+(b) Renegociación de las condiciones contractuales del instrumento por factores legales o 
+problemas financieros vinculados al emisor.  
+(c) Evidencia que el emisor está en proceso de reestructuración forzosa o quiebra.  
+(d) Cuando se reduzca la clasificación de riesgo de un instrumento que estaba clasificado 
+como grado de inversión, hacia una clasificación que resulte por debajo del grado de 
+inversión.  
+ 
+(II) Instrumento de capital: 
+Al cierre de cada trimestre, para todos los instrumentos representativos de capital, se 
+deberá evaluar las siguientes ocurrencias: 
+ 
+1. Cuando se reduzca la clasificación de riesgo de algún instrumento de deuda del 
+emisor que estaba clasificado como grado de inversión, hacia una clasificación que 
+resulte por debajo del grado de inversión. 
+2. Se han producido cambios significativos en el entorno tecnológico, de mercado, 
+económico o legal en que opera el emisor, que pueden tener efectos adversos en la 
+recuperación de la inversión. 
+3. Debilitamiento en la situación o ratios financieros del emisor y de su grupo 
+económico. 
+4. Interrupción de transacciones o de un mercado activo para el activo financiero, 
+debido a dificultades financieras del emisor. 
+5. Los datos observables indican que, desde su reconocimiento inicial de un grupo de 
+activos financieros similares al instrumento evaluado, existe una disminución 
+medible en sus flujos futuros estimados de efectivo, aunque no pueda todavía 
+identificársela con activos financieros individuales del grupo. 
+6. Disminución del valor por cambios normativos (impositivos, regulatorios u otros 
+gubernamentales). 
+  
+
+=== PAGINA PDF 27 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+12 
+En caso se cumplan por lo menos dos (2) de las situaciones anteriormente descritas, se 
+considerará que existe deterioro de valor. En caso no se hayan dado por lo menos dos (2) 
+de las situaciones arriba descritas, bastará con que se presente alguna de las siguientes 
+situaciones específicas para considerar que existe deterioro:  
+ 
+(a) Disminución significativa del valor razonable por debajo de su costo de adquisición. 
+Se considera como una disminución significativa si el valor razonable a la fecha de 
+cierre ha disminuido por lo menos 40% por debajo de su costo. Como valor costo o 
+costo de adquisición, siempre se tomará como referencia el costo inicial, 
+independientemente que se haya reconocido previamente un deterioro de valor 
+para el instrumento de capital analizado.  
+(b) Disminución prolongada en el valor razonable. Se considera como una disminución 
+prolongada si el valor razonable a la fecha de cierre ha disminuido por lo menos 
+20% en comparación con el valor razonable de doce (12) meses atrás y, el valor 
+razonable a la fecha de cierre de cada mes durante el periodo de doce (12) meses 
+previos, se ha mantenido siempre por debajo del costo de adquisición.  
+(c) Incumplimiento de las disposiciones estatutarias por parte del emisor, relacionadas 
+al pago de dividendos.  
+(d) Evidencia de que el emisor está en proceso de reestructuración forzosa o quiebra.  
+ 
+El valor razonable a utilizar a efectos de evaluar las situaciones señaladas en los 
+numerales a) y b), es el valor razonable considerado para efectos de la valorización de los 
+instrumentos de capital disponibles para la venta, de acuerdo a lineamientos establecidos 
+en la indicada Resolución. Los citados numerales (a) y (b) no son aplicables a los 
+instrumentos de capital clasificados en la categoría disponible para la venta y valorizado al 
+costo por la ausencia de un valor razonable confiable.  
+ 
+Por otro lado, si la SBS considera que es necesario constituir alguna provisión adicional 
+para cualquier tipo de inversión, dicha provisión será determinada en base a cada título 
+individual y deberá ser registrada en el resultado del ejercicio en que la SBS solicite dicha 
+provisión. 
+ 
+Reconocimiento de las diferencias de cambio – 
+Las ganancias o pérdidas por diferencias de cambio relacionadas al costo amortizado de 
+instrumentos representativos de deuda afectan el resultado del ejercicio y las relacionadas con la 
+diferencia entre el costo amortizado y el valor razonable se registran como parte de la ganancia o 
+pérdida no realizada en el patrimonio.  
+ 
+En el caso de los instrumentos representativos de capital, éstos se consideran partidas no 
+monetarias, por lo que las diferencias de cambio son parte de su valorización y se reconocen en 
+los resultados no realizados en el patrimonio.  
+  
+
+=== PAGINA PDF 28 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+13 
+Cambios en la categoría de clasificación – 
+En el caso de cambios de categorías de inversiones disponibles para la venta hacia inversiones a 
+vencimiento, el importe en libros del valor razonable del instrumento de inversión en la fecha del 
+cambio se convertirá en su nuevo costo amortizado. Cualquier resultado anterior de ese 
+instrumento, que previamente se hubiera reconocido directamente en el patrimonio, se llevará al 
+resultado del periodo a lo largo de la vida restante de la inversión mantenida hasta el 
+vencimiento, utilizando el método de la tasa de interés efectiva. Cualquier diferencia entre el 
+nuevo costo amortizado y el importe al vencimiento se amortizará también a lo largo de la vida 
+restante del instrumento de inversión utilizando el método de la tasa de interés efectiva, de 
+forma similar a la amortización de una prima o un descuento. Si el instrumento de inversión 
+sufriese posteriormente un deterioro en el valor, cualquier ganancia o pérdida que hubiera sido 
+reconocida directamente en el patrimonio se transferirá y reconocerá en el resultado del periodo. 
+Durante los años 2025 y 2024, el Banco no realizó reclasificaciones. 
+ 
+(d) Participación en subsidiarias y asociadas - 
+Comprenden los valores representativos de capital adquiridos con el fin de participar 
+patrimonialmente y de tener el control en subsidiarias o influencia significativa en asociadas. 
+ 
+Al inicio, estas inversiones se registran a su valor razonable, incluyendo los costos atribuibles en 
+forma directa a la adquisición; y posteriormente se miden aplicando el método de participación 
+patrimonial.  
+ 
+Para fines del estado financiero separado, el exceso entre la contraprestación pagada y el valor 
+razonable de los activos identificables adquiridos y los pasivos asumidos en la fecha de 
+adquisición es reconocido como el valor en libros de la inversión en subsidiarias, y es evaluado 
+por deterioro como parte de la inversión.  En caso el valor razonable de la inversión exceda la 
+contraprestación pagada, dicho importe es reconocido como ganancia en el estado separado de 
+resultados.  Para fines del estado financiero consolidado, dicho exceso, es reconocido como 
+crédito mercantil. 
+ 
+Cuando se identifique que una o más de las inversiones en subsidiarias y asociadas ha sufrido 
+deterioro en su valor, dicho deterioro corresponderá a la diferencia entre el valor en libros de la 
+participada y el importe recuperable de la inversión, siguiendo los lineamientos de la NIC 36 
+“Deterioro del Valor de los Activos”. El importe en libros de la inversión se reducirá hasta que 
+alcance su valor recuperable; la pérdida por deterioro del valor se reconocerá de manera 
+inmediata en el estado separado de resultados. 
+ 
+De acuerdo con el método de participación patrimonial, los dividendos declarados por las 
+subsidiarias en efectivo se registran disminuyendo el valor de la inversión. 
+  
+
+=== PAGINA PDF 29 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+14 
+(e) Créditos y provisiones para créditos - 
+Los créditos directos se registran cuando se realiza el desembolso de los fondos a favor de los 
+clientes. Los créditos indirectos (contingentes) se registran cuando se emiten los documentos 
+que soportan dichas facilidades de crédito. 
+ 
+Las operaciones de arrendamiento financiero se contabilizan bajo el método financiero, 
+registrándose como créditos el capital de las cuotas de arrendamiento pendientes de cobro. Los 
+ingresos financieros se registran sobre la base del devengado de acuerdo con los términos del 
+contrato de arrendamiento financiero. Los costos directos iniciales se reconocen de manera 
+inmediata como gasto. 
+ 
+(i) Tipos de crédito - 
+De acuerdo con la Resolución SBS N°11356-2008, la clasificación de los créditos por tipo 
+es la siguiente: créditos corporativos, créditos a grandes empresas, créditos a medianas 
+empresas, créditos a pequeñas empresas, créditos a microempresas, créditos de consumo 
+revolvente, créditos de consumo no revolvente y créditos hipotecarios para vivienda. Esta 
+clasificación toma en consideración la naturaleza del cliente, el propósito del crédito, el 
+tamaño del negocio medido por los ingresos, endeudamiento, entre otros. 
+ 
+(ii) Situación contable de los créditos - 
+De acuerdo con el Manual de Contabilidad, los créditos directos presentan la siguiente 
+clasificación según su situación: 
+ 
+Créditos vigentes: 
+Son créditos otorgados en sus distintas modalidades, cuyos pagos se encuentran al día, de 
+acuerdo con lo pactado. 
+ 
+Créditos reestructurados: 
+Son aquellos créditos o financiamientos directos, cualquiera sea su modalidad, sujeto a la 
+reprogramación de pagos aprobada en el proceso de reestructuración, de concurso 
+ordinario o preventivo, según sea el caso, conforme a la Ley General del Sistema 
+Concursal aprobada mediante la Ley Nº 27809. 
+ 
+Créditos refinanciados: 
+Son aquellos créditos, en sus distintas modalidades, en los que se producen variaciones de 
+plazo y/o monto del contrato original que obedecen a dificultades en la capacidad de pago 
+del deudor. 
+ 
+Créditos vencidos: 
+Son aquellos créditos que no han sido cancelados o amortizados por los obligados en la 
+fecha de vencimiento. Incluye los créditos originados por los importes desembolsados por 
+el Banco ante el incumplimiento del cliente, por operaciones cuyo pago ha sido 
+garantizado por el Banco y/o por cartas de crédito emitidas y confirmadas asumidas por el 
+Banco. 
+ 
+
+=== PAGINA PDF 30 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+15 
+Los plazos para que un crédito pase de situación vigente a vencido se presentan a 
+continuación: 
+ 
+Tipo de crédito / Producto Días de atraso 
+  
+Créditos soberanos, a bancos multilaterales de 
+desarrollo, a entidades del sector público, a 
+intermediarios de valores, a empresas del 
+sistema financiero, corporativos, a grandes 
+empresas y a medianas empresas. 
+ 
+Después de quince (15) días calendario del 
+vencimiento de cualquiera de las cuotas 
+pactadas. 
+Créditos a pequeñas empresas y a 
+microempresas. 
+Después de treinta (30) días calendario del 
+vencimiento de cualquiera de las cuotas 
+pactadas. 
+ 
+Créditos de Consumo (revolvente y no 
+revolvente) e hipotecario para vivienda, 
+arrendamiento financiero y contratos de 
+capitalización inmobiliaria, independientemente 
+del tipo de crédito. 
+Tratamiento escalonado. 
+Después de los treinta (30) días calendario de 
+no haber pagado a la fecha pactada, se 
+considerará vencida sólo la porción no pagada; 
+mientras que después de los noventa (90) días 
+calendario de incumplimiento en cualquiera de 
+las cuotas pactadas, se considerará vencida la 
+totalidad de la deuda. 
+ 
+Sobregiros en cuenta corriente, 
+independientemente del monto y tipo de crédito. 
+A partir del trigésimo primer día (31) 
+calendario de otorgado el sobregiro. 
+ 
+Créditos en cobranza judicial: 
+Son créditos por los que la empresa ha iniciado las acciones judiciales de cobro. La 
+demanda de cobranza por la vía judicial, a menos que existan razones técnicas y legales, 
+se inicia dentro del plazo de noventa (90) días calendario de haber registrado 
+contablemente el crédito como vencido. 
+ 
+Créditos reprogramados: 
+Mediante Oficio Múltiple N° 5345-2010-SBS la SBS ha definido que, en determinadas 
+situaciones, es esperable que se incremente la volatilidad de los ingresos de los deudores, 
+pudiendo generarse un desfase entre sus flujos de caja esperados y los cronogramas de 
+pago originalmente pactados. En la medida que estos eventos o situaciones sean de 
+carácter temporal y no comprometa la viabilidad del deudor, una adecuación de las 
+condiciones contractuales originalmente pactadas no debería representar una pérdida de 
+capacidad de pago del cliente, por tanto, dichas modificaciones no constituyen una 
+refinanciación.  
+  
+
+=== PAGINA PDF 31 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+16 
+En caso la volatilidad de los ingresos afecte de manera estructural la viabilidad del deudor, 
+o éste presenta atrasos en sus pagos, se considerará que las modificaciones en las 
+condiciones contractuales responden al deterioro de su capacidad de pago y las 
+modificaciones contractuales deberán ser consideradas refinanciaciones. 
+ 
+Asimismo, mediante Oficio N° 63223-2023-SBS del 6 de noviembre de 2023, la SBS 
+precisó que existen dos tipos de reprogramaciones según el tipo de evaluación crediticia: 
+ 
+1. Reprogramaciones con evaluación individual: Acorde con el Oficio Múltiple N°5345-
+2010-SBS, estos casos deben ser evaluado por las empresas del sistema financiero 
+de forma individual y sustentar su decisión incorporando las evaluaciones de 
+riesgos y la documentación respectiva en el expediente del deudor, la cual debe 
+estar a disposición de la SBS.  
+ 
+El Oficio N° 63223-2023-SBS, precisa además que la sola aceptación del cliente, 
+sin evaluar el grado de afectación del flujo de caja del deudor, no se considera 
+criterio suficiente para definir una reprogramación como individual.  
+ 
+2. Reprogramaciones con evaluación de portafolio (masiva): Incluye 
+reprogramaciones tanto unilaterales como con conformidad del cliente, basadas en 
+una evaluación de portafolio, en cumplimiento de los requisitos establecidos en el 
+oficio múltiple en el marco del cual se realizan las reprogramaciones. 
+ 
+A la fecha, las reprogramaciones cuyos saldos se mantienen en el estado separado 
+de situación financiera corresponden a: 
+ 
+(a) Emergencia Sanitaria por COVID-19, en el marco de los Oficios Múltiples 
+N°10997-2020-SBS, N° 11150-2020-SBS, N° 11170-2020-SBS, N° 
+12679-2020-SBS, N° 13195-2020-SBS, N° 13805-2020, N°14355-2020-
+SBS, N° 15944-2020, Nº 19109-2020, N°13613-2021-SBS, N°6302-
+2021-SBS, y N°08441-2023-SBS.  
+(b) Conflictos sociales, en el marco de los Oficios Múltiples N° 54961-2022-
+SBS, N° 03140-2023-SBS, N° 03583-2023-SBS, N° 09702-2023-SBS, N° 
+11235-2023-SBS y N° 17305-2023-SBS. 
+(c) Estados de emergencia dictados por el Estado Peruano a partir del 15 de 
+marzo de 2023 en el marco del Oficio N° 12174-2023-SBS. 
+(d) Reprogramaciones con evaluación individual, acorde con el Oficio Múltiple 
+N°5345-2010-SBS. 
+ 
+Cabe precisar que los oficios citados en los literales a) y b) que permitían esas 
+reprogramaciones se encuentran derogados a la fecha, encontrándose vigente sólo 
+las reprogramaciones que puedan darse en el marco del Oficio N° 12174-2023-
+SBS y Oficio Múltiple N°5345-2010-SBS. 
+  
+
+=== PAGINA PDF 32 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+17 
+(iii) Categorías de clasificación por riesgo crediticio - 
+Las categorías de clasificación del deudor por riesgo crediticio establecidas por la SBS son 
+las siguientes: Normal, con Problema Potencial (CPP), Deficiente, Dudoso y Pérdida; las 
+cuales son asignadas de acuerdo con el comportamiento crediticio del deudor. 
+ 
+La clasificación de los deudores de la cartera de créditos no minorista (corporativos, 
+grandes empresas y medianas empresas) es determinada principalmente por la capacidad 
+de pago del deudor, su flujo de caja, el grado de cumplimiento de sus obligaciones, las 
+clasificaciones asignadas por las demás empresas del Sistema Financiero, su situación 
+financiera, y la calidad de la dirección de la empresa. La clasificación de los deudores de la 
+cartera de créditos minorista (pequeña empresa, microempresa, consumo revolvente, 
+consumo no revolvente e hipotecario para vivienda) es determinada en función al grado 
+de cumplimiento del deudor en el pago de sus créditos, reflejado en los días de atraso, y 
+en su clasificación en otras empresas del Sistema Financiero. En adición, en cumplimiento 
+de la Resolución SBS N°041-2005 y modificatoria, el Banco evalúa la exposición al riesgo 
+cambiario crediticio para los créditos en moneda extranjera. 
+ 
+(iv) Provisión para créditos - 
+La provisión para incobrabilidad de la cartera de créditos se determina de acuerdo con los 
+criterios establecidos en la Resolución SBS Nº11356-2008 “Reglamento para la 
+Evaluación y Clasificación del Deudor y la Exigencia de Provisiones”. 
+ 
+De acuerdo con las normas vigentes, el Banco considera dos clases de provisiones para la 
+cartera de créditos: la provisión genérica y la provisión específica. La provisión genérica 
+se registra de manera preventiva para los créditos directos e indirectos calificados como 
+normales, en adición, se registra un componente procíclico, cuando la SBS indica su 
+aplicación. En el Banco, la provisión genérica incluye además provisiones voluntarias. 
+ 
+La provisión voluntaria es determinada considerando lo siguiente: la situación económica 
+de los deudores que conforman la cartera de créditos de alto riesgo (créditos vencidos, en 
+cobranza judicial, reprogramados, refinanciados y reestructurados), la experiencia previa 
+y otros factores que, a criterio de la Gerencia, ameriten el reconocimiento actual de 
+posibles pérdidas en la cartera de créditos. El importe de provisiones voluntarias es 
+informado en forma periódica a la SBS. 
+ 
+La provisión específica es aquella que se constituye sobre los créditos directos y la 
+exposición equivalente a riesgo crediticio de los créditos indirectos de deudores a los que 
+se ha clasificado en una categoría de riesgo superior a la categoría normal. 
+  
+
+=== PAGINA PDF 33 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+18 
+La exposición equivalente a riesgo crediticio de los créditos indirectos es determinada 
+multiplicando la base de créditos indirectos por los siguientes Factores de Conversión 
+Crediticia (FCC): 
+ 
+Descripción FCC (%) 
+(a) Confirmaciones de cartas de crédito irrevocables de hasta un año, cuando el 
+banco emisor sea una empresa del Sistema Financiero del exterior, de primer 
+nivel. 
+20 
+(b) Los avales, cartas de crédito de importación, cartas fianza que respalden el 
+cumplimiento de obligaciones de pago asociadas a eventos de riesgo de 
+crédito, y las confirmaciones de cartas de crédito no incluidas en el literal 
+“a)”, así como las aceptaciones bancarias. 
+100 
+(c) Las cartas fianzas no incluidas en el literal “b)” 50 
+(d) Créditos concedidos no desembolsados y líneas de crédito no utilizadas. 0 
+(e) Otros créditos indirectos no contemplados en los literales anteriores. 100 
+ 
+Los requerimientos de provisión se determinan considerando la clasificación de riesgo del 
+deudor, si se cuenta con el respaldo de garantía o no, y en función del tipo de garantía 
+constituida. 
+ 
+Los porcentajes que se aplican para determinar la provisión para créditos son los 
+siguientes: 
+ 
+Categoría de riesgo 
+Sin 
+garantía 
+Con 
+garantías 
+preferidas 
+Con 
+garantías 
+preferidas 
+de muy 
+rápida 
+realización 
+Con garantías 
+preferidas 
+autoliquidables 
+     
+Normal     
+Créditos corporativos 0.70% 0.70% 0.70% 0.70% 
+Créditos a grandes empresas 0.70% 0.70% 0.70% 0.70% 
+Créditos a medianas empresas 1.00% 1.00% 1.00% 1.00% 
+Créditos a pequeñas empresas 1.00% 1.00% 1.00% 1.00% 
+Créditos a microempresas 1.00% 1.00% 1.00% 1.00% 
+Créditos de consumo revolvente 1.00% 1.00% 1.00% 1.00% 
+Créditos de consumo no revolvente 1.00% 1.00% 1.00% 1.00% 
+Créditos hipotecarios para vivienda 0.70% 0.70% 0.70% 0.70% 
+Problema potencial 5.00% 2.50% 1.25% 1.00% 
+Deficiente 25.00% 12.50% 6.25% 1.00% 
+Dudoso 60.00% 30.00% 15.00% 1.00% 
+Pérdida 100.00% 60.00% 30.00% 1.00% 
+ 
+Al 31 de diciembre de 2025 y de 2024, la regla procíclica para la provisión de la cartera 
+de créditos está desactivada, según Circular SBS N° B-2224-2014. 
+ 
+
+=== PAGINA PDF 34 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+19 
+Mediante Resolución SBS N° 3718-2021 que modificó el Reglamento para la Evaluación y 
+Clasificación del Deudor y la Exigencia de Provisiones”, se dispuso modificaciones a los 
+criterios para la activación de las provisiones procíclicas, estableciendo que la misma se 
+puede activar, bajo los lineamientos de la citada resolución, a partir del 30 de junio de 
+2024. Las tasas mínimas del componente procíclico son las siguientes: 
+ 
+Tipos de crédito 
+Componente 
+procíclico 
+  
+Créditos corporativos 0.10% 
+Créditos a grandes empresas 0.40% 
+Créditos a medianas empresas 0.60% 
+Créditos a pequeñas empresas 1.00% 
+Créditos a microempresas 1.00% 
+Créditos de consumo revolventes 1.50% 
+Créditos de consumo no revolventes 1.00% 
+Créditos hipotecarios para vivienda 0.40% 
+ 
+En caso los créditos cuenten con garantías preferidas auto liquidables, el componente 
+procíclico será 0% por la porción cubierta con dichas garantías. Para los créditos de 
+consumo no revolventes que cuenten con contratos referidos a convenios de descuento 
+por planilla de remuneraciones o de pensiones, y siempre que sean elegibles, el 
+componente procíclico será 0.25%. 
+ 
+Las empresas no podrán, en ningún caso, generar utilidades o generar mejores resultados 
+por la reversión de las provisiones, debiendo reasignarlas para la constitución de 
+provisiones específicas obligatorias. 
+ 
+Mediante Resolución SBS N° 1214-2023, se estableció que, de forma excepcional, resulta 
+aplicable una tasa de provisión por riesgo de crédito de 0% a la parte del crédito que 
+cuenta con la cobertura de los programas Reactiva Perú, FAE-MYPE e IMPULSO MYPERU.  
+ 
+(f) Inmuebles, mobiliario y equipo - 
+Los inmuebles, mobiliario y equipo se registran al costo histórico, que incluye los desembolsos 
+atribuibles a su adquisición, y se presentan netos de su depreciación y de las pérdidas por 
+deterioro acumuladas. La depreciación anual se reconoce como gasto y se determina sobre el 
+costo, siguiendo el método de línea recta en base a la vida útil estimada de los componentes de 
+los inmuebles, mobiliario y equipo, representada por tasas de depreciación equivalentes en la 
+siguiente tabla: 
+ 
+ Años 
+  
+Edificaciones e instalaciones 33 y 10 
+Instalaciones y mejoras en propiedades alquiladas Hasta 20 
+Mobiliario y equipos 10 y 4 
+Vehículos 5 
+
+=== PAGINA PDF 35 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+20 
+Las unidades por recibir y trabajos en curso se registran al costo y representan instalaciones, 
+mobiliarios y equipos por recibir o en construcción. Esto incluye el costo de adquisición o 
+construcción y otros costos directos. Estos bienes no se deprecian hasta que los activos 
+relevantes se reciban o terminen y estén operativos. 
+ 
+Los desembolsos incurridos después de que un componente de inmuebles, mobiliario y equipo ha 
+sido puesto en uso se capitalizan únicamente cuando pueden ser medidos de manera confiable y 
+es probable que tales desembolsos resulten en beneficios económicos futuros superiores al 
+rendimiento normal evaluado originalmente para dicho activo. 
+ 
+Los desembolsos para mantenimiento y reparaciones se reconocen como gasto del año en el que 
+son incurridos. Cuando un componente de inmuebles, mobiliario y equipo se vende o es retirado 
+del uso, su costo y depreciación acumulados se eliminan y la ganancia o pérdida resultante de la 
+venta se reconoce en el resultado del año. 
+ 
+El Banco reconoce una provisión por deterioro por el saldo contable de las instalaciones de 
+oficinas alquiladas cuyos contratos son cancelados o rescindidos antes de su vencimiento.  
+ 
+No está permitido para los bancos la aplicación del modelo de revaluación, siendo el modelo del 
+costo el único modelo de reconocimiento posterior aceptado. Asimismo, los bancos están 
+prohibidos de dar en garantía los bienes de sus inmuebles, mobiliario y equipo.  
+ 
+(g) Activos intangibles - 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición, y se 
+presentan neto de amortización acumulada y de cualquier pérdida acumulada por deterioro. La 
+amortización es reconocida como gasto y se determina siguiendo el método de línea recta en 
+base a la vida útil estimada de los activos. La vida útil de estos activos ha sido estimada entre 1 y 
+5 años. 
+ 
+Los costos asociados con el mantenimiento de programas de cómputo son reconocidos como 
+gasto cuando se incurren. Los costos de desarrollo de programas de cómputo únicos e 
+identificables, que probablemente generarán beneficios económicos, se reconocen como activos 
+intangibles. 
+ 
+(h) Deterioro de activos no financieros - 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo de 
+larga vida pueda no ser recuperable, la Gerencia revisa a cada fecha del estado separado de 
+situación financiera el valor en libros de estos activos. Si luego de este análisis resulta que su 
+valor en libros excede su valor recuperable, se reconoce una pérdida por deterioro en el estado 
+separado de resultados. Los importes recuperables se estiman para cada activo. 
+  

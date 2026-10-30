@@ -1,0 +1,13 @@
+moneda,anio_externo,alpha_completo_anterior,alpha_reducido_anterior,retirados_anterior,alpha_completo_revision,alpha_reducido_revision,retirados_revision,motivo_parada,seleccion_cambia
+D lares,2017,10000,1000,FCO_lag1;FCL_preliminar_lag1,10000,1000,FCO_lag1;FCL_preliminar_lag1,paso 3: ninguna de 24 retiradas es admisible; la de menor RMSE (FCO_lag2) mejora 0.55 % en 2 años internos,False
+D lares,2018,1000,1000,,1000,1000,FCL_preliminar_lag2,paso 2: ninguna de 25 retiradas es admisible; la de menor RMSE (FCL_preliminar_lag1) mejora 9.88 % en 1 años internos,True
+D lares,2019,1000,1000,FCL_preliminar_lag1;FCL_preliminar_lag2,1000,1000,FCL_preliminar_lag1;FCL_preliminar_lag2,paso 3: ninguna de 24 retiradas es admisible; la de menor RMSE (FCO_lag1) mejora 1.32 % en 1 años internos,False
+D lares,2020,1000,1000,,1000,1000,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (FCL_preliminar_lag1) mejora 2.92 % en 1 años internos,False
+D lares,2021,1000,1000,crecimiento_TotalIngreso,1000,1000,crecimiento_TotalIngreso,paso 2: ninguna de 25 retiradas es admisible; la de menor RMSE (fco_activo) mejora 0.67 % en 1 años internos,False
+Soles,2017,10000,10000,,1000000,1000000,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (FCO_std3_previa) mejora 0.00 % en 2 años internos,False
+Soles,2018,10000,10000,,1000000,1000000,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (fco_activo) mejora 0.03 % en 2 años internos,False
+Soles,2019,10000,10000,fco_activo;FCO_std3_previa;FCL_preliminar_std3_previa,1000000,1000000,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (FCO_std3_previa) mejora 0.02 % en 3 años internos,True
+Soles,2020,10000,10000,,10000,10000,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (FCO_std3_previa) mejora 0.37 % en 2 años internos,False
+Soles,2021,10000,10000,,10000,10000,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (fco_activo) mejora 0.50 % en 1 años internos,False
+D lares,final_2021,1000,1000,crecimiento_pbi_real_pct,1000,1000,crecimiento_pbi_real_pct,,False
+Soles,final_2021,1000,1000,,1000,1000,,,False

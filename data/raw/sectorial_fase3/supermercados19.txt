@@ -1,0 +1,1268 @@
+
+=== PAGINA PDF 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supermercados Peruanos S.A. 
+Estados financieros separados al 31 de marzo de 2019 y 31 de diciembre de 2018 
+Contenido 
+Estados financieros separados 
+Estado separado de situación financiera 
+Estado separado de resultados integrales 
+Estado separado de cambios en el patrimonio neto 
+Estado separado de flujos de efectivo 
+Notas a los estados financieros separados 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 2 ===
+ 
+ 
+ 
+ 
+Supermercados Peruanos S.A. 
+Estado separado de situación financiera 
+Al 31 de marzo de 2019 y 31 de diciembre de 2018 
+ 
+ Notas 2019 2018  Notas 2019 2018
+ S/(000)  S/(000)  S/(000)  S/(000) 
+ Activo  Pasivo y patrimonio neto 
+ Activo corriente  Pasivo corriente 
+ Efectivo y equivalentes de efectivo            3                 82,045              128,673  Cuentas por pagar comerciales              12           1,173,484           1,230,679 
+ Cuentas por cobrar comerciales, neto            4                 50,004                 50,436  Otras cuentas por pagar              13               160,641              171,210 
+ Otras cuentas por cobrar, neto            5                 57,972                 46,267  Otras cuentas por pagar a partes relacionadas              19                 97,215                 63,923 
+ Otras cuentas por cobrar a partes relacionadas          19                 89,627                 49,853  Obligaciones financieras              14               422,957              201,538 
+ Existencias, neto            6               710,926              652,564  Pasivo por arrendamiento              14               135,092                            - 
+ Gastos pagados por anticipado            7                 20,416                 12,751  Ingresos diferidos                   2,700                   2,931 
+ Total activo corriente           1,010,990              940,544  Total pasivo corriente           1,992,089           1,670,281 
+ Otras cuentas por pagar a partes relacionadas              19                 87,570                 87,097 
+ Activo no corriente  Obligaciones financieras              14               784,812              837,951 
+ Otras cuentas por cobrar, neto            5                   4,584                   4,207  Pasivo por arrendamiento              14               666,627                            - 
+ Gastos pagados por anticipado            7                 22,109                 23,042  Pasivo por impuesto a la renta diferido                 78,168                 78,734 
+ Propiedades de inversión            9               320,287              234,160  Ingresos diferidos                 25,324                 26,032 
+ Propiedades, planta y equipo          10           3,168,284           2,375,460  Total pasivo no corriente           1,642,501           1,029,814 
+ Activos Intangibles, neto          11                 83,070                 83,750  Total pasivo           3,634,590           2,700,095 
+ Inversiones en subsidiarias            8                 55,981                 55,981 
+ Total activo no corriente           3,654,315           2,776,600  Patrimonio neto 
+ Capital emitido  15 ( a)               389,445 389,445             
+ Ganancia por emisión de acciones               327,429 327,429             
+ Resultados acumulados               272,525 266,758             
+ Otras reservas de capital  15 ( b )                 41,316                 33,417 
+ Total patrimonio neto           1,030,715           1,017,049 
+ Total Activo           4,665,305           3,717,144  Total pasivo y patrimonio neto           4,665,305           3,717,144 
+ 
+ 
+ 
+Las notas que se acompañan forman parte de este estado financiero.  
+ 
+
+=== PAGINA PDF 3 ===
+ 
+ 
+ 
+ 
+Supermercados Peruanos S.A. 
+ 
+Estado separado de Resultados Integrales 
+Por los periodos de tres meses terminados el 31 de marzo de 2019 y de 2018 
+ 
+ Nota 2019 2018
+ S/(000)  S/(000) 
+ Ingreso de actividades ordinarias 1,379,308             1,216,430             
+ Ingresos por subarrendamiento y otros 20,481                   18,059                   
+ Total Ingresos 1,399,789             1,234,489             
+ Costo de ventas  17(a) (1,049,618)          (922,442)             
+ Utilidad bruta                  350,171                  312,047 
+ Gastos de ventas y distribución  17(b) (272,128)             (236,873)             
+ Gastos de administración  17(c ) (33,848)                (33,062)                
+ Otros ingresos (gastos) operativos, neto 11,949                   3,191                     
+ Utilidad operativa                    56,144                    45,303 
+ Ingresos financieros            18 411                         840                         
+ Gastos financieros            18 (35,540)                (15,835)                
+ Diferencia en cambio, neta 5,791                     (9)                          
+  Utilidad antes del impuesto a las ganancias                    26,806                    30,299 
+ Gasto por impuesto a las ganancias (13,140)                (14,438)                
+ Utilidad neta                    13,666                    15,861 
+ 
+ 
+ 
+ 
+Las notas a los estados financieros adjuntas forman parte integrante de este estado.  
+ 
+
+=== PAGINA PDF 4 ===
+ 
+ 
+ 
+ 
+Supermercados Peruanos S.A. 
+Estado separado de cambios en el patrimonio neto 
+Por los periodos de tres meses terminados el 31 de marzo de 2019 y de 2018 
+ 
+ Capital emitido  Prima de emisión  Otras reservas de capital  Resultados acumulados  Total 
+ S/(000)  S/(000)  S/(000)  S/(000)  S/(000) 
+ Saldos al 01 de enero de 2018 389,445                                                327,429                           25,032 346,002                                         1,087,908 
+ Utilidad (pérdida) neta del periodo                                       -                                       -                                       - 15,861                                                 15,861 
+ Apropiacion reserva legal -                                      -                                                                   8,385                     (8,385)                                        - 
+ Saldos al 31 de marzo de 2018                         389,445                         327,429                           33,417                    353,478                       1,103,769 
+ Saldos al 01 de enero de 2019 389,445                                                327,429                           33,417 266,758                                         1,017,049 
+ Utilidad (pérdida) neta del periodo                                       -                                       -                                       -                      13,666                             13,666 
+ Aporte de capital                                       -                                       -                                       - -                                 -                                        Variación de resultados no realizados en                                       -                                       -                                       - -                                 -                                        Variación en resultado no realizados en                                       -                                       -                                       - -                                 -                                        Apropiación reserva legal -                                                                            -                              7,899                     (7,899)                                        - 
+ Saldos al 31 de marzo de 2019                         389,445                         327,429                           41,316                    272,525                       1,030,715 
+ 
+ 
+Las notas a los estados financieros adjuntas forman parte integrante de este estado.  
+ 
+
+=== PAGINA PDF 5 ===
+ 
+ 
+ 
+Supermercados Peruanos S.A. 
+ 
+Estado separado de flujos de efectivo 
+Por los periodos de tres meses terminados el 31 de marzo de 2019 y de 2018 
+2019 2018
+ S/(000)  S/(000) 
+ Actividades de operación 
+ Cobranzas por: 
+ Ventas                    1,370,308 1,216,430                   
+ Otros cobros relativos a la actividad de operación                          20,240                          17,109 
+ Menos pagos por: 
+ Proveedores de bienes y servicios                 (1,379,574) (1,142,857)                
+ Remuneraciones y beneficios sociales                       (90,256) (86,522)                      
+ Intereses                         (5,822) (7,935)                        
+ Impuestos                       (23,065) (19,324)                      
+ Otros cobros relativos a la actividad de operación                          23,233 5,518                           
+ Efectivo neto utilizado en las actividades de operación                       (84,936)                       (17,581) 
+ Actividades de inversión 
+ Cobranzas por: 
+ Ventas de inmuebles, maquinarias y equipo 2,610                           1,093                           
+ Menos pagos por: 
+ Compra de inmuebles, maquinaria y equipo (109,950)                   (90,237)                      
+ Compra de desarrollo de intangibles (2,505)                        (4,804)                        
+ Compra de propiedades de inversión (8,063)                        (1,078)                        
+ Otros cobros (pagos) de efectivo relativos a la actividad de inversion 3,251                           
+ Efectivo neto utiizado de las actividades de inversión                    (117,908)                       (91,775) 
+ Actividades de financiamiento 
+ Entradas por: 
+  Préstamos recibidos de terceros                        237,501 446,469                       
+ Menos pagos por: 
+  Amortización de obligaciones financieras                       (37,983) (171,066)                   
+  Amortización préstamos vinculadas                                     - (129,800)                   
+ Pago de intereses Leasing                         (2,298)                         (8,052) 
+ Pago de intereses mediano plazo                       (11,889)                         (8,967) 
+ Intereses Pagados por arrendamiento en uso                       (14,593)                                     - 
+ Pago de arrendamiento Derecho en uso                       (14,522)                                     - 
+ Efectivo neto proveniente de actividades de financiamiento                        156,216                        128,584 
+ (Disminución neta) aumento neto del efectivo y equivalentes de efectivo                       (46,628)                          19,228 
+ Efectivo y equivalentes de efectivo al inicio de año 128,673                       147,745                       
+ Efectivo y equivalentes de efectivo al final del año                          82,045                        166,973 
+ 
+ 
+Las notas a los estados financieros adjuntas forman parte integrante de este estado. 
+
+=== PAGINA PDF 6 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+Supermercados Peruanos S.A. 
+ 
+Notas a los estados financieros separados 
+Al 31 de marzo de 2019 y 31 de diciembre de 2018 
+ 
+ 
+1.  Identificación, actividad económica y reorganización de la Compañía 
+ 
+(a)  Identificación - 
+ Supermercados Peruanos S.A. (en adelante la Compañía) es una empresa comercial peruana, constituida en 
+junio de 1979. La Compañía, es una subsidiaria de InRetail Perú Corp., quien adquirió recientemente las 
+acciones de la Compañía y posee en forma directa el 99.98% de su capital social. InRetail Perú Corp. pertenece 
+al Grupo Intercorp Perú, el cual está constituido por diversas empresas que operan en el Perú y en el exterior. El 
+domicilio legal de la Compañía, donde se encuentran sus oficinas administrativas, está ubicado en calle Morelli 
+N° 181, San Borja, Lima. 
+ 
+ Con fecha 15 de setiembre de 2014, el Directorio de InRetail Perú Corp. acordó transferir, las acciones que 
+mantenía en la Compañía, en dominio fiduciario a Internacional de Títulos  Sociedad Titulizadora S.A. para que  
+los integre al “Patrimonio en Fideicomiso D.S.N°093-2002-EF- InRetail Consumer” (En adelante “InRetail 
+Consumer). 
+ 
+(b) Actividad económica –  
+ De acuerdo con sus estatutos, la Compañía se dedica al negocio de representaciones, comisiones, distribuciones 
+de bienes y compra-venta de bienes muebles en general; igualmente podrá dedicarse a realizar inversiones en 
+valores bursátiles y extrabursátiles de renta fija o variable, así como en bienes muebles e inmuebles y acciones 
+de personas jurídicas, pudiendo realizar cualquier otra actividad comercial vinculada a su objeto social o 
+extender su actividad a otros negocios o inversiones que acuerde su Directorio. En el desenvolvimiento de sus 
+actividades, la Compañía podrá realizar cualquier acto, contrato y operación que permitan las leyes del Perú. 
+ 
+ Para la realización de sus actividades comerciales, la Compañía cuenta, al 31 de marzo de 2019 y 31 de 
+diciembre de 2018, con una cadena de tiendas que operan bajo los formatos “Plaza Vea”,  “Plaza Vea Super”,  
+“Vivanda”, “Mass”, “Economax”, “Justo” y “Mimarket” los cuales se ubican en Lima y provincias, tales como 
+Trujillo, Chimbote, Piura, Cusco, Arequipa, Huancayo, entre otras. 
+ 
+ Los estados financieros adjuntos no incluyen los efectos de la consolidación de la Compañía con sus subsidiarias 
+detalladas en la nota 8. Al 31 de marzo de 2019 y 31 de diciembre de 2018, estas inversiones son llevadas al 
+costo. El efecto de la no consolidación en el caso de los rubros ventas netas, gastos, activos y pasivos, en 
+opinión de la Gerencia, no es importante para los estados financieros adjuntos, por lo que ambos estados 
+financieros son en esencia similares. A continuación se muestran la comparación de las principales cifras al 31 
+de marzo de 2019 y 31 de diciembre de 2018 y por el periodo de tres meses terminados el 31 de marzo de 2019 
+y de 2018 entre ambos estados financieros: 
+ 
+
+=== PAGINA PDF 7 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+2019 2018 2019 2018
+S/ (000) S/ (000) S/ (000) S/ (000)
+Total activos 4,665,305 3,717,144 4,682,289 3,698,278
+Total pasivos 3,634,590 2,700,095 3,656,695 2,683,395
+Patrimonio neto 1,030,715 1,017,049 1,025,594 1,014,883
+Ventas netas 1,399,789 1,234,489 1,439,644 1,151,452
+Utilidad Operativa 56,144 45,303 52,617 40,925
+Utilidad neta 13,666 15,861 10,711 21,425
+Estados financieros adjuntos Estados financieros consolidados   
+ 
+Los estados financieros separados al 31 de marzo de 2019 adjuntos han sido aprobados por el Directorio el 30 de 
+abril de 2019, autorizando su publicación. 
+ 
+(c) Reorganización de la Compañía 
+ En Junta General de accionistas del 1 de noviembre de 2018, se aprobó la reorganización simple de la Compañía y 
+Plaza Vea Oriente S.A.C. 
+  
+ Mediante este acuerdo Supermercados Peruanos S.A. segregó un bloque patrimonial de S/54,860,000 a Plaza Vea 
+Oriente S.A.C., subsidiaria de la Compañía. 
+  
+ 
+2. Bases de preparación y cambios contables – 
+ 
+(a) Los estados financieros se preparan de acuerdo con las Normas Internacionales de Información Financiera (en 
+adelante “NIIF”), emitidas por el International Accounting Standards Board (en adelante (“IASB”), vigentes al 31 
+de marzo de 2019 y 31 de diciembre de 2018. 
+ 
+(b) Los estados financieros han sido preparados sobre la base del costo histórico, a partir de los registros de la 
+contabilidad mantenidos por la Compañía, excepto por, propiedades de inversión, y otros activos financieros, los 
+cuales han sido medidos a su valor razonable. Los estados financieros adjuntos se presentan en soles y todos los 
+valores están redondeados a miles de nuevos soles (S/000), excepto cuando se indique lo contrario. 
+ 
+(c) Nuevos pronunciamientos contables 
+Las políticas contables adoptadas en la preparación de los estados financieros intermedios son consistentes con los 
+seguidos en la preparación de los estados financieros separdos anuales de las compañías al 31 de diciembre de 
+2018, a excepción de la adopción de las nuevas normas e interpretaciones a partir de 1 de enero 2018. 
+  
+  
+
+=== PAGINA PDF 8 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+Normas adoptadas  
+La Compañía adopto las siguientes normas e interpretaciones que fueron emitidas por el IASB, que son efectivas al 
+1 de enero de 2018: 
+- NIIF 9 “Instrumentos financieros” 
+La NIIF 9 “Instrumentos financieros” plantea cambios principalmente en los siguientes ámbitos: la 
+clasificación y medición de los instrumentos financieros, el deterioro de activos financieros, la contabilidad 
+de cobertura y la contabilización de modificaciones a los pasivos financieros. 
+Para la transición a la NIIF 9, La Compañía utilizó la excepción de la norma que permite no corregir 
+información de periodos anteriores (aplicación prospectiva) con respecto a los cambios de clasificación, 
+medición y deterioro. En consecuencia, las diferencias en los valores en libros de los activos financieros y 
+pasivos financieros resultantes de la adopción de la NIIF 9 se reconocieron al 1 de enero de 2018 
+afectando los saldos del patrimonio separado a esa fecha, como se explica a continuación: 
+ (a)  Clasificación y valoración 
+La Compañía continúa valorando a valor razonable todos los activos financieros que actualmente 
+se registran a valor razonable. Los instrumentos de deuda se valoran a valor razonable 
+reflejando las variaciones en el estado separado de resultados integrales de acuerdo con la NIIF 
+9. La Compañía aplicó la opción de presentar las variaciones en el valor razonable en el estado 
+consolidado de resultados integrales y; por tanto, la aplicación de la NIIF 9 no ha tenido un 
+impacto significativo. 
+Los préstamos, así como los deudores comerciales, se mantienen para recibir los flujos de 
+efectivo contractuales y se espera que supongan flujos de efectivo que representan únicamente 
+pagos de principal e intereses. La Compañía analizó las características de los flujos de efectivo de 
+estos instrumentos y concluyó que cumplen los criterios para ser valorados a costo amortizado 
+de acuerdo con la NIIF 9. En consecuencia, no se requirió la reclasificación de estos 
+instrumentos. 
+(b)  Deterioro 
+La NIIF 9 requiere que la Compañía registre las pérdidas crediticias esperadas de todos sus 
+títulos de deuda, préstamos y deudores comerciales, ya sea sobre una base de 12 meses o por 
+toda la vida del instrumento financiero (lifetime). La Compañía aplicó el modelo simplificado, 
+para los deudores comerciales, y el enfoque general para los otros activos financieros; el mismo 
+que requiere evaluar si se presenta o no un incremento de riesgo significativo para determinar si 
+la pérdida debe estimarse en base a 12 meses después de la fecha de reporte o durante toda la 
+vida del activo. 
+De acuerdo con lo indicado anteriormente, la Compañía aplicó la NIIF 9 de manera prospectiva, 
+con fecha de aplicación 1 de enero de 2018. La Compañía no ha modificado la información 
+comparativa y en ese sentido, las diferencias reconocidas directamente en resultados 
+acumulados. Como resultado de la adopción de la NIIF 9, la Compañía reconoció una 
+disminución de la cuenta por cobrar a partes relacionadas por S/1,045,000 al 1 de enero de 
+2018. 
+  
+
+=== PAGINA PDF 9 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+  (c)  Contabilidad de coberturas 
+La Compañía no mantiene instrumentos financieros derivados ni relaciones de cobertura que 
+actualmente se hayan designado como coberturas eficaces; por lo tanto, la adopción de la NIIF 9 
+no ha tenido un impacto significativo para la Compañía en este aspecto. 
+_ NIIF 15 “Ingresos procedentes de contratos con clientes” - 
+La NIIF 15 fue emitida en mayo de 2014 y estableció un modelo de cinco pasos que aplicará a los ingresos 
+que surgen de contratos con clientes. Bajo la NIIF 15, el ingreso es reconocido por un monto que refleja la 
+consideración contractual acordada con el cliente. Los principios en la NIIF 15 proporcionan un enfoque 
+más estructurado para medir y conocer los ingresos. 
+La nueva norma sobre ingresos es aplicable a todas las entidades y reemplazará a todos los 
+requerimientos de reconocimiento de ingresos bajo las NIIF. Entra en vigencia el 1 de enero de 2018 y se 
+requiere una aplicación retroactiva completa o modificada para los periodos anuales que empiezan el 1 de 
+enero de 2017 y se permite la adopción anticipada. 
+La adopción de la NIIF 15 para la compañía y sus subsidiarias no generó impacto en el patrimonio neto al 1 
+de enero de 2018. 
+- NIIF 16 “Arrendamientos” 
+NIIF16 “Arrendamientos”, efectiva para periodos anuales que comiencen en o a partir del 1 de enero de 
+2019. 
+Requiere un único modelo para los arrendamientos, que requiere la presentación de un activo por 
+derecho de uso y un pasivo financiero que refleje los pagos futuros traídos a valor presente de los 
+arrendamientos; los cuales, en el estado separado de resultados, serán presentados como gastos por 
+depreciación y gastos financieros, respectivamente; sin embargo, los resultados netos no se verán 
+afectados. 
+A la fecha de este informe, la implementación de esta norma en la Conpañía ha generado un mayor activo 
+de S/819,523,000, un mayor pasivo de S/819,523,000, un mayor gasto de depreciación de S/25,719,000, y 
+un mayor gasto financiero de S/14,593,000. 
+Del pasivo inicial por arrendamiento financiero de S/819,523,000, se ha amortizado S/14,522,000, y se ha 
+disminuido por diferencia de cambio en S/3,282,000, presentando un saldo al 31 de marzo de 2019 de 
+S/801,719,000. 
+A su vez el costo de alquiler de terrenos presenta una disminución de S/29,115,000. 
+La información contenida en estos estados financieros es responsabilidad de la Gerencia de la Compañía, 
+quien manifiesta expresamente que se han aplicado en su totalidad los principios y criterios incluidos en la 
+Normas Internacional de Información Financiera (NIIF) emitidos por el IASB. 
+  
+
+=== PAGINA PDF 10 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+ 
+3. Efectivo y equivalentes de efectivo 
+ 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 
+2019 2018
+S/(000) S/(000)
+Caja y fondo fijo  (b )                          30,497                          19,505 
+Cuentas corrientes (c )                          51,548                          83,684 
+Depósitos a plazo (d )                                     -                          25,484 
+Total                          82,045                        128,673  
+(b) El saldo al 31 de marzo de 2019 y 31 de diciembre de 2018, comprende principalmente el dinero en efectivo 
+mantenido por la Compañía en los locales de la cadena de tiendas y en bóvedas de una empresa de custodia de 
+valores, correspondiente a las ventas efectuadas durante los últimos días del mes de marzo de 2019 y diciembre 
+de 2018. 
+ 
+(c) La Compañía mantiene cuentas corrientes en bancos locales, los cuales están denominados en soles y dólares 
+estadounidenses y no generan intereses. 
+ 
+(d) Al 31 de diciembre de 2018, corresponden a depósitos a plazo, con vencimiento de hasta 30 días, efectuados en 
+bancos locales, los cuales están denominados en soles y dólares norteamericanos. Estos depósitos devengan 
+una tasa de interés promedio anual  entre 2.70 y 3.20 por ciento en soles y 2.40 por ciento en dólares.  
+ 
+(e) Al 31 de marzo de 2019 y 31 de diciembre de 2018, las cuentas corrientes y los depósitos a plazo, son de libre 
+disponibilidad y se encuentran libres de gravamen. 
+ 
+4. Cuentas por cobrar comerciales, neto 
+(a) A continuación se presenta la composición del rubro: 
+ 
+2019 2018
+S/(000) S/(000)
+Tarjetas de crédito  (c ) 43,181                         31,020                         
+Facturas (d ) 4,843                           18,756                         
+Alquileres por cobrar (e ) 1,980                           660                               
+Cuentas de cobranza dudosa 11,179                         10,498                         
+Total                          61,183                          60,934 
+Provisión para cuentas de cobranza dudosa (11,179)                      (10,498)                      
+Total neto                          50,004                          50,436   
+ 
+(b) Las cuentas por cobrar comerciales están denominadas en nuevos soles, tienen vencimiento corriente y no 
+generan intereses. 
+ 
+(c) Corresponde principalmente, a los vouchers de ventas realizadas con tarjetas de crédito en los últimos días del 
+mes de marzo de 2019 y diciembre 2018. 
+ 
+
+=== PAGINA PDF 11 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+(d) Corresponden al saldo por cobrar por la venta de vales de mercadería a diversas empresas e instituciones 
+públicas. A la fecha del presente informe, los referidos saldos al 31 de marzo de 2019 y 31 de diciembre de 2018 
+se encuentran en su mayoría cobrados. 
+ 
+(e) Corresponde a las cuentas por cobrar originadas por el alquiler de espacios a concesionarios dentro de las 
+tiendas para la comercialización de sus bienes y servicios. 
+ 
+(f) En opinión de la Gerencia de la Compañía, la estimación de cuentas de cobranza dudosa al 31 de marzo de 2019 
+y 31 de diciembre de 2018 cubre adecuadamente el riesgo de crédito de este rubro a esas fechas. 
+ 
+5. Otras cuentas por cobrar, neto 
+(a) A continuación se presenta la composición del rubro: 
+ 
+2019 2018
+S/(000) S/(000)
+Fondos mantenidos en el Banco de la Nación (b ) 13,185                         14,547                         
+Saldo a favor del Impuesto a la Renta 13,265                         4,996                           
+Cuentas por cobrar al personal 7,335                           5,903                           
+Reclamos y entregas a rendir 3,291                           3,145                           
+Depósitos por alquiler 3,683                           3,512                           
+Pagos por cuenta de terceros (c ) 1,122                           695                               
+Cobranza dudosa 3,900                           3,821                           
+Otras cuentas por cobrar 20,675                         17,676                         
+Provisión para cuentas de cobranza dudosa (3,900)                        (3,821)                        
+Otras cuentas por cobrar, neto 62,556                         50,474                         
+Por plazo:
+Corto 57,972                         46,267                         
+Largo 4,584                           4,207                           
+Total 62,556                         50,474                          
+ 
+(b) De acuerdo con la Resolución de Superintendencia N° 183-2004/SUNAT, los fondos mantenidos en el Banco de 
+la Nación deben ser utilizados exclusivamente para el pago de deudas tributarias, o puede también solicitarse su 
+devolución en efectivo. En el caso de la Compañía, estos fondos han sido utilizados íntegramente para el pago 
+de impuestos durante el mes de abril 2019 y enero 2019, respectivamente. 
+ 
+(c) Corresponde a las cuentas por cobrar originadas por pagos en nombre de los propietarios de ciertos locales 
+alquilados por la Compañía y a depósitos en garantía. Dicho saldo pendiente de cobro es aplicado de manera 
+proporcional a las rentas mensuales de los periodos siguientes. Estas cuentas por cobrar no generan intereses y 
+se presentan a su valor razonable al 31 de marzo de 2019 y 31 de diciembre de 2018. 
+ 
+(c) En opinión de la Gerencia de la Compañía, la estimación de las otras cuentas de cobranza dudosa al 31 de marzo 
+de 2019 y 31 de diciembre de 2018 cubre adecuadamente el riesgo de crédito de este rubro a esas fechas. 
+ 
+  
+
+=== PAGINA PDF 12 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+6. Existencias, neto 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 
+2019 2018
+S/(000) S/(000)
+Mercaderías 704,530                       647,785                       
+Existencias por recibir  (b ) 5,314                           4,435                           
+Suministros diversos 2,922                           2,184                           
+Total                        712,766                        654,404 
+MenosEstimación de rebates -                                    
+Provisión por desvalorización de existencias (c ) (1,840)                        (1,840)                        
+Total                        710,926                        652,564 
+ ______________  ______________  
+ 
+(b) Al 31 de marzo de 2019 y 31 de diciembre de 2018, el rubro incluye principalmente mercaderías en tránsito 
+(electrodomésticos, juguetes, artículos de limpieza y artículos para el hogar) y suministros diversos, importados 
+por la Compañía con la finalidad de atender la demanda de sus clientes en su cadena de tiendas a nivel nacional. 
+ 
+(c) En opinión de la Gerencia de la Compañía, la estimación de desvalorización de existencia al 31 de marzo de 
+2019 y 31 de diciembre de 2018 cubre adecuadamente el riesgo de desvalorización a dichas fechas. 
+ 
+7. Gastos contratados por anticipado 
+(a)  A continuación se presenta la composición del rubro: 
+ 
+2019 2018
+S/(000) S/(000)
+Derecho de ingreso (b )                          15,521                          15,819 
+Alquileres de locales pagados por adelantado                          13,014                          14,098 
+Seguros                                734                                112 
+Otros menores 13,256                         5,764                           
+                         42,525                          35,793 
+Por plazo
+Porción corriente 20,416                         12,751                         
+Porción no corriente 22,109                         23,042                         
+Total                          42,525                          35,793  
+ 
+ 
+(b) Los derechos de ingreso corresponden al monto pagado por la Compañía por la cesión de los derechos de uso 
+de ciertos locales comerciales. El plazo de duración de los contratos es de hasta 30 años. La amortización de los 
+derechos se presenta en el rubro “Gastos de ventas” del estado separado de resultados integrales. 
+  
+
+=== PAGINA PDF 13 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+8. Inversiones en subsidiarias 
+(a)  A continuación se presenta la composición del rubro: 
+ 
+2019 2018
+S/(000) S/(000)
+Peruana de Tiquetes S.A.C.  (b ) y (c ) 2,327                           2,328                           
+Plaza Vea Sur S.A.C. (c ) 10                                 10                                 
+Plaza Vea Oriente S.A.C. 53,644                         53,643                         
+Total                          55,981                          55,981  
+ 
+(b) Esta empresa se dedica al desarrollo de nuevos formatos comerciales en Lima y provincias. 
+ 
+(c) La Compañía es propietaria del 100% del capital social de estas empresas. 
+ 
+ 
+9. propiedades de Inversión 
+(a)  A continuación se presenta la composición del rubro: 
+  
+ 
+2019 2018
+S/(000) S/(000)
+Cine Tacna 16,460                          18,017                         
+Cine Puno 5,048                            4,716                           
+Cine Comas 10,533                          9,835                           
+Centro comercial Lurin 30,082                          30,400                         
+Centro comercial La Curva 82,234                          81,520                         
+Moquegua 27,201                          27,331                         
+Ventanilla 2,287                            1,857                           
+VES Placita 29,446                          28,921                         
+VES Tarapoto 42,409                          -                                    
+PVO 41,398                          31,563                         
+Ilo 33,189                          -                                    
+Total                        320,287                        234,160  
+ 
+. 
+
+=== PAGINA PDF 14 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+10. Inmuebles, maquinaria y equipo, neto 
+(a)  A continuación se presenta el movimiento y composición del rubro: 
+ 
+Costo  Terrenos 
+ Edificios, 
+Infraestructura 
+e Instalaciones 
+ Activos 
+Derecho en Uso 
+ Equipos 
+Diversos 
+ Equipos de 
+Cómputo 
+ Unidades de 
+Transporte 
+ Muebles y 
+Enseres 
+ Trabajos en 
+curso  Total 
+ Total 31 
+Diciembre 
+2018 
+S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000)
+Saldos al 01 de enero de 2019 555,983                 1,572,191             780,291                 116,985                 1,458                     65,530                   121,195                 3,213,633             2,879,029           
+Adopción NIIF 16 -                              -                              814,394                 -                              -                              -                              -                              -                              814,394                 -                            
+Adiciones 50,260                   13,995                   5,129                     9,347                     1,864                     99                           2,538                     31,847                   115,079                 456,688               
+Retiros y/o ventas -                              (251)                      -                              (5,042)                  (18,976)                (57)                        (732)                      -                              (25,058)                (87,696)              
+Transferencias -                              17,063                   -                              (3,736)                  206                         -                              (280)                      (88,117)                (74,864)                -                            
+Transferencias  a Inv. Inmobiliaria -                              -                              -                              -                              -                              -                              -                              -                              -                              (34,388)              
+Saldos al 31 de marzo de 2019 606,243                 1,602,998             819,523                 780,860                 100,079                 1,500                     67,056                   64,925                   4,043,184             3,213,633           
+Depreciación  Terrenos 
+ Edificios, 
+Infraestructura 
+e Instalaciones 
+ Activos 
+Derecho en Uso 
+ Equipos 
+Diversos 
+ Equipos de 
+Cómputo 
+ Unidades de 
+Transporte 
+ Muebles y 
+Enseres 
+ Trabajos en 
+curso  Total 
+ Total 31 
+Diciembre 
+2018 
+S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000)
+Saldos al 01 de enero de 2019 -                              294,044                 -                              427,332                 94,601                   1,014                     21,182                   -                              838,173                 764,905               
+Adopción NIIF 16 -                              -                              -                              -                              -                              -                              -                              -                              -                            
+Adiciones -                              11,367                  25,719                  17,219                  2,415                    40                          1,836                    -                              58,596                   118,321               
+Retiros y/o ventas -                              (25)                        -                              (2,881)                  (18,760)                (57)                        (100)                      -                              (21,823)                (45,053)              
+Transferencias -                              224                         -                              (222)                      (28)                        -                              (20)                        -                              (46)                        -                            
+Saldos al 31 de marzo de 2019 -                              305,610                 25,719                   441,448                 78,228                   997                         22,898                   -                              874,900                 838,173               
+Costo neto 606,243                 1,297,388             793,804                 339,412                 21,851                   503                         44,158                   64,925                   3,168,284             2,375,460            
+ 
+(b) Al 31 de marzo de 2019, terrenos, edificios e instalaciones están hipotecados por un costo neto de S/833,604,000 (S/775,520,000 al 31 de diciembre de 2018), en 
+garantía de préstamos recibidos y de los arrendamientos financieros. 
+ 
+(c) Las adiciones del periodo 2019 y 2018 corresponden principalmente a las construcciones y equipamiento de nuevos locales para la cadena de tiendas de la 
+Compañía. 
+ 
+(d) La Compañía mantiene seguros sobres sus principales activos de acuerdo con las políticas establecidas por la Gerencia. En este sentido, al 31 de marzo de 2019 y 31 
+de diciembre de 2018, Supermercados Peruanos S.A., ha contratado pólizas de seguro corporativos por daños materiales y pérdida de beneficios que cubre la 
+integridad de los activos de la Compañía. 
+
+=== PAGINA PDF 15 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+ En opinión de la Gerencia de la Compañía, sus políticas de seguros son consistentes con la práctica internacional 
+en la industria. 
+ 
+(e) Al 31 de marzo de 2019 y 31 de diciembre de 2018, la Gerencia efectuó una evaluación sobre el estado de uso 
+de sus inmuebles, maquinaria y equipo, y no ha encontrado indicios de desvalorización en dichos activos por lo 
+que en su opinión el valor en libros de los activos fijos son recuperables con las utilidades futuras que genere la 
+Compañía. 
+ 
+ 
+11. Activos Intangibles, neto 
+(a)  A continuación se presenta el movimiento y composición de los activos intangibles, los cuales corresponden en 
+su totalidad a licencias y desarrollos de software, relacionados a los diferentes sistemas que utiliza la Compañía 
+para el desempeño de sus operaciones: 
+ 
+ 
+Costo  Software  Otros activos  Proyectos en curso  Total  Total al 31 diciembre de 2018 
+S/(000) S/(000) S/(000) S/(000) S/(000)
+Saldos al 01 de enero de 2019 130,130                   1,944                       22,529                     154,603                   138,498                       
+Adiciones 51                              -                                2,454                       2,505                       17,266                         
+Retiros y/o ventas -                                 -                                -                                -                                (1,161)                        
+Transferencias 3,308                        -                                (3,308)                    -                                -                                    
+Saldos al 31 de marzo de 2019 133,489                   1,944                       21,675                     157,108                   154,603                       
+Depreciación  Software  Otros activos  Proyectos en curso  Total  Total al 31 diciembre de 2018 
+S/(000) S/(000) S/(000) S/(000) S/(000)
+Saldos al 01 de enero de 2019 70,853                     -                                -                                70,853                     58,991                         
+Adiciones 3,185                        -                                -                                3,185                       12,472                         
+Retiros y/o ventas -                                 -                                -                                -                                (610)                            
+Saldos al 31 de marzo de 2019 74,038                     -                                -                                74,038                     70,853                         
+Costo neto 59,451                     1,944                       21,675                     83,070                     83,750                          
+ 
+(b) Al 31 de marzo de 2019 y 31 de diciembre de 2018, en opinión de la Gerencia, no hay indicios de desvalorización 
+de los activos intangibles que posee la Compañía, por lo que considera que no es necesario registrar provisión 
+alguna para esos activos a la fecha del estado de situación financiera. 
+ 
+(c) Al 31 de marzo de 2019 y 31 de diciembre de 2018 la Compañía no mantiene en garantía ningún intangible.  
+  
+
+=== PAGINA PDF 16 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+12. Cuentas por pagar comerciales 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 
+2019 2018
+S/(000) S/(000)
+Facturas por pagar por compra de mercadería                        976,756                    1,007,085 
+Facturas por pagar por servicios comerciales                        196,728                        223,594 
+Total                    1,173,484                    1,230,679  
+ 
+(b) Este rubro comprende principalmente las obligaciones con proveedores locales no relacionados, denominadas 
+en moneda nacional y dólares estadounidenses originadas principalmente por la adquisición de mercaderías, las 
+cuales son comercializadas en los puntos de venta (hipermercados, supermercados y mini mercados) de la 
+Compañía, tienen vencimientos corrientes y no devengan intereses. La Compañía no ha otorgado garantías por 
+dichas obligaciones. 
+ 
+ 
+13.  Otras cuentas por pagar 
+ (a) A continuación se presenta la composición del rubro: 
+ 
+2019 2018
+S/(000) S/(000)
+Impuesto general a las ventas 11,010                         15,537                         
+Vacaciones por pagar 12,673                         13,548                         
+Intereses por pagar 4,103                           2,677                           
+Depósitos de terceros 2,584                           2,692                           
+Remuneraciones y beneficios sociales 23,663                         13,512                         
+Tributos por pagar 8,545                           5,937                           
+Alquileres por pagar 1,938                           1,819                           
+Detracciones por pagar 11,816                         16,867                         
+Participación de los trabajadores 8,573                           15,894                         
+Diversas 75,736                         82,727                         
+Total 160,641                       171,210                       
+ 
+ 
+ 
+(b) Los conceptos que comprenden este rubro tienen vencimiento corriente, no generan intereses y no se han 
+otorgado garantías específicas por los mismos. 
+  
+
+=== PAGINA PDF 17 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+14. Otros pasivos financieros 
+(a) A continuación se presenta la composición del rubro: 
+ 
+Moneda 
+origen Tasa de interés Vencimiento 2019 2018 2019 2018 2019 2018
+US$(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000)
+Por tipo:
+Arrendamiento financiero: (b)
+    Relacionadas:
+        Banco Internacional del Perú-Interbank s/ 6.000% a 6.230% Trimestral hasta el 2022 -                       136,052         114,571         121,318          27,272            27,272            87,299            94,046            
+    Terceros:
+-                       
+        Banco de Crédito del Perú S/ 6.59% a 7.850% Mensual hasta el 2020 -                       57,982            15,684            18,576            7,940              8,952              7,744              9,624              
+        BBVA Banco Continental -                               -                       -                       -                       -                       -                       -                       -                       -                       
+        Banco Scotiabank S/ 6.390% a 7.600% Mensual hasta el 2020 -                       37,630            8,781              10,874            7,017              7,810              1,764              3,064              
+-                       231,664         139,036         150,768          42,229            44,034            96,807            106,734         
+Pagarés y préstamos:
+        Banco Scotiabank - préstamo   ( c ) S/ 3.600% a 6.950% Trimestral hasta el 2025 -                       899,100         681,948         621,521          200,280         108,522         481,668         512,999         
+        Banco Internacional del Perú-Interbank  ( d ) S/ 5.850% Trimestral hasta el 2025 -                       95,000            91,627            94,097            10,379            10,233            81,248            83,864            
+        Banco de Crédito del Perú - préstamo ( e ) S/ 3.800% a 6.350%  Trimestral hasta el 2024 -                       250,197         216,483         163,806          94,859            33,724            121,624         130,082         
+        Citibank Peru S/ 3.800% a 4.200%  Trimestral hasta el 2019 -                       71,000            71,000            -                       71,000            -            -                       -                       
+-                       1,315,297      1,061,058      879,424          376,518         152,479         684,540         726,945         
+Pasivo por Arrendamiento
+        Derecho de Uso S/ 2.280% a 6.270% Mensual hasta el 2020 819,523         801,719         -                       135,092         -                       666,627         -                       
+-                       819,523         801,719         -                       135,092         -                       666,627         -                       
+Obligaciones con terceros: (f)
+        Hewlett Packard SA US$ 1.450% a 5.640% Mensual hasta el 2020 8,610              -                       7,675              9,297              4,210              5,025              3,465              4,272              
+8,610              -                       7,675              9,297              4,210              5,025              3,465              4,272              
+Total 2,009,488      1,039,489      558,049         201,538         1,451,439      837,951         
+Por plazo:
+Corto 558,049         201,538          
+Largo 1,451,439      837,951          
+Total 2,009,488      1,039,489      
+Importe Original Total Porción Corriente Porción No Corriente   
+ 
+
+=== PAGINA PDF 18 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+ 
+ (b) Los préstamos y pagarés bancarios están orientados para capital de trabajo, compra de inmuebles y/o 
+construcción de nuevas tiendas no tienen garantías específicas. Los arrendamientos financieros están 
+garantizados por los activos afectos a las operaciones de leasing. Estas obligaciones no tienen condiciones 
+especiales que se deban cumplir (covenants), ni restricciones que afecten las operaciones de la Compañía. 
+ 
+(c) En Junio y diciembre de 2015, la Compañía recibió dos préstamos del Banco Scotiabank, ascendente a 
+S/120,000,000 cada uno, que devengan un interés efectivo anual de 6.95 y 6.35 por ciento respectivamente y 
+vencen en setiembre 2020 y mayo 2022, estos préstamos están garantizados con inmuebles de la Compañía. 
+La Compañía destino estos fondos a la amortización del préstamo otorgado por el Patrimonio en Fideicomiso 
+D.S. N°093-2002-EF InRetail Consumer (ver nota 19 (d)). 
+ 
+En agosto de 2018, la Compañía ha recibido un préstamo de Banco Scotiabank. Ascendente a S/425,100,000 
+que devenga un interés efectivo anual de 5.07 por ciento y vence en marzo 2025. 
+ 
+En Diciembre de 2018, la Compañía ha recibido un préstamo del Banco Scotiabank, ascendente a 
+S/100,000,000, que devengan un interés efectivo anual de 5 por ciento  y vence en octubre de 2025. 
+ 
+Adicionalmente, durante los meses de febrero y marzo de 2019, se recibieron 3 préstamos de S/15,000,000, 
+S/29,000,000 y S/30,000,000, que devengan un interés anual de 3.9 por ciento, 3.6 por ciento y 3.60 por ciento 
+y vencen en mayo 2019. 
+ 
+(d) En Octubre de 2018, la Compañía recibió un préstamo del Banco Internacional del Perú-Interbank, ascendente a 
+S/95,000,000, que devenga un interés efectivo anual de 5.85 por ciento y vence en setiembre 2025. 
+ 
+(e) En setiembre de 2015, la Compañía ha recibido un préstamo del Banco de Crédito del Perú, ascendente a 
+S/39,197,000, que devenga un interés efectivo anual de 6.35 por ciento y vence en agosto de 2020.  
+ 
+La Compañía destino este monto a la amortización del préstamo otorgado por el Patrimonio en Fideicomiso D.S. 
+N°093-2002-EF-Inretail Consumer (ver nota 19(d)). 
+ 
+En diciembre de 2018, la Compañía ha recibido un préstamo, ascendentes a S/150,000,000,  que devenga un 
+interés efectivo anual de 5.650 por ciento anual y vencen en Diciembre de 2024. 
+ 
+Adicionalmente, en febrero y marzo de 2019, la Compañía ha recibido dos préstamos de S/45,000,000 y 
+S/16,000,000 que devengan un interés de 3,920 y 3.800 por ciento, respectivamente y vencen en mayo y junio 
+de 2019.  
+ 
+(f) Corresponde a la deuda adquirida con Hewlett Packard S.A., por la compra y arrendamiento financiero de 
+equipos de cómputo. Dichos contratos no tienen garantías específicas. 
+  
+
+=== PAGINA PDF 19 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+ 
+(g) Las obligaciones financieras son pagaderas como sigue: 
+ 
+ 
+2019 2018
+S/(000) S/(000)
+2019                        504,580                        187,296 
+2020                        217,498                        283,980 
+2021                        334,626                        151,123 
+2022                        345,013                        165,918 
+2023 en adelante 607,771                       251,172                       
+                   2,009,488                    1,039,489  
+ 
+ 
+15. Patrimonio neto 
+(a) Capital social – 
+ Al 31 de marzo de 2019 y 31 de diciembre de 2018, el capital social está representado por 320,332,671 acciones 
+comunes, íntegramente autorizadas y pagadas y cuyo valor nominal es de S/1.05 por acción equivalente a 
+S/336,349,000. Encontrándose pendiente de emisión 50,566,920 acciones equivalente a S/53,096,000 
+aproximadamente, lo que da un monto de S/389,445,000. 
+    
+ Al 31 de marzo de 2019 y 31 de diciembre de 2018, la composición del accionariado que participa en la 
+compañía está formada por las siguientes empresas: 
+ 
+Número de Número de
+acciones % acciones %
+Accionista
+Internacional de Tiítulos Sociedad 
+Titulizadora S.A. 320,277,337          99.98 320,277,337          99.98
+Otros 55,334 0.02 55,334 0.02
+320,332,671          100.00 320,332,671          100.00
+2019 2018  
+   
+  
+ Con fecha 15 de setiembre de 2014,  La Junta Directiva de InRetail Perú Corp. acordó transferir las acciones que 
+mantenía en la Compañía en dominio fiduciario a Internacional de Títulos Sociedad Titulizadora S.A. para que los 
+integre al “Patrimonio en Fideicomiso D.S.N°093-2002-EF- InRetail Consumer” (una entidad de propósito 
+especia EPE). 
+ 
+(b) Reserva legal – 
+ Según lo dispone la Ley General de Sociedades, se requiere que un mínimo del 10 por ciento de la utilidad 
+distribuible de cada ejercicio se transfiera a una reserva legal hasta que ésta sea igual al 20 por ciento del 
+capital. La reserva legal puede compensar pérdidas o puede ser capitalizada, existiendo en ambos casos la 
+obligación de reponerla. La reserva legal se apropia cuando la Junta General de Accionistas aprueba la misma. 
+ 
+  
+
+=== PAGINA PDF 20 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+ 
+16. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano. Al 31 de marzo de 2019 y 31 de diciembre de 2018, la 
+tasa del impuesto a la renta es de 29.5 ciento sobre la utilidad gravable, luego de deducir la participación de los 
+trabajadores que se calcula con una tasa de 8 por ciento sobre la utilidad imponible. 
+ 
+ Las personas jurídicas no domiciliadas en el Perú y las personas naturales están sujetas a la retención de un 
+impuesto adicional sobre los dividendos recibidos. 
+ 
+Al respecto, en atención al Decreto Legislativo N°1261, el impuesto adicional a los dividendos por las utilidades 
+generadas será el siguiente: 
+ 
+- 4.1 por ciento por las utilidades generadas hasta el 31 de diciembre de 2014. 
+- 6.8 por ciento por las utilidades generadas en los años 2015 y 2016. 
+- 5.0 por ciento por las utilidades generadas a partir del 01 de enero de 2017.  
+ 
+(b) De acuerdo con el texto de la Ley de Impuesto a la Renta, modificada por la Ley 29663 y 29757, entre las 
+operaciones sujetas al referido tributo, se encuentran las obtenidas por la enajenación indirecta de acciones de 
+empresas peruanas. Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser vendido en un 
+periodo cualquiera de doce meses; y 
+ 
+(ii) En segundo lugar, el valor del mercado de las acciones de la sociedad peruana debe representar el 50 por 
+ciento o más del valor de mercado de la no domiciliada, en un periodo cualquiera de doce meses. 
+ 
+(c) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los precios de 
+transferencia de las transacciones con empresas relacionadas y con empresas residentes en territorios de baja o 
+nula imposición, deben estar sustentados con documentación e información sobre los métodos de valoración 
+utilizados y los criterios considerados para su determinación. A partir del año 2012, ha sido eliminada la 
+aplicación de las normas de precios de transferencia solamente para propósitos del Impuesto General a las 
+Ventas. Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus asesores legales opinan 
+que, como consecuencia de la aplicación de estas normas, no surgirán contingencias de importancia para la 
+Compañía al 31 de marzo de 2019 y 31 de diciembre de 2018. 
+ 
+(d) La autoridad tributaria tiene la facultad de revisar, y de ser aplicable, corregir el impuesto a la renta calculado 
+por la Compañía en los cuatro años posteriores al año de la presentación de la declaración de impuestos. En 
+años anteriores, declaraciones juradas del impuesto a la renta e impuesto general a las ventas de los años 2015 
+a 2018, están pendientes de fiscalización por parte de las autoridades tributarias. 
+ 
+Debido a las posibles interpretaciones que la autoridad tributaria pueda dar a las normas legales vigentes, no es 
+posible determinar, a la fecha, si de las revisiones que se realicen resultarán o no pasivos para la Compañía, por 
+lo que cualquier mayor impuesto o recargo que pudiera resultar de eventuales revisiones fiscales sería aplicado 
+a los resultados del ejercicio en que éste se determine. Sin embargo, en opinión de la Gerencia de la Compañía y 
+de sus asesores legales, cualquier eventual liquidación adicional de impuestos no sería significativa para los 
+estados financieros al 31 de marzo de 2019 y 31 de diciembre de 2018. 
+ 
+  
+
+=== PAGINA PDF 21 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+ 
+17. Costos y Gastos operativos por naturaleza 
+ 
+(a) A continuación se detalla la conformación del costo de venta: 
+ 
+2019 2018
+S(000) S(000)
+Saldo inicial de mercaderías 647,785                       608,259                       
+Compras de mercaderías 1,106,363                   939,229                       
+Saldo final de mercaderías (704,530)                   (625,046)                   
+Total 1,049,618                   922,442                        
+ 
+ 
+(b) A continuación se detalla la conformación de los gastos de venta: 
+ 
+2019 2018
+S(000) S(000)
+Gastos de personal 74,067                  66,835                  
+Depreciación 30,734                  25,210                  
+Depreciación derecho de uso 25,719                  -                              
+Amortización 1,595                     1,612                     
+Amortización de derecho de llave 298                        279                        
+Servicios prestados por terceros 51,938                  45,316                  
+Publicidad 17,030                  15,949                  
+Empaque y Envasado 7,735                     7,847                     
+Alquileres de locales 4,269                     29,668                  
+Tributos 7,575                     6,558                     
+Seguros 2,039                     1,693                     
+Provisión por pérdidas esperada cuentas por cobrar comerciales 681                        887                        
+Provisión para cuentas de cobranza dudosa otras cuentas por cobrar 155                        327                        
+Otras cargas de gestión 48,293                  34,692                  
+Total 272,128                236,873                 
+ 
+(c) A continuación se detalla la conformación de los gastos de administración: 
+ 
+2019 2018
+S(000) S(000)
+Gastos de personal 18,144                 16,611                  
+Depreciación 2,143                    2,528                     
+Amortización 1,589                    1,489                     
+Servicios prestados por terceros 7,095                    5,177                     
+Publicidad -                             -                              
+Empaque y Envasado 17                          38                           
+Alquileres de locales 1,930                    1,894                     
+Tributos 368                       376                        
+Seguros 188                       127                        
+Otras cargas de gestión 2,374                    4,822                     
+Total 33,848                   33,062                   
+ 
+  
+
+=== PAGINA PDF 22 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+18. Ingresos y gastos financieros 
+ 
+A continuación presentamos la composición de estos rubros: 
+2019 2018
+S(000) S(000)
+Intereses y otros 411                                         840                     
+Ingresos financieros 411                                         840                               
+2019 2018
+S(000) S(000)
+Intereses de obligaciones financieras 17,892                                   6,841                  
+Cargas financieras y otros con accionistas 1,074                                     3,825                  
+Otros gastos financieros 16,574                                   5,169                  
+Gastos financieros 35,540                                   15,835                         
+ 
+ 
+19. Transacciones con partes relacionadas 
+ 
+(a) Como resultado de las transacciones con las empresas relacionadas. La Compañía mantiene los siguientes saldos al 
+31 de marzo de 2019 y 31 de diciembre de 2018: 
+2019 2018
+S(000) S(000)
+Otras cuentas por cobrar
+Banco Internacional del Perú S.A.A. – Interbank 576                       941                       
+Intercorp Retail Inc. (22)                      (22)                      
+Bembos S.A.C. 500                       499                       
+Bellavista Global Opportunities S.A.C. 2,022                   2,113                   
+Cineplex S.A. 593                       231                       
+Interseguro Compañía de Seguros S.A. 52                         217                       
+Plaza vea sur S.A.C. 1,263                   1,427                   
+Tiendas Peruanas S.A. 1,580                   1,212                   
+Real Plaza S.A. 489                       286                       
+Financiera Oh! S.A. 8,895                   8,986                   
+Home Center Peruanos S.A. 9,912                   10,721                 
+Eckerd Perú S.A. 330                       393                       
+Urbi Propiedades S.A. 77                         213                       
+InRetail Properties Management 1,885                   1,728                   
+Quimica Suiza 986                       1,350                   
+Otros 60,489                 19,558                 
+Total 89,627                 49,853                 
+ 
+
+=== PAGINA PDF 23 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+2019 2018
+Otras cuentas por pagar S(000) S(000)
+Banco Internacional del Perú S.A.A. – Interbank:
+      Lineas de créditos y otros (270)                   (265)                    
+      Depositos en garantia (b) 6,276                   6,311                   
+Real Plaza S.A. 163                       646                       
+Interseguro Compañía de Seguros S.A. 455                                            -
+Cineplex S.A. 1                                                -
+Peruana de Tiquetes S.A. -                            1                            
+Inmobiliaria Milenia S.A. 556                       423                       
+Financiera Oh! s.a. (c ) 39,999                 2,814                   
+Home Center Peruanos S.A. (f) 33,660                 32,642                 
+Patrimonio Fideicomiso Interproperties Perú (f) 49,191                 49,832                 
+Inmobiliaria Puerta del Sol S.A. -                            49                         
+Tiendas Peruanas S.A. 12                         6                            
+IR Managment S.R.L. 1,929                   1,971                   
+Eckerd Perú S.A. 3                                                -
+Quimica Suiza S.A.C. 10,295                 15,293                 
+Otros 42,515                 41,297                 
+Total 184,785              151,020               
+Corriente 97,215                 63,923                 
+No corriente 87,570                 87,097                 
+Total 184,785              151,020                 
+ 
+(b) Supermercados Peruanos S.A. y el Banco Internacional del Perú S.A.A. – Interbank, firmaron un contrato de alquiler 
+futuro de módulos financieros por un plazo de 15 años en octubre de 2004. Dicho contrato generó ingresos por 
+alquiler ascendentes a aproximadamente S/27,212,000 (equivalentes a aproximadamente US$8,000,000) que 
+fueron cobrados por adelantado por Supermercados Peruanos S.A. y se presentan en el rubro “Ingresos diferidos” 
+del estado separado de situación financiera. Adicionalmente, Supermercados Peruanos S.A. recibió, en garantía 
+por el cumplimiento del contrato de parte de Interbank, US$2,000,000. Al 31 de marzo de 2019 y 2018, la 
+Compañía ha acreditado la actualización del valor presente de dichos saldos en el rubro “Ingresos Financieros” en 
+el estado separado de resultados integrales. El valor presente neto de los saldos relacionados a los depósitos en 
+garantía ascienden a S/6,276,000 y S/6,311,000, respectivamente, al 31 de marzo de 2019 y 31 de diciembre de 
+2018 y se presenta en el rubro de “Otras cuentas por paga a partes relacionadas” en el estado separado de 
+situación financiera. El contrato firmado en setiembre 2009, finalizó en abril 2016. 
+ 
+En relación a dichos contratos, durante el año 2019, Supermercados Peruanos S.A. ha reconocido en resultados 
+ingresos por servicios de alquiler devengados por un monto ascendente a S/198,000, equivalentes a US62,000 
+(S/218,000, equivalente aproximadamente a US$68,000 durante igual periodo del año 2018). 
+ 
+Al 31 de marzo de 2019, Supermercados Peruanos S.A. mantiene ingresos diferidos por un monto ascendente 
+aproximadamente a S/564,000 (S/785,000 al 31 de diciembre de 2018) que se realizarán en los próximos ejercicios.  
+
+=== PAGINA PDF 24 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+(c) En Junio de 2013, la Compañía y Financiera Oh! S.A. (Oh!) suscribieron el “Contrato de Emisión y Administración” 
+de la  tarjeta “Oh”! , con la finalidad que Oh! pueda operar de manera exclusiva con su marca tarjeta “OH!” en los 
+distintos establecimientos de la Compañía, en lugar de la tarjeta “Vea” del Banco Internacional del Perú S.A.A. , 
+que  hasta ese momento operaba en los establecimientos de la Compañía. Asimismo, como consecuencia de dicho 
+contrato, al 31 de marzo de 2019 y 31 de diciembre de 2018, la Compañía mantiene cuentas por pagar a Oh! por 
+aproximadamente S/39,999,000 y S/2,814,000, respectivamente. 
+(d) En noviembre de 2014, la Compañía recibió un préstamo subordinado de Patrimonio en Fideicomiso D.S. N° 093-
+2002-EF- InRetail Consumer ascendente a US$140,000,000, que devenga un interés efectivo anual de 5.25 por 
+ciento y vence en octubre 2021.  
+ 
+ Durante el año 2015, la compañía amortizó US$ 40,000,000 y US$ 60,000,000(equivalente a S/320,476,000 al tipo 
+de cambio de la fecha de transacción) manteniéndose, un saldo por pagar de US$40,000,000. Este préstamo fue 
+íntegramente pagado en marzo 2018.  
+ 
+(e) En Junio y setiembre de 2016, la Compañía recibió préstamos a largo plazo ascendentes a S/40,000,000 y 
+S/101,370,000, respectivamente, que devengan un interés efectivo anual de 6.50%  y 4.09% anual y vencen en 
+diciembre de 2023 y marzo de 2019, respectivamente. Este préstamo fue íntegramente pagado en marzo 2018. 
+  
+(f) Al 31 de diciembre de 2018, el saldo incluye aportes de las afiliadas Patrimonio en Fideicomiso D.S. N°093-2002-EF 
+Interproperties Perú y Homecenters Peruanos S.A. por importes de aproximadamente S/48,404,000 y 
+S/32,890,000, respectivamente, (S/49,434,000 y S/32,308,000 al 31 de diciembre de 2018) estos aportes surgen de 
+los contratos de asociación en participación celebrados con la Compañía, donde se establece que las asociadas se 
+comprometen a entregar efectivo a favor de las Compañía a cambio de tener una participación en los resultados 
+de los proyectos de Centros Comerciales “La Curva”, “Lurín” y “Tarapoto”. Estos contratos son de duración de 30 y 
+60 años, respectivamente, considerándose por tal motivo un pasivo a largo plazo. 
+ 
+20. Objetivos y políticas de gestión de riesgos financieros 
+Por la naturaleza de sus actividades, la Compañía está expuesta a riesgos de crédito, tasa de interés, liquidez y tipo de 
+cambio, los cuales son manejados a través de un proceso de identificación, medición y monitoreo continuo, con 
+sujeción a los límites de riesgo y otros controles. Este proceso de manejo de riesgo es crítico para la rentabilidad 
+continua de la Compañía y cada persona dentro de la Compañía es responsable por las exposiciones de riesgo 
+relacionadas con sus responsabilidades. 
+ 
+El proceso independiente de control de riesgos no incluye riesgos de negocio como cambios en el medio ambiente, 
+tecnología e industria. Estos son monitoreados a través del proceso de planificación estratégica de la Compañía. 
+ 
+(a) Estructura de gestión de riesgos –  
+ La estructura de gestión de riesgos tiene como base el Directorio y la Gerencia de la Compañía, que son los 
+responsables de identificar y controlar los riesgos en coordinación con otras áreas como se explica a 
+continuación: 
+ 
+(i) Directorio – 
+ El Directorio es responsable del enfoque general para el manejo de riesgos. El Directorio proporciona los 
+principios para el manejo de riesgos, así como las políticas elaboradas para áreas específicas, como riesgo 
+de tipo de cambio, riesgo de tasa de interés, riesgo de crédito y el uso de instrumentos financieros 
+derivados. 
+  
+
+=== PAGINA PDF 25 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+(ii) Auditoria Interna – 
+ El área de auditoria interna de la Compañía es responsable de supervisar el funcionamiento y fiabilidad de 
+los sistemas de control interno y la información administrativa y contable. También, es responsable de 
+supervisar la información financiera y hechos significativos presentados por la Compañía. 
+ 
+(iii) Tesorería y Finanzas – 
+ El área de tesorería y finanzas es responsable de administrar diariamente el flujo de fondos de la 
+Compañía, tomando en cuenta las políticas, procedimientos y límites establecidos tanto por el Directorio y 
+la Gerencia de la Compañía. Asimismo gestionan la obtención de líneas de crédito a entidades financieras, 
+cuando es necesario. 
+ 
+(b) Mitigación de riesgos –  
+ Como parte del manejo total de riesgos, la Compañía evalúa constantemente los diferentes escenarios e 
+identifica diferentes estrategias para manejar las exposiciones resultantes de cambios en las tasas de interés, 
+moneda extranjera, riesgo de capital y riesgo de crédito. 
+ 
+ 
+Riesgo de mercado – 
+El riesgo de mercado es el riesgo de sufrir pérdidas en posiciones de balance derivadas de movimientos en los precios 
+de mercado. Estos precios comprenden tres tipos de riesgo: (i) tipo de cambio), (ii) tasas de interés y (iii) precios de 
+“comodities” y otros. Todos los instrumentos financieros de la Compañía están afectados sólo por los riesgos de tipo de 
+cambio y tasas de interés. 
+ 
+(i) Riesgo de tipo de cambio – 
+ El riesgo de tipo de cambio, es el riesgo que el valor razonable de los flujos de caja futuros de un instrumento 
+financiero fluctúe por variaciones en los tipos de cambio. La Gerencia de Finanzas es la responsable de 
+identificar, medir, controlar e informar la exposición al riesgo cambiario global de la Compañía. El riesgo 
+cambiario surge cuando la Compañía presenta descalces entre sus posiciones activas, pasivas y fuera de balance 
+en las distintas monedas en las que opera, que son principalmente soles (su moneda funcional) y dólares 
+estadounidenses. 
+ 
+ La Gerencia monitorea este riesgo a través del análisis de las variables macro-económicas del país. 
+ 
+ Las operaciones en moneda extranjera se efectúan a los tipos de cambio del mercado libre publicados por la 
+Superintendencia de Banca, Seguros y Administradoras de Fondo de Pensiones. 
+ 
+ Al 31 de marzo de 2019, los tipos de cambio promedio ponderado del mercado libre para las transacciones en 
+dólares estadounidenses fueron de S/3.316 por US$1 para la compra y S/3.321 por US$1 para la venta, 
+respectivamente (S/3.369 por US$1 para la compra y S/3.379 por US$1 para la venta al 31 de diciembre de 
+2018). 
+  
+
+=== PAGINA PDF 26 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+ Al 31 de marzo de 2019 y 31 de diciembre de 2018, la Compañía tenía los siguientes activos y pasivos en miles 
+de dólares estadounidenses: 
+ 
+2019 2018
+US$(000) US$(000)
+Activo
+Efectivo y equivalentes de efectivo                                      433                                      687 
+Cuentas por cobrar y Otras cuentas por cobrar, neto                                  1,438                                  1,645 
+                                 1,871                                  2,332 
+Pasivo
+Cuentas por pagar comerciales                                15,218                                22,378 
+Cuentas por pagar y Otras cuentas por pagar                                  4,294                                  5,250 Obligaciones financieras, incluye porción corriente
+Obligaciones con terceros, incluye porción corriente                              158,181                                  2,556 
+                             177,693                                30,184 
+Posición pasiva, neta                          (175,822)                             (27,852)  
+ 
+ Al 31 de marzo de 2019 y 31 de diciembre de 2018, la Compañía ha decidido aceptar el riesgo de cambio de su 
+posición en moneda extranjera; por lo tanto, no ha efectuado,  a esas fechas, cobertura alguna por riesgo de 
+tipo de cambio. 
+ 
+Riesgo de crédito – 
+El riesgo de crédito, es el riesgo que una contraparte no cumpla con sus obligaciones estipuladas en un instrumento 
+financiero o contrato, originando una pérdida. La Compañía está expuesta al riesgo de crédito por sus actividades 
+operativas, principalmente por sus cuentas por cobrar, y por sus actividades financieras, incluyendo sus depósitos en 
+bancos y transacciones con derivados y otros instrumentos financieros. 
+ 
+(i) Cuentas por cobrar – 
+ Los saldos pendientes de cuentas por cobrar son periódicamente revisados para asegurar su recupero. En el 
+caso de las cuentas por cobrar comerciales que se generan principalmente por las ventas con tarjetas de 
+crédito, el riesgo crediticio es mínimo pues tienen un periodo de 2 a 7 días para convertirse en efectivo, con lo 
+cual cuenta con efectivo disponible; por consiguiente, la Compañía no espera incurrir en pérdidas significativas 
+por riesgo de crédito en este rubro. 
+ 
+ Adicionalmente, la Compañía presenta saldos por cobrar a terceros y a empresas relacionadas, como resultado 
+principalmente de la venta de bienes y servicios, las cuales poseen solvencia y solidez crediticia y amplias líneas 
+de crédito, lo que asegura la oportuna cancelación de los saldos por cobrar. 
+ 
+ La máxima exposición al riesgo de créditos por los componentes de los estados financieros al 31 de marzo de 
+2019 y 31 de diciembre de 2018 es el valor en libro de los mismos. 
+ 
+ En opinión de la Gerencia, no existen concentraciones de riesgo crediticio al 31 de marzo de 2019 y 31 de 
+diciembre de 2018. 
+  
+
+=== PAGINA PDF 27 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+ 
+(ii) Instrumentos financieros y depósitos bancarios 
+ El riesgo de crédito de saldo en bancos es administrado por la Gerencia de Administración y Finanzas de 
+acuerdo con las políticas de la Compañía. Los límites de crédito de contraparte son revisados por la Gerencia y el 
+Directorio. Los límites son establecidos para minimizar la concentración de riesgo y, por consiguiente, mitigar 
+pérdidas financieras provenientes de incumplimientos potenciales de la contraparte. 
+ 
+Riesgo de liquidez – 
+El riesgo de liquidez, es el riesgo de que la Compañía no pueda cumplir con sus obligaciones de pago relacionadas con 
+pasivos financieros al vencimiento y reemplazar los fondos cuando sean retirados. La consecuencia sería el 
+incumplimiento en el pago de sus obligaciones frente a terceros. 
+ 
+La liquidez se controla a través del calce de los vencimientos de sus activos y pasivos, de la obtención de líneas de 
+crédito y/o manteniendo los excedentes de liquidez, lo cual le permite a la Compañía desarrollar sus actividades 
+normalmente. 
+ 
+La administración del riesgo de liquidez implica mantener suficiente efectivo y disponibilidad de financiamiento, a 
+través de una adecuada cantidad de fuentes de crédito comprometidas y la capacidad de liquidar transacciones 
+principalmente de endeudamiento. Al respecto, la Gerencia de la Compañía orienta sus esfuerzos a mantener fuentes 
+de financiamiento a través de la disponibilidad de líneas de crédito y emisión de bonos, principalmente. 
+ 
+21. Eventos posteriores 
+ En Junta General de Accionistas del 30 de abril de 2019, se acordó distribuir dividendos por S/14,617,924 que se 
+desembolsaran en abril y mayo de 2019. 

@@ -1,0 +1,11 @@
+{
+  "id": "cosapi15",
+  "url": "https://www.cosapi.com.pe/Upload/documento/misc/cosapi-memoria-anual-2015.pdf",
+  "url_final": "https://www.cosapi.com.pe/Upload/documento/misc/cosapi-memoria-anual-2015.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "34e86aa3f8dec177f43957cbfad78c6f89edc213b8f0f1d2dd269674c069e7dc",
+  "sha256_texto": "e4639ccbd1429c8e13ec7f8c977280c930b48aad3699f95d70ea42827b9bb9c3",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

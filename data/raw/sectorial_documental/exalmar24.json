@@ -1,0 +1,11 @@
+{
+  "id": "exalmar24",
+  "url": "https://www.exalmar.com.pe/wp-content/uploads/2025/03/Estados-Financieros-2024.pdf",
+  "url_final": "https://www.exalmar.com.pe/wp-content/uploads/2025/03/Estados-Financieros-2024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "ee4f0ff61c473b46419d3649750965863d5dcb120d88045b3818b0f04c4d14c9",
+  "sha256_texto": "58960c00e0122d223b28c255ff0c2d4b8436e679664cfe04755de92364350413",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

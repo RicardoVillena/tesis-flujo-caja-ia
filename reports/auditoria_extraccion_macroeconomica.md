@@ -1,3 +1,4 @@
+
 # INFORME DE AUDITORÍA TÉCNICA Y METODOLÓGICA — EXTRACCIÓN MACROECONÓMICA (2005–2025)
 
 - **Proyecto:** `tesis-flujo-caja-ia` (Maestría en Inteligencia Artificial — UNI)

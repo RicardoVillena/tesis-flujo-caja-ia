@@ -1,0 +1,11 @@
+{
+  "id": "piura24",
+  "url": "https://www.enelamericas.com/content/dam/enel-americas/investor/enel-generaci%C3%B3n-piura/piura/inversores/pdf/egpiura/reportes/estados-financieros/anuales/2024/EEFF%202024%20EG%20Piura.pdf",
+  "url_final": "https://www.enelamericas.com/content/dam/enel-americas/investor/enel-generaci%C3%B3n-piura/piura/inversores/pdf/egpiura/reportes/estados-financieros/anuales/2024/EEFF%202024%20EG%20Piura.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "c29009e1097e2cbaa5d91a028ecf6970bec91f7fd37e232612e2679bd330ede6",
+  "sha256_texto": "cfea4fd823db55f964b158d348cb9ba06204a1ae1b4a8b12a68e873beb5aef42",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

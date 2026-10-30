@@ -1,0 +1,3483 @@
+
+=== PAGINA PDF 1 ===
+ 
+  
+ 
+ 
+  
+ 
+Enel Generación Piura S.A. 
+Estados Financieros  
+31 de diciembre de 2021 y de 2020 
+(Con el Dictamen de los Auditores Independientes) 
+
+=== PAGINA PDF 2 ===
+ 
+DICTAMEN DE LOS AUDITORES INDEPENDIENTES 
+ 
+ 
+A los Accionistas   
+Enel Generación Piura S.A. 
+ 
+Hemos auditado los estados financieros adjuntos de Enel Generación Piura S.A. (la Compañía), los 
+cuales comprenden el estado de situación financiera al 31 de diciembre de 2021 y de 2020, y los 
+estados de resultados y otros resultados integrales, de cambios en el patrimonio y de flujos de 
+efectivo por los años terminados en esas fechas, así como las políticas contables significativas y 
+otras notas explicativas adjuntas de la 1 a la 29. 
+ 
+Responsabilidad de la Gerencia sobre los Estados financieros 
+ 
+La Gerencia es responsable de la preparación y presentación razonable de estos estados financieros 
+de conformidad con Normas Internacionales de Información Financiera emitidas por el International 
+Accounting Standards Board, y del control interno que la Gerencia determina que es necesario para 
+permitir la preparación de estados financieros que estén libres de errores materiales, ya sea debido a 
+fraude o error.  
+ 
+Responsabilidad del Auditor 
+ 
+Nuestra responsabilidad consiste en expresar una opinión sobre estos estados financieros basada en 
+nuestras auditorías. Nuestras auditorías fueron realizadas de acuerdo con Normas Internacionales de 
+Auditoría aprobadas para su aplicación en Perú por la Junta de Decanos de Colegios de Contadores 
+Públicos del Perú. Tales normas requieren que cumplamos con requerimientos éticos y 
+planifiquemos y realicemos la auditoría para tener una seguridad razonable de que los estados 
+financieros están libres de errores materiales. 
+ 
+Una auditoría comprende la aplicación de procedimientos para obtener evidencia de auditoría sobre 
+los importes y la información revelada en los estados financieros. Los procedimientos seleccionados 
+dependen del juicio del auditor, incluyendo la evaluación de los riesgos de que existan errores 
+materiales en los estados financieros, ya sea debido a fraude o error. Al realizar esta evaluación de 
+riesgos, el auditor toma en consideración el control interno pertinente de la Compañía para la 
+preparación y presentación razonable de los estados financieros a fin de diseñar procedimientos de 
+auditoría de acuerdo con las circunstancias, pero no con el propósito de expresar una opinión sobre 
+la efectividad del control interno de la Compañía. Una auditoría también comprende la evaluación de 
+si los principios de contabilidad aplicados son apropiados y si las estimaciones contables realizadas 
+por la Gerencia son razonables, así como una evaluación de la presentación general de los estados 
+financieros.  
+ 
+Consideramos que la evidencia de auditoría que hemos obtenido es suficiente y apropiada para 
+proporcionarnos una base para nuestra opinión. 
+ 
+
+=== PAGINA PDF 3 ===
+O
+pinión 
+E
+n nuestra opinión, los estados financieros antes indicados presentan razonablemente, en todos sus 
+aspectos significativos, la situación financiera de Enel Generación Piura S.A. al 31 de diciembre de 
+2021 y de 2020, su desempeño financiero y sus flujos de efectivo por los años terminados en esas 
+fechas, de conformidad con Normas Internacionales de Información Financiera emitidas por el 
+International Accounting Standards Board.  
+Li
+ma, Perú 
+24
+ de febrero de 2022 
+R
+efrendado por: 
+___
+________________________ 
+Marilynn Montero (Socia)  
+C.P.C. Matrícula N° 32462
+
+
+=== PAGINA PDF 4 ===
+ 
+ 
+ 
+ 
+Enel Generación Piura S.A. 
+ 
+Estados Financieros  
+ 
+ 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+Contenido Página 
+Estado de Situación Financiera 1 
+Estado de Resultados y Otros Resultados Integrales 2 
+Estado de Cambios en el Patrimonio 3 
+Estado de Flujos de Efectivo 4 
+Notas a los Estados Financieros 5 – 54 
+ 
+
+=== PAGINA PDF 5 ===
+Enel Generación Piura S.A. 
+Estado de Situación Financiera 
+Al 31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+1 
+En miles de soles Nota 2021 2020  En miles de soles Nota 2021 2020 
+Activos     Pasivos    
+Activos corrientes     Pasivos corrientes    
+Efectivo y equivalentes al efectivo 6 94,353 134,786  Otros pasivos financieros 13 32,662 135,162 
+Cuentas por cobrar comerciales 7 24,352 18,757  Cuentas por pagar comerciales 14 41,245 55,013 
+Cuentas por cobrar a entidades relacionadas 8 13,049 13,232  Cuentas por pagar a entidades relacionadas 8 13,510 15,643 
+Otras cuentas por cobrar 9 4,237 13,628  Otras cuentas por pagar  15 5,842 4,172 
+Activo por impuesto a las ganancias  - 5,799  Otras provisiones  344 331 
+Inventarios 10 30,587 28,640  Pasivo por impuesto a las ganancias  410 - 
+Gastos pagados por anticipado  39 3,765  Total pasivos corriente  94,013 210,321 
+Total activo corriente   166,617 218,607      
+     Pasivos no corrientes    
+Activo no corriente     Otros pasivos financieros 13 151,976 13,966 
+Otros activos no financieros 11 29,890 15,693  Otras cuentas por pagar 15 3,337 6,408 
+Propiedades, planta y equipo 12 560,888 573,284  Pasivo por impuestos diferidos 16 87,696 69,153 
+Activos intangibles   5,312 5,791  Total pasivos no corrientes  243,009 89,527 
+Total activo no corriente   596,090 594,768  Total pasivos  337,022 299,848 
+         
+     Patrimonio  17   
+     Capital emitido  81,553 81,553 
+     Capital adicional  2,671 2,671 
+     Reservas de capital  16,311 16,311 
+     Resultados acumulados  327,765 415,925 
+     Resultados neto de coberturas de flujo de efectivo  (2,615) (2,933) 
+     Total patrimonio  425,685 513,527 
+Total activos   762,707 813,375  Total pasivos y patrimonio  762,707 813,375 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas adjuntas de la página 5 a la 54 forman parte integrante de estos estados financieros.
+
+=== PAGINA PDF 6 ===
+Enel Generación Piura S.A. 
+Estado de Resultados y Otros Resultados Integrales 
+Por los años terminados el 31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+2 
+En miles de soles Nota 2021 2020 
+Ingresos por generación de energía, potencia y gas   18 286,333 222,123 
+Costo de generación de energía   19 (152,435) (142,389) 
+Ganancia bruta  133,898 79,734 
+Gastos de administración  20 (13,172) (12,729) 
+Gastos de ventas  21 (1,402) (643) 
+Otros ingresos 22 1,787 15,459 
+Otros gastos 22 (40) (4,443) 
+Ganancia por actividades operacionales    121,071 77,378 
+Ingresos financieros 24 611 2,595 
+Gastos financieros 24 (3,953) (6,904) 
+Diferencia de cambio neta  (17,288) (12,749) 
+Resultados antes de impuesto   100,441 60,320 
+Impuesto a las ganancias      16 (31,471) (20,465) 
+Resultados del período  68,970 39,855 
+Otros resultados integrales     
+Variación neta por cobertura de flujos de efectivo, neto 
+de impuesto a las ganancias 
+ 
+318 15 
+   318 15 
+Total resultados integrales del periodo  69,288 39,870 
+Utilidad neta por acción básica y diluida (en soles)  0.937 0.539 
+Promedio ponderado del número de acciones en 
+circulación (en miles de unidades)  73,983 73,983 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas adjuntas de la página 5 a la 54 forman parte integrante de estos estados financieros
+
+=== PAGINA PDF 7 ===
+Enel Generación Piura S.A. 
+Estado de Cambios en el Patrimonio 
+Por los años terminados el 31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+3 
+ 
+En miles de soles Nota 
+Capital  
+emitido 
+(nota 17.A) 
+Capital  
+adicional 
+(nota 17.B)  
+Reservas 
+de capital  
+(nota 17.D) 
+Coberturas de 
+flujos de efectivo 
+(nota 13.G) 
+Resultados 
+acumulados Total  
+Saldo al 1 de enero de 2020  81,533 2,671 16,311 (2,948) 423,950 521,537 
+Resultado del periodo   - - - - 39,855 39,855 
+Otros resultados integrales del período  - - - 15 - 15 
+Total resultado integrales del periodo  - - - 15 39,855 39,870 
+Transacciones con los propietarios de la Compañía        
+Distribución de dividendos 17(c) - - - - (47,880) (47,880) 
+Total transacciones con los propietarios de la Compañía  - - - - (47,880) (47,880) 
+Saldo al 31 de diciembre de 2020  81,553 2,671 16,311 (2,933) 415,925 513,527 
+Saldo al 1 de enero de 2021  81,553 2,671 16,311 (2,933) 415,925 513,527 
+Resultado del periodo   - - - - 68,970 68,970 
+Otros resultados integrales del periodo  - - - 318 - 318 
+Total resultado integrales del periodo  - - - 318 68,970 69,288 
+Transacciones con los propietarios de la Compañía        
+Distribución de dividendos 17(c) - - - - (157,130) (157,130) 
+Total transacciones con los propietarios de la Compañía  - - - - (157,130) (157,130) 
+Saldo al 31 de diciembre de 2021  81,553 2,671 16,311 (2,615) 327,765 425,685 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas adjuntas de la página 5 a la 54 forman parte de estos estados financieros. 
+
+=== PAGINA PDF 8 ===
+Enel Generación Piura S.A. 
+Estado de Flujos de Efectivo 
+Por los años terminados el 31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+4 
+En miles de soles Nota 2021 2020 
+Flujos de efectivo procedentes de las actividades de 
+operación 
+   
+Utilidad antes de impuesto a las ganancias  68,970 39,855 
+Ajuste por:    
+Gastos financieros  25 3,953 6,904 
+Intereses financieros 24 (611) (2,595) 
+Gastos por impuesto a las ganancias  31,471 20,465 
+Diferencia en cambio neta 5 17,288 12,749 
+Depreciación  12 37,989 39,450 
+Amortización  1,034 817 
+Deterioro del valor en cuentas por cobrar 7(c) y 9(b) 69 (41) 
+Cambios en:    
+Cuentas por cobrar comerciales  (5,664) 1,980 
+Otras cuentas por cobrar  15,609 (16,572) 
+Inventarios  (1,947) (863) 
+Otros activos no financieros  (10,470) (9,594) 
+Cuentas por pagar comerciales  (13,767) 10,362 
+Otras cuentas por pagar  (7,090) 3,406  
+Otras provisiones  13 128 
+Flujos procedentes de las actividades de operación   136,847 106,451 
+Intereses cobrados 
+ 
+375 2,406 
+Impuesto a las ganancias pagados 
+ 
+(8,257) (19,787) 
+Intereses pagados 
+ 
+(4,486) (6,805) 
+Flujo neto generado en las actividades de operación  124,479 82,265 
+Flujos de efectivo procedentes de actividades de 
+inversión 
+   
+Cobro de préstamos a entidades relacionadas  119,000 61,316 
+Préstamos otorgados a entidades relacionadas 8(f) (119,000) (40,000) 
+Compra de propiedades, planta y equipo 12 (25,592) (37,500) 
+Compra de activos intangibles  (555) (1,140) 
+Flujo neto usado en las actividades de inversión  (26,147) (17,324) 
+Flujos de efectivo procedentes de actividades de 
+financiamiento 
+   
+Obtención de préstamos con entidades bancarias 13(e) 162,105 92,021 
+Amortización de pasivos por arrendamiento financiero  (50,196) (137,687) 
+Amortización de préstamos con entidades bancarias 13(d) (94,800) - 
+Pago de dividendos 17(c) (157,130) (47,880) 
+Flujo neto usado en las actividades de financiamiento  (140,021) (93,546) 
+Disminución de efectivo y equivalentes al efectivo   (41,689) (28,605) 
+Efecto de las variaciones de diferencia en cambio sobre el 
+efectivo 
+ 
+1,256 816 
+Efectivo y equivalentes al efectivo al inicio del ejercicio  134,786 162,575 
+Efectivo y equivalente al efectivo al final del periodo  94,353 134,786 
+Transacciones que no representan flujo de efectivo:    
+Adquisiciones de activo fijo a través de arrendamientos 
+financieros y adiciones de activos por derecho de uso  110 - 
+ 
+ 
+ 
+ 
+Las notas adjuntas de la página 5 a la 54 forman parte de estos estados financieros.
+
+=== PAGINA PDF 9 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+5 
+1. Identificación y Actividad Económica 
+ 
+A. Antecedentes 
+Enel Generación Piura S.A. (en adelante "la Compañía") es una subsidiaria de Enel Perú S.A.C., la cual 
+posee el 96.497 por ciento de su capital social. La Compañía fue constituida en Perú en el año 1996 
+y es una sociedad anónima cuyas acciones cotizan en la Bolsa de Valores de Lima (BVL).  Enel  
+Perú S.A.C. es una compañía subsidiaria del Grupo ENEL de Italia, a través de Enel Américas S.A., 
+una empresa domiciliada en Chile.  
+ 
+El domicilio legal de la Compañía es Carretera Talara-Lobitos N° 3.5 Planta Eléctrica Malacas, Talara, 
+Piura, Perú; y sus oficinas administrativas se encuentran en Calle César López Rojas 201, San 
+Miguel, Lima, Perú.  
+ 
+B. Actividad económica 
+La Compañía tiene como objetivo la generación de energía eléctrica y también participa en el 
+negocio de gas. La actividad de generación la realiza en la planta de generación termoeléctrica de su 
+propiedad, cuya potencia efectiva es de 341.10 megavatios al 31 de diciembre de 2021 (343.61 
+megavatios 31 de diciembre de 2020). 
+ 
+C. Aprobación de los estados financieros  
+Los estados financieros por el año terminado el 31 de diciembre de 2020 fueron aprobados por el 
+Directorio y la Junta Obligatoria Anual de Accionistas el 24 de febrero y el 26 de marzo de 2021, 
+respectivamente. Los estados financieros al 31 de diciembre de 2021 han sido autorizados para su 
+emisión por la Gerencia de la Compañía el 15 de febrero de 2022 y serán presentados para su 
+aprobación al Directorio y a la Junta General de Accionistas dentro de los plazos establecidos por ley. 
+En opinión de la Gerencia, dichos estados financieros serán aprobados sin modificaciones. 
+ 
+D. Pandemia COVID-19 
+En marzo de 2020, la Organización Mundial de la Salud declaró como “pandemia” al brote de 
+Coronavirus (COVID-19), debido a su rápida propagación por el mundo. La mayoría de los gobiernos 
+han tomado medidas para contener su expansión, las cuales incluyen: aislamiento, confinamiento, 
+cuarentena y restricción al libre movimiento de personas, cierre de locales públicos y privados, salvo 
+los denominados esenciales o de primera necesidad (sanitarios, alimenticios, energía, combustibles 
+y comunicaciones), cierre de fronteras y reducción drástica del transporte aéreo, marítimo, 
+ferroviario y terrestre entre otras actuaciones. 
+ 
+El 6 de marzo de 2020, el Gobierno peruano comunicó sobre el primer caso de COVID-19 en nuestro 
+país y declaró al Perú en estado de emergencia nacional. Se tomaron diversas medidas para la 
+contención de la pandemia, siendo las principales: el aislamiento social obligatorio, suspensión de 
+ciertos derechos constitucionales, libre tránsito de las personas en el país, aseguramiento al acceso 
+de servicios públicos y bienes esenciales entre otras medidas.  
+ 
+El sector energía es considerado esencial y ha seguido realizando sus actividades de manera 
+ininterrumpida, tanto en el sector de generación como de distribución eléctrica. Durante 2020, el 
+Gobierno otorgó ciertos beneficios con la finalidad de apoyar a los sectores más vulnerables de la 
+población, mediante el fraccionamiento de la deuda de energía, asumiendo el Estado los intereses 
+compensatorios y otorgamiento de bonos para pagar la deuda de los mismos. 
+ 
+En enero de 2021, el Gobierno anunció nuevas medidas ante la crisis sanitaria y el incremento de los 
+casos de contagios o “segunda ola”. Estas medidas están diferenciadas según las zonas de riesgo 
+en las que se han dividido las regiones del país, las cuales son: “Riesgo Moderado” “Alto”, “Muy 
+Alto” y “Extremo”. Las diferentes medidas van desde la inmovilización social hasta restricciones de 
+ciertas actividades económicas no esenciales. En enero de 2022, debido al incremento de los 
+contagios se declaró una “tercera ola”. A la fecha de emisión del presente informe, Talara, Piura se 
+encontraba clasificada como de “riesgo alto” lo que supone restricciones para algunas actividades.  
+
+=== PAGINA PDF 10 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+6 
+ 
+En febrero de 2021 llegó al país el primer lote de vacunas contra la COVID-19, empezando de esta 
+forma el proceso de inoculación de la población. A diciembre de 2021, se ha logrado vacunar 
+aproximadamente a 21.9 millones de personas (con 2 dosis) y a 24.7 millones de personas se les ha 
+aplicado la primera dosis, según estadística proporcionada por el Ministerio de Salud. Asimismo, se 
+ha logrado vacunar con una tercera dosis a 4.1 millones de personas. La aplicación de las vacunas se 
+desarrolla en función de la vulnerabilidad asociada al rango de edad y tiempo transcurrido entre 
+dosis. Al cierre de este informe, el estado de emergencia nacional había sido extendido hasta el  
+28 de febrero de 2022.  
+ 
+La Compañía ha adoptado todas las medidas que ha considerado necesarias y convenientes para la 
+continuidad operacional, asegurando la seguridad y protección de la salud de sus colaboradores y 
+clientes de acuerdo con las medidas ordenadas por las autoridades competentes, para el control de 
+la COVID-19. 
+ 
+La Compañía realizó la evaluación de los impactos en los estados financieros, relacionados con las 
+acciones de respuesta a la pandemia por COVID-19 ejecutadas durante los años 2021 y 2020, no 
+identificando efectos significativos, de acuerdo con lo dispuesto por las Normas Internacionales de 
+Información Financiera y su correspondiente impacto tributario. 
+ 
+2. Regulación Operativa y Normas Legales que afectan a las Actividades del 
+Sector Eléctrico 
+Las principales normas que afectan las actividades de la Compañía son:  
+ 
+A. Ley de Concesiones Eléctricas y su Reglamento  
+El 19 de noviembre de 1992, se promulgó la Ley de Concesiones Eléctricas mediante Decreto Ley 
+N° 25844 y, el 19 de febrero de 1993, se promulgó su Reglamento mediante Decreto Supremo  
+N° 009-93-EM.  
+ 
+De acuerdo con dicha ley, el sector eléctrico peruano está dividido en tres grandes segmentos: 
+generación, transmisión y distribución, de forma tal que más de una actividad no pueda ser 
+desarrollado por una misma empresa.  El sistema eléctrico peruano está conformado por un solo 
+sistema eléctrico denominado Sistema Interconectado Nacional (SEIN), además de algunos sistemas 
+eléctricos aislados. La Compañía desarrolla sus operaciones dentro del segmento de generación de 
+energía eléctrica y es integrante al SEIN. 
+ 
+Mediante Decreto Legislativo N° 1451 publicado el 16 de setiembre de 2018, en su artículo 50, se 
+incorpora un párrafo en el artículo 122° de la Ley 25844, referido a la integración vertical en los casos 
+que no califiquen como actos de concentración conforme a la normatividad vigente.  
+ 
+B. Ley para Asegurar el Desarrollo Eficiente de la Generación Eléctrica  
+El 23 de julio de 2006 se promulgó la Ley N° 28832, Ley para Asegurar el Desarrollo Eficiente de la 
+Generación Eléctrica, dicha Ley que tiene como sus principales objetivos: i) asegurar la suficiencia de 
+generación eléctrica eficiente, que reduzca la exposición del sistema eléctrico a la volatilidad de 
+precios y al riesgo de racionamiento por falta de energía; y, asegurar al consumidor una tarifa 
+eléctrica competitiva; ii) reducir la intervención administrativa en la determinación de precios de 
+generación mediante soluciones de mercado; y iii) propiciar competencia efectiva en el mercado de 
+generación.  
+ 
+Los principales cambios introducidos por la Ley están referidos a la participación en el mercado de 
+corto plazo de las empresas de generación, las empresas de distribución y los grandes clientes 
+libres, incluyéndose por tanto a distribuidores y clientes libres como integrantes del COES-SINAC, 
+modificándose la estructura de este organismo. Adicionalmente, se introdujo el mecanismo de 
+licitaciones que deberán seguir las empresas distribuidoras de electricidad para efectos de celebrar 
+contratos de suministro de electricidad con empresas generadoras destinados a abastecer el 
+servicio público de electricidad y optativamente para el caso de usuarios libres.   
+
+=== PAGINA PDF 11 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+7 
+ 
+La venta de energía que efectúen los generadores a distribuidores que estén destinadas al servicio 
+público de electricidad, se realizará a Precios de Nivel de Generación que se calculan como el 
+promedio ponderado de Contratos sin Licitación y Contratos resultantes de Licitaciones. Tal 
+disposición tiene por finalidad establecer un mecanismo que promueva las inversiones en nueva 
+capacidad de generación a través de contratos de suministro de electricidad de largo plazo y precios 
+firmes con empresas distribuidoras. 
+ 
+Mediante Decreto Supremo N° 022-2018-EM (modificado por D.S. N° 026-2018-EM), se modifica el 
+Reglamento de Licitaciones del Suministro de Electricidad, aprobado por Decreto Supremo  
+N° 052-2007-EM, con la finalidad de establecer disposiciones sobre el procedimiento de evaluación 
+de las propuestas de modificación de los Contratos resultantes de Licitaciones. 
+ 
+C. Organismo Supervisor de la Inversión en Energía  
+Mediante Ley N°  26734, promulgada el 27 de diciembre de 1996, se creó el Organismo Supervisor 
+de la Inversión en Energía y Minería - OSINERGMIN, cuya finalidad es supervisar las actividades que 
+desarrollan las empresas en los sub-sectores de electricidad, hidrocarburos y minería, velar por la 
+calidad y eficiencia del servicio brindado al usuario y fiscalizar el cumplimiento de las obligaciones 
+contraídas por los concesionarios en los contratos de concesión, así como de los dispositivos legales 
+y normas técnicas vigentes. De igual manera, tiene a su cargo la fijación de las tarifas eléctricas para 
+los usuarios regulados, de acuerdo a los criterios establecidos en la Ley de Concesiones Eléctricas.  
+ 
+Como parte de la función normativa, OSINERGMIN tiene la facultad de dictar, dentro de su 
+competencia, reglamentos y normas de carácter general aplicables a las entidades del sector y a los 
+usuarios. 
+ 
+D. Norma Técnica de Calidad de los Servicios Eléctricos 
+Mediante Decreto Supremo N° 020-97-EM, se aprobó la Norma Técnica de Calidad de los Servicios 
+Eléctricos-NTCSE, que establece los niveles mínimos de calidad de los servicios eléctricos, 
+incluyendo el alumbrado público, y las obligaciones de las empresas del sector eléctrico y los 
+clientes que operan en el marco de la Ley de Concesiones Eléctricas.  
+ 
+La NTCSE contempla procedimientos de medición, tolerancias y la aplicación de penalidades y 
+compensaciones en casos de incumplimiento de los parámetros establecidos por la norma.   
+ 
+E. Ley Antimonopolio y Antioligopolio en el Sector Eléctrico  
+El 18 de noviembre de 1997, se promulgó la Ley Antimonopolio y Antioligopolio en el Sector 
+Eléctrico, Ley N° 26876, la cual establece que las concentraciones verticales iguales o mayores al  
+5 por ciento u horizontales iguales o mayores al 15 por ciento que se produzcan en las actividades 
+de generación, transmisión y distribución de energía eléctrica se sujetarán a un procedimiento de 
+autorización previa, a fin de evitar concentraciones que afecten la libre competencia.  
+ 
+Mediante Resolución N° 012-99/INDECOPI/CLC, se establecen condiciones de conducta en defensa 
+de la libre competencia y transparencia en el sector que afectan a la Compañía. El principal aspecto 
+relacionado con la Compañía es que debe licitar sus compras de energía eléctrica entre todos los 
+generadores existentes en el sistema, conforme se vayan venciendo los contratos que tiene 
+vigentes con estos generadores, debiendo hacer de dominio público el procedimiento y los 
+resultados de cada licitación, debido a que las generadoras Enel Generación Perú S.A.A.,  
+Chinango S.A.C. y Enel Generación Piura S.A. son empresas relacionadas por tener como accionista 
+controlador al Grupo ENEL. En opinión de la Gerencia, esta norma no afecta el desarrollo normal de 
+las operaciones de la Compañía. 
+ 
+  
+
+=== PAGINA PDF 12 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+8 
+ 
+Mediante Decreto de Urgencia Nº 013-2019 publicado el 19 de noviembre de 2019, se estableció un 
+régimen de control previo de operaciones de concentración empresarial con la finalidad de promover 
+la eficiencia económica en los mercados para el bienestar de los consumidores. La entrada en 
+vigencia del mencionado Decreto de Urgencia estaba prevista para el 1 de marzo de 2021. 
+ 
+Con fecha 6 de enero de 2021 se publicó la Ley N° 31112, Ley que establece el control previo de 
+operaciones de concentración empresarial. Con la entrada en vigencia esta norma, lo que supone la 
+previa aprobación de su reglamento y otras adecuaciones normativas dispuestas por la propia ley, se 
+derogará el contenido de la Ley N° 26876 con excepción de su artículo 13°, el mismo que modifica el 
+artículo 122° del Decreto Ley N° 25844, Ley de Concesiones Eléctricas (relativo a las restricciones 
+de concentración en el sector eléctrico) así como el Decreto de Urgencia N° 013-2019 que establecía 
+el control previo de operaciones de concentración empresarial a partir del 1 marzo de 2021. 
+ 
+Mediante el Decreto Supremo N° 039-2021-PCM, publicado el 4 de marzo de 2021, se aprueba el 
+Reglamento de la Ley N° 31112 que establece el control previo de operaciones de concentración 
+empresarial. 
+ 
+F. Normas para la Conservación del Medio Ambiente  
+El Estado diseña y aplica las políticas y normas necesarias para la adecuada conservación del medio 
+ambiente y del patrimonio cultural de la nación, además de velar por el uso racional de los recursos 
+naturales en el desarrollo de las actividades relacionadas con la generación, transmisión y 
+distribución de energía eléctrica y de las actividades de hidrocarburos. En tal sentido, el Ministerio de 
+Energía y Minas ha aprobado el Reglamento de Protección Ambiental en las Actividades Eléctricas 
+(Decreto Supremo N° 014-2019-EM) y el Reglamento de Protección Ambiental en las Actividades de 
+Hidrocarburos (Decreto Supremo N° 039-2014-EM). 
+ 
+Mediante la Resolución de Consejo Directivo 0004-2021-OEFA/CD, publicada el 17 de marzo de 
+2021, se aprueba el plan anual de evaluación y fiscalización ambiental – Planefa del organismo de 
+evaluación y fiscalización ambiental – OEFA correspondiente al año 2022 
+ 
+G. Reglamento del Mercado Mayorista de Electricidad  
+Mediante Decreto Supremo N° 026-2016-EM, se aprueba el Reglamento del Mercado Mayorista de 
+Electricidad (Reglamento MME). Los principales aspectos del Reglamento MME son: incorpora la 
+definición “MME” que está conformado por el mercado de corto plazo (“MCP”) y los mecanismos 
+de asignación de servicios complementarios, inflexibilidades operativas y asignación de rentas de 
+congestión. Los participantes autorizados a comprar en el MCP son: los generadores para atender 
+sus contratos de suministro; los distribuidores para atender a sus usuarios libres, hasta por un 10% 
+de la máxima demanda; y, los grandes usuarios, para atender hasta por un 10% de su máxima 
+demanda.  
+ 
+El COES calculará los costos marginales de energía y costos marginales de congestión, valorizará 
+diariamente con carácter provisional las transacciones en el MME y los resultados se pondrán a 
+disposición de los participantes en el portal web del COES. Las Rentas por Congestión se asignarán 
+entre los participantes conforme a lo establecido en el procedimiento respectivo. Los participantes 
+deberán contar con garantías de pago de sus obligaciones en el MME, además se incorporan las 
+acciones por parte del COES ante el incumplimiento de las obligaciones de pago por parte de un 
+participante. 
+ 
+Mediante Decreto Supremo N° 033-2017-EM publicado el 2 de octubre de 2017, se dispone que el 
+Reglamento del Mercado Mayorista de Electricidad, aprobado mediante Decreto Supremo  
+N° 026-2016-EM entra en vigencia a partir del 1 de enero de 2018, con el fin de implementar el 
+aplicativo desarrollado por el COES para el cálculo de los costos marginales de corto plazo. 
+  
+
+=== PAGINA PDF 13 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+9 
+ 
+Mediante Decreto Supremo N° 005-2018-EM publicado el 20 de marzo de 2018, se modifican 
+diversos artículos del Reglamento del Mercado Mayorista de Electricidad, donde precisa los 
+aspectos de la participación, garantía, incumplimiento, baja o exclusión de los participantes en el 
+MME. 
+ 
+H. Ley Marco Sobre el Cambio Climático  
+Mediante Ley N° 30754 publicado el 18 de abril de 2018, se promulgó la Ley Marco Sobre el Cambio 
+Climático. Se rige bajo los principios de la Ley 28611, Ley General del Ambiente; la Ley 28245, Ley 
+Marco del Sistema Nacional de Gestión Ambiental, la Política Nacional del Ambiente, aprobada por el 
+Decreto Supremo 012-2009-MINAM y la Convención Marco de Naciones Unidas sobre el Cambio 
+Climático, aprobada por la Resolución Legislativa 26185. La Ley Marco tiene por objeto establecer 
+los principios generales para ejecutar, evaluar y difundir las políticas públicas para la gestión integral 
+de las medidas de adaptación y mitigación al cambio climático, aprovechar las oportunidades del 
+crecimiento bajo en carbono y cumplir con los compromisos internacionales asumidos por el Estado 
+ante la Convención Marco de las Naciones Unidas. 
+ 
+Cabe señalar que mediante el D.S. N° 006-2020-MINAM, publicado el 4 de julio de 2020, se creó la 
+Comisión Multisectorial de carácter permanente denominada “Comisión de Alto Nivel de Cambio 
+Climático (CANCC)”. 
+ 
+I. Decretos supremos fundados en el marco de situaciones de emergencia  
+Mediante Decreto Supremo N° 008-2017-EM publicado el 23 de marzo de 2017, se establece un 
+régimen de autorización para la importación de energía en situación de emergencia. En el marco de 
+situaciones de emergencia según lo dispuesto en la Decisión 757, concordado con el numeral 5.3 
+del Reglamento Interno para la aplicación de la Decisión 757 de la Comunidad Andina de Negocio 
+(CAN), y en ausencia de otras opciones disponibles, el COES se encuentra autorizado a realizar 
+intercambios de electricidad de emergencia para asegurar el suministro eléctrico al Servicio Público 
+de Electricidad. 
+ 
+Mediante Decreto Supremo N° 017-2018-EM publicado el 23 de julio de 2018, se establece el 
+Mecanismo de Racionamiento ante situaciones que pongan en Emergencia el abastecimiento de 
+gas natural, entiéndase como Emergencia el desabastecimiento total o parcial de gas natural en el 
+mercado interno por cualquier situación que afecte el suministro y/o transporte y/o distribución de 
+gas natural, debidamente calificada por el Ministerio de Energía y Minas. 
+ 
+J. Decreto Supremo N° 016-2000–EM  
+Mediante este decreto, publicado el 14 de setiembre de 2000, se fijan horas de regulación y 
+probabilidad de excedencia mensual de centrales hidráulicas, horas de punta del sistema eléctrico y 
+establecen que las unidades de generación con gas natural declaren un precio único que considera 
+los costos de suministro, transporte y distribución de gas natural, con vigencia desde el mes de julio 
+de cada año por un periodo de 12 meses.  
+ 
+Mediante Decreto Supremo N° 019-2017-EM publicado el 7 de junio de 2017, se modifica el artículo 
+5 del Decreto Supremo N° 016-2000-EM. Para las generadoras que utilicen gas natural como 
+combustible, la información a presentar por sus titulares consiste en un precio único del gas natural 
+puesto en el punto de entrega de cada central de generación, una fórmula de reajuste y la 
+información relativa a la calidad del combustible, esta información será presentada dos veces al año. 
+La primera presentación se realiza el último día hábil de la primera quincena de noviembre, estando 
+vigente para el periodo de avenida (desde 1 de diciembre hasta el 31 de mayo del siguiente año) y la 
+segunda se realiza el último día hábil de la primera quincena de mayo, estando vigente en el periodo 
+de estiaje (desde el 1 de junio hasta el 30 de noviembre). 
+ 
+  
+
+=== PAGINA PDF 14 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+10 
+ 
+Mediante Decreto Supremo N° 039-2017-EM publicado el 14 de noviembre de 2017, se suspende el 
+proceso de declaración del precio único de gas natural de las centrales termoeléctricas hasta el  
+31 de diciembre de 2017, referido en el numeral 5.2 del artículo 5 del Decreto Supremo  
+N° 016-2000-EM. 
+ 
+Mediante Decreto Supremo N° 043-2017-EM publicado el 28 de diciembre de 2017, se modifica el 
+artículo 5 del Decreto Supremo N° 016-2000-EM, estableciendo que las generadoras que usen gas 
+natural como combustible deben declarar el precio único de gas una vez al año con vigencia desde el 
+primero de julio. El COES verifica que el valor declarado sea como mínimo el resultado de aplicar una 
+fórmula que considera la Cantidad Diaria Contractual, el consumo específico, contratos take or pay y 
+el precio de suministro de gas natural sin incluir transporte y distribución. 
+ 
+K. Mediante Resolución Suprema N° 006-2019-EM del 20 de junio de 2019 
+Se crea la Comisión Multisectorial para la Reforma del Subsector Electricidad. Su objeto es realizar 
+un análisis del mercado de electricidad y del marco normativo de los Subsectores Electricidad e 
+Hidrocarburos, en lo relacionado a la provisión de energía eléctrica para el SEIN, a fin de formular 
+propuestas orientadas a la adopción de medidas que garanticen la sostenibilidad y desarrollo del 
+Subsector Electricidad, el plazo de vigencia de la comisión es 24 meses. 
+ 
+L. Mediante Resolución Osinergmin N° 144-2019-OS/CD se modifica el Procedimiento  
+Técnico del COES Nº 26 “Cálculo de la Potencia Firme”. Dicho parámetro se utiliza para la 
+determinación de ingresos por potencia de los generadores en el COES, así como también en nivel 
+de contratación que pueden alcanzar. A partir de septiembre de 2019, la Potencia Firme para las 
+centrales RER que utilizan tecnología eólica, solar o mareomotriz (previo a la modificación era cero), 
+se determinará considerando la producción de energía en las Horas de Punta del sistema.  
+ 
+M. Mediante Decreto Supremo N° 023-2019-EM publicado el 29 de diciembre de 2019 
+Se prorroga hasta el 31 de diciembre de 2020 la suspensión de la implementación del Reglamento 
+del Mercado Secundario de Gas Natural (Decretos Supremos N° 046-2010-EM y N° 032-2017-EM).  
+ 
+N. Normas aprobadas con impacto significativo en el Sector Eléctrico Peruano  
+Mediante la Resolución de Consejo Directivo N° 161-2020-OS/CD, publicado el 23 de octubre del 
+2020, se modifican procedimientos técnicos del COES N° 10 y COES N° 30; asimismo la definición 
+de los términos demanda coincidente, retiro y restricciones de capacidad de transmisión del glosario 
+de abreviaturas y definiciones utilizadas en los procedimientos técnicos del COES-SINAC. 
+ 
+Mediante la Resolución de Consejo Directivo N° 166-2020-OS/CD, publicado el 30 de octubre del 
+2020, se aprueban procedimiento para la fiscalización de contratos y autorizaciones del subsector 
+eléctrico y contratos de concesión en las actividades de gas natural. 
+ 
+Mediante la Resolución de Consejo Directivo N° 208-2020-OS/CD, publicado el 18 de diciembre del 
+2020, se aprueban "Reglamento de fiscalización y sanción de las actividades energéticas y mineras a 
+cargo de Osinergmin". 
+ 
+Mediante el Decreto Supremo N° 031-2020-EM, publicado el 21 de diciembre de 2020, se establece 
+disposiciones para la determinación del precio del gas natural para generación eléctrica. 
+ 
+Mediante el Decreto Supremo N° 034-2020-EM, publicado el 30 de diciembre de 2020, se suspende 
+la implementación del reglamento del mercado secundario de gas natural aprobado mediante el 
+Decreto Supremo N° 046-2010-EM. 
+ 
+Mediante la Resolución Ministerial N°422-2020 MINEM/DM, publicado el 31 de diciembre de 2020, 
+se aprueba el Plan de Transmisión 2021-2030. 
+  
+
+=== PAGINA PDF 15 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+11 
+ 
+Mediante el Decreto Supremo N° 003-2021-EM, publicado el 1 de febrero de 2021, se establecen 
+disposiciones de mejora en la eficiencia del uso de la capacidad de transporte de gas para la 
+generación térmica con gas natural y el pago de la potencia firme.  
+ 
+Mediante la Resolución de Consejo Directivo N° 012-2021-OS/CD, publicada el 1 de febrero de 2021, 
+se aprueba el nuevo Procedimiento Técnico del COES N° 06 “Reprogramación de la operación diaria 
+(PR-06)”. 
+ 
+Mediante la Resolución de Consejo Directivo N° 030-2021-OS/CD, publicada el 27 de febrero 
+del2021, se aprueba el nuevo Procedimiento Técnico del COES N° 04 “Ensayos para la 
+Determinación de la Potencia Mínima de las Unidades de Generación del SEIN”. 
+ 
+La Resolución de Consejo Directivo Osinergmin N° 083-2021-OS/CD, publicado el 30 de abril de 
+2021, aprueba la modificación del Procedimiento Técnico N° 20 del COES “Ingreso, Modificación y 
+Retiro de Instalaciones en el SEIN".  
+ 
+La Resolución de Consejo Directivo Osinergmin N° 092-2021-OS/CD, publicado 3 de mayo de 2021, 
+aprueba la modificación el Procedimiento Técnico del COES N° 31 “Cálculo de los Costos Variables 
+de las Unidades de Generación” en el cual se cambió la declaración de precios de gas por precios 
+auditados que incluyen toda la cadena (Producción, Transporte y Distribución) el impacto significativo 
+será en el incremento del costo marginal. 
+ 
+Mediante la Resolución Ministerial N° 146-2021-MINEM/DM, publicado el 18 de mayo de 2021, 
+encargan a ProInversión los procesos de promoción de la inversión privada de diversos Proyectos 
+Vinculantes del Plan de Transmisión 2021-2030, aprobado mediante R.M. Nº 422-2020-MINEM/DM. 
+Estos proyectos vinculantes reforzarán el sistema eléctrico de tal manera que se permita mayor 
+penetración energías renovables. 
+ 
+El Decreto Supremo 012-2021-EM, publicado el 19 de mayo de 2021, aprueba el Reglamento para 
+Optimizar el uso del Gas Natural y crea el Gestor del Gas Natural.  
+ 
+Mediante Resolución Directoral Nº 0084-2021-MINEM/DGE, publicado el 25 de mayo de 2021, se 
+aprueba la modificación del numeral 5.4.10 de la Norma Técnica de Coordinación de la Operación en 
+Tiempo Real de los Sistemas Interconectados con la finalidad de mejorar el criterio de eficiencia que 
+permita el máximo aprovechamiento del gas natural para la generación de electricidad. 
+ 
+Mediante la Resolución Ministerial N° 153-2021-MINEM/DM, publicado el 26 de mayo de 2021, se 
+fijan las Horas de Punta del Sistema Eléctrico Interconectado Nacional, para efectos de la evaluación 
+de la indisponibilidad de las unidades generadoras. 
+ 
+Mediante la Resolución de Consejo Directivo Osinergmin N° 096-2021-OS/CD, publicado el 29 de 
+mayo de 2021, se aprueba el nuevo Procedimiento Técnico del COES N° 25 (PR-25): “Determinación 
+de los Factores de Indisponibilidad Presencia e Incentivos a la disponibilidad de las Centrales y 
+Unidades de Generación” de los Criterios y Metodología para determinar los respectivos Factores de 
+Referencia a la Contratación (FRC) y de los FRC para el periodo 1 de junio de 2021 al 30 de abril de 
+2025. 
+ 
+Mediante Resolución Ministerial N° 096-2021-MINAM, publicado el 7 de junio de 2021, se aprueba 
+el “Plan Nacional de Adaptación al Cambio Climático del Perú: un insumo para la actualización de la 
+Estrategia Nacional ante el Cambio Climático”. 
+ 
+  
+
+=== PAGINA PDF 16 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+12 
+ 
+Mediante la Resolución de Concejo Directivo Osinergmin N° 120-2021-OS/CD, publicado el 12 de 
+junio de 2021, se aprueba la “Guía Metodológica para el Cálculo de la Multa Base”, modifican el 
+Reglamento de Fiscalización y Sanción de las Actividades Energéticas y Mineras a cargo de 
+Osinergmin y modifican disposiciones relacionadas a autoridades administrativas en los 
+procedimientos tramitados ante Osinergmin en el sector energético y minero. 
+ 
+Mediante Resolución de Concejo Directivo Osinergmin 185-2021-OS-CD, publicado el 29 de julio de 
+2021, se aprueban las modificaciones al “Procedimiento para Licitaciones de Largo Plazo de 
+Suministros en el marco de la Ley Nro. 28832". 
+ 
+Mediante Resolución de Concejo Directivo Osinergmin 194-2021-OS-CD, publicado el 24 de agosto 
+de 2021, se dispone la publicación del Informe Técnico N° 569-2021-GRT, "Proceso de Regulación 
+de los Precios en Barra correspondiente al periodo mayo 2021 – abril 2022". 
+ 
+Mediante la Resolución Directoral 159-2021-MINEM-DGE, publicado el 29 de setiembre de 2021, se 
+establecen diversos Sectores de Distribución Típicos para efecto de las fijaciones del Valor Agregado 
+de Distribución de los años 2022 y 2023. 
+ 
+Mediante Resolución de Consejo Directivo Osinergmin 205-2021-OS-CD, publicado el 29 de 
+setiembre de 2021, se dispone la publicación del Informe Técnico N° 609-2021-GRT “Proceso de 
+Regulación de los Sistemas Secundarios de Transmisión y Sistemas Complementarios de 
+Transmisión” correspondiente al periodo mayo 2021 – abril 2025. 
+ 
+Mediante Resolución de Concejo Directivo Osinergmin 208-2021-OS-CD, publicado el 29 de 
+setiembre de 2021, se aprueba el “Procedimiento para la fiscalización de los reintegros y recuperos 
+de energía eléctrica en el servicio público de electricidad”. 
+ 
+Mediante Resolución Ministerial 305-2021-MINEM-DM, publicado el 30 de setiembre de 2021, 
+modifican servidumbre de electroducto de Línea de Transmisión de 60 kV SE Oquendo - SE La 
+Pampilla, impuesta a favor de concesión definitiva de distribución de energía eléctrica de la que es 
+titular Enel Distribución Perú S.A.A. 
+ 
+Mediante Resolución Jefatural N° 0196-2021-ANA, publicada el 19 de octubre de 2021, se aprueban 
+los “Lineamientos Generales para la Actualización de Planes de Gestión de Recursos Hídricos en 
+Cuencas”. 
+ 
+Mediante Resolución Ministerial N° 196-2021-MINAM, publicada el 20 de octubre de 2021, se 
+aprueban los “Lineamientos metodológicos para la formulación y actualización de los Planes Locales 
+de Cambio Climático y sus anexos”. 
+ 
+Mediante Resolución de Concejo Directivo Osinergmin 226-2021-OS-CD, publicada el 30 de octubre 
+de 2021, aprueban los factores de actualización “p” aplicables a partir del 4 de noviembre de 2021 
+para determinar los cargos unitarios por Compensación por Seguridad de Suministro de Reserva 
+Fría, por Prima, por FISE, y por Capacidad de Generación Eléctrica. 
+ 
+Mediante Decreto Supremo N° 030-2021-MINAM, publicado el 30 de octubre de 2021, aprueban 
+Límites Máximos Permisibles para emisiones atmosféricas de las actividades de generación 
+termoeléctrica. 
+ 
+Mediante Resolución de Concejo Directivo Osinergmin 244-2021-OS-CD, publicada el 18 de 
+diciembre de 2021, modifican el Procedimiento Técnico del COES N° 07 “Determinación de los 
+Costos Marginales de Corto Plazo” (PR-07). 
+  
+
+=== PAGINA PDF 17 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+13 
+ 
+O. Contratos 
+ 
+O.1.  Contratos de venta de energía  
+Se tienen firmados 27 contratos de suministro de electricidad con Clientes Regulados 
+(distribuidores), de los cuales 6 han sido firmados con su relacionada Enel Distribución Perú S.A.A., 
+el plazo de estos contratos fluctúa entre 8 y 12 años y la potencia contratada máxima entre  
+0.082 MW y 17.47 MW.  
+ 
+Adicionalmente, se tienen firmado 2 contratos con Clientes Libres cuyos plazos de contratos son de 
+11 años, con una potencia contratada máxima de 3.5 MW. 
+ 
+O.2. Contratos de compra de gas  
+Al 31 de diciembre de 2021 y de 2020, se mantiene contratos de suministro de gas natural con las 
+empresas: (1) Savia Perú S.A (antes Petrotech) por 18.0 MMPCD con vigencia hasta el 16 de 
+noviembre de 2023, CNPC Perú S.A. (antes Petrobrás) por 15.0 MMPCD con vigencia hasta el 9 de 
+junio de 2024, Sapet Development Perú Inc. Sucursal del Perú (Sapet) por 4.0 MMPCD con vigencia 
+hasta el 31 de octubre de 2023, UNNA Energía S.A. (Ex Graña y Montero Petrolera) por 4.0 MMPCD, 
+con vigencia hasta el 26 de diciembre de 2021. 
+ 
+O.3. Contratos de venta de gas natural y líquidos 
+ 
+UNNA Energía S.A.: Mantenemos un contrato de suministro de componentes pesados de gas 
+natural asociado y participa en los ingresos por la venta de los líquidos de gas natural que se 
+producen en la planta de procesamiento de gas de UNNA Energía S.A., con vigencia hasta el 16 de 
+noviembre de 2023. 
+ 
+Petroperú S.A.: Mantenemos contratos de suministro de gas natural para la operación de la 
+Refinería de Talara, con vigencia hasta diciembre 2021. 
+ 
+3. Bases de Preparación de los Estados Financieros 
+ 
+A. Bases de contabilización 
+Los estados financieros de la Compañía han sido preparados de acuerdo con las Normas 
+Internacionales de Información Financiera (en adelante NIIF) emitidas por el International Accounting 
+Standard Board (en adelante IASB), vigentes al 31 de diciembre de 2021. 
+  
+La Nota 4, incluye detalles de las políticas contables de la Compañía. 
+ 
+B. Responsabilidad de la información 
+La información contenida en estos estados financieros es responsabilidad de la Gerencia de la 
+Compañía que manifiesta expresamente que se han aplicado en su totalidad los principios y criterios 
+incluidos en las NIIF emitidas por el IASB vigentes. al 31 de diciembre de 2021. 
+ 
+C. Base de medición 
+Los estados financieros han sido preparados sobre la base del costo histórico, a partir de los 
+registros de contabilidad mantenidos por la Compañía a excepción de los instrumentos financieros 
+derivados, registrados a su valor razonable. 
+ 
+D. Moneda funcional y de presentación 
+Los estados financieros se presentan en soles (S/), que es la moneda funcional y de presentación de 
+la Compañía. Toda la información es presentada en miles de soles y ha sido redondeada a la unidad 
+más cercana, excepto cuando se indica de otra manera. 
+  
+
+=== PAGINA PDF 18 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+14 
+ 
+E. Uso de estimaciones y juicios 
+Al preparar estos estados financieros, la Gerencia ha realizado juicios y estimaciones que afectan la 
+aplicación de las políticas contables y los montos de activos, pasivos, ingresos y gastos informados. 
+Los resultados reales pueden diferir de estas estimaciones. 
+ 
+Las estimaciones y supuestos relevantes son revisados regularmente. Las revisiones de las 
+estimaciones contables son reconocidas prospectivamente. 
+ 
+Juicios 
+La información sobre juicios realizados en la aplicación de políticas contable que tiene el efecto más 
+importante sobre los importes reconocidos en los estados financieros se describe en las siguientes 
+notas: 
+ 
+▪ Reconocimiento de ingresos de actividades ordinarias: identificación de obligaciones de 
+desempeño y el reconocimiento del ingreso en un momento determinado (nota 4.I). 
+▪ Plazo de arrendamiento: si la Compañía está razonablemente segura de ejercer opciones de 
+extensión en los contratos de arrendamiento (nota 4.F). 
+▪ Estimación del impuesto corriente por pagar y el gasto por impuestos corrientes en relación 
+con una posición fiscal incierta (nota 4.L). 
+ 
+Supuestos e incertidumbres en las estimaciones 
+La información sobre supuestos e incertidumbres de estimación al 31 de diciembre de 2021 y de 
+2020 que tienen un riesgo significativo de resultar en un ajuste material a los importes en libros de 
+activos y pasivos se incluye en las siguientes notas: 
+ 
+▪ Medición de la estimación para pérdidas crediticias esperadas por deudores comerciales y 
+activos del contrato (nota 4.C); 
+▪ Reconocimiento y medición de provisiones y contingencias: supuestos claves relacionados 
+con la probabilidad y magnitud de una salida de recursos económicos (nota 4.H);  
+▪ Reconocimiento de activos por impuestos diferidos: disponibilidad de futuras utilidades 
+imponibles contra las que pueden utilizarse las diferencias temporarias deducibles y las 
+pérdidas compensadas obtenidas en períodos anteriores (nota 4.L); 
+▪ Estimación por deterioro de inventarios (nota 4.D). 
+▪ Estimación de la vida útil y valores residuales de propiedades, planta y equipo (nota 4.E). 
+ 
+Medición de los valores razonables 
+Algunas de las políticas y revelaciones contables de la Compañía requieren la medición de los 
+valores razonables tanto de los activos y pasivos financieros como de los no financieros.  
+ 
+Cuando se mide el valor razonable de un activo o pasivo, la Compañía utiliza datos de mercado 
+observables siempre que sea posible. Los valores razonables se clasifican en niveles distintos dentro 
+de una jerarquía del valor razonable que se basa en los datos de entrada usados en las técnicas de 
+valoración, como sigue: 
+ 
+Nivel 1:  Precios cotizados (no-ajustados) en mercados activos para activos o pasivos idénticos. 
+ 
+Nivel 2:  Datos de entrada diferentes de los precios cotizados incluidos en el Nivel 1, que sean 
+observables para el activo o pasivo, ya sea directa (es decir, precios) o indirectamente 
+(es decir, derivados de los precios). 
+ 
+Nivel 3:  Datos para el activo o pasivo que no se basan en datos de mercado observables (datos 
+de entrada no observables). 
+ 
+  
+
+=== PAGINA PDF 19 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+15 
+ 
+Si los datos de entrada usados para medir el valor razonable de un activo o pasivo se clasifican en 
+niveles distintos de la jerarquía del valor razonable, entonces la medición del valor razonable se 
+clasifica en su totalidad en el mismo nivel de la jerarquía del valor razonable que la variable de nivel 
+más bajo que sea significativa para la medición total.  
+ 
+La Compañía reconoce las transferencias entre los niveles de la jerarquía del valor razonable al final 
+del período sobre el que se informa durante el que ocurrió el cambio. 
+ 
+4. Principales Políticas Contables 
+Las principales políticas contables aplicadas en la preparación de los estados financieros de la 
+Compañía se detallan a continuación. Estos principios y prácticas han sido aplicados uniformemente 
+en todos los años presentados, a menos que se indique lo contrario. 
+ 
+A. Efectivo y equivalentes al efectivo  
+El rubro efectivo y equivalentes al efectivo del estado de situación financiera comprende el efectivo 
+en caja y bancos y los depósitos con un vencimiento original menor a tres meses. 
+ 
+B. Instrumentos financieros 
+Un instrumento financiero es cualquier contrato que dé lugar a un activo financiero de una entidad y 
+a un pasivo financiero o instrumento de patrimonio de otra entidad. 
+ 
+i. Reconocimiento y medición inicial 
+Los deudores comerciales e instrumentos de deuda emitidos inicialmente se reconocen cuando 
+estos se originan. Todos los otros activos financieros y pasivos financieros se reconocen 
+inicialmente cuando la Compañía se hace parte de las disposiciones contractuales del instrumento. 
+ 
+Un activo financiero (a menos que sea una cuenta por cobrar sin un componente de financiación 
+significativo) o pasivo financiero se mide inicialmente al valor razonable más, en el caso de una 
+partida no medida al valor razonable con cambios en resultados, los costos de transacción 
+directamente atribuibles a su adquisición o emisión. Una cuenta por cobrar sin un componente de 
+financiación significativo se mide inicialmente al precio de la transacción.  
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalentes al efectivo, cuentas por 
+cobrar comerciales, otras cuentas por cobrar y cuentas por cobrar a entidades relacionadas. 
+ 
+ii. Clasificación y medición posterior 
+ 
+▪ Activos financieros 
+En el reconocimiento inicial, un activo financiero se clasifica como medido a costo amortizado, a 
+valor razonable con cambios en otro resultado integral - inversión en deuda, a valor razonable con 
+cambios en otro resultado integral - inversión en patrimonio, o a valor razonable con cambios en 
+resultados.  
+ 
+Los activos financieros no se reclasifican después de su reconocimiento inicial, excepto si la 
+Compañía cambia su modelo de negocio por uno para gestionar los activos financieros, en cuyo caso 
+todos los activos financieros afectados son reclasificados el primer día del primer período sobre el 
+que se informa posterior al cambio en el modelo de negocio.  
+ 
+  
+
+=== PAGINA PDF 20 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+16 
+ 
+Un activo financiero deberá medirse al costo amortizado si se cumplen las dos condiciones 
+siguientes y no está medido a valor razonable con cambios en resultados:  
+ 
+- El activo financiero se conserva dentro de un modelo de negocio cuyo objetivo es mantener 
+los activos financieros para obtener flujos de efectivo contractuales; y  
+- Las condiciones contractuales del activo financiero dan lugar, en fechas especificadas, a flujos 
+de efectivo que son únicamente pagos del principal e intereses sobre el importe del principal 
+pendiente.  
+ 
+Evaluación del modelo de negocio 
+La Compañía realiza una evaluación del objetivo del modelo de negocio en el que se mantiene un 
+activo financiero a nivel de cartera ya que este es el que mejor refleja la manera en que se gestiona 
+el negocio y en que se entrega la información a la Gerencia. La información considerada incluye:  
+ 
+- Las políticas y los objetivos señalados para la cartera y la operación de esas políticas en la 
+práctica. Estas incluyen si la estrategia de la Gerencia se enfoca en cobrar ingresos por 
+intereses contractuales, mantener un perfil de rendimiento de interés concreto o coordinar la 
+duración de los activos financieros con la de los pasivos que dichos activos están financiando 
+o las salidas de efectivo esperadas o realizar flujos de efectivo mediante la venta de los 
+activos;  
+- Cómo se evalúa el rendimiento de la cartera y cómo éste se informa al personal clave de la 
+Gerencia de la Compañía;  
+- Los riesgos que afectan al rendimiento del modelo de negocio (y los activos financieros 
+mantenidos en el modelo de negocio) y, en concreto, la forma en que se gestionan dichos 
+riesgos;  
+- Cómo se retribuye a los gestores del negocio (por ejemplo, si la compensación se basa en el 
+valor razonable de los activos gestionados o sobre los flujos de efectivo contractuales 
+obtenidos); y  
+- La frecuencia, el valor y el calendario de las ventas en períodos anteriores, las razones de 
+esas ventas y las expectativas sobre la actividad de ventas futuras.  
+ 
+Las transferencias de activos financieros a terceros en transacciones que no califican para la baja en 
+cuentas no se consideran ventas para este propósito, de acuerdo con el reconocimiento continuo de 
+la Compañía de los activos. 
+ 
+Medición posterior y ganancias y pérdidas 
+ 
+Activos financieros al costo 
+amortizado 
+Estos activos se miden posteriormente al costo amortizado usando 
+el método del interés efectivo. El costo amortizado se reduce por 
+las pérdidas por deterioro. El ingreso por intereses, las ganancias y 
+pérdidas por conversión de moneda extranjera y el deterioro se 
+reconocen en resultados. Cualquier ganancia o pérdida en la baja en 
+cuentas se reconoce en resultados. 
+ 
+Al 31 de diciembre de 2021 y de 2020, los activos financieros de la Compañía son presentados en el 
+estado de situación financiera en los rubros de efectivo, deudores comerciales y otras cuentas por 
+cobrar pertenecen íntegramente a la categoría “Costo amortizado” . 
+ 
+  
+
+=== PAGINA PDF 21 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+17 
+ 
+▪ Pasivos financieros  
+ 
+Clasificación, medición posterior y ganancias y pérdidas 
+Los pasivos financieros se clasifican como medidos al costo amortizado o al valor razonable con 
+cambios en resultados. Un pasivo financiero se clasifica al valor razonable con cambios en resultados 
+si está clasificado como mantenido para negociación, es un derivado o es designado como tal en el 
+reconocimiento inicial. Los pasivos financieros al valor razonable con cambios en resultados se 
+miden al valor razonable y las ganancias y pérdidas netas, incluyendo cualquier gasto por intereses, 
+se reconocen en resultados. Los otros pasivos financieros se miden posteriormente al costo 
+amortizado usando el método de interés efectivo. El ingreso por intereses y las ganancias y pérdidas 
+por conversión de moneda extranjera se reconoce en resultados. Cualquier ganancia o pérdida en la 
+baja en cuentas también se reconoce en resultados.  
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales, otras cuentas por 
+pagar, cuentas por pagar a entidades relacionadas y otros pasivos financieros. 
+ 
+iii. Baja en cuentas 
+ 
+Activos financieros 
+La Compañía da de baja en cuentas un activo financiero cuando expiran los derechos contractuales 
+sobre los flujos de efectivo del activo financiero, o cuando transfiere los derechos a recibir los flujos 
+de efectivo contractuales en una transacción en que la se transfieren sustancialmente todos los 
+riesgos y beneficios de la propiedad del activo financiero, o no transfiere ni retiene sustancialmente 
+todos los riesgos y beneficios relacionados con la propiedad y no retiene control sobre los activos 
+transferidos. 
+ 
+Pasivos financieros 
+La Compañía da de baja en cuentas un pasivo financiero cuando sus obligaciones contractuales son 
+pagadas o canceladas, o bien hayan expirado. La Compañía también da de baja en cuentas un pasivo 
+financiero cuando se modifican sus condiciones y los flujos de efectivo del pasivo modificado son 
+sustancialmente distintos. En este caso, se reconoce un nuevo pasivo financiero con base en las 
+condiciones nuevas al valor razonable.  
+ 
+En el momento de la baja en cuentas de un pasivo financiero, la diferencia entre el importe en libros 
+del pasivo financiero extinto y la contraprestación pagada (incluidos los activos que no son en 
+efectivo transferidos o los pasivos asumidos) se reconoce en resultados.  
+ 
+iv. Compensación 
+Un activo y un pasivo financiero serán objeto de compensación, de manera que se presente en el 
+estado de situación financiera su importe neto, cuando y solo cuando la Compañía tenga, en el 
+momento actual, el derecho, exigible legalmente, de compensar los importes reconocidos y tenga la 
+intención de liquidar por el importe neto, o de realizar el activo y liquidar el pasivo simultáneamente. 
+ 
+v. Instrumentos financieros derivados y contabilidad de coberturas 
+Los derivados se miden inicialmente al valor razonable. Después del reconocimiento inicial, los 
+instrumentos financieros derivados son valorizados al valor razonable, y sus cambios generalmente 
+se reconocen en resultados. Al 31 de diciembre de 2021 y 2020 la Compañía no tiene instrumentos 
+financieros derivados. 
+ 
+  
+
+=== PAGINA PDF 22 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+18 
+ 
+Derivados implícitos 
+Los derivados implícitos contenidos en los contratos huésped son contabilizados como un derivado 
+separado y registrados a su valor razonable si las características económicas y riesgos asociados no 
+están directamente relacionadas con el contrato huésped y este contrato no ha sido designado 
+como un activo financiero negociable o designado a valor razonable a través de ganancias y pérdidas. 
+Las ganancias o pérdidas por los cambios en el valor razonable de los derivados implícitos son 
+registradas en el estado de resultados. Al 31 de diciembre de 2021 y de 2020, la Compañía no tiene 
+derivados implícitos que requieren ser separados. 
+ 
+Cobertura de instrumentos financieros no derivados 
+Si existe un alto grado de correlación entre los ingresos y las variaciones del tipo de cambio del dólar 
+estadounidense, la Compañía estará sujeta a un riesgo de tipo de cambio por sus flujos futuros de 
+efectivo. La NIIF 9 permite coberturar estos ingresos mediante la obtención de deudas en moneda 
+extranjera. Las diferencias de cambio de esta deuda, al tratarse de operaciones de cobertura de 
+flujos de caja, se imputan, netas de su efecto impositivo, en una cuenta de reservas en el 
+patrimonio, registrándose en el estado de resultados en el plazo en que se realizarán los flujos de 
+caja cubiertos. Este plazo se ha estimado en diez años. 
+ 
+C. Deterioro del valor de activos 
+ 
+i. Activos financieros no derivados 
+ 
+Instrumentos financieros y activos del contrato 
+La Compañía reconoce correcciones de valor para pérdidas crediticias esperadas por los activos 
+financieros medidos al costo amortizado. 
+ 
+La Compañía mide las correcciones de valor por un importe igual a las pérdidas crediticias esperadas 
+durante el tiempo de vida del activo, excepto por lo siguiente, que se mide al importe de las pérdidas 
+crediticias esperadas de doce meses:  
+ 
+▪ Instrumentos de deuda que se determina que tienen un riesgo crediticio bajo a la fecha de 
+presentación; y  
+▪ Otros instrumentos de deuda y saldos bancarios para los que el riesgo crediticio (es decir, el 
+riesgo de que ocurra incumplimiento durante la vida esperada del instrumento financiero) no 
+ha aumentado significativamente desde el reconocimiento inicial. 
+ 
+Las correcciones de valor por deudores comerciales y activos del contrato siempre se miden por un 
+importe igual al de las pérdidas crediticias esperadas durante el tiempo de vida. 
+ 
+Al determinar si el riesgo crediticio de un activo financiero ha aumentado significativamente desde el 
+reconocimiento inicial al estimar las pérdidas crediticias esperadas, la Compañía considera la 
+información razonable y sustentable que sea relevante y esté disponible sin costos o esfuerzos 
+indebidos. Esta incluye información y análisis cuantitativos y cualitativos, basada en la experiencia 
+histórica de la Compañía y una evaluación crediticia informada incluida aquella referida al futuro.  
+ 
+La Compañía asume que el riesgo crediticio de un activo financiero ha aumentado significativamente 
+si tiene una mora de más de 360 días. 
+ 
+La Compañía considera que un activo financiero está en incumplimiento cuando:  
+ 
+▪ No es probable que el cliente pague sus obligaciones crediticias por completo a la Compañía, 
+sin recurso por parte de la Compañía a acciones como la ejecución de la garantía (si existe 
+alguna); o  
+▪ El activo financiero tiene una mora de 360 días o más.   
+
+=== PAGINA PDF 23 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+19 
+ 
+Las pérdidas crediticias esperadas durante el tiempo de vida son las pérdidas crediticias que resultan 
+de todos los posibles sucesos de incumplimiento durante la vida esperada de un instrumento 
+financiero.  
+ 
+Las pérdidas crediticias esperadas de doce meses son la parte de las pérdidas crediticias esperadas 
+durante el tiempo de vida del activo que proceden de sucesos de incumplimiento sobre un 
+instrumento financiero que están posiblemente dentro de los 12 meses después de la fecha de 
+presentación (o un período inferior si el instrumento tiene una vida de menos de doce meses). 
+ 
+El período máximo considerado al estimar las pérdidas crediticias esperadas es el período 
+contractual máximo durante el que la Compañía está expuesto al riesgo de crédito.  
+ 
+Medición de las pérdidas crediticias esperadas 
+Las pérdidas crediticias esperadas son el promedio ponderado por probabilidad de las pérdidas 
+crediticias. Las pérdidas crediticias se miden como el valor presente de las insuficiencias de efectivo 
+(es decir, la diferencia entre el flujo de efectivo adeudado a la entidad de acuerdo con el contrato y 
+los flujos de efectivo que la Compañía espera recibir).  
+ 
+Las pérdidas crediticias esperadas son descontadas usando la tasa de interés efectiva del activo 
+financiero. 
+ 
+Activos financieros con deterioro crediticio 
+En cada fecha de presentación, la Compañía evalúa si los activos financieros registrados al costo 
+amortizado tienen deterioro crediticio. Un activo financiero tiene ‘deterioro crediticio’ cuando han 
+ocurrido uno o más sucesos que tienen un impacto perjudicial sobre los flujos de efectivo futuros 
+estimados del activo financiero.  
+ 
+Evidencia de que un activo financiero tiene deterioro crediticio incluye los siguientes datos 
+observables:  
+ 
+▪ Dificultades financieras significativas del emisor o del prestatario;  
+▪ Una infracción del contrato, tal como un incumplimiento o un suceso de mora de más de los 
+plazos estipulados; 
+▪ Reestructuración de un préstamo o adelanto por parte de la Compañía en términos que este 
+no consideraría de otra manera;  
+▪ Se está convirtiendo en probable que el prestatario entre en quiebra o en otra forma de 
+reorganización financiera; o  
+▪ La desaparición de un mercado activo para el activo financiero en cuestión, debido a 
+dificultades financieras.  
+ 
+Las correcciones de valor para los activos financieros medidos al costo amortizado se deducen del 
+importe en libros bruto de los activos.  
+ 
+En el caso de instrumento de deuda al valor razonable con cambio en otros resultados integrales, la 
+corrección de valor se carga a resultados y se reconoce en otro resultado integral. 
+ 
+Castigo 
+El importe en libros bruto de un activo financiero se castiga cuando la Compañía no tiene 
+expectativas razonables de recuperar un activo financiero en su totalidad o una porción del mismo.  
+ 
+  
+
+=== PAGINA PDF 24 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+20 
+ 
+ii. Activos no financieros  
+A cada fecha de cierre del período sobre el que se informa, la Compañía evalúa si existe algún indicio 
+de que un activo no financiero (distinto de propiedades de inversión y activo por impuesto a la renta 
+diferido) pudiera estar deteriorado en su valor. Si existe tal indicio, o cuando una prueba anual de 
+deterioro del valor para un activo es requerida, la Compañía estima el importe recuperable de ese 
+activo. El importe recuperable de un activo es el mayor valor entre el valor razonable menos los 
+costos de venta, ya sea de un activo o de una unidad generadora de efectivo, y su valor en uso, y se 
+determina para un activo individual, salvo que el activo no genere flujos de efectivo que sean 
+sustancialmente independientes de los de otros activos o grupos de activos. 
+ 
+Cuando el importe en libros de un activo o de una unidad generadora de efectivo (UGE) excede su 
+importe recuperable, el activo se considera deteriorado y su valor se reduce a su importe 
+recuperable. Al evaluar el valor en uso de un activo, los flujos de efectivo estimados se descuentan a 
+su valor presente mediante una tasa de descuento antes de impuestos que refleja las evaluaciones 
+corrientes del mercado sobre el valor temporal del dinero y los riesgos específicos del activo. 
+ 
+Para la determinación del valor razonable menos los costos de venta se toman en cuenta 
+transacciones recientes del mercado, si las hubiere. Si no pueden identificarse este tipo de 
+transacciones, se utiliza un modelo de valoración que resulte apropiado. 
+ 
+Las pérdidas por deterioro del valor se reconocen en el estado de resultados y otros resultados 
+integrales en aquellas categorías de gastos que correspondan con la función del activo deteriorado. 
+ 
+Una pérdida por deterioro del valor reconocida previamente solamente se revierte si hubo un cambio 
+en los supuestos utilizados para determinar el importe recuperable del activo desde la última vez en 
+que se reconoció una pérdida por deterioro del valor de ese activo. La reversión se limita de manera 
+tal que el importe en libros del activo no exceda su monto recuperable, ni exceda el importe en 
+libros que se hubiera determinado, neto de la depreciación, si no se hubiese reconocido una pérdida 
+por deterioro del valor para ese activo en ejercicios anteriores. Tal reversión se reconoce en el 
+estado de resultados y otros resultados integrales. 
+ 
+D. Inventarios  
+Los inventarios están conformados por materiales de operación y mantenimiento, los cuales se 
+destinan al mantenimiento de las Centrales de Generación, y se presentan al costo o al valor neto de 
+realización, el menor, netas de la estimación por desvalorización.  
+ 
+El costo se determina sobre la base de un promedio ponderado, excepto en el caso de los 
+inventarios por recibir, los cuales se presentan al costo específico de adquisición. El valor neto de 
+realización es el precio de venta en el curso normal del negocio, menos los costos para poner los 
+inventarios en condición de venta y los gastos de comercialización y distribución. 
+ 
+Los repuestos considerados críticos para asegurar la continuidad de las operaciones de la planta se 
+clasifican como propiedades, planta y equipo y se deprecian usando el método de línea recta de 
+acuerdo con las tasas aplicables. 
+ 
+La Gerencia evalúa periódicamente la desvalorización y obsolescencia de estos activos. La 
+desvalorización y obsolescencia se registra con débito a resultados, cuando existen, en base a 
+estimados de las áreas técnicas de la Compañía.  
+ 
+  
+
+=== PAGINA PDF 25 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+21 
+ 
+E. Propiedades, planta y equipo  
+Propiedades, planta y equipo se presenta al costo, neto de la depreciación acumulada y/o las 
+pérdidas acumuladas por deterioro, si las hubiere. El costo inicial de un activo comprende su precio 
+de compra o su costo de fabricación, incluyendo aranceles e impuestos de compra no 
+reembolsables y cualquier costo necesario para poner dicho activo en operación, el estimado inicial 
+de la obligación de rehabilitación y los costos de financiamiento para los proyectos de construcción a 
+largo plazo, en la medida en que se cumplan los requisitos para su reconocimiento. 
+ 
+Cuando los componentes significativos de propiedades, planta y equipos requieren ser 
+reemplazados, la Compañía da de baja el componente reemplazado y reconoce el componente 
+nuevo con su correspondiente vida útil y depreciación. Del mismo modo, cuando se efectúa una 
+inspección de gran envergadura, el costo de la misma se reconoce como un reemplazo en la medida 
+en que se cumplan los requisitos para su reconocimiento. Todos los demás costos rutinarios de 
+reparación y mantenimiento se reconocen como gasto en el estado de resultados a medida que se 
+incurren.  
+ 
+El valor presente del costo estimado para el desmantelamiento del activo después de su uso se 
+incluye en el costo de ese activo, en la medida en que se cumplan los requisitos para el 
+reconocimiento de la provisión respectiva. 
+ 
+Una partida de propiedades, planta y equipo o un componente significativo es retirado al momento 
+de su disposición o cuando no se esperan beneficios económicos de su uso o disposición posterior. 
+Cualquier ganancia o pérdida que surja al momento del retiro del activo fijo (calculada como la 
+diferencia entre los ingresos por la venta y el valor en libros del activo) es incluida en el estado de 
+resultados en el periodo en que se retira dicho activo. 
+ 
+El valor residual, la vida útil y los métodos de depreciación son revisados y ajustados en caso sea 
+apropiado, al final de cada año. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los costos de 
+financiamiento, y los otros gastos directos atribuibles a dichas obras, devengados durante la etapa 
+de construcción. Las obras en curso se capitalizan cuando se completan y su depreciación se calcula 
+desde el momento en que están en condiciones para su uso.  
+ 
+Los criterios para capitalizar los costos financieros y los otros gastos directos son:  
+ 
+- Costos por préstamos que son directamente atribuibles a la adquisición, construcción o 
+producción de activos aptos, que son aquellos que requieren de un periodo de tiempo 
+sustancial antes de estar listos para su uso, como, por ejemplo, instalaciones de generación 
+eléctrica son capitalizados formando parte del costo del activo. La tasa de interés utilizada es 
+la correspondiente al financiamiento específico de la Compañía con relación a la inversión 
+efectuada. 
+ 
+- Para capitalizar los gastos directos de personal, la Compañía identifica cada una de las áreas 
+dedicadas a la planificación, ejecución y gestión de obras, esto aplicado a los costos de los 
+empleados de dichas áreas. 
+ 
+La depreciación es calculada bajo el método de línea recta tomando en consideración las siguientes 
+vidas útiles: 
+ 
+ Años 
+Plantas Generadoras  Entre 20 y 33 
+Unidades de transporte 5 
+Muebles y enseres 10 
+Equipos diversos Entre 4 y 15 
+
+=== PAGINA PDF 26 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+22 
+ 
+Debido a las características particulares de los activos mantenidos por la Compañía (difícil de ser 
+reutilizables y vendibles al final de su vida útil), la Gerencia, conjuntamente con su área técnica, han 
+determinado que el valor residual de los mismos no es significativo; por lo que se considera que es 
+cero. 
+ 
+F. Arrendamientos  
+ 
+Como arrendatario  
+Al comienzo o en la modificación de un contrato que contiene un componente de arrendamiento, la 
+Compañía asigna la contraprestación en el contrato a cada componente de arrendamiento sobre la 
+base de sus precios independientes relativos. Sin embargo, para los arrendamientos de propiedad, la 
+Compañía ha optado por no separar los componentes que no son de arrendamiento y contabilizar los 
+componentes de arrendamiento y no arrendamiento como un solo componente de arrendamiento. 
+ 
+La Compañía reconoce un activo por derecho de uso y un pasivo por arrendamiento en la fecha de 
+inicio del arrendamiento. El activo por derecho de uso se mide inicialmente al costo, que comprende 
+el monto inicial del pasivo por arrendamiento ajustado por cualquier pago de arrendamiento realizado 
+en o antes de la fecha de inicio, más los costos directos iniciales incurridos y una estimación de los 
+costos para desmantelar y eliminar el activo subyacente o para restaurar el activo subyacente o el 
+sitio en el que se encuentra, menos los incentivos de arrendamiento recibidos. 
+ 
+El activo por derecho de uso se deprecia posteriormente utilizando el método de línea recta desde la 
+fecha de comienzo hasta el final del plazo del arrendamiento, a menos que se transfiera, la 
+propiedad del activo subyacente para la Compañía al final del plazo del arrendamiento, o el costo del 
+activo por derecho de uso refleja que la Compañía ejercerá una opción de compra. En ese caso, el 
+activo por derecho de uso será depreciado durante la vida útil del activo subyacente, que se 
+determina sobre la misma base como los de propiedad y equipo. Además, el activo por derecho de 
+uso se reduce periódicamente en pérdidas por deterioro, si las hubiera, y ajustadas por ciertas 
+nuevas mediciones del pasivo por arrendamiento. 
+ 
+El pasivo por arrendamiento se mide inicialmente al valor presente de los pagos por arrendamiento 
+que no se pagan en la fecha de inicio, descontados utilizando la tasa de interés implícita o, si esa 
+tasa no puede determinarse fácilmente, la tasa de interés incremental de los préstamos. 
+Generalmente, la Compañía utiliza su tasa de endeudamiento incremental como la tasa de 
+descuento. 
+ 
+La Compañía determina su tasa de endeudamiento incremental obteniendo tasas de interés de 
+varias fuentes de financiamiento externas y realiza ciertos ajustes para reflejar los términos del 
+arrendamiento y tipo de activo arrendado. 
+ 
+Los pagos por arrendamiento incluidos en la medición del pasivo comprenden lo siguiente: 
+ 
+- pagos fijos, incluidos los pagos fijos en esencia; 
+- pagos de arrendamiento variables que dependen de un índice o una tasa, medidos 
+inicialmente utilizando el índice o tasa a la fecha de inicio; 
+- cantidades que se espera pagar en virtud de una garantía de valor residual; y 
+- el precio de ejercicio en virtud de una opción de compra que está razonablemente seguro de 
+ejercer, pagos de arrendamiento en un período de renovación opcional si está 
+razonablemente seguro de ejercer una opción de extensión, y sanciones por terminación 
+anticipada de un arrendamiento a menos que la Compañía esté razonablemente seguro de no 
+terminar temprano. 
+ 
+  
+
+=== PAGINA PDF 27 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+23 
+ 
+El pasivo por arrendamiento se mide al costo amortizado utilizando el método de interés efectivo. Se 
+vuelve a medir cuando hay un cambio en los pagos de arrendamiento futuros que surgen de un 
+cambio en un índice o tasa, si hay un cambio en la estimación de la Compañía del monto que se 
+espera pagar bajo una garantía de valor residual, si la Compañía cambia su evaluación de si ejercerá 
+una opción de compra, extensión o terminación o si hay un pago de arrendamiento fijo revisado en 
+sustancia. 
+ 
+Cuando el pasivo por arrendamiento se vuelve a medir de esta manera, se realiza el ajuste 
+correspondiente al valor en libros del activo por derecho de uso, o se registra en resultados si el 
+valor en libros del activo por derecho de uso se ha reducido a cero. 
+ 
+E. Intangibles  
+Los activos intangibles se registran al costo de adquisición y están presentados netos de su 
+amortización acumulada. La amortización se reconoce como gasto y se determina siguiendo el 
+método de línea recta con base en la vida útil estimada de los activos, que ha sido estimada en cinco 
+años. 
+La estimación sobre la vida útil se revisa periódicamente para asegurar que el período de 
+amortización sea consistente con el patrón previsto de beneficios económicos de dichos activos. 
+ 
+F. Provisión por desmantelamiento de centrales 
+Los pasivos por desmantelamiento son reconocidos cuando la Compañía tiene la obligación de 
+desmontar y retirar instalaciones para restaurar el sitio donde está localizado, y cuando se puede 
+efectuar un estimado razonable del pasivo. Los costos de desmantelamiento y retiro se provisionan 
+al valor presente de los costos esperados para cancelar la obligación, utilizando flujos de efectivo 
+estimados, y se reconocen como parte integrante del costo de ese activo en particular.  
+ 
+Los flujos de efectivo se descuentan a una tasa actual de mercado antes de impuestos, que refleje 
+los riesgos específicos del pasivo. El devengamiento del descuento se contabiliza como gasto a 
+medida que se incurre y se reconoce en el estado de resultados como un costo financiero. Los 
+costos estimados futuros de desmantelamiento y retiro se revisan anualmente y se los ajusta según 
+corresponda.  
+ 
+Los cambios en estos costos estimados futuros o en la tasa de descuento aplicada se suman o 
+restan del costo del activo relacionado. 
+ 
+G. Provisiones  
+Se reconoce una provisión sólo cuando la Compañía tiene una obligación presente (legal o implícita) 
+como consecuencia de un hecho pasado, es probable que se requerirá para su liquidación un flujo de 
+salida de recursos y puede hacerse una estimación confiable del monto de la obligación. Las 
+provisiones se revisan periódicamente y se ajustan para reflejar la mejor estimación que se tenga a 
+la fecha de estado de situación financiera.  
+ 
+El gasto relacionado con una provisión se muestra en el estado de resultados. 
+ 
+Cuando el efecto del tiempo es significativo, las provisiones son descontadas a su valor presente 
+usando una tasa que refleje los riesgos específicos relacionados con el pasivo.  Cuando se efectúa el 
+descuento, el aumento en la provisión por el paso del tiempo es reconocido como un gasto 
+financiero. 
+ 
+Un pasivo contingente es divulgado cuando la existencia de una obligación sólo será confirmada por 
+eventos futuros o cuando el importe de la obligación no puede ser medido con suficiente 
+confiabilidad. Los activos contingentes no son reconocidos, pero son divulgados cuando es probable 
+que se produzca un ingreso de beneficios económicos hacia la Compañía. 
+  
+
+=== PAGINA PDF 28 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+24 
+ 
+Por su naturaleza, las contingencias sólo se resolverán cuando uno o más eventos futuros ocurran o 
+no. La determinación de las contingencias involucra inherentemente el ejercicio del juicio y el cálculo 
+de estimados de los resultados de eventos futuros. 
+ 
+Los activos contingentes no se reconocen en los estados financieros de la Compañía y sólo se 
+revelan cuando es probable que generen ingreso de recursos.  
+ 
+H. Contingencias  
+Los pasivos contingentes son registrados en los estados financieros cuando se considera que es 
+probable que se confirmen en el tiempo y pueden ser razonablemente cuantificados. Las 
+contingencias posibles no se reconocen en los estados financieros, éstas se revelan en notas en los 
+estados financieros, excepto que la posibilidad que se desembolse un flujo económico sea remota. 
+ 
+Por su naturaleza, las contingencias sólo se resolverán cuando uno o más eventos futuros ocurran o 
+no. La determinación de las contingencias involucra inherentemente el ejercicio del juicio y el cálculo 
+de estimados de los resultados de eventos futuros. 
+ 
+Los activos contingentes no se registran en los estados financieros, pero se revelan en notas 
+cuando su grado de contingencia es probable. 
+ 
+I. Reconocimiento de ingresos  
+Los ingresos se reconocen por el valor razonable de la contrapartida, recibida o por recibir, derivada 
+de los mismos. Estos ingresos son reducidos por aquellas estimaciones tales como devoluciones de 
+clientes, rebajas y otros conceptos similares. 
+ 
+Los ingresos por la venta de energía y potencia se reconocen para representar la transferencia de 
+bienes o servicios prometidos a los clientes, en un importe que refleje la contraprestación que la 
+entidad espera recibir a cambio de bienes o servicios, considerando los siguientes 5 pasos: 
+ 
+▪ Paso 1: Identificar el contrato con el cliente. 
+▪ Paso 2: Identificar las obligaciones separadas del contrato. 
+▪ Paso 3: Determinar el precio de transacción. 
+▪ Paso 4: Distribuir el precio de transacción entre las obligaciones del contrato. 
+▪ Paso 5: Reconocer el ingreso cuando (o a medida que) la entidad satisface las obligaciones 
+del contrato. 
+ 
+La siguiente tabla presenta información sobre la naturaleza y la oportunidad de la satisfacción de las 
+obligaciones de desempeño en contratos con clientes, incluyen términos de pago significativos y las 
+correspondientes políticas de reconocimiento de ingresos. 
+ 
+Tipo de 
+producto/ 
+servicio 
+Naturaleza y oportunidad de la satisfacción de las 
+obligaciones de desempeño, incluyendo términos de 
+pago significativos 
+Reconocimiento de 
+ingresos  
+ 
+Venta de 
+energía y 
+potencia 
+ 
+ 
+ 
+ 
+La Compañía considera, con base en todos los hechos y 
+circunstancias relevantes, que la obligación de entregar energía 
+y potencia se considera como servicios que se transfieren 
+consecutivamente durante la vigencia del contrato, que se 
+prestan y consumen simultáneamente. Eso significa que el 
+cliente consume inmediatamente cada unidad de energía 
+(kWh) y potencia. 
+ 
+De acuerdo con los términos del contrato, el monto que se 
+facturará se basa en las unidades de energía transferidas al 
+cliente. Las facturas generalmente se cobran dentro de los 30 
+días. 
+Los ingresos se reconocen 
+a lo largo del tiempo a 
+medida que se proporcionan 
+la energía y potencia. 
+
+=== PAGINA PDF 29 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+25 
+ 
+J. Reconocimiento de costos y gastos  
+Los costos de generación de energía son reconocidos cuando se devengan. Asimismo, el costo por 
+la compra de energía es reconocido cuando se devenga, de manera simultánea al reconocimiento de 
+los ingresos por la correspondiente venta. 
+ 
+Los costos de financiamiento, no relacionados con los proyectos de construcción a largo plazo, se 
+registran cuando se devengan e incluyen los cargos por intereses y otros costos incurridos 
+relacionados con los préstamos obtenidos.  
+ 
+Los otros costos y gastos se reconocen a medida que devengan, independientemente del momento 
+en que se pagan, y se registran en los períodos con los cuales se relacionan. 
+ 
+K. Transacciones en moneda extranjera  
+ 
+Moneda funcional y moneda de presentación  
+La Compañía ha definido el Sol como su moneda funcional y de presentación. Las transacciones en 
+moneda extranjera (cualquier moneda distinta a la moneda funcional) son inicialmente trasladadas a 
+la moneda funcional (soles) usando los tipos de cambio vigentes en las fechas de las transacciones. 
+En la conversión de la moneda extranjera se utilizan los tipos de cambio emitidos por la 
+Superintendencia de Banca y Seguros y AFP. 
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son posteriormente ajustados 
+a la moneda funcional usando el tipo de cambio vigente en la fecha del estado de situación 
+financiera. Las ganancias y pérdidas por diferencia en cambio resultante de la liquidación de dichas 
+transacciones y de la traslación de los activos y pasivos monetarios en moneda extranjera a los tipos 
+de cambio de cierre de cada mes, son reconocidas en el estado de resultados. 
+ 
+Los activos y pasivos no monetarios en moneda extranjera, que son medidos en términos de costos 
+históricos, son trasladados a la moneda funcional usando los tipos de cambio vigentes en las fechas 
+de las transacciones. 
+ 
+L. Impuesto a las ganancias corriente y diferido 
+El gasto por impuesto a las ganancias incluye el impuesto corriente y el diferido. Se reconoce en 
+resultados excepto en la medida en que se relacione con una combinación de negocios, o partidas 
+reconocidas directamente en patrimonio u otros resultados integrales. 
+ 
+La Compañía ha determinado que el interés y las multas relacionados con los impuestos a las 
+ganancias, no cumplen con la definición de impuestos a las ganancias y, en consecuencia, se 
+contabilizan bajo la NIC 37 Provisiones, Pasivos Contingentes y Activos Contingentes. 
+ 
+Impuesto a las ganancias corriente  
+El impuesto corriente comprende el impuesto por pagar o por cobrar esperado sobre el ingreso o 
+pérdida imponible del año y cualquier ajuste al impuesto por pagar o por cobrar con respecto a años 
+anteriores. El importe del impuesto corriente por pagar o por cobrar corresponde a la mejor 
+estimación del importe fiscal que se espera pagar o recibir y que refleja la incertidumbre relacionada 
+con los impuestos a las ganancias, si existe alguna. Las normas legales y tasas usadas para calcular 
+los importes por pagar son las que están vigentes en la fecha del estado de situación financiera. 
+ 
+Los activos y pasivos por impuestos corrientes se compensan sólo si se cumplen ciertos criterios: 
+ 
+(a) Si la entidad tiene el derecho, exigible legalmente, de compensar los importes reconocidos; y 
+(b)  Si la entidad tiene la intención de liquidar por el importe neto, o de realizar el activo y liquidar 
+el pasivo simultáneamente. 
+  
+
+=== PAGINA PDF 30 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+26 
+ 
+Impuesto a las ganancias diferido 
+Los impuestos diferidos son reconocidos por las diferencias temporarias existentes entre el valor en 
+libros de los activos y pasivos para propósitos de información financiera y los montos usados para 
+propósitos fiscales.  
+ 
+Se reconocen activos por impuestos diferidos por las pérdidas fiscales no utilizadas, los créditos 
+tributarios y las diferencias temporarias deducibles, en la medida en que sea probable que existan 
+ganancias fiscales futuras disponibles contra las que pueden ser utilizadas. Las ganancias fiscales 
+futuras se determinan con base en la reversión de las diferencias temporarias correspondientes. Si 
+el importe de las diferencias temporarias imponibles es insuficiente para reconocer un activo por 
+impuesto diferido, entonces se consideran las ganancias fiscales futuras ajustadas por las 
+reversiones de las diferencias temporarias imponibles, con base en los planes de negocios 
+individuales de la Compañía. Los activos por impuestos diferidos se revisan en cada fecha de 
+presentación y se reducen en la medida que deja de ser probable que se realice el beneficio fiscal 
+correspondiente; esas reducciones se reversan cuando la probabilidad de ganancias fiscales futuras 
+mejora. 
+ 
+Al final de cada período sobre el que se informa, una entidad evaluará nuevamente los activos por 
+impuestos diferidos no reconocidos y registrará un activo de esta naturaleza, anteriormente no 
+reconocido, siempre que sea probable que las futuras ganancias fiscales permitan la recuperación 
+del activo por impuestos diferidos. 
+ 
+La medición de los impuestos diferidos reflejará las consecuencias fiscales que se derivarían de la 
+forma en que la Compañía espera, a la fecha de presentación, recuperar o liquidar el importe en 
+libros de sus activos y pasivos.  
+ 
+Los activos y pasivos por impuestos diferidos se compensan solo si se cumplen ciertos criterios que 
+existan beneficios futuros suficientes para que el activo diferido se pueda aplicar. 
+ 
+Posiciones tributarias inciertas 
+La aceptación de un tratamiento impositivo concreto según la legislación fiscal puede no ser 
+conocida hasta que la autoridad fiscal correspondiente o los tribunales de justicia tomen una decisión 
+en el futuro. Por consiguiente, una disputa o inspección de un tratamiento impositivo concreto por 
+parte de la autoridad fiscal puede afectar la contabilización de una entidad del activo o pasivo por 
+impuestos diferidos o corrientes. 
+ 
+Si una entidad concluye que es probable que la autoridad fiscal acepte un tratamiento impositivo 
+incierto, la entidad lo determinará de forma congruente con el tratamiento impositivo usado o que 
+esté previsto usar en su declaración de impuestos a las ganancias. 
+ 
+Si una entidad concluye que no es probable que la autoridad fiscal acepte un tratamiento impositivo 
+incierto, la entidad reflejará el efecto de la incertidumbre. 
+ 
+Si un tratamiento impositivo incierto afecta a los impuestos corrientes e impuestos diferidos, una 
+entidad realizará juicios y estimaciones congruentes sobre el impuesto corriente y el impuesto 
+diferido. 
+ 
+Una entidad evaluará nuevamente un juicio o estimación si cambian los hechos y circunstancias 
+sobre los que se basaron el juicio o la estimación o como resultado de nueva información que afecte 
+al juicio o estimación. Una entidad reflejará el efecto de un cambio en los hechos y circunstancias o 
+de nueva información como un cambio en una estimación contable. 
+  
+
+=== PAGINA PDF 31 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+27 
+ 
+M. Beneficios a los empleados  
+La Compañía tiene obligaciones de corto plazo por beneficios a sus empleados que incluyen 
+sueldos, aportaciones sociales, gratificaciones de ley, bonificaciones por desempeño y 
+participaciones en las utilidades.  
+ 
+Estas obligaciones se registran mensualmente con cargo al estado de resultados, a medida que se 
+devengan. 
+ 
+De acuerdo con las normas legales, la participación de los trabajadores es calculada sobre la misma 
+base que la usada para calcular el impuesto a las ganancias corriente, y es presentada en el estado 
+de resultados integrales dentro de los rubros “Costo de generación de energía” y “Gastos de 
+administración”, según corresponda.  
+ 
+N. Capital en acciones 
+Las acciones comunes se clasifican como patrimonio y se reconocen a su valor nominal. Los costos 
+incrementales directamente atribuibles a la emisión de nuevas acciones u opciones se muestran en 
+el patrimonio como una deducción del monto recibido, neto de impuestos. 
+ 
+O. Distribución de dividendos 
+La distribución de dividendos a los accionistas se reconoce como pasivo en los estados financieros 
+en el período en el que éstos se aprueban por los accionistas de la Compañía. 
+ 
+P. Utilidad por acción básica y diluida  
+La utilidad por acción básica y diluida ha sido calculada sobre la base del promedio ponderado de las 
+acciones comunes en circulación a la fecha del estado de situación financiera. Al 31 de diciembre de 
+2021 y de 2020, la Compañía no mantuvo instrumentos financieros con efecto dilutivo, por lo que las 
+utilidades básica y diluida por acción son las mismas. 
+ 
+Q. Segmentos  
+Un segmento de negocios es un grupo de activos y operaciones que proveen bienes o servicios, y 
+que está sujeto a riesgos y retornos significativos distintos a los riesgos y retornos de otros 
+segmentos de negocios. Un segmento geográfico se caracteriza por proveer bienes o servicios 
+dentro de un ambiente económico particular que está sujeto a riesgos y retornos diferentes de 
+aquellos segmentos que operan en otros ambientes económicos. En el caso de la Compañía, la 
+Gerencia ha determinado que su único segmento reportable es el de distribución de energía. 
+ 
+R. Reclasificaciones  
+La Compañía ha reclasificado ciertas partidas del ejercicio 2020 con la finalidad de que los estados 
+financieros sigan la estructura de presentación establecida en el presente período. La Gerencia de la 
+Compañía considera que las reclasificaciones realizadas no implican cambios en las decisiones 
+tomadas con base en ellas. Los importes reclasificados y las cuentas afectadas se resumen como 
+sigue: 
+ 
+Estado de situación financiera 
+ 
+En miles de soles Nota 
+Anteriormente 
+reportado Reclasificación 
+Actualmente 
+reportado 
+Otros pasivos financieros (pasivo corriente) 13 135,080 82 135,162 
+Otras cuentas por pagar (pasivo corriente) 15 4,254 (82) 4,172 
+ 
+  
+
+=== PAGINA PDF 32 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+28 
+ 
+Estado de resultados y otros resultados integrales 
+ 
+En miles de soles Nota 
+Anteriormente 
+reportado Reclasificación 
+Actualmente 
+Reportado 
+Otros ingresos operativos  18 2,523 (2,523) - 
+Otros ingresos  22 12,623 2,836 15,459 
+Ingresos por generación de energía, potencia 
+y gas   222,436 (313) 222,123 
+Costo de generación eléctrica  19 (140,923) (1,466) (142,389) 
+Gastos de administración  20 (14,195) 1,466 (12,729) 
+ 
+S. Nuevos requerimientos actualmente vigentes  
+Las siguientes normas, interpretaciones y enmiendas a las NIIF son de aplicación obligatoria por 
+primera vez a partir de los períodos anuales iniciados el 1 de enero de 2021: 
+ 
+Nuevas NIIF, enmiendas e interpretaciones Fecha efectiva 
+Reforma de la tasa de interés de referencia- Fase 2 
+(modificaciones a la NIIF 9, NIC 39, NIIF 7, NIIF 4 y 
+NIIF 16). 
+Períodos anuales que comienzan en o después 
+del 1 de enero de 2021. 
+Reducciones del alquiler relacionadas con el  
+COVID-19 (Modificaciones a la NIIF 16). 
+Períodos iniciados el 1 de junio de 2021, 
+permitiéndose su adopción anticipada.  
+ 
+La Compañía adoptó estas normas, interpretaciones y enmiendas no generándose impactos 
+significativos en los estados financieros al 31 de diciembre de 2021. 
+ 
+T. Nuevos pronunciamientos contables emitidos que no han sido adoptados 
+anticipadamente 
+Las siguientes nuevas normas, enmiendas e interpretaciones han sido emitidas con aplicación para 
+períodos que comienzan con posterioridad a la fecha de presentación de estos estados financieros: 
+ 
+Nuevas NIIF, enmiendas e interpretaciones Fecha efectiva 
+Contratos onerosos – Costo de cumplimiento de un 
+contrato (modificaciones a la NIC 37) 
+Mejoras anuales a las NIIF, ciclo 2018- 2020 
+Propiedades, planta y equipo: Importes obtenidos con 
+anterioridad al uso previsto (Modificaciones a la NIC 16) 
+Referencia al Marco Conceptual (Modificaciones a la 
+NIIF 3) 
+1 de enero de 2022 
+Clasificación de pasivos como corrientes o no 
+corrientes (Modificaciones a la NIC 1) 
+Información a revelar sobre políticas contables 
+(modificaciones de la NIC 1 y la Declaración de 
+práctica de las NIIF 2) 
+Definición de estimación contables (enmienda NIC 8) 
+Impuestos diferidos relacionados con activos y pasivos 
+que surjan de una sola transacción (Enmienda a la  
+NIC 12) 
+1 de enero de 2023 
+Venta o aportación de activos entre un inversor y su 
+asociada o negocio conjunto (Modificaciones a la  
+NIIF 10 y la NIC 28). 
+Disponible para adopción opcional/fecha de 
+vigencia postergada indefinidamente. 
+ 
+La Compañía adoptó estas normas, interpretaciones y enmiendas no generándose impactos 
+significativos en los estados financieros al 31 de diciembre de 2021.  
+
+=== PAGINA PDF 33 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+29 
+ 
+5. Administración de Riesgo Financiero 
+Los principales pasivos financieros de la Compañía incluyen otros pasivos financieros, cuentas por 
+pagar comerciales y diversas. La finalidad principal de estos pasivos financieros es financiar las 
+operaciones de la Compañía. Por otro lado, la Compañía tiene efectivo y depósitos a corto plazo, 
+cuentas por cobrar comerciales y diversas que surgen directamente de sus operaciones. 
+ 
+La Compañía está expuesta a los riesgos de mercado, de crédito y de liquidez, originados por 
+cambios en la tasa de interés, en el tipo de cambio y en los precios. 
+ 
+Marco de gestión de riesgos 
+La Gerencia de la Compañía es responsable de administrar la gestión de estos riesgos, y de tomar 
+las acciones necesarias para mitigar los impactos asociados a estos riesgos.  
+ 
+Las políticas de gestión de riesgo son establecidas con el objeto de identificar y analizar los riesgos 
+enfrentados por la Compañía, fijar límites y controles de riesgo adecuados, y para monitorear los 
+riesgos y el cumplimiento de los límites. Se revisan regularmente las políticas y los sistemas de 
+gestión de riesgo a fin de que reflejen los cambios en las condiciones de mercado y en las 
+actividades de la Compañía. 
+ 
+La Compañía, a través de sus normas y procedimientos de gestión, pretende desarrollar un 
+ambiente de control disciplinado y constructivo en el que todos los empleados entiendan sus roles y 
+obligaciones.  
+ 
+La Gerencia revisa y aprueba las políticas para administrar cada uno de los riesgos, que se resumen 
+a continuación: 
+ 
+A. Riesgo de mercado  
+El riesgo de mercado es el riesgo de que el valor razonable o los flujos futuros de efectivo de un 
+instrumento financiero fluctúen debido a cambios en los precios del mercado, por ejemplo, el tipo de 
+cambio, tasas de interés o precios. Los instrumentos financieros afectados por el riesgo de mercado 
+incluyen los préstamos y depósitos mantenidos por la Compañía. 
+ 
+Los análisis de sensibilidad que se ilustran en las próximas secciones se vinculan con la posición al 
+31 de diciembre de 2021 y de 2020, y se prepararon sobre la base de que el monto de deuda neta, 
+la proporción de interés fijo y variable y la proporción de los instrumentos financieros en monedas 
+extranjeras. 
+ 
+La estrategia de gestión de riesgos de la Compañía se ha mantenido aun en el periodo de pandemia. 
+ 
+i. Riesgo de tasa de interés  
+El riesgo de tasa de interés es el riesgo que el valor razonable o los flujos futuros de efectivo de un 
+instrumento financiero fluctúen debido a cambios en las tasas de interés del mercado. 
+ 
+La Compañía mantiene saldos de efectivo significativos que pueden ser remunerados a tasas de 
+interés de mercado.  Los ingresos y los flujos de efectivo operativos de la Compañía son 
+independientes de los cambios en las tasas de interés en el mercado. La exposición de la Compañía 
+a este riesgo se genera básicamente por la remuneración del efectivo y el impacto sobre sus 
+obligaciones financieras. 
+ 
+El endeudamiento a tasas variables podría exponer a la Compañía al riesgo de tasa de interés sobre 
+sus flujos de efectivo. La Compañía minimiza este riesgo contratando parcialmente sus obligaciones 
+financieras a tasas de interés fijas, ya sea con deudas emitidas inicialmente a tasas de interés fijas o 
+contratando instrumentos financieros derivados que transforman el riesgo de tasa de interés de 
+variable a fijo.  
+
+=== PAGINA PDF 34 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+30 
+ 
+Por otro lado, el endeudamiento a tasas fijas podría exponer a la Compañía al riesgo de tasa de 
+interés sobre el valor razonable de sus pasivos financieros. 
+ 
+Al 31 de diciembre de 2021, el 100% de las deudas y préstamos de la Compañía tienen una tasa de 
+interés fija, mientras que en 2020 fue de 61%, evidenciando una exposición parcial a la variación de 
+las tasas de interés al cierre del presente período.  
+ 
+ii. Riesgo de tipo de cambio  
+El riesgo de tipo de cambio es el riesgo que el valor razonable o los flujos futuros de efectivo de un 
+instrumento financiero fluctúen debido a cambios en las tasas de cambio. La exposición de la 
+Compañía al riesgo de tasas de cambio se relaciona principalmente con las actividades operativas de 
+la Compañía (cuando los ingresos o gastos se denominan en una moneda diferente de la moneda 
+funcional de la Compañía).  
+ 
+Exposición al riesgo de tipo de cambio 
+La Compañía minimiza su riesgo de tipo de cambio con una política de cobertura formulada sobre la 
+base de los flujos de caja proyectados y contempla mantener un equilibrio entre los flujos indexados 
+a dólares estadounidenses y los niveles de activos y pasivos en dicha moneda. El objetivo es 
+minimizar la exposición de los flujos al riesgo de variaciones en el tipo de cambio. El resultado de 
+mantener saldos en moneda extranjera para la Compañía al 31 de diciembre de 2021 y de 2020 fue 
+una pérdida neta de miles de S/ 17,288 y de S/ 12,749 respectivamente, las cuales se presentan en 
+el rubro “Diferencia de cambio neta” del estado de resultados. 
+ 
+Al 31 de diciembre de 2021, los saldos de activos y pasivos financieros denominados en moneda 
+extranjera están expresados en soles al tipo de cambio de oferta y demanda publicado por la 
+Superintendencia de Banca, Seguros y AFP (SBS) vigente a esas fechas, los cuales fueron S/ 3.998 
+venta y S/ 3.975 compra (S/ 3.624 venta y S/ 3.618 compra al 31 de diciembre de 2020). 
+ 
+Exposición al riesgo de moneda 
+El resumen de la información cuantitativa relacionada con la exposición de la Compañía a riesgos en 
+moneda extranjera y que fue informada a la Gerencia fue la siguiente: 
+ 
+En miles de dólares estadounidenses Nota 2021 2020 
+Activos    
+Efectivo y equivalentes al efectivo  2,838 4,094 
+Cuentas por cobrar comerciales  2,327 2,363 
+  5,165 6,457 
+Pasivos    
+Cuentas por pagar comerciales  (167) (569) 
+Otros pasivos financieros  (46,155) (41,108) 
+  (46,322) (41,677) 
+Deuda de cobertura 13(g) 18,312 18,312 
+Posición pasiva neta  (22,845) (16,908) 
+ 
+  
+
+=== PAGINA PDF 35 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+31 
+ 
+Sensibilidad a las tasas de cambio  
+El siguiente cuadro muestra la sensibilidad a un cambio razonablemente posible en las tasas de 
+cambio del dólar estadounidense, considerando que todas las demás variables permanecerán 
+constantes, de la utilidad de la Compañía antes de impuestos: 
+ 
+En miles de soles 
+Aumento/disminución en el 
+tipo de cambio 
+Efecto en la utilidad antes de 
+impuesto a las ganancias 
+2021     
+Dólares estadounidenses 10% (9,107) 
+Dólares estadounidenses -10% 9,107 
+2020     
+Dólares estadounidenses 10% (6,122) 
+Dólares estadounidenses -10% 6,122 
+ 
+B. Riesgo de crédito 
+El riesgo de crédito es el incumplimiento de una contraparte de sus obligaciones asumidas en un 
+instrumento financiero o contrato comercial, tiempo y forma, y que ello resulte en una pérdida 
+financiera.  
+ 
+La Compañía está expuesta al riesgo de crédito por sus actividades operativas (principalmente por 
+las cuentas por cobrar comerciales) y sus actividades financieras, incluyendo depósitos en bancos e 
+instituciones financieras, operaciones de cambio de moneda extranjera y otros instrumentos 
+financieros. 
+ 
+La Compañía tiene una política establecida para mitigar el riesgo de contraparte, utilizando las 
+clasificaciones de riesgo de las instituciones financieras, como referencia para estructurar una 
+cartera de inversiones que diversifica este riesgo acorde con las mejores prácticas de la Compañía. 
+ 
+i. Cuentas por cobrar comerciales  
+El riesgo de crédito correspondiente a las cuentas a cobrar provenientes de la actividad comercial es 
+históricamente muy bajo dado el corto plazo de cobro a los clientes, que hace que no acumulen 
+individualmente montos significativos.  
+ 
+La Gerencia de la Compañía evalúa periódicamente el riesgo crediticio de su cartera de clientes, que 
+toma en cuenta factores como: liquidez, endeudamiento, rentabilidad, antigüedad del negocio, 
+comportamiento de pago, antecedentes judiciales, entre otros.  
+ 
+La necesidad de registrar una provisión por deterioro se analiza a cada fecha del periodo sobre el que 
+se informa, la cual se encuentra de acuerdo a la política de la Compañía descrita en la nota 4B (i). 
+ 
+La Gerencia estima que los montos deteriorados por más de 30 días aún son enteramente 
+recuperables sobre la base del comportamiento de pago histórico y análisis del riesgo de crédito del 
+cliente, incluidas sus calificaciones de créditos cuando están disponibles. 
+ 
+La máxima exposición al riesgo de crédito a la fecha de los estados financieros son los valores en 
+libros presentado en los rubros “Cuentas por cobrar comerciales”, “Cuentas por cobrar entidades 
+relacionadas” y “Otras cuentas por cobrar” que se muestran en las notas 7,8 y 9, respectivamente, 
+del estado de situación financiera. 
+ 
+  
+
+=== PAGINA PDF 36 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+32 
+ 
+ii. Instrumentos financieros y depósitos en efectivo  
+El riesgo de crédito de los saldos en bancos e instituciones se gestiona a través de la Gerencia de 
+Finanzas de la Compañía de acuerdo con su política corporativa. Las inversiones de fondos 
+excedentes se hacen solo con contrapartes aprobadas y dentro de los límites de crédito asignado a 
+cada contraparte. La Gerencia de finanzas de la Compañía revisa periódicamente la exposición de las 
+contrapartes. Los límites se establecen para minimizar la concentración de riesgo de crédito y, por lo 
+tanto, mitigan la pérdida financiera que pudiera surgir de los posibles incumplimientos de la 
+contraparte. 
+ 
+La máxima exposición al riesgo de crédito a la fecha de los estados financieros es el valor en libros 
+del rubro “Efectivo y equivalentes al efectivo”, nota 6. 
+ 
+En opinión de la Gerencia, al 31 de diciembre de 2021 y de 2020, no existen riesgos de crédito 
+significativos para la Compañía. 
+ 
+C. Riesgo de liquidez  
+La Gerencia tiene conocimiento que el riesgo de liquidez implica disponer de suficiente efectivo y 
+equivalentes al efectivo y tener la posibilidad de comprometer y/o tener comprometido 
+financiamiento a través de diversas fuentes de crédito. La Compañía cuenta con adecuados niveles 
+de efectivo y equivalentes al efectivo y de líneas de crédito disponibles.  
+ 
+Exposición al riesgo de liquidez 
+El siguiente cuadro presenta el perfil de vencimientos de los pasivos financieros de la Compañía 
+sobre la base de las obligaciones contractuales no descontadas: 
+ 
+En miles de soles 
+Menos de 1 
+año 1 a 2 años 3 a 5 años Total 
+Al 31 de diciembre de 2021     
+Otros pasivos financieros 32,662 32 151,944 184,638 
+Cuentas por pagar comerciales 41,245 - - 41,245 
+Cuentas por pagar a entidades relacionadas 13,510 - - 13,510 
+Otras cuentas por pagar (*) 696 - - 696 
+ 88,113 32 151,944 240,089 
+Al 31 de diciembre de 2020     
+Otros pasivos financieros 135,162 13,966 - 149,128 
+Cuentas por pagar comerciales 55,013 - - 55,013 
+Cuentas por pagar a entidades relacionadas 15,643 - - 15,643 
+Otras cuentas por pagar (*) 859 - - 859 
+ 206,677 13,966 - 220,643 
+(*) No incluye tributos, anticipos recibidos y otorgados, ni los pasivos laborales. 
+ 
+La Gerencia administra el riesgo asociado con los importes incluidos en cada una de las categorías 
+mencionadas anteriormente, los cuales incluyen el mantener buenas relaciones con bancos locales 
+con el fin de asegurar suficientes líneas de crédito en todo momento.  
+ 
+D. Gestión de capital  
+La Compañía gestiona su estructura de capital y realiza los ajustes pertinentes en dicha estructura 
+según los cambios en las condiciones económicas. Para mantener o ajustar su estructura de capital, 
+la Compañía puede modificar los pagos de dividendos a los accionistas, devolver capital a los 
+accionistas o emitir nuevas acciones. 
+ 
+  
+
+=== PAGINA PDF 37 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+33 
+ 
+No hubo modificaciones en los objetivos, políticas o procesos relacionados con la gestión del capital 
+durante los periodos terminados el 31 de diciembre de 2021 y de 2020. 
+ 
+En miles de soles 2021 2020 
+Otros pasivos financieros 184,612 149,046 
+Intereses por pagar 26 82 
+Menos: Efectivo y equivalente de efectivo (94,353) (134,786) 
+Deuda neta 90,285 14,342 
+Total patrimonio 425,685 513,527 
+Ratio de endeudamiento (%) 21.21 2.80 
+ 
+E. Instrumentos financieros a valor razonable 
+ 
+i. Clasificaciones contables y valores razonables 
+A continuación, se muestra los importes en libros y los valores razonables de los activos y pasivos 
+financieros, incluyendo sus niveles en la jerarquía del valor razonable. 
+El valor razonable estimado, así como el nivel en la jerarquía de medición se describe a continuación: 
+ 
+Nivel 1 – Precios cotizados (no ajustados) en mercados activos para activos o pasivos idénticos.  
+ 
+▪ El efectivo y equivalentes al efectivo no representa un riesgo de crédito ni de tasa de interés 
+significativo. Por lo tanto, se ha asumido que sus valores en libros se aproximan a su valor 
+razonable. 
+ 
+▪ Las cuentas por cobrar y otras cuentas por cobrar, debido a que se encuentran netas de su 
+provisión para incobrabilidad y cuentas por cobrar a relacionadas, principalmente, tienen 
+vencimientos menores a un año, se consideran que su valor razonable no es 
+significativamente diferente a su valor en libros. 
+ 
+▪ Las cuentas por pagar comerciales y otras cuentas por pagar, debido a su vencimiento 
+corriente, la Gerencia de la Compañía estima que su saldo contable se aproxima a su valor 
+razonable. 
+ 
+Nivel 2 – Datos diferentes de los precios cotizados incluidos en el Nivel 1, que sean observables para 
+el activo o pasivo, ya sea directa (es decir precios) o indirectamente (es decir derivados de los 
+precios).  
+ 
+Para los otros pasivos financieros se ha determinado sus valores razonables comparando las tasas 
+de interés del mercado en el momento de su reconocimiento inicial con las tasas de mercado 
+actuales relacionadas con instrumentos financieros similares. 
+ 
+A continuación, se presenta los valores en libros y a su vez los valores razonables de estos 
+instrumentos financieros: 
+ 
+ 2021 2020 
+En miles de soles 
+Valor  
+en libros 
+Valor razonable 
+Nivel 2 
+Valor  
+en libros 
+Valor razonable 
+Nivel 2 
+Otros pasivos financieros  184,638 186,641 149,128 170,693 
+ 
+  
+
+=== PAGINA PDF 38 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+34 
+ 
+6. Efectivo y Equivalentes al Efectivo 
+Este rubro comprende: 
+ 
+En miles de soles 2021 2020 
+Cuentas corrientes (a) 70,346 134,786 
+Depósitos a plazos (b) 24,007 - 
+ 94,353 134,786 
+ 
+Ver política contable en notas 4.A y 4.B 
+ 
+(a) Al 31 de diciembre de 2021 y de 2020, la Compañía mantiene sus cuentas corrientes en soles 
+y dólares estadounidenses. Los fondos son de libre disponibilidad, están depositados en 
+bancos locales con una alta evaluación crediticia y generan intereses a tasas de mercado. 
+ 
+(b) El depósito a plazo tiene una vigencia menor a 30 días a una tasa de interés de 2.50% y es en 
+moneda local soles. 
+ 
+7. Cuentas por Cobrar Comerciales 
+Este rubro comprende: 
+ 
+En miles de soles 2021 2020 
+Potencia entregada y no facturada (a) 15,137 9,151 
+Energía entregada y no facturada (a) 2,183 4,516 
+Gas entregado y no facturado 4,935 3,172 
+Facturas por cobrar 13,762 12,756 
+ 36,017 29,595 
+Estimación por deterioro de cuentas por cobrar (c) (11,665) (10,838) 
+ 24,352 18,757 
+ 
+Ver política contable en notas 4.B y 4.C 
+ 
+Las cuentas por cobrar comerciales están denominadas en soles, tienen un vencimiento promedio 
+de 30 días y no generan intereses. 
+ 
+(a) La energía y potencia entregada y no facturada, corresponde principalmente a la 
+remuneración por potencia y energía que el organismo regulador del sistema interconectado 
+nacional, Comité de Operación Económica del Sistema Interconectado Nacional (COES - 
+SINAC), asigna mensualmente a cada generador y comunica para que sean facturados a los 
+demás generadores o distribuidoras miembros del SINAC. Dicha energía y potencia 
+corresponde básicamente a las ventas del mes de diciembre del año en curso. La energía y 
+potencia entregada y no facturada al 31 de diciembre de 2021 y de 2020 fue facturada en 
+enero de 2022 y de 2021, respectivamente. 
+ 
+(b) La antigüedad de las cuentas por cobrar comerciales es como sigue: 
+ 
+En miles de soles 
+No 
+deteriorado Deteriorado Total  
+Al 31 de diciembre de 2021    
+No vencido  22,598 - 22,598 
+Vencido     
+- Hasta de 90 días  1,754 - 1,754 
+- Más de 90 días - 11,665 11,665 
+ 24,352 11,665 36,017 
+
+=== PAGINA PDF 39 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+35 
+ 
+En miles de soles 
+No 
+deteriorado Deteriorado Total  
+Al 31 de diciembre de 2020    
+No vencido  18,159 - 18,159 
+Vencido     
+- Más de 90 días  598 10,838 11,436 
+ 18,757 10,838 29,595 
+ 
+(c) El movimiento de la estimación por deterioro de cuentas por cobrar fue como sigue:  
+ 
+En miles de soles Nota 2021 2020 
+Saldos iniciales  10,838 9,910 
+Aumento  21 66 3 
+Incremento por diferencia en cambio  761 925 
+  11,665 10,838 
+ 
+En opinión de la Gerencia de la Compañía, la estimación por deterioro de cuentas por c obrar 
+al 31 de diciembre de 2021 y de 2020, cubre adecuadamente el riesgo de crédito de estas 
+partidas a dichas fechas. 
+ 
+8. Saldos y Transacciones con Entidades Relacionadas 
+Al 31 de diciembre de 2021 y de 2020, la Compañía ha efectuado, principalmente, las siguientes 
+transacciones con entidades relacionadas: 
+ 
+  2021 2020 
+En miles de soles Nota Ingresos 
+Gastos/ 
+costos Ingresos 
+Gastos/ 
+costos 
+Entidad controladora       
+Intereses sobre préstamos 24 16 - 549 - 
+Entidades relacionadas       
+Venta de energía, potencia y gas 18 80,970 - 68,642 - 
+Compra de energía 19 - 323 - 383 
+Servicios de informática  - 119 - - 
+Honorarios, gastos administrativos y otros  - 4,829 - 2,453 
+Servicios administrativos  1,653 6,531 1,569 5,547 
+Intereses sobre préstamos 24 143 - 276 - 
+ 
+(a) Como resultado de estas y otras transacciones realizadas con entidades relacionadas, a 
+continuación, se presenta el saldo de las cuentas por cobrar y por pagar al 31 de diciembre de 
+2021 y de 2020: 
+ 
+En miles de soles 2021 2020 
+Cuentas por cobrar    
+Entidad controladora   
+Enel Perú S.A.C.  - 449 
+Entidades relacionadas    
+Enel Distribución Perú S.A.A. 8,987 8,575 
+Enel Generación Perú S.A.A. 3,761 3,899 
+Enel Green Power Perú S.A. 185 201 
+Chinango S.A.C. 78 78 
+Proyectos y Soluciones Renovables S.A.C. 14 9 
+Enel Iberia S.R.L. 18 14 
+Enel X Peru S.A.C. 6 7 
+ 13,049 12,783 
+ 13,049 13,232 
+
+=== PAGINA PDF 40 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+36 
+ 
+En miles de soles 2021 2020 
+Cuentas por pagar    
+Entidades relacionadas   
+Enel Generación Perú S.A.A. 5,946 4,683 
+Enel S.p.A. 1,046 608 
+Enel Distribución Perú S.A.A. 269 2,326 
+Enel Produzione S.P.A. 2,212 4,759 
+Enel Global Thermal Generation 1,854 1,711 
+Enel Italia 1 - 
+Enel Generación Chile S.A. 363 285 
+Enel Green Power Perú 99 127 
+Enel Global Services S.R.L. 1,720 1,144 
+ 13,510 15,643 
+ 
+(b) Controladora y controladora final 
+Al 31 de diciembre de 2021 y de 2020, no hubo cambios en las controladoras, ENEL  
+Perú S.A.C., Enel Américas S.A., ni en la compañía controladora final, Enel SPA.  
+ 
+(c) Compensación recibida por el personal de la Gerencia clave 
+La Compañía ha definido como personal clave a los directores. La política de la Compañía es 
+remunerar a los Directores Independientes. Al 31 de diciembre de 2021 y de 2020 la Compañía 
+no tiene ningún Director Independiente, en consecuencia, no se ha pagado remuneraciones a 
+este órgano. 
+ 
+(d) Dividendos 
+En el año 2021, se distribuyeron dividendos por miles de S/ 151,625 que corresponden a Enel  
+Perú S.A.C. Al 31 de diciembre de 2020, se distribuyeron dividendos por miles de S/ 46,203. 
+ 
+(e) Préstamos a los directores 
+Al 31 de diciembre del 2021 y 2020 no hay préstamos a directores. 
+ 
+(f) Términos y condiciones de transacciones con partes relacionadas  
+Las ventas y compras con partes relacionadas se hacen en condiciones de mercado equivalentes 
+a aquellas aplicadas a transacciones entre partes independientes. Al 31 de diciembre de 2021 y 
+de 2020, la Compañía no ha registrado ninguna estimación para cuentas de cobranza dudosa en 
+relación a los saldos adeudados por las partes relacionadas. Esta evaluación se realiza 
+anualmente examinando la posición comercial de la parte relacionada y del mercado en el que 
+opera. 
+ 
+Al 31 de diciembre de 2021 y de 2020, la Compañía otorgo diversos préstamos por cobrar a 
+sus relacionadas los cuales se muestran a continuación 
+ 
+  Moneda Importe  (en miles) Tasa efectiva Fecha de Inicio Fecha de vencimiento 
+Al 31 de diciembre de 2021           
+Entidad Controladora           
+Enel Perú S.A.C. PEN 16,000 2.11% 23/08/2021 9/09/2021 
+Entidades Relacionadas           
+Enel Distribución Peru S.A.A. PEN 40,000 1.35% 1/02/2021 19/03/2021 
+Enel Generación Peru S.A.A. PEN 20,000 1.51% 21/10/2021 29/10/2021 
+Enel Generación Peru S.A.A. PEN 20,000 1.85% 19/11/2021 30/11/2021 
+Chinango S.A.C. PEN 10,000 1.81% 13/09/2021 30/11/2021 
+Chinango S.A.C. PEN 3,000 2.15% 20/10/2021 30/11/2021 
+Chinango S.A.C. PEN 10,000 2.28% 30/11/2021 13/12/2021 
+
+=== PAGINA PDF 41 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+37 
+ 
+ 
+  Moneda Importe  (en miles) Tasa efectiva Fecha de inicio Fecha de vencimiento 
+Al 31 de diciembre de 2020      
+Entidades Relacionadas:      
+Enel Distribucion Peru S.A.A. PEN 10,000 1.46% 26/06/2020 12/09/2020 
+Enel Distribucion Peru S.A.A. PEN 30,000 1.46% 30/06/2020 12/09/2020 
+ 
+En opinión de la Gerencia de la Compañía, las cuentas por cobrar y por pagar clasificadas como 
+corrientes al 31 de diciembre de 2021 serán cobradas y pagadas durante el año 2022. 
+ 
+9. Otras Cuentas por Cobrar 
+Este rubro comprende: 
+ 
+En miles de soles 2021 2020 
+Crédito fiscal por impuesto general a las ventas 3,036 12,489 
+Préstamos y adelanto de sueldos al personal 330 425 
+Deudores varios (a) 883 723 
+ 4,249 13,637 
+Estimación de deterioro de cuentas por cobrar (b) (12) (9) 
+ 4,237 13,628 
+ 
+(a) Las otras cuentas por cobrar están denominadas principalmente en soles, tienen vencimiento 
+corriente y no generan intereses. 
+ 
+(b) El movimiento de la estimación por deterioro de cuentas por cobrar fue como sigue:  
+ 
+En miles de soles Nota 2021 2020 
+Saldos iniciales  9 53 
+Aumento 21 3 (44) 
+  12 9 
+ 
+En opinión de la Gerencia, esta estimación cubre adecuadamente el riesgo de deterioro de las 
+“Otras cuentas por cobrar” al 31 de diciembre de 2021 y 2020.  
+ 
+Ver política contable en notas 4.B y 4.C 
+ 
+10. Inventarios 
+Este rubro comprende: 
+ 
+En miles de soles 2021 2020 
+Petróleo 17,829 18,731 
+Materiales auxiliares 11,842 9,456 
+Suministros diversos 456 422 
+Inventarios por recibir 661 232 
+ 30,788 28,841 
+Estimación por desvalorización de inventarios (a) (201) (201) 
+ 30,587 28,640 
+ 
+Ver política contable en nota 4.D 
+ 
+(a) En opinión de la Gerencia, esta estimación cubre adecuadamente el riesgo de desvalorización 
+de inventarios al 31 de diciembre de 2021 y 2020. 
+ 
+
+=== PAGINA PDF 42 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+38 
+ 
+La estimación por deterioro de inventarios ha sido determinada sobre la base de estudios técnicos y 
+en opinión de la Gerencia, esta estimación cubre adecuadamente el riesgo de desvalorización de los 
+inventarios al 31 de diciembre de 2021 y de 2020. 
+ 
+11. Otros Activos No Financieros 
+Al 31 de diciembre de 2021 y de 2020, corresponde a la contabilización de la modificación de los 
+contratos de energía derivados de la aplicación de la Resolución N° 216-2018-OS/CD del 28 de 
+diciembre de 2018 y del Decreto Supremo N° 022-2018-EM del 5 de setiembre de 2018. 
+ 
+En aplicación del párrafo 21(a) de la NIIF 15 “Ingresos de Actividades Ordinarias Procedentes de 
+Contratos con clientes”, la Compañía contabiliza la modificación de dichos contratos como la 
+terminación del antiguo y la creación de uno nuevo. Para estas modificaciones, los ingresos 
+reconocidos hasta la fecha en el contrato original (el monto asociado con las obligaciones de 
+desempeño completadas) no se ajustan. La parte restante del contrato original y la modificación se 
+contabilizan de manera prospectiva, asignando el importe del nuevo contrato a las obligaciones de 
+desempeño por cumplir, incluidas las agregadas en la modificación.
+
+=== PAGINA PDF 43 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+39 
+12. Propiedades, Planta y Equipo 
+ 
+Ver política contable en nota 4.E.  
+ 
+A continuación, se presenta el movimiento del costo y depreciación acumulada: 
+ 
+En miles de soles Terrenos 
+Plantas  
+generadoras 
+Unidades de 
+transporte 
+Muebles y  
+enseres 
+Equipos  
+diversos 
+Trabajo  
+en curso (d) Total 
+Costo         
+Saldo al 1 de enero de 2020 1,389 852,607 411 638 3,495 61,369 919,909 
+Adiciones - - - - - 37,500 37,500 
+Transferencia - 57,451 - - 230 (57,681) - 
+Retiros (g) (261) (12,929) - (20) (13) - (13,223) 
+Saldo al 31 de diciembre de 2020 1,128 897,129 411 618 3,712 41,188 944,186 
+Adiciones - - - - - 28,358 28,358 
+Transferencia - 14,672 110 - 683 (15,465) - 
+Retiros (g) - (2,766) - - - - (2,766) 
+Saldo al 31 de diciembre de 2021 1,128 909,035 521 618 4,395 54,082 969,779 
+Depreciación acumulada        
+Saldo al 1 de enero de 2020 - 333,471 231 467 2,706 - 336,875 
+Depreciación del ejercicio (a) - 39,074 111 33 232 - 39,450 
+Retiros (g) - (5,390) - (20) (13) - (5,423) 
+Saldo al 31 de diciembre de 2020 - 367,155 342 480 2,925 - 370,902 
+Depreciación del ejercicio (a) - 37,515 100 33 341 - 37,989 
+Retiros (g) - - - - - - - 
+Saldo al 31 de diciembre de 2021 - 404,670 442 513 3,266 - 408,891 
+Al 31 de diciembre de 2020 1,128 529,974 69 138 787 41,188 573,284 
+Al 31 de diciembre de 2021 1,128 504,365 79 105 1,129 54,082 560,888 
+ 
+(a) La distribución de la depreciación fue como sigue: 
+ 
+En miles de soles Nota 2021 2020 
+Costo de generación de energía 19 37,583 39,153 
+Gastos de administración 20 406 297 
+  37,989 39,450 
+
+=== PAGINA PDF 44 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+40 
+(b) El rubro propiedades, planta y equipo incluyen activos adquiridos a través de arrendamientos 
+financieros. Al 31 de diciembre de 2021 y de 2020, el costo y la depreciación acumulada de 
+estos bienes se encuentran compuestos de la siguiente manera: 
+ 
+ 2021 2020 
+En miles de soles Costo 
+Depreciación 
+acumulada 
+Costo 
+neto Costo 
+Depreciación 
+acumulada 
+Costo 
+neto 
+Plantas Generadoras 469,035   (124,398)  344,637   469,035 (106,131)   362,904  
+Vehículos 401 (322) 78 290 (222) 69 
+ 469,436 (124,720) 344,715  469,325  (106,353)   362,973  
+ 
+(c) Al 31 de diciembre de 2021 y de 2020, las obras en curso corresponden principalmente a 
+proyectos de mejora en reducción de emisiones y rehabilitación de las turbinas de gas de la 
+central térmica. 
+ 
+(d) Las propiedades, planta y equipo incluyen gastos directos vinculados a la construcción de las 
+obras en curso. La metodología aplicada para capitalizar los gastos directos de personal es 
+sobre la base de la identificación del área de la Compañía dedicada cien por ciento a la 
+planificación, ejecución y gestión de obras, esto aplicado a los costos de beneficios de los 
+empleados de dicha área. Al 31 de diciembre de 2021, se han capitalizado gastos directos por 
+aproximadamente miles de S/ 66 (miles de S/ 76, al 31 de diciembre de 2020) nota 19. 
+ 
+(e) La Compañía mantiene seguros vigentes sobre sus principales activos, de conformidad con 
+las políticas establecidas por la Gerencia. Al 31 de diciembre de 2021, la Compañía ha tomado 
+seguros para maquinarias y equipos hasta por un valor de aproximadamente en miles  
+US$ 277,239 (en miles de US$ 280,484 al 31 de diciembre de 2020), quedando sin cobertura 
+el saldo remanente; debido a que corresponden, principalmente, a terrenos, equipos diversos 
+y obras en curso. En opinión de la Gerencia, sus políticas de seguros son consistentes con la 
+práctica internacional en la industria, y el riesgo de eventuales pérdidas por siniestros 
+cubiertos en la póliza de seguros es razonable considerando el tipo de activos que posee la 
+Compañía. 
+ 
+(f) La Gerencia ha estimado que los valores recuperables de sus propiedades, planta y equipo 
+son mayores a sus valores en libros; por lo que no es necesario constituir provisión para 
+pérdida por deterioro para esos activos a la fecha de los estados financieros.  
+ 
+(g) Al 31 de diciembre de 2021 y de 2020, los retiros corresponden principalmente a venta de 
+unidades de transporte. 
+ 
+13. Otros Pasivos Financieros 
+Este rubro comprende: 
+ 
+ Saldo pendiente de pago 
+ Parte corriente  Parte no corriente Total deuda vigente al 
+En miles de soles 2021 2020 2021 2020 2021 2020 
+Acreedor       
+Arrendamiento financiero:       
+Banco de Crédito del Perú (a) - 4,541 - - - 4,541 
+Scotiabank (b) 9,584 34,763 - 8,673 9,584 43,436 
+BBVA (c) 23,041 5,181 - 5,293 23,041 10,474 
+Arrendamiento, NIIF 16 30 71 52 - 82 71 
+ 32,655 44,556 52 13,966 32,707 58,522 
+Préstamo bancario       
+Scotiabank (d) - 90,606 - - - 90,606 
+BBVA (e) 7 - 151,924 - 151,931 - 
+ 7 90,606 151,924 - 151,931 90,606 
+ 32,662 135,162 151,976 13,966 184,638 149,128 
+
+=== PAGINA PDF 45 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+41 
+(a) La Compañía suscribió un contrato de arrendamiento financiero el 8 de julio de 2011, con el 
+Banco de Crédito del Perú, hasta por un monto de miles de US$ 110,000, de los cuales se 
+utilizaron miles de US$ 92,617 aproximadamente. Dicho arrendamiento tenía un plazo de 9 
+años a una tasa fija en dólares estadounidenses de 5.8 % y con amortizaciones trimestrales 
+que se iniciaron el 31 de marzo de 2014.  Este arrendamiento financiero se utilizó para 
+financiar la unidad de “Reserva fría de generación”.  
+ 
+Con fecha 11 de mayo de 2015, se modificó el contrato de arrendamiento financiero original 
+con el objeto de convertir parte de la deuda, inicialmente otorgada en moneda extranjera, a 
+moneda nacional. El importe adeudado a esa fecha ascendía a miles de US$ 79,095 
+aproximadamente. Con la modificación, la deuda se fraccionó en dos tramos, uno de miles de 
+US$ 57,922 manteniendo las condiciones originales y otro de miles S/ 66,651 a una tasa fija 
+en soles de 5.7 %, manteniendo las restantes condiciones del contrato inicial. Al 31 de 
+diciembre de 2020, ambas obligaciones ya habían sido canceladas, (miles de US$ 20,293 
+equivalente en soles a miles de S/ 67,313 y miles de S/ 23,351 al 31 de diciembre de 2019). 
+ 
+Con fecha 21 de julio de 2016, se firmó un contrato de arrendamiento financiero con el Banco 
+de Crédito del Perú, hasta por un monto de miles de US$ 9,440, de los cuales la utilización 
+final fue miles de US$ 7,276 aproximadamente. Dicho arrendamiento tiene un plazo de 3 años 
+a una tasa fija en dólares estadounidenses de 3.68 % y con amortizaciones trimestrales que 
+iniciaron en octubre de 2018.  Este arrendamiento financiero se suscribió para financiar un 
+compresor y una estación de gas natural para la unidad de “Reserva fría de generación “de la 
+central térmica de Malacas (TG5). En directorio del 22 de febrero de 2017, se autorizó ampliar 
+el plazo de la operación a 5 años. Al 31 de diciembre de 2021 ambas obligaciones ya fueron 
+canceladas, mientras que, al cierre de 2020, el saldo de las cuentas por pagar por 
+arrendamiento financiero en dólares estadounidenses asciende a miles de US$ 1,252 
+(equivalente en miles de S/ 4,536). 
+ 
+(b) La Compañía mantiene un contrato de arrendamiento financiero suscrito el 16 de diciembre 
+de 2015, con el Banco Scotiabank del Perú S.A.A., hasta por un monto de miles de  
+US$ 54,800, de los cuales la utilización final fue por miles de US$ 51,643. Dicho 
+arrendamiento tiene un plazo de 6 años y medio a una tasa fija en dólares estadounidenses 
+de 3.75 % y con amortizaciones trimestrales que iniciaron en setiembre de 2017.  Este 
+arrendamiento financiero se suscribió para financiar una nueva turbina para la Central Térmica 
+Malacas (TG6). Al 31 de diciembre de 2021 y de 2020, los saldos de la cuenta por pagar por 
+arrendamiento financiero en dólares estadounidenses ascienden a miles de US$ 2,393 y 
+miles de US$ 11,966, respectivamente (equivalente en miles de S/ 9,568 y miles de  
+S/ 43,365, respectivamente). 
+ 
+(c) La Compañía mantiene un contrato de arrendamiento financiero suscrito el 20 de noviembre 
+de 2019 con el BBVA Perú hasta por un monto de miles de US$ 8,000. Dicho arrendamiento 
+tiene un plazo de 3 años y una tasa fija en dólares estadounidenses de 2.87 % y con 
+amortizaciones trimestrales que iniciaron en junio de 2021. Este arrendamiento financiero se 
+suscribió para financiar un combustor y sistema de neblina para la turbina TG4 de la Central 
+Térmica Malacas. Al 31 de diciembre de 2021 y 2020, el saldo de las cuentas por pagar por 
+arrendamiento financiero en dólares estadounidenses asciende a miles de US$ 5,762 y miles 
+de US$ 2,890 respectivamente (equivalente en miles de S/ 23,038 y miles de S/ 10,474 
+respectivamente). 
+ 
+(d) La Compañía en el mes de mayo 2020 contrató préstamo bancario por miles de US$ 25,000, 
+con una tasa variable de LIBOR + 2.09% y con intereses trimestrales que iniciaron en junio de 
+2020, culminando en abril del 2021. 
+  
+
+=== PAGINA PDF 46 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+42 
+(e) La Compañía en el mes de abril de 2021 contrató un préstamo bancario por miles de  
+US$ 38,000, con una tasa fija 1.60% y con intereses trimestrales que culminan en abril de 
+2024. 
+ 
+(f) El valor presente de los pagos mínimos futuros por el arrendamiento financiero es como 
+sigue: 
+ 
+En miles de soles 2021 2020 
+Hasta 1 año 33,061 45,807 
+De 2 a 5 años 56 14,133 
+Total a pagar incluyendo cargo financiero 33,117 59,940 
+Menos – Cargo financiero por aplicar a resultados de 
+ejercicios futuros (410) (1,418) 
+Valor presente 32,707 58,522 
+ 
+(g) Las principales obligaciones de no hacer de la Compañía son las siguientes: 
+ 
+- No realizar, ni permitir que sus subsidiarias realicen, cambio significativo alguno en el 
+giro principal y naturaleza de sus negocios ni emprender actividades económicas 
+ajenas a dicha naturaleza ni adquirir activos ajenos a ésta. 
+ 
+- No subordinar el pago ni las demás obligaciones contempladas en el presente Contrato 
+a ningún otro endeudamiento que la Arrendataria contraiga. 
+ 
+El cumplimiento de las obligaciones descritas en los párrafos anteriores es supervisado por la 
+Gerencia. Al 31 de diciembre de 2021 y de 2020, la Compañía viene cumpliendo con todas las 
+obligaciones asumidas. 
+ 
+(h) Deuda utilizada para cobertura  
+A partir del 1 de octubre de 2015, la Compañía ha establecido una política de cobertura de la 
+parte de los ingresos que están directamente vinculadas a la evolución del dólar 
+estadounidense, mediante la obtención de financiación en esta última moneda. La deuda 
+utilizada como cobertura por la Compañía al 31 de diciembre de 2021, asciende a miles de 
+US$ 18,312, equivalentes en miles de S/  73,211 (miles de US$ 18,312, equivalentes en miles 
+de S/ 66,695 al 31 de diciembre de 2020), con vencimiento hasta abril del 2024, y está 
+relacionada a la cobertura de los flujos de caja futuros por los ingresos de un contrato de 
+concesión de potencia en firme con el Estado Peruano que tiene un plazo de 20 años desde 
+el año 2010, y que está denominado en dólares estadounidenses.   
+ 
+La diferencia de cambio generada por esta deuda neto de su efecto impositivo, al tratarse de 
+una operación de cobertura de flujo de caja, se presenta en el rubro “Resultado neto de 
+coberturas de flujo de efectivo” del estado de cambios en el patrimonio neto y se imputa 
+neto de su efecto impositivo. El movimiento, neto de su efecto impositivo, ha sido el 
+siguiente: 
+ 
+En miles de soles 
+Saldo al 1 
+de enero  
+de 2020 
+Movimiento 
+neto 
+Al 31 de 
+diciembre  
+de 2020 
+Movimiento 
+neto 
+Al 31 de 
+diciembre 
+de 2021 
+Diferencias en cambio registradas en 
+patrimonio (4,183) 22 (4,161) 450 (3,711) 
+Efecto impositivo 1,235 (7) 1,228 (132) 1,096 
+ (2,948) 15 (2,933) 318 (2,615) 
+  
+
+=== PAGINA PDF 47 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+43 
+Conciliación entre cambios en los pasivos y flujos de efectivo surgidos de actividades de 
+financiación: 
+ 
+En miles de soles 
+Saldo al 1 de 
+enero de 2021 
+Flujo de  
+caja 
+Efecto por tipo  
+de cambio y 
+otros 
+Saldo al 31 de 
+diciembre de 
+2021 
+Otros pasivos financieros     
+Préstamos bancarios  90,606 67,305 (5,980) 151,931 
+Arrendamientos financieros 58,522 (50,196) 24,381 32,707 
+Dividendos por pagar - (157,130) 157,130 - 
+ 149,128 (140,021) 175,531 184,638 
+ 
+En miles de soles 
+Saldo al 1 de 
+enero de 2020 
+Flujo de  
+caja 
+Efecto por tipo  
+de cambio y 
+otros 
+Saldo al 31 de 
+diciembre de 
+2020 
+Otros pasivos financieros     
+Préstamos bancarios  - 92,021  (1,415)  90,606 
+Arrendamientos financieros 178,400 (137,687)  17,809  58,522  
+Dividendos por pagar - (47,880)  47,880 - 
+ 178,400 (93,546)  64,274 149,128  
+ 
+14. Cuentas por Pagar Comerciales  
+Este rubro comprende: 
+ 
+En miles de soles 2021 2020 
+Facturas por pagar (a) 30,999 44,162 
+Provisiones de energía, gas y potencia (b) 10,246 10,851 
+ 41,245 55,013 
+ 
+(a) Las cuentas por pagar comerciales están denominadas principalmente en soles, son de 
+vencimiento corriente, no generan intereses y no tienen garantías específicas.  
+ 
+(b) La provisión de energía, gas y potencia al 31 de diciembre de 2021 y de 2020, corresponde a 
+las compras a proveedores en los meses de diciembre de 2021 y de 2020, cuyas facturas 
+fueron recibidas principalmente en enero de 2022 y de 2021, respectivamente. 
+ 
+15. Otras Cuentas por Pagar 
+Este rubro comprende: 
+ 
+ 2021 2020 
+En miles de soles Corriente No corriente Corriente No corriente 
+Provisión por desmantelamiento (a) - 3,337 - 6,408 
+Participación de los trabajadores 1,781 - 1,222 - 
+Provisión plan de retiro voluntario (b) 2,180 - 859 - 
+Tributos y contribuciones por pagar 673 - 833 - 
+Aportes a entes reguladores 120 - 138 - 
+Compensación por tiempo de servicios 43 - 45 - 
+Vacaciones y otros beneficios por pagar 349 - 231 - 
+Diversas 696 - 844 - 
+ 5,842 3,337 4,172  6,408 
+ 
+Ver política contable en notas 4.F y 4.G  
+
+=== PAGINA PDF 48 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+44 
+(a) La provisión por desmantelamiento al 31 de diciembre de 2021 y de 2020, fue calculada en 
+base a la política descrita en la nota 4F. Al 31 de diciembre de 2021, la Compañía hizo un 
+recalculo de las obligaciones por desmantelamiento por revisión de las vidas útiles. 
+ 
+(b) Corresponde a la provisión del programa excepcional de retiro voluntario presentado por la 
+Compañía a todo el personal contratado a plazo indeterminado, con el objetivo de motivar la 
+renovación generacional de la Compañía, ofreciendo un plan de incentivos económicos en 
+función a la edad, sueldo y tiempo de servicios del trabajador. 
+ 
+(c) Estas cuentas por pagar están denominadas principalmente en soles y no generan intereses. 
+ 
+16. Pasivo por Impuestos Diferidos 
+ 
+Ver política contable en nota 4.L 
+ 
+(a) A continuación, se presenta el movimiento del activo y pasivo diferido por impuesto a las 
+ganancias: 
+ 
+En miles de soles 
+Al 1 de enero 
+de 2021 
+Abono 
+(cargo) al 
+estado de 
+resultados  
+Abono (cargo) 
+al estado de 
+situación 
+financiera 
+Cargo al 
+estado de 
+cambios en el 
+patrimonio 
+Al 31 de 
+diciembre   
+de 2021 
+Activo diferido      
+Provisiones varias 1,463 (9,064)  - (7,601) 
+Pasivo diferido      
+Diferencia en tasas de depreciación (70,616) (9,479)  - (80,095) 
+Cobertura de flujo de efectivo -  132 (132) - 
+Pasivo diferido neto (69,153) (18,543) 132 (132) (87,696) 
+ 
+En miles de soles 
+Al 1 de enero 
+de 2020 
+Abono 
+(cargo) al 
+estado de 
+resultados  
+Abono (cargo) 
+al estado de 
+situación 
+financiera 
+Cargo al 
+estado de 
+cambios en el 
+patrimonio 
+Al 31 de 
+diciembre   
+de 2020 
+Activo diferido      
+Provisiones varias 1,353 110 - - 1,463 
+Pasivo diferido      
+Diferencia en tasas de depreciación (58,969) (11,647) - - (70,616) 
+Cobertura de flujo de efectivo -  7 (7) - 
+Pasivo diferido neto (57,616) (11,537) 7 (7) (69,153) 
+ 
+17. Patrimonio  
+ 
+A. Capital social  
+Al 31 de diciembre de 2021 y de 2020, el capital está representado por 73,982,594 acciones 
+comunes de S/ 1.00 de valor nominal cada una, autorizadas, emitidas y pagadas. Asimismo, a dichas 
+fechas, se encuentra pendiente la emisión de 7,570,888 acciones, las cuales se originaron como 
+producto de la corrección monetaria de años anteriores. 
+ 
+  
+
+=== PAGINA PDF 49 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+45 
+Al 31 de diciembre de 2021 y de 2020, la estructura de participación en el capital de la Compañía es 
+la siguiente: 
+ 
+ 2021 2020 
+En miles de soles 
+Número de 
+acciones 
+Total % de 
+participación 
+Número de 
+acciones 
+Total % de 
+participación 
+Enel Perú S.A.C., nota 1 71,390,878 96.50 71,390,878 96.50 
+Otros accionistas 2,591,716 3.50 2,591,716 3.50 
+ 73,982,594 100.00 73,982,594 100.00 
+ 
+Ver política contable en nota 4.N 
+ 
+Las acciones de “Clase B” están inscritas en el registro Público del Mercado de Valores y se 
+negocian a través de la Bolsa de Valores de Lima. En 2021, la última cotización se registró en 
+octubre de 2020 a un valor de mercado de S/ 4.18 por acción (S/ 6.39 por acción al 31 de diciembre 
+de 2020) y la frecuencia de negociación de las acciones fue de 1 operación mensual en promedio 
+(similar frecuencia al 31 de diciembre de 2020). 
+ 
+B. Capital adicional  
+El capital adicional por miles de S/ 2,671 corresponde al valor pagado por acción en soles en exceso 
+del capital suscrito del año 1996, originado por la diferencia en cambio existente entre la fecha de 
+suscripción y la de pago.  
+ 
+C. Dividendos declarados y pagados  
+Al 31 de diciembre de 2021 y de 2020, se distribuyeron dividendos por miles de S/ 157,130 y miles 
+de S/ 47,880, respectivamente. 
+ 
+En miles de soles Tipo de dividendo 
+Fecha de 
+acuerdo 
+Dividendos 
+declarados y 
+pagados 
+Dividendo por 
+acción 
+Dividendos 2020     
+Sesión de Directorio Complementario 2019 24 de julio 14,284 0.193069 
+Sesión de Directorio A cuenta ejercicio 2020 30 de octubre 33,596 0.454116 
+   47,880  
+Dividendos 2021     
+Junta General de Accionistas Complementario 2020 26 de marzo 6,258 0.084584 
+Junta General de Accionistas Extraordinarios 26 de marzo 111,000 1.500353 
+Sesión de Directorio A cuenta ejercicio 2021 29 de abril 14,381 0.194381 
+Sesión de Directorio A cuenta ejercicio 2021 27 de julio 12,338 0.166771 
+Sesión de Directorio A cuenta ejercicio 2021 26 de octubre 13,153 0.177778 
+   157,130  
+ 
+Los dividendos 2021 fueron pagados en los meses de abril, mayo, agosto y noviembre 2021, y los 
+dividendos de 2020 fueron pagados en agosto y noviembre de 2020. 
+ 
+D. Reservas de capital  
+Está compuesto por la reserva legal que, según lo dispone la Ley General de Sociedades, 
+corresponde a un mínimo de 10 por ciento de la utilidad distribuible de cada ejercicio, deducido el 
+impuesto a las ganancias, hasta que esta sea igual al 20 por ciento del capital. La reserva legal puede 
+compensar pérdidas o puede ser capitalizada, existiendo en ambos casos obligatoriedad de 
+reponerla. La reserva legal de la Compañía al 31 de diciembre de 2021 y de 2020 equivale al 20 por 
+ciento del capital establecido por Ley. 
+  
+
+=== PAGINA PDF 50 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+46 
+18. Ingresos de Actividades Ordinarias 
+Este rubro comprende: 
+ 
+A. Flujos de ingresos 
+ 
+En miles de soles Nota 2021 2020 
+Venta de energía y potencia     
+Terceros  88,617  68,335  
+Relacionadas 8 68,446  56,384  
+Compensaciones     
+Terceros  63,174  53,764  
+Relacionadas 8 12,524  12,258  
+Venta de gas y líquidos – Terceros  54,022 31,695 
+Otros Ingresos operativos  (450) (313) 
+  286,333 222,123 
+ 
+Ver política contable en nota 4.I 
+ 
+Energía entregada no facturada 
+El siguiente cuadro presenta información sobre activos de contratos con clientes: 
+ 
+En miles de soles 2021 2020 
+Cuentas por cobrar que se incluyen en el rubro de “Cuentas por 
+cobrar comerciales” nota 7 22,255 16,839 
+ 
+19. Costo de Generación de Energía 
+Este rubro comprende: 
+ 
+En miles de soles Nota 2021 2020 
+Compra de energía    
+Terceros  86,188 78,550 
+Entidades relacionadas 8 323 383 
+Depreciación y amortización 12 (a) 37,683 39,153 
+Gastos de personal 23 (a) 6,759 5,705 
+Servicios prestados por terceros  12,396 9,205 
+Cargas diversas de gestión y otros  6,497 7,071 
+Tributos  2,655 2,398 
+Gastos de personal vinculados directamente con las 
+obras en curso 
+ 
+12 (d) (66) (76) 
+  152,435 142,389 
+ 
+Ver política contable en nota 4.J 
+ 
+20. Gastos de Administración 
+Este rubro comprende: 
+ 
+En miles de soles Nota 2021 2020 
+Servicios prestados por terceros  8,988 8,036 
+Gastos de personal 23 (a) 2,376 2,954 
+Depreciación 12 (a) 406 297 
+Amortización  935 817 
+Otros   467 625 
+  13,172 12,729 
+ 
+Ver política contable en notas 4.J  
+
+=== PAGINA PDF 51 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+47 
+21. Gastos de Ventas 
+Este rubro comprende: 
+ 
+En miles de soles Nota 2021 2020 
+Gastos de personal 23 (a) 941 533 
+Servicios prestados por terceros y otros   392 154 
+Deterioro de cuentas por cobrar comerciales y otras 
+cuentas por cobrar 
+ 
+ 69 (44)  
+  1,402 643  
+ 
+Ver política contable en notas 4.J 
+ 
+22. Otros Ingresos y Gastos 
+Este rubro comprende: 
+ 
+En miles de soles  2021 2020 
+Otros ingresos     
+Servicio de administración a relacionadas  1,653 1,569 
+Alquileres, penalidades, otros  134 147 
+Venta de Gaseoducto  - 12,623  
+Indemnización de seguro  - 1,120 
+  1,787 15,459 
+Otros gastos    
+Multas y sanciones   40 4,443  
+  40 4,443 
+ 
+23. Gastos de Personal 
+Este rubro comprende: 
+ 
+En miles de soles Nota 2021 2020 
+Remuneraciones  3,938 5,085 
+Participación de los trabajadores  2,366 1,529 
+Otros gastos de personal  2,824 1,478 
+Seguridad y previsión social  639 752 
+Compensación por tiempo de servicios  309 348 
+Gastos de personal vinculados directamente con las 
+obras en curso 
+ 
+12 (d) (66) (76) 
+  10,010 9,116 
+ 
+Ver política contable en notas 4.M 
+ 
+(a) Los gastos de personal se encuentran distribuidos de la manera siguiente: 
+ 
+En miles de soles Nota 2021 2020 
+Costo de generación energía 19 6,759 5,705 
+Gastos de administración 20 2,376 2,954 
+Gastos de ventas 21 941 533 
+Gastos de personal vinculados directamente 
+con las obras en curso 12(d) (66) (76) 
+  10,010 9,116 
+  
+
+=== PAGINA PDF 52 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+48 
+24. Ingresos Financieros 
+Este rubro comprende: 
+ 
+En miles de soles Nota 2021 2020 
+Intereses sobre depósitos bancarios y otros  452 1,770 
+Intereses por préstamos a entidades relacionadas 8(a) 159 825 
+  611 2,595 
+ 
+25. Gastos Financieros  
+Este rubro comprende: 
+ 
+En miles de soles  2021 2020 
+Intereses por obligaciones financieras  3,865 6,737 
+Otros   88 167 
+  3,953 6,904   
+ 
+26. Situación Tributaria 
+ 
+Tasas impositivas 
+ 
+A. La Compañía está sujeta al régimen tributario peruano. Al 31 de diciembre de 2021 y de 
+2020, la tasa del Impuesto a la Renta Corporativo es de 29.5% sobre la renta neta imponible 
+determinada por la Compañía. 
+ 
+Para los ejercicios 2021 y 2020, la tasa del Impuesto a la Renta para la distribución de 
+dividendos y cualquier otra forma de distribución de utilidades aplicable a las personas 
+jurídicas no domiciliadas en Perú y las personas naturales es de 5.0%. 
+ 
+Ahora bien, se presumirá, sin admitir prueba en contrario, que la distribución de dividendos o 
+de cualquier otra forma de distribución de utilidades que se efectúe corresponde a los 
+resultados acumulados u otros conceptos susceptibles de generar dividendos gravados, más 
+antiguos. 
+ 
+De acuerdo a la legislación tributaria vigente en Perú, los sujetos no domiciliados tributan sólo 
+por sus rentas de fuente peruana. Así, en términos generales, las rentas obtenidas por 
+sujetos no domiciliados por servicios prestados en nuestro país se encontrarán gravadas con 
+el Impuesto a la Renta con una tasa de 30% salvo que corresponda la aplicación de un 
+Convenio para Evitar la Doble Imposición (CDI) que haya suscrito el país y que se encuentre 
+vigente. Al respecto, actualmente Perú ha suscrito CDIs con la Comunidad Andina, Chile, 
+Canadá, Brasil, Portugal, Suiza, México, Corea del Sur y Japón. 
+ 
+Para efectos de los servicios de asistencia técnica o servicios digitales prestados por sujetos 
+no domiciliados en favor de sujetos domiciliados resultará indistinto el lugar de prestación de 
+los mismos y en todos los casos se encontrará gravado con el Impuesto a Renta con una tasa 
+de 15% y 30%, respectivamente. Como se indicó en el párrafo anterior, la tasa de retención 
+en los servicios antes señalados puede variar o incluso puede resultar inaplicable la retención 
+en caso se recurra a las disposiciones de un CDI vigente. 
+ 
+  
+
+=== PAGINA PDF 53 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+49 
+Determinación del impuesto a la renta 
+ 
+El gasto por el impuesto a las ganancias mostrado en el Estado de Resultados y Otros 
+Resultados Integrales al 31 de diciembre de 2021 y de 2020, se compone de la siguiente 
+manera. 
+ 
+En miles de soles Nota 2021 2020 
+Impuesto a las ganancias    
+Corriente (a)  12,928 8,928 
+Diferido  16 18,543 11,537 
+  31,471 20,465 
+ 
+La conciliación de la tasa efectiva del impuesto a la renta con la tasa tributaria es como sigue: 
+ 
+En miles de soles 2021 2020 
+Utilidad antes de impuesto  100,441 100.00% 60,320 100.00% 
+Impuesto a las ganancias teórico 29,630 29.50% 17,794 29.50% 
+Sanciones administrativas fiscales 20 0.02% 1,333 2.21% 
+Provisiones y gastos diversos (no deducibles) 
+imponibles 1,821 1.81% 1,338 2.22% 
+Gasto por impuesto a las ganancias 31,471 31.33% 20,465 33.93% 
+ 
+Impuesto temporal a los activos netos 
+ 
+B. La Compañía esta afecta al Impuesto Temporal a los Activos Netos, cuya base imponible está 
+constituida por el valor de los activos netos ajustados al cierre del ejercicio anterior al que 
+corresponda el pago, deducidas las depreciaciones, amortizaciones, el encaje exigible y las 
+provisiones específicas por riesgo crediticio. La tasa del Impuesto es del 0.4% para el 2021 y 
+2020 aplicable al monto de los activos netos que excedan de S/ 1 millón. El citado impuesto 
+podrá ser pagado al contado o en nueve cuotas mensuales sucesivas. El monto pagado 
+puede ser utilizado contra los pagos a cuenta del Régimen General del Impuesto a las Rentas 
+de los períodos tributarios de marzo a diciembre del ejercicio gravable por el cual se pagó el 
+impuesto hasta la fecha de vencimiento de cada uno de los pagos a cuenta y contra el pago 
+de regularización del impuesto a las ganancias del ejercicio gravable al que corresponda. En 
+caso de quedar un saldo remanente sin aplicar podrá ser solicitado en devolución. 
+ 
+Impuesto a las transacciones financiera 
+ 
+C. Por los ejercicios 2021 y 2020, la tasa del Impuesto a las Transacciones Financieras ha sido 
+fijada en 0.005% y resulta aplicable sobre los cargos y créditos en las cuentas bancarias o 
+movimientos de fondos a través del sistema financiero, salvo que la misma se encuentre 
+exonerada. 
+ 
+Precios de transferencia 
+ 
+D. Para propósito de la determinación del Impuesto a la Renta, los precios de transferencia de 
+las transacciones con empresas relacionadas y con empresas residentes en territorios de baja 
+o nula imposición, deben estar sustentados con documentación e información sobre los 
+métodos de valorización utilizados y los criterios considerados para su determinación. Hasta 
+el ejercicio gravable 2016 las obligaciones formales de Precios de Transferencia estaban 
+dadas por la obligación de presentar la declaración jurada informativa y contar con el estudio 
+técnico. 
+  
+
+=== PAGINA PDF 54 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+50 
+A partir del 1 de enero de 2017, mediante el Decreto Legislativo N° 1312, publicado el 31 de 
+diciembre de 2016, se establecieron las siguientes obligaciones formales en sustitución de 
+las anteriores: (i) presentar la declaración jurada Reporte Local (en tanto se tengan ingresos 
+devengados superiores a las 2,300 UIT), (ii) presentar la declaración jurada Reporte Maestro 
+(en tanto el contribuyente tenga ingresos devengados superiores a las 20,000 UIT) y  
+(iii) presentar la declaración jurada Reporte País por País (en tanto los ingresos devengados 
+consolidados de la matriz del grupo multinacional del año anterior (2017) haya superado  
+PEN 2,700,000,000 o EUR 750,000,000). Estas dos últimas declaraciones son exigibles por 
+las transacciones correspondientes al año 2018 en adelante. 
+ 
+Al respecto, en virtud de la Resolución de Superintendencia N° 014-2018-SUNAT, publicada el 
+18 de enero de 2018, se aprobó el Formulario Virtual N° 3560 a efectos de la declaración 
+jurada Reporte Local, así como las fechas límites para su presentación y el contenido y 
+formato que deben incluir. 
+ 
+La fecha límite para la presentación de la declaración jurada Reporte Local correspondiente al 
+ejercicio gravable 2021 será durante junio de 2022, de acuerdo con el cronograma de 
+vencimientos previsto para el período mayo publicado por la Autoridad Tributaria.  
+ 
+Por su parte, el contenido y formato de la declaración jurada Reporte Local se encuentra 
+establecido conforme los Anexos I, II, III y IV de la Resolución de Superintendencia  
+N° 014-2018-SUNAT. 
+ 
+Mediante el referido Decreto Legislativo N° 1312 se estableció además que los servicios 
+intra-grupo de bajo valor agregado no podrán tener un margen mayor al 5% de sus costos, y 
+que respecto a los servicios prestados entre empresas vinculadas los contribuyentes deberán 
+cumplir con el test de beneficio y con proporcionar la documentación e información solicitada 
+en las condiciones necesarias para la deducción del costo o gasto. 
+ 
+Mediante el Decreto Legislativo N° 1116 se estableció que las normas de Precios de 
+Transferencia no son de aplicación para fines del Impuesto General a las Ventas. 
+ 
+Revisión fiscal de la autoridad tributaria 
+ 
+E. La Autoridad Tributaria tiene la facultad de revisar y, de ser aplicable, corregir el impuesto a la 
+renta calculado por la Compañía en los cuatro años posteriores al año de la presentación de la 
+declaración de impuestos. 
+ 
+F. Las declaraciones juradas del Impuesto a la Renta e Impuesto General a las Ventas de los 
+años 2016 al 2021 de la Compañía están pendientes de fiscalización por parte de la Autoridad 
+Tributaria. Por su parte, las declaraciones juradas del Impuesto General a las Ventas de los 
+periodos de diciembre de 2021 de la Compañía están pendientes de fiscalización por parte de 
+la Autoridad Tributaria. 
+ 
+Debido a las posibles interpretaciones que las autoridades tributarias puedan dar a las normas 
+legales vigentes, no es posible determinar, a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier mayor impuesto o recargo que 
+pudiera resultar de eventuales revisiones fiscales sería aplicado a los resultados del período 
+en que éste se determine. Sin embargo, en opinión de la Gerencia de la Compañía y de sus 
+asesores legales, cualquier eventual liquidación adicional de impuestos no sería significativa 
+para los estados financieros al 31 de diciembre de 2021 y de 2020. 
+ 
+  
+
+=== PAGINA PDF 55 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+51 
+Régimen tributario del impuesto general a las ventas 
+ 
+G. La tasa vigente durante el año 2021 ha sido 18% (incluido IPM). 
+ 
+H. Modificaciones tributarias de mayor relevancia vigentes a partir del 2020 
+ 
+Reducción y suspensión de pagos a cuenta del Impuesto a la Renta 
+A través del Decreto Legislativo N°1471, se modificó la Ley del Impuesto a la Renta y se 
+dispuso reglas para la determinación de los pagos a cuenta del impuesto a la renta de tercera 
+categoría correspondiente a los meses de abril a julio del ejercicio gravable 2020, con la 
+opción de que los contribuyentes puedan reducirlos o suspenderlos, a fin de coadyuvar con la 
+reactivación de la economía y mitigar el impacto en la economía nacional, del aislamiento e 
+inmovilización social obligatoria a raíz de la pandemia generada por la COVID - 19. 
+ 
+Subcapitalización:  
+Hasta el 31 de diciembre de 2020, el gasto financiero generado por endeudamientos tanto 
+entre partes independientes como relacionadas está sujeto al límite de subcapitalización de 
+3:1 (Debt-Equity Ratio) calculado al cierre del ejercicio anterior. A partir del 1 de enero de 2021 
+los intereses netos (gasto por intereses que exceden los ingresos por intereses computables 
+para efectos fiscales) serán deducibles hasta el límite del 30% del EBITDA tributario (Renta 
+Neta – Compensación de Pérdidas + Intereses Netos + Depreciación + Amortización) del 
+ejercicio anterior.  
+  
+Los intereses netos que no puedan ser deducidos en el ejercicio fiscal, podrán ser deducidos 
+dentro de los cuatro ejercicios siguientes. 
+ 
+I. Modificaciones tributarias de mayor relevancia vigentes a partir del 2021 
+ 
+A. Depreciación de Activos 
+Mediante el Decreto Legislativo N° 1488 Régimen Especial de Depreciación y Modificación, 
+se incrementa los porcentajes de depreciación de los activos adquiridos durante los años 
+2020 y 2021, con el fin de promover la inversión privada y otorgar mayor liquidez dada la 
+actual coyuntura económica por efectos del COVID-19. 
+ 
+B. Subcapitalización 
+A partir del 1 de enero de 2021 los gastos financieros serán deducibles hasta el límite del 
+30% del EBITDA tributario (Renta Neta – Compensación de Pérdidas + Intereses Netos + 
+Depreciación + Amortización) del ejercicio anterior. Existen algunas excepciones a la 
+aplicación de esta limitación para el caso de bancos, contribuyentes con ingresos no 
+superiores a 2,500 UITs, infraestructura, servicios públicos, entre otros. 
+ 
+Mediante Decreto Supremo N° 402-2021publicado el 30 de diciembre, vigente a partir del  
+31 de diciembre 2021, se modificó el Reglamento de la Ley del Impuesto a la Renta que 
+regula el cálculo del EBITDA tributario a efectos del límite de interés de deudas. 
+ 
+Para los ejercicios 2019 y 2020 el gasto financiero generado por endeudamientos tanto entre 
+partes independientes como relacionadas está sujeto al límite de subcapitalización de  
+(3:1 Debt-Equity Ratio) calculado al cierre del ejercicio anterior. 
+ 
+  
+
+=== PAGINA PDF 56 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+52 
+C. Otros cambios relevantes  
+En el marco de la delegación de facultades para legislar en materia tributaria, fiscal, financiera 
+y de reactivación económica, dada al Poder Ejecutivo (Ley N° 31380), el 30 de diciembre de 
+2021 se publicaron las primeras normas tributarias, entre las que destacan los beneficios 
+tributarios aprobados para el sector Acuicultura y Forestal, la uniformización del costo por el 
+acceso a la estabilidad tributaria y la prórroga de las exoneraciones del IGV, entre las 
+principales tenemos: 
+ 
+Extienden la vigencia de algunas exoneraciones y beneficios tributarios, específicamente los 
+siguientes: 
+ 
+▪ Hasta el 31 de diciembre de 2022, se extienden las exoneraciones contenidas en los 
+Apéndices I y II de la Ley del IGV. En consecuencia, no estarán gravadas con IGV, entre 
+otros, la venta de alimentos de primera necesidad y servicios básicos como el 
+transporte público. 
+▪ Hasta el 31 de diciembre de 2024, la emisión de dinero electrónico no estará gravada 
+con IGV. 
+▪ Hasta el 31 de diciembre de 2024, se permite la devolución de impuestos que gravan 
+las adquisiciones con donaciones del exterior e importaciones de misiones 
+diplomáticas Enlace a la norma en comentario: Decreto Legislativo N° 1519. 
+ 
+Asimismo, mediante el Decreto Supremo N° 1516 publicado el 30 de diciembre de 2021 y 
+vigente a partir del 31 de diciembre de 2021 se ha dispuesto uniformizar el costo por el 
+acceso a la estabilidad prevista en los Convenios de Estabilidad Jurídica al amparo de los 
+Decretos Legislativos N° 662 y N° 757, por consiguiente dicho decreto ha modificado el 
+artículo 1° de la Ley N° 27342 que regula dichos convenios, por tanto las empresas 
+receptoras de inversión suscriban con el Estado, estabilizan el Impuesto a la Renta que 
+corresponde aplicar de acuerdo con las normas vigentes al momento de la suscripción del 
+convenio correspondiente, siendo aplicable la tasa vigente a que se refiere el primer párrafo 
+del artículo 55° de la Ley del Impuesto a la Renta en ese momento más 2 (dos) puntos 
+porcentuales. 
+ 
+27. Compromisos y Contingencias 
+ 
+Ver política contable en nota 4.H 
+ 
+(a) Al 31 de diciembre de 2021, la Compañía mantiene fianzas solidarias con bancos locales por 
+miles de US$ 8,638 principalmente por el cumplimiento de obligaciones económicas de 
+contratos pactados con terceros, con vencimientos en el año 2022 (al 31 de diciembre de 
+2020 mantiene fianzas solidarias con bancos locales por miles de US$ 4,907 y miles de  
+S/ 3,488). 
+ 
+(b) Mediante Resolución N° 216-2018-OS/CD del 28 de diciembre de 2018 y al amparo del 
+Decreto Supremo N° 022-2018-EM del 5 de setiembre de 2018, se aprobó el procedimiento 
+transitorio para la evaluación de adendas a los contratos resultantes de licitaciones, por el cual 
+se autoriza a las empresas distribuidoras y generadores a suscribir modificaciones a los 
+referidos contratos, siempre que se cumplan con las condiciones estipuladas en la única 
+disposición complementaria y transitoria de la norma referida, previa aprobación de 
+Organismo Supervisor de la Inversión en Energía y Minería (OSINERMING).  
+ 
+  
+
+=== PAGINA PDF 57 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+53 
+En la disposición complementaria transitoria única del citado Decreto Supremo  
+N° 022-2018-EM, se establece un procedimiento transitorio, para aprobación y firma de 
+adendas a los contratos, vigente desde el 6 de setiembre hasta el 31 de diciembre de 2018, 
+en el que se autoriza a las distribuidoras y generadoras a suscribir modificaciones al contrato 
+referidas al plazo de vigencia, potencia contratada y/o precios firmes que se encuentren 
+vigentes al 5 de setiembre de 2018.  
+ 
+Como resultado de los citados procesos de renegociación de los contratos de licitaciones de 
+largo plazo, el OSINERMING autorizó a la Compañía suscribir adendas por el suministro de 
+potencia contratada destinada al abastecimiento de su mercado regulado, a los contratos que 
+iniciaron entre el 1 de enero de 2014 y el 1 de enero de 2018, las mismas que incluyen la 
+opción de vender energía a diversas empresas de distribución al término del plazo indicado, a 
+la tarifa establecida en el contrato actual original. 
+ 
+Los acuerdos de opción corresponden al pago por el derecho que otorgan las compañías 
+distribuidoras a las empresas de generación para modificar el contrato de suministro de 
+electricidad suscrito por las partes en relación al abastecimiento del mercado entre los años 
+2024 y 2030. 
+ 
+(c)  La Compañía tiene diversas acciones judiciales en su contra, que han sido evaluadas por la 
+Gerencia y sus asesores legales como posibles, y están relacionadas con reclamos laborales y 
+otros procesos resultantes de las fiscalizaciones efectuadas por la Administración Tributaria, 
+por miles de S/ 5,739 al 31 de diciembre de 2021 (miles de S/ 6,287 al 31 de diciembre de 
+2020). En opinión de la Gerencia de la Compañía y de sus asesores legales, como 
+consecuencia de estas acciones judiciales no resultarán pasivos adicionales de importancia 
+para los estados financieros al 31 de diciembre de 2021. 
+ 
+28. Medio Ambiente  
+Las decisiones de la Compañía están orientadas hacia su compromiso con el cuidado ambiental por 
+lo que se identifica, evalúa y gestiona los potenciales impactos ambientales derivados de sus 
+operaciones y se esfuerza en minimizarlos.  
+ 
+El Sistema de Gestión Integrado (SGI) es la herramienta de la Compañía para alcanzar sus 
+compromisos orientados al desarrollo sostenible plasmados en su política de seguridad, salud, 
+medio ambiente y calidad. El SGI de la Compañía cuenta con certificaciones de calidad (ISO 9001), 
+medio ambiente (ISO 14001) y seguridad y salud ocupacional (OHSAS 18001).  
+ 
+La validación de la definición y aplicación del Sistema de Gestión Integrado y la creación de valor que 
+esto implica se realizan mediante auditorías al sistema. Las auditorías de recertificación para las 
+normas ISO 14001, ISO 9001 y OHSAS 18001 se realizaron en mayo de 2016 con cero no 
+conformidades mayores.  
+ 
+Al 31 de diciembre de 2021 y de 2020, la Gerencia de la Compañía estima que, en caso de surgir 
+alguna contingencia relacionada al manejo ambiental, esta no sería importante en relación con los 
+estados financieros tomados en su conjunto. 
+ 
+  
+
+=== PAGINA PDF 58 ===
+Enel Generación Piura S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+54 
+29. Hechos Ocurridos después del Período sobre el que se Informa 
+Desde el 1 de enero de 2022, hasta la fecha del presente informe, no ha ocurrido ningún hecho 
+significativo que afecte a los estados financieros. A excepción de lo siguiente:   
+ 
+Con fecha 15 de febrero de 2022, la Compañía ha tomado conocimiento de que mediante 
+Resolución N° 1 de fecha 25 de enero de 2022, expedida por el Juzgado Civil de Talara de la Corte 
+Superior de Justicia de Sullana, éste ha resuelto conceder medida cautelar innovativa solicitada por 
+Empresa de Gas de Talara S.A. (“GASTALSA”) ordenando que las codemandadas Dirección General 
+de Hidrocarburos del Ministerio de Energía y Minas, el Organismo Superior de la Inversión en 
+Energía y Minería – OSINERGMIN y el Ministerio de Energía y Minas, a través de sus funcionarios 
+competentes, cumplan con: 
+ 
+(a) Restituir la concesión de gas natural del distrito de Pariñas, provincia de Talara y 
+departamento de Piura a favor de GASTALSA; y, 
+(b) Proceder a la valorización y transferencia de los ductos existentes de gas natural para la 
+transferencia a su concesionario. 
+ 
+Lo anterior implica que el ducto de propiedad de la Compañía (que abastece de gas natural a la 
+central térmica Malacas) sea valorizado para su transferencia a GASTALSA. 
+ 
+Tanto la Compañía como sus asesores legales consideran que es remota la posibilidad que el 
+resultado de esta resolución del Juzgado Civil de Talara prospere e interpondrá oposición contra el 
+mandato cautelar.

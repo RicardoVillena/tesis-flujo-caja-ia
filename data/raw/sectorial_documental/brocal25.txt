@@ -1,0 +1,1646 @@
+
+=== PAGINA PDF 1 ===
+Sociedad Minera El Brocal S.A.A. 
+Estados financieros por los años 2025 y de 2024,  
+junto con el dictamen de los auditores independientes 
+ 
+
+=== PAGINA PDF 2 ===
+ 
+ 
+Sociedad Minera El Brocal S.A.A. 
+Estados financieros al 31 de diciembre de 2025 y de 2024 
+junto con el dictamen de los auditores independientes  
+Contenido 
+ 
+Dictamen de los auditores independientes 
+ 
+Estados financieros 
+ 
+Estado de situación financiera  
+Estado de resultados  
+Estado de cambios en el patrimonio  
+Estado de flujos de efectivo 
+Notas a los estados financieros 
+
+=== PAGINA PDF 3 ===
+Dictamen de los auditores independientes 
+Lima 
+Av. Víctor Andrés 
+Belaunde 171,  
+San Isidro  
+Lima II 
+Av. Jorge 
+Basadre 330,  
+San Isidro  
+ 
+Lima III 
+Av. Jorge 
+Basadre 350,  
+San Isidro  
+ 
+Arequipa 
+Edificio City Center ,  
+piso 13, Torre Sur , 
+Cerro Colorado 
+Trujillo 
+Av. El Golf 591, 
+Víctor Larco Herrera, Sede 
+Miguel Ángel Quijano Doig, 
+La Libertad  
+Chiclayo (satélite) 
+Av. Federico Villareal 115, 
+Lambayeque  
+Cusco (satélite) 
+Jr . Ricardo Palma #18, 
+Urb. Santa Mónica, 
+Wanchaq 
+Inscrita en la partida 11396556 del Registro de Personas Jurídicas de Lima y Callao 
+Miembro de Ernst & Young Global 
+Tanaka, Valdivia, Arribas & Asociados 
+Sociedad Civil de R. L 
+ 
+A los Accionistas de Sociedad Minera El Brocal S.A.A.  
+ 
+Opinión 
+ 
+Hemos auditado los estados financieros de Sociedad Minera El Brocal S.A.A. (la Compañía), que 
+comprenden el estado de situación financiera al 31 de diciembre de 2025, y los estados de 
+resultados, de cambios en el patrimonio neto y de flujos de efectivo por el año terminado en esa 
+fecha, así como las notas explicativas a los estados financieros que incluyen información sobre las 
+políticas contables materiales. 
+ 
+En nuestra opinión, los estados financieros adjuntos presentan razonablemente, en todos los 
+aspectos materiales, la situación financiera de la Compañía al 31 de diciembre de 2025, así como su 
+desempeño financiero y sus flujos de efectivo correspondientes por el año terminado en esa fecha, 
+de acuerdo con las normas contables NIIF. 
+ 
+Base de la opinión  
+ 
+Realizamos nuestra auditoría de conformidad con las Normas Internacionales de Auditoría (NIAs) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores 
+Públicos del Perú. Nuestras responsabilidades en virtud de esas normas se describen con más 
+detalle en la sección Responsabilidades del auditor en relación con la auditoría de los estados 
+financieros de nuestro informe. Somos independientes de la Compañía de acuerdo con el Código de 
+Ética para Profesionales de la Contabilidad del Consejo de Normas Internacionales de Ética para 
+Contadores (Código IESBA, por sus siglas en inglés), según corresponda a las auditorías de estados 
+financieros de entidades de interés público,  junto con los requisitos éticos que son relevantes para 
+nuestra auditoría de los estados financieros en Perú, y hemos cumplido con nuestras otras 
+responsabilidades éticas de acuerdo con estos requisitos y el Código IESBA. Consideramos que la 
+evidencia de auditoría que hemos obtenido proporciona una base suficient e y adecuada para 
+nuestra opinión. 
+ 
+Asunto clave de auditoría 
+ 
+El asunto clave de auditoría es aquel asunto que, a nuestro juicio profesional, fueron de mayor 
+importancia en la auditoría de los estados financieros del período actual. Estos asuntos se 
+abordaron en el contexto de la auditoría de los estados financieros en su conjunto, y en la formación 
+de nuestra opinión sobre los mismos; por lo que no proporcionamos una opinión separada sobre 
+estos asuntos. Más adelante, se detalla la manera en la que cada asunto clave fue abordado durante 
+nuestra auditoría. 
+  
+
+=== PAGINA PDF 4 ===
+Dictamen de los auditores independientes (continuación) 
+ 
+Hemos cumplido con las responsabilidades descritas en la sección Responsabilidades del auditor en 
+relación con la auditoría de los estados financieros de nuestro informe, incluso en relación con estos 
+asuntos.  En consecuencia, nuestra auditoría incluyó la realización de procedimientos diseñados 
+para responder a los riesgos de incorrección material evaluados en los estados financieros. Los 
+resultados de los procedimientos de auditoría, incluidos los procedimientos realizados para abordar 
+los asuntos que se mencionan a continuación, constituyen la base para la opinión de auditoría sobre 
+los estados financieros adjuntos. 
+ 
+ Deterioro de activos de larga duración de la unidad minera Colquijirca  
+Asunto clave de 
+auditoria 
+Al 31 de diciembre de 2025, el valor neto en libros de las propiedades, planta, equipo 
+y costos de desarrollo de la Compañía ascendía a US$472,439,000. Las revelaciones 
+relacionadas se incluyen en la Nota 2.3(k) y en la Nota 9 de los estados financieros. 
+La Compañía revisa y evalúa por deterioro sus propiedades, planta, equipo y costos 
+de desarrollo al menos una vez al año, o cuando eventos o cambios en las 
+circunstancias indiquen que los valores en libros relacionados pueden no ser 
+recuperables a nivel de Unidad Generadora de Efectivo (UGE). Cuando la Compañía 
+determina la existencia de indicadores significativos de deterioro, la Gerencia realiza 
+una evaluación para determinar si existe deterioro. Existe deterioro cuando el valor 
+en libros de un activo o UGE excede su monto recuperable, siendo el monto 
+recuperable el mayor entre el valor razonable menos los costos de venta y el valor en 
+uso. Por otro lado, una pérdida por deterioro previamente reconocida se revierte solo 
+si ha habido un cambio en los supuestos utilizados para determinar el monto 
+recuperable del activo o de la UGE desde que se reconoció la última pérdida por 
+deterioro. La Compañía ha estimado el valor en uso a nivel de su UGE para evaluar el 
+deterioro en sus propiedades, planta, equipo y costos de desarrollo. Durante el año 
+2025, producto de dicha evaluación, la Compañía no ha visto la necesidad de 
+registrar provisión por deterioro sobre el valor en libros de sus propiedades, planta, 
+equipo y costos de desarrollo. 
+ 
+Este asunto ha sido considerado como un asunto clave de auditoría debido a que la 
+auditoría efectuada sobre la evaluación de deterioro de las propiedades, planta, 
+equipo y costos de desarrollo de la Compañía fue compleja e implicó juicio debido a la 
+importancia de esta estimación en la determinación del valor en uso de la UGE. En 
+particular, las estimaciones del valor en uso fueron sensibles a supuestos 
+significativos como volúmenes de producción, vida útil de la mina, precio de mercado 
+de los metales, tasas de descuento que reflejaran las evaluaciones actuales del 
+mercado del valor del dinero en el tiempo y los riesgos específicos asociados a la UGE, 
+incluyendo cantidades estimadas de minerales recuperables y el valor residual.  
+ 
+
+=== PAGINA PDF 5 ===
+Dictamen de los auditores independientes (continuación) 
+ 
+ 
+  
+ Deterioro de activos de larga duración de la unidad minera Colquijirca  
+Cómo 
+abordamos el 
+asunto en 
+nuestra 
+auditoría 
+Obtuvimos un entendimiento de los controles ejecutados por la Gerencia del Grupo 
+sobre el proceso de evaluación de deterioro de propiedades, planta, equipo y costos 
+de desarrollo, incluido el proceso para identificar y evaluar los posibles indicadores de 
+deterioro y reverso; así como un entendimiento de la revisión efectuada por la 
+Compañía de los supuestos significativos, la información financiera proyectada y la 
+metodología utilizada para desarrollar dichas estimaciones. 
+ 
+Para probar el valor en uso estimado de la UGE de la Compañía, llevamos a cabo 
+procedimientos de auditoría que incluyeron, entre otros, evaluar la metodología de 
+estimación y probar los supuestos significativos discutidos anteriormente, así como 
+los datos subyacentes utilizados por la Compañía en su análisis. 
+ 
+Evaluamos la información financiera proyectada comparando los precios de las 
+materias primas con la información de mercado disponible y los planes comerciales 
+internos. También evaluamos los niveles de producción futuros utilizados en los 
+análisis de deterioro, que se basan en los planes de vida útil de la mina 
+comparándolos con las estimaciones históricas y los resultados. 
+ 
+Involucramos a nuestros especialistas en valuación para que nos asistieran a 
+comparar los supuestos de precios de las materias primas con los datos del mercado y 
+los pronósticos de los analistas. Además, nuestros especialistas en valuación 
+revisaron la tasa de descuento utilizada, comparándola con las tendencias actuales de 
+la industria y la economía. También realizamos un análisis de sensibilidad sobre los 
+cambios en la tasa de descuento y los supuestos de precios de las materias primas 
+para evaluar cualquier cambio en el valor recuperable de la UGE que pudiera resultar 
+de las variaciones en estos supuestos. 
+ 
+Con respecto al involucramiento de los consultores independientes, nosotros hemos 
+evaluado su competencia y objetividad, así como la competencia de las personas 
+calificadas de la Compañía. Además, evaluamos las cantidades estimadas de 
+minerales recuperables de la Compañía comparándolas con el desempeño operativo 
+histórico de la UGE. 
+ 
+Además, evaluamos la revelación de este asunto en la Nota 2.3(k) y en la Nota 9 de 
+los estados financieros. 
+
+=== PAGINA PDF 6 ===
+Dictamen de los auditores independientes (continuación) 
+ 
+Otra información incluida en el informe anual 2025 de la Compañía  
+ 
+Otra información consiste en la información incluida en la Memoria Anual, distinta de los estados 
+financieros y nuestro informe de auditoría sobre los mismos, del que se espera que dispondremos 
+después de la fecha de este informe de auditoría. La gerencia es responsable de la otra información. 
+ 
+Nuestra opinión sobre los estados financieros no cubre la otra información y no expresamos 
+ninguna forma de conclusión que proporcione un grado de seguridad sobre ésta.  
+ 
+En relación con nuestra auditoría de los estados financieros, nuestra responsabilidad es leer la otra 
+información y, al hacerlo, considerar si la otra información es materialmente inconsistente con los 
+estados financieros o nuestro conocimiento obtenido en la auditoría o si de otra manera parece 
+estar materialmente mal expresada.  
+ 
+Cuando leamos y consideremos la Memoria Anual, si concluimos que contiene una incorrección 
+material, estamos obligados a comunicar el asunto a los responsables del gobierno corporativo de la 
+Compañía.  
+Responsabilidades de la gerencia y los responsables del gobierno corporativo de la Compañía en 
+relación con los estados financieros 
+ 
+La gerencia es responsable de la preparación y presentación razonable de los estados financieros de 
+acuerdo con las normas contables NIIF, y del control interno que la gerencia determine que es 
+necesario para permitir la preparación de estados financieros que estén libres de errores 
+materiales, ya sea debido a fraude o error. 
+ 
+Al preparar los estados financieros, la gerencia es responsable de evaluar la capacidad de la 
+Compañía para continuar como una empresa en marcha, revelando, según corresponda, los asuntos 
+relacionados con la empresa en marcha y utilizando la base contable de la empresa en marcha, a 
+menos que la gerencia tenga la intención de liquidar la Compañía o cesar las operaciones, o bien no 
+exista otra alternativa realista. 
+ 
+Los responsables del gobierno corporativo de la Compañía son responsables de la supervisión del 
+proceso de información financiera de la Compañía. 
+ 
+  
+
+=== PAGINA PDF 7 ===
+Dictamen de los auditores independientes (continuación) 
+ 
+Responsabilidades del auditor en relación con la auditoría de los estados financieros  
+ 
+Nuestros objetivos son obtener seguridad razonable sobre si los estados financieros en su conjunto 
+están libres de incorrección material, ya sea debido a fraude o error, y emitir un informe que incluya 
+nuestra opinión. La seguridad razonable es un alto nivel de aseguramiento, pero no garantiza que 
+una auditoría realizada de conformidad con las NIAs aprobadas para su aplicación en el Perú 
+siempre detectará una incorrección importante cuando exista. Las incorrecciones pueden surgir 
+debido a fraude o error y se consideran materiales si, individualmente o acumuladas, podría esperar 
+que influyan razonablemente en las decisiones económicas que los usuarios toman basándose en los 
+estados financieros. 
+ 
+Como parte de una auditoría de acuerdo con las NIAs aprobadas para su aplicación en el Perú, 
+ejercemos un juicio profesional y mantenemos el escepticismo profesional durante toda la auditoría. 
+También: 
+ 
+- Identificamos y evaluamos los riesgos de incorrección material de los estados financieros, ya 
+sea debido a fraude o error, diseñamos y ejecutamos procedimientos de auditoría que 
+respondan a esos riesgos, y obtenemos evidencia de auditoría que sea suficien te y apropiada 
+para proporcionarnos una base para nuestra opinión. El riesgo de no detectar una 
+incorrección material debido a fraude es mayor que la resultante de un error, ya que el fraude 
+puede implicar colusión, falsificación, omisiones intencionales, declaraciones falsas o elusión 
+de control interno. 
+- Obtenemos un entendimiento del control interno relevante para la auditoría con el fin de 
+diseñar procedimientos de auditoría que sean apropiados en las circunstancias, pero no con el 
+propósito de expresar una opinión sobre la efectividad del control inter no de la Compañía. 
+- Evaluamos lo apropiado de las políticas contables utilizadas, la razonabilidad de las 
+estimaciones contables y las respectivas revelaciones realizadas por la gerencia.  
+- Concluimos sobre el uso apropiado por parte de la gerencia de la base contable de la empresa 
+en marcha y, sobre la base de la evidencia de auditoría obtenida, si existe una incertidumbre 
+material relacionada con eventos o condiciones que puedan generar dudas significativas 
+sobre la capacidad de la Compañía para continuar como una empresa en marcha. Si llegamos 
+a la conclusión de que existe una incertidumbre material, estamos obligados a llamar la 
+atención en nuestro informe de auditoría sobre las revelaciones relacionadas en los estados 
+financieros o, si dichas revelaciones son inadecuadas, a modificar nuestra opinión. Las 
+conclusiones se basan en la evidencia de auditoría obtenida hasta la fecha de nuestro informe 
+de auditoría. Sin embargo, los eventos o condiciones futuras pueden hacer que la Compañía 
+deje de continuar como una empresa en marcha. 
+- Evaluamos la presentación general, la estructura, el contenido de los estados financieros, 
+incluidas las revelaciones, y si los estados financieros representan las transacciones y 
+eventos subyacentes de manera que logre una presentación razonable.}  
+
+=== PAGINA PDF 8 ===
+Dictamen de los auditores independientes (continuación) 
+ 
+Comunicamos a los responsables del gobierno corporativo de la Compañía, entre otros asuntos, al 
+alcance planeado y el momento de realización de la auditoría, los hallazgos significativos de la 
+auditoría, incluyendo cualquier deficiencia significativa del control interno identificada en el 
+transcurso de nuestra auditoría. 
+ 
+También proporcionamos a los responsables del gobierno corporativo de la Compañía una 
+declaración de que hemos cumplido con los requerimientos éticos relevantes respecto a 
+independencia y les hemos comunicado acerca de todas las relaciones y otros asuntos que podrían 
+razonablemente afectar nuestra independencia y, según corresponda, incluyendo las respectivas 
+salvaguardas. 
+ 
+Entre los asuntos que han sido objeto de comunicación con los responsables del gobierno 
+corporativo de la Compañía, determinamos los que han sido de la mayor significatividad en la 
+auditoría de los estados financieros del periodo actual y, por lo tanto, so n los asuntos clave de 
+auditoría. Hemos descrito esos asuntos en nuestro informe de auditoría salvo que las disposiciones 
+legales o reglamentarias prohíban revelar públicamente el asunto o, en circunstancias 
+extremadamente poco frecuentes, determinemos que un asunto no se debería comunicar en 
+nuestro informe porque se esperaría razonablemente que las consecuencias adversas de hacerlo 
+superarían los beneficios de interés público del mismo. 
+ 
+ 
+Lima, Perú, 
+13 de febrero de 2026 
+ 
+ 
+Refrendado por: 
+ 
+ 
+ 
+ 
+______________________________  
+Percy Zarria 
+C.P.C.C. Matrícula No.C37450 
+ 
+ 
+
+=== PAGINA PDF 9 ===
+ 
+Las notas adjuntas son parte integrante de estos estados financieros. 
+Sociedad Minera El Brocal S.A.A. 
+Estado de situación financiera 
+Al 31 de diciembre de 2025 y de 2024  
+ Notas 2025 2024 
+  US$(000) US$(000) 
+    
+Activos    
+Activos corrientes    
+Efectivo y equivalentes al efectivo  6 y 2.3(c) 173,484 109,854 
+Cuentas por cobrar comerciales y otras cuentas 
+por cobrar 7 y 2.3(b) 134,431 70,184 
+Inventarios 8 y 2.3(d) 19,574 24,860 
+Pagos anticipados 2.3(f) 6,729 8,945   __________ __________ 
+  334,218 213,843   __________ __________ 
+Activos no corrientes    
+Cuentas por cobrar comerciales y otras cuentas 
+por cobrar 7 y 2.3(b) 9,802 8,891 
+Inversión en negocio conjunto 2.3(e) 2,209 1,852 
+Propiedad, planta, equipo y costos de 
+desarrollo 
+9 y 2.3 (g)(h)(i) 
+(j)(k) 472,439 456,372 
+Otros activos no financieros  170 218   __________ __________ 
+  484,620 467,333   __________ __________     
+Total activos  818,838 681,176   __________ __________ 
+Pasivos y patrimonio     
+Pasivos corrientes    
+Cuentas por pagar comerciales y otras cuentas por 
+pagar 10 y 2.3(b) 119,882 102,543 
+Pasivo por impuesto a las ganancias corrientes 12(e) y 2.3(o) 19,927 1,556 
+Provisiones 11 y 2.3(l) 13,796 12,566 
+Pasivos por arrendamiento 2.3(b)(h) 898 493   __________ __________ 
+  154,503 117,158   __________ __________ 
+Pasivos no corrientes    
+Cuentas por pagar comerciales y otras cuentas por 
+pagar 10 y 2.3(b) 249 211 
+Provisiones  11 y 2.3(l) 139,921 136,744 
+Pasivos por arrendamiento 2.3(b)(h) 758 397 
+Pasivo por impuesto a las ganancias diferido, neto 12(a) y 2.3(o) 10,779 10,654   __________ __________ 
+  151,707 148,006   __________ __________ 
+Total pasivos  306,210 265,164   __________ __________ 
+Patrimonio  13 y 2.3(t)(u)(v)   
+Capital social  329,586 329,586 
+Capital adicional  22,912 22,912 
+Acciones de inversión  13,459 13,459 
+Acciones de inversión adicional  254 254 
+Otras reservas de capital  28,974 16,502 
+Resultados acumulados  117,443 33,299   __________ __________ 
+Total patrimonio   512,628 416,012   __________ __________     
+Total pasivo y patrimonio   818,838 681,176   __________ __________ 
+
+=== PAGINA PDF 10 ===
+ 
+Las notas adjuntas son parte integrante de estos estados financieros. 
+Sociedad Minera El Brocal S.A.A. 
+Estado de resultados  
+Por los años terminados el 31 de diciembre de 2025 y de 2024 
+ Notas 2025 2024 
+  US$(000) US$(000) 
+    
+Ingresos de operación    
+Ventas de bienes 15(b) y 2.3(m)(b) 532,908 437,897   __________ __________ 
+    
+Costo de ventas    
+Costo de ventas, sin considerar depreciación y 
+amortización  16 y 2.3(d)(s) (264,840) (244,340) 
+Depreciación y amortización 9(h) y 2.3(g) (47,372) (62,085) 
+Costos no absorbidos durante la paralización 
+de la producción 1(b) y 2.3(s) (2,968) (2,135) 
+Exploración en áreas operativas 17 y 2.3(i) (11,160) (10,261) 
+Regalías mineras 2.3(o) (1,201) (2,179)   ___________ ___________ 
+Total costo de ventas  (327,541) (321,000)   ___________ ___________ 
+Ganancia bruta  205,367 116,897   ___________ ___________ 
+    
+Gastos operativos, neto    
+Gastos de ventas 18 y 2.3(s) (9,494) (12,503) 
+Gastos de administración 19 y 2.3(s) (9,944) (8,457) 
+Exploración en áreas no operativas 20 y 2.3(i) (11,958) (9,391) 
+Recupero (provisión) por contingencias 11(a) y 2.3(l) 940 (1,656) 
+Provisión por pasivos ambientales 11(b) (c) y 2.3(l) (465) (1,904) 
+Otros, neto  21 y 2.3(m)(s) (7,137) (9,511)   ___________ ___________ 
+Total gastos operativos  (38,058) (43,422)   ___________ ___________ 
+Ganancia de operación  167,309 73,475   ___________ ___________ 
+    
+Costos financieros 22 y 2.3(m)(n)(b) (4,660) (6,715) 
+Participación en negocio conjunto  2.3(e) 255 127 
+Ingresos financieros 22 y 2.3(m) 4,605 4,714 
+Diferencia de cambio neta 5 y 2.3(m)(n)(b) (532) (133)   ___________ ___________ 
+Ganancia antes de impuestos  166,977 71,468     
+Impuesto a las ganancias corriente 12(b) y 2.3(o) (42,140) (20,342) 
+Impuesto a las ganancias diferido 12(b) y 2.3(o) (125) (15,793)   ___________ ___________ 
+  (42,265) (36,135)   ___________ ___________ 
+Ganancia neta   124,712 35,333   ___________ ___________ 
+Ganancia neta por acción básica y diluida, 
+expresada en U.S. dólares 23 y 2.3(w) 0.77 0.22   ___________ ___________ 
+ 
+ 
+
+=== PAGINA PDF 11 ===
+ 
+Las notas adjuntas son parte integrante de estos estados financieros. 
+Sociedad Minera El Brocal S.A.A. 
+Estado de cambios en el patrimonio 
+Por los años terminados el 31 de diciembre de 2025 y de 2024 
+ 
+Capital  
+social 
+Capital 
+adicional 
+Acciones de 
+inversión 
+Acciones de 
+inversión 
+adicional 
+Otras reservas 
+de capital 
+Resultados 
+acumulados 
+Total 
+patrimonio  
+ US$(000) US$(000) US$(000) US$(000) US$(000) US$(000) US$(000)         
+Saldos al 1 de enero de 2024 329,586 22,912 13,459 254 12,891 19,389 398,491 
+Ganancia neta -  -  -  -  -  35,333 35,333  ________ ________ ________ ________ ________ ________ ________ 
+Resultados integrales del año -  -  -  -  -  35,333 35,333  ________ ________ ________ ________ ________ ________ ________         
+Aplicación a reserva legal, nota 13(c) -  -  -  -  3,533 (3,533) -  
+Caducidad en cobro de dividendos, nota 13(c) - - - - 78 -  78 
+Dividendos declarados y pagados, nota 13(d) - - - - - (17,890) (17,890)  ________ ________ ________ ________ ________ ________ ________         
+Saldos al 31 de diciembre de 2024 329,586 22,912 13,459 254 16,502 33,299 416,012  ________ ________ ________ ________ ________ ________ ________ 
+Ganancia neta - - - - - 124,712 124,712  ________ ________ ________ ________ ________ ________ ________ 
+Resultados integrales del año - - - - - 124,712 124,712  ________ ________ ________ ________ ________ ________ ________         
+Aplicación a reserva legal, nota 13(c) - - - - 12,472 (12,472) - 
+Dividendos declarados y pagados, nota 13(d) - - - - - (28,096) (28,096)  ________ ________ ________ ________ ________ ________ ________         
+Saldos al 31 de diciembre de 2025 329,586 22,912 13,459 254 28,974 117,443 512,628  ________ ________ ________ ________ ________ ________ ________         
+ 
+
+=== PAGINA PDF 12 ===
+ 
+Las notas adjuntas son parte integrante de estos estados financieros. 
+Sociedad Minera El Brocal S.A.A. 
+Estado de flujos de efectivo  
+Por los años terminados el 31 de diciembre de 2025 y de 2024 
+ Notas 2025 2024 
+  US$(000) US$(000) 
+    
+Flujos de efectivo de actividades de operación    
+Cobranza a clientes  472,600 456,044 
+Devolución de Impuesto General a las Ventas  - 344 
+Cobranza intereses de depósitos a plazo  4,337 3,778 
+Pago a proveedores y terceros y otros, neto  (249,241) (253,470) 
+Pagos a trabajadores  (38,865) (36,244) 
+Pago de impuesto a las ganancias e impuestos mineros  (43,249) (31,959) 
+Recuperos (pagos) por embargos y desembolsos por 
+procesos tributarios  
+ 
+(391) 536 
+Pagos de intereses por obligaciones financieras  - (4,004)   __________ __________ 
+Flujos de efectivo y equivalentes al efectivo provenientes 
+de las actividades de operación  145,191 135,025   __________ __________ 
+Flujos de efectivo de actividades de inversión    
+Cobro por venta de propiedad, planta y equipo  224 6 
+Pagos por adquisiciones de propiedad, planta y equipo y 
+costos de desarrollo 9(a) (52,706) (24,917)   __________ __________ 
+Flujos de efectivo y equivalentes al efectivo utilizados en 
+las actividades de inversión  (52,482) (24,911)   __________ __________ 
+Flujos de efectivo de actividades de financiamiento    
+Pagos de obligaciones financieras  - (72,852) 
+Pago de dividendos 13(d) (28,096) (17,890) 
+Pagos de arrendamientos  (983) (1,344)   __________ __________ 
+Flujos de efectivo y equivalentes al efectivo utilizados en 
+las actividades de financiamiento  (29,079) (92,086)   __________ __________ 
+Aumento de efectivo y equivalentes al efectivo en el año, neto  63,630 18,028 
+Efectivo y equivalentes de efectivo al inicio del año  109,854 91,826   __________ __________     
+Efectivo y equivalentes al efectivo al final del año 6 173,484 109,854   __________ __________ 
+    
+Actividades de financiamiento y de inversión que no 
+afectan los flujos de efectivo: 
+ 
+  
+Cambios en los estimados de cierre de mina 11(b) 5,019 57,205 
+Adición de activos por derechos de uso 9(a) 1,643 1,096 
+Compra de activos al crédito 9(a) y 10(b) 7,411 - 
+
+=== PAGINA PDF 13 ===
+ 
+ 
+Sociedad Minera El Brocal S.A.A. 
+Notas a los estados financieros 
+Al 31 de diciembre de 2025 y de 2024 
+1. Identificación y actividad económica  
+(a) Identificación - 
+Sociedad Minera El Brocal S.A.A. (en adelante, “la Compañía” o “El Brocal”) es una sociedad 
+anónima abierta constituida en el Perú en 1956. El Grupo Buenaventura posee en forma directa e 
+indirecta el 61.43 por ciento de acciones de la Compañía. El domicilio legal de la Compañía es 
+Calle Las Begonias 415, San Isidro, Lima, Perú. 
+ 
+(b) Actividad económica - 
+La Compañía se dedica a la extracción, concentración y comercialización de minerales 
+polimetálicos, principalmente zinc, plata, plomo y cobre, realizando sus operaciones en la unidad 
+minera de Colquijirca (conformada por la mina Colquijirca y la planta concentradora de 
+Huaraucaca) ubicada en el distrito de Tinyahuarco, provincia de Cerro de Pasco, departamento de 
+Pasco, Perú. 
+ 
+Suspensión temporal parcial de actividades de explotación del Tajo Norte de la unidad minera 
+Colquijirca - 
+Con fecha 3 de octubre de 2023, El Brocal presentó ante el Ministerio de Energía y Minas una 
+comunicación de suspensión de actividades de explotación del Tajo Norte de la unidad minera 
+Colquijirca, por un periodo de tres años. Dicho evento obedece a la demora ocurrida en la 
+tramitación y aprobación de la Modificación del Estudio de Impacto Ambiental a 25,000 TMD, 
+motivada por eventos como la declaración de la caracterización de pandemia por la OMS y la 
+posterior Declaración de Emergencia promulgada por el Estado en el año 2020, así como cambios 
+normativos existentes en el año 2022, referidos a la tramitación de estudios ambientales. 
+ 
+Sin perjuicio de ello, las operaciones de explotación en la mina subterránea Marcapunta continúan 
+desarrollándose de manera regular, mientras que en el Tajo Norte se realizarán únicamente 
+actividades de exploración, traslado de mineral acumulado en el Tajo Norte hacia la planta 
+concentradora, manejo de aguas y actividades de cuidado y mantenimiento. Por el año 2025 y 2024, 
+los gastos incurridos relacionados con estas actividades se encuentran registrados en el rubro 
+“Costos no absorbidos durante la paralización de la producción” por un importe de US$ 2.97 millones 
+y US$2.13 millones; respectivamente. Por otro lado, los gastos relacionados a las actividades de 
+exploración del Tajo Norte se encuentran incluidos en el rubro “Exploración en áreas no operativas”, 
+desde la suspensión de actividades del tajo Norte. En el año 2025, los gastos de exploración en 
+áreas no operativas atribuibles a Marcapunta y el Tajo norte fueron de US$11.96 millones (US$9.39 
+millones en el 2024). 
+ 
+  
+
+=== PAGINA PDF 14 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+2 
+Finalmente, es necesario resaltar que la Compañía viene implementando planes que han 
+incrementado el ritmo de producción de cobre en la mina subterránea, el mismo que ha permitido 
+alcanzar resultados financieros superiores a los obtenidos en periodos anteriores impulsados por las 
+eficiencias en costos y el incremento del precio de los metales. Al respecto, la Compañía viene 
+evaluando la estrategia de crecimiento de sus operaciones, priorizando las actividades de la 
+operación subterránea para generar eficiencias que le permitan maximizar su competitividad de corto 
+y mediano plazo. Esta evaluación considera planes de producción para los próximos años enfocados 
+en la mina subterránea. Al respecto, cabe mencionar que la Compañía continúa monitoreando los 
+planes de reanudación de actividades de explotación del Tajo Norte, cuya definición se comunicara 
+oportunamente dentro del plazo de suspensión inicialmente informado. 
+ 
+(c) Aprobación de los estados financieros - 
+Los estados financieros al 31 de diciembre de 2025 fueron aprobados en sesión de Directorio del 
+13 de febrero de 2026 y los eventos subsecuentes han sido considerados hasta dicha fecha. Los 
+estados financieros serán presentados para su aprobación por la Junta General de Accionistas. 
+Los accionistas tienen la autoridad de aprobar y/o modificar los estados financieros. 
+ 
+2. Bases de preparación y cambios en las políticas contables 
+2.1. Bases de preparación - 
+Los estados financieros de la Compañía han sido preparados y presentados de conformidad con 
+las normas contables NIIF, emitidas por el Consejo de Normas Internacionales de Contabilidad o 
+International Accounting Standards Board (IASB) en inglés. Asimismo, la preparación y 
+presentación de los estados financieros obedece al cumplimiento de las disposiciones normativas 
+de la Superintendencia del Mercado de Valores (SMV). 
+  
+Los estados financieros han sido preparados sobre la base del modelo de costo histórico a partir 
+de los registros de la Compañía, a excepción de los instrumentos financieros derivados y las 
+cuentas por cobrar comerciales que incluye el derivado implícito, los cuales se registran a su valor 
+razonable. 
+ 
+Los estados financieros están expresados en U.S. dólares y todos los importes han sido 
+redondeados a miles, excepto cuando se indique lo contrario. 
+ 
+La Compañía ha preparado sus estados financieros en base al principio de empresa en marcha. 
+ 
+La preparación de los estados financieros requiere que la Gerencia de la Compañía utilice juicios, 
+estimados y supuestos contables significativos, los mismos que son detallados en la nota 3. 
+ 
+Los presentes estados financieros brindan información comparativa respecto de períodos 
+anteriores. 
+ 
+2.2.  Cambios en las políticas contables y en la información a revelar -  
+Normas e interpretaciones nuevas y modificadas 
+La Compañía aplicó por primera vez algunas normas e interpretaciones que entran en vigencia 
+para los ejercicios que inicien a partir del 1 de enero de 2025 (salvo que se indique lo contrario).  
+
+=== PAGINA PDF 15 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+3 
+La Compañía no ha adoptado de manera anticipada ninguna otra norma, interpretación o 
+modificación que se haya publicado pero que no está todavía vigente. 
+ 
+Falta de intercambiabilidad – Modificaciones a la NIC 21 
+Para los períodos anuales que inician a partir del 1 de enero de 2025, las modificaciones a la NIC 
+21, Falta de intercambiabilidad – Efectos de las variaciones en los tipos de cambio de la moneda 
+extranjera, establecen la forma en que las entidades deben evaluar si una moneda es 
+intercambiable por otra y cómo debe determinar el tipo de cambio que se aplicará cuando no la 
+moneda no es intercambiable. 
+ 
+Asimismo, las modificaciones requieren que las entidades revelen información que permita a los 
+usuarios de sus estados financieros evaluar cómo afecta la falta de intercambiabilidad de una 
+moneda o cómo se espera que afecte a su rendimiento financiero, su posición financiera y sus 
+flujos de efectivo. 
+ 
+Las modificaciones no tuvieron un impacto material en los estados financieros de la Compañía. 
+ 
+2.3. Resumen de políticas contables materiales- 
+(a) Transacciones en moneda extranjera (Nota 5) - 
+Los estados financieros se presentan en U.S. dólares, la cual es la moneda funcional de la 
+Compañía. 
+ 
+Transacciones y saldos  
+Las transacciones en moneda extranjera son inicialmente registradas por la Compañía a los 
+tipos de cambio vigentes en las fechas de las transacciones, publicados por la 
+Superintendencia de Banca y Seguros y Administradoras Privadas de Fondos de Pensiones 
+(AFP).  
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son trasladados a la 
+moneda funcional usando el tipo de cambio vigente en la fecha de reporte.  
+ 
+Las diferencias resultantes de la liquidación o traslación de los activos y pasivos monetarios 
+son reconocidas en resultados con excepción de los activos monetarios que son 
+designados como parte de la cobertura. Estos son reconocidos en el otro resultado integral 
+(ORI) hasta que los ítems cubiertos sean liquidados, o a la fecha en la que el importe 
+acumulado sea reclasificado a resultados. Los ingresos y gastos fiscales atribuibles a las 
+diferencias de cambio de estos ítems monetarios también son reconocidos en el ORI. 
+ 
+Los activos y pasivos no monetarios, registrados en términos de costos históricos, son 
+trasladados usando los tipos de cambio vigentes en las fechas originales de las 
+transacciones. 
+  
+
+=== PAGINA PDF 16 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+4 
+(b) Instrumentos financieros –  
+Reconocimiento inicial y medición posterior - 
+Un instrumento financiero es cualquier acuerdo que da origen a un activo financiero de una 
+entidad y a un pasivo financiero o instrumento patrimonial de otra entidad. 
+ 
+(i) Activos financieros -  
+Reconocimiento y medición inicial - 
+Los activos financieros se clasifican, en el reconocimiento inicial, como medidos 
+subsecuentemente al costo amortizado, al valor razonable a través de otros 
+resultados integrales, y valor razonable a través de resultados. 
+ 
+La clasificación de los activos financieros en el momento del reconocimiento inicial 
+depende de las características contractuales del flujo de efectivo de los activos 
+financieros y del modelo de negocios de la Compañía para su gestión. Con la 
+excepción de las cuentas por cobrar comerciales que no contienen un componente 
+de financiamiento significativo, la Compañía mide inicialmente un activo financiero a 
+su valor razonable más sus costos de transacción, en el caso de un activo financiero 
+que no se encuentra a su valor razonable a través de resultados. 
+ 
+Las cuentas por cobrar comerciales que no contienen un componente financiero 
+significativo se miden al precio de la transacción, como se revela en la sección (m) 
+Reconocimiento de ingresos – Componentes financieros significativos. 
+ 
+Para que un activo financiero pueda clasificarse y medirse al costo amortizado o a 
+valor razonable con cambios en otros resultados integrales, dicho activo debe dar 
+lugar a flujos de efectivo que sean exclusivamente pagos de capital e intereses 
+(SPPI, por sus siglas en inglés) respecto del monto de capital pendiente. Dicha 
+evaluación se conoce como la prueba de instrumento financiero para cobrar principal 
+e interés y se realiza a nivel de instrumento. Los activos financieros con flujos de 
+efectivo que no son solamente pagos de capital e intereses se clasifican y se valúan 
+a su valor razonable con cambios en resultados, sin importar el modelo de negocios. 
+ 
+El modelo de negocios de la Compañía para la gestión de activos financieros se 
+refiere a cómo administra sus activos financieros para generar flujos de efectivo. El 
+modelo de negocio determina si los flujos de efectivo resultarán de la recopilación de 
+flujos de efectivo contractuales, la venta de activos financieros o ambos. 
+ 
+Los activos financieros que se clasifican y valúan a su costo amortizado se 
+mantienen en un modelo de negocio cuyo objetivo es mantener los activos 
+financieros para obtener flujos de efectivo contractuales, mientras que los activos 
+financieros que se clasifican y valúan a su valor razonable con cambios en ORI se 
+mantienen en un modelo de negocio cuyo objetivo es obtener flujos de efectivo 
+contractuales y la venta de los activos financieros. 
+ 
+
+=== PAGINA PDF 17 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+5 
+Las compras o ventas de activos financieros que requieren la entrega de activos 
+dentro de un marco de tiempo establecido por regulación o convención en el 
+mercado (transacciones de manera regular) se reconocen en la fecha de 
+negociación. 
+ 
+Medición posterior - 
+Para efecto de la medición posterior, los activos financieros son clasificados en las 
+siguientes categorías: 
+ 
+- Activos financieros al costo amortizado. 
+- Activos financieros al valor razonable con cambios en otros resultados 
+integrales. 
+- Activos financieros al valor razonable con cambios en resultados. 
+ 
+Activos financieros al costo amortizado - 
+La Compañía mide los activos financieros al costo amortizado si se cumplen las dos 
+condiciones siguientes: 
+ 
+- El activo financiero se mantiene dentro de un modelo de negocio con el 
+objetivo de mantener activos financieros para cobrar flujos de efectivo 
+contractuales, y 
+- Los términos contractuales del activo financiero dan lugar en fechas 
+específicas a los flujos de efectivo que son únicamente pagos del principal e 
+intereses sobre el monto del principal pendiente. 
+ 
+Los activos financieros al costo amortizado son subsecuentemente medidos usando 
+el método de interés efectivo y son sujetas a la evaluación de deterioro. Las 
+ganancias y pérdidas son reconocidas en resultados cuando el activo es dado de 
+baja, modificado o deteriorado.  
+ 
+Esta categoría generalmente aplica al rubro “Cuentas por cobrar comerciales y otras 
+cuentas por cobrar” (Nota 7). 
+ 
+Activos financieros al valor razonable con cambios en otros resultados integrales – 
+Los activos financieros son clasificados y medidos al valor razonable con cambios en 
+otros resultados integrales si ellos son mantenidos en un modelo de negocio cuyo 
+objetivo es alcanzado por colectando los flujos contractuales y vendiendo los activos 
+financieros. 
+ 
+Activos financieros al valor razonable con cambios en resultados - 
+Los activos financieros medidos al valor razonable con cambios en resultados se 
+reconocen en el estado de situación financiera al valor razonable, y los con cambios 
+netos en el valor razonable se reconocen en el estado de resultados. 
+ 
+
+=== PAGINA PDF 18 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+6 
+Los derivados implícitos dentro de un contrato híbrido que contiene un activo 
+financiero como anfitrión no son contabilizados por separado. El activo financiero 
+anfitrión (cuenta por cobrar comercial) junto con el derivado implícito se registran 
+como un activo financiero a valor razonable con cambios en resultados. 
+ 
+Esta categoría generalmente aplica al rubro “Cuentas por cobrar comerciales y otras 
+cuentas por cobrar” (Nota 7). 
+ 
+Baja de activos financieros - 
+Un activo financiero (o, cuando sea aplicable, una parte de un activo financiero o una 
+parte de un grupo de activos financieros similares) es dado de baja cuando: 
+ 
+- Los derechos de recibir flujos de efectivo de dicho activo han terminado, o 
+- La Compañía ha transferido sus derechos a recibir flujos de efectivo del 
+activo o ha asumido una obligación de pagar a una tercera parte la totalidad 
+de los flujos de efectivo recibidos en virtud de un acuerdo de transferencia; y: 
+(a) la Compañía ha transferido sustancialmente la totalidad de sus riesgos y 
+beneficios del activo o, (b) la Compañía no ha transferido ni retenido 
+sustancialmente la totalidad de los riesgos y beneficios del activo, pero ha 
+transferido el control del activo. 
+ 
+Cuando la Compañía transfiere sus derechos a recibir flujos de efectivo de un activo 
+o suscribe un acuerdo de transferencia, evalúa si y en qué medida ha retenido los 
+riesgos y beneficios de la propiedad. Cuando no ha transferido ni retenido 
+sustancialmente todos los riesgos y beneficios del activo, ni ha transferido el control 
+del activo, el activo es reconocido en la medida que la Compañía continúe 
+involucrado con el activo. En este caso, la Compañía también reconoce el pasivo 
+asociado. El activo transferido y el pasivo asociado se miden sobre una base que 
+refleje derechos y obligaciones que la Compañía ha retenido. 
+ 
+Deterioro de activos financieros - 
+La Compañía reconoce una provisión para pérdidas crediticias esperadas para todos 
+los instrumentos de deuda que no se mantienen a valor razonable con cambios en 
+resultados. Las provisiones para pérdidas crediticias esperadas se basan en la 
+diferencia entre los flujos de efectivo contractuales debidos de acuerdo con el 
+contrato y todos los flujos de efectivo que la Compañía espera recibir, descontados a 
+una aproximación de la tasa de interés efectiva original. Los flujos de efectivo 
+esperados incluirán flujos de efectivo por la venta de garantías mantenidas u otras 
+mejoras crediticias que son integrales a los términos contractuales. 
+ 
+  
+
+=== PAGINA PDF 19 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+7 
+Las provisiones para pérdidas crediticias esperadas se reconocen en dos etapas. 
+Para las exposiciones crediticias para las cuales no ha habido un aumento 
+significativo en el riesgo crediticio desde el reconocimiento inicial, las provisiones se 
+reconocen por pérdidas que resultan de eventos de incumplimiento que son posibles 
+dentro de los próximos 12 meses (una provisión de 12 meses). Para aquellas 
+exposiciones crediticias para las cuales ha habido un aumento significativo en el 
+riesgo crediticio desde el reconocimiento inicial, se requiere una provisión para 
+pérdidas crediticias esperadas durante la vida restante de la exposición, 
+independientemente del momento del incumplimiento (una provisión de por vida). 
+ 
+Para las cuentas por cobrar comerciales y los activos contractuales, la Compañía 
+aplica un enfoque simplificado en el cálculo de las provisiones. Por lo tanto, la 
+Compañía no hace un seguimiento de los cambios en el riesgo de crédito, sino que 
+reconoce una provisión para pérdidas basada en las provisiones de por vida en cada 
+fecha de reporte. La Compañía ha establecido una matriz de provisiones que se 
+basa en su experiencia histórica de pérdidas crediticias, ajustada por factores 
+prospectivos específicos para los deudores y el entorno económico. 
+ 
+La Compañía considera un activo financiero en incumplimiento cuando los pagos 
+contractuales están vencidos de acuerdo con cada contrato. Sin embargo, en ciertos 
+casos, la Compañía también puede considerar que un activo financiero está en 
+incumplimiento cuando la información interna o externa indica que es poco probable 
+que la Compañía reciba los montos contractuales pendientes en su totalidad antes 
+de tener en cuenta las mejoras crediticias mantenidas por la Compañía. Un activo 
+financiero se da de baja cuando no hay una expectativa razonable de recuperar los 
+flujos de efectivo contractuales. 
+ 
+(ii) Pasivos financieros - 
+Reconocimiento y medición inicial - 
+Los pasivos financieros son clasificados, en el momento de reconocimiento inicial, 
+como pasivos financieros al valor razonable con cambios en resultados, cuentas por 
+pagar comerciales y otras cuentas por pagar, obligaciones financieras o como 
+derivados designados como instrumentos de cobertura, según sea pertinente. 
+ 
+Todos los pasivos financieros se reconocen inicialmente al valor razonable y, en el 
+caso de cuentas por pagar y obligaciones financieras, neto de los costos 
+directamente atribuibles a la transacción. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales y 
+otras cuentas por pagar (Nota 10) y pasivos por arrendamiento. 
+ 
+Medición posterior - 
+La medición posterior de pasivos financieros depende de su clasificación, tal como 
+se detalla a continuación: 
+ 
+
+=== PAGINA PDF 20 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+8 
+Pasivos financieros al valor razonable con cambios en resultados - 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen 
+pasivos financieros mantenidos como negociables y pasivos financieros designados 
+en el momento de su reconocimiento inicial al valor razonable con cambios en 
+resultados. 
+ 
+Los pasivos financieros son clasificados como mantenidos para negociar si son 
+adquiridos con el propósito de venderlos en el corto plazo. Esta categoría también 
+incluye instrumentos financieros derivados suscritos por la Compañía y que no han 
+sido designados como instrumentos de cobertura tal como lo define la NIIF 9. Los 
+derivados implícitos separados también se clasifican como mantenidos para 
+negociar a menos que sean designadas como instrumentos de cobertura. 
+Las ganancias o pérdidas sobre pasivos mantenidos como negociables son 
+reconocidas en el estado de resultados. 
+ 
+Los pasivos financieros designados en su reconocimiento inicial al valor razonable 
+con cambios en resultados son designados en el momento inicial, si y solo si los 
+criterios de la NIIF 9 se cumplen. La Compañía ha designado al valor razonable con 
+cambios en resultados al pasivo por contraprestación contingente. 
+ 
+Pasivos financieros al costo amortizado (deudas y préstamos) -  
+Después de su reconocimiento inicial, las deudas y préstamos que devengan interés 
+se miden posteriormente a su costo amortizado usando el método de la tasa de 
+interés efectiva. Las ganancias y pérdidas se reconocen en el estado de resultados 
+cuando los pasivos son dados de baja, así como a través del proceso de 
+amortización a través de la tasa de interés efectiva.  
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima al 
+momento de la adquisición y los honorarios o costos que sean parte integrante de la 
+tasa de interés efectiva. La amortización según el método de la tasa de interés 
+efectiva se presenta en el rubro de “Costos financieros” en el estado de resultados 
+(Nota 22). Esta categoría generalmente aplica a las deudas y préstamos que 
+generan intereses.  
+ 
+Baja de pasivos financieros - 
+Un pasivo financiero es dado de baja cuando la obligación derivada del pasivo se 
+termina, se cancela o expira. Cuando un pasivo financiero existente es reemplazado 
+por otro del mismo prestatario en condiciones significativamente diferentes, o las 
+condiciones del pasivo existente son modificadas en forma importante, dicho 
+reemplazo o modificación se trata como una baja del pasivo original y el 
+reconocimiento de un nuevo pasivo. La diferencia en los valores en libros 
+respectivos se reconoce en el estado de resultados. 
+  
+
+=== PAGINA PDF 21 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+9 
+(iii)  Compensación de instrumentos financieros - 
+Los activos y pasivos financieros son compensados y el monto neto es reportado en 
+el estado de situación financiera si existe actualmente un derecho legal exigible para 
+compensar los montos reconocidos, y si hay una intención de liquidar en términos 
+netos o de realizar los activos y liquidar los pasivos simultáneamente. 
+ 
+(c) Efectivo y equivalentes al efectivo (Nota 6) - 
+El rubro “Efectivo y equivalentes al efectivo” presentado en el estado de situación financiera 
+incluye todos los saldos en efectivo y en bancos, y los depósitos a corto plazo, los cuales 
+estén sujetos a un riesgo no significativo de cambio de valor. 
+ 
+A los efectos del estado de flujos de efectivo, el efectivo y los equivalentes al efectivo 
+incluyen en efectivo y, depósitos a corto plazo (con vencimiento menor o igual a 3 meses) y 
+están sujetos a un riesgo insignificante de cambios en su valor, tal como se definió 
+anteriormente, netos de sobregiros bancarios pendientes, ya que se consideran parte 
+integral de la administración de efectivo de la Compañía. 
+ 
+(d) Inventarios (Nota 8) - 
+Los inventarios están valuados al costo o al valor neto de realización, el menor. El costo se 
+determina usando el método promedio ponderado.  
+ 
+En el caso de los productos terminados y en proceso, el costo incluye costos de materiales 
+y mano de obra directos y una porción de gastos indirectos de fabricación, excluyendo 
+costos de financiamiento.  
+ 
+La porción corriente de los inventarios se determina sobre la base de las cantidades que 
+serán procesadas dentro de los próximos doce meses. Los inventarios que no serán 
+procesados en los próximos doce meses se clasifican como no corrientes. 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de las 
+operaciones, menos los costos estimados de terminación y los costos necesarios para 
+efectuar la venta.  
+ 
+La provisión (reversión) para pérdida en el valor neto de realización es calculada sobre la 
+base de un análisis específico que realiza anualmente la Gerencia y es cargada (abonada) 
+a resultados en el ejercicio en el cual se determina la necesidad de la provisión (reversión). 
+Cualquier provisión de obsolescencia de repuestos y suministros es determinada en base a 
+ítems específicos basados en la rotación del inventario. Una revisión regular es realizada 
+para determinar el alcance de cualquier provisión por obsolescencia.  
+ 
+  
+
+=== PAGINA PDF 22 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+10 
+(e) Inversión en negocio conjunto - 
+Un negocio conjunto es un tipo de acuerdo conjunto a través del cual las compañías que 
+tienen el control conjunto de un acuerdo tienen derechos sobre los activos netos del 
+negocio conjunto. El control conjunto es el reparto de control acordado contractualmente, 
+que existe solo cuando las decisiones las actividades relevantes requiere un consentimiento 
+unánime de las partes que comparten el control. 
+ 
+Las inversiones de la Compañía en negocios conjuntos son valoradas por el método de 
+participación patrimonial. Bajo este método, la inversión en un negocio conjunto se 
+registrará inicialmente al costo. El valor en libros de la inversión es ajustado para reconocer 
+los cambios en la participación de la Compañía en los activos netos de la asociada y 
+negocio conjunto desde la fecha de adquisición. 
+ 
+El estado de resultados refleja la participación en los resultados de operaciones de los 
+negocios conjuntos. Cualquier cambio en los resultados integrales en las inversiones es 
+presentado como parte de otros resultados integrales de la Compañía. Cuando ha habido 
+un cambio reconocido directamente en el patrimonio de la asociada, la Compañía reconoce 
+la participación en este cambio y lo registra, cuando sea aplicable, en el estado de cambios 
+en el patrimonio. Las ganancias y pérdidas no realizadas resultantes de las transacciones 
+comunes son eliminadas en proporción a la participación mantenida en la asociada y 
+negocio conjunto.  
+ 
+La participación de la Compañía en las utilidades o pérdidas del negocio conjunto se 
+presentan por separado en el estado de resultados como parte de la utilidad o pérdida 
+operativa y representa la utilidad o pérdida después de impuestos del negocio conjunto. 
+Los estados financieros de los negocios conjuntos se preparan para el mismo período de 
+reporte que la Compañía. Cuando es necesario, se realizan ajustes para alinear las 
+políticas contables con las de la Compañía. 
+ 
+Después de la aplicación del método de participación patrimonial, la Compañía determina si 
+es necesario reconocer una pérdida por deterioro de la inversión del negocio conjunto. En 
+cada fecha de reporte, la Compañía determina si hay una evidencia objetiva de que la 
+inversión en el negocio conjunto ha perdido valor. Si fuera el caso, la Compañía calcula el 
+importe del deterioro como la diferencia entre el importe recuperable de la inversión y su 
+costo de adquisición, y reconoce la pérdida en el estado de resultados. 
+ 
+En el caso de darse la pérdida de influencia significativa sobre el negocio conjunto, la 
+Compañía mide y reconoce cualquier inversión acumulada a su valor razonable. Cualquier 
+diferencia entre el valor en libros de la inversión en el momento de la pérdida de la 
+influencia significativa, el valor razonable de la inversión mantenida y los ingresos 
+procedentes de su disposición es reconocida en resultados. 
+  
+
+=== PAGINA PDF 23 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+11 
+(f) Pagos anticipados - 
+Los activos no monetarios que representan un derecho de la entidad a recibir bienes o 
+servicios se presentan como gastos contratados por anticipado. El activo se da de baja 
+posteriormente cuando los bienes son recibidos y los servicios son prestados. 
+ 
+(g) Propiedad, planta y equipo (Nota 9) - 
+La propiedad, planta y equipo se presenta al costo, neto de la depreciación y las pérdidas 
+acumuladas por deterioro, si las hubiere. 
+ 
+El costo inicial de un activo comprende su precio de compra o costo de construcción, 
+cualquier costo directamente atribuible para que el activo esté listo para ser usado, el 
+estimado inicial de la obligación por cierre de unidad minera, y los costos de financiamiento 
+relacionados con activos aptos. 
+ 
+Cuando se requiere reemplazar partes significativas de propiedad, planta y equipo, la 
+Compañía reconoce dichas partes como activos individuales con vidas útiles específicas y 
+los deprecia. Asimismo, cuando se lleva a cabo una inspección mayor, su costo se 
+reconoce en el valor en libros de la planta y equipo como un reemplazo si se cumplen con 
+los criterios de reconocimiento. Todos los demás costos rutinarios de mantenimiento y 
+reparación se reconocen en resultados según se incurren. 
+ 
+Depreciación - 
+Método de unidades de producción: 
+La depreciación de los activos directamente relacionados a la operación de la mina es 
+calculada utilizando el método de unidades de producción, el cual está basado en las 
+reservas económicamente recuperables de dicha unidad minera. Al 31 de diciembre de 
+2023 la vida mina de la unidad minera de Colquijirca es de 8 años. Otros activos 
+relacionados con la unidad minera se deprecian utilizando el método de línea recta con las 
+vidas útiles detalladas en el siguiente párrafo. 
+ 
+Método de línea recta: 
+La depreciación de activos en unidad minera con vida útil corta o que se encuentran 
+relacionados a labores administrativas, se calcula siguiendo el método de línea recta en 
+función de la vida útil estimada del activo. Las vidas útiles estimadas son las siguientes: 
+ 
+ Años   
+Edificios, construcciones y otros  Entre 2 y 20 
+Maquinaria y equipo  Entre 2 y 12 
+Unidades de transporte 5 
+Muebles y enseres Entre 3 y 10 
+Equipos diversos 3 a 10 
+Equipos de cómputo Entre 1 y 4 
+ 
+
+=== PAGINA PDF 24 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+12 
+Los valores residuales, las vidas útiles y los métodos de depreciación de propiedad, planta 
+y equipo son revisados al final de cada año y son ajustados de manera prospectiva, de ser 
+el caso. 
+ 
+Baja de activos -  
+Una partida de propiedad, planta y equipo es retirada al momento de su disposición o 
+cuando no se espera beneficios económicos de su uso o disposición posterior. Cualquier 
+ganancia o pérdida que surja al momento del retiro del activo fijo (calculada como la 
+diferencia entre los ingresos por la venta y el valor en libros del activo) es incluida en el 
+estado de resultados en el año en que se retira el activo. 
+ 
+(h) Arrendamientos (Nota 9) - 
+La Compañía evalúa al inicio del contrato si un contrato es, o contiene, un arrendamiento. 
+Es decir, si el contrato transmite el derecho de controlar el uso de un activo identificado, por 
+un período de tiempo, a cambio de una consideración. 
+ 
+La Compañía como arrendataria -  
+La Compañía aplica un enfoque único de reconocimiento y medición para todos los 
+arrendamientos, excepto los arrendamientos a corto plazo y los arrendamientos de activos 
+de bajo valor. La Compañía reconoce los pasivos por arrendamiento como los pagos a 
+realizar por el arrendamiento y a los activos por derecho de uso como el derecho a utilizar 
+los activos subyacentes. 
+ 
+i) Activos por derecho de uso (Nota 9) -  
+La Compañía reconoce los activos por derecho de uso en la fecha de inicio del 
+arrendamiento. Los activos por derecho de uso se miden al costo, menos cualquier 
+depreciación acumulada y pérdidas por deterioro, y se ajustan para cualquier nueva 
+medición de los pasivos por arrendamiento. El costo de los activos por derecho de 
+uso incluye la cantidad de pasivos por arrendamiento reconocidos, los costos 
+directos iniciales incurridos y los pagos de arrendamiento realizados en la fecha de 
+inicio o antes, menos los incentivos de arrendamiento recibidos. Los activos por 
+derecho de uso se deprecian de forma lineal durante el plazo más corto entre el 
+arrendamiento y la vida útil estimada de los activos relacionados. 
+ 
+Si la propiedad del activo arrendado se transfiere a la Compañía al final del plazo del 
+arrendamiento o el costo refleja el ejercicio de una opción de compra, la 
+depreciación se calcula utilizando la vida útil estimada del activo. 
+ 
+ii) Pasivos por arrendamientos -  
+A la fecha de inicio del arrendamiento, la Compañía reconoce los pasivos por 
+arrendamiento medidos al valor presente de los pagos por arrendamiento que se 
+realizarán durante el plazo del arrendamiento. Los pagos por arrendamiento incluyen 
+pagos fijos (incluidos los pagos fijos en esencia) menos cualquier incentivo de 
+arrendamiento por cobrar, pagos de arrendamiento variables que dependen de un 
+índice o una tasa, y montos que se espera pagar bajo garantías de valor residual. 
+
+=== PAGINA PDF 25 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+13 
+Los pagos por arrendamiento también incluyen el precio de ejercicio de una opción 
+de compra, razonablemente segura, para ser ejercida por la Compañía y los pagos 
+de multas por rescindir el arrendamiento, si el plazo del arrendamiento refleja que la 
+Compañía ejerce la opción de rescindir. 
+ 
+Los pagos de arrendamiento variables que no dependen de un índice o una tasa se 
+reconocen como gastos (a menos que se incurran para producir inventarios) en el 
+período en el que ocurre el evento o la condición que desencadena el pago. 
+ 
+Al calcular el valor presente de los pagos de arrendamiento, la Compañía utiliza una 
+tasa de interés incremental en la fecha de inicio del arrendamiento porque la tasa de 
+interés implícita en el arrendamiento no es fácilmente determinable. Después de la 
+fecha de inicio, el monto de los pasivos por arrendamiento se incrementa para 
+reflejar la acumulación de intereses y se reduce por los pagos de arrendamiento 
+realizados. El importe en libros de los pasivos por arrendamiento se vuelve a medir 
+si hay una modificación, un cambio en el plazo del arrendamiento, un cambio en los 
+pagos del arrendamiento o un cambio en la evaluación de una opción para comprar 
+el activo subyacente.  
+ 
+Los pasivos por arrendamientos de la Compañía están incluidos en el rubro “Pasivos 
+por arrendamiento”. 
+ 
+iii) Arrendamientos a corto plazo y arrendamientos de activos de bajo valor - 
+La Compañía aplica la exención de reconocimiento de arrendamientos a corto plazo 
+a sus arrendamientos a corto plazo de maquinaria y equipo sin opción de 
+renovación. La Compañía también aplica la exención de reconocimiento de activos 
+de bajo valor a los arrendamientos de equipos de oficina que se consideran de bajo 
+valor. Los pagos de arrendamientos a corto plazo y de bajo valor se reconocen como 
+gastos de forma lineal durante el plazo del arrendamiento. 
+ 
+La Compañía como arrendadora – 
+Los arrendamientos en los que la Compañía no transfiere sustancialmente todos los riesgos 
+y beneficios relacionados con la propiedad de un activo se clasifican como arrendamientos 
+operativos. Los ingresos por rentas que surgen se contabilizan linealmente durante los 
+plazos de arrendamiento y se incluyen en el rubro “Otros, neto” en el estado de resultados 
+debido a su naturaleza operativa. Los costos directos iniciales incurridos en la negociación y 
+organización de un arrendamiento operativo se agregan al valor en libros del activo 
+arrendado y se reconocen durante el plazo del arrendamiento sobre la misma base que los 
+ingresos por alquiler. Los alquileres contingentes se reconocen como ingresos en el período 
+en que se obtienen. 
+  
+
+=== PAGINA PDF 26 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+14 
+(i) Costos de exploración y desarrollo de mina (Notas 9, 17 y 20) -  
+Costos de exploración (Nota 17 y 20) - 
+Los costos de exploración son cargados a gastos según se incurren. Estos costos incluyen 
+principalmente materiales y combustibles utilizados, costos de levantamiento topográfico, 
+costos de perforación y pagos realizados a los contratistas. 
+ 
+Las actividades de exploración incluyen: 
+ 
+- Búsqueda y análisis de información histórica de exploraciones. 
+- Incremento de información exploratoria a través de estudios geológicos. 
+- Perforaciones y muestreos de exploración. 
+- Determinación y evaluación de los volúmenes y leyes de los recursos. 
+- Transporte topográfico y requerimientos de infraestructura. 
+- Realización de estudios financieros y de mercado. 
+ 
+Los costos de exploración relacionados con áreas operativas son clasificados como parte 
+del costo de venta, mientras que aquellos relacionados con áreas no operativas son 
+clasificados como gastos operativos. 
+ 
+Costos de desarrollo (Nota 9) - 
+Cuando la Gerencia de la Compañía aprueba la viabilidad del estudio conceptual de un 
+proyecto, los costos incurridos para desarrollar dicha propiedad, incluyendo los costos 
+adicionales para delinear el cuerpo del mineral y remover las impurezas que contiene, son 
+capitalizados como costos de desarrollo dentro del rubro “Propiedad, planta, equipo y 
+costos de desarrollo”. Estos costos se amortizan al momento de iniciar la producción, 
+siguiendo el método de unidades de producción usando como base las reservas probadas y 
+probables.  
+ 
+Las actividades de desarrollo incluyen: 
+ 
+- Estudios de ingeniería y metalúrgicos. 
+- Perforaciones y otros costos necesarios para delinear un cuerpo de mineral. 
+- Remoción del desbroce inicial relacionado a un cuerpo de mineral. 
+ 
+Los costos de desarrollo necesarios para mantener la producción son cargados a 
+resultados según se incurren. 
+ 
+(j) Costos de remoción de desmonte (Costos de desbroce) (Nota 9) - 
+Como parte de sus operaciones mineras, la Compañía incurre en costos de remoción de 
+desmonte (costo de desbroce) durante las etapas de desarrollo y producción en sus 
+operaciones mineras. Los costos de desbroce incurridos en la etapa de desarrollo de una 
+mina, antes de que comience la etapa de producción (desbroce de desarrollo), son 
+capitalizados como costos de desarrollo y posteriormente depreciados teniendo en cuenta 
+la vida útil de la mina usando el método de unidades de producción. La capitalización de los 
+costos de desbroce de desarrollo cesa cuando la mina inicia producción. 
+
+=== PAGINA PDF 27 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+15 
+Los costos incurridos durante la etapa de producción son generalmente considerados para 
+obtener los beneficios, siendo estos la producción de inventarios o con un mejor acceso a 
+mineral que será explotado en el futuro. Cuando los beneficios están relacionados con la 
+producción de inventarios se registran como parte del costo de producción de dichos 
+inventarios. Cuando los beneficios obtenidos dan acceso al mineral a ser explotado en el 
+futuro son reconocidos como activos no corrientes (costos de desbroce) si se dan las tres 
+condiciones siguientes: 
+ 
+- Es probable que surjan beneficios económicos futuros; 
+- Se pueden identificar componentes en el yacimiento cuyo acceso será mejorado; y 
+- Los costos asociados con el acceso mejorado pueden ser medidos confiablemente. 
+ 
+Para identificar componentes en un yacimiento, la Compañía trabaja de cerca con el 
+personal del área de operaciones para analizar los planes de mina. Generalmente un 
+yacimiento tiene varios componentes. Los planes de minas, y por lo tanto la identificación 
+de componentes, puede variar entre minas por diversos motivos. 
+ 
+El costo de desbroce de producción se mide inicialmente al costo, el cual surge de una 
+acumulación de costos directamente incurridos durante la ejecución de la actividad de 
+desbroce. El costo de desbroce de producción relacionado con acceso a mineral futuro se 
+presenta como parte del rubro “Propiedad, planta, equipo y costos de desarrollo”. 
+ 
+El costo de desbroce de producción es posteriormente depreciado usando el método de 
+unidades de producción teniendo en cuenta la vida del componente identificado en el 
+yacimiento que es más accesible como resultado de la actividad de desbroce. Este costo se 
+presenta al costo menos la depreciación y la pérdida acumuladas por deterioro, si hubiera.  
+ 
+(k) Deterioro de activos no financieros (Nota 9) - 
+A cada fecha de cierre del período sobre el que se informa, la Compañía evalúa si existe 
+algún indicio de que el valor de un activo o unidad generadora de efectivo (UGE) pudiera 
+estar deteriorado. Si existe tal indicio, o cuando se requiere efectuar una prueba anual de 
+deterioro del valor para un activo, la Compañía estima el importe recuperable de ese activo. 
+El importe recuperable de un activo es el mayor del: (i) el valor razonable menos los costos 
+de venta (VRMCD), ya sea de un activo o de una unidad generadora de efectivo, y (ii) su 
+valor en uso (VU), y se determina para un activo individual, salvo que el activo no genere 
+flujos de efectivo que sean sustancialmente independientes de los de otros activos o grupos 
+de activos. Cuando el importe en libros de un activo o de una unidad generadora de efectivo 
+excede su importe recuperable, el activo se considera deteriorado y su valor se reduce a su 
+importe recuperable. 
+  
+
+=== PAGINA PDF 28 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+16 
+Al evaluar el valor en uso de un activo, los flujos de efectivo estimados se descuentan a su 
+valor presente mediante una tasa de descuento antes de impuestos que refleja las 
+evaluaciones corrientes del mercado sobre el valor temporal del dinero y los riesgos 
+específicos del activo. Para la determinación del valor razonable menos los costos de venta 
+se toman en cuenta transacciones recientes del mercado, si las hubiere. Si no pueden 
+identificarse este tipo de transacciones, se utiliza un modelo apropiado de valoración.  
+La Compañía basa su cálculo de deterioro en presupuestos detallados y cálculos de 
+proyecciones. Estos presupuestos y cálculos de proyecciones cubren el período de vida útil 
+mina.  
+ 
+Las pérdidas por deterioro del valor correspondientes a las operaciones continuadas se 
+reconocen en el estado de resultados en aquellas categorías de gastos que correspondan 
+con la función del activo deteriorado.  
+ 
+Para los activos no financieros, a cada fecha de cierre del período sobre el que se informa, 
+se efectúa una evaluación sobre si existe algún indicio de que las pérdidas por deterioro del 
+valor reconocidas previamente ya no existen o han disminuido. Si existiese tal indicio, la 
+Compañía efectúa una estimación del importe recuperable del activo o de la unidad 
+generadora de efectivo. Una pérdida por deterioro del valor reconocida previamente 
+solamente se revierte si hubo un cambio en los supuestos utilizados para determinar el 
+importe recuperable del activo desde la última vez en que se reconoció una pérdida por 
+deterioro del valor de ese activo. La reversión se limita de manera tal que el importe en 
+libros del activo no exceda su monto recuperable, ni exceda el importe en libros que se 
+hubiera determinado, neto de la depreciación acumulada, si no se hubiese reconocido una 
+pérdida por deterioro del valor para ese activo en ejercicios anteriores. Tal reversión se 
+reconoce en el estado de resultados. 
+ 
+(l) Provisiones (Nota 11) - 
+General - 
+Se reconoce una provisión cuando la Compañía tiene una obligación presente (legal o 
+implícita) como resultado de un hecho pasado, es probable que se requiera para su 
+liquidación una salida de recursos económicos y se puede hacer una estimación confiable 
+del monto de la obligación. Si el efecto del valor del dinero en el tiempo es material, las 
+provisiones son descontadas usando una tasa antes de impuestos que refleje, cuando sea 
+apropiado, los riesgos específicos del pasivo. Cuando se descuenta, el aumento de la 
+provisión por el paso del tiempo se reconoce como un costo financiero. 
+ 
+Provisión para cierre de minas, proyectos de exploración y pasivos ambientales - 
+La Compañía registra una provisión para cierre de minas cuando surge una obligación 
+legalmente exigible, la cual es independiente del agotamiento total de las reservas mineras. 
+ 
+  
+
+=== PAGINA PDF 29 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+17 
+La Compañía reconoce una provisión para cierre de minas cuando la obligación ha sido 
+medida apropiadamente. El pasivo es inicialmente reconocido al valor presente por los 
+costos estimados y son capitalizados como parte del valor en libros de los activos mineros 
+relacionados (propiedad, planta y equipo). El pasivo descontado se incrementa por los 
+cambios en el valor presente en base a la tasa de descuento que refleje las evaluaciones 
+actuales del mercado y los riesgos específicos del pasivo. En adición, el costo capitalizado 
+es depreciado y/o amortizado en base a la vida útil del activo. Cualquier ganancia o pérdida 
+resultante de la liquidación de la obligación es reconocido en resultados. 
+ 
+Los cambios en el valor razonable de la obligación o en la vida útil de los activos 
+relacionados que surgen de la revisión de los estimados iniciales se reconocen como un 
+incremento o disminución del valor en libros de la obligación y del activo relacionado. 
+Cualquier reducción en una provisión por cierre de unidad minera y, por lo tanto, cualquier 
+reducción del activo relacionado, no puede exceder el valor en libros de dicho activo. De 
+hacerlo, cualquier exceso sobre el valor en libros es llevado inmediatamente al estado de 
+resultados. 
+ 
+Si el cambio en el estimado diera como resultado un incremento en la provisión y, por lo 
+tanto, un aumento en el valor en libros del activo, la Compañía deberá tomar en cuenta si 
+ésta es una indicación de deterioro del activo en su conjunto y realizar pruebas de deterioro. 
+ 
+En el caso de minas ya cerradas, proyectos de exploración y pasivos ambientales, los 
+cambios en los costos estimados se reconocen inmediatamente en el estado de resultados.  
+  
+(m) Reconocimiento de ingresos (Notas 15, 21 y 22) -  
+Los ingresos por contratos con clientes se reconocen cuando el control de bienes o 
+servicios son transferidos al cliente por un monto que refleja la contraprestación a la que la 
+Compañía espera tener derecho a cambio de esos bienes y servicios. 
+ 
+La Compañía ha concluido que es el principal en sus contratos de ingresos porque 
+generalmente controla los bienes antes de transferirlos al cliente. 
+ 
+Las revelaciones de los juicios contable significativos, estimados y supuestos relacionados 
+con los ingresos por contratos con clientes se revelan en la nota 3. 
+ 
+Venta de concentrados y metales – 
+La Compañía reconoce el ingreso por venta de concentrados y metales en el momento en 
+que el control del activo es transferido al cliente. La transferencia del control es determinada 
+de acuerdo con los términos de cada uno de los contratos celebrados con los clientes. De 
+acuerdo a dichos contratos, la transferencia de control ocurre generalmente al momento de 
+la entrega de los bienes, incluyendo transporte. El ingreso reconocido corresponde al 
+importe que refleja la consideración que la Compañía espera recibir a cambio de dichos 
+productos. 
+ 
+
+=== PAGINA PDF 30 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+18 
+El ingreso por la venta de concentrados y metales es registrado neto de las “deducciones 
+comerciales”. Las deducciones comerciales corresponden a los ajustes en el precio por 
+gastos de tratamiento y refinación, y que pueden incluir ciertas penalidades que, de acuerdo 
+con cada contrato aplicable, son deducidas del precio internacional del metal fino, y que 
+serán incurridos luego de la venta del contrato aplicable. La Compañía considera que las 
+deducciones son parte del precio de la transacción. Los términos de crédito normales son 
+de 30 a 45 días desde la entrega. 
+ 
+La Compañía considera cuando existen otros compromisos en el contrato que deban ser 
+obligaciones de desempeño separadas, a la cual una porción del precio de la transacción 
+necesita ser distribuido. La Compañía considera que la única obligación de desempeño es 
+la entrega de los bienes. Al momento de determinar el precio de venta de la venta de 
+concentrados y metales, la Compañía considera que el efecto variable de la consideración, 
+y la existencia de componentes significativos de financiamiento. 
+ 
+Consideración variable –  
+Si la consideración del contrato incluye un importe variable, la Compañía estima el importe 
+de consideración en el cual se espera recibir a cambio de transferir los bienes al cliente. La 
+consideración variable es estimada al inicio del contrato y es restringida hasta que sea 
+altamente probable que no se produzca una reversión significativa en el monto de los 
+ingresos acumulados reconocidos cuando la incertidumbre asociada con la 
+contraprestación variable se resuelva posteriormente.  
+ 
+Las ventas de concentrados y metales de la Compañía a precios provisionales incluyen una 
+ganancia o pérdida que se recibirá al final del período de cotización (QP por sus siglas en 
+inglés) estipulado en el contrato. Estos se denominan arreglos de precios provisionales y 
+son tales que el precio de venta del metal en concentrado se basa en los precios spot 
+vigentes en una fecha futura específica después del envío al cliente. Los ajustes en el 
+precio de venta se producen en función de los movimientos en los precios de mercado 
+cotizados hasta el final del QP. El periodo entre la liquidación provisional y el fin del período 
+de cotización van generalmente entre uno o cuatro meses. 
+ 
+Las ventas de concentrados y metales de la Compañía están sujetas a ligeras variaciones 
+en las cantidades que pueden ocurrir mientras dichos bienes se encuentran en tránsito a su 
+destino final. Estas variaciones se deben a cambios en la humedad, peso y leyes de mineral 
+y son reconocidas directamente como parte del rubro “Ventas de bienes” en el momento 
+que la Compañía logra un acuerdo con el cliente en relación con los importes finales 
+vendidos.  
+ 
+Las ventas de concentrados y metales a precios provisionales incluyen una ganancia 
+(pérdida que será recibida al final del período de cotización, la cual se considera como una 
+consideración variable. Cambios en el precio durante el periodo de cotización es 
+reconocidos en el rubro de “Ventas de bienes” como “Valor razonable de las cuentas 
+comerciales”. Ver nota 16(b). 
+ 
+
+=== PAGINA PDF 31 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+19 
+Para los arreglos provisionales de fijación de precios, cualquier cambio futuro que ocurra 
+sobre el QP está incluido en las cuentas por cobrar comerciales de precio provisional y, por 
+lo tanto, están dentro del alcance de la NIIF 9 y no dentro del alcance de la NIIF 15. Dada la 
+exposición al precio de commodities, estas cuentas por cobrar comerciales con precios 
+provisionales no pasarán la prueba de características de flujo de efectivo dentro de la NIIF 9 
+y deberán medirse al valor razonable con cambios en resultados desde el reconocimiento 
+inicial y hasta la fecha de liquidación. Los cambios posteriores en el valor razonable se 
+reconocen en los estados de resultados de cada período y se presentan por separado de 
+los ingresos de los contratos con el cliente como parte de "ganancias / pérdidas de valor 
+razonable en cuentas por cobrar comerciales con precios provisionales". Ver nota 14(b). 
+Los cambios en el valor razonable durante, y hasta el final del QP, se estiman en referencia 
+a los precios actualizados del mercado a plazo para los metales, así como para tener en 
+cuenta otras consideraciones relevantes sobre el valor razonable establecidas en la NIIF 
+13, incluidas la tasa de interés y ajustes del riesgo de crédito. 
+ 
+Componente financiero significativo  
+La Compañía recibe anticipos a corto plazo de sus clientes. Utilizando el recurso práctico de 
+la NIIF 15, la Compañía no ajusta la cantidad prometida de la consideración por los efectos 
+de un componente de financiamiento significativo, si espera, al inicio del contrato, que el 
+período entre la transferencia del bien prometido al cliente y el pago del cliente será de un 
+año o menos. 
+ 
+La Compañía aplica el recurso práctico para los anticipos a corto plazo recibidos de 
+clientes. Es decir, no es necesario ajustar el monto de la contraprestación acordado por los 
+efectos de un componente financiero significativo cuando el periodo entre la transferencia 
+de los bienes o servicios prometidos y la fecha en que se recibe el pago es menor a un año 
+ 
+Saldos contractuales - 
+Activos contractuales 
+Un activo contractual es el derecho a una contraprestación a cambio de bienes o servicios 
+transferidos al cliente. Si la Compañía se desempeña mediante la transferencia de bienes o 
+servicios a un cliente antes de que el cliente pague la contraprestación o antes de la fecha 
+de vencimiento del pago, se reconoce un activo del contrato por la contraprestación ganada 
+que es condicional. 
+ 
+Cuentas por cobrar comerciales 
+Una cuenta por cobrar representa el derecho de la Compañía a un importe de 
+contraprestación que es incondicional. 
+  
+
+=== PAGINA PDF 32 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+20 
+Pasivos contractuales 
+Un pasivo contractual es la obligación de transferir bienes o servicios a un cliente por el cual 
+la Compañía ha recibido la contraprestación (o se debe una cantidad de la 
+contraprestación) del cliente. Si el cliente paga una contraprestación antes de que la 
+Compañía transfiera bienes o servicios al cliente, se reconoce un pasivo contractual cuando 
+se realiza el pago o el pago se realiza (lo que ocurra primero). Los pasivos contractuales se 
+reconocen como ingresos cuando la Compañía se desempeña conforme a las obligaciones 
+contractuales. Al 31 de diciembre de 2025 y de 2024, la Compañía no tiene pasivos 
+contractuales. 
+ 
+Ingresos por intereses - 
+Para todos los instrumentos financieros medidos al costo amortizado, los ingresos por 
+intereses se registran utilizando la tasa de interés efectiva. Dicha tasa es la que descuenta 
+exactamente los pagos o recibos en efectivo futuros estimados durante la vida útil esperada 
+del instrumento financiero o un período más corto, según corresponda, al valor neto en 
+libros del activo o pasivo financiero. Los ingresos por intereses se incluyen en los ingresos 
+financieros en los estados de resultados. 
+ 
+Dividendos - 
+El ingreso por dividendos se reconoce cuando se ha establecido el derecho de la Compañía 
+a recibir el pago, que es generalmente cuando los accionistas aprueban el dividendo. 
+ 
+Otros ingresos – 
+Los otros ingresos se reconocen cuando se devengan que ocurre generalmente al 
+momento de la entrega de bienes y/o servicios. El ingreso reconocido corresponde al 
+importe que refleja la consideración que la Compañía espera recibir a cambio de dichos 
+bienes y/o servicios. 
+ 
+(n) Costos de financiamiento (Nota 22) - 
+Los costos de financiamiento directamente atribuibles a la adquisición, construcción o 
+producción de un activo calificado son capitalizados como parte del costo de un activo. Un 
+activo calificado es aquel que requiere un período de tiempo mayor a 12 meses para estar 
+listo para su uso esperado. Todos los demás costos de financiamiento se reconocen en el 
+estado de resultados en el período en el que se incurren. Los costos de financiamiento 
+incluyen intereses y otros costos que la Compañía incurre al obtener financiamiento.  
+ 
+(o) Impuestos (Nota 12) - 
+Impuesto a las ganancias corriente - 
+Los activos y pasivos por el impuesto corriente a las ganancias se miden por los importes 
+que se espera recuperar o pagar de o a la autoridad fiscal. Las tasas impositivas y la 
+normativa fiscal utilizadas para computar dichos importes son aquellas que están vigentes a 
+la fecha de cierre del período sobre el que se informa. 
+ 
+ 
+
+=== PAGINA PDF 33 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+21 
+El impuesto corriente a las ganancias relacionado con partidas que se reconocen 
+directamente en el patrimonio, también se reconoce en el patrimonio y no en el estado de 
+resultados. La Gerencia evalúa en forma periódica las posiciones tomadas en las 
+declaraciones de impuestos con respecto a situaciones en las que las normas fiscales 
+aplicables se encuentran sujetas a interpretación, y constituye provisiones cuando es 
+apropiado. 
+ 
+Impuesto a las ganancias diferido - 
+El impuesto a las ganancias diferido se reconoce utilizando el método del pasivo sobre las 
+diferencias temporales entre las bases impositivas de los activos y pasivos y sus importes 
+en libros a la fecha de cierre del período sobre el que se informa. 
+ 
+Los pasivos por impuesto a las ganancias diferido se reconocen por todas las diferencias 
+temporales imponibles, salvo las diferencias temporales imponibles relacionadas con las 
+inversiones en asociadas, cuando la oportunidad de su reversión se pueda controlar, y sea 
+probable que las mismas no se reversen en el futuro previsible. 
+ 
+Los activos por impuesto a las ganancias diferido se reconocen por todas las diferencias 
+temporales deducibles, y por la compensación futura de créditos fiscales y pérdidas 
+tributarias arrastrables no utilizadas, en la medida en que sea probable la existencia de 
+utilidades imponibles disponibles futuras contra las cuales se puedan compensar dichas 
+diferencias temporales deducibles, y/o se puedan utilizar dichos créditos fiscales y pérdidas 
+tributarias arrastrables.  
+ 
+El importe en libros de los activos por impuesto a las ganancias diferido se revisa en cada 
+fecha de cierre del período sobre el que se informa y se reduce en la medida en que ya no 
+sea probable la existencia de suficiente ganancia imponible futura para permitir que esos 
+activos por impuesto a la renta diferido sean utilizados total o parcialmente. Los activos por 
+impuesto a la ganancia diferido no reconocidos se reevalúan en cada fecha de cierre del 
+período sobre el que se informa y se reconocen en la medida en que se torne probable la 
+existencia de utilidades imponibles futuras que permitan recuperar dichos activos por 
+impuesto a la ganancia diferido. 
+ 
+Los activos y pasivos por impuesto a las ganancias diferido se miden a las tasas impositivas 
+que se espera se apliquen en el ejercicio en el que el activo se realice o el pasivo se 
+cancele, en base a las tasas impositivas y normas fiscales que fueron aprobadas a la fecha 
+de cierre del período sobre el que se informa.  
+ 
+El impuesto a las ganancias diferido se reconoce en relación con la partida que lo origina, 
+ya sea en resultados o directamente en el patrimonio.  
+ 
+Los activos y pasivos por impuesto a las ganancias diferido se compensan si existe un 
+derecho legalmente exigible de compensar los activos y pasivos por impuesto a las 
+ganancias corriente, y si los impuestos a la ganancia diferidos se relacionan con la misma 
+autoridad tributaria y la misma jurisdicción fiscal. 
+
+=== PAGINA PDF 34 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+22 
+Tratamiento fiscal incierto –  
+La Compañía determina si se debe considerar cada tratamiento fiscal incierto por separado 
+o junto con uno o más tratamientos fiscales inciertos y utiliza el enfoque que predice mejor 
+la resolución de la incertidumbre. En Perú solo existen dos posibilidades para medir las 
+posiciones fiscales peruanas inciertas: 100% de probabilidad de recuperación en caso de 
+que la Compañía tenga una decisión favorable sobre el asunto a evaluar, o 0% de 
+probabilidad de recuperación, en caso de que la Compañía no prevalezca en los trámites 
+ante la autoridad fiscal. La Compañía determinó, basándose en su estudio de cumplimiento 
+de impuestos y precios de transferencia, que es probable que sus tratamientos fiscales 
+sean aceptados por las autoridades fiscales. 
+ 
+Regalías Mineras e Impuesto Especial a la Minería en el Perú - 
+De conformidad con la Ley 28258, emendada por la Ley 29788, las regalías mineras se 
+pagan por el importe mayor entre (i) un porcentaje específico de la utilidad operativa o (ii) el 
+1% de los ingresos netos. Si la regalía minera se calcula como un porcentaje de la utilidad 
+operativa, se aplicarán tasas marginales que van del 1% al 12% que aumentan 
+progresivamente para empresas con mayores márgenes operativos. 
+ 
+Las regalías mineras y el impuesto especial a la minería, que se determinan sobre la 
+utilidad operativa, son contabilizados de acuerdo con la NIC 12 “Impuesto a las Ganancias”, 
+pues tienen las características de un impuesto a las ganancias. Es decir, son impuestos por 
+el Gobierno y están basados en ingresos netos de gastos después de ajustes de diferencias 
+temporales, en lugar de ser calculados en base a la cantidad producida o a un porcentaje 
+de los ingresos. Las normas legales y tasas usadas para calcular los importes por pagar 
+son las que están vigentes en la fecha del estado de situación financiera. 
+ 
+En consecuencia, los pasivos originados por concepto de regalía minera e impuesto 
+especial a la minería están bajo el alcance de la NIC 12. Tanto la regalía minera como el 
+impuesto especial a la minería generan activos o pasivos diferidos los cuales son medidos 
+usando las tasas medias que se espera aplicar a las ganancias fiscales en los trimestres en 
+el cual la Compañía espera que vayan a revertir las diferencias temporales.  
+ 
+Impuesto sobre las ventas – 
+Los ingresos de actividades ordinarias, los gastos y los activos se reconocen excluyendo el 
+importe de cualquier impuesto sobre las ventas (impuesto al valor agregado), salvo: 
+ 
+(i) Cuando el impuesto sobre las ventas incurrido en una adquisición de activos o en 
+una prestación de servicios no resulte recuperable de la autoridad fiscal, en cuyo 
+caso ese impuesto se reconoce como parte del costo de adquisición del activo o 
+como parte del gasto. 
+ 
+(ii) Las cuentas por cobrar y por pagar que ya estén expresadas incluyendo el importe 
+de impuestos sobre las ventas. 
+ 
+
+=== PAGINA PDF 35 ===
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+23 
+El importe neto del impuesto sobre las ventas que se espera recuperar de, o que 
+corresponda pagar a la autoridad fiscal, se presenta como una cuenta por cobrar o una 
+cuenta por pagar en el estado de situación financiera, según corresponda. 
+ 
+(p) Valor razonable (Nota 27) - 
+La Compañía mide sus instrumentos financieros, tales como instrumentos financieros de 
+coberturas, mantenidas al valor razonable en la fecha del estado de situación financiera. 
+ 
+El valor razonable es el precio que se recibiría al vender un activo o que se pagaría al 
+transferir un pasivo en una transacción ordenada entre participantes en un mercado a la 
+fecha de medición. La medición al valor razonable se basa en el supuesto de que la 
+transacción para vender el activo o transferir el pasivo tiene lugar, ya sea: 
+ 
+- En el mercado principal para el activo o pasivo, o  
+- En ausencia de un mercado principal, en el mercado más ventajoso para el activo o 
+pasivo. 
+ 
+La Compañía usa técnicas de valuación que son apropiadas en las circunstancias y por las 
+cuales tiene suficiente información disponible para medir al valor razonable, maximizando el 
+uso de datos observables relevantes y minimizando el uso de datos no observables.  
+ 
+Todos los activos y pasivos que se registran al valor razonable o por los cuales se revelan 
+valores razonables en los estados financieros son clasificados dentro de la jerarquía de 
+valor razonable descrita a continuación, en base al nivel más bajo de información que es 
+significativo para la medición al valor razonable como un todo: 
+ 
+- Nivel 1 - Precios cotizados (no ajustados) en mercados activos para activos o 
+pasivos idénticos. 
+- Nivel 2 - Técnicas de valorización por las cuales el nivel más bajo de información 
+que es significativo para la medición al valor razonable es directa o indirectamente 
+observable. 
+- Nivel 3 - Técnicas de valorización por las cuales el nivel más bajo de información 
+que es significativo para la medición al valor razonable no es observable. 
+ 
+Para activos y pasivos que son reconocidos al valor razonable en los estados financieros 
+sobre una base recurrente, la Compañía determina si se han producido transferencias entre 
+los diferentes niveles dentro de la jerarquía mediante la revisión de la categorización al final 
+de cada período de reporte. 
+ 
+La Gerencia de la Compañía determina las políticas y procedimientos para mediciones al 
+valor razonable recurrentes y no recurrentes. A cada fecha de reporte, la Gerencia de la 
+Compañía analiza los movimientos en los valores de los activos y pasivos que deben ser 
+valorizados de acuerdo con las políticas contables de la Compañía. 
+ 

@@ -1,0 +1,1668 @@
+
+=== PAGINA PDF 1 ===
+ 
+Financiera Confianza S.A.A. 
+Estados financieros al 31 de diciembre de 2024 y de 2023 
+junto con el informe de los auditores independientes 
+ 
+
+=== PAGINA PDF 2 ===
+ 
+Financiera Confianza S.A.A. 
+Estados financieros al 31 de diciembre de 2024 y de 2023  
+junto con el informe de los auditores independientes 
+Contenido 
+ 
+Informe de los auditores independientes 
+ 
+Estados financieros 
+ 
+Estados de situación financiera 
+Estados de resultados 
+Estados de resultados integrales 
+Estados de cambios en el patrimonio neto 
+Estados de flujos de efectivo 
+Notas a los estados financieros 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 3 ===
+ 
+Lima 
+Av. Víctor Andrés 
+Belaunde 171 
+San Isidro  
+Tel: +51 (1) 411 4444 
+ 
+Lima II 
+Av. Jorge Basadre 330 
+San Isidro 
+Tel: +51 (1) 411 4444 
+ 
+ 
+Arequipa 
+Edificio City Center ,       
+piso 13, Torre Sur , Cerro 
+Colorado 
+Tel: +51 (54) 484 470 
+ 
+ 
+Trujillo 
+Av. El Golf 591, Urb. Las 
+Flores del Golf III, Víctor 
+Larco Herrera 13009, 
+Sede Miguel Ángel Quijano 
+Doig 
+La Libertad  
+Tel: +51 (44) 608 830 
+ 
+Chiclayo (satélite) 
+Av. Federico Villareal 115, 
+Lambayeque  
+Tel: +51 (74) 227 424 
+ 
+Cusco (satélite) 
+Jr . Ricardo Palma #18, 
+Urb. Santa Mónica, 
+Wanchaq 
+ 
+    
+Inscrita en la partida 13222951 del Registro de Personas Jurídicas de Lima y Callao 
+Miembro de Ernst & Young Global 
+Informe de los auditores independientes 
+ 
+ 
+Tanaka, Valdivia & Asociados 
+Sociedad Civil de R. L 
+ 
+A los Accionistas y Directores de Financiera Confianza S.A.A. 
+ 
+Opinión 
+ 
+Hemos auditado los estados financieros de Financiera Confianza S.A.A. (subsidiaria de Fundación 
+BBVA para las Microfinanzas, entidad domiciliada en España, en adelante “la Financiera”), que 
+comprenden el estado de situación financiera al 31 de diciembre de 2024, y los estados de resultados, 
+de resultados integrales, de cambios en el patrimonio neto y de flujos de efectivo por el año terminado 
+en esa fecha, así como las notas explicativas a los estados financieros, que incluyen información sobre 
+las políticas contables significativas. 
+ 
+En nuestra opinión, los estados financieros adjuntos presentan razonablemente, en todos los aspectos 
+significativos, la situación financiera de la Financiera al 31 de diciembre de 2024, así como su 
+desempeño financiero y sus flujos de efectivo correspondientes por el año terminado en esa fecha, de 
+acuerdo con las normas contables establecidas por la Superintendencia de Banca, Seguros y AFP 
+(SBS) para las entidades financieras en el Perú, ver nota 2. 
+ 
+Base de la opinión 
+ 
+Realizamos nuestra auditoría de conformidad con las Normas Internacionales de Auditoría (NIAs) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos 
+del Perú. Nuestras responsabilidades en virtud de esas normas se describen con más detalle en la 
+sección Responsabilidades del auditor en relación con la auditoría de los estados financieros de 
+nuestro informe. Somos independientes de la Financiera de acuerdo el Código de Ética para 
+Profesionales de la Contabilidad del Consejo de Normas Internacionales de Ética para Contadores 
+(Código IESBA, por sus siglas en inglés) junto con los requisitos éticos que son relevantes para nuestra 
+auditoría de los estados financieros en Perú, y hemos cumplido con nuestras otras responsabilidades 
+éticas de acuerdo con estos requisitos y el código IESBA. Consideramos que la evidencia de auditoría 
+que hemos obtenido proporciona una base suficiente y adecuada para nuestra opinión. 
+ 
+  
+
+=== PAGINA PDF 4 ===
+Informe de los auditores independientes (continuación) 
+ 
+Asuntos clave de auditoría 
+ 
+Los asuntos clave de auditoría son aquellos asuntos que, a nuestro juicio profesional, fueron de mayor 
+importancia en la auditoría de los estados financieros del período actual. Estos asuntos se abordaron 
+en el contexto de la auditoría de los estados financieros en su conjunto, y en la formación de nuestra 
+opinión sobre los mismos; por lo que no proporcionamos una opinión separada sobre estos asuntos. 
+Con base en lo anterior, más adelante, se detalla la manera en la que cada asunto clave fue abordado 
+durante nuestra auditoría. 
+ 
+Hemos cumplido con las responsabilidades descritas en la sección Responsabilidades del auditor en 
+relación con la auditoría de los estados financieros de nuestro informe, incluso en relación con estos 
+asuntos. En consecuencia, nuestra auditoría incluyó la realización de procedimientos diseñados para 
+responder a los riesgos de incorrección material evaluados en los estados financieros. Los resultados 
+de los procedimientos de auditoría, incluidos los procedimientos realizados para abordar los asuntos 
+que se mencionan a continuación, constituyen la base para la opinión de auditoría sobre los estados 
+financieros adjuntos.   
+ 
+Asunto clave de auditoria Respuesta de auditoria 
+Provisión para incobrabilidad de créditos 
+ 
+Como se describe en la nota 2(e) a los 
+estados financieros, la estimación de la 
+provisión de cartera de créditos minoristas 
+se determina siguiendo la metodología 
+definida por la Superintendencia de Banca 
+Seguros y AFP(SBS), la cual establece 
+porcentajes específicos para el cálculo de la 
+provisión que dependen de la clasificación 
+crediticia de riesgo del deudor. Para definir 
+la clasificación crediticia del deudor, la 
+Financiera considera principalmente los días 
+de atraso del deudor, las situaciones de los 
+colaterales y las garantías recibidas, y el 
+riesgo del deudor en otras instituciones 
+financieras del mercado. 
+ 
+Por lo expuesto, dada la importancia de esta 
+cuenta en la preparación de los estados 
+financieros de la Financiera, consideramos 
+que la estimación de la provisión de cartera 
+de créditos minoristas es un asunto clave de 
+auditoría. 
+ 
+ 
+ 
+ 
+Nuestros procedimientos de auditoría han consistido en lo 
+siguiente:  
+ 
+- Hemos obtenido un entendimiento del proceso de 
+otorgamiento y desembolso de los créditos llevado 
+por la Gerencia de División Comercial de la 
+Financiera, así como ejecución de pruebas de 
+diseño y eficacia operativa de los controles clave 
+implementados por la Gerencia de la Financiera 
+para dicho proceso. 
+- Hemos obtenido un entendimiento con la Gerencia 
+de Gestión Global de Riesgo, sobre los 
+procedimientos del cálculo que realiza el sistema 
+de la provisión de la cartera de créditos de acuerdo 
+a los lineamientos de la Resolución SBS 11356-
+2008, así como la ejecución de pruebas de diseño y 
+eficacia operativa de los controles clave 
+implementados por la Gerencia de la Financiera 
+para dicho proceso. 
+- Hemos analizado las variaciones de saldos tanto de 
+la cartera como de la provisión registrada al 
+31.12.2024. 
+- Hemos recalculado la provisión considerando lo 
+establecido en la resolución SBS N°11356-2008 y 
+sus modificatorias de la cartera minorista. 
+
+=== PAGINA PDF 5 ===
+Informe de los auditores independientes (continuación) 
+ 
+Asunto clave de auditoria Respuesta de auditoria 
+Al 31 de diciembre de 2024, la Financiera 
+tiene registradas, en el rubro cartera de 
+créditos del estado de situación financiera, 
+provisiones para créditos directos que 
+ascienden a S/159,446,000 y se presentan 
+deduciendo el saldo de los créditos. 
+ 
+ 
+- Hemos realizado pruebas de verificación del 
+cálculo sobre los días de mora e incumplimiento; y 
+- Hemos evaluado la idoneidad de las revelaciones 
+en las notas de los estados financieros de la 
+Financiera. 
+ 
+Otra información incluida en el Informe Anual 2024 de la Financiera  
+ 
+Otra información consiste en la información incluida en la Memoria Anual, distinta de los estados 
+financieros y nuestro informe de auditoría sobre los mismos. La Gerencia es responsable de la otra 
+información. 
+ 
+Nuestra opinión sobre los estados financieros no cubre la otra información y no expresamos ninguna 
+forma de conclusión que proporcione un grado de seguridad sobre ésta. 
+ 
+En relación con nuestra auditoría de los estados financieros, nuestra responsabilidad es leer la otra 
+información y, al hacerlo, considerar si la otra información es materialmente inconsistente con los 
+estados financieros o nuestro conocimiento obtenido en la auditoría o si de otra manera parece estar 
+materialmente mal expresada. Si, en base al trabajo que hemos realizado, concluimos que existe un  
+error material de esta otra información, estamos obligados a informar de ese hecho. No tenemos nada  
+que informar a este respecto.   
+ 
+Responsabilidades de la Gerencia y los responsables del gobierno de la Financiera en relación con los 
+estados financieros 
+ 
+La Gerencia es responsable de la preparación y presentación razonable de los estados financieros de 
+acuerdo con las normas contables establecidas por la Superintendencia de Banca, Seguros y AFP 
+(SBS) para las entidades financieras en el Perú, y del control interno que la Gerencia determine que es 
+necesario para permitir la preparación de estados financieros que estén libres de errores materiales, 
+ya sea debido a fraude o error. 
+ 
+  
+
+=== PAGINA PDF 6 ===
+Informe de los auditores independientes (continuación) 
+ 
+Al preparar los estados financieros, la Gerencia es responsable de evaluar la capacidad de la 
+Financiera para continuar como una empresa en marcha, revelando, según corresponda, los asuntos 
+relacionados con la empresa en marcha y utilizando la base contable de la empresa en marcha, a 
+menos que la Gerencia tenga la intención de liquidar la Financiera o cesar las operaciones, o no tenga 
+otra alternativa realista diferente a hacerlo. 
+ 
+Los responsables del Gobierno de la Financiera son responsables de la supervisión del proceso de 
+información financiera de la Financiera. 
+ 
+Responsabilidades del auditor en relación con la auditoría de los estados financieros 
+ 
+Nuestros objetivos son obtener seguridad razonable sobre si los estados financieros en su conjunto 
+están libres de incorrección material, ya sea debido a fraude o error, y emitir un informe que incluya 
+nuestra opinión. La seguridad razonable es un alto nivel de aseguramiento, pero no garantiza que una 
+auditoría realizada de conformidad con las NIAs aprobadas para su aplicación en el Perú siempre 
+detectará una incorrección importante cuando exista. Las incorrecciones pueden surgir debido a 
+fraude o error y se consideran materiales si, individualmente o acumuladas, podría esperar que 
+influyan razonablemente en las decisiones económicas que los usuarios toman basándose en los 
+estados financieros. 
+ 
+Como parte de una auditoría de acuerdo con las Normas Internacionales de Auditoría (NIAs) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos 
+del Perú, ejercemos un juicio profesional y mantenemos el escepticismo profesional durante toda la 
+auditoría. También: 
+ 
+- Identificamos y evaluamos los riesgos de incorrección material de los estados financieros, ya 
+sea debido a fraude o error, diseñamos y ejecutamos procedimientos de auditoría que 
+respondan a esos riesgos, y obtuvimos evidencia de auditoría que sea suficiente y apropiada 
+para proporcionarnos una base para nuestra opinión. El riesgo de no detectar una incorrección 
+material debido a fraude es mayor que la resultante de un error, ya que el fraude puede implicar 
+colusión, falsificación, omisiones intencionales, declaraciones falsas o sobrepaso del sistema de 
+control interno. 
+ 
+- Obtuvimos un entendimiento del control interno relevante para la auditoría con el fin de diseñar 
+procedimientos de auditoría que sean apropiados en las circunstancias, pero no con el propósito 
+de expresar una opinión sobre la efectividad del control interno de la Financiera. 
+  
+
+=== PAGINA PDF 7 ===
+Informe de los auditores independientes (continuación) 
+ 
+- Evaluamos la idoneidad de las políticas contables utilizadas, la razonabilidad de las estimaciones 
+contables y las respectivas revelaciones realizadas por la Gerencia. 
+ 
+- Concluimos sobre la idoneidad del uso por parte de la Gerencia de la base contable de la 
+empresa en marcha y, sobre la base de la evidencia de auditoría obtenida, si existe una 
+incertidumbre material relacionada con eventos o condiciones que puedan generar dudas 
+significativas sobre la capacidad de la Financiera para continuar como una empresa en marcha. 
+Si llegamos a la conclusión de que existe una incertidumbre material, estamos obligados a 
+llamar la atención en nuestro informe de auditoría sobre las revelaciones relacionadas en los 
+estados financieros o, si dichas revelaciones son inadecuadas, a modificar nuestra opinión. Las 
+conclusiones se basan en la evidencia de auditoría obtenida hasta la fecha de nuestro informe 
+de auditoría. Sin embargo, los eventos o condiciones futuras pueden hacer que la Financiera 
+deje de continuar como una empresa en marcha. 
+ 
+- Evaluamos la presentación general, la estructura, el contenido de los estados financieros, 
+incluidas las revelaciones, y si los estados financieros representan las transacciones y eventos 
+subyacentes de manera que logre una presentación razonable. 
+ 
+Comunicamos a los responsables del Gobierno de la Financiera, entre otros asuntos, el alcance 
+planeado y el momento de realización de la auditoría, los hallazgos significativos de la misma, así 
+como cualquier deficiencia significativa del control interno identificada en el transcurso de la 
+auditoría. 
+ 
+También proporcionamos a los responsables del Gobierno de la Financiera una declaración de que 
+hemos cumplido con los requerimientos éticos relevantes respecto a independencia y les hemos 
+comunicado acerca de todas las relaciones y otros asuntos que podrían razonablemente afectar 
+nuestra independencia y, según corresponda, incluyendo las respectivas salvaguardas. 
+ 
+  
+
+=== PAGINA PDF 8 ===
+Informe de los auditores independientes (continuación) 
+ 
+Entre los asuntos que han sido objeto de comunicación con los responsables del Gobierno de la 
+Financiera, determinamos los que han sido de la mayor significatividad en la auditoría de los estados 
+financieros del periodo actual y, por lo tanto, son los asuntos clave de auditoría. Hemos descrito esos 
+asuntos en nuestro informe de auditoría salvo que las disposiciones legales o reglamentarias prohíban 
+revelar públicamente el asunto o, en circunstancias extremadamente poco frecuentes, determinemos 
+que un asunto no se debería comunicar en nuestro informe porque se esperaría razonablemente que 
+las consecuencias adversas de hacerlo superarían los beneficios de interés público del mismo. 
+ 
+ 
+Lima, Perú 
+13 de febrero de 2025 
+ 
+Refrendado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________ 
+Carlos Serpa 
+C.P.C.C. Matrícula No. 46741 
+
+=== PAGINA PDF 9 ===
+ 
+Las notas adjuntas son parte integrante de estos estados financieros. 
+Financiera Confianza S.A.A. 
+Estados de situación financiera 
+Al 31 de diciembre de 2024 y de 2023  
+ Nota 2024 2023 
+  S/(000) S/(000) 
+Activo    
+    
+Disponible 4 312,240 284,409 
+    
+Inversiones disponibles para la venta 5 68,419 78,302 
+    
+Cartera de créditos, neto 6 2,192,236 2,198,479 
+    
+Cuentas por cobrar 9 11,665 17,066 
+    
+Participación en asociadas  49 51 
+    
+Inmuebles, mobiliario y equipo, neto 7 19,171 21,176 
+    
+Activos intangibles 8 32,128 28,536 
+    
+Impuestos corrientes  13,509 13,443 
+    
+Impuesto diferido 24 28,523 30,786 
+    
+Otros activos 10 5,113 3,367   __________ __________     
+Total activo  2,683,053 2,675,615   __________ __________ 
+Riesgo y compromisos contingentes 17 493 302   __________ __________ 
+ 
+ 
+ Nota 2024 2023 
+  S/(000) S/(000) 
+    
+Pasivo y patrimonio neto    
+Obligaciones con el público y     
+depósitos de empresas del sistema financiero 11 1,643,292 1,518,293 
+Adeudos y obligaciones financieras 12 578,422 698,875 
+Cuentas por pagar 13 30,318 37,722 
+Provisiones 14 6,553 5,201 
+Otros pasivos 14 5,377 3,606   __________ __________ 
+Total pasivo   2,263,962 2,263,697   __________ __________ 
+Patrimonio 15   
+Capital social  285,105 282,721 
+Capital adicional  38,086 38,086 
+Reserva obligatoria  32,690 31,488 
+Reserva facultativa  50,514 47,490 
+Resultados no realizados  - 114 
+Resultados del ejercicio  12,696 12,019   __________ __________ 
+Total patrimonio neto   419,091 411,918   __________ __________     
+Total pasivo y patrimonio neto  2,683,053 2,675,615   __________ __________ 
+Riesgo y compromisos contingentes 17 493 302   __________ __________ 
+ 
+ 
+
+=== PAGINA PDF 10 ===
+ 
+ 
+Financiera Confianza S.A.A. 
+Estados de resultados 
+Por los años terminados el 31 de diciembre de 2024 y de 2023 
+ Nota 2024 2023 
+  S/(000) S/(000)     
+Ingresos  por intereses     
+Disponible  4,433 7,963 
+Fondos interbancarios  576 1,383 
+Inversiones disponibles para la venta  4,430 3,718 
+Cartera de créditos directos  539,131 548,051   _________ _________ 
+  548,570 561,115   _________ _________ 
+Gastos por intereses    
+Obligaciones con el público   (91,185) (89,065) 
+Fondos interbancarios  (172) (117) 
+Depósitos de empresas del sistema financiero y organismos 
+financieros internacionales  (2,663) (3,082) 
+Adeudos y obligaciones financieras:     
+Adeudos y obligaciones del sistema financiero del país   (17,826) (31,041) 
+Adeudos y obligaciones con instituciones financieras del 
+exterior y organismos financieros internacionales   (2,907) (836) 
+Comisiones y otros cargos por adeudos y obligaciones 
+financieras  (1,529) (736) 
+Valores, títulos y obligaciones en circulación  (10,769) (9,263)   _________ _________ 
+  (127,051) (134,140)   _________ _________ 
+Margen financiero bruto  421,519 426,975   _________ _________ 
+Provisión para créditos directos, neta de recuperos  6 (151,086) (155,138)   _________ _________ 
+Margen financiero neto  270,433 271,837 
+  _________ _________ 
+Ingresos por servicios financieros  18 29,415 30,762 
+Gastos por servicios financieros - 18   
+Gastos por fideicomisos y comisiones de confianza   (11) (6) 
+Prima al fondo de seguro de depósito   (4,214) (3,945) 
+Gastos diversos  (10,047) (10,003)   _________ _________     
+Margen financiero neto de ingresos y gastos por servicios 
+financieros  285,576 288,645   _________ _________ 
+Resultado por operaciones financieras -    
+Ganancia en diferencia de cambio, neta   165 198 
+Ganancia en transferencia de cartera crediticia  6 3,536 3,145   _________ _________ 
+Margen de operación  289,277 291,988   _________ _________ 
+Gastos de administración    
+Gastos de personal y directorio  19 (192,167) (194,489) 
+Gastos por servicios recibidos de terceros  20 (61,575) (63,895) 
+Impuestos y contribuciones   (1,192) (1,320)   _________ _________ 
+  (254,934) (259,704)   _________ _________ 
+Depreciaciones y amortizaciones 7 y 8 (12,128) (9,355)   _________ _________ 
+Margen de operación  22,215 22,929   _________ _________     
+  
+
+=== PAGINA PDF 11 ===
+ 
+ 
+Estado de resultados (continuación) 
+ 
+ 
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+ Nota 2024 2023 
+  S/(000) S/(000)     
+Valuación  de activos  y provisiones     
+Provisiones para incobrabilidad de cuentas por cobrar, neto de 
+recuperos  (2,841) (2,281) 
+Provisiones para litigios y demandas  (719) (19) 
+Otras provisiones  (101) (83)   _________ _________ 
+  (3,661) (2,383)   _________ _________ 
+Resultado de operación  18,554 20,546   _________ _________ 
+Otros ingresos y gastos, neto 21 (1,634) (1,319)   _________ _________ 
+Resultado del ejercicio antes de impuesto a la renta   16,920 19,227   _________ _________ 
+Impuesto a la renta 24 (4,224) (7,208)   _________ _________ 
+Resultado neto del ejercicio   12,696 12,019   _________ _________ 
+Utilidad por acción básica y diluida (en soles)  22 2.394 2.285   _________ _________     
+Promedio ponderado del número de acciones en circulación 
+(en unidades) 22 5,304 5,260   _________ _________ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PAGINA PDF 12 ===
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Financiera Confianza S.A.A. 
+Estados de resultados integrales 
+Por los años terminados el 31 de diciembre de 2024 y de 2023 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Resultado neto del ejercicio 12,696 12,019 
+Otro resultado integral   
+Inversiones disponibles para la venta (114) 161  _________ _________    
+Total resultado integral del ejercicio 12,582 12,180  _________ _________ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 13 ===
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Financiera Confianza S.A.A. 
+Estados de cambios en el patrimonio neto 
+Por los años terminados el 31 de diciembre de 2024 y de 2023 
+ Fondos propios Ajustes al patrimonio  __________________________________________________________________________________________________________________________ ____________________________________________ 
+ 
+ 
+Número de 
+acciones 
+(nota 15(a)) 
+ 
+Capital social 
+(nota15(a)) 
+ 
+Capital 
+adicional 
+(nota 15(b)) 
+ 
+Reserva 
+obligatoria 
+(nota 15(c)) 
+ 
+Reserva 
+facultativa 
+(nota 15(d)) 
+ 
+Resultados 
+acumulados 
+(nota 15(e)) 
+ 
+Resultado del 
+ejercicio 
+ 
+Total fondos 
+propios 
+Activos 
+financieros 
+disponibles 
+para la venta 
+ 
+Total de 
+ajustes al 
+patrimonio 
+ 
+ 
+Total 
+patrimonio 
+  S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) 
+            
+Saldos al 1 de enero de 2023 4,902,168 263,492 38,086 27,207 47,455 (3,155) 45,965 419,050 (47) (47) 419,003  __________ _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ 
+Resultado neto del ejercicio - - - - - - 12,019 12,019 - - 12,019 
+Ganancia no realizada por inversiones disponibles 
+para la venta - - - - - - - - 161 161 161  _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ 
+Total resultados integrales del ejercicio - - - - - - 12,019 12,019 161 161 12,180  _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ 
+Transferencia de resultado del ejercicio a resultados 
+acumulados 
+- - - - - 45,965 (45,965) - - - - 
+Constitución de reservas - - - 4,281 35 (4,316) - - - - - 
+Capitalización de utilidades 357,759 19,229 - - - (19,229) - - - - - 
+Dividendos - - - - - (19,265) - (19,265) - - (19,265)  __________ _________ _________ _________ _________ _________ _________ _________ _________ _________ _________             
+Saldos al 31 de diciembre de 2023 5,259,927 282,721 38,086 31,488 47,490 - 12,019 411,804 114 114 411,918 
+            
+Resultado neto del ejercicio - - - - - - 12,696 12,696 - - 12,696 
+Pérdida no realizada por inversiones disponibles para 
+la venta - - - - - - - - (114) (114) (114)  _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ 
+Total resultados integrales del ejercicio - - - - - - 12,696 12,696 (114) (114) 12,582  _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ 
+Transferencia de resultado del ejercicio a resultados 
+acumulados - - - - - 
+ 
+12,019 (12,019) - - - 
+ 
+- 
+Constitución de reservas - - - 1,202 3,024 (4,226) - - - - - 
+Capitalización de utilidades 44,357 2,384 - - - (2,384) - - - - - 
+Dividendos - - - - - (5,409) - (5,409) - - (5,409)  __________ _________ _________ _________ _________ _________ _________ _________ _________ _________ _________             
+Saldos al 31 de diciembre de 2024 5,304,284 285,105 38,086 32,690 50,514 - 12,696 419,091 - - 419,091  __________ _________ _________ _________ _________ _________ _________ _________ _________ _________ _________ 
+ 
+ 
+ 
+
+=== PAGINA PDF 14 ===
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Financiera Confianza S.A.A. 
+Estados de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2024 y de 2023 
+ Nota 2024 2023 
+  S/(000) S/(000) 
+Conciliación de la ganancia neta con el efectivo y equivalentes al 
+efectivo utilizado en las actividades de operación   
+ 
+Resultado neto del ejercicio  12,696 12,019 
+Ajustes    
+Depreciaciones y amortizaciones 7 y 8  12,128  9,355 
+Provisión de créditos directos 6  151,086  155,138 
+Provisión para cuentas por cobrar 9(d) 2,841  2,281 
+Impuesto diferido 24 4,128  2,686 
+Provisiones  1,352  (2,237) 
+Variación neta en activos y pasivos    
+Impuesto a la Renta Corriente  (1,931) (24,431) 
+Cartera de créditos  (144,843)  (258,453) 
+Inversiones disponibles para la venta   9,769 (30,624) 
+Otros activos, neto  909 3,327 
+Obligaciones con el público   124,999 (2,005) 
+Cuentas por pagar y otras  (5,727) (27,944)   _________ _________ 
+Efectivo y equivalentes al efectivo neto utilizado en actividades 
+de operación  167,407 (160,888)   _________ _________ 
+Actividades de inversión    
+Ventas de inmuebles, mobiliario y equipo 7 188 1,331 
+Compras de inmuebles, mobiliario y equipo 7 (3,092) (8,091) 
+Compras de intangibles 8 (10,810) (13,256)   _________ _________ 
+Efectivo y equivalentes al efectivo neto utilizado en las 
+actividades de inversión  (13,714) (20,016)   _________ _________ 
+Actividades de financiamiento    
+Pago de dividendo  (5,409) (19,265) 
+(Disminución) aumento de adeudos y obligaciones financieras  (17,731) 26,726 
+(Disminución) aumento por emisión de certificados negociables  (102,722) 176,048   _________ _________ 
+Efectivo y equivalentes al efectivo neto proveniente de las 
+actividades de financiamiento  (125,862) 183,509   _________ _________ 
+Aumento neto del efectivo y equivalentes al efectivo en el año  27,831 2,605 
+Saldo de efectivo y equivalentes al efectivo al inicio del año  284,409 281,804   _________ _________     
+Saldo de efectivo y equivalentes al efectivo al final del año 4 312,240 284,409   _________ _________ 
+    
+Información adicional sobre el flujo de efectivo    
+Intereses cobrados  493,619 508,532 
+Intereses pagados  (123,156) (122,941) 
+
+=== PAGINA PDF 15 ===
+ 
+ 
+Financiera Confianza S.A.A. 
+Notas a los estados financieros 
+Al 31 de diciembre de 2024 y de 2023 
+  1. Identificación y actividad económica 
+(a) Identificación - 
+Financiera Confianza S.A.A. (en adelante “la Financiera”) es una entidad controlada por la 
+Fundación BBVA para las Microfinanzas (en adelante “la Fundación”), domiciliada en España, 
+quien al 31 de diciembre de 2024 y de 2023 posee el 96.38 por ciento de las acciones con 
+derecho a voto representativas del capital social. 
+ 
+La Financiera se constituyó el 1 de mayo de 2013 como Sociedad Anónima Abierta, inscrita en 
+Registros Públicos el 5 de noviembre de 2013, y con la autorización de la Superintendencia de 
+Banca, Seguros y AFP (en adelante la SBS) a través de la Resolución SBS N°2445-2013 del 16 de 
+abril de 2013. Asimismo, es una persona jurídica de derecho privado, producto de la fusión por 
+absorción entre Caja Rural de Ahorro y Crédito Nuestra Gente S.A.A. y Financiera Confianza S.A. 
+extinguiéndose esta última sin liquidarse. 
+ 
+Las actividades de la Financiera están supervisadas y normadas por la SBS de acuerdo al artículo 
+N°284 de la Ley General del Sistema Financiero y del Sistema de Seguros y Orgánica de la SBS 
+N°26702 (en adelante la “Ley de Banca y Seguros”), modificada por el Decreto Legislativo 
+N°1028 de fecha 21 de junio de 2008. La Ley de Banca y Segurosestablece los requisitos, 
+derechos, obligaciones, garantías, restricciones y demás condiciones de funcionamiento a que se 
+sujetan las personas jurídicas de derecho privado que operan en el sistema financiero y de 
+seguros. Adicionalmente, debe cumplir con lo establecido por la Ley N°26887 “Ley General de 
+Sociedades”, en lo que sea aplicable. 
+ 
+(b) Actividad económica - 
+El objetivo institucional y social de la Financiera es realizar intermediación financiera en apoyo a 
+la actividad económica de Perú, para lo cual es facultada a captar recursos financieros a fin de 
+facilitar el acceso al crédito de los agentes que residen en su área de influencia. 
+ 
+El domicilio fiscal y legal de la Financiera es Calle Las Begonias Nº441 Oficina 238C-Distrito de 
+San Isidro, Provincia y Departamento de Lima. 
+ 
+Al 31 de diciembre de 2024 y de 2023, la Financiera tiene una red de 114 agencias distribuidas 
+en la ciudad de Lima, ciudades del centro, norte y sur del Perú y cuenta además con 10 agencias 
+corresponsales dentro de oficinas del Banco de la Nación a nivel nacional. La cantidad de 
+personal empleado por la Financiera al 31 de diciembre de 2024 es de 2,664 (2,770 al 31 de 
+diciembre de 2023). 
+  
+
+=== PAGINA PDF 16 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+2 
+(c) Aprobación de los estados financieros – 
+Los estados financieros al 31 de diciembre de 2024 han sido aprobados por el Directorio el 30 de 
+enero de 2025 y serán presentados para la aprobación de la Junta General de Accionistas que se 
+efectuarán dentro de los plazos establecidos por Ley. En opinión de la Gerencia, dichos estados 
+financieros serán aprobados por la Junta General de Accionistas sin modificaciones. Los estados 
+financieros al 31 de diciembre de 2023 fueron aprobados por la Junta General Obligatoria Anual 
+de Accionistas del 21 de marzo de 2024. 
+ 
+  2. Bases de preparación de los estados financieros 
+En la preparación y presentación de los estados financieros adjuntos, la Gerencia de la Financiera ha 
+observado el cumplimiento de las normas de la SBS vigentes en el Perú. Los principios y prácticas 
+contables al 31 de diciembre de 2024 no han variado respecto de los principios vigentes al 31 de 
+diciembre de 2023; a excepción de las normas contables detalladas en el literal a), ii) siguiente. 
+ 
+A continuación, se presentan los principales principios contables utilizados en la preparación de estos 
+estados financieros. 
+ 
+(a) Bases de presentación, uso de estimados y cambios contables 
+(i) Bases de presentación y uso de estimados 
+Los estados financieros han sido preparados en soles a partir de los registros de 
+contabilidad de la Financiera y se presentan de acuerdo con las disposiciones legales y los 
+principios de contabilidad autorizados por la SBS vigentes en el Perú al 31 de diciembre de 
+2024 y de 2023, y supletoriamente, cuando no haya norma específica de la SBS, con las 
+Normas Internacionales de Información Financiera – NIIF oficializadas en el Perú a través 
+de las resoluciones emitidas por el Consejo Normativo de Contabilidad (CNC) y vigentes al 
+31 de diciembre de 2024 y de 2023, ver párrafo (s) siguiente. 
+ 
+Los estados financieros han sido preparados de acuerdo con el principio de costo 
+histórico, excepto por los activos financieros disponibles para la venta, los cuales son 
+medidos a valor razonable. 
+ 
+La Financiera prepara y presenta sus estados financieros en soles (S/), que es la moneda 
+del entorno económico principal en el que opera, aquella que influye en las transacciones 
+que realiza y en los servicios que presta, entre otros factores. La información presentada 
+en soles (S/) ha sido redondeada a la unidad en miles (S/000) más cercana, excepto 
+cuando se indica en otra forma. 
+ 
+La preparación de los estados financieros de acuerdo con principios de contabilidad 
+requiere que la Gerencia realice estimaciones que afectan las cifras reportadas de activos 
+y pasivos, de ingresos y gastos y la divulgación de eventos significativos en las notas a los 
+estados financieros. Los estimados y criterios se evalúan continuamente según la 
+experiencia e incluyen supuestos futuros razonables en cada circunstancia. Al ser 
+estimaciones, los resultados finales podrían diferir, sin embargo, en opinión de la 
+Gerencia, las estimaciones y supuestos aplicados no tienen un riesgo significativo de 
+causar un ajuste material a los saldos de los activos y pasivos en el corto plazo. 
+
+=== PAGINA PDF 17 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+3 
+Las estimaciones más significativas en relación a los estados financieros comprenden la 
+provisión por incobrabilidad de cartera de créditos, la valorización de inversiones 
+disponibles para la venta, la estimación de la vida útil y valor recuperable de los 
+inmuebles, mobiliario y equipo e intangibles, la estimación del recupero del impuesto a la 
+renta diferido, la provisión para impuesto a la renta, cuyos criterios contables se 
+describen en esta nota. 
+ 
+(ii) Cambios en políticas contables y nuevos pronunciamientos 
+En virtud de los conflictos sociales que se suscitaron a fines del 2022, el Gobierno 
+Peruano, declaró el 14 de diciembre de 2022 el Estado de Emergencia Nacional por 30 
+días, mediante decreto supremo N°143-2022-PCM. Al respecto, la SBS, el 22 de 
+diciembre de 2022, emitió el Oficio Múltiple Nº54961-2022-SBS, mediante el cual facultó 
+a las entidades financieras a poder realizar reprogramaciones a sus clientes minoristas 
+que se hayan visto afectados por los conflictos sociales del país. Para acceder a estas 
+reprogramaciones el cliente principalmente debía cumplir con las siguientes condiciones: 
+estar clasificado como Normal o CPP, no debe presentar atrasos mayores a 30 días y el 
+plazo reprogramado no puede extenderse por más de dos meses. 
+ 
+El 28 de diciembre de 2022, se emitió la Resolución SBS N°04034-2022, donde se indica 
+que, para efectos de evaluar el deterioro de inversiones disponibles para la venta en 
+instrumentos de deuda, si el descenso total o parcial en el valor razonable en el 
+instrumento representativo de deuda es consecuencia de un incremento en el tipo de 
+interés libre de riesgo, este descenso no debe considerarse para la evaluación de los 
+criterios 6 y 7. 
+ 
+Adicionalmente el 25 de enero de 2023 y 15 de marzo de 2023 emitió los Oficios 
+Múltiples N°3583-2023 y N°12174-2023 respectivamente, mediante los cuales 
+estableció medidas relacionadas a conflictos sociales y las declaratorias de Estado de 
+Emergencia a nivel nacional. Para acceder a estas reprogramaciones, el cliente 
+principalmente debe cumplir con las siguientes condiciones: estar clasificado como Normal 
+o Con Problema Potencial (CPP), no debe presentar atrasos mayores a 30 días y el plazo 
+reprogramado no puede extenderse por más de seis meses.  
+ 
+Este Oficio Múltiple fue derogado por el Oficio Múltiple N°17305-2023 emitido el 14 de abril 
+de 2023 debido a que el Oficio Múltiple N°12174-2023, incluía medidas adicionales, ver (b) 
+siguiente. 
+  
+
+=== PAGINA PDF 18 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+4 
+(b) El 15 de marzo de 2023, la SBS emitió el Oficio Múltiple N°12174-2023, mediante el cual faculta 
+a las entidades del sistema financiero adoptar medidas excepcionales a ser aplicadas a los 
+créditos de deudores minoristas. Las entidades financieras podrán modificar las condiciones 
+contractuales de los créditos minoristas, sin que esto constituya una refinanciación ni un 
+deterioro en la calificación crediticia de los deudores, en la medida que cumplan las siguientes 
+condiciones: 
+ 
+1. La operación deberá cumplir al menos una de las siguientes condiciones:  
+- Al cierre del mes anterior a la declaratoria de Estado de Emergencia, los deudores 
+se hayan encontrado clasificados en la empresa como Normal o Con Problemas 
+Potenciales (CPP) y con un atraso no mayor a 30 días calendario. 
+- Que presenten un atraso no mayor a 30 días calendario a la fecha de 
+reprogramación. 
+ 
+2. El plazo total de los referidos créditos no se extienda por más de seis meses 
+ del plazo original. 
+ 
+3. Las operaciones de crédito que hayan sido objeto de una reprogramación previa cuenten 
+con el pago de al menos una cuota que incluya capital e intereses en los últimos seis 
+meses previos a la fecha de la reprogramación. Este criterio también se aplicará a aquellas 
+operaciones con periodos de pago distintas a las mensuales. 
+ 
+4. En el caso de modificaciones contractuales unilaterales de créditos revolventes por 
+tarjetas de crédito sin previo aviso, proceden aquellas que consideren el íntegro de la 
+deuda en un nuevo cronograma. En el caso de modificaciones contractuales de tarjeta de 
+crédito mediante acuerdo con el cliente (individuales), se podrían ofrecer a los clientes, 
+alternativas de extensión o períodos de gracia para el pago mínimo, a fin de que estos 
+tengan la posibilidad de seleccionar la opción que consideren más favorable.  
+ 
+5. Las reprogramaciones en el marco del presente Oficio podrán aplicarse a los créditos 
+refinanciados, siempre que cumplan con las condiciones antes mencionadas. 
+ 
+Al 31 de diciembre de 2024 el saldo de créditos reprogramados relacionados a los 
+conflictos sociales, por declaratoria de Estado de Emergencia asciende a 
+aproximadamente a S/5 millones. 
+ 
+(c) Instrumentos financieros - 
+Los instrumentos financieros se definen como cualquier contrato que da lugar, simultáneamente, 
+a un activo financiero en una empresa y a un pasivo financiero o a un instrumento de capital en 
+otra empresa. 
+ 
+  
+
+=== PAGINA PDF 19 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+Los instrumentos financieros se reconocen en la fecha en que son originados y se clasifican en 
+activos, pasivos o patrimonio según la sustancia del acuerdo contractual que les dio origen. Los 
+intereses, los dividendos, las ganancias y las pérdidas generadas por un instrumento financiero 
+clasificado como activo o pasivo se registran como ingresos o gastos. Los pagos a los tenedores 
+de los instrumentos financieros registrados como patrimonio se registran directamente en el 
+patrimonio. 
+ 
+La Financiera clasifica sus instrumentos financieros en una de las categorías definidas por la NIC 
+39 según lo establecido en la Resolución SBS Nº 7033-2012: (i) préstamos y cuentas por cobrar, 
+(ii) inversiones disponibles para la venta y (iii) otros pasivos financieros. La Financiera determina 
+la clasificación de los instrumentos financieros en el momento del reconocimiento inicial y sobre 
+la base de instrumento por instrumento. La clasificación de los instrumentos financieros en su 
+reconocimiento inicial depende de la finalidad e intención de la Gerencia para la que los 
+instrumentos financieros fueron adquiridos y sus características. Todos los instrumentos 
+financieros son reconocidos inicialmente a su valor razonable más los costos incrementales 
+relacionados a la transacción que sean atribuibles directamente a la compra o emisión del 
+instrumento, excepto en el caso de los activos o pasivos financieros llevados a valor razonable 
+con cambios en resultados. 
+ 
+Las compras o ventas de activos financieros que requieren la entrega de los activos dentro de un 
+plazo establecido de acuerdo a regulaciones o convenciones en el mercado (plazos regulares de 
+mercado) son reconocidas a la fecha de contratación. 
+ 
+Baja de activos y pasivos financieros: 
+(i) Activos financieros 
+Un activo financiero (o cuando sea aplicable, una parte de un activo financiero o una parte 
+de un grupo de activos financieros similares) es dado de baja cuando: (i) los derechos de 
+recibir flujos de efectivo del activo han terminado; o (ii) la Financiera ha transferido sus 
+derechos a recibir flujos de efectivo del activo o ha asumido una obligación de pagar la 
+totalidad de los flujos de efectivo recibidos inmediatamente a una tercera parte bajo un 
+acuerdo de traspaso; y (iii) la Financiera ha transferido sustancialmente todos los riesgos 
+y beneficios del activo o, de no haber transferido ni retenido sustancialmente todos los 
+riesgos y beneficios del activo, se ha transferido su control. 
+ 
+(ii) Pasivos financieros 
+Un pasivo financiero es dado de baja cuando la obligación de pago se termina, se cancela o 
+expira. Cuando un pasivo financiero existente es reemplazado por otro del mismo 
+prestatario en condiciones significativamente diferentes, o las condiciones son 
+modificadas en forma importante, dicho reemplazo o modificación se trata como una baja 
+del pasivo original y se reconoce un nuevo pasivo, reconociéndose la diferencia entre 
+ambos en los resultados del período. 
+ 
+Deterioro de activos financieros: 
+La Financiera evalúa al final de cada período la existencia objetiva que conllevan a concluir el 
+deterioro de un activo o un grupo de activos financieros. 
+
+=== PAGINA PDF 20 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+Un activo financiero o un grupo de activos financieros se consideran afectados si, y solo si, existe 
+evidencia objetiva de deterioro como resultado de uno o más eventos que han ocurrido después 
+del reconocimiento inicial del activo (“evento de pérdida”) y si dicho evento de pérdida tiene un 
+impacto en el flujo de efectivo futuros estimados del activo financiero o del grupo de activos 
+financieros, que se pueda estimar de manera fiable. La evidencia de deterioro puede incluir 
+indicios de dificultades financieras significativas de los prestatarios o grupo de prestatarios, 
+incumplimiento o retrasos en los pagos de intereses o principal, probabilidad de reestructuración 
+o quiebra de la empresa u otro proceso de reorganización legal financiera en la que se demuestre 
+que existirá una reducción en los flujos futuros estimados, como cambios en circunstancias o 
+condiciones económicas que tienen correlación en incumplimientos de pago. 
+ 
+Compensación de instrumentos financieros: 
+Los activos y pasivos financieros se compensan y el monto neto se presenta en el estado de 
+situación financiera, cuando se tiene el derecho legal de compensarlos y la Gerencia tiene la 
+intención de cancelarlos sobre una base neta o de realizar el activo y cancelar el pasivo 
+simultáneamente. 
+ 
+Los activos y pasivos financieros presentados en el estado de situación financiera corresponden 
+principalmente a los fondos disponibles, las inversiones disponibles para la venta, la cartera de 
+créditos, neto, obligaciones con el público y depósitos de empresas del sistema financiero, 
+adeudos y obligaciones financieras, cuentas por pagar y provisiones. Asimismo, se consideran las 
+operaciones en trámite, incluidos tanto en otros activos y otros pasivos, excepto cuando se 
+indique de otra forma en la nota correspondiente del activo o pasivo. Asimismo, se consideran 
+instrumentos financieros los créditos indirectos. Las políticas contables sobre el reconocimiento 
+y la valuación de estas partidas se describen en las respectivas políticas contables descritas en 
+esta nota. 
+ 
+Al 31 de diciembre de 2024 y de 2023, la clasificación por categoría de los activos y pasivos 
+financieros de la Financiera es como sigue: 
+ 
+ Préstamos y 
+partidas por 
+cobrar 
+Disponible para 
+la venta a valor 
+razonable 
+ 
+Otros pasivos 
+financieros 
+ S/(000) S/(000) S/(000) 
+    
+2024    
+Activos financieros -    
+Disponible 312,240 - - 
+Inversiones disponibles para la venta  - 68,419 - 
+Cartera de créditos, neto 2,192,236 - - 
+Cuentas por cobrar 4,241 - - 
+Otros activos 2,016 - -  ___________ ___________ ___________     
+ 2,510,733 68,419 -  ___________ ___________ ___________ 
+    
+    
+
+=== PAGINA PDF 21 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+ Préstamos y 
+partidas por 
+cobrar 
+Disponible para 
+la venta a valor 
+razonable 
+ 
+Otros pasivos 
+financieros 
+ S/(000) S/(000) S/(000) 
+    
+Pasivos financieros -    
+Obligaciones con el público y depósitos de 
+empresas - - 1,643,292 
+Adeudos y obligaciones financieras  - - 541,355 
+Cuentas por pagar (*) - - 26,053 
+Otros pasivos - - 5,375  ___________ ___________ ___________     
+ - - 2,216,075  ___________ ___________ ___________ 
+ 
+(*)  Incluye cuentas por pagar diversas, por dividendos, participaciones y remuneraciones por pagar y las 
+cuentas por pagar a proveedores.  
+ 
+ Préstamos y 
+partidas por 
+cobrar 
+Disponible para 
+la venta a valor 
+razonable 
+ 
+Otros pasivos 
+financieros 
+ S/(000) S/(000) S/(000) 
+    
+2023    
+Activos financieros -    
+Disponible 284,409 - - 
+Inversiones disponibles para la venta  78,302 - 
+Cartera de créditos, neto 2,198,479 - - 
+Cuentas por cobrar 8,058 - - 
+Otros activos 424 - -  ___________ ___________ ___________     
+ 2,491,370 78,302 -  ___________ ___________ ___________ 
+    
+Pasivos financieros -    
+Obligaciones con el público y depósitos de 
+empresas - - 1,518,293 
+Adeudos y obligaciones financieras  - - 698,875 
+Cuentas por pagar (*) - - 33,353 
+Otros pasivos - - 3,606  ___________ ___________ ___________  -   
+ - - 2,254,127  ___________ ___________ ___________ 
+ 
+(*)  Incluye cuentas por pagar diversas , por dividendos, participaciones y remuneraciones por pagar y las 
+cuentas por pagar a proveedores. 
+ 
+(d) Inversiones - 
+Los criterios para el reconocimiento inicial y valorización de las inversiones de la Financiera se 
+aplican de acuerdo con lo establecido por la Resolución SBS N° 7033-2012, SBS N°2610-2018, 
+SBS N°04034-2022 y sus respectivas modificatorias. 
+
+=== PAGINA PDF 22 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+8 
+Las transacciones con instrumentos de inversión se registran contablemente usando la 
+metodología de la fecha de negociación, que es la fecha en la que se asumen las obligaciones 
+recíprocas a consumarse dentro de los plazos regulados y usos de mercado. 
+ 
+La Financiera sólo presenta inversiones clasificadas en la siguiente categoría: 
+ 
+(i) Inversiones disponibles para la venta - 
+Son aquellas designadas como tales debido a que se mantienen por un tiempo indefinido y 
+pueden ser vendidas debido a necesidades de liquidez o cambios en la tasa de interés, 
+tipos de cambio o en el precio de capital; o no califican para ser registradas como a valor 
+razonable con efecto en resultados o mantenidas hasta su vencimiento. 
+ 
+Las inversiones disponibles para la venta se miden inicialmente a valor razonable, 
+incluyendo los costos de la transacción que sean directamente atribuibles a la adquisición 
+de dichas inversiones. Estas son posteriormente medidas también a valor razonable y la 
+ganancia o pérdida originada por la variación entre el registro contable inicial y su valor 
+razonable se reconoce directamente en el patrimonio, a menos que exista un deterioro 
+permanente en su valor.  Cuando el instrumento es vendido o realizado, la ganancia o 
+pérdida, previamente reconocida como parte del patrimonio, se transfiere a los resultados 
+del ejercicio. 
+ 
+En el caso de los instrumentos representativos de deuda, previamente a la valorización a 
+valor razonable, se actualiza contablemente el costo amortizado aplicando la metodología 
+de la tasa de interés efectiva, y a partir del costo amortizado obtenido se reconocen las 
+ganancias o pérdidas por la variación en el valor razonable. 
+ 
+Los instrumentos de inversión mantenidos por las empresas pueden ser objeto de 
+reclasificación a otra categoría. Si se trata de instrumentos de inversión a valor razonable 
+con cambios en los resultados no pueden ser reclasificados, excepto (1) para las acciones 
+de capital no cotizado, que carecen de estimaciones fiables del valor razonable o (2) 
+cuando se da en garantía o se transfiere a través de un acuerdo de recompra tal como se 
+señaló anteriormente. 
+ 
+Durante el 2024 y 2023, la Financiera no ha reclasificado sus instrumentos de inversión a 
+otras categorías. 
+ 
+  
+
+=== PAGINA PDF 23 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+9 
+Deterioro de inversiones financieras: 
+La Resolución SBS N° 7033-2012, Resolución SBS N° 04034-2022 y sus respectivas 
+modificatorias, así como en la Resolución SBS N° 2610-2018, establecen una metodología 
+estándar para la identificación del deterioro de valor de inversiones disponibles para la 
+venta.  Dicha metodología es aplicada trimestralmente a todos los instrumentos 
+representativos de deuda y capital de la siguiente manera: 
+ 
+(i) Instrumentos de deuda: 
+Se debe evaluar la ocurrencia de las siguientes situaciones: 
+ 
+1. Debilitamiento en la situación financiera o ratios financieros del emisor y de 
+su grupo económico.  
+2. Rebaja en cualquiera de las clasificaciones crediticias del instrumento o del 
+emisor, en al menos dos (02) “notches”, desde el momento que se adquirió 
+el instrumento; donde un “notch” corresponde a la diferencia mínima entre 
+dos calificaciones de riesgo dentro de una misma escala de calificación. 
+3. Interrupción de transacciones o de un mercado activo para el activo 
+financiero, debido a dificultades financieras del emisor.  
+4. Los datos observables indican que, desde su reconocimiento inicial de un 
+grupo de activos financieros con características similares al instrumento 
+evaluado, existe una disminución medible en sus flujos futuros estimados de 
+efectivo, aunque no pueda todavía identificársela con activos financieros 
+individuales del grupo.  
+5. Disminución del valor por cambios normativos (impositivos, regulatorios u 
+otros gubernamentales).  
+6. Disminución significativa del valor razonable por debajo de su costo 
+amortizado. Se considera como una disminución significativa si el valor 
+razonable a la fecha de cierre ha disminuido por lo menos 40% por debajo de 
+su costo amortizado a dicha fecha.  
+7. Disminución prolongada en el valor razonable. Se considera como una 
+disminución prolongada si el valor razonable a la fecha de cierre ha 
+disminuido por lo menos 20% en comparación con el costo amortizado de 
+doce (12) meses atrás y, el valor razonable a la fecha de cierre de cada mes 
+durante el periodo de doce (12) meses previos, se ha mantenido siempre 
+por debajo del costo amortizado correspondiente a la fecha de cierre de 
+cada mes. 
+ 
+El valor razonable a utilizar a efectos de evaluar los criterios 6 y 7 es aquel 
+considerado para efectos de la valorización de los instrumentos de deuda 
+disponibles para la venta, de acuerdo a los criterios establecidos por la indicada 
+Resolución, independientemente de la clasificación contable que tenga el 
+instrumento de deuda. Sin embargo, si el descenso en el valor razonable en el 
+instrumento representativo de deuda es consecuencia íntegramente de un 
+incremento en el tipo de interés libre de riesgo, este descenso no debe 
+considerarse como indicio de deterioro. 
+
+=== PAGINA PDF 24 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+10 
+En caso se cumplan por lo menos dos de las situaciones anteriormente descritas, se 
+considerará que existe deterioro y, por consiguiente, la Financiera deberá 
+determinar el importe de cualquier pérdida por deterioro de valor. 
+ 
+En caso no se hayan dado por lo menos dos (2) de las situaciones arriba descritas, 
+bastara con que se presente alguna de las siguientes situaciones específicas para 
+considerar que existe deterioro: 
+ 
+(a) Incumplimiento de las cláusulas contractuales, tales como la interrupción en 
+el pago de intereses o capital.  
+(b) Renegociación de las condiciones contractuales del instrumento por 
+factores legales o problemas financieros vinculados al emisor.  
+(c) Evidencia que el emisor está en proceso de reestructuración forzosa o 
+quiebra.  
+(d) Cuando se reduzca la clasificación de riesgo de un instrumento que estaba 
+clasificado como grado de inversión, hacia una clasificación que resulte por 
+debajo del grado de inversión.  
+ 
+(ii) Instrumento de capital: 
+Se debe evaluar la ocurrencia de las siguientes situaciones: 
+ 
+1. Cuando se reduzca la clasificación de riesgo de algún instrumento de deuda 
+del emisor que estaba clasificado como grado de inversión, hacia una 
+clasificación que resulte por debajo del grado de inversión.  
+2. Se han producido cambios significativos en el entorno tecnológico, de 
+mercado, económico o legal en que opera el emisor, que pueden tener 
+efectos adversos en la recuperación de la inversión.  
+3. Debilitamiento en la situación o ratios financieros del emisor y de su grupo 
+económico.  
+4. Interrupción de transacciones o de un mercado activo para el activo 
+financiero, debido a dificultades financieras del emisor.  
+5. Los datos observables indican que, desde su reconocimiento inicial de un 
+grupo de activos financieros similares al instrumento evaluado, existe una 
+disminución medible en sus flujos futuros estimados de efectivo, aunque no 
+pueda todavía identificársela con activos financieros individuales del grupo.  
+6. Disminución del valor por cambios normativos (impositivos, regulatorios u 
+otros gubernamentales).  
+7. En caso se cumplan por lo menos dos (2) de las situaciones anteriormente 
+descritas, se considerará que existe deterioro de valor. En caso no se hayan 
+dado por lo menos dos (2) de las situaciones arriba descritas, bastará con 
+que se presente alguna de las siguientes situaciones específicas para 
+considerar que existe deterioro:  
+ 
+(a) Disminución significativa del valor razonable por debajo de su costo 
+de adquisición. Se considera como una disminución significativa si el 
+
+=== PAGINA PDF 25 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+11 
+valor razonable a la fecha de cierre ha disminuido por lo menos 40% 
+por debajo de su costo. Como valor costo o costo de adquisición, 
+siempre se tomará como referencia el costo inicial, 
+independientemente que se haya reconocido previamente un 
+deterioro de valor para el instrumento de capital analizado.  
+(b) Disminución prolongada en el valor razonable. Se considera como 
+una disminución prolongada si el valor razonable a la fecha de cierre 
+ha disminuido por lo menos 20% en comparación con el valor 
+razonable de doce (12) meses atrás y, el valor razonable a la fecha 
+de cierre de cada mes durante el periodo de doce (12) meses previos, 
+se ha mantenido siempre por debajo del costo de adquisición.  
+(c) Incumplimiento de las disposiciones estatutarias por parte del 
+emisor, relacionadas al pago de dividendos.  
+(d) Evidencia de que el emisor está en proceso de reestructuración 
+forzosa o quiebra.  
+ 
+El valor razonable a utilizar a efectos de evaluar las situaciones señaladas en los 
+numerales a) y b), es el valor razonable considerado para efectos de la valorización de los 
+instrumentos de capital disponibles para la venta, de acuerdo a lineamientos establecidos 
+en la indicada Resolución. Los citados numerales a) y b) no son aplicables a los 
+instrumentos de capital clasificados en la categoría disponible para la venta y valorizado al 
+costo por la ausencia de un valor razonable confiable.  
+ 
+Por otro lado, si la SBS considera que es necesario constituir alguna provisión adicional 
+para cualquier tipo de inversión, dicha provisión será determinada en base a cada título 
+individual y deberá ser registrada en el resultado del ejercicio en que la SBS solicite dicha 
+provisión. 
+ 
+En caso una empresa desee aplicar una metodología de identificación del deterioro de 
+valor más sofisticada y distinta a la metodología descrita anteriormente, deberá solicitar 
+autorización a la SBS, a través del “Informe de sustento de la metodología interna de 
+identificación del deterioro de valor”, en el cual deberá detallar como mínimo los criterios 
+cualitativos y cuantitativos para la identificación del deterioro de valor, el sustento de la 
+elección de cada criterio, las fuentes de información para la obtención de dichos criterios, 
+las razones por las que se considera que la metodología propuesta identificará de manera 
+más precisa el deterioro de valor y otros aspectos relevantes. 
+ 
+Una vez que se reconozca una pérdida por deterioro de valor, las posteriores evaluaciones 
+se deberán efectuar sobre el valor en libros de los instrumentos neto de las pérdidas por 
+deterioro de valor reconocidas anteriormente. 
+ 
+  
+
+=== PAGINA PDF 26 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+12 
+En el caso de los instrumentos de capital no negociados en un mercado activo, medidos al 
+costo, la pérdida por deterioro se reconocerá en el resultado del ejercicio. La pérdida por 
+deterioro será igual a la diferencia entre su valor en libros y el valor actual de los flujos de 
+caja futuros esperados, actualizados a la tasa de rentabilidad de mercado para otros 
+valores similares. En la estimación del deterioro, se deberá tomar en consideración que el 
+valor en libros de la inversión no deberá ser mayor a la participación proporcional en el 
+patrimonio de la participada. 
+ 
+Durante el 2024 y 2023, la Financiera no ha reconocido pérdida por deterioro sobre sus 
+instrumentos de inversión. 
+ 
+(e) Cartera de créditos y provisión para la incobrabilidad de la cartera de créditos - 
+Los créditos directos se registran cuando se realiza el desembolso de los fondos a favor de los 
+clientes. Los créditos indirectos (contingentes) se registran cuando se emiten los documentos 
+que soportan dichas facilidades de crédito y podrían llegar a ser créditos directos en caso se 
+realice un pago a terceras partes. Asimismo, se considera como refinanciación o 
+reestructuración, a cualquier crédito directo el cual se producen variaciones de plazo sobre el 
+contrato originado debido a dificultades en capacidad de pago por parte del deudor. 
+ 
+La Financiera realiza en forma permanente la evaluación y clasificación de la cartera de créditos, 
+asignando a cada deudor la categoría de riesgo que le corresponda de acuerdo con los 
+lineamientos establecidos por la SBS. 
+ 
+Clasificación de créditos: 
+De acuerdo con la Resolución SBS N° 11356-2008 y sus modificatorias, la Financiera clasifica su 
+cartera de créditos en créditos corporativos, créditos a grandes empresas, créditos a medianas 
+empresas, créditos a pequeñas empresas, créditos a microempresas (MES), créditos de consumo 
+revolvente, créditos de consumo no revolvente y créditos hipotecarios para vivienda. Estas 
+clasificaciones toman en consideración, la naturaleza del cliente (persona natural o persona 
+jurídica), el propósito del crédito, el tamaño de los negocios medidos por los ingresos, el 
+endeudamiento, entre otros indicadores. 
+ 
+Categoría de clasificación por riesgo crediticio: 
+Las categorías de clasificación del deudor establecidas por la SBS son las siguientes: normal, con 
+problema potencial, deficiente, dudoso y pérdida, las cuales son asignadas de acuerdo al 
+comportamiento crediticio del deudor. 
+ 
+Para la cartera no minorista, se tiene en cuenta principalmente, la capacidad de pago del deudor, 
+su flujo de caja, el grado de cumplimiento de sus obligaciones, las clasificaciones asignadas por 
+las demás empresas del sistema financiero, la situación financiera y la calidad de la dirección de 
+la empresa. Para la cartera minorista, la clasificación se determina principalmente tomando en 
+cuenta su capacidad de pago en función del grado de cumplimiento de pago de sus créditos 
+reflejado en el número de los días de atraso, y en su clasificación en las otras empresas del 
+sistema financiero, en caso de aplicación del alineamiento. 
+ 
+
+=== PAGINA PDF 27 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+13 
+Exigencia de provisiones por incobrabilidad: 
+De acuerdo con las normas vigentes emitidas por la SBS, la Financiera considera dos clases de 
+provisiones para la cartera de créditos: provisiones genéricas y específicas. La provisión genérica 
+se registra de manera preventiva sobre deudores clasificados en categoría normal según 
+requerimientos de la SBS la cual es calculada sobre sus créditos directos, la exposición 
+equivalente al riesgo crediticio de los créditos indirectos y, adicionalmente, se considera un 
+componente procíclico cuando la SBS indica su aplicación. Las provisiones específicas son 
+aquellas que se constituyen sobre los créditos directos y la exposición equivalente a riesgo 
+crediticio de los créditos indirectos de deudores identificados con un riesgo superior al Normal. 
+ 
+La exposición equivalente a riesgo crediticio de los créditos indirectos es determinada sobre la 
+base de los créditos indirectos multiplicados por los diferentes tipos de Factores de Conversión 
+Crediticios (FCC), detallados a continuación. 
+ 
+  
+Créditos indirectos 
+Factor de 
+conversión 
+  % 
+(i) Confirmaciones de cartas de crédito irrevocables de hasta 
+un año cuando el banco emisor sea una empresa del 
+sistema financiero del exterior de primer nivel.  
+ 
+ 
+20 
+(ii) Los avales, cartas de crédito de importación , cartas fianza 
+que respalden el cumplimiento de obligaciones de pago 
+asociadas a eventos de riesgo de crédito , y las 
+confirmaciones de cartas de crédito no incluidas en el 
+literal (i); así como las aceptaciones bancarias . 
+ 
+ 
+100 
+(iii) Las cartas fianzas no incluidas en el literal (ii) . 50 
+(iv) Créditos concedidos no desembolsados y líneas de crédito 
+no utilizadas y otros créditos indirectos no contemplados 
+en los literales anteriores. - 
+ 
+  
+
+=== PAGINA PDF 28 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+14 
+Al 31 de diciembre de 2024 y de 2023, las provisiones son determinadas en cumplimiento a lo 
+dispuesto por la SBS en su Resolución SBS N° 11356-2008. Los porcentajes que se aplican se 
+muestran a continuación: 
+ 
+Categoría de riesgo Sin garantía 
+Con garantía 
+preferida 
+Con 
+garantías 
+preferidas de 
+muy rápida 
+realización 
+Con garantías 
+preferidas de 
+autoliquidable 
+ % % % % 
+Normal -      
+Créditos a grandes empresas  0.70 0.70 0.70 0.70 
+Créditos a medianas empresas  1.00 1.00 1.00 1.00 
+Créditos a pequeñas empresas 1.00 1.00 1.00 1.00 
+Créditos MES 1.00 1.00 1.00 1.00 
+Créditos de consumo (*) 1.00 1.00 1.00 1.00 
+Créditos hipotecarios para 
+vivienda 0.70 0.70 0.70 0.70 
+Con Problemas Potenciales 5.00 2.50 1.25 1.00 
+Deficiente 25.00 12.50 6.25 1.00 
+Dudoso 60.00 30.00 15.00 1.00 
+Pérdida 100.00 60.00 30.00 1.00 
+ 
+(*) Incluye créditos de consumo revolvente y no revolvente.  
+ 
+De conformidad con las normas vigentes, la deuda minorista es clasificada y provisionada de 
+acuerdo con el número de días de atraso y considera la calificación de dichos deudores en otras 
+entidades del sistema financiero. La cartera no minorista es evaluada mensualmente de acuerdo 
+a los criterios establecidos por el ente regulador. Adicionalmente, en cumplimiento de la 
+Resolución SBS N° 041-2005 “Reglamento para la administración del riesgo cambiario 
+crediticio”, la Financiera evalúa la exposición al riesgo cambiario crediticio para los créditos en 
+moneda extranjera, siendo esta mínima con una participación del 0.01% al cierre de diciembre 
+2022. 
+ 
+Componente procíclico: 
+El registro de la provisión procíclica es necesario para la cartera de créditos en la categoría de 
+riesgo normal. Este representa un componente adicional a la tasa de provisión genérica antes 
+señalada y su registro se realizará a condición de que la "regla procíclica" sea activada. 
+ 
+  
+
+=== PAGINA PDF 29 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+15 
+En diciembre del 2021 se emitió la Resolución SBS 3718 – 2021 que modifica el Anexo 1 
+(Régimen General de Provisiones Procíclicas) de la Resolución SBS Nº 11356. Las tasas mínimas 
+del componente procíclico para cada tipo de crédito son las siguientes: 
+ 
+Tipo de crédito 
+Componente 
+procíclico 
+ % 
+Créditos corporativos 0.10 
+Créditos a grandes empresas  0.40 
+Créditos a medianas empresas  0.60 
+Créditos a pequeñas empresas 1.00 
+Créditos a microempresas  1.00 
+Créditos de consumo revolvente  1.50 
+Créditos de consumo no revolvente 1.00 
+Créditos hipotecarios de vivienda  0.40 
+ 
+En caso los créditos cuenten con garantías preferidas autoliquidables, el componente procíclico 
+será de cero por ciento por la porción cubierta con dichas garantías. 
+ 
+La SBS tiene la facultad de activar o desactivar la aplicación del componente procíclico 
+básicamente si el nivel del promedio porcentual anualizado del Producto Bruto Interno (PBI) se 
+encuentra por encima o por debajo del 5 por ciento, respectivamente.  
+ 
+Asimismo, existen otras condiciones de activación o desactivación que se encuentran 
+establecidas en el Anexo I de la Resolución N° 11356-2008. La aplicación de esta regla estuvo 
+activa entre diciembre de 2008 y agosto de 2009 y entre septiembre de 2010 y octubre de 
+2014. A partir de noviembre 2014 se encuentra desactivada. 
+ 
+La SBS ha establecido que durante el período en que esta regla es desactivada, las entidades 
+financieras no pueden, en ningún caso, generar utilidades por la reversión de provisiones 
+procíclicas; las cuales sólo pueden ser reasignadas para constituir provisiones obligatorias.  
+Las provisiones para los créditos directos se presentan deduciendo el saldo del correspondiente 
+activo (nota 6), mientras que las provisiones para créditos indirectos se presentan en el rubro 
+provisiones (nota 14). 
+ 
+La clasificación de la cartera de créditos directos por categorías de riesgo efectuada por la 
+División de Riesgo de Crédito y Liquidez sigue las normas vigentes emitidas por la SBS mediante 
+la Resolución SBS Nº11356 – 2008 y sus modificatorias.  
+ 
+Componente Específico Adicional COVID 19: 
+Con fecha 24 de diciembre de 2021, la SBS emitió la Resolución N°3922-2020 en la cual 
+establece una nueva exigencia de provisiones específicas para créditos reprogramados que se 
+encuentren registrados en el rubro 810937 “Créditos Reprogramados Estado de Emergencia 
+Sanitaria” tanto sobre el capital y los intereses de dichos créditos, siempre que cumplan los 
+requisitos establecidos en dicha Resolución, estableciendo los siguientes lineamientos: 
+
+=== PAGINA PDF 30 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+16 
+- Los créditos reprogramados de consumo, microempresa, pequeña empresa y mediana 
+empresa, cuyos deudores tengan clasificación Normal, son considerados deudores con 
+riesgo crediticio superior a Normal, correspondiéndoles el nivel de riesgo de crédito Con 
+Problemas Potenciales (CPP). A estos créditos se le aplica provisiones específicas 
+correspondientes a la categoría CPP. Sin embargo, tratándose de deudores con 
+clasificación Normal y CPP que no hayan efectuado el pago de al menos una cuota 
+completa que incluya capital en los últimos seis meses al cierre de la información contable, 
+les corresponde el nivel de riesgo de crédito Deficiente. Asimismo, en caso de deudores 
+con clasificación Normal, CPP y Deficiente que no hayan efectuado el pago de al menos 
+una cuota completa que incluya capital en los últimos doce meses, les corresponde el nivel 
+de riesgo de crédito Dudoso. 
+ 
+- A los intereses devengados por cobrar de los créditos reprogramados mencionados en el 
+párrafo anterior, que se encuentren en situación contable de vigente, en los que el deudor 
+no haya efectuado el pago de al menos una cuota completa, que incluya capital, en los 
+últimos seis meses al cierre de la información contable, se les aplicará un requerimiento 
+de provisiones correspondiente a la categoría de riesgo Deficiente. Sin embargo, 
+tratándose de deudores que no hayan efectuado el pago de al menos una cuota completa 
+que incluya capital en los últimos seis meses al cierre de la información contable, a dichos 
+intereses devengados se les aplicará un requerimiento de provisiones específicas 
+correspondientes a la categoría de riesgo de crédito Pérdida. La determinación de los 
+intereses se realiza sobre la base de la información al cierre del mes de la fecha de 
+reporte. 
+ 
+Para el cálculo de las provisiones sobre capital e intereses requeridas deberán ser calculadas 
+respecto a los saldos de capital e intereses al cierre del mes de la fecha de reporte. 
+ 
+Estas consideraciones no modifican la clasificación del deudor. Asimismo, establece que los 
+intereses devengados no cobrados a la fecha de la reprogramación, reconocidos como ingresos, 
+que se capitalicen por efecto de la reprogramación, deben extornarse y, registrarse como 
+ingresos diferidos, contabilizándose como ingresos en base al nuevo plazo del crédito y conforme 
+se vayan cancelando las respectivas cuotas. 
+ 
+Las empresas no podrán, en ningún caso, generar utilidades o generar mejores resultados por la 
+reversión de estas provisiones, debiendo reasignarlas para la constitución de provisiones 
+específicas obligatorias. 
+ 
+Esta Resolución no aplica a créditos agropecuarios con pagos con frecuencia menor a mensual o 
+créditos bajo algún programa del gobierno. 
+ 
+  
+
+=== PAGINA PDF 31 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+17 
+(f) Inmueble, mobiliario y equipo - 
+Los inmuebles, mobiliario y equipo se registran al costo histórico de adquisición, menos su 
+depreciación acumulada, y pérdidas por deterioro acumuladas, si las hubiera. Los desembolsos 
+posteriores adquisición de los elementos componentes de los inmuebles, mobiliario y equipo sólo 
+se reconocen como activo cuando es probable que beneficios económicos futuros asociados con 
+el activo se generen para la Financiera, y el costo de estos activos pueda ser medido 
+razonablemente. Los desembolsos para mantenimiento y reparaciones se reconocen como gasto 
+del período en el que son incurridos. Cuando un activo fijo se vende o es retirado del uso, su 
+costo y depreciación acumulada se eliminan y la ganancia o pérdida resultante de la venta se 
+reconoce en el estado de resultados. 
+ 
+Los terrenos no se deprecian. La depreciación es calculada por el método de línea recta, 
+considerando las siguientes vidas útiles estimadas: 
+ 
+ Años 
+  
+Edificios 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos diversos 10 
+Unidades de transporte 5 
+Equipo de cómputo 4 
+Mejoras en propiedades alquiladas (según plazo de contrato)  1 - 10 
+ 
+El costo y la depreciación acumulada de los bienes retirados o vendidos se eliminan de las 
+cuentas respectivas y la utilidad o pérdida resultante se afecta a los resultados del período en 
+que se produce. 
+ 
+La vida útil y el método de depreciación son revisados a forma periódica por la Gerencia sobre la 
+base de los beneficios económicos previstos para los componentes de inmuebles, mobiliario y 
+equipo. 
+ 
+(g) Bienes realizables, recibidos en pago y adjudicados - 
+Los bienes realizables, recibidos en pago y adjudicados por la Financiera como pago total o 
+parcial de deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en el 
+contrato de dación en pago y están incluidos en el rubro “Otros activos” del estado de situación 
+financiera. 
+ 
+  
+
+=== PAGINA PDF 32 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+18 
+Asimismo, de acuerdo con la Resolución SBS N° 1535-2005 “Reglamento para el tratamiento de 
+bienes adjudicados y recuperados y sus provisiones” y sus modificatorias, la Financiera debe 
+constituir las siguientes provisiones. 
+ 
+- Los bienes recibidos en pago y adjudicados se registran inicialmente al costo en libros 
+reconociéndose a su vez una provisión equivalente al 20% del costo. En caso el valor neto 
+de realización reflejado en el informe de valuación demuestre que el bien se ha 
+desvalorizado en un porcentaje mayor al 20%, la provisión inicial requerida se constituirá 
+por el monto efectivamente desvalorizado. 
+ 
+- Para la provisión de bienes muebles se constituye mensualmente, a partir del primer mes 
+de la adjudicación o recuperación de los bienes, una provisión mensual a razón de un 
+dieciochoavo (1/18) del costo en libros de los bienes menos la provisión inicial señalada 
+anteriormente. Tratándose de bienes que no hayan sido vendidos o entregados en 
+arrendamiento dentro del plazo de un año y que no cuenten con la prórroga establecida en 
+la Ley General, se deberá completar la provisión hasta alcanzar el 100% del valor de 
+adjudicación o recuperación de dichos bienes menos la provisión por desvalorización, al 
+vencimiento del referido año. 
+ 
+- Los bienes inmuebles que no hayan sido vendidos o entregados en arrendamiento 
+financiero transcurridos un año desde su recuperación o adjudicación deben ser 
+provisionados, constituyendo una provisión mensual uniforme en un plazo de tres y medio 
+años hasta constituir la provisión al 100% sobre el valor neto en libros obtenido el décimo 
+octavo o décimo segundo mes, dependiendo de si cuenta o no con la prórroga aprobada 
+por la SBS, respectivamente. 
+ 
+- Se reconoce deterioro cuando estos bienes sufren un descenso en su valor razonable 
+(cuando el valor neto de realización es menor que el valor neto en libros) por lo que el 
+valor en libros será reducido y la pérdida deberá ser reconocida en el estado de resultados 
+integrales. En caso el valor neto de realización sea mayor al valor neto en libros, no se 
+podrá reconocer contablemente el mayor valor. 
+ 
+La antigüedad de los informes de valuación de los bienes inmuebles no puede ser mayor a un 
+año. 
+ 
+(h) Activos intangibles - 
+Los activos intangibles se registran al costo de adquisición y están presentados netos de 
+amortización acumulada y cualquier pérdida por deterioro. La amortización se reconoce como 
+gasto y se determina siguiendo el método de línea recta en base a la vida útil estimada de los 
+activos y representada por tasas de amortización equivalentes. La vida útil se ha estimado entre 
+un mínimo de 1 y un máximo de 8 años. 
+ 
+  
+
+=== PAGINA PDF 33 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+19 
+Los costos asociados con el desarrollo y mantenimiento de programas de cómputo se reconocen 
+como gasto cuando se incurren. Los costos que se asocian directamente con la producción con 
+programas de cómputo únicos e identificables controlados por la Financiera, y que 
+probablemente generaran beneficios económicos más allá de los costos por más de un año, se 
+reconocen como activos intangibles. Los costos directos incluyen los costos de terceros que 
+desarrollan los programas de cómputo. 
+ 
+La marca y relación con clientes que forman parte de los intangibles identificables registrados de 
+manera separada a la plusvalía producto de la fusión, ver nota 1(a), son de vida útil finita y se 
+amortizó excepcionalmente en un período de 8 años, de acuerdo con aprobación de la SBS en 
+Oficio SBS N° 44875-2013. 
+ 
+Crédito mercantil o plusvalía - 
+La plusvalía producto de la adquisición de los activos y pasivos de la subsidiaria absorbida se 
+reconoció conforme a la NIIF 3 “Combinaciones de Negocios” y correspondió al exceso de las 
+contraprestaciones otorgadas (incluyendo el valor de cualquier participación no controladora y el 
+valor razonable de cualquier participación previa poseída), sobre el valor razonable neto de los 
+activos, pasivos y pasivos contingentes identificables de la subsidiaria, reconocidos a la fecha de 
+adquisición. La plusvalía fue inicialmente reconocida como un activo al costo y se presenta neta 
+de cualquier pérdida por deterioro. La Gerencia de la Financiera analiza el deterioro del valor de 
+la plusvalía por lo menos una vez cada año. 
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida contra la ganancia o 
+pérdida del período en que se produce. Una pérdida por deterioro del valor reconocida en la 
+plusvalía no es revertida en los períodos posteriores. 
+ 
+(i) Desvalorización de activos de larga duración - 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el 
+valor de un activo de larga duración pueda no ser recuperable, la Financiera revisa el valor en 
+libros de estos activos para verificar que no existe ningún deterioro permanente en estos activos. 
+Cuando el valor en libros del activo de larga duración excede su valor recuperable, se reconoce 
+una pérdida por deterioro en el estado de resultados, por un monto equivalente al exceso en 
+libros, neto de sus efectos tributarios. Los importes recuperables se estiman para cada activo, o; 
+si no es posible, para cada unidad generadora de efectivo. 
+ 
+ 
+  
+
+=== PAGINA PDF 34 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+20 
+El valor recuperable de un activo de larga vida o de una unidad generadora de efectivo, es el 
+mayor valor entre su valor razonable menos los costos de venta y su valor en uso. El valor 
+razonable menos los costos de ventas de un activo de larga vida es el importe que se espera 
+obtener al venderlo en un mercado libre, menos los correspondientes costos de ventas, mientras 
+que el valor de uso es el valor presente de la estimación de los flujos de efectivo futuros que se 
+prevé resultara del uso continuo de un activo, así como de su disposición al final de su vida útil. 
+ 
+Una pérdida por deterioro reconocida en años anteriores se extorna si se produce un cambio en 
+los estimados que se utilizaron en la última oportunidad en que se reconoció dicha pérdida. 
+ 
+(j) Adeudos y obligaciones financieras - 
+La medición de los adeudos se efectúa aplicando el modelo del costo amortizado, utilizando el 
+método de la tasa efectiva, según lo establecido en las normas contables vigentes. 
+ 
+Los intereses se reconocen en resultados cuando se devengan. 
+ 
+(k) Beneficios a los empleados - 
+(i) Gratificaciones 
+La Financiera reconoce el gasto por gratificaciones y su correspondiente pasivo sobre las 
+bases de las disposiciones legales vigentes en Perú; las gratificaciones corresponden a dos 
+remuneraciones anuales que se pagan en julio y en diciembre de cada año. 
+ 
+(ii) Compensación por tiempo de servicios 
+La compensación por tiempo de servicios del personal de la Financiera corresponde a sus 
+derechos indemnizatorios calculados de acuerdo con la legislación vigente la que se tiene 
+que depositar en las cuentas bancarias designadas por los trabajadores en los meses de 
+mayo y noviembre de cada año. 
+ 
+La compensación por tiempo de servicios del personal es equivalente a una remuneración 
+vigente a la fecha de su depósito. La Financiera no tiene obligaciones de pago adicionales 
+una vez que efectúa los depósitos anuales de los fondos a los que el trabajador tiene 
+derecho. 
+ 
+(iii) Vacaciones y otros beneficios del personal 
+Las remuneraciones vacacionales anuales resultantes de servicios prestados por los 
+empleados se reconocen a la fecha del estado de situación financiera y sobre la base del 
+devengado. La provisión por la obligación estimada por vacaciones anuales, las ausencias 
+remuneradas y otros beneficios del personal se reconocen a la fecha del estado de 
+situación financiera, de conformidad a las normas vigentes. 
+ 
+(iv) Participación en las utilidades 
+La Financiera reconoce un pasivo y un gasto por participación de los trabajadores en las 
+utilidades, sobre la base del 5% de la base imponible, determinada de acuerdo a la 
+legislación tributaria vigente. 
+ 
+
+=== PAGINA PDF 35 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+21 
+(l) Impuesto a la renta - 
+El gasto por impuesto a la renta incluye el impuesto corriente y el diferido y se reconocen en 
+resultados. 
+ 
+Impuesto corriente 
+El impuesto corriente incluye el impuesto esperado por pagar o por cobrar sobre el ingreso o la 
+pérdida imponible del año y cualquier ajuste al impuesto por pagar o por cobrar relacionado con 
+años anteriores. Se mide usando tasas impositivas que se hayan aprobado, o cuyo proceso de 
+aprobación esté prácticamente terminado a la fecha de reporte. Los activos y pasivos por 
+impuestos corrientes sólo se compensan si se cumplen ciertos criterios. 
+ 
+Impuesto diferido 
+Los impuestos diferidos son reconocidos por las diferencias temporarias existentes entre el valor 
+en libros de los activos y pasivos para propósitos de información financiera y los montos usados 
+para propósitos tributarios. 
+ 
+Los activos y pasivos diferidos se miden utilizando las tasas de impuesto que se espera aplicar a 
+la renta imponible en los años en que estas diferencias se recuperen o eliminen. La medición de 
+los activos y pasivos diferidos refleja las consecuencias tributarias derivadas de la forma en que 
+se espera, a la fecha del estado de situación financiera, recuperar o liquidar el valor de los activos 
+y pasivos. 
+ 
+El activo y pasivo diferido se reconocen sin tomar en cuenta el momento en que se estime que las 
+diferencias temporales se anularán.  Los activos diferidos son reconocidos cuando es probable 
+que existan beneficios tributarios futuros suficientes para que el activo diferido se pueda aplicar.  
+A la fecha del estado de situación financiera, la Gerencia evalúa los activos diferidos no 
+reconocidos y el saldo de los reconocidos; registrando un activo diferido previamente no 
+reconocido en la medida en que sea probable que los beneficios futuros tributarios permitan su 
+recuperabilidad o reduciendo un activo diferido en la medida en que no sea probable que se 
+disponga de beneficios tributarios futuros suficientes para permitir que se utilice parte o todo el 
+activo diferido reconocido contablemente. 
+ 
+Conforme lo establece la NIC 12, la Financiera determina su impuesto a la renta diferido sobre la 
+base de la tasa de impuesto aplicable. 
+ 
+  

@@ -1,0 +1,2855 @@
+
+=== PAGINA PDF 1 ===
+Casa Grande S.A.A.  
+Estados financieros separados al 31 de diciembre de 2020 y de 2019 
+junto con el dictamen de los auditores independientes 
+
+=== PAGINA PDF 2 ===
+ 
+ 
+Casa Grande S.A.A. 
+Estados financieros separados al 31 de diciembre de 2020 y de 2019 
+junto con el dictamen de los auditores independientes  
+Contenido 
+ 
+Dictamen de los auditores independientes 
+ 
+Estados financieros separados 
+ 
+Estado separado de situación financiera 
+Estado separado de resultados integrales 
+Estado separado de cambios en el patrimonio neto 
+Estado separado de flujos de efectivo 
+Notas a los estados financieros separados 
+ 
+  
+
+=== PAGINA PDF 3 ===
+Inscrita en la partida 11396556 del Registro de Personas Jurídicas de Lima y Callao 
+Miembro de Ernst & Young Global 
+Dictamen de los auditores independientes  
+ 
+Paredes, Burga & Asociados  
+Sociedad Civil de Responsabilidad Limitada  
+A los Accionistas y Directores de Casa Grande S.A.A. 
+ 
+Hemos auditado los estados financieros separados adjuntos de Casa Grande S.A.A. (una subsidiaria 
+de Corporación Azucarera del Perú S.A.), los cuales comprenden el estado separado de situación 
+financiera al 31 de diciembre de 2020 y de 2019, y los estados separados de resultados integrales, 
+de cambios en el patrimonio neto y de flujos de efectivo por los años terminados en esas fechas, así 
+como el resumen de políticas contables significativas y otras notas explicativas. 
+ 
+Responsabilidad de la Gerencia con respecto a los estados financieros separados  
+ 
+La Gerencia es responsable de la preparación y presentación razonable de estos estados financieros 
+separados de conformidad con Normas Internacionales de Información Financiera emitidas por el 
+International Accounting Standards Board, y del control interno que la Gerencia determina que es 
+necesario para permitir la preparación de estados financieros separados que estén libres de errores 
+materiales; ya sea debido a fraude o error. 
+  
+Responsabilidad del Auditor  
+ 
+Nuestra responsabilidad consiste en expresar una opinión sobre estos estados financieros 
+separados basada en nuestras auditorías. Nuestras auditorías fueron realizadas de acuerdo con las 
+Normas Internacionales de Auditoría aprobadas para su aplicación en el Perú por la Junta de 
+Decanos de los Colegios de Contadores Públicos del Perú. Tales normas requieren que cumplamos 
+con requerimientos éticos, planifiquemos y realicemos la auditoría para tener una seguridad 
+razonable de que los estados financieros separados están libres de errores materiales. 
+ 
+Una auditoría comprende la aplicación de procedimientos para obtener evidencia de auditoría sobre 
+los importes y la información revelada en los estados financieros separados. Los procedimientos 
+seleccionados dependen del juicio del auditor, incluyendo la evaluación de los riesgos de que existan 
+errores materiales en los estados financieros separados, ya sea debido a fraude o error. Al realizar 
+esta evaluación de riesgos, el auditor toma en consideración el control interno pertinente de la 
+Compañía para la preparación y presentación razonable de los estados financieros separados a fin 
+de diseñar procedimientos de auditoría de acuerdo con las circunstancias, pero no con el propósito 
+de expresar una opinión sobre la efectividad del control interno de la Compañía. Una auditoría 
+también comprende la evaluación de si los principios de contabilidad aplicados son apropiados y si 
+las estimaciones contables realizadas por la Gerencia son razonables, así como una evaluación de la 
+presentación general de los estados financieros separados. 
+ 
+Consideramos que la evidencia de auditoría que hemos obtenido es suficiente y apropiada para 
+proporcionarnos una base para nuestra opinión.   
+
+=== PAGINA PDF 4 ===
+Firma miembro de Ernst & Young Global Limited 
+Dictamen de los auditores independientes (continuación)  
+ 
+Opinión  
+ 
+En nuestra opinión, los estados financieros separados antes indicados, preparados para el propósito 
+indicado en el párrafo siguiente, presentan razonablemente, en todos sus aspectos significativos, la 
+situación financiera de Casa Grande S.A.A. al 31 de diciembre de 2020 y de 2019, su desempeño 
+financiero y sus flujos de efectivo por los años terminados en esas fechas, de conformidad con las 
+Normas Internacionales de Información Financiera emitidas por el International Accounting 
+Standards Board.  
+ 
+Énfasis sobre información separada  
+ 
+Los estados financieros separados de Casa Grande S.A.A. antes indicados, han sido preparados en 
+cumplimiento de requerimientos vigentes en Perú para la presentación de información financiera. 
+Estos estados financieros separados reflejan el valor de su inversión en su subsidiaria bajo el 
+método de participación patrimonial (Nota 2.2 (g)), y no sobre una base consolidada, por lo que se 
+deben leer conjuntamente con los estados financieros consolidados al 31 de diciembre de 2020 y de 
+2019 de Casa Grande S.A.A. y Subsidiaria, que se presentan por separado. 
+ 
+ 
+Lima, Perú 
+22 de febrero de 2021 
+ 
+ 
+Refrendado por: 
+ 
+ 
+ 
+ 
+___________________________ 
+Ricardo Del Aguila 
+C.P.C.C. Matrícula N° 37948 
+ 
+
+=== PAGINA PDF 5 ===
+ 
+Las notas a los estados financieros separados adjuntos son parte integrante de este estado.  
+Casa Grande S.A.A.  
+Estado separado de situación financiera  
+Al 31 de diciembre de 2020 y de 2019 
+ Nota 2020 2019 
+  S/(000) S/(000) 
+    
+Activo    
+Activo corriente        
+Efectivo y equivalente de efectivo 3 112,913 62,034     
+Cuentas por cobrar comerciales, neto 4 39,026 18,088     
+Cuentas por cobrar a relacionadas 29 45,619 22,282     
+Otras cuentas por cobrar, neto 5 7,126 5,466     
+Inventarios, neto 6 109,507 90,569     
+Activos biológicos 7 125,625 158,478     
+Activos disponibles para la venta 31 10,352 -     
+Impuestos por aplicar y gastos pagados por anticipado  8 3,857 9,819   __________ __________ 
+Total activo corriente  454,025 366,736   __________ __________     
+    
+    
+Activo no corriente        
+Cuentas por cobrar a relacionadas a largo plazo 29 83,234 65,727     
+Otras cuentas por cobrar, neto 5 167 4,144     
+Inversión en subsidiaria 9 66,817 71,238     
+Propiedades, planta, planta productora y equipo, neto 10 1,161,608 1,203,884     
+Activos por derecho en uso 11 12,092 440     
+Intangibles, neto 12 1,310 1,609   __________ __________     
+Total activo no corriente  1,325,228 1,347,042   __________ __________     
+Total activo  1,779,253 1,713,778   __________ __________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nota 2020 2019 
+  S/(000) S/(000) 
+    
+Pasivo y patrimonio neto    
+Pasivo corriente    
+Otros pasivos financieros 13 - 22,000 
+Cuentas por pagar comerciales 14 39,730 36,561 
+Cuentas por pagar a relacionadas 29 3,944 15,067 
+Otras cuentas por pagar 15 19,595 8,861 
+Beneficios a los empleados 16 24,384 15,017 
+Provisiones 17 14,771 16,803   __________ __________     
+Total pasivo corriente  102,424 114,309   __________ __________     
+    
+Pasivo no corriente    
+Cuentas por pagar a relacionadas 29 11,294 233 
+Otras cuentas por pagar y beneficios a los empleados 15 y 16 1,907 3,021 
+Provisiones a largo plazo 17 34,525 34,525 
+Pasivo por impuesto a las ganancias diferido, neto 18 220,860 223,336   __________ __________     
+Total pasivo no corriente  268,586 261,115   __________ __________ 
+Total pasivo  371,010 375,424   __________ __________     
+    
+Patrimonio neto 19   
+Capital social  842,345 842,345 
+Capital adicional  4,685 4,685 
+Reserva legal  77,169 75,363 
+Resultados acumulados  484,044 415,961   __________ __________ 
+Total patrimonio neto  1,408,243 1,338,354   __________ __________     
+Total pasivo y patrimonio neto  1,779,253 1,713,778   __________ __________ 
+ 
+  
+ 
+
+=== PAGINA PDF 6 ===
+ 
+Las notas a los estados financieros separados adjuntos son parte integrante de este estado.  
+Casa Grande S.A.A. 
+Estado separado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2020 y de 2019 
+ 
+Nota 2020 2019  
+ S/(000) S/(000)  
+   
+Ventas netas de bienes y servicios 20 593,386 471,532 
+Costo de ventas de bienes y servicios 21 (423,663) (398,276)   __________ __________     
+Utilidad bruta antes del cambio en el valor 
+razonable de los activos biológicos  169,723 73,256 
+Cambio en el valor razonable de los activos biológicos 7(c) (23,037) (20,366)   __________ __________     
+Utilidad bruta después del cambio en el valor 
+razonable de los activos biológicos  146,686 52,890 
+Gastos de venta 22 (3,354) (1,693) 
+Gastos de administración 23 (33,685) (33,724) 
+Otros ingresos y gastos operativos, neto 24 (6,036) (270)   __________ __________     
+Utilidad operativa  103,611 17,203 
+Ingresos financieros 25 6,881 6,530 
+Gastos financieros 25 (2,124) (3,986) 
+Diferencia de cambio, neta 30.2 2,317 (296) 
+Valor de participación patrimonial de inversión en 
+subsidiaria 9(d) (4,421) 2,217   __________ __________     
+Utilidad antes de impuesto a las ganancias  106,264 21,668 
+Impuesto a las ganancias 18(b) (17,344) (3,606)   __________ __________     
+Utilidad neta del ejercicio  88,920 18,062 
+Otros resultados integrales  - -   __________ __________     
+Total resultados integrales  88,920 18,062   __________ __________         
+Utilidad neta básica y diluida por acción común 28 1.06 0.21 
+Número de acciones en circulación (en miles) 28 84,235 84,235 
+ 
+ 
+
+=== PAGINA PDF 7 ===
+ 
+Las notas a los estados financieros separados adjuntos son parte integrante de este estado.  
+ 
+ 
+Casa Grande S.A.A.  
+Estado separado de cambios en el patrimonio neto 
+Por los años terminados el 31 de diciembre de 2020 y de 2019 
+ 
+Número de 
+acciones 
+Capital  
+social 
+Capital  
+adicional 
+Reserva  
+legal 
+Resultados 
+acumulados Total 
+  S/(000) S/(000) S/(000) S/(000) S/(000) 
+       
+Saldos al 1 de enero de 2019 84,234,548 842,345 4,685 75,148 399,179 1,321,357        
+Utilidad neta - - - - 18,062 18,062 
+Otros resultados integrales - - - - - -  ___________ ___________ ___________ ___________ ___________ ___________        
+Total resultados integrales - - - - 18,062 18,062 
+       
+Distribución de dividendos, notas 19(d) - - - - (1,065) (1,065) 
+Transferencia a reserva legal, nota 19(c) - - - 215 (215) -  ___________ ___________ ___________ ___________ ___________ ___________        
+Saldos al 31 de diciembre de 2019 84,234,548 842,345 4,685 75,363 415,961 1,338,354  ___________ ___________ ___________ ___________ ___________ ___________        
+Utilidad neta  - - - - 88,920 88,920 
+Otros resultados integrales - - - - - -  ___________ ___________ ___________ ___________ ___________ ___________        
+Total resultados integrales - - - - 88,920 88,920 
+       
+Distribución de dividendos, notas 19(d) - - - - (19,031) (19,031) 
+Transferencia a reserva legal, nota 19(c) - - - 1,806 (1,806) -  ___________ ___________ ___________ ___________ ___________ ___________        
+Saldos al 31 de diciembre de 2020 84,234,548 842,345 4,685 77,169 484,044 1,408,243  ___________ ___________ ___________ ___________ ___________ ___________ 
+ 
+ 
+ 
+
+=== PAGINA PDF 8 ===
+ 
+Las notas a los estados financieros separados adjuntos son parte integrante de este estado.  
+Casa Grande S.A.A. 
+Estado separado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2020 y de 2019 
+ 
+Nota 2020 2019  
+ S/(000) S/(000) 
+    
+Actividades de operación    
+Cobranzas a clientes  633,495 545,857 
+Pago a proveedores de bienes y servicios  (296,826) (229,644) 
+Pago de remuneraciones y beneficios sociales  (126,637) (124,213) 
+Pagos de tributos  (58,619) (57,389) 
+Impuesto a las ganancias  (4,447) (4,622) 
+Otros cobros (pagos) relativos a la actividad  1,903 (6,765)   ___________ ___________ 
+Efectivo y equivalente de efectivo neto proveniente de las 
+actividades de operación 
+ 
+148,869 123,224   ___________ ___________ 
+Actividades de inversión    
+Cobro por venta de propiedades, planta, planta productora 
+y equipo 
+ 
+42 287 
+Préstamos otorgados a relacionadas 29(p) (368,581) (185,528) 
+Cobro de préstamos otorgados a relacionadas 29(p) 328,095 167,582 
+Intereses cobrados a relacionadas  4,961 7,733 
+Pago de inversión en subsidiaria  - (29,551) 
+Pagos por compra de propiedades, planta, planta 
+productora y equipo 
+ 
+(33,355) (33,125) 
+Pagos por compra de intangibles  (215) (163)   ___________ ___________ 
+Efectivo y equivalente de efectivo neto utilizado en las 
+actividades de inversión 
+ 
+(69,053) (72,765)   ___________ ___________ 
+Actividades de financiamiento    
+Con terceros    
+Préstamos recibidos  30.3 92,000 232,000 
+Pagos de préstamos recibidos 30.3 (114,000) (225,000) 
+Intereses pagados 30.3 (793) (2,565) 
+Dividendos pagados 30.3 (6,080) (403) 
+Con empresas relacionadas    
+Préstamos recibidos  29(p) - 7,400 
+Pagos de préstamos recibidos 29(p) - (7,400) 
+Intereses pagados 30.3 (23) (5) 
+Dividendos pagados 30.3 (1,001) (645)   ___________ ___________ 
+Efectivo y equivalente de efectivo neto (utilizado en) 
+proveniente de las actividades de financiamiento 
+ 
+(29,897) 3,382   ___________ ___________ 
+Aumento neto de efectivo y equivalente de efectivo  49,919 53,841 
+Diferencia de cambio del efectivo y equivalente de efectivo   960 47 
+Saldo de efectivo y equivalente de efectivo al inicio del año  62,034 8,146   ___________ ___________     
+Saldo de efectivo y equivalente de efectivo al final del año 3(a) 112,913 62,034   __________ __________     
+Transacciones que no representan flujos de efectivo:    
+Compra de propiedades, planta, planta productora y equipo  20,801 4,275 
+Compensación de dividendos  11,137 - 
+
+=== PAGINA PDF 9 ===
+ 
+ 
+ 
+Casa Grande S.A.A. 
+Notas a los estados financieros separados 
+Al 31 de diciembre de 2020 y de 2019 
+1. Identificación y actividad económica 
+(a) Identificación – 
+Casa Grande S.A.A. (en adelante la Compañía) es una subsidiaria indirecta de Clarcrest 
+Investments S.A., entidad domiciliada en Perú y última empresa controlante a través de 
+Corporación Azucarera del Peru S.A., que al 31 de diciembre de 2020 y de 2019 posee el 58.52 
+y 58.22 por ciento de su capital social, respectivamente. La Compañía se constituyó en Perú en 
+el departamento de La Libertad el 12 de abril de 1997 y cotiza sus acciones en la Bolsa de 
+Valores de Lima. 
+ 
+El domicilio legal es Av. Parque Fabrica S/N, Casa Grande, Ascope, La Libertad, Perú. 
+ 
+(b) Actividad económica -  
+La actividad económica de la Compañía consiste en el cultivo e industrialización de la caña de 
+azúcar, así como la comercialización de los productos y subproductos derivados de su actividad 
+principal. 
+ 
+Los terrenos están ubicados en el departamento de La Libertad y comprenden un área total de 
+31,197 hectáreas, de las cuales 27,830 hectáreas están destinadas para cultivo de caña de 
+azúcar al 31 de diciembre de 2020 y de 2019. 
+ 
+La Compañía forma parte de un grupo económico compuesto por más de 50 empresas, el mismo 
+que está dividido en cuatro unidades de negocios: alimentos, cementos, papeles y cartones y 
+agroindustria. La Compañía forma parte de la unidad de agroindustria. 
+ 
+(c) Aprobación de los estados financieros separados –  
+Los estados financieros separados al y por el año terminado el 31 de diciembre de 2019 fueron 
+aprobados por la Junta Obligatoria Anual de Accionistas el 30 de julio de 2020. Los estados 
+financieros separados al y por el año terminado el 31 de diciembre de 2020, han sido emitidos 
+con la autorización de la Gerencia el 22 de febrero de 2021 y serán presentados al Directorio 
+para la aprobación de su emisión, y luego puestos a consideración de la Junta Obligatoria Anual 
+de Accionistas que será convocada dentro de los plazos establecidos por Ley. La Gerencia de la 
+Compañía considera que los estados financieros separados al y por el año terminado el 31 de 
+diciembre de 2020, preparados de conformidad con las Normas Internacionales de Información 
+Financiera emitidos por el International Accounting Standards Board que se incluyen en el 
+presente informe, serán aprobados por los accionistas sin modificaciones. 
+  
+
+=== PAGINA PDF 10 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+2 
+Los estados financieros separados adjuntos, que han sido preparados en cumplimiento con los 
+requerimientos legales vigentes en el Perú, reflejan la actividad individual de la Compañía, sin 
+incluir los efectos de la consolidación con los de su subsidiaria, la cual se encuentra constituida y 
+domiciliada en territorio nacional, y que tiene como actividad principal el cultivo, empaque, 
+conservación, transformación e industrialización de uva y otros productos agrícolas; así como su 
+comercialización en el mercado local y en el exterior. 
+  
+La Compañía prepara por separado estados financieros consolidados bajo NIIF, los cuales 
+muestran los siguientes saldos al 31 de diciembre de 2020 y de 2019: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Activos corrientes 498,233 384,796 
+Pasivos corrientes 112,910 132,235 
+Propiedades, planta, planta productora y equipo, neto 1,224,604 1,263,010 
+Total de activos 1,787,727 1,730,056 
+Total de pasivos 380,993 393,379 
+Patrimonio neto 1,406,734 1,336,677 
+Ventas netas 611,468 484,791 
+Utilidad operativa 99,573 20,050 
+Utilidad neta 89,088 17,716 
+ 
+2. Principales principios y prácticas contables 
+2.1. Bases de preparación y medición 
+La información contenida en estos estados financieros separados es responsabilidad de la 
+Gerencia de la Compañía, que manifiesta expresamente que los estados financieros separados 
+adjuntos han sido preparados de acuerdo con las Normas Internacionales de Información 
+Financiera (NIIF), emitidas por el International Accounting Standards Board (IASB por sus siglas 
+en inglés) y que estuvieron vigentes al 31 de diciembre del 2020 y de 2019, respectivamente. 
+ 
+Base de medición  
+Los estados financieros separados adjuntos han sido preparados sobre la base del costo 
+histórico, a partir de los registros de contabilidad mantenidos por la Compañía a excepción de los 
+activos biológicos que se miden a su valor razonable y por la inversión en subsidiaria, la cual se 
+mide utilizando el método de participación patrimonial. Los estados financieros separados 
+adjuntos se presentan en miles de soles (moneda funcional y de presentación), excepto cuando 
+se indique lo contrario. 
+ 
+La preparación de los estados financieros separados de acuerdo con NIIF requiere el uso de 
+ciertos estimados contables críticos. También requiere que la Gerencia ejerza su juicio en el 
+proceso de aplicación de las políticas contables de la Compañía, ver nota 2.4 siguiente. 
+ 
+ 
+  
+
+=== PAGINA PDF 11 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+3 
+2.2. Principios y prácticas contables significativas 
+A continuación, se presentan las políticas contables significativas utilizadas por la Gerencia de la 
+Compañía en la preparación de los estados financieros separados: 
+ 
+(a) Instrumentos financieros – Reconocimiento inicial y medición posterior – 
+Las políticas contables para instrumentos financieros están definidas en la NIIF 9, la cual 
+se encuentra vigente a partir del 1 de enero de 2018. Un instrumento financiero es 
+cualquier acuerdo que da origen a un activo financiero de una entidad y a un pasivo 
+financiero o instrumento patrimonial de otra entidad. 
+ 
+(i) Activos financieros – 
+Reconocimiento y medición inicial 
+Los activos financieros se clasifican, al momento de su reconocimiento inicial, 
+como medidos al costo amortizado, a valor razonable con cambios en otros 
+resultados integrales y a valor razonable con cambios en resultados. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalente de efectivo, 
+cuentas por cobrar comerciales, cuentas por cobrar a relacionadas y otras cuentas 
+por cobrar. 
+ 
+La clasificación de activos financieros al momento del reconocimiento inicial 
+depende de las características de los flujos de caja contractuales del activo 
+financiero y el modelo de negocio de la Compañía para gestionar los activos 
+financieros. Con la excepción de las cuentas por cobrar comerciales que no 
+contienen un componente financiero significativo o por las cuales la Compañía ha 
+aplicado la guía práctica. La Compañía mide inicialmente un activo financiero a su 
+valor razonable más, los costos de transacción. Las cuentas por cobrar que no 
+contienen un componente financiero significativo o por las cuales la Compañía no 
+ha aplicado la guía práctica son medidas al precio de transacción determinada 
+según la NIIF 15.  
+ 
+Para que un activo financiero sea clasificado y medido al costo amortizado o al 
+valor razonable con cambios en otros resultados integrales, debe dar lugar a flujos 
+de efectivo que son “solo pagos de principal e intereses” (SPPI) sobre el monto de 
+capital pendiente. Esta evaluación se conoce como la prueba SPPI y se realiza a 
+nivel de cada instrumento. 
+ 
+El modelo de negocio de la Compañía para gestionar activos financieros se refiere a 
+como maneja sus activos financieros para generar flujos de caja. El modelo de 
+negocios determina si los flujos de caja resultarán de cobrar los flujos de caja 
+contractuales, vender los activos financieros, o ambos.  
+
+=== PAGINA PDF 12 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+4 
+Medición posterior  
+La Compañía clasifica sus activos financieros en las siguientes cuatro categorías: 
+ 
+- Activos financieros al costo amortizado (instrumentos de deuda). 
+- Activos financieros al valor razonable con cambios en otros resultados 
+integrales con traslado de ganancias y pérdidas acumuladas (instrumentos de 
+deuda). 
+- Activos financieros al valor razonable con cambios en otros resultados 
+integrales que no se trasladan a ganancias y pérdidas cuando se dan de baja 
+(instrumentos de patrimonio). 
+- Activos financieros a valor razonable con cambios en resultados. 
+ 
+La clasificación depende del modelo de negocio de la Compañía y de los términos 
+contractuales de los flujos de efectivo. 
+ 
+Activos financieros al costo amortizado (instrumentos de deuda)  
+La Compañía mide los activos financieros al costo amortizado si se cumplen las 
+siguientes condiciones: 
+ 
+- El activo financiero se conserva dentro de un modelo de negocio cuyo 
+objetivo es mantener los activos financieros para obtener flujos de efectivo 
+contractuales; y 
+- Las condiciones contractuales del activo financiero dan lugar, en fechas 
+específicas, a flujos de efectivo que son únicamente pagos del principal e 
+intereses sobre el importe del principal pendiente. 
+-  
+Estos activos se miden posteriormente al costo amortizado usando el método de 
+interés efectivo. El costo amortizado se reduce por las pérdidas por deterioro. El 
+ingreso por intereses, las ganancias y pérdidas netas se reconocen en resultados. 
+Cualquier ganancia o pérdida en la baja en cuentas se reconoce en resultados. 
+ 
+Los activos financieros no se reclasifican después de su reconocimiento inicial, 
+excepto si la Compañía cambia su modelo de negocio para gestionar los activos 
+financieros, en cuyo caso los activos financieros afectados son reclasificados en el 
+primer día del primer periodo sobre el que se informa posterior al cambio en el 
+modelo de negocio. 
+ 
+En esta categoría se incluyen el efectivo y equivalente de efectivo, cuentas por 
+cobrar comerciales, cuentas por cobrar a relacionadas y otras cuentas por cobrar. 
+  
+
+=== PAGINA PDF 13 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+5 
+Activos financieros al valor razonable con cambios en otros resultados integrales 
+(instrumentos de deuda)  
+La Compañía mide los instrumentos de deuda al valor razonable con cambios en 
+otros resultados integrales si las dos condiciones siguientes se cumplen: 
+ 
+- El activo financiero se posee con el objetivo de tener derechos de cobrar 
+flujos de caja contractuales y luego venderlos; y 
+- Los términos contractuales del activo financiero dan lugar en fechas 
+específicas a flujos de caja que son únicamente pagos de principal e intereses 
+sobre el importe principal pendiente. 
+ 
+Estos activos se miden posteriormente al valor razonable. El ingreso por intereses 
+calculado bajo el método de interés efectivo, las ganancias y pérdidas por 
+conversión de moneda extranjera y el deterioro se reconocen en el estado separado 
+de resultados integrales. Otras ganancias y pérdidas netas se reconocen en otro 
+resultado integral. En el momento de la baja en cuentas, las ganancias y pérdidas 
+acumuladas en otro resultado integral se reclasifican en el estado separado de 
+resultados integrales. 
+ 
+La Compañía no posee instrumentos de deuda clasificados en esta categoría. 
+ 
+Instrumentos de patrimonio - acciones 
+Los instrumentos patrimoniales (acciones) que se mantienen para negociación se 
+registran al valor razonable con cambios en resultados. Para otros instrumentos 
+patrimoniales, la Compañía al momento del reconocimiento inicial debe elegir 
+clasificar, en forma irrevocable, cada instrumento patrimonial (acciones) al valor 
+razonable con cambios en otros resultados integrales o al valor razonable con 
+cambios en resultados. La clasificación se determina sobre la base de cada 
+instrumento por separado. 
+ 
+Las ganancias o pérdidas de las acciones clasificadas en otros resultados integrales 
+nunca son transferidas a los resultados del ejercicio. Los dividendos que se reciben 
+por estas acciones son reconocidos como otros ingresos en el estado separado de 
+resultados integrales cuando el derecho de pago ha sido establecido, excepto 
+cuando la Compañía se beneficia de dichos ingresos como un recupero de parte del 
+costo del activo financiero, en cuyo caso, dichas ganancias son registradas en otros 
+resultados integrales. Estos instrumentos de patrimonio no están sujetos a 
+evaluación de deterioro. 
+ 
+La Compañía no tiene activos financieros en esta categoría. 
+  
+
+=== PAGINA PDF 14 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+6 
+Activos financieros a valor razonable con cambios en resultados  
+Los activos financieros al valor razonable con cambios en resultados incluyen 
+activos financieros mantenidos para negociar, activos financieros designados al 
+momento de reconocimiento inicial al valor razonable con cambios en resultados, o 
+activos financieros que obligatoriamente deben ser medidos al valor razonable. Los 
+activos financieros se clasifican como mantenidos para negociar si ellos son 
+adquiridos para venderlos o recomprarlos en el corto plazo. Los derivados se 
+clasifican como mantenidos para negociar a menos que se designen como 
+instrumentos de cobertura efectivos. Los activos financieros con flujos de caja que 
+no son únicamente pagos de principal e intereses son clasificados y medidos al valor 
+razonable con cambios en resultados, con independencia del modelo de negocios.  
+ 
+Los activos financieros con cambios en otros resultados integrales son mantenidos 
+en el estado separado de situación financiera al valor razonable con cambios netos 
+en el valor razonable, reconocidos en el estado separado de resultados integrales. 
+ 
+La Compañía no posee instrumentos clasificados en esta categoría. 
+ 
+Baja en cuentas  
+Un activo financiero (o, de corresponder, parte de un activo financiero o parte de un 
+grupo de activos financieros similares) se da de baja en cuentas es decir, se elimina 
+del estado separado de situación financiera, cuando: 
+ 
+- Han expirado los derechos contractuales a recibir los flujos de efectivo 
+generados por el activo; o 
+-  La Compañía ha transferido sus derechos para recibir los flujos de efectivo 
+generados por el activo, o ha asumido una obligación de pagar a un tercero 
+la totalidad de esos flujos de efectivo sin una demora significativa, a través 
+de un acuerdo de intermediación; y (a) se ha transferido sustancialmente 
+todos los riesgos y beneficios inherentes a la propiedad del activo; o (b) no 
+ha transferido ni retenido sustancialmente todos los riesgos y beneficios 
+inherentes a la propiedad del activo, pero ha transferido el control del 
+activo. 
+ 
+Cuando la Compañía ha transferido sus derechos de recibir los flujos de efectivo 
+generados por el activo, o se ha celebrado un acuerdo de intermediación, la 
+Compañía evalúa si ha retenido, y en qué medida, los riesgos y beneficios 
+inherentes a la propiedad del activo. Cuando la Compañía no ha transferido ni 
+retenido sustancialmente todos los riesgos y beneficios inherentes a la propiedad 
+del activo, ni ha transferido el control del activo, la Compañía continúa 
+reconociendo contablemente el activo transferido. En ese caso, la Compañía 
+también reconoce el pasivo relacionado. El activo transferido y el pasivo 
+relacionado se miden de manera tal que reflejen los derechos y obligaciones que la 
+Compañía ha retenido. 
+  
+
+=== PAGINA PDF 15 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+7 
+Deterioro del valor de los activos financieros  
+La Compañía reconoce una provisión por pérdida de crédito esperada (PCE) para 
+todos los instrumentos de deuda no mantenidos al valor razonable con cambios en 
+resultados. La PCE se basa en la diferencia entre los flujos de caja contractuales 
+que vencen de acuerdo con el contrato y todos los flujos de caja que la Compañía 
+espera recibir, descontado a una tasa que se aproxima a la tasa efectiva de interés 
+original. Los flujos de caja esperados incluirán flujos de caja producto de la venta 
+de garantías mantenidas u otras garantías recibidas. 
+ 
+La PCE es reconocida en dos etapas. Para exposiciones de crédito por las cuales no 
+hubo un aumento significativo en el riesgo de crédito desde el reconocimiento 
+inicial, la PCE se reconoce para pérdidas que resultan de eventos de 
+incumplimiento que son posibles dentro de los 12 meses siguientes (“PCE de 12 
+meses”). Para las exposiciones de créditos por los cuales ha habido un incremento 
+significativo en el riesgo de crédito desde el reconocimiento inicial, se requiere una 
+pérdida por deterioro por pérdidas de crédito esperada durante la vida remanente 
+de la exposición, con independencia de la oportunidad del incumplimiento (“PCE 
+durante toda la vida”). 
+ 
+Para cuentas por cobrar comerciales, la Compañía aplica un enfoque simplificado al 
+calcular la PCE. Por lo tanto, la Compañía no monitorea los cambios en el riesgo de 
+crédito, en vez de esto, reconoce una provisión por deterioro en base a la “PCE 
+durante toda la vida” en cada fecha de reporte. La Compañía ha establecido una 
+matriz de provisión que se basa en la experiencia de pérdida histórica, ajustada por 
+factores esperados específicos a los deudores y al entorno económico. 
+ 
+Al determinar si el riesgo crediticio de un activo financiero ha aumentado 
+significativamente desde el reconocimiento inicial al estimar las perdidas crediticias 
+esperadas, la Compañía considera la información razonable y sustentable que sea 
+relevante y esté disponible sin costos o esfuerzos indebidos. 
+ 
+(ii) Pasivos financieros - 
+Reconocimiento y medición inicial  
+Los pasivos financieros se clasifican, al momento de su reconocimiento inicial, como 
+pasivos financieros al valor razonable con cambios en resultados, préstamos, 
+cuentas por pagar, o como derivados designados como instrumentos de cobertura 
+en una cobertura eficaz, según corresponda. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable y, en 
+el caso de los préstamos y cuentas por pagar, netos de los costos de transacción 
+directamente atribuibles. 
+  
+
+=== PAGINA PDF 16 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+8 
+Los pasivos financieros incluyen deudas y préstamos que devengan intereses, 
+cuentas por pagar comerciales, cuentas por pagar a relacionadas y otras cuentas 
+por pagar. 
+ 
+Medición posterior  
+La medición posterior de los pasivos financieros depende de su clasificación, según 
+se describe a continuación: 
+ 
+Pasivos financieros al valor razonable con cambios en resultados  
+Los pasivos financieros al valor razonable con cambios en resultados incluyen los 
+pasivos financieros mantenidos para negociar y los pasivos financieros designados 
+al momento de su reconocimiento inicial como al valor razonable con cambios en 
+resultados. 
+ 
+Los pasivos financieros se clasifican como mantenidos para negociar si se 
+contraen con el propósito de negociarlos en un futuro cercano; las ganancias o 
+pérdidas relacionadas con estos pasivos se reconocen en resultados. Esta 
+categoría también incluye los instrumentos financieros derivados tomados por la 
+Compañía y que no se designan como instrumentos de cobertura eficaces según 
+lo define la NIIF 9.  
+ 
+Los pasivos financieros designados al momento de su reconocimiento inicial como al 
+valor razonable con cambios en resultados se designan como tales a la fecha de su 
+reconocimiento inicial únicamente si se cumplen los criterios definidos en la NIIF 9.  
+ 
+La Compañía no ha designado pasivos financieros al valor razonable con cambios en 
+resultados. 
+ 
+Deudas y préstamos que devengan interés  
+Después del reconocimiento inicial, las deudas y préstamos que devengan interés se 
+miden posteriormente por su costo amortizado, utilizando el método de la tasa de 
+interés efectiva. Las ganancias y pérdidas se reconocen en el estado separado de 
+resultados integrales cuando los pasivos se dan de baja, como así también a través 
+del proceso del devengado de los intereses aplicando el método de la tasa de interés 
+efectiva. 
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en la 
+adquisición y las comisiones o los costos que sean una parte integrante de la tasa de 
+interés efectiva. La amortización de la tasa de interés efectiva se reconoce como 
+costo financiero en el estado separado de resultados integrales. 
+ 
+Por lo general, esta categoría aplica a las deudas y préstamos corrientes y no 
+corrientes que devengan interés. 
+  
+
+=== PAGINA PDF 17 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+9 
+Baja en cuentas  
+Un pasivo financiero se da de baja cuando la obligación ha sido pagada o cancelada, 
+o haya vencido. Cuando un pasivo financiero existente es reemplazado por otro 
+proveniente del mismo prestamista bajo condiciones sustancialmente diferentes, o 
+cuando las condiciones de un pasivo existente se modifican de manera sustancial, tal 
+permuta o modificación se trata como una baja del pasivo original y el 
+reconocimiento de un nuevo pasivo. La diferencia en los importes respectivos en 
+libros se reconoce en el estado separado de resultados integrales. 
+ 
+(iii) Compensación de activos y pasivos financieros - 
+Los activos financieros y los pasivos financieros son objeto de compensación de 
+manera que se informa el importe neto en el estado separado de situación 
+financiera, si existe un derecho actual legalmente exigible de compensar los 
+importes reconocidos, y si existe la intención de liquidarlos por el importe neto, o de 
+realizar los activos y cancelar los pasivos en forma simultánea. 
+ 
+(b) Transacciones en moneda extranjera, ver nota 30.2 - 
+(i) Moneda funcional y de presentación – 
+La moneda funcional y de presentación es el Sol, debido a que corresponde a su 
+entorno económico principal y es la que utiliza en el desarrollo de sus operaciones. 
+ 
+(ii) Transacciones y saldos en moneda extranjera –  
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una 
+moneda diferente a la moneda funcional. Las transacciones en moneda extranjera 
+son inicialmente registradas en la moneda funcional usando los tipos de cambio 
+vigentes en las fechas de las transacciones.  
+ 
+Posteriormente, los activos y pasivos monetarios denominados en moneda 
+extranjera se convierten a la tasa de cambio de la fecha en que se liquidan las 
+operaciones o al tipo de cambio vigente a la fecha de cierre del período sobre el 
+que se informa. Las diferencias entre este tipo de cambio y el tipo de cambio 
+utilizado inicialmente para registrar las transacciones son reconocidos en el rubro 
+"Diferencia de cambio neta" del estado separado de resultados integrales en el 
+período en que se producen. 
+ 
+Los activos y pasivos no monetarios adquiridos en moneda extranjera son 
+convertidos al tipo de cambio a las fechas de las transacciones iniciales y no se 
+ajustan posteriormente. 
+ 
+(c) Efectivo y equivalente de efectivo, ver nota 3 - 
+El efectivo y equivalente de efectivo presentando en el estado separado de situación 
+financiera comprende los saldos en caja, fondos fijos y cuentas corrientes. El efectivo y 
+equivalente de efectivo incluye el efectivo disponible, depósitos a la vista en entidades 
+financieras, otras inversiones de corto plazo altamente líquidas con vencimientos de tres 
+meses o menos.  
+
+=== PAGINA PDF 18 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+10 
+(d) Inventarios, ver nota 6 - 
+Los inventarios son reconocidos al costo o al valor neto de realización, el menor. El valor 
+neto de realización es el precio de venta estimado en el curso normal del negocio, menos 
+los costos estimados de terminación y los costos necesarios para llevar a cabo la venta; 
+excluyendo los costos de financiamiento. 
+ 
+Los inventarios se contabilizan de la siguiente manera: 
+ 
+Productos terminados y en proceso – 
+Se registra al costo de producción, que incluye el costo de la caña de azúcar que se 
+transfiere del activo biológico al proceso productivo, a valor razonable menos los costos 
+estimados de venta, en el punto de la cosecha, de acuerdo con la NIC 41 "Agricultura" o 
+se adquieren de sembradores, mano de obra directa, otros costos directos y una 
+proporción de los costos fijos y variables de fabricación basada en la capacidad normal de 
+operación; excluyendo los costos de financiamiento y la diferencia de cambio. 
+Posteriormente, se sigue el método del costo promedio ponderado mensual. 
+ 
+La capacidad normal se define como el nivel de uso de la capacidad que satisface la 
+demanda promedio de la Compañía a lo largo de cierto período que incluye factores de 
+estacionalidad, ciclos y tendencias. 
+ 
+Repuestos y suministros diversos – 
+Se valúan al costo o a su valor neto de reposición, el menor. El costo se determine 
+utilizando el método de costo promedio ponderado.  
+ 
+Al cierre de cada año la Compañía realiza un análisis para determinar la provisión por 
+desvalorización en función a un análisis efectuado sobre las condiciones de uso, 
+obsolescencia y rotación de los inventarios, y se registra, de corresponder, una provisión 
+por desvalorización en el estado separado de resultados integrales. 
+ 
+(e) Activos biológicos, ver nota 7 - 
+Los activos biológicos que están conformados por plantaciones de caña de azúcar en 
+proceso que serán cosechadas en el próximo corte, tanto a su reconocimiento inicial como 
+en cada fecha de reporte posterior, se miden a su valor razonable menos los costos de 
+venta de acuerdo con la NIC 41 "Agricultura" y la NIIF 13 "Medición del valor razonable". 
+ 
+El costo se aproxima a su valor razonable cuando haya pequeñas transformaciones 
+biológicas desde que los costos fueron originalmente incurridos o cuando no se espera 
+que el impacto del costo de la transformación biológica sea significativo. Las pérdidas y 
+ganancias que surjan de la medición de los activos biológicos al valor razonable menos los 
+costos de venta se reconocerán en el estado separado de resultados integrales en el 
+periodo en el que surjan en la partida "Cambio en el valor razonable de los activos 
+biológicos". El terreno, la planta productora y las instalaciones relacionadas se incluyen 
+como "Propiedades, planta, planta productora y equipo" en el estado separado de 
+situación financiera.  
+
+=== PAGINA PDF 19 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+11 
+Los costos se capitalizan como activos biológicos, si, y sólo si: (a) es probable que futuros 
+beneficios económicos fluirán a la entidad y (b) el costo puede ser medido confiablemente.  
+ 
+La Compañía capitaliza costos tales como los que se incurren en: abonar, fertilizar, control 
+de plagas, riego, limpieza de acequias y otros elementos para uso agrícola, así coma una 
+asignación sistemática de costos de producción fijos y variables que son directamente 
+atribuibles al crecimiento del activo biológico, entre otros. Los costos que se reconocen 
+como gasto a medida que se incurren incluyen los gastos administrativos y otros gastos 
+generales, así como los gastos de producción no asignables, entre otros.  
+ 
+La Compañía presenta sus activos biológicos (caña de azúcar) como activos corrientes 
+considerando su naturaleza y su ciclo de operación claramente identificable (con un plazo 
+máximo de 18 meses). Por lo tanto, la valorización de la NIC 41 contempla un horizonte 
+de proyección de flujos de hasta 18 meses, pues ese es el ciclo de crecimiento promedio 
+de las plantas de caña de azúcar. 
+ 
+Cuando existe un mercado activo para el activo biológico, los precios de cotización de 
+mercado en el mercado más relevante se usarán come base para determinar el valor 
+razonable. De otro modo, cuando no existe mercado activo o no se disponen de precios 
+determinados por el mercado, el valor razonable de los activos biológicos se determine a 
+través del uso de técnicas de valorización. Por lo tanto, el valor razonable de los activos 
+biológicos generalmente se determinará en base a los flujos netos de efectivo 
+(proyecciones de ingresos y costos) descontados que se esperan obtener del respectivo 
+producto agrícola. El valor razonable del activo biológico en el punto de cosecha se derive 
+generalmente de los precios determinados por el mercado.  
+ 
+El valor razonable del activo biológico recoge una Carga de Activo Contribuyente (CAC) 
+por el alquiler presunto de la planta productora y de las tierras que son propiedad de la 
+Compañía y que se agregan como una carga imputada de activos contribuyentes como 
+una salida de efectivo estimada cuando no hay flujos de efectivo reales asociados con el 
+uso de activos esenciales para la actividad agrícola.  
+ 
+Los flujos netos de efectivo operativos se descuentan usando una tasa de descuento que 
+refleje las valorizaciones actuales del mercado del valor del dinero en el tiempo y los 
+respectivos riesgos asociados. Los flujos netos son determinados de forma mensual. 
+ 
+(f) Otros activos no financieros, ver nota 8 – 
+Los criterios adoptados para el registro de estas partidas son: 
+ 
+- Los seguros se registran por el valor de la prima pagada para la cobertura de los 
+diferentes activos y riesgos, y se amortizan siguiendo el método de línea recta 
+durante la vigencia de las pólizas. 
+- Los pagos adelantados por servicios diversos y otros se registran como un activo y 
+se reconocen como gasto cuando el servicio devenga. 
+  
+
+=== PAGINA PDF 20 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+12 
+(g) Inversión en subsidiaria, ver nota 9 - 
+Una subsidiaria es aquella entidad que es controlada por otra (conocida como matriz o 
+controladora). El control se obtiene cuando la Compañía está expuesta, o tiene derecho, a 
+rendimientos variables procedentes de su participación en la entidad donde se invierte, y 
+tiene la capacidad de influir en dichos rendimientos a través de su poder sobre dicha 
+entidad. Específicamente, la Compañía controla una entidad si y sólo si tiene: 
+ 
+- Poder sobre la entidad receptora de la inversión; es decir, existen derechos que le 
+otorgan la capacidad presente de dirigir las actividades relevantes de la misma. 
+- Exposición o derecho a rendimientos variables procedentes de su participación en 
+la entidad receptora de la inversión, y 
+- Capacidad de utilizar su poder sobre la entidad receptora de la inversión para 
+afectar sus rendimientos de forma significativa. 
+ 
+Por lo general, se presume que una mayoría de los derechos de voto o derechos similares 
+de la entidad receptora de la inversión otorgan el control sobre dicha entidad. Para 
+respaldar esta presunción y cuando la Compañía tiene menos de la mayoría de votos o 
+derechos similares en la entidad, la Compañía considera todos los hechos y circunstancias 
+pertinentes a fin de evaluar si tiene o no el poder sobre dicha entidad, entre ellos: 
+ 
+- El acuerdo contractual entre la Compañía y los otros tenedores de voto de la 
+entidad receptora de la inversión. 
+- Los derechos que surjan de otros acuerdos contractuales. 
+- Los derechos de voto del inversor, sus derechos potenciales de voto o una 
+combinación de ambos. 
+ 
+La Compañía evalúa nuevamente si tiene o no el control sobre una entidad cuando los 
+hechos y circunstancias indican que existen cambios en uno o más de los tres elementos 
+de control arriba descritos. 
+ 
+La inversión en su subsidiaria Agrocasagrande S.A.C se contabiliza utilizando el método 
+de participación patrimonial en los estados financieros separados de la Compañía. Bajo 
+este método, la participación en la subsidiaria se reconoce inicialmente al costo y se ajusta 
+posteriormente para reconocer la participación de la Compañía en las utilidades y pérdidas 
+de la subsidiaria y otros movimientos posteriores a la adquisición en otros resultados 
+integrales. Cuando la participación de la Compañía en las pérdidas de la subsidiaria es 
+equivalente o supera su participación en tal subsidiaria, la Compañía no reconoce pérdidas 
+adicionales a menos que haya asumido obligaciones o efectuado pagos a nombre de la 
+subsidiaria. Los dividendos en efectivo recibido de estas inversiones se registran en el 
+momento que se apruebe su distribución disminuyendo la inversión en la subsidiaria. Los 
+dividendos recibidos en acciones de la subsidiaria no se reconocen en los estados 
+financieros separados. 
+  
+
+=== PAGINA PDF 21 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+13 
+A cada fecha del estado separado de situación financiera la Gerencia determina si existe 
+evidencia objetiva de deterioro de sus inversiones en su subsidiaria. De ser el caso se 
+determina la pérdida por deterioro que corresponde a la diferencia entre el valor 
+recuperable de la inversión y su valor en libros la que se reconoce en el estado separado 
+de resultados integrales. 
+ 
+(h) Propiedades, planta, planta productora y equipo, ver nota 10 - 
+El rubro “Propiedades, planta, planta productora y equipo” se presentan al costo de 
+adquisición, neto de la depreciación acumulada y/o las pérdidas acumuladas por deterioro, 
+si las hubiere. El costo inicial de un activo comprende su precio de compra o su costo de 
+fabricación, incluyendo aranceles e impuestos de compra no reembolsables y cualquier 
+costo necesario para poner dicho activo en operación, el estimado inicial de la obligación 
+de rehabilitación y los costos de financiamiento para los proyectos de construcción a largo 
+plazo, en la medida en que se cumplan los requisitos para su reconocimiento.  
+ 
+Cuando los componentes significativos de propiedades, planta, planta productora y equipo 
+requieren ser reemplazados, la Compañía da de baja el componente reemplazado y 
+reconoce el componente nuevo con su correspondiente vida útil y depreciación. Del mismo 
+modo, cuando se efectúa una inspección de gran envergadura, el costo de la misma se 
+reconoce como un reemplazo en la medida en que se cumplan los requisitos para su 
+reconocimiento. Todos los demás costos rutinarios de reparación y mantenimiento se 
+reconocen como gasto en el estado separado de resultados integrales a medida que se 
+incurren.  
+ 
+Los gastos incurridos para reemplazar un componente de una partida o elemento de 
+propiedades, planta, planta productora y equipo se capitalizan por separado, castigándose 
+el valor en libros del componente que se reemplaza. En el caso de que el componente que 
+se reemplaza no se haya considerado como un componente separado del activo, el valor 
+de reemplazo del componente nuevo se usa para estimar el valor en libros del activo que 
+se reemplaza.  
+ 
+Una partida de propiedades, planta, planta productora y equipo o un componente 
+significativo es retirado al momento de su disposición o cuando no se esperan beneficios 
+económicos de su uso o disposición posterior. Cualquier ganancia o pérdida que surja al 
+momento del retiro del activo fijo (calculada como la diferencia entre los ingresos por la 
+venta y el valor en libros del activo) es incluida en el estado separado de resultados 
+integrales en el año en que se retira el activo. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los costos de 
+financiamiento, y los otros gastos directos atribuibles a dichas obras, devengados durante 
+la etapa de construcción. Las obras en curso se capitalizan cuando se completan y su 
+depreciación se calcula desde el momento en que están en condiciones para su uso. 
+  
+
+=== PAGINA PDF 22 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+14 
+Las partidas de propiedades, planta, planta productora y equipo se dan de baja en el 
+momento de su venta o cuando no se esperan beneficios económicos de su uso o de su 
+posterior venta. Las ganancias y pérdidas por la venta de activos corresponden a la 
+diferencia entre los ingresos de la transacción y el valor en libros de los activos y se 
+incluyen en el estado separado de resultados integrales. 
+ 
+Plantas productoras -  
+Las plantas productoras, se asemejan a una maquinaria en un proceso de fabricación, por 
+lo tanto, los costos incurridos en su adecuación, preparación y siembra (APS) son 
+clasificados como Propiedades, planta, planta productora y equipo, y su reconocimiento y 
+medición se realiza de acuerdo con la NIC 16 "Propiedades, planta y equipo". 
+ 
+Una planta productora es una planta viva que se utiliza en la producción o suministro de 
+productos agrícolas; se espera que produzca durante más de un ejercicio y tiene solo una 
+probabilidad remota de ser vendida como producto agrícola, excepto, por un evento 
+incidental. Cuando las plantas productoras ya no se utilicen para obtener productos puede 
+que se corten y se vendan coma residuos, por ejemplo, para utilizarlas como leña. Estas 
+ventas accesorias como residuos no impedirán que la planta entre en la definición de 
+planta productora. El producto obtenido de plantas productoras es un activo biológico. 
+ 
+Las plantas productoras que se encuentran en proceso de siembra son reconocidas al 
+costo histórico y clasificadas en la partida "obras en curso"; su proceso de siembra toma 
+entre 1 a 2 meses dependiendo el tipo de campo.  
+ 
+Mantenimientos y reparaciones mayores -  
+Los desembolsos para mantenimiento mayor comprenden el costo de reemplazo de partes 
+de los activos y los costos de reacondicionamiento que se realizan cada cierto número de 
+años con el objeto de mantener la capacidad operativa del activo de acuerdo con las 
+especificaciones técnicas indicadas por el proveedor del activo.  
+ 
+Los costos de mantenimiento mayores se capitalizan al reconocimiento inicial del activo 
+coma un componente separado del bien y se deprecia en el estimado del tiempo en que se 
+requerirá el siguiente mantenimiento mayor. 
+  
+
+=== PAGINA PDF 23 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+15 
+Depreciación -  
+Los terrenos no se deprecian. La depreciación de los otros activos se calcula con el 
+método de línea recta para asignar su costo menos su valor residual durante el estimado 
+de su vida útil. Las vidas útiles determinadas por rubro son como siguen:  
+ 
+ Años 
+  
+Edificios, plantas y otras construcciones  Hasta 33 
+Maquinarias y equipos Entre 3 y 10 
+Plantas productoras 9 
+Unidades de transporte Entre 5 y 21 
+Muebles, enseres y equipos diversos 10 
+ 
+Los valores residuales, la vida útil de los activos y los métodos de depreciación aplicados 
+se revisan y se ajustan, de ser necesario, a la fecha de cada estado separado de situación 
+financiera, cualquier cambio en estos estimados se ajusta prospectivamente.  
+ 
+(i) Activos intangibles, ver nota 12 - 
+Los activos intangibles adquiridos en forma separada se miden inicialmente al costo. 
+Después del reconocimiento inicial, los activos intangibles se contabilizan al costo menos 
+la amortización acumulada y cualquier pérdida acumulada por deterioro del valor, en caso 
+de existir, ver párrafo (j) siguiente. 
+ 
+El período y el método de amortización para un activo intangible con una vida útil limitada 
+se revisan al menos al cierre de cada período sobre el que se informa. Los cambios en la 
+vida útil esperada o el patrón esperado de consumo del activo se contabilizan al 
+modificarse el período o el método de amortización, según corresponda, y se tratan como 
+cambios en las estimaciones contables. El gasto por amortización de activos intangibles 
+con vidas útiles limitadas se reconoce en el estado separado de resultados integrales en la 
+categoría de gastos que resulte más coherente con su función. 
+ 
+(j)  Deterioro de valor de los activos no financieros – 
+A cada fecha de cierre del período sobre el que se informa, la Compañía evalúa si existe 
+algún indicio de que un activo pudiera estar deteriorado en su valor. La Compañía estima 
+el importe recuperable de un activo cuando existe tal indicio, o cuando se requiere 
+efectuar una prueba anual de deterioro de su valor.  
+ 
+El importe recuperable de un activo es el mayor valor entre el valor razonable menos los 
+costos de venta, ya sea de un activo o de una unidad generadora de efectivo, y su valor en 
+uso, y se determina para un activo individual, salvo que el activo no genere flujos de 
+efectivo que sean sustancialmente independientes de los otros activos o grupos de 
+activos. 
+  
+
+=== PAGINA PDF 24 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+16 
+Cuando el importe en libros de un activo o de una unidad generadora de efectivo excede 
+su importe recuperable, el activo se considera deteriorado y su valor se reduce a su 
+importe recuperable.  
+ 
+Al evaluar el valor en uso de un activo, los flujos de efectivo estimados se descuentan a su 
+valor presente mediante una tasa de descuento antes de impuestos que refleja las 
+evaluaciones corrientes del mercado sobre el valor temporal del dinero y los riesgos 
+específicos del activo. Para la determinación del valor razonable menos los costos de 
+venta, se toman en cuenta las transacciones recientes de mercado, si las hubiera. Si no 
+existen dichas transacciones, se usa un modelo apropiado de evaluación. 
+ 
+Las pérdidas por deterioro del valor correspondientes a las operaciones continuas, 
+incluido el deterioro del valor de los inventarios, se reconocen en el estado separado de 
+resultados integrales en aquellas categorías de gastos que correspondan con la función 
+del activo deteriorado. 
+ 
+Para los activos en general, a cada fecha de cierre del período sobre el que se informa, se 
+efectúa una evaluación sobre si existe algún indicio de que las pérdidas por deterioro del 
+valor reconocidas previamente ya no existen o han disminuido. Si existiese tal indicio, la 
+Compañía efectúa una estimación del importe recuperable del activo o de la unidad 
+generadora de efectivo. Una pérdida por deterioro del valor reconocida previamente 
+solamente se revierte si hubo un cambio en los supuestos utilizados para determinar el 
+importe recuperable del activo desde la última vez en que se reconoció una pérdida por 
+deterioro del valor de ese activo.  
+ 
+La reversión se limita de manera tal que el importe en libros del activo no exceda su 
+monto recuperable, ni exceda el importe en libros que se hubiera determinado, neto de la 
+depreciación acumulada, si no se hubiese reconocido una pérdida por deterioro de valor 
+para ese activo en años anteriores. Tal reversión se reconoce en el estado separado de 
+resultados integrales. 
+ 
+(k) Arrendamientos, ver nota 11 - 
+Como arrendatario – 
+Al inicio de un contrato, la Compañía evalúa si un contrato es, o contiene, un 
+arrendamiento. Un contrato es, o contiene, un arrendamiento si el contrato transmite el 
+derecho a controlar el uso de un activo identificado por un período de tiempo a cambio de 
+contraprestación. Para evaluar si un contrato transmite el derecho a controlar el uso de 
+un activo identificado, la Compañía evalúa si: 
+ 
+(i) el contrato implica el uso de un activo identificado, el mismo que puede 
+especificarse de forma explícita o implícita, y debe ser físicamente distinto o 
+representar sustancialmente la totalidad de la capacidad de un activo físicamente 
+distinto. Si el proveedor tiene un derecho práctico de sustitución, entonces el 
+activo no está identificado;  
+
+=== PAGINA PDF 25 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+17 
+(ii) la Compañía tiene el derecho de obtener sustancialmente la totalidad de los 
+beneficios económicos de uso del activo durante todo el período de uso; y  
+(iii) la Compañía tiene derecho a dirigir el uso del activo. La Compañía tiene este 
+derecho cuando se dispone de los derechos de toma de decisiones que son más 
+relevantes para cambiar el cómo y para qué propósito se utiliza el activo.  
+ 
+En su rol de arrendatario, la Compañía reconoce un activo por derecho de uso y un pasivo 
+por arrendamiento en la fecha de comienzo del arrendamiento.  
+ 
+Activos por derecho de uso  
+La Compañía reconoce los activos por derecho de uso en la fecha de inicio del 
+arrendamiento (es decir, la fecha en que el activo subyacente está disponible para su uso).  
+ 
+Los activos por derecho de uso se miden al costo, menos cualquier depreciación 
+acumulada y pérdidas por deterioro, y se ajustan para dar efecto a cualquier nueva 
+medición de los pasivos por arrendamiento. El costo de los activos por derecho de uso 
+incluye el monto de las obligaciones de arrendamiento reconocidas, los costos directos 
+iniciales incurridos y los pagos de arrendamiento realizados en la fecha de inicio o antes, 
+menos los incentivos de arrendamiento recibidos. Los activos por derecho de uso 
+(edificios e instalaciones) se deprecian de forma lineal durante el plazo más corto del 
+arrendamiento y la vida útil estimada fluctúa en el rango de 2 a 10 años. 
+ 
+Si la propiedad del activo arrendado se transfiere a la Compañía al final del plazo del 
+arrendamiento o el costo refleja el ejercicio de una opción de compra, la depreciación se 
+calcula utilizando la vida útil estimada del activo. Los activos por derecho de uso también 
+están sujetos a deterioro. 
+ 
+Pasivo por arrendamiento  
+A la fecha de inicio del arrendamiento, la Compañía reconoce los pasivos por 
+arrendamiento medidos al valor presente de los pagos por arrendamiento que se 
+realizarán durante el plazo del contrato. Los pagos de arrendamiento incluyen pagos fijos 
+menos cualquier incentivo de arrendamiento por cobrar, pagos de arrendamiento 
+variables que dependen de un índice o una tasa, y montos que se esperan pagar bajo 
+garantías de valor residual. Los pagos de arrendamiento también incluyen el precio de 
+ejercicio de una opción de compra razonablemente segura para ser ejercida por la 
+Compañía y los pagos de multas por rescindir el arrendamiento, si el plazo del 
+arrendamiento contempla la opción de rescindir. Los pagos de arrendamiento variable que 
+no dependen de un índice o una tasa se reconocen como gastos (a menos que se incurra 
+para producir inventarios) en el período en el que ocurre el evento o condición que 
+desencadena el pago. 
+  
+
+=== PAGINA PDF 26 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+18 
+Al calcular el valor presente de los pagos de arrendamiento, la Compañía utiliza su tasa de 
+interés incremental en la fecha de inicio del arrendamiento debido a que la tasa de interés 
+implícita en el arrendamiento no es fácilmente determinable. Después de la fecha de 
+inicio, el monto de los pasivos por arrendamiento se incrementa para reflejar la 
+acumulación de intereses y se reduce por los pagos de arrendamiento realizados. Además, 
+el importe en libros de los pasivos por arrendamiento se vuelve a medir si hay una 
+modificación o un cambio en el plazo del arrendamiento o un cambio en los pagos del 
+arrendamiento (por ejemplo, cambios en pagos futuros como resultado de un cambio en 
+un índice o tasa utilizada para determinar tales pagos de arrendamiento) o un cambio en 
+la evaluación de una opción para comprar el activo subyacente. 
+ 
+Arrendamientos a corto plazo y arrendamientos de activos de bajo valor 
+La Compañía aplica la excepción de reconocimiento de arrendamiento a corto plazo por 
+sus arrendamientos de activos a corto plazo (es decir, aquellos arrendamientos que tienen 
+un plazo de arrendamiento de 12 meses o menos desde la fecha de inicio y no contienen 
+una opción de compra). También aplica la excepción de reconocimiento de activos de bajo 
+valor a los arrendamientos de equipos de oficina que se consideran de bajo valor. Los 
+pagos de arrendamiento en arrendamientos a corto plazo y arrendamientos de activos de 
+bajo valor se reconocen como gastos de forma lineal durante el plazo del arrendamiento.  
+ 
+La Compañía no puede determinar fácilmente la tasa de interés implícita en el 
+arrendamiento, por lo tanto, utiliza su tasa incremental de endeudamiento (TIE) para 
+medir los pasivos por arrendamiento. El TIE es la tasa de interés que la Compañía tendría 
+que pagar para pedir prestado en un plazo similar, y con una seguridad similar, los fondos 
+necesarios para obtener un activo de un valor similar al activo por derecho de uso en un 
+entorno económico similar. El TIE por lo tanto refleja lo que la Compañía "tendría que 
+pagar", lo que requiere una estimación cuando no hay tarifas observables disponibles o 
+cuando necesitan ser ajustadas para reflejar el términos y condiciones del arrendamiento. 
+ 
+La Compañía estima el TIE utilizando datos observables (como las tasas de interés del 
+mercado) cuando están disponibles y es requerido para hacer ciertas estimaciones 
+específicas de la entidad. 
+ 
+Como arrendador – 
+Los arrendamientos en los que la Compañía no transfiere sustancialmente todos los 
+riesgos y beneficios relacionados con la propiedad de un activo se clasifican como 
+arrendamientos operativos. Los ingresos por alquiler que surgen se contabilizan 
+linealmente en los términos del arrendamiento y se incluyen en el rubro “Ventas netas” 
+del estado separado de resultados integrales debido a su naturaleza operativa. Los costos 
+directos iniciales incurridos en la negociación y organización de un arrendamiento 
+operativo se adicionan al valor en libros del activo arrendado y se reconocen durante el 
+plazo del arrendamiento sobre la misma base que los ingresos por alquiler. Los alquileres 
+contingentes se reconocen como ingresos en el periodo en que se obtienen.  
+
+=== PAGINA PDF 27 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+19 
+(l) Provisiones, ver nota 17 - 
+Las provisiones se reconocen cuando la Compañía tiene una obligación presente (legal o 
+implícita) como resultado de un suceso pasado, es probable que la entidad tenga que 
+desprenderse de recursos que incorporan beneficios económicos para cancelar la 
+obligación, y cuando pueda hacerse una estimación fiable del importe de la misma.  
+ 
+En los casos en que la Compañía espera que la provisión se reembolse en todo o en parte, 
+por ejemplo, en virtud de un contrato de seguros, el reembolso se reconoce como un 
+activo separado únicamente en los casos en que tal reembolso sea virtualmente cierto.  
+ 
+El gasto correspondiente a cualquier provisión se presenta en el estado separado de 
+resultados integrales neto de todo reembolso relacionado. 
+ 
+Si el efecto del valor en el tiempo del dinero es significativo, las provisiones se descuentan 
+utilizando una tasa actual de mercado antes de impuestos que refleja, cuando 
+corresponda, los riesgos específicos del pasivo. Cuando se reconoce el descuento, el 
+aumento de la provisión producto del paso del tiempo se reconoce como un gasto 
+financiero en el estado separado de resultados integrales. 
+ 
+(m) Impuestos, ver nota 18 - 
+(m.1)  Impuesto a las ganancias corriente – 
+Los activos y pasivos por el impuesto a las ganancias corriente se miden por los 
+importes que se esperan recuperar o pagar de o a la autoridad fiscal. Las tasas 
+impositivas y la normativa fiscal utilizadas para computar dichos importes son 
+aquellas que estén aprobadas o cuyo procedimiento de aprobación se encuentre 
+próximo a completarse a la fecha de cierre del periodo sobre el que se informa, 
+correspondientes al Perú, país en el que la Compañía opera y genera utilidades 
+sujetas al impuesto.  
+ 
+El impuesto a las ganancias corriente que se relaciona con partidas que se 
+reconocen directamente en el patrimonio, también se reconoce en el patrimonio y 
+no en el estado separado de resultados integrales. La Gerencia evalúa en forma 
+periódica las posiciones tomadas en las declaraciones de impuestos con respecto a 
+las situaciones en las que las normas fiscales aplicables se encuentran sujetas a 
+interpretación, y constituye provisiones cuando fuera apropiado. 
+ 
+ (m.2) Impuesto a las ganancias diferido – 
+El impuesto a las ganancias diferido se reconoce utilizando el método del pasivo 
+sobre las diferencias temporales entre las bases impositivas de los activos y 
+pasivos y sus importes en libros a la fecha de cierre del periodo sobre el que se 
+informa.  
+  
+
+=== PAGINA PDF 28 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+20 
+Los pasivos por impuesto diferido se reconocen por todas las diferencias 
+temporales imponibles, salvo las diferencias temporales imponibles relacionadas 
+con las inversiones en subsidiarias, dado que su reversión se puede controlar, y es 
+probable que las mismas no se reversen en el futuro cercano. 
+ 
+Los activos por impuesto diferido se reconocen por todas las diferencias 
+temporales deducibles, y por la compensación futura de créditos fiscales y pérdidas 
+tributarias arrastrables no utilizadas, en la medida en que sea probable la 
+existencia de ganancias imponibles disponibles futuras contra las cuales se puedan 
+compensar dichas diferencias temporales deducibles, y/o se puedan utilizar dichos 
+créditos fiscales y pérdidas tributarias arrastrables, salvo las diferencias 
+temporales deducibles relacionadas con las inversiones en subsidiarias, asociadas y 
+participaciones en negocios conjuntos, donde los activos por impuesto diferido se 
+reconocen solamente en la medida en que sea probable que las diferencias 
+temporales deducibles se reviertan en un futuro cercano, y que existan ganancias 
+imponibles disponibles futuras contra las cuales se puedan compensar dichas 
+diferencias. 
+ 
+El importe en libros de los activos por impuesto diferido se revisa en cada fecha de 
+cierre del periodo sobre el que se informa y se reduce en la medida en que ya no 
+sea probable la existencia de suficiente ganancia imponible futura para permitir 
+que esos activos por impuesto diferido sean utilizados total o parcialmente. Los 
+activos por impuesto diferido no reconocidos se reevalúan en cada fecha de cierre 
+del periodo sobre el que se informa y se reconocen en la medida en que se torne 
+probable la existencia de ganancias imponibles futuras que permitan recuperar 
+dichos activos por impuesto diferido no reconocidos con anterioridad. 
+ 
+Los activos y pasivos por impuesto diferido se miden a las tasas impositivas que se 
+espera sean de aplicación en el ejercicio en el que el activo se realice o el pasivo se 
+cancele, en base a las tasas impositivas y normas fiscales que fueron aprobadas a 
+la fecha de cierre del periodo sobre el que se informa, o cuyo procedimiento de 
+aprobación se encuentre próximo a completarse a esa fecha.  
+ 
+El impuesto diferido se reconoce en relación con la partida que lo origina, ya sea en 
+otros resultados integrales o directamente en el patrimonio neto. 
+ 
+Los activos y pasivos por impuesto diferido se compensan si existe un derecho 
+legalmente exigible de compensar los activos y pasivos por impuesto a las 
+ganancias corriente, y si los impuestos diferidos se relacionan con la misma 
+autoridad tributaria y la misma jurisdicción fiscal.  
+  
+
+=== PAGINA PDF 29 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+21 
+(m.3) Impuesto sobre las ventas – 
+Los ingresos de actividades ordinarias, los gastos y los activos se reconocen 
+excluyendo el importe de cualquier impuesto sobre las ventas (ej. Impuesto al valor 
+agregado), salvo: 
+ 
+(i) Cuando el impuesto sobre las ventas incurrido en una adquisición de activos 
+o en una prestación de servicios no resulte recuperable de la autoridad 
+fiscal, en cuyo caso ese impuesto se reconoce como parte del costo de 
+adquisición del activo o como parte del gasto, según corresponda; 
+(ii) Las cuentas por cobrar y por pagar que ya estén expresadas incluyendo el 
+importe de impuestos sobre las ventas. 
+ 
+El importe neto del impuesto sobre las ventas que se espera recuperar de, o que 
+corresponda pagar a la autoridad fiscal, se presenta como una cuenta por cobrar o 
+una cuenta por pagar en el estado separado de situación financiera, según 
+corresponda. 
+ 
+(n) Beneficios a los empleados, ver nota 16 - 
+- Vacaciones y gratificaciones –  
+Las vacaciones anuales de los trabajadores, sus gratificaciones y otros beneficios 
+se calculan sobre la base de disposiciones legales vigentes en el Perú y son 
+registradas sobre la base del devengado. La obligación estimada por vacaciones 
+anuales, gratificaciones y otros beneficios a los trabajadores resultantes de sus 
+servicios prestados, se reconocen a la fecha del estado separado de situación 
+financiera.  
+ 
+- Compensación por tiempo de servicios – 
+La compensación por tiempo de servicios de los trabajadores (CTS) corresponde a 
+su derecho indemnizatorio equivalente a una remuneración por año laborado, 
+calculada de acuerdo con la legislación vigente, que debe ser depositada en las 
+cuentas bancarias elegidas por los trabajadores, fraccionada en dos momentos, en 
+el mes de mayo (CTS del 1 de noviembre al 30 de abril) y noviembre (CTS del 1 de 
+mayo al 31 de octubre) de cada año. Dichos depósitos tienen carácter cancelatorio, 
+de acuerdo con lo establecido por Ley. La Compañía no tiene obligaciones de pago 
+adicionales una vez que efectúe los depósitos anuales de los fondos a los que el 
+trabajador tiene derecho. 
+ 
+- Participación en las utilidades – 
+Las participaciones de los trabajadores en las utilidades de la Compañía son 
+calculadas de acuerdo con normas legales vigentes (Decreto Legislativo N° 892) 
+sobre la misma base neta imponible utilizada para calcular el impuesto a las 
+ganancias. Para el caso de la Compañía, la tasa de la participación en las utilidades 
+es de 10 por ciento sobre la base neta imponible del año corriente. De acuerdo con 
+las leyes peruanas, existe un límite en la participación que un trabajador puede 
+recibir, equivalente a 18 sueldos mensuales.  
+
+=== PAGINA PDF 30 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+22 
+La Compañía reconoce la porción corriente de las participaciones en las utilidades 
+pagadas directamente a los trabajadores de acuerdo con lo establecido en la NIC 
+19 “Beneficios a los empleados”, mediante el cual considera dichas participaciones 
+como cualquier beneficio que la entidad proporciona a los trabajadores a cambio de 
+sus servicios. Basado en esto, la Compañía reconoce las participaciones como 
+costo o gasto, dependiendo de la función que desempeñen los trabajadores. 
+ 
+(o) Reconocimiento de ingresos, ver nota 20 - 
+Los ingresos de la Compañía corresponden principalmente a la venta de bienes, cuya 
+transferencia a los clientes se da en un momento determinado que es la entrega del bien. 
+Los otros ingresos, que son menores con relación a las ventas, corresponden a servicios 
+de asistencia técnica que son brindados a sus clientes y regalías que son cobradas a sus 
+distribuidores exclusivos. La Compañía ha concluido que es Principal en sus acuerdos de 
+venta debido a que controla los bienes o servicios antes de transferirlos al cliente. 
+ 
+Venta de bienes - 
+Los ingresos por venta de bienes se reconocen cuando la Compañía ha entregado los 
+productos al cliente, el cliente tiene discreción sobre los mercados y los precios para 
+vender los productos y no existe ninguna obligación incumplida que puede afectar la 
+aceptación de los productos por parte del cliente. La entrega al cliente no se da hasta que 
+los productos han sido transferidos en el medio de transporte que designe en la ubicación 
+especificada o en el puerto de salida, los riesgos de obsolescencia y perdida han sido 
+transferidos al cliente y este ha aceptado los productos de acuerdo con el contrato y la 
+condición de venta pactada y la cobranza de las cuentas por cobrar está razonablemente 
+asegurada. 
+ 
+Asimismo, se requiere que el cliente acepte los productos de acuerdo con el contrato de 
+venta y que la Compañía tenga evidencia objetiva que se han satisfecho los criterios de 
+aceptación. Con la entrega de los productos se consideran transferidos los riesgos y 
+beneficios asociados a esos bienes.  
+ 
+Las principales condiciones de venta que la Compañía utiliza con sus clientes locales son la 
+venta de los productos puesto en almacén de la Compañía o puesto en el almacén del 
+cliente, las exportaciones se efectúan bajo el incoterm FOB.  
+ 
+La NIIF 15 establece un modelo de cinco pasos que será aplicado a aquellos ingresos de 
+actividades ordinarias procedentes de contratos con clientes y que incluyen: 
+ 
+- Identificación del contrato con el cliente 
+- Identificación de las obligaciones de desempeño en el contrato 
+- Determinación del precio de la transacción 
+- Asignación del precio de la transacción a las obligaciones de desempeño del 
+contrato 
+- Reconocimiento de los ingresos de actividades ordinarias cuando (o a medida que) 
+la entidad satisface las obligaciones de desempeño. 
+
+=== PAGINA PDF 31 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+23 
+Los principios contables establecidos en la NIIF 15 proporcionan un enfoque más 
+estructurado para medir y reconocer los ingresos. 
+ 
+Asimismo, los otros aspectos relevantes para la Compañía son la determinación del precio 
+de venta y si, en algunos casos, existen otras obligaciones de desempeño que se deben 
+separar de la venta y entrega de los bienes. En este sentido los aspectos relevantes que 
+aplican a la Compañía de acuerdo con la NIIF 15 son: 
+ 
+Venta de servicios -  
+Los ingresos provenientes de servicios, que sustancialmente se refieren a servicios de 
+transformación de azúcar, servicios agrícolas y alquiler de maquinarias, correspondientes 
+a contratos a precios fijos, se reconocen en el periodo en el que se prestan considerando 
+el grado de terminación de la prestación al final del periodo sobre el cual se informa, 
+calculado sobre la base del servicio realmente brindado coma una proporción del total de 
+los servicios a ser brindados (método del porcentaje de terminación).  
+ 
+Las estimaciones de los ingresos, los costos o el avance del progreso de los servicios 
+brindados hacia su finalización se revisan si cambian las circunstancias. Cualquier 
+aumento a disminución resultante en los ingresos o costos estimados se refleja en el 
+resultado en el periodo en que las circunstancias que dan lugar a la revisión sean 
+conocidas por la Compañía. 
+ 
+Ingreso por intereses -  
+Los ingresos provenientes de intereses se reconocen sobre la base de la proporción de 
+tiempo transcurrido, usando el método de interés efectivo. Cuando un préstamo a cuenta 
+por cobrar ha sufrido desvalorización o deterioro, la Compañía reduce el valor en libros a 
+su valor recuperable, siendo los flujos de efectivo futuros descontados a la tasa de interés 
+original. 
+ 
+(p) Reconocimiento de costos y gastos, ver notas 21, 22, 23, 24 y 25 - 
+Los costos y gastos se reconocen a medida que devengan, independientemente del 
+momento en que se paguen, y se registran en los períodos con los cuales se relacionan. 
+ 
+(q) Costos de financiamiento – 
+Los costos por préstamos que sean directamente atribuibles a la adquisición, construcción 
+o producción de un activo que necesariamente lleve un período de tiempo sustancial para 
+que esté disponible para su uso esperado o su venta, se capitalizan como parte del costo 
+del activo respectivo. 
+ 
+Estos costos de financiamiento se capitalizan, como parte del costo del activo, siempre 
+que sea probable que den lugar a beneficios económicos futuros para la entidad y puedan 
+ser medidos con fiabilidad. Todos los demás costos por préstamos se contabilizan como 
+gastos en el período en el que se incurren. Los costos por préstamos incluyen los intereses 
+y otros costos en los que incurre la Compañía en relación con la celebración de los 
+acuerdos de préstamos respectivos.  
+
+=== PAGINA PDF 32 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+24 
+(r) Pasivos y activos contingentes – 
+Un pasivo contingente es divulgado cuando la existencia de una obligación sólo será 
+confirmada por eventos futuros o cuando el importe de la obligación no puede ser medido 
+con suficiente confiabilidad. Los activos contingentes no son reconocidos, pero son 
+divulgados cuando es probable que se produzca un ingreso de beneficios económicos 
+hacia la Compañía. 
+ 
+ Por su naturaleza, las contingencias sólo se resolverán cuando uno o más eventos futuros 
+ocurran o no. La determinación de las contingencias involucra inherentemente el ejercicio 
+del juicio y el cálculo de estimados de los resultados de eventos futuros. 
+ 
+(s) Clasificación de partidas en corrientes y no corrientes – 
+La Compañía presenta los activos y pasivos en el estado separado de situación financiera, 
+clasificados en corrientes y no corrientes. Un activo es clasificado como corriente cuando 
+la entidad:  
+ 
+- Espera realizar el activo o tiene la intención de venderlo o consumirlo en su ciclo 
+normal de operación.  
+- Mantiene el activo principalmente con fines de negociación.  
+- Espera realizar el activo dentro de los doce meses siguientes del período sobre el 
+que se informa; o  
+- El activo es efectivo o equivalente al efectivo, a menos que se encuentre 
+restringido y no pueda ser intercambiado ni utilizado para cancelar un pasivo, por 
+un periodo mínimo de doce meses siguientes al período sobre el que se informa.  
+ 
+Todos los demás activos se clasifican como no corrientes.  
+ 
+Un pasivo se clasifica como corriente cuando la entidad:  
+- Espera liquidar el pasivo en su ciclo normal de operación.  
+- Mantiene el pasivo principalmente con fines de negociación.  
+- El pasivo debe liquidarse dentro de los doce meses siguientes del período sobre el 
+que se informa; o  
+- No tiene un derecho incondicional para aplazar la cancelación del pasivo durante al 
+menos, los doce meses siguientes al período sobre el que se informa a la fecha de 
+cierre. 
+ 
+Todos los demás pasivos se clasifican como no corrientes. 
+ 
+Los activos y pasivos por impuesto a las ganancias diferidos se clasifican como activos y 
+pasivos no corrientes en todos los casos. 
+  
+
+=== PAGINA PDF 33 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+25 
+(t) Valor razonable de instrumentos financieros – 
+El valor razonable es el precio que se recibiría por vender un activo o que se pagaría al 
+transferir un pasivo en una transacción ordenada entre participantes de un mercado a la 
+fecha de medición. La medición al valor razonable se basa en el supuesto de que la 
+transacción para vender el activo o transferir el pasivo tiene lugar, ya sea: 
+ 
+- En el mercado principal para el activo o pasivo, o 
+- En ausencia de un mercado principal, en el mercado más ventajoso para el activo o 
+pasivo. 
+ 
+El mercado principal o más ventajoso debe ser accesible para la Compañía. 
+ 
+El valor razonable de un activo o pasivo se mide utilizando los supuestos que los 
+participantes en el mercado usarían al ponerle valor al activo o pasivo, asumiendo que los 
+participantes en el mercado actúan en su mejor interés económico.  
+ 
+La medición del valor razonable de activos no financieros toma en consideración la 
+capacidad de un participante en el mercado para generar beneficios económicos mediante 
+el mayor y mejor uso del activo, o vendiéndolo a otro participante en el mercado que 
+usaría el activo de la mejor manera posible. 
+ 
+La Compañía utiliza técnicas de valuación que son apropiadas en las circunstancias y por 
+las cuales tienen suficiente información disponible para medir al valor razonable, 
+maximizando el uso de datos observables relevantes y minimizando el uso de datos no 
+observables. 
+ 
+Todos los activos y pasivos por los cuales se determinan o divulgan valores razonables en 
+los estados financieros separados son clasificados dentro de la jerarquía de valor 
+razonable descrita a continuación, en base al nivel más bajo de los datos usados que sean 
+significativos para la medición al valor razonable como un todo: 
+ 
+- Nivel 1 - Precios cotizados (no ajustados) en mercados activos para activos o 
+pasivos idénticos. 
+- Nivel 2 - Técnicas de valuación por las cuales el nivel más bajo de información que 
+es significativo para la medición al valor razonable es directa o indirectamente 
+observable. 
+- Nivel 3 - Técnicas de valuación por las cuales el nivel más bajo de información que 
+es significativo para la medición al valor razonable no es observable. 
+ 
+Para los activos y pasivos que son reconocidos al valor razonable en los estados 
+financieros separados sobre una base recurrente, la Compañía determina si se han 
+producido transferencias entre los diferentes niveles dentro de la jerarquía mediante la 
+revisión de la categorización al final de cada período de reporte. 
+  
+
+=== PAGINA PDF 34 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+26 
+La Gerencia determina las políticas y procedimientos para mediciones al valor razonable 
+recurrentes y no recurrentes. A cada fecha de reporte, la Gerencia analiza los 
+movimientos en los valores de los activos y pasivos que deben ser valorizados de acuerdo 
+con las políticas contables de la Compañía. 
+ 
+Para propósitos de las divulgaciones de valor razonable, la Compañía ha determinado las 
+clases de activos y pasivos sobre la base de su naturaleza, características y riesgos y el 
+nivel de la jerarquía de valor razonable tal como se explicó anteriormente, ver nota 32. 
+ 
+(u) Utilidad por acción, ver nota 28 - 
+La utilidad básica por acción común ha sido calculada dividiendo la utilidad neta del año 
+atribuible a los accionistas comunes, entre el promedio ponderado del número de acciones 
+comunes en circulación durante dicho año. Debido a que no existen acciones comunes 
+potencialmente diluyentes, esto es, instrumentos financieros u otros contratos que den 
+derecho a obtener acciones comunes, la utilidad diluida por acción común es igual a la 
+utilidad básica por acción común. 
+ 
+(v) Segmentos – 
+ El órgano encargado de la toma de decisiones operativas, que es responsable de asignar 
+los recursos y evaluar el rendimiento de los segmentos operativos, ha sido identificado 
+como el Directorio, encargado de la toma de decisiones estratégicas. La Gerencia ha 
+determinado los segmentos operativos sobre la base de los informes que revisa el 
+Directorio.  
+ 
+El Directorio considera el negocio desde una perspectiva por línea de productos: azúcar y 
+su derivado alcohol y otros productos como melaza y bagazo de caña de azúcar y otros 
+servicios, siendo el principal segmento el de azúcar (rubia doméstica, refinada y rubia de 
+exportación), que representa el 81.72 por ciento de los ingresos en el 2020 (84.60 por 
+ciento en el 2019) y que resulta de un único proceso productivo; el resto no supera, 
+individualmente el 18.28 por ciento (15.40 por ciento en el 2019) del total de ingresos, 
+por lo que no constituyen segmentos reportables y, en consecuencia, tal información no 
+es requerida para un adecuado entendimiento de las operaciones y el desempeño de la 
+Compañía.  
+ 
+Es importante mencionar que, si bien la Compañía distingue y evalúa el negocio por líneas 
+de producto, ciertos activos operativos se identifican con la producción destinada a una u 
+otra línea específicamente, dada las características de los procesos y productos y la 
+comercialización de éstos, siendo el objetivo primario satisfacer adecuadamente el 
+mercado de azúcar. En este sentido, los registros contables de los rubros constituidos 
+principalmente, por plantas industriales, maquinarias, equipos de producción y otros, que 
+son utilizados para el proceso productivo, en ciertos casos pueden ser asignados a una 
+línea de producto particular, pero no pueden ser diferenciados por segmentos.  
+  
+
+=== PAGINA PDF 35 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+27 
+2.3. Modificaciones a las normas Internacionales de Información Financiera (NIIF) 
+(a)  NIIF emitidas y vigentes en el Perú al 31 de diciembre de 2020: 
+El Consejo Normativo de Contabilidad (CNC) a través de la Resolución Nº 001-2020-EF/30 
+emitida el 17 de julio de 2020, oficializó las modificaciones a la NIC 1 “Presentación de 
+Estados Financieros” y el set completo de NIIF 2020 (NIC, NIIF, CINIIF y SIC), que incluye el 
+Marco Conceptual para la información Financiera, así como la Modificación a la NIIF 16 
+“Arrendamientos” (reducciones del alquiler relacionadas con el COVID-19). Asimismo, 
+mediante Resolución N°002-2020-EF/30 emitida el 10 de setiembre de 2020, el CNC 
+oficializó las modificaciones a la NIC 16, NIIF 3, NIIF 4, NIC 37, NIIF 1, NIIF 9 y NIC 41.  
+ 
+(b) NIIF emitidas, pero no vigentes al 31 de diciembre de 2020: 
+- Modificaciones a la NIIF 3 “Combinaciones de Negocios” en lo relacionado a las 
+referencias al Marco Conceptual, efectiva para periodos anuales que comiencen en o a 
+partir del 01 de enero de 2022.  
+ 
+- Modificaciones a la NIC 1 “Presentación de Estados Financieros” en lo relacionado a la 
+clasificación de pasivos como corrientes o no corrientes, efectivas para periodos 
+anuales que comiencen en o a partir del 01 de enero de 2023.  
+    
+- Modificaciones a la NIC 16 “Propiedad, planta y equipo” en lo relacionado a 
+componentes de costo e información a revelar, efectivas para periodos anuales que 
+comiencen en o a partir del 01 de enero de 2022.   
+ 
+- Modificaciones a la NIC 37 “Provisiones, pasivos contingentes y activos contingentes” 
+referente a costos de contrato oneroso, efectiva para periodos anuales que comiencen 
+en o a partir del 01 de enero de 2022.  
+ 
+- Mejoras (ciclos 2018 – 2020) a la NIIF 1 “Adopción por Primera vez de las Normas 
+Internacionales de Información Financiera”, NIIF 9 “Instrumentos Financieros” y NIC 
+41 “Agricultura”, efectivas para períodos anuales que comiencen en o a partir del 01 
+de enero de 2022.  
+ 
+  La Gerencia de la Compañía no espera que los efectos de las modificaciones a las NIIF, si hubiera, 
+tenga un efecto material sobre los estados financieros separados. 
+ 
+2.4. Juicios, estimaciones y supuestos contables significativos  
+La preparación de los estados financieros separados siguiendo Normas Internacionales de 
+Información Financiera requiere que la Gerencia de la Compañía utilice juicios, estimaciones y 
+supuestos para determinar los montos reportados de activos y pasivos, la exposición de activos y 
+pasivos contingentes y la divulgación de eventos significativos en las notas a los estados 
+financieros separados. 
+ 
+Las estimaciones y juicios son continuamente evaluados y están basados en la experiencia 
+histórica y otros factores, incluyendo la expectativa de eventos futuros que se cree son 
+razonables bajo las actuales circunstancias. 
+  
+
+=== PAGINA PDF 36 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+28 
+Los supuestos claves relacionados con fuentes futuras y otras fuentes claves que permiten 
+estimar incertidumbres a la fecha de reporte, que tienen riesgo significativo de causar un ajuste 
+material a los valores en libros de activos y pasivos dentro del siguiente año financiero, se 
+describen a continuación. La Compañía basa sus supuestos y estimados en parámetros 
+disponibles al momento de preparar los estados financieros separados. Las circunstancias y 
+supuestos acerca de desarrollos futuros, sin embargo, podrían cambiar debido a cambios de 
+mercado o circunstancias que están más allá del control de la Compañía. Dichos cambios se 
+reflejan en los supuestos cuando ocurren. 
+ 
+En opinión de la Gerencia, estas estimaciones se efectuaron sobre la base de su mejor 
+conocimiento de hechos relevantes y circunstancias a la fecha de preparación de los estados 
+financieros separados; sin embargo, los resultados finales podrán diferir de las estimaciones 
+incluidas en los estados financieros separados. La Gerencia de la Compañía no espera que las 
+variaciones, si hubiera, tenga un efecto material sobre los estados financieros separados. 
+ 
+Las principales áreas de incertidumbre vinculadas a las estimaciones y juicios críticos realizados 
+por la Gerencia en la preparación de los estados financieros separados son: 
+ 
+(i) Valor razonable de los activos biológicos, nota 2.2(e) 
+(ii) Método de depreciación, vidas útiles y valores residuales de Propiedades, planta, planta 
+productora y equipo, nota 2.2(h) 
+(iii) Estimación por desvalorización de inventarios y valor neto de realización, nota 2.2(d) 
+(iv) Provisiones y contingencias, nota 2.2(l)  
+(v) Impuesto a las ganancias corriente y diferido, nota 2.2(m.1) y (m.2) 
+(vi) Deterioro de activos financieros y no financieros, nota 2.2((a(i)) y (j) 
+ 
+3. Efectivo y equivalente de efectivo 
+(a) A continuación, se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Caja y fondos fijos 40 40 
+Cuentas corrientes (b) 112,873 4,244 
+Depósitos a plazo (c) . 57,750  __________ __________    
+ 112,913 62,034  __________ __________ 
+ 
+(b) Al 31 de diciembre de 2020 y de 2019, la Compañía mantiene cuentas corrientes denominadas 
+en soles y dólares estadounidenses en entidades financieras del mercado local, son de libre 
+disponibilidad y no devengan intereses. 
+ 
+(c) En el periodo 2019, correspondió a depósitos a plazo mantenidos en entidades financieras del 
+mercado local, los cuales devengaron intereses a una tasa de interés promedio anual de 1 a 2.40 
+por ciento en soles, con vencimiento en enero 2020. 
+  
+
+=== PAGINA PDF 37 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+29 
+4. Cuentas por cobrar comerciales, neto 
+(a) A continuación, se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Facturas por cobrar (b) 40,099 19,161 
+Estimación para cuentas de cobranza dudosa (d)  (1,073) (1,073)  __________ __________    
+ 39,026 18,088  __________ __________ 
+ 
+(b) Las facturas por cobrar son de vencimiento corriente, no tienen garantías específicas emitidas 
+por los clientes y no devengan intereses. El período promedio de crédito otorgado a los clientes 
+nacionales se encuentra entre 30 y 45 días, y para clientes del exterior en su mayoría se realiza 
+pago adelantado. 
+ 
+(c) La antigüedad de las cuentas por cobrar comerciales es como sigue:  
+ 
+ Al 31 de diciembre de 2020  _________________________________________________  
+ No deteriorado Deteriorado Total 
+ S/(000) S/(000) S/(000)     
+No vencido 26,507 - 26,507 
+Vencido:    
+Hasta 30 días 12,514 - 12,514 
+Entre 31 y 180 días 3 - 3 
+Entre 181 días y 360 días  2  2 
+Más de 360 días - 1,073 1,073  ___________ ___________ ___________ 
+Total 39,026 1,073 40,099  ___________ ___________ ___________ 
+ 
+ Al 31 de diciembre de 2019  _________________________________________________  
+ No deteriorado Deteriorado Total 
+ S/(000) S/(000) S/(000)     
+No vencido 13,582 - 13,582 
+Vencido:    
+Hasta 30 días 4,380 - 4,380 
+Entre 31 y 180 días 126 - 126 
+Entre 181 días y 360 días - - - 
+Más de 360 días - 1,073 1,073  ___________ ___________ ___________ 
+Total 18,088 1,073 19,161  ___________ ___________ ___________ 
+ 
+La Gerencia considera que los valores en libros de las cuentas por cobrar comerciales 
+menos la estimación por deterioro, son similares a sus valores razonables debido a su 
+vencimiento corriente.  
+ 
+(d) Las cuentas por cobrar deterioradas al 31 de diciembre de 2020 y de 2019 se relacionan con 
+clientes que se encuentran con dificultades económicas, según el estudio de riesgo crediticio 
+realizado a dichas fechas. 
+  
+
+=== PAGINA PDF 38 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+30 
+El movimiento de la estimación por deterioro de las cuentas  por cobrar durante los años 2020 
+y 2019 fue como sigue: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Saldo inicial 1,073 1,078 
+Recuperos - (5)  _________ _________ 
+Saldo final 1,073 1,073  _________ _________ 
+ 
+En opinión de la Gerencia de la Compañía, la estimación por deterioro de las cuentas por 
+cobrar al 31 de diciembre de 2020 y de 2019, cubre adecuadamente el riesgo de crédito de 
+estas partidas a dichas fechas.  
+ 
+(e) La información sobre el riesgo de crédito de las cuentas por cobrar comerciales y su 
+concentración se presenta en la nota 30.2. 
+ 
+5. Otras cuentas por cobrar, neto 
+(a) A continuación, se presenta la composición del rubro: 
+ 
+  2020 2019 
+  S/(000)  S/(000)  
+   
+Activos financieros   
+Cuentas por cobrar al personal (b) 5,294 28 
+Reclamos a terceros (c) 616 531 
+Reclamos de tributos (d) 553 8,117 
+Subsidios por cobrar a Es-Salud 438 377 
+Préstamos a terceros 350 316 
+Otros 42 241   _________ _________     
+ 7,293 9,610  _________ _________ 
+ 
+Por vencimiento   
+Corriente 7,126 5,466 
+No corriente 167 4,144   _________ _________     
+ 7,293 9,610  _________ _________ 
+ 
+(b) Al 31 de diciembre de 2020, el saldo comprende adelantos de remuneraciones otorgados a los 
+trabajadores que tuvieron licencia con goce de haber sujeto a compensación, debido a la 
+coyuntura Covid-19. 
+ 
+(c) Corresponde principalmente a retenciones judiciales los cuales se encuentran en proceso de 
+devolución.  
+ 
+  
+
+=== PAGINA PDF 39 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+31 
+(d) Al 31 de diciembre de 2020 y de 2019, el detalle de los reclamos por tributos se compone de la 
+siguiente manera: 
+ 
+  Ref. 2020 2019 
+   S/(000)  S/(000)  
+    
+Ingreso como recaudación  (i) 250 3,964 
+Pago indebido por Impuesto a la Renta  (ii) 90 3,977 
+Otros  213 176    _________ _________ 
+  553 8,117   _________ _________ 
+ 
+(i) En el periodo 2019, la Administración Tributara mediante Resolución de Intendencia 
+N°0120240001765 dispuso el ingreso como recaudación de los fondos de la cuenta de detracción en 
+el Banco de La Nación; dichos fondos fueron compensados con los tributos por pagar en enero 2020, 
+correspondiente al periodo tributario diciembre 2019.  
+ 
+(ii) En el periodo 2019, corresponde al reclamo efectuado a la Administración Tributaria por un pago 
+indebido del Impuesto a la Renta del periodo 2003. La Administración Tributaria en enero 2020 
+notificó la Resolución de Intendencia N°012 -180-0021081/SUNAT, en la cual se declara que dicho 
+crédito es susceptible de ser compensado con deudas tributarias , estas compensaciones fueron 
+realizadas durante el periodo 2020.  
+ 
+(e) En opinión de la Gerencia de la Compañía y de sus asesores legales, estos importes serán 
+recuperables en su totalidad y no se requiere de una estimación por deterioro. 
+ 
+6. Inventarios, neto 
+(a) A continuación, se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Productos terminados (b)  70,989 53,882 
+Repuestos (c) 30,351      28,793 
+Materiales auxiliares y suministros diversos  16,101 13,367 
+Subproductos 3,202 5,769 
+Envases y embalajes 3,100 2,052 
+Productos en proceso 563 918 
+Existencias pecuarias 4 4 
+Mercaderías - 33 
+Inventarios en tránsito (d) 2,551 1,528  _________ _________ 
+ 126,861 106,346    
+Menos:   
+Estimación por desvalorización (e)  (17,354) (15,777)  _________ _________    
+ 109,507 90,569  _________ _________ 
+ 
+  
+
+=== PAGINA PDF 40 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+32 
+(b) Corresponde principalmente al stock de azúcar rubia, azúcar blanca refinada y alcohol etílico, los 
+cuales son mantenidos por la Compañía en su planta y en sus almacenes, y se encuentran 
+disponibles para la venta al 31 de diciembre de 2020 y de 2019. 
+ 
+(c) Corresponde a repuestos utilizados principalmente en los mantenimientos de las maquinarias y 
+equipos de la Compañía. La Gerencia de la Compañía, de acuerdo con el plan de parada de fábrica 
+y producción anual, evalúa periódicamente el grado de utilización de los repuestos en función al 
+grado de uso de los activos relacionados. 
+ 
+(d) Al 31 de diciembre de 2020 y de 2019, comprende a la adquisición de materiales auxiliares, 
+repuestos y suministros diversos, los cuales se reciben en los almacenes de la Compañía durante 
+el primer trimestre de los años 2021 y 2020, respectivamente.  
+ 
+(e) El movimiento de la estimación por desvalorización de inventarios por los años 2020 y 2019 es 
+como sigue: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Saldo inicial  15,777 15,777 
+Adiciones (*)  2,651 - 
+Recupero  (1,074) -  _________ _________    
+Saldo final 17,354 15,777  _________ _________    
+(*)  Durante el 2020, la Compañía registró el gasto por desvalorización de existencias en el rubro “costo  
+de ventas de bienes y servicios“, correspondiente a obsolescencia de repuestos y suministros diversos , 
+nota 21. 
+ 
+En opinión de la Gerencia de la Compañía, la estimación por desvalorización de inventarios cubre 
+adecuadamente su riesgo de desvalorización al 31 de diciembre de 2020 y de 2019.  
+ 
+7. Activos biológicos 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2020 2019  _____________________________  _____________________________  
+ S/(000) Hectáreas S/(000) Hectáreas 
+     
+Caña de azúcar 125,625 17,670 158,478 18,887  _________  _________  
+ 
+(b) La Compañía valoriza las plantaciones de caña de azúcar en proceso a su valor razonable. El 
+valor razonable se calcula utilizando los flujos mensuales netos de efectivos esperados y los 
+costos relacionados con estas actividades. La aplicación de esta práctica contable cumple con la 
+NIC 41 "Agricultura" y la NIIF 13 "Medición del valor razonable". Para ello, la Gerencia considera 
+el nivel 3 para determinar el valor razonable, por lo que prepara las proyecciones mensuales de 
+ingresos y gastos operativos de acuerdo con la producción estimada para la actividad.  
+  
+
+=== PAGINA PDF 41 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+33 
+(c) El movimiento de los productos biológicos al 31 de diciembre de 2020 y de 2019 se muestra a 
+continuación: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Caña de azúcar:   
+Saldo inicial de producto biológico  158,478 186,167 
+Inversión en cultivos durante el año  129,139 139,359 
+Costo de caña cosechada  (138,955) (146,682) 
+Cambio en el valor razonable de los activos biológicos  (23,037) (20,366)  __________ __________ 
+Valor presente del flujo neto estimado al final del ejercicio  125,625 158,478  __________ __________ 
+ 
+(d) Las principales premisas para el cálculo de los valores razonables de los activos biológicos son las 
+siguientes: 
+ 
+ Unidad 2020 2019 
+  S/(000) S/(000) 
+    
+ Caña de azúcar:    
+ Stock de caña corriente Ton 2,446,334 2,901,414 
+ Caña cosechada en el periodo Ton 2,073,412 2,035,458 
+ Hectáreas cosechadas en el periodo  Has 12,660 13,053 
+    
+ Proyecciones:    
+ Producción de caña Ton 2,446,334 2,901,414 
+ Hectáreas cosechadas de caña  Has 17,670 18,887 
+ Rendimiento de campo Ton/Has 138 154 
+ Precio promedio de mercado por tonelada de 
+caña (i) S/ 135 125 
+ Costo por tonelada de caña S/ 91 77 
+ Tasa de descuento % 4.11  4.29 
+ 
+(i) El precio de mercado por tonelada de caña fue calculado multiplicando el precio de la b olsa de azúcar 
+estimado por la Gerencia por un ratio histórico de rendimiento de la tonelada de caña por bolsa de 
+azúcar. El precio de mercado de la bolsa de azúcar fue calculado en base a l a última cotización 
+disponible en el mercado de New York (Sugar 11 ), más los costos estimados de nacionalizaci ón por 
+tonelada de azúcar necesarios para determinar un precio de la tonelada puesta en la Compañía, 
+partiendo del supuesto de que este sería el precio mínimo que un partícipe de mercado pudiera 
+ofertar. 
+ 
+(e) En opinión de la Gerencia de la Compañía, tanto los ingresos y egresos determinados de acuerdo 
+con la producción estimada de cada una de sus plantaciones y la tasa de descuento utilizada en 
+los flujos de caja proyectados, reflejan razonablemente las expectativas de las operaciones de la 
+Compañía y del sector económico – industrial en el cual se desenvuelve, por lo que el rubro 
+activos biológicos, representa de manera suficiente y no excesiva, el valor de mercado de la caña 
+de azúcar a la fecha del estado separado de situación financiera. 
+  
+
+=== PAGINA PDF 42 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+34 
+En la siguiente tabla se muestra la sensibilidad en el valor razonable del activo biológico ante un 
+cambio razonablemente posible en los precios del azúcar, sobre las ganancias de la Compañía 
+antes de impuesto a la renta, manteniendo las demos variables constantes: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
++1% 3,022 3,281 
+-1% (3,022) (3,281) 
++0.5% 1,511 1,641 
+-0.5% (1,511) (1,641) 
+ 
+En la siguiente tabla se muestra la sensibilidad en el valor razonable del activo biológico ante un 
+cambio razonablemente posible en los rendimientos de campo, sobre las ganancias de la 
+Compañía antes de impuesto a la renta, manteniendo las demás variables constantes. 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
++1% 990 1,272 
+-1% (990) (1,272) 
++0.5% 495 636 
+-0.5% (495) (636) 
+ 
+8. Impuestos por aplicar y gastos pagados por anticipado 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000)  
+  
+Impuestos por aplicar   
+Saldo a favor del impuesto a las ganancias  - 8,434       
+Gastos pagados por anticipado   
+Seguros 2,983 1,054 
+Otros 874 331  ____________ ____________ 
+ 3,857 1,385  ____________ ____________    
+Total  3,857 9,819  ____________ ____________ 
+ 
+
+=== PAGINA PDF 43 ===
+Notas a los estados financieros separados (continuación) 
+ 
+ 
+ 
+35 
+9. Inversión en subsidiaria 
+(a) A continuación, se presenta la composición del rubro: 
+ 
+Descripción 
+Actividad 
+principal 
+ 
+País Cantidad de acciones 
+Participación patrimonial 
+en el capital Valor de participación patrimonial     ____________________________________ ____________________________________  ________________________________  
+   2020 2019 2020 2019 2020 2019 
+     % % S/(000) S/(000) 
+         
+Agrocasagrande S.A.C. (i)  Agroindustrial Perú 6,800,733 6,800,733 99.99 99.99 66,817 71,238        ________ ________ 
+      
+(i) Agrocasagrande S.A.C. se constituyó el 20 de abril de 2016 y se encuentra ubicada en la ciudad de Trujillo, La Libertad. Su actividad económica es dedicars e al cultivo, empaque, conservación, transformación e 
+industrialización de uva y otros productos agrícolas; así como la comercialización, en el mercado local y en el exterior . 
+ 
+(b) A continuación se presenta el movimiento del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Saldo inicial  71,238 69,021 
+Ajuste por valor de participación patrimonial (d) (4,421) 2,217  _________ _________    
+Saldo final 66,817 71,238  _________ _________ 
+ 
+(c) A continuación se presenta los principales datos de los estados financieros de la subsidiaria al 31 de diciembre de 2020 y de 2019, y por los años terminados en esas fechas: 
+  
+ Agrocasagrande S.A.C.  _______________________________________  
+ 2020 2019 
+ S/(000) S/(000)    
+Total activo 115,222 95,607 
+Total pasivo 48,405 24,369 
+Patrimonio neto 66,817 71,238 
+Pérdida (Utilidad) neta (4,421) 2,217 
+ 
+(d) La inversión en subsidiaria se encuentra registrada bajo el método de participación patrimonial, producto de la aplicación de este método de medición, la Compañía reconoció en el estado 
+separado de resultados integrales del periodo 2020, una pérdida de (en miles) S/4,421 (en el periodo 2019 la Compañía reconoció una ganancia por (en miles) S/2,217). 
+
+=== PAGINA PDF 44 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+36 
+10. Propiedades, planta, planta productora y equipo, neto| 
+(a) El movimiento del rubro propiedades, planta, planta productora y equipo y su correspondiente depreciación acumulada por los años terminados el 31 de diciembre de 2020 y de 2019, es el siguiente: 
+ 
+ 
+Terrenos 
+Edificios, plantas 
+y otras 
+construcciones 
+Maquinaria y 
+ equipo 
+ 
+Mantenimientos 
+mayores 
+ 
+Planta  
+productora (i) 
+Unidades de 
+transporte 
+Muebles y  
+enseres 
+ 
+Equipos 
+diversos 
+Unidades de 
+reemplazo 
+Obras en curso y 
+unidades por 
+recibir (c) Total 
+ S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) 
+            
+Costo            
+Saldo al 1 de enero de 2019 776,967 516,980 572,808 45,261 110,592 51,175 1,482 29,590 9,219 10,526 2,124,600 
+Adiciones (b) - - 5,045 14,435 10,595 - - 52  867 30,994 
+Ventas/retiros (17) - (1,342) - (19,111) (851) - (131) (161) - (21,613) 
+Transferencias  722 3,959 3,535 - - 915 118 3,953 (5,536) (7,659) 7  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________             
+Saldo al 31 de diciembre de 2019  777,672 520,939 580,046 59,696 102,076 51,239 1,600 33,464 3,522 3,734 2,133,988  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________             
+Adiciones (b) - - - 12,050 10,878 - - - - 13,762 36,690 
+Ventas/retiros - - (1,939) - (2,653) (186) - (3) (1,175) - (5,956) 
+Reclasificaciones - - (19,241) - - - - - - - (19,241) 
+Transferencias 176 783 10,268 - - (487) 8 2,797 (2,000) (11,545) -  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________             
+Saldo al 31 de diciembre de 2020  777,848 521,722 569,134 71,746 110,301 50,566 1,608 36,258 347 5,951 2,145,481  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________             
+Depreciación acumulada            
+Saldo al 1 de enero de 2019  - 350,129 388,262 40,187 36,572 43,103 1,030 13,546 - - 872,829 
+Adiciones (d) - 7,940 31,782 14,855 10,417 3,195 73 2,864 - - 71,126 
+Ventas/retiros - - (1,184) - (11,729) (846) - (92) - - (13,851)  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________             
+Saldo al 31 de diciembre de 2019  - 358,069 418,860 55,042 35,260 45,452 1,103 16,318 - - 930,104  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________             
+Adiciones (d) - 7,569 29,343 13,915 9,312 2,346 65 2,992 - - 65,542 
+Ventas/retiros - - (1,824) - (872) (185) - (3) - - (2,884) 
+Reclasificaciones - - (8,889) - - - - - - - (8,889) 
+Transferencias - - 1,400 - - (1,298) - (102) - - -  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+Saldo al 31 de diciembre de 2020  - 365,638 438,890 68,957 43,700 46,315 1,168 19,205 - - 983,873  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________             
+            
+Valor neto al 31 de diciembre de 2019  777,672 162,870 161,186 4,654 66,816 5,787 497 17,146 3,522 3,734 1,203,884  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________             
+Valor neto al 31 de diciembre de 2020  777,848 156,084 130,244 2,789 66,601 4,251 440 17,053 347 5,951 1,161,608  ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ 
+ 
+(i) Al 31 de diciembre de 2020 y de 2019, el sado de la partida de “Planta productora” incluye plantaciones en proceso por (en miles) S/7,836 y (en miles) S/5,976, respectivamente. 
+ 
+  
+ 
+
+=== PAGINA PDF 45 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+37 
+(b) Durante el año 2020, se realizaron proyectos de inversión, destinados principalmente a la 
+adquisición maquinas agrícolas para optimizar e incrementar la cosecha mecanizada; también se 
+adquirió 01 pulverizadora autopropulsada para mejorar la oportunidad de aplicación de las 
+labores pre emergente y post emergente reduciendo el costo de mano de obra, asimismo se 
+adquirió 01 motor de inducción trifásica para mantener disponibilidad de la desfibradora en la 
+preparación de caña de azúcar, también se adquirió un variador para la centrifuga de producto 
+terminado refinería el cual tiene como objetivo asegurar la producción de 750 Tn/día de azúcar; 
+se implementó una planta envasadora de alcohol 96° para comercialización y se realizó el cambio 
+de 60 m3 de resinas a las 3 celdas de intercambio iónico de la refinería con la finalidad de 
+eliminar la disminución del porcentaje de producción de azúcar. 
+ 
+Durante el año 2019, se realizaron proyectos de inversión, destinados principalmente al cambio 
+de tuberías para generación de la caldera N°1, con la finalidad de evitar paradas imprevistas que 
+perjudiquen las operaciones de producción; también se instalaron nuevas zarandas en el área de 
+envasado de azúcar cruda, con el objetivo de mejorar la calidad del azúcar en el producto 
+terminado y poder cumplir con los estándares requeridos en la comercialización. Asimismo, se 
+cambió la calandria y cuerpo del tacho N° 6, para recuperar su capacidad de producción y 
+desarrollo de cristales de azúcar a partir del jarabe, reduciendo los tiempos perdidos por el 
+desgaste y evitando costos de mantenimiento.  
+ 
+(c) Las obras en curso y unidades por recibir comprenden todos los activos que se encuentran en 
+proceso de construcción y/o instalación, acumulando los respectivos costos hasta el momento 
+que están listos para entrar en operación, momento en el que se transfieren a la cuenta de activo 
+final. La composición de las obras en curso y unidades por recibir al 31 de diciembre de 2020 y 
+de 2019 es como sigue: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Maquinaria y equipo 3,674 3,214 
+Edificios y otras construcciones  97 - 
+Otros 2,180 520  __________ __________    
+ 5,951 3,734  __________ __________ 
+ 
+ Al 31 de diciembre de 2020, las principales obras en curso corresponden a la adquisición de 02 
+centrifugas para modificación de la purga de masa B para el aumento de producción de azúcar; 
+construcción de tres tolvas para almacenamiento de azúcar crudo con sistema de vibración con la 
+finalidad de evitar demoras por atascamiento en línea de envasado;  instalación de un 
+seccionador bajo carga para poder derivar la energía de Hidrandina hasta las líneas de Farías y 
+Chuín; se adquirió bombas de vacío, bombas dosificadoras, membranas y filtros en la planta de 
+osmosis con la finalidad de retener las partículas mejorando la limpieza y obtener un óptimo 
+funcionamiento del sistema; adquisición de dos etapas de transmisión de engranajes abiertos 
+para garantizar la operatividad continua de los molinos de extracción del trapiche B;; compra e 
+instalación de 01 variador para la centrifuga discontinua BroadBent azúcar rubia masa B a fin de 
+asegurar la producción de azúcar rubia; equipamiento de pozos a fin de incrementar el volumen 
+de agua para riego. 
+  
+
+=== PAGINA PDF 46 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+38 
+Al 31 de diciembre de 2019, las principales obras en curso comprendieron la adquisición de 2 
+etapas de transmisión de engranajes abiertos, para garantizar la operatividad continua de los 4 
+molinos de extracción del trapiche B; el cambio de 60 m3 de resina a las 3 celdas de intercambio 
+iónico, para eliminar la disminución del porcentaje de producción de azúcar; la compra de 
+repuestos para la planta de osmosis, con la finalidad de retener las partículas mejorando la 
+limpieza y obtener un óptimo funcionamiento del sistema; el estudio para la determinación del 
+uso conjunto de aguas superficiales, para optimizar la explotación de las aguas superficiales y 
+subterráneas, que adicionalmente sirva de sustento para la obtención de las licencias; la 
+adquisición de un sistema de enfriamiento de melaza, para bajar la temperatura de la melaza y 
+minimizar el riesgo de degradación de azucares reductores; y la compra de un Sistema de 
+extracción de polvo en silos y envasado de azúcar rubia. 
+ 
+(d) El gasto por depreciación de los años 2020 y 2019 se ha distribuido en el estado separado de 
+resultados integrales como sigue:  
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Costo de ventas, nota 21   
+ - Propiedades, planta y equipo 29,103 29,927 
+ - Plantas productoras (*) 9,312 10,417 
+ - Costo de caña cosechada (*) 12,298 14,898 
+ - Mantenimiento mayor 13,915 14,855 
+Gasto de ventas, nota 22 23 35 
+Gasto de administración, nota 23  891 994  ___________ ___________    
+ 65,542 71,126  ___________ ___________    
+(*) La depreciación de la planta productora y del costo de la caña cosechada (depreciación de los activos 
+utilizados en la cosecha de la caña) son presentados en la partida "materia prima" del rubro  costo de 
+ventas de bienes y servicios, ver nota 21. 
+ 
+(e) Al 31 de diciembre de 2020 y 2019, el saldo de propiedades, planta, planta productora y equipo 
+incluye bienes adquiridos a través de contratos de arrendamiento financiero, cuyo valor en libros 
+asciende a (en miles) S/746 y (en miles) S/825, respectivamente; neto de su depreciación 
+acumulada. Los activos adquiridos a través de contratos de arrendamiento financiero se 
+encuentran gravados como garantía de los arrendamientos financieros respectivos.  
+ 
+(f) La Compañía ha otorgado terrenos y edificaciones como garantía a favor de los adquirientes del 
+programa de bonos corporativos, bonos 144 A y bonos locales, emitidos por su accionista 
+Corporación Azucarera del Peru S.A. por US$106.4 y S/147.5 millones, ver nota 27(c).  
+ 
+(g) La Compañía mantiene seguros vigentes sobre sus principales activos de conformidad con 
+las políticas establecidas por la Gerencia. 
+ 
+(h) Al 31 de diciembre de 2020 y de 2019, sobre la base de las proyecciones realizadas por la 
+Gerencia sobre los resultados esperados para los años siguientes, se ha determinado que el 
+valor recuperable (valor en uso) de sus propiedades, planta, planta productora y equipo 
+excede a su valor en libros; en consecuencia, no existen situaciones que indiquen que existe 
+deterioro de dichos activos.   
+
+=== PAGINA PDF 47 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+39 
+11. Activos por derecho de uso y pasivos por arrendamiento 
+(a) A partir del 1 de enero de 2019 se reconocieron activos y pasivos por derecho de uso, producto 
+de la adopción de la NIIF 16 “Arrendamientos”. A continuación, se presenta el movimiento y la 
+composición del rubro:  
+ 
+ 
+Edificios e 
+Instalaciones 
+ S/(000) 
+Costo   
+Saldo al 1 de enero de 2019 660 
+Adiciones -  __________ 
+Saldo al 31 de diciembre de 2019 660 
+Adiciones (i) 13,191  __________ 
+Saldo al 31 de diciembre de 2020 13,851  __________   
+Depreciación acumulada   
+Saldo al 1 de enero de 2019 - 
+Adiciones (c) 220  __________ 
+Saldo al 31 de diciembre de 2019 220 
+Adiciones (c) 1,539  __________ 
+Saldo al 31 de diciembre de 2020 1,759  __________   
+Valor neto al 31 de diciembre de 2019 440  __________   
+Valor neto al 31 de diciembre de 2020 12,092  __________     
+(i)  Corresponde al contrato de arrendamiento con su Compañía relacionada Leche Gloria S.A., sobre un 
+inmueble a ser utilizado exclusivamente en el almacenamiento de productos terminados , cuyo 
+vencimiento del contrato de arrendamiento es a 10 años,  nota 29(o). 
+ 
+(b) A continuación, se detalla el movimiento por los pasivos del periodo: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Al 1 de enero 692 660 
+Adiciones 13,191 - 
+Intereses (c) 1,011 45 
+Pagos (1,975) - 
+Diferencia de cambio 41 (13)            __________ __________  
+Al 31 de diciembre, nota 29 12,960 692  __________ __________    
+Por vencimiento   
+Corriente 1,666 459 
+No corriente 11,294 233  __________ __________ 
+ 12,960 692  __________ __________ 
+
+=== PAGINA PDF 48 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+40 
+(c) Los siguientes montos se han reconocido en el estado separado de resultados integrales: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Gastos de depreciación de activos por derecho de uso, nota 21 1,539 220 
+Gastos por intereses sobre pasivos por arrendamiento, nota 25 1,011 45  __________ __________    
+ 2,550 265  __________ __________ 
+ 
+12. Intangibles, neto  
+(a) El movimiento del rubro intangible y el de su correspondiente amortización acumulada por los 
+años terminados el 31 de diciembre de 2020 y de 2019, es el siguiente: 
+ 
+ 
+Software y 
+licencias En curso Total 
+ S/(000) S/(000) S/(000)     
+Costo    
+Saldo al 1 de enero de 2019  7,021 273 7,294 
+Adiciones (b) - 340 340 
+Transferencias 68 (78) (10)  __________ __________ __________ 
+Saldo al 31 de diciembre de 2019 7,089 535 7,624 
+Adiciones (b) - 215 215 
+Transferencias 174 (174) -  __________ __________ __________ 
+Saldo al 31 de diciembre de 2020  7,263 576 7,839  __________ __________ __________ 
+    
+Amortización acumulada    
+Saldo al 1 de enero de 2019 5,512 - 5,512 
+Adiciones (c) 503 - 503  __________ __________ __________ 
+Saldo al 31 diciembre de 2019  6,015 - 6,015 
+Adiciones (c) 514 - 514  __________ __________ __________ 
+Saldo al 31 diciembre de 2020  6,529 - 6,529  __________ __________ __________     
+Valor neto al 31 de diciembre de 2019  1,074 535 1,609  __________ __________ __________     
+Valor neto al 31 de diciembre de 2020  734 576 1,310  __________ __________ __________ 
+ 
+(b) Durante el año 2020 y 2019, la Compañía realizó mejoras para el desarrollo de los sistemas 
+utilizados principalmente en los procesos de producción y distribución. 
+ 
+(c) Durante el año 2020, la amortización se distribuyó al gasto administrativo por (en miles) S/212 
+((en miles) S/181 durante el año 2019) y al costo de ventas de bienes y servicios dentro del 
+rubro otros gastos de fabricación por (en miles) S/302 ((en miles) S/322 durante el año 2019). 
+  
+
+=== PAGINA PDF 49 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+41 
+13. Otros pasivos financieros 
+A continuación, se presenta la composición del rubro:  
+ 
+ 
+Tasa de 
+interés Vencimiento Moneda 
+Destino de 
+Fondos 2020 2019 
+ %    S/(000) S/(000)        
+Préstamos bancarios -       
+Banco Internacional del Perú  4.45 Enero 2020 Soles Capital de trabajo - 18,500 
+Banco de Crédito del Perú  4.48 Abril 2020 Soles Capital de trabajo - 3,500      __________ __________        
+     -           22,000       __________ __________ 
+ 
+Durante los periodos 2020 y 2019, la Compañía ha reconocido gastos por intereses devengados, por 
+(en miles) S/668 y (en miles) S/2,575, respectivamente; los cuales se presentan en el rubro “Gastos 
+financieros” del estado separado de resultados integrales, ver nota 25. Al 31 de diciembre de 2019 se 
+mantuvo intereses por pagar por (en miles) S/125, ver nota 15. 
+ 
+14. Cuentas por pagar comerciales 
+(a) A continuación, se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Facturas por pagar  32,153 32,048 
+Pedidos por facturar 7,577 4,513  ____________ ____________    
+ 39,730 36,561  ____________ ____________ 
+ 
+(b) Las cuentas por pagar comerciales están denominadas en soles y dólares estadounidenses, son 
+de vencimiento corriente que oscilan entre 60 y 90 días, no generan intereses y no se han 
+otorgado garantías específicas por estas obligaciones. 
+ 
+(c) La Compañía ofrece a sus proveedores un programa para el pago de sus cuentas a través de 
+instituciones financieras. Este programa permite a los proveedores vender sus cuentas por 
+cobrar a las instituciones financieras en un acuerdo negociado por separado entre el proveedor y 
+la institución financiera, permitiendo a los proveedores administrar mejor sus flujos de efectivo y 
+a la Compañía reducir sus costos de procesamiento de pagos. La Compañía no tiene ningún 
+interés financiero directo en estas transacciones. Todas las obligaciones de la Compañía con sus 
+proveedores, incluidos los saldos por pagar, se mantienen según los acuerdos contractuales 
+celebrados con ellos. Al 31 de diciembre de 2020, los saldos relacionados con estas operaciones 
+ascienden a (en miles) S/2,387 y (en miles) US$1,426 ((en miles) S/1,901 y (en miles) US$1,015 
+al 31 de diciembre de 2019). 
+ 
+  
+
+=== PAGINA PDF 50 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+42 
+15. Otras cuentas por pagar 
+(a) A continuación, se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Otros pasivos financieros    
+Financiamiento con proveedores (b)  1,223 2,243 
+Dividendos, ver nota 19(d) 1,824 1,289 
+Demandas ejecutadas 713 713 
+Depósitos en garantía 560 530 
+Ventas diferidas 390 389 
+Anticipos de clientes 17 411 
+Intereses por préstamos bancarios, nota 13  - 125 
+Otros 435 454  ____________ ____________ 
+ 5,162 6,154  ____________ ____________ 
+Otros pasivos no financieros    
+Impuesto a las ganancias (c) 11,353 523 
+Impuesto general a las ventas  2,636 3,683 
+Otros impuestos 856 27  ____________ ____________ 
+ 14,845 4,233    ____________   ____________ 
+ 20,007 10,387  ____________ ____________       
+Por vencimiento   
+Corriente 19,595 8,861 
+No corriente 412 1,526  ____________ ____________    
+ 20,007 10,387  ____________ ____________ 
+ 
+  
+ 
+ 
+  
+ 
+
+=== PAGINA PDF 51 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+43 
+(b) Al 31 de diciembre de 2020 y de 2019, el saldo por financiamientos con proveedores se compone de la siguiente manera: 
+ 
+ Tasa de interés Vencimiento Garantías Moneda Importe original 2020 2019 
+ %    (000) S/(000) S/(000)         
+Naadan Jain Perú S.A.C. (i) 6.38 Diciembre 2021 Pagaré bancario Dólares 1,474 1,223 2,243       ___________ ___________         
+      1,223 2,243       ___________ ___________                 
+Por vencimiento        
+Corriente      1,223 1,128 
+No corriente      - 1,115       ___________ ___________         
+      1,223 2,243       ___________ ___________ 
+ 
+(i)  Durante los periodos 2020 y 2019, la Compañía ha reconocido gastos por intereses devengados, por (en miles) S/122 y (en miles) S/193, respectivamente; 
+los cuales se presentan en el rubro “Gastos financieros” del estado separado de resultados integrales, ver nota 25. 
+  
+(c)  Corresponde al gasto por impuesto a las ganancias corriente del periodo 2020, neto de los pagos a cuenta. 
+ 
+ 
+
+=== PAGINA PDF 52 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+44 
+16. Beneficios a los empleados  
+A continuación, se presenta la composición del rubro:  
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Participación de utilidades del ejercicio y de años anteriores  15,169 5,541 
+Vacaciones por pagar 5,162 5,399 
+Contribuciones sociales  2,172 1,867 
+Gratificaciones por pagar 1,495 1,495 
+Retenciones judiciales y bonos a trabajadores  1,013 1,214 
+Compensación por tiempo de servicios  490 532 
+Remuneraciones 355 429 
+Otros 23 35  __________ __________      
+25,879 16,512  __________ __________ 
+   
+Por vencimiento   
+Corriente 24,384 15,017 
+No corriente 1,495 1,495  __________ __________    
+ 25,879 16,512  __________ __________ 
+ 
+17. Provisiones 
+A continuación, se presenta la composición del rubro:  
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Contingencias legales y provisiones  36,019 36,173 
+Contingencias laborales 13,277 15,155  __________ __________     
+49,296 51,328  __________ __________ 
+   
+Por vencimiento   
+Corriente 14,771 16,803 
+No corriente 34,525 34,525  __________ __________    
+ 49,296 51,328  __________ __________ 
+
+=== PAGINA PDF 53 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+45 
+18. Pasivo por impuesto a las ganancias diferido, neto  
+(a) A continuación, se detallan los componentes que originan el impuesto a las ganancias diferido al 31 de diciembre de 2020 y de 2019: 
+ 
+ 
+Al 1 de enero  
+de 2019 Ingreso (gasto) 
+Al 31 de diciembre 
+de 2019 Ingreso (gasto) 
+Al 31 de diciembre 
+de 2020 
+  S/(000) S/(000) S/(000) S/(000) S/(000) 
+      
+Pasivo diferido            
+Costo de propiedades, planta, planta productora y equipo  (216,604) (47) (216,651) 1,538 (215,113) 
+Valor razonable de activo biológico (13,560) 3,054 (10,506) 3,455 (7,051) 
+Depreciación de planta productora  (1,507) 268 (1,239) (515) (1,754) 
+Participación de utilidades (900) (129) (1,029) 824 (205) 
+Otras diferencias temporarias  (59) 53 (6) 6 -   ___________ ___________ ___________ ___________ ___________ 
+  (232,630) 3,199 (229,431) 5,308 (224,123)   ___________ ___________ ___________ ___________ ___________ 
+       
+Activo diferido       
+Contingencias laborales 2,668 (215) 2,453 (307) 2,146 
+Estimación por desvalorización de existencias  2,367 - 2,367 236 2,603 
+Provisiones de vacaciones  806 4 810 (68) 742 
+Parada de planta 760 (154) 606 (1,024) (418) 
+Estimación por deterioro de planta productora  (168) - (168) (1,683) (1,851) 
+Otras diferencias temporarias (277) 304 27 14 41   ___________ ___________ ___________ ___________ ___________ 
+  6,156 (61) 6,095 (2,832) 3,263   ___________ ___________ ___________ ___________ ___________       
+Total pasivo diferido, neto (226,474) 3,138 (223,336) 2,476 (220,860)  ___________ ___________ ___________ ___________ ___________ 
+ 
+Los activos y pasivos diferidos se miden utilizando las tasas de impuestos que se espera aplicar a la renta imponible en los años en que estas diferencias se 
+recuperen o eliminen; de acuerdo con el régimen tributario que les corresponda, conforme se indica en la nota 26.  
+ 
+(b) El impuesto a las ganancias mostrado en el estado separado de resultados integrales por los años 2020 y de 2019 se compone de la siguiente manera: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Corriente (19,820) (6,744) 
+Diferido 2,476 3,138  ___________ ___________    
+ (17,344) (3,606)  ___________ ___________ 
+ 
+ 
+
+=== PAGINA PDF 54 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+46 
+(c) A continuación, se presenta para los años 2020 y de 2019, la conciliación de la tasa efectiva del 
+impuesto a las ganancias: 
+ 
+ 2020 2019  _____________________________ _____________________________  
+ S/(000) % S/(000) % 
+     
+Utilidad antes de impuesto a las 
+ganancias 106,264 100 21,668 100  _________ _________ _________ _________      
+Gasto teórico del impuesto a las 
+ganancias (15,939) (15) (3,250) (15) 
+Más (menos)     
+Gastos no deducibles (5,152) (5) (3,660) (17) 
+Ingresos no gravados 3,747 4 3,304 15  _________ _________ _________ _________      
+Gasto por impuesto a las 
+ganancias con tasa efectiva (17,344) (16) (3,606) (17)  _________ _________ _________ _________ 
+ 
+19. Patrimonio neto 
+(a) Capital social - 
+Al 31 de diciembre de 2020 y de 2019, el capital social está representado por 84,234,548 
+acciones comunes a un valor nominal de S/10 cada una, las cuales se encuentran íntegramente 
+emitidas y pagadas.  
+ 
+Al 31 de diciembre de 2020 la estructura societaria de la Compañía es la siguiente:  
+ 
+Participación individual en el capital (en %)  
+Número de  
+accionistas 
+Porcentaje de 
+participación 
+  %    
+Hasta 1.00 3,526 23.60 
+De 1.01 a 5.00 6 12.54 
+De 5.01 a 10.00 1 5.34 
+De 50.01 a 60.00 1 58.52  ________ ________    
+ 3,534 100.00  ________ ________ 
+ 
+La Compañía cotiza sus acciones en la Bolsa de Valores de Lima. El valor de mercado de las 
+acciones comunes asciende a S/4.75 por acción al 31 de diciembre de 2020 (S/3.03 al 31 de 
+diciembre de 2019) y presentan una frecuencia de negociación de 50 por ciento. 
+ 
+(b) Capital adicional - 
+Al 31 de diciembre de 2020 y de 2019, incluye (en miles) S/4,685 de aportes recibidos cuyas 
+acciones se encuentran pendientes de emisión. 
+ 
+  
+
+=== PAGINA PDF 55 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+47 
+(c) Reserva legal -  
+De acuerdo con la Ley General de Sociedades, la reserva legal se constituye con la transferencia 
+de 10 por ciento de la utilidad neta anual hasta alcanzar un monto equivalente al 20 por ciento 
+del capital pagado. En ausencia de utilidades no distribuidas o reservas de libre disposición, la 
+reserva legal podrá ser aplicada a la compensación de pérdidas, debiendo ser repuesta con las 
+utilidades de ejercicios posteriores. Esta reserva puede ser capitalizada siendo igualmente 
+obligatoria su reposición.  
+ 
+Durante el periodo 2020 y de 2019, la Compañía ha transferido de resultados acumulados a 
+reserva legal el importe de (en miles) S/1,806 y (en miles) S/215, respectivamente; 
+correspondiente a la utilidad neta de los periodos 2019 y 2018, respectivamente. 
+ 
+(d) Distribución de dividendos – 
+En el periodo 2020, mediante acuerdos en la Junta General de Accionistas de fechas 30 de julio 
+de 2020 y 07 de diciembre de 2020, se aprobó la distribución de dividendos correspondiente a 
+los resultados acumulados obtenidos al 31 de diciembre de 2019 por (en miles) S/9,031 y (en 
+miles) S/10,000, respectivamente. 
+ 
+En el periodo 2019, mediante acuerdo en la Junta General de Accionistas de fechas 26 de marzo 
+de 2019, se aprobó la distribución de dividendos correspondiente a los resultados acumulados 
+obtenidos al 31 de diciembre de 2018 por (en miles) S/1,065. 
+ 
+Al 31 de diciembre de 2020 y de 2019, se encontraban dividendos pendientes de pago por (en 
+miles) S/1,824 y (en miles) S/1,289, respectivamente, ver nota 15(a). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PAGINA PDF 56 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+48 
+20. Ventas netas de bienes y servicios 
+(a) A continuación, se presenta la composición del rubro: 
+ 
+  2020 2019 
+ S/(000) S/(000) 
+   
+Tipos de bienes o servicios -    
+Ingreso por venta y transporte de bienes    
+Azúcar 484,940 398,729 
+Alcohol 69,314 43,095 
+Caña y derivados de azúcar 27,765 18,823 
+Otros ingresos menores 3,566 3,385  __________ __________ 
+ 585,585 464,032  __________ __________    
+Ingreso por prestación de servicios    
+Envasado 1,209 141 
+Otros servicios  6,592 7,359  __________ __________ 
+ 7,801 7,500  __________ __________    
+ 593,386 471,532  __________ __________       
+Ingresos por mercado   
+Local 133,866 400,829 
+Exterior 459,520 70,703  __________ __________    
+ 593,386 471,532  __________ __________       
+Ingresos por tipo de cliente    
+Terceros 510,413 405,335 
+Relacionadas 82,973 66,197  __________ __________    
+ 593,386 471,532  __________ __________ 
+ 
+ 
+ 
+  
+
+=== PAGINA PDF 57 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+49 
+21. Costo de ventas de bienes y servicios 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Bienes:   
+Inventario inicial de productos terminados, nota 6(a)  53,882 49,801 
+Inventario inicial de subproductos, nota 6(a)  5,769 5,484 
+Inventario inicial de producción en proceso, nota 6(a)  918 1,194 
+Materia prima 267,079 229,232 
+Materiales auxiliares y suministros  10,074 10,131 
+Mano de obra 9,476 8,205 
+Servicios de terceros 5,341 189 
+Flete y almacenaje  20,999 21,780 
+Depreciación, nota 10(d) 28,383 29,769 
+Costo de caña   7,259 571 
+Desvalorización de inventarios, neto de recupero, nota 6(e) 1,577 - 
+Restitución de derechos arancelarios – Drawback (418) (302) 
+Depreciación de activos por derecho de uso, nota 10(c)  1,539 220 
+Otros gastos de fabricación 69,761 74,997 
+Compra de producto terminado  1,877 2,810 
+Gastos de parada de fábrica 7,623 16,129 
+Participación de los trabajadores  - 1,143 
+Inventario final de productos terminados, nota 6(a)  (70,989) (53,882) 
+Inventario final de subproductos, nota 6(a)  (3,202) (5,769) 
+Inventario final de producción en proceso, nota 6(a) (563) (918)  ____________ ____________ 
+ 416,385 390,784  ____________ ____________    
+   
+Servicios:   
+Mano de obra 1,291 2,414 
+Servicios de terceros 6 288 
+Depreciación, nota 10(d) 720 158 
+Otros gastos de fabricación 5,261 4,632  ____________ ____________ 
+ 7,278 7,492  ____________ ____________    
+Total 423,663 398,276  ____________ ____________ 
+  
+
+=== PAGINA PDF 58 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+50 
+22. Gastos de venta 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Gastos de personal 1,545 1,072 
+Servicios prestados por terceros  1,379 240 
+Cargas diversas de gestión 54 112 
+Alquileres 51 60 
+Depreciación, nota 10(d) 23 35 
+Otros 302 174  _________ _________    
+ 3,354 1,693  _________ _________ 
+ 
+23. Gastos de administración  
+A continuación, se presenta la composición del rubro: 
+  
+2020 2019  
+S/(000) S/(000) 
+   
+Gastos de personal 19,148 16,114 
+Servicios prestados por terceros  5,529 5,947 
+Asesoría legal y gerencial 3,574 3,474 
+Honorarios 1,430 1,695 
+Alquileres  967 956 
+Cargas diversas de gestión y provisiones  918 3,026 
+Depreciación, nota 10(d) 891 994 
+Impuestos 686 954 
+Amortización, nota 12(c) 212 181 
+Perdidas por reclamos  118 107 
+Sanciones administrativas y fiscales  24 3 
+Otros 188 273  __________ __________    
+ 33,685 33,724  __________ __________ 
+ 
+ 
+ 
+  
+
+=== PAGINA PDF 59 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+51 
+24. Otros ingresos y gastos operativos, neto 
+A continuación, se presenta la composición del rubro: 
+  
+2020 2019  
+S/(000) S/(000) 
+   
+Otros ingresos operativos   
+Venta de chatarra 2,978 3,551 
+Alquileres 1,039 934 
+Extorno de provisiones 586 1,005 
+Diversos relacionadas 569 661 
+Subsidios gubernamentales 427 - 
+Reclamos a terceros 104 481 
+Servicios en beneficio al personal  374 402 
+Enajenación de propiedades, planta, planta productora y equipo  133 192 
+Otros 341 266  ____________ ____________ 
+ 6,551 7,492  ____________ ____________ 
+   
+Otros gastos operativos   
+Gastos por emergencia sanitaria Covid -19 (9,515) - 
+Baja de planta productora (1,181) (7,382) 
+Baja de propiedades, planta y equipo  (1,227) - 
+Costo neto de enajenación de propiedades, planta, planta productora 
+y equipo, nota 10(a) (64) (380)  ____________ ____________ 
+ (12,587) (7,762)  ____________ ____________    
+Otros ingresos y gastos operativos, neto  (6,036) (270)  ____________ ____________ 
+ 
+ 
+  
+
+=== PAGINA PDF 60 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+52 
+25. Ingresos y gastos financieros 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ S/(000) S/(000) 
+   
+Ingresos financieros   
+Intereses por préstamos a partes relacionadas, nota 29( p) 5,985 6,435 
+Intereses por devoluciones de impuestos  832 - 
+Intereses sobre depósitos a plazo 33 57 
+Otros  31 38  _________ _________    
+ 6,881 6,530  _________ _________ 
+   
+Gastos financieros   
+Intereses sobre pasivos por arrendamiento, nota 11(c) y 29( p) 1,011 45 
+Intereses por préstamos bancarios, nota 13 668 2,575 
+Intereses por financiamiento con proveedores, nota 15(b)  122 193 
+Comisiones  94 490 
+Intereses por documentos descontados  - 229 
+Otros 229 454  _________ _________    
+ 2,124 3,986  _________ _________ 
+ 
+26. Situación tributaria  
+(a) Mediante la Ley N° 31087 publicada el 06 de diciembre de 2020 se derogó la Ley de Promoción 
+del Sector Agrario - Ley N° 27360 y su Decreto de Urgencia N° 043-2019 que modificó a esta 
+última; en la cual la Compañía se encontraba acogida. Entre los beneficios tributarios previstos 
+en la norma derogada, destacaron los siguientes:  
+ 
+- Aplicación de una tasa del impuesto a las ganancias de 15 por ciento, luego de deducir la 
+participación de los trabajadores sobre la utilidad imponible. 
+- Recuperación anticipada del impuesto general a las ventas pagado en la etapa pre-
+operativa. 
+- Autorización para depreciar, a razón de 20 por ciento anual, el monto de las inversiones 
+en obras de infraestructura hidráulica y obras de riego. 
+- Las personas jurídicas no domiciliadas en el Perú y las personas naturales pagaban un 
+impuesto de 4.1 por ciento sobre los dividendos recibidos.  
+ 
+Asimismo, en el aspecto laboral, durante el año 2020 y hasta el 06 de diciembre, se tenía lo 
+siguiente: 
+(i) La remuneración mínima vital (RMV) diaria fue de S/39.19, siempre que los colaboradores 
+se desempeñen por más de cuatro horas diarias. 
+(ii) Los colaboradores sujetos a este régimen tendrán vacaciones de 30 días al año. 

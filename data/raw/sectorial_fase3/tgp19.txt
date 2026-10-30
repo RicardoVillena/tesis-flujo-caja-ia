@@ -1,0 +1,2324 @@
+
+=== PAGINA PDF 1 ===
+ 
+Transportadora de Gas del Perú S.A. 
+Notas a los estados financieros  
+Al 30 de junio de 2019 
+1. Antecedentes y actividad económica 
+Transportadora de Gas del Perú S.A. (en adelante la Compañía o TGP) se constituyó en Perú el 2 de noviembre de 2000 e inició 
+actividades comerciales a partir del 20 de agosto de 2004.  Los accionistas de la Compañía al 30 de junio de 2019 y al 31 de 
+diciembre de 2018 se detallan en la Nota 17.  Su domicilio legal es Av. Santo Toribio 173, Vía Central 125, Torre Real 8, oficina 
+901, San Isidro, Lima - Perú. 
+ 
+La actividad principal establecida en su objeto social es el transporte por ductos de gas natural (GN) y de líquidos de gas natural 
+(LGN), también podrá dedicarse a la distribución de gas natural por red de ductos; al diseño, suministro de bienes y demás 
+instalaciones necesarias para el transporte de GN y LGN, y a cualquier actividad relacionada, sea por concesión pública o privada. 
+ 
+TGP es adjudicataria de dos concesiones que forman el proyecto Camisea: 
+ 
+(i) Transporte de Gas Natural por ductos desde Camisea al City Gate en Lima. 
+(ii) Transporte de Líquidos de Gas Natural por ductos desde Camisea a la Costa. 
+ 
+De acuerdo con lo establecido en los contratos denominados “Build Own Operate & Transfer” - BOOT (en adelante Contratos 
+BOOT de Concesión), descritos en esta misma nota, las actividades de operación y mantenimiento del sistema de transporte de 
+gas natural y de líquidos de gas natural han sido asignadas a la Compañía Operadora del Gas del Amazonas S.A.C. (en adelante 
+COGA) (Nota 8). 
+ 
+Antecedentes de los Contratos de Concesión - 
+Con fecha 6 de diciembre de 2000 mediante las Resoluciones Supremas Nos.101/2000 y 102/2000 el Ministerio de Energía y 
+Minas (la Concedente) otorgó a TGP las dos concesiones antes referidas para lo cual se suscribieron los Contratos BOOT de 
+Concesión.  En esa misma fecha, por Decreto Supremo 033/2000-PCM, el Poder Ejecutivo otorgó a TGP, mediante contrato 
+celebrado al amparo del artículo 1357 del Código Civil, la garantía del Estado Peruano en respaldo de las declaraciones, 
+seguridades, y obligaciones a su cargo, contenidas en los Contratos BOOT de Concesión. 
+ 
+El plazo de los Contratos BOOT de Concesión es de 33 años contados a partir del 9 de diciembre de 2000.  Al vencimiento de los 
+Contratos BOOT de Concesión, la Compañía podrá solicitar prórroga del plazo con una anticipación no menor de 4 años a la fecha 
+de su vencimiento o de cualquiera de sus prórrogas.  Cada plazo de prórroga no podrá ser superior a 10 años y podrá otorgarse 
+sucesivamente, sin exceder un plazo máximo acumulado de 60 años. 
+  
+
+=== PAGINA PDF 2 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+2 
+Bases de los Contratos BOOT de Concesión - 
+Las concesiones de transporte de gas natural por ductos y de transporte de líquidos de gas natural por ductos de las que TGP es 
+concesionario han sido otorgadas por el Estado Peruano a título gratuito. 
+ 
+Durante el plazo de los Contratos BOOT de concesión, TGP será el operador de los bienes de las concesiones y, al producirse la 
+caducidad de los Contratos BOOT de concesión, transferirá al Estado Peruano los bienes recibidos más las inversiones realizadas 
+y, en contraprestación, éste pagará a TGP hasta un máximo equivalente al valor contable de los bienes de las concesiones a dicha 
+fecha. 
+ 
+(a) Concesión de Transporte de Gas Natural por ductos desde Camisea al City Gate en Lima -  
+Tiene por objeto establecer los derechos y obligaciones de las partes y estipular las normas que rigen entre estas partes 
+para el diseño, suministro de bienes y servicios, y construcción del Sistema de Transporte de Gas, la explotación de los 
+Bienes de la Concesión y la transferencia de los Bienes de la Concesión al Estado Peruano, al caducar la concesión. 
+ 
+TGP se obliga a diseñar y construir la infraestructura necesaria o red de transporte de gas, las que deben estar en 
+condición de atender la capacidad mínima referida en el contrato.  Por el servicio de transporte de gas brindado a través 
+de la Red de transporte de gas, la Compañía podrá cobrar hasta el máximo de la tarifa regulada, determinada sobre la 
+base de precios de mercado.  La Compañía es responsable por la operación del sistema de transporte de gas, incluyendo 
+su mantenimiento y reparación.  Por este servicio, TGP cobrará la tarifa que permita la recuperación del costo del servicio 
+para el transporte de gas natural. 
+ 
+Adendas al Contrato BOOT de Concesión - 
+Mediante Resolución Suprema No.041-2010-EM del 27 de mayo de 2010 se aprobó la suscripción entre el Ministerio de 
+Energía y Minas y la Compañía de una Adenda al Contrato BOOT de Concesión de transporte de Gas Natural, mediante el 
+cual TGP se comprometió a ampliar en diversas fases la Capacidad del Sistema de Transporte de Gas Natural hasta 920 
+MMPCD (millones de pies cúbicos diarios). 
+ 
+Asimismo, mediante Resolución Suprema No.024-2011-EM del 15 de abril de 2011 se aprobó la suscripción entre el 
+Ministerio de Energía y Minas y la Compañía de una nueva Adenda al Contrato BOOT de Concesión de transporte de Gas 
+Natural que actualizaba las condiciones necesarias para ejecutar la ampliación prevista en la Resolución Suprema 
+No.041-2010-EM. 
+ 
+En el marco de la Adenda referida en el párrafo anterior, las obras para expandir el sistema de transporte por ductos se 
+encontraban en el distrito de Echarate, provincia de la Convención, Cusco y comprendía dos proyectos; el primero, 
+denominado Loop Sur, consistente en la construcción de un ducto de 55 Kms de longitud paralelo al existente.  El 
+segundo, implicaba la construcción de una Planta Compresora a la altura del Kp 127 del sistema de transporte, que 
+inicialmente contaría con una potencia instalada de 54,000 HP. 
+  
+
+=== PAGINA PDF 3 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+3 
+Estas obras de expansión del sistema de transporte por ductos se vieron afectadas debido principalmente a las 
+situaciones de inseguridad acontecidas en la localidad de Kiteni que derivaron en una Declaratoria de Emergencia en el 
+distrito de Echarate por parte del Gobierno Central en abril de 2012, y en la declaración por parte del Ministerio de 
+Energía y Minas de la Fuerza Mayor invocada por la Compañía debido a que se había visto afectado el cumplimiento del 
+avance de las obras de ampliación del sistema de transporte por ductos de gas natural, originando un retraso en la 
+referida ejecución y puesta en marcha de los proyectos de expansión de gas natural mientras dure el evento de Fuerza 
+Mayor. 
+ 
+Las condiciones de inseguridad descritas en el párrafo anterior conllevaron a la imposibilidad de seguir con la 
+construcción del proyecto denominado Loop Sur. 
+ 
+En este sentido, mediante Resolución Suprema No.053-2013-EM del 29 de agosto de 2013 se aprobó la suscripción 
+entre el Ministerio de Energía y Minas y la Compañía de una nueva Adenda al Contrato BOOT de Concesión de Transporte 
+de Gas Natural, la misma que fue suscrita el 14 de setiembre de 2013, mediante la cual se acordó, redefinir las obras, 
+plazos y condiciones de la ampliación de la Capacidad del Sistema de Transporte de Gas Natural, considerando la 
+extinción de la obligación de ejecutar el proyecto Loop Sur.  Asimismo, en esta Adenda, la Compañía se comprometió a 
+construir una Derivación Principal desde el ducto existente hasta la ciudad de Ayacucho, de acuerdo a las condiciones 
+indicadas en el citado documento. 
+ 
+Bajo este esquema se acordó ampliar la capacidad hasta 920 MMPCD, en una sola fase, con la realización de las 
+siguientes dos obras; la primera a partir de las condiciones de seguridad instaladas en el punto, retomar la construcción 
+e instalación de la Planta Compresora a la altura del Kp 127, agregando ahora mayor capacidad de compresión, con un 
+equipamiento de cuatro (4) equipos turbocompresores (TTCC) de 18.000 HP cada uno, totalizando una potencia 
+instalada de 72.000 HP.  La segunda, denominada Loop Costa II entre Chilca y Lurín, consistente en la construcción de 
+un ducto de 31 Kms de longitud que se extenderá desde Chilca, en la progresiva Kp 699, con conexión al Loop Costa 
+existente, hasta el City Gate Lurín en la progresiva Kp 730.  De esta forma, en abril de 2016 se concretó la ampliación de 
+la capacidad del sistema de transporte de gas natural para el mercado local hasta 920 MMPCD con los proyectos 
+mencionados. 
+ 
+De otro lado, en setiembre de 2016 se puso en operación la Derivación Principal de Ayacucho con una inversión de 
+aproximadamente US$47 millones, cuyo régimen regulatorio relacionado con la determinación del Ingreso Anual, que 
+comprende las Tarifas Incrementales y del Factor de Aplicación Tarifaria (FAT), se encuentra establecido en el Decreto 
+Supremo No.014-2013-EM y en la Adenda al Contrato BOOT de Concesión de Transporte de Gas Natural, que fue 
+suscrita el 14 de setiembre de 2013; así como en el Procedimiento para el Cálculo del Ingreso Anual, Tarifas 
+Incrementales y FAT, aprobado mediante Res No.168-2016-OS/CD, en donde se desarrolla la metodología de cálculo 
+para la determinación de los conceptos señalados durante el periodo de recuperación. 
+  
+
+=== PAGINA PDF 4 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+4 
+Garantía por red principal (GRP) - 
+La Garantía por Red Principal consiste en un acuerdo por el cual TGP tuvo derecho a un ingreso garantizado durante los 
+primeros años de operación.  Si el ingreso esperado del servicio fuera menor que el ingreso garantizado, la Compañía 
+recibiría la diferencia.  El mecanismo de ingreso garantizado se extingue cuando con posterioridad al quinto año de 
+operación comercial la GRP aplicable en tres años consecutivos o tres alternados en un periodo de cinco años, es igual a 
+cero.  Cualquier diferencia a ser cobrada por la Compañía fue recibida a través de la facturación a ciertas empresas de 
+generación eléctrica, de acuerdo con lo requerido por las regulaciones que promueven el sector eléctrico.  El mecanismo 
+de ingreso garantizado se extinguió en abril de 2012, luego de haberse determinado una GRP igual a cero durante los 
+últimos tres años. 
+ 
+A través del Decreto Supremo No.046-2002-EM de fecha 20 de octubre de 2002 el Estado Peruano decidió adelantar a 
+partir de noviembre de 2002 el inicio de la recaudación de la GRP, de forma que, parte de la reducción de las tarifas en 
+barra por efecto del inicio del proyecto de gas de Camisea se asigne gradualmente al pago de la garantía.  En febrero de 
+2003 se inició el cobro de la GRP habiendo recaudado, de las empresas de generación eléctrica, en los años 2003 y 
+2004 US$89.8 millones, monto original recaudado que neto de sus aplicaciones y actualización se presenta en el rubro 
+Pasivo por Garantía de Red Principal en el estado de situación financiera (Nota 14).  Estas recaudaciones están siendo 
+pagadas a las empresas de generación eléctrica a lo largo de la vida de la Concesión. 
+ 
+Para la recaudación de la GRP, TGP suscribió un contrato de fideicomiso con Red de Energía del Perú S.A. (REP), GNLC 
+(hoy Calidda S.A.) y Banco Wiese Sudameris (hoy Scotiabank Perú), que tiene por objeto la administración y cobranza del 
+importe del peaje por el servicio que presta TGP, incluido la GRP. 
+ 
+De acuerdo con lo establecido en el referido fideicomiso y de conformidad con lo establecido en el Decreto de Urgencia 
+No.045-2002, TGP junto con PERUPETRO S.A. y el Banco Wiese Sudameris (hoy Scotiabank Perú), con fecha 6 de 
+diciembre de 2004 constituyeron el fideicomiso pagador, que contiene los fondos que aportan las empresas de 
+generación eléctrica y el fondo de contingencia aportado por PERUPETRO S.A. en su condición de entidad garante del 
+Estado Peruano, con la finalidad de cubrir cualquier posible retraso o incumplimiento en el pago de la GRP por parte de 
+las empresas de generación eléctrica. 
+ 
+Acuerdo para incremento y uso de capacidad de transporte de ducto principal - 
+Mediante Resolución Suprema No.040-2010 de 26 de mayo de 2010, se aprobó el acuerdo con Perú LNG S.R.L. (en 
+adelante PLNG) para el incremento y uso de la capacidad de transporte del ducto de propiedad de esta empresa, 
+mediante el cual PLNG mantiene el derecho a una capacidad de transporte dedicada de 745 MMPCD en su ducto, y 
+otorga a TGP la posibilidad de usar y crear capacidad en dicho ducto hasta los 550 MMPCD; la misma que permitirá a 
+TGP incrementar su capacidad de transporte de gas natural a fin de prestar servicio a sus clientes. 
+  
+
+=== PAGINA PDF 5 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+A cambio de utilizar el ducto de PLNG para crear capacidad de transporte y utilizarla en el transporte de gas natural de 
+sus clientes, TGP acuerda pagar una retribución mensual fija de US$208,450, la misma que será pagada a partir del 
+primer mes luego que PLNG comunique a TGP haber concluido satisfactoriamente, las pruebas y la puesta en operación 
+del Ducto de PLNG, siendo el período de vencimiento de este contrato el 11 de enero de 2046.  La fecha de notificación 
+de la comunicación antes mencionada fue el 1 de junio de 2010. Posteriormente, en febrero de 2016, la retribución 
+mensual a PLNG se fijó en US$222,533 dadas ciertas inversiones adicionales. 
+ 
+(b) Concesión de Transporte de Líquidos de Gas Natural por Ductos desde Camisea a la Costa -  
+Tiene por objeto establecer los derechos y obligaciones de las partes y estipular las normas que regirán entre estas 
+partes para el diseño, suministro de bienes y servicios y construcción del Sistema de Transporte de Líquidos, la 
+explotación de los bienes de la concesión y la transferencia de los bienes de la concesión al Estado al término de ésta.  
+Mediante este contrato TGP se obligó a diseñar, suministrar bienes y servicios y construir las obras comprometidas para 
+el servicio de transporte de líquidos.  Por este servicio TGP cobrará la tarifa que permita la recuperación del costo de 
+servicio para el transporte de líquidos. 
+ 
+El sistema de transporte de líquidos, desde la fecha de puesta en operación comercial, debe estar en capacidad de 
+transportar líquidos cubriendo la capacidad garantizada por el titular del contrato de licencia de explotación de 
+hidrocarburos en el lote 88, (el “Productor”) ascendente a 50,000 barriles por día y es responsabilidad de TGP la 
+construcción del sistema de transporte que incluye todas las obras, instalaciones y equipamientos necesarios para la 
+adecuada operación del sistema de transporte.  Las plantas de separación y de fraccionamiento, así como las facilidades 
+marítimas necesarias para el embarque de los productos finales obtenidos en la planta de fraccionamiento, no son 
+responsabilidad de TGP. 
+ 
+El Productor garantizará a TGP la recuperación del costo de servicio de transporte de líquidos mediante el pago de una 
+tarifa, la cual podrá ser acordada libremente por acuerdo de las partes. 
+ 
+(c) Convenio de estabilidad jurídica - 
+El 5 de diciembre de 2000 TGP suscribió con la Comisión Nacional de Inversiones y Tecnologías Extranjeras (CONITE, hoy 
+PROINVERSION) un Convenio de Estabilidad Jurídica por el que TGP se comprometió a emitir cierta cantidad de acciones 
+y el Estado Peruano le garantizó la estabilidad jurídica del régimen tributario referido al impuesto a la renta y de los 
+regímenes de contratación de trabajadores vigentes a la fecha de suscripción. 
+ 
+Este convenio, que tiene vigencia desde la firma de los Contratos BOOT de Concesión por el plazo de la concesión, no 
+puede ser modificado unilateralmente así se trate de modificaciones más beneficiosas o perjudiciales para alguna de las 
+partes.  TGP tiene derecho a renunciar por única vez al régimen de estabilidad jurídica otorgado en ese convenio y pasar a 
+regirse automáticamente por la legislación común. 
+  
+
+=== PAGINA PDF 6 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+(d) Emisión de bonos senior - 
+Con fecha 30 de abril de 2013, la Compañía efectuó la emisión internacional de bonos senior bajo la regla 144 A y la 
+Regulación S del United States Securities Act. de 1933 por un monto de US$850,000,000 a una tasa de 4.25% y con 
+vencimiento el 30 de abril de 2028.  Los fondos obtenidos de esta emisión internacional fueron utilizados para el 
+refinanciamiento de deuda y otros objetivos corporativos (Nota 14). 
+ 
+(e) Aprobación de los estados financieros - 
+Los estados financieros correspondientes al periodo de seis meses terminado el 30 de junio de 2019, han sido 
+autorizados para su emisión por la Gerencia de la Compañía el 25 de julio de 2019. Los estados financieros al 31 de 
+diciembre de 2018, fueron aprobados por la Junta Obligatoria Anual de Accionistas del 13 de marzo de 2019. 
+ 
+  2. Base de preparación, presentación y cambios en las políticas contables 
+Las principales políticas contables aplicadas en la preparación de los estados financieros se detallan a continuación.  Estas 
+políticas han sido aplicadas uniformemente en todos los años presentados. 
+ 
+2.1  Bases de preparación -  
+ Los estados financieros de la Compañía han sido preparados y presentados de conformidad con Normas Internacionales 
+de Información Financiera (NIIF), emitidas por el International Accounting Standards Board (IASB) al 30 de junio de 
+2019. 
+ 
+Los estados financieros han sido preparados sobre la base del modelo de costo histórico a partir de los registros de la 
+Compañía, a excepción de los activos clasificados como mantenidos para la venta que son medidos al valor razonable 
+menos los costos para su disposición, Nota 2.3 (i). 
+ 
+Los estados financieros están expresados en dólares estadounidenses y todos los importes han sido redondeados a 
+miles, excepto cuando se indique lo contrario. 
+ 
+La preparación de los estados financieros requiere que la Gerencia de la Compañía utilice juicios, estimados y supuestos 
+contables significativos, los mismos que son detallados en la nota 3 siguiente. 
+ 
+Los presentes estados financieros brindan información comparativa respecto de periodos anteriores. 
+ 
+2.2 Cambios en las políticas contables y en la información a revelar - 
+2.2.1 Adopción de nuevas normas contables – 
+            Las políticas contables adoptadas en la preparación de los estados financieros separados son consistentes con las 
+seguidas en la preparación de los estados financieros anuales por el año terminado el 31 de diciembre de 
+2018. 
+ 
+  
+
+=== PAGINA PDF 7 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+            La Compañía ha aplicado a partir del 1 de enero de 2019 la NIIF 16 “Arrendamientos”. Otras normas y 
+modificaciones han entrado en vigencia a dicha fecha; sin embargo, no han tenido un impacto significativo en 
+los estados financieros separados intermedios no auditados de la Compañía al 30 de junio de 2019 y, por lo 
+tanto, no han sido reveladas. La Compañía no ha adoptado anticipadamente ninguna norma, interpretación o 
+modificación emitida, y que aún no sea efectiva. 
+ 
+2.3. Resumen de las políticas contables significativas - 
+(a) Traducción de moneda extranjera -  
+Moneda funcional y moneda de presentación - 
+La Compañía ha definido al dólar estadounidense como su moneda funcional y de presentación. 
+ 
+Transacciones y saldos  
+Las transacciones en moneda extranjera (cualquier moneda distinta a la moneda funcional) son inicialmente 
+registradas por la Compañía a los tipos de cambio vigentes en las fechas de las transacciones, publicados por la 
+Superintendencia de Banca y Seguros y Administración de Fondo de Pensiones (AFP).  
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son trasladados a la moneda funcional 
+usando el tipo de cambio vigente en la fecha de reporte. Las ganancias o pérdidas por diferencia en cambio 
+resultantes de la liquidación o traslación de dichos activos y pasivos monetarios son reconocidas en el estado 
+de resultados.   
+ 
+Los activos y pasivos no monetarios, registrados en términos de costos históricos, son trasladados usando los 
+tipos de cambio vigentes en las fechas originales de las transacciones. 
+ 
+(b) Instrumentos financieros: Reconocimiento inicial y mediación posterior - 
+Un instrumento financiero es cualquier acuerdo que da origen a un activo financiero de una entidad y a un pasivo 
+financiero o instrumento patrimonial de otra entidad. 
+ 
+(i) Activos financieros -  
+Reconocimiento y medición inicial  
+Los activos financieros se clasifican, en el reconocimiento inicial, como activos financieros al valor 
+razonable (con cambios en resultados o en otro resultado integral) o activos medidos al costo 
+amortizado. Todos los activos financieros son reconocidos inicialmente al valor razonable. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalentes de efectivo, cuentas por cobrar 
+comerciales y diversas, activos financieros al valor razonable con cambios en resultados y activos 
+financieros al valor razonable con cambios en otros resultados integrales. 
+ 
+  
+
+=== PAGINA PDF 8 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+8 
+Medición posterior - 
+La Compañía clasifica sus activos financieros en las siguientes tres categorías: 
+ 
+- Costo amortizado (instrumentos de deuda) 
+- Al valor razonable con cambios en otro resultado integral (instrumentos de deuda) 
+- Al valor razonable con cambios en otro resultado integral (instrumentos de patrimonio) 
+- Al valor razonable con cambios en resultados; 
+ 
+La clasificación depende del modelo de negocio de la Compañía y de los términos contractuales de los 
+flujos de efectivo. 
+ 
+Activos financieros medidos al costo amortizado - 
+Un activo financiero se mide al costo amortizado si se cumplen las dos condiciones siguientes: (i) el 
+activo financiero se mantiene dentro de un modelo de negocio cuyo objetivo es mantener los activos 
+financieros para obtener los flujos de efectivo contractuales; y (ii) las condiciones contractuales del 
+activo financiero dan lugar, en fechas específicas, a flujos de efectivo que son únicamente pagos del 
+principal e intereses sobre el importe del principal pendiente. 
+ 
+Estos activos se miden posteriormente al costo amortizado usando el método de la tasa de interés 
+efectiva y están sujetos a pérdidas por deterioro. Cualquier ganancia o pérdida por la baja en cuentas, 
+modificación o deterioro se reconoce en resultados. 
+ 
+En esta categoría se incluye a las cuentas por cobrar comerciales. Ver nota 7 para obtener más 
+información sobre las cuentas por cobrar. 
+ 
+Valor razonable con cambios en otro resultado integral – Instrumentos de deuda 
+Un activo financiero se mide al valor razonable con cambios en otro resultado integral si se cumplen las 
+dos condiciones siguientes: (i) El activo financiero se conserva dentro de un modelo de negocio cuyo 
+objetivo se cumple tanto obteniendo los flujos de efectivo contractuales como vendiendo los activos 
+financieros, y (ii) las condiciones contractuales del activo financiero dan lugar, en fechas específicas, a 
+flujos de efectivo que son únicamente pagos del principal e intereses. 
+ 
+El ingreso por intereses calculado bajo el método de la tasa de interés efectiva, las ganancias y 
+pérdidas por conversión de moneda extranjera y el deterioro se reconocen en el estado de resultados. 
+Los cambios del valor razonable se reconocen en otro resultado integral. En el momento de la baja en 
+cuentas, las ganancias y pérdidas acumuladas en otro resultado integral se reclasifican al estado de 
+resultados. 
+  
+
+=== PAGINA PDF 9 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+9 
+Valor razonable con cambios en otro resultado integral – Instrumentos de patrimonio 
+En el reconocimiento inicial, la Compañía puede elegir clasificar irrevocablemente sus inversiones en 
+acciones como instrumentos de patrimonio designados a valor razonable con cambios en otro resultado 
+integral cuando cumple la definición de instrumento de patrimonio de acuerdo a la NIC 32 
+“Instrumentos financieros: Presentación” y no es mantenida para negociación. Esta clasificación es 
+determinada individualmente por cada instrumento.  
+ 
+Las ganancias y pérdidas por cambios en el valor razonable de estos instrumentos se reconocen en otro 
+resultado integral y nunca se reclasifican al estado de resultados. Los dividendos se reconocen como 
+ingreso en el estado de resultados a menos que el dividendo represente claramente una recuperación 
+de parte del costo de la inversión. 
+ 
+Valor razonable con cambios en resultados - 
+Los activos financieros a valor razonable con cambios en resultados incluyen activos financieros 
+mantenidos para negociar y activos financieros designados desde su reconocimiento inicial a valor 
+razonable con cambios en resultados. Los activos financieros son clasificados como mantenidos para 
+negociar si son adquiridos con el propósito de vender o recomprar en el corto plazo. Los activos 
+financieros cuyos flujos de efectivo no son únicamente pagos del principal e intereses son clasificados y 
+medidos a valor razonable con cambios en resultados, sin considerar su modelo de negocio. A pesar de 
+los criterios señalados anteriormente para instrumentos de deuda clasificados al costo amortizado o a 
+valor razonable con cambios en otro resultado integral, los instrumentos de deuda podrían ser 
+clasificados a valor razonable con cambios en resultados si se elimina o reduce significativamente una 
+inconsistencia de medición o reconocimiento contable.  
+ 
+Los activos financieros al valor razonable con cambios en resultados se presentan en el estado de 
+situación financiera con los cambios netos en su valor razonable reconocidos en el estado de 
+resultados.  
+ 
+Baja en cuentas – 
+La Compañía continuará reconociendo el activo cuando haya transferido sus derechos a recibir los 
+flujos de efectivo generados por el activo, o haya celebrado un acuerdo de intermediación, pero no ha 
+transferido ni retenido sustancialmente todos los riesgos y beneficios del activo, ni ha transferido el 
+control sobre el mismo. 
+ 
+En este caso, la Compañía reconocerá el activo transferido en la medida de su implicación continuada 
+en el activo y también reconocerá el pasivo relacionado. El activo transferido y el pasivo relacionado se 
+medirán sobre una base que refleje los derechos y obligaciones retenidos por la Compañía.  
+
+=== PAGINA PDF 10 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+10 
+(ii) Pasivos financieros – 
+Reconocimiento y medición inicial - 
+Los pasivos financieros son clasificados, en el momento de reconocimiento inicial, como pasivos 
+financieros al valor razonable con cambios en resultados, cuentas por pagar comerciales y diversas, 
+obligaciones financieras o como derivados designados como instrumentos de cobertura, según sea 
+pertinente.  
+ 
+Todos los pasivos financieros se reconocen inicialmente al valor razonable y, en el caso de cuentas por 
+pagar y obligaciones financieras, neto de los costos directamente atribuibles a la transacción. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales y diversas, préstamos 
+por pagar y obligaciones financieras. 
+ 
+Medición posterior - 
+La medición posterior de pasivos financieros depende de su clasificación, tal como se detalla a 
+continuación: 
+   
+Deudas y préstamos que devengan intereses - 
+Después de su reconocimiento inicial, las deudas y préstamos que devengan intereses se miden 
+posteriormente a su costo amortizado usando el método de la tasa de interés efectiva.  Las ganancias y 
+pérdidas se reconocen en el estado de resultados cuando los pasivos son dados de baja, así como a 
+través del proceso de amortización que surge de utilizar el método de la tasa de interés efectiva.  
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima al momento de la 
+adquisición y los honorarios o costos que sean parte integrante de la tasa de interés efectiva.  La 
+amortización según el método de la tasa de interés efectiva presenta como en el costo financiero en el 
+estado de resultados. 
+ 
+Baja de pasivos financieros - 
+Un pasivo financiero es dado de baja cuando la obligación de pago se termina, se cancela o expira.   
+ 
+Cuando un pasivo financiero existente es reemplazado por otro del mismo prestatario en condiciones 
+significativamente diferentes, o las condiciones del pasivo existente son modificadas en forma 
+importante, dicho reemplazo o modificación se trata como una baja del pasivo original y el 
+reconocimiento de un nuevo pasivo.  La diferencia en los valores en libros respectivos se reconoce en el 
+estado de resultados. 
+ 
+  
+
+=== PAGINA PDF 11 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+11 
+(iii) Compensación de instrumentos financieros - 
+Los activos y pasivos financieros son compensados y el monto neto es reportado en el estado de 
+situación financiera si existe un derecho legal para compensar los montos reconocidos, y hay una 
+intención de liquidar en términos netos o de realizar los activos y liquidar los pasivos simultáneamente. 
+ 
+(c) Efectivo y equivalente de efectivo -  
+El efectivo y equivalentes de efectivo comprenden el efectivo disponible y los depósitos a la vista en bancos, 
+otras inversiones a corto plazo de alta liquidez con vencimientos originales de tres meses o menos y que son 
+fácilmente convertibles a cantidades de efectivo y que están sujetas a un riesgo insignificante de cambios en el 
+valor. 
+ 
+(d) Cuentas por cobrar comerciales -  
+Las cuentas por cobrar comerciales se reconocen inicialmente a su valor razonable, menos la provisión por 
+deterioro.  La provisión por deterioro es estimada de acuerdo con las políticas descritas en la Nota 2.3 (b).  El 
+monto de la provisión se reconoce en el estado de resultados integrales. 
+ 
+(e) Suministros diversos -  
+Los suministros diversos comprenden principalmente materiales y repuestos necesarios para la ampliación y 
+prestación de los servicios de transporte por ductos de gas natural y de líquidos de gas natural. 
+Los suministros se valúan al costo, utilizando la fórmula de costo promedio ponderado. 
+ 
+Al cierre de ejercicio se realiza un análisis por los suministros obsoletos y se registra, de corresponder, una 
+provisión por desvalorización en el estado de resultados integrales. 
+ 
+(f) Propiedades, planta y equipo -  
+Las partidas de la cuenta propiedades, planta y equipo se registran al costo menos su depreciación acumulada 
+y, si las hubiere, las pérdidas acumuladas por deterioro.  El costo de un elemento de propiedades, planta y 
+equipo comprende su precio de compra e incluye los desembolsos directamente atribuibles a la adquisición de 
+estas partidas. 
+ 
+Los costos posteriores se incluyen como un mayor valor en libros del activo registrado o se reconocen como un 
+activo separado, según corresponda, sólo cuando es probable que beneficios económicos futuros asociados con 
+el activo se generen para la Compañía y el costo de estos activos puede ser medido razonablemente.  Asimismo, 
+el desembolso relacionado con una mejora sustancial es reconocido como parte del costo del activo fijo, 
+siempre y cuando se cumpla con el criterio de reconocimiento.  Los otros costos de reparación y mantenimiento 
+son reconocidos como gastos según se incurren.  Los activos en etapa de construcción se capitalizan como un 
+componente separado. A su culminación, el costo de estos activos se transfiere a su categoría definitiva.  Los 
+trabajos en curso no se deprecian. 
+  
+
+=== PAGINA PDF 12 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+12 
+Los valores residuales, la vida útil de los activos y los métodos de depreciación aplicados se revisan y se ajustan, 
+de ser necesario, a la fecha de cada estado de situación financiera.  Cualquier cambio en estos estimados se 
+ajusta prospectivamente. 
+ 
+La depreciación se calcula por el método de línea recta para asignar su costo durante el estimado de su vida útil. 
+ 
+ Años 
+  
+Instalaciones 10 
+Muebles y enseres 10 
+Unidades de transporte 5 
+Equipos de cómputo 4 
+ 
+Las partidas de propiedades, planta y equipo se dan de baja en el momento de su venta o cuando no se esperan 
+beneficios económicos de su uso o de su posterior venta. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en libros del activo es 
+mayor que el estimado de su valor recuperable (Nota 2.3(h)). 
+ 
+Las ganancias y pérdidas por la venta de activos corresponden a la diferencia entre los ingresos de la 
+transacción y el valor en libros de los activos.  Estas se incluyen en el estado de resultados integrales. 
+ 
+(g) Activos intangibles distintos de la plusvalía -  
+“Contrato de Concesión por el transporte de Gas Natural por ductos desde Camisea al City Gate en Lima” - 
+La Compañía ha reevaluado la aplicación contable de la CINIIF 12 - Contratos de Concesión, para registrar su 
+contrato de concesión con el Gobierno Peruano (ver Nota 1).  
+ 
+Adicionalmente, el contrato prevé una garantía que otorga a TGP el derecho a obtener ingresos que le permitan 
+cubrir los costos de construcción.  Sin embargo, este mecanismo de ingreso garantizado se extingue cuando, 
+luego de cinco años de operación, la garantía aplicable en tres años consecutivos o tres alternados en un 
+período de cinco años es cero, lo cual fue de aplicación a la Compañía en 2012. 
+ 
+La Gerencia ha evaluado que el modelo de CINIIF 12 aplicable a la Compañía, es el modelo bifurcado para el 
+registro de este contrato de concesión, asignando parte del costo de la infraestructura como activo financiero 
+(hasta 2012 que estuvo vigente la garantía otorgada) y parte como activo intangible. 
+ 
+  
+
+=== PAGINA PDF 13 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+13 
+El activo intangible representa el derecho otorgado por el Estado Peruano para efectuar cargos a los usuarios de 
+la red de transporte de gas natural.  Las ampliaciones a la infraestructura son registradas como adiciones al 
+activo intangible debido a que se espera que generen beneficios económicos futuros para la Compañía.  Este 
+tratamiento contable contempla reconocer un determinado margen de constructor, tomando en cuenta que la 
+construcción fue encargada a un tercero bajo un contrato de Ingeniería, Procura y Construcción y que dicho 
+margen está referido a un servicio de gerenciamiento de la obra.  La misma consideración se realizó para las 
+expansiones de ductos que se realizaron posteriormente. 
+ 
+El activo intangible inicial y las ampliaciones posteriores del Contrato de Concesión se amortizan por el método 
+de línea recta durante el plazo de vigencia de dicho contrato, siendo el gasto cargado al estado de resultados 
+integrales como Costo del Servicio. 
+ 
+“Contrato de Concesión de transporte de Líquidos de Gas Natural por ductos desde Camisea a la Costa” - 
+La Compañía ha reevaluado la aplicación contable de la CINIIF 12 - Contratos de Concesión, para registrar su 
+contrato de concesión con el Gobierno Peruano (ver Nota 1). 
+ 
+La Compañía ha evaluado que el modelo de CINIIF 12 aplicable a la Compañía, es el modelo del intangible, por 
+cuanto la Compañía tiene el derecho de cobro del servicio de transporte de líquido de gas natural, los cuales 
+están asociados al consumo real de los usuarios, y están dentro del régimen regulatorio establecido por el ente 
+regulador OSINERGMIN. 
+ 
+El activo intangible representa el derecho otorgado por el Estado Peruano para efectuar cargos a los usuarios de 
+la red de transporte de líquidos de gas natural.  Las ampliaciones a la infraestructura son registradas como 
+adiciones al activo intangible debido a que se espera que generen beneficios económicos futuros para la 
+Compañía.  Este tratamiento contable contempla reconocer un determinado margen de constructor, tomando en 
+cuenta que la construcción fue encargada a un tercero bajo un contrato de Ingeniería, Procura y Construcción y 
+que dicho margen está referido a un servicio de gerenciamiento de la obra.  La misma consideración se realizó 
+para las expansiones de ductos que se realizaron posteriormente. 
+ 
+El activo intangible inicial y las ampliaciones posteriores del Contrato de Concesión se amortizan por el método 
+de línea recta durante el plazo de vigencia de dicho contrato, siendo el gasto cargado al estado de resultados 
+integrales como Costo del Servicio. 
+ 
+La Compañía no está obligada a registrar provisiones de costos futuros asociados al cierre definitivo de tubería e 
+instalaciones asociadas, debido a que los contratos de concesión BOOT obligan a la Compañía a transferir los 
+bienes de la concesión al producirse la caducidad de las concesiones otorgadas (Nota 1). 
+  
+
+=== PAGINA PDF 14 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+14 
+El costo de estos activos comprende los desembolsos directamente atribuibles a la adquisición de estas 
+partidas incluyendo los costos de endeudamiento, Nota 2.3 (r). 
+ 
+Los activos que no estén bajo la aplicación de la CINIIF 12 serán reconocidos como propiedades, planta y 
+equipo de acuerdo con la NIC 16, Nota 2.3 (f). 
+ 
+“Line pack” - 
+Comprende el costo de los condensados de gas natural y líquidos de gas natural, adquiridos por la Compañía al 
+consorcio operador del proyecto Camisea, y que son requeridos para la puesta en marcha permanente del 
+sistema de transporte de gas natural y de líquidos de gas natural; se registran al costo y se presentan en el rubro 
+Activos intangibles distintos de la plusvalía del estado de situación financiera.  El Line pack, dada su naturaleza, 
+siempre debe mantenerse y no está sujeto a agotamiento y por lo tanto no es amortizado. 
+ 
+“Derecho a recibir servicios de compresión” - 
+Corresponde al derecho a recibir el servicio de compresión de gas natural por parte del consorcio operador del 
+proyecto Camisea.  La partida derecho a recibir servicios de compresión se amortiza en función de la capacidad 
+de transporte de gas durante la vida útil de la concesión. 
+ 
+(h) Deterioro de activos no financieros -  
+Los activos sujetos a depreciación y amortización se someten a pruebas de deterioro cuando se producen 
+eventos o circunstancias que indican que su valor en libros podría no ser recuperable.  Las pérdidas por 
+deterioro se registran por el monto en el que el valor en libros del activo excede su valor recuperable.  El valor 
+recuperable de los activos corresponde al monto neto que se obtendría de su venta o su valor en uso, el mayor. 
+ 
+Para efectos de evaluar el deterioro, los activos se agrupan a los niveles más pequeños en los que se genera 
+flujos de efectivo identificables (unidades generadoras de efectivo).   
+ 
+(i) Activos clasificados como mantenidos para la venta - 
+Los activos no corrientes se clasificarán como activos mantenidos para la venta cuando su valor en libros va a 
+ser recuperado principalmente a través de la venta de estos activos y su venta se considere altamente probable.  
+Estos activos se medirán al menor valor entre importe en libros y su valor razonable menos los costos de venta. 
+ 
+(j) Pasivo por Garantía Red Principal -  
+La disminución del adelanto de la GRP se calcula en función de un esquema de aplicación decreciente que toma 
+como base la tasa de interés implícita en la determinación de la GRP (12%). 
+ 
+  
+
+=== PAGINA PDF 15 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+15 
+El valor de la GRP corresponde al valor presente de los ingresos garantizados descontados a la tasa del 12% y se 
+actualiza a la fecha de los estados financieros aplicando dicha tasa de interés. Adicionalmente el principal del 
+adelanto otorgado se ajusta anualmente por el Producer Price Index de los Estados Unidos de Norteamérica (en 
+adelante PPI).  El valor de la actualización de la GRP se registró con cargo al costo de la construcción del sistema 
+de transporte de gas natural y de líquidos de gas natural hasta el momento en que se iniciaron las operaciones y, 
+a partir de dicho momento, el valor de dicha actualización se registra con cargo a la cuenta gastos financieros 
+del estado de resultados integrales. 
+ 
+(k) Bonos corporativos -  
+Los fondos provenientes de la emisión de bonos corporativos se reconocen inicialmente a su valor razonable, 
+neto de los costos incurridos asociados con la transacción.  Estos préstamos se registran subsecuentemente a 
+su costo amortizado; cualquier diferencia entre los fondos recibidos (neto de los costos de transacción) y el valor 
+de redención se reconoce en el estado de resultados integrales durante el período del préstamo usando el 
+método de interés efectivo. 
+ 
+Los préstamos se clasifican como pasivo corriente a menos que la Compañía tenga derecho incondicional de 
+diferir el pago de la obligación por lo menos 12 meses después de la fecha del estado de situación financiera. 
+ 
+(l) Cuentas por pagar comerciales -  
+Las cuentas por pagar comerciales son obligaciones de pago por la prestación de servicios y adquisición de 
+materiales, suministros y repuestos necesarios para la ampliación y prestación de los servicios de transporte por 
+ductos de gas natural y de líquidos de gas natural.  Las cuentas por pagar se clasifican como pasivos corrientes 
+si el pago se debe realizar dentro de un año o menos, de lo contrario se presentan como pasivos no corrientes. 
+ 
+(m) Provisiones y contingencias-  
+Se reconoce una provisión sólo cuando la Compañía tiene alguna obligación presente (legal o implícita) como 
+consecuencia de un hecho pasado, es probable que se requerirá para su liquidación un flujo de salida de 
+recursos y puede hacerse una estimación confiable del monto de la obligación.  Las provisiones se revisan 
+periódicamente y se ajustan para reflejar la mejor estimación que se tenga a la fecha del estado de situación 
+financiera. 
+ 
+Por su naturaleza, las contingencias solamente serán resueltas cuando uno o más eventos futuros ocurran o 
+dejen de ocurrir.  La evaluación de la existencia e importes potenciales de las contingencias de la Compañía 
+involucra inherentemente el ejercicio de un juicio significativo por parte de la Gerencia y el uso de estimados 
+sobre los resultados de eventos futuros. 
+ 
+  
+
+=== PAGINA PDF 16 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+16 
+Cuando el efecto del valor del dinero en el tiempo resulte importante, el monto de la provisión es el valor 
+presente de los desembolsos que se esperaría incurrir para cancelarla.  El gasto relacionado con una provisión 
+se muestra en el estado de resultados integrales. 
+ 
+(n) Beneficios a los empleados -  
+Gratificaciones - 
+La Compañía reconoce el gasto por gratificaciones y su correspondiente pasivo sobre la base del devengo.  Las 
+gratificaciones corresponden a dos remuneraciones anuales que se pagan en julio y diciembre de cada año. 
+ 
+Compensación por tiempo de servicios - 
+La compensación por tiempo de servicios del personal de la Compañía corresponde a sus derechos 
+indemnizatorios calculados de acuerdo con la legislación vigente la que se tiene que depositar en las cuentas 
+bancarias designadas por los trabajadores en los meses de mayo y noviembre de cada año.  La compensación 
+por tiempo de servicios del personal es equivalente a media remuneración vigente a la fecha de su depósito.  La 
+Compañía no tiene obligaciones de pago adicionales una vez que efectúa los depósitos anuales de los fondos a 
+los que el trabajador tiene derecho. 
+ 
+Descanso vacacional - 
+Las vacaciones anuales del personal se reconocen sobre la base del devengado. 
+ 
+(o) Impuesto a la ganancias corriente y diferido -  
+El gasto por impuesto a las ganancias del año comprende al impuesto a las ganancias corriente y diferida.  El 
+impuesto a las ganancias se reconoce en el estado de resultados integrales, excepto cuando se trata de partidas 
+que se reconocen directamente en el patrimonio, en este caso, el impuesto también se reconoce en el 
+patrimonio. 
+ 
+El cargo por impuesto a las ganancias corriente se calcula sobre la renta imponible del año utilizando tasas 
+impositivas vigentes a la fecha del contrato de estabilidad tributaria, así como, cualquier ajuste a los impuestos 
+por pagar de años anteriores.  La gerencia evalúa periódicamente la posición asumida en las declaraciones 
+juradas de impuestos respecto de situaciones en las que las leyes tributarias son objeto de interpretación. 
+ 
+El impuesto a las ganancias diferido se provisiona usando el método del pasivo, sobre las diferencias 
+temporales que surgen entre las bases tributarias de activos y pasivos y sus respectivos valores mostrados en los 
+estados financieros.  El impuesto a las ganancias diferido se determina usando tasas tributarias y legislación 
+vigentes a la fecha de suscripción del Convenio de Estabilidad Jurídica (Nota 1), y que corresponden a las que se 
+espera serán aplicables cuando el impuesto a la renta diferido activo se realice o el impuesto a la renta diferido 
+pasivo se pague.  Los impuestos a la renta diferidos activos se reconocen en la medida que sea probable que se 
+produzcan beneficios tributarios futuros contra los que se puedan usar las diferencias temporales. 
+  
+
+=== PAGINA PDF 17 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+17 
+(p) Reconocimiento de ingresos -  
+El ingreso es reconocido en la medida en que se satisfaga una obligación de desempeño mediante la 
+transferencia de los bienes y servicios comprometidos al cliente. Un activo se transfiere cuando el cliente 
+obtiene el control de ese activo. 
+ 
+El ingreso se reconocerá en función al precio de la transacción que se asigna a esa obligación de desempeño, a 
+la cual la Compañía espera tener derecho a cambio de transferir los bienes y servicios comprometidos con el 
+cliente, excluyendo los importes recaudados en nombre de terceros. 
+ 
+La contraprestación que se compromete en un contrato puede incluir importes fijos, importes variables o ambos.  
+ 
+Los siguientes criterios específicos se deben cumplir para que se reconozca un ingreso: 
+ 
+Ingreso por Prestación de servicios - 
+Los ingresos se miden por el valor razonable de la contraprestación, recibida o por recibir relacionada a los 
+servicios prestados a los usuarios del sistema de transporte de gas natural y transporte de líquido de gas natural 
+según las tarifas determinadas conforme lo establecen los Contratos BOOT de Concesión. 
+ 
+Al cierre de cada período mensual, la Compañía estima el ingreso por servicios de transporte de gas natural y de 
+líquidos de gas natural sobre la base de la capacidad contratada y de los volúmenes de gas reportados 
+diariamente en la medición en cada punto de entrega.  La diferencia entre el estimado y el real no es 
+significativa y se reconoce en resultados integrales en el mes siguiente al que corresponde a la estimación. 
+ 
+Los ingresos por el servicio de transporte de líquidos de gas natural se reconocen cuando se presta el servicio, 
+independientemente de cuándo se facturen o cobren. 
+Intereses - 
+Los ingresos provenientes de intereses se reconocen sobre la base de la proporción de tiempo transcurrido, 
+usando el método del interés efectivo. 
+ 
+(q) Arrendamientos -  
+Los arrendamientos en los que una porción significativa de los riesgos y beneficios relativos a la propiedad son 
+retenidos por el arrendador se clasifican como arrendamientos operativos.  Los pagos efectuados bajo un 
+arrendamiento operativo incluyendo pagos adelantados (neto de cualquier incentivo recibido del arrendador) se 
+cargan al estado de resultados integrales sobre la base del método de línea recta en el período del 
+arrendamiento.  
+ 
+  
+
+=== PAGINA PDF 18 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+18 
+(r) Costos de endeudamiento -  
+Los costos de endeudamiento generales y específicos directamente atribuibles a la adquisición, construcción o 
+producción de activos calificados, los cuales son activos que necesariamente toman un período sustancial (más 
+de 12 meses) para alcanzar su condición de uso o venta, son agregados al costo de dichos activos hasta que en 
+dicho período los activos estén sustancialmente listos para su uso o venta.  Los activos en los cuales se procede 
+a capitalizar los costos de endeudamiento son los activos intangibles, Nota 2.3 (g). 
+ 
+La Compañía suspende la capitalización de los costos de endeudamiento durante los periodos en los que se 
+haya suspendido el desarrollo de actividades de un activo calificado, si estos periodos se extienden en el 
+tiempo. 
+ 
+El ingreso obtenido en la inversión temporal de préstamos específicos que aún no se han invertido en activos 
+calificados se deduce de los costos de endeudamiento elegibles para su capitalización.  Todos los demás costos 
+de endeudamiento son reconocidos en resultados en el período en el cual han sido incurridos. 
+ 
+(s) Capital -  
+Las acciones comunes se clasifican como patrimonio. 
+ 
+(t) Distribución de dividendos - 
+Los dividendos que la Compañía distribuye a sus accionistas se reconocen como un pasivo en los estados 
+financieros en el ejercicio en el cual los mismos son aprobados por la Junta General de Accionistas. 
+ 
+  3. Juicios, estimados y supuestos contables significativos 
+Los estimados y criterios contables usados son continuamente evaluados y se basan en la experiencia histórica y otros factores, 
+incluyendo la expectativa de ocurrencia de eventos futuros que se consideran razonables de acuerdo con las circunstancias. 
+ 
+La Compañía efectúa estimaciones y supuestos respecto del futuro.  Las estimaciones contables resultantes, por definición, muy 
+pocas veces serán iguales a los respectivos resultados reales.  Las estimaciones y supuestos que tienen un riesgo de causar un 
+ajuste material a los saldos de los activos y pasivos en el próximo año se presentan a continuación. 
+ 
+3.1 Estimados contable críticos -  
+(a) Provisiones por litigios y sanciones - 
+Por su naturaleza, las provisiones por litigios y sanciones sólo se resolverán cuando uno o más eventos futuros 
+ocurran o no.  Las provisiones por litigios y sanciones se calculan en función al monto reclamado considerando 
+la opinión de los asesores legales. 
+ 
+El riesgo máximo asociado a las provisiones por litigios y sanciones es el importe revelado en la, Nota 15 (c). 
+  
+
+=== PAGINA PDF 19 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+19 
+(b) Provisión por deterioro de activos mantenidos para la venta - 
+La Compañía clasificó ciertos suministros de expansiones como mantenidos para la venta, Nota 2.3 (i), los 
+cuales se presentan al menor valor entre el importe en libros y el valor razonable menos los costos necesarios 
+para la venta.  
+ 
+Al 1 de enero de 2016, el valor razonable menos los costos necesarios para la venta de estos suministros para 
+expansiones fue determinado tomando como base tasaciones preparadas por tasadores independientes.  El 
+valor razonable ha sido determinado utilizando datos no observables (Nivel 3) y aplicando una combinación de 
+los enfoques de mercado y costo como técnicas de valoración. 
+ 
+(c) Estimación por pérdidas esperadas - 
+La Compañía considera el modelo simplificado, donde se estima tasas de incumplimiento (factores de pérdida 
+esperada) que se aplicarán a los saldos de las cuentas por cobrar para determinar el valor de pérdida crediticia 
+esperada (estimación de cobranza dudosa). 
+ 
+La Gerencia de la Compañía ha basado la metodología de cálculo bajo las siguientes premisas consideradas 
+como fuente de incertidumbre: 
+ 
+La segmentación de las cuentas por cobrar a clientes se efectuará de la siguiente manera: 
+ 
+(i) Tipo de saldo pendiente de pago (financiado o no financiado) 
+(ii) Tipos de clientes (distribuidores, generadores, otros clientes) y/o 
+(iii) Tipo de negocio (Transporte de Gas líquido o gas natural) 
+ 
+Las tasas de incumplimiento de pago se calcularán con base en la experiencia de incobrabilidad de la data 
+histórica de la empresa: (i) ventas e (ii) incobrables incurridos relacionados a las ventas. 
+ 
+La data histórica seleccionada debe reflejar condiciones crediticias similares a las vigentes. 
+Se revisará si hay variables macroeconómicas que han tenido un impacto en las tasas de incumplimiento 
+históricas con la finalidad de realizar un ajuste prospectivo al porcentaje.  No se ajustarán las tasas en caso no 
+existan correlación entre la morosidad de la cartera y las principales variables macroeconómicas (PBI, inflación 
+y desempleo). 
+ 
+3.2 Juicios contables críticos - 
+(a) Información por segmentos - 
+El Directorio es el responsable de la toma de decisiones de operación de la Compañía.  Las decisiones 
+aprobadas por el Directorio incluyen la asignación de recursos y la evaluación del desempeño de la Compañía.  
+Para ello, el Directorio evalúa los informes preparados por la administración y supervisa el EBITDA Ajustado. 
+ 
+  
+
+=== PAGINA PDF 20 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+20 
+De acuerdo con la evaluación de la Gerencia sobre la naturaleza y el entorno económico que opera la Compañía 
+(Nota 1), ésta mantiene un único segmento de operación relacionado principalmente al servicio de transporte de 
+gas natural y líquidos de gas natural prestado íntegramente en Perú, lugar donde se ubican sus activos no 
+corrientes necesarios para la prestación del servicio (Notas 10 y 11).  Los resultados de operación relacionados 
+a la prestación del servicio de transporte de gas natural y líquidos de gas natural (Nota 21) son revisados de 
+forma regular por la Gerencia para la toma de las decisiones del Directorio.  Esta situación indica la existencia 
+de un solo segmento de operación. 
+ 
+(b) Derecho a recibir servicio de compresión - 
+Como se describe en la Nota 11, la Compañía mantiene suscritos contratos que le dan el derecho a recibir 
+servicios futuros de compresión.  Respecto del componente de remuneración fija de estos contratos, la Gerencia 
+considera que este derecho cumple la definición de activo del Marco Conceptual de las Normas Internacionales 
+de Información Financiera y, por lo tanto, debe reconocerlo como tal en sus estados financieros. 
+ 
+De otro lado, la Gerencia considera que la obligación futura contraída en relación con estos contratos cumple 
+con la definición de provisión de acuerdo con la NIC 37 - Provisiones, activos contingentes y pasivos 
+contingentes, por lo que se presenta en el rubro otras cuentas por pagar (a corto y largo plazo) en el estado de 
+situación financiera. 
+ 
+(c) Moneda funcional y moneda de presentación - 
+La moneda funcional de la Compañía es determinada por la moneda del entorno económico primario en el que 
+esta realiza sus operaciones.  Para la determinación de la moneda funcional, la Gerencia utiliza su criterio para 
+evaluar la naturaleza de las operaciones de la Compañía tomando en cuenta ciertos indicadores primarios 
+establecidos en la NIC 21 que incluyen la moneda que influye en los precios de venta y el costo del servicio, así 
+como la moneda del país cuyas fuerzas competitivas y regulaciones determinan principalmente sus precios de 
+venta. 
+ 
+Adicionalmente la Gerencia ha utilizado su juicio para determinar la moneda funcional, teniendo en cuenta 
+algunos de los factores secundarios contemplados en la NIC 21 y concluyó que el Dólar estadounidense es la 
+moneda que representa de manera fiel la sustancia económica de su negocio y transacciones. 
+ 
+(d) Aplicación de CINIIF 12 - 
+Como se describe en la Nota 2, a partir de 2017 la Compañía determinó que ambas concesiones están dentro 
+del alcance de la CINIIF 12. Por lo tanto, ha aplicado los lineamientos establecidos por esta norma lo cual 
+proporcionará información financiera más confiable y relevante en los estados financieros. 
+ 
+  
+
+=== PAGINA PDF 21 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+21 
+  4. Administración de riesgos financieros 
+4.1 Factores de riesgo financiero - 
+Las actividades de la Compañía la exponen a una variedad de riesgos financieros, principalmente relacionados con 
+riesgos de mercado (incluye el riesgo de tipo de cambio, riesgo de precio y riesgo de tasa de interés), riesgo de crédito y 
+riesgo de liquidez.  La administración de riesgos de la Compañía se centra en lo impredecible de los mercados 
+financieros y trata de minimizar los potenciales efectos adversos en su desempeño financiero. 
+ 
+La Gerencia financiera de la Compañía tiene a su cargo la administración de riesgos de acuerdo con las políticas 
+aprobadas por el Directorio.  La Gerencia financiera identifica, evalúa y cubre los riesgos financieros en coordinación 
+estrecha con las unidades operativas de la Compañía.  El Directorio proporciona principios para la administración 
+general de riesgos, así como políticas que cubren áreas específicas, tales como el riesgo de tipo cambio, el riesgo de 
+tasa de interés, el riesgo de crédito, la posibilidad de uso de instrumentos financieros derivados y no derivados y sobre 
+cómo deben invertirse los excedentes de liquidez.  La sensibilidad ha sido preparada por el periodo de seis meses 
+terminado el 30 de junio de 2019 y de 2018 usando los importes de los activos y pasivos financieros mantenidos a esa 
+fecha.  Es política de la Compañía no mantener instrumentos derivados para propósitos especulativos. 
+ 
+A continuación, presentamos los riesgos financieros a los que está expuesta la Compañía. 
+(a) Riesgos de mercado - 
+El riesgo de mercado es el riesgo de que el valor razonable de los flujos futuros de caja de los instrumentos 
+financieros fluctúe a consecuencia de los cambios en los precios del mercado. 
+ 
+El análisis de sensibilidad en esta sección está relacionado a la posición por el periodo de seis meses terminado 
+el 30 de junio de 2019 y de 2018. El análisis de sensibilidad ha sido preparado sobre la base que la proporción 
+de los instrumentos financieros en moneda extranjera se van a mantener constantes. 
+ 
+Los principales riesgos de mercado a los que está expuesta la Compañía son: 
+ 
+(i) Riesgo de tipo de cambio - 
+La Compañía está expuesta al riesgo de cambio resultante de su exposición de otras monedas respecto 
+del dólar estadounidense.  La Compañía registra sus operaciones en dólares estadounidenses, que 
+corresponde a su moneda funcional.  Sus ingresos, compras, gastos operativos y sus saldos de activos y 
+pasivos financieros son sustancialmente efectuados en dólares estadounidenses y, en menor medida, 
+en Soles. 
+ 
+Respecto de los saldos en Soles, la Compañía está expuesta a los efectos de los niveles de fluctuación que 
+pudiera tener el Sol respecto del dólar estadounidense.  La Gerencia evalúa periódicamente el impacto que este 
+efecto pudiera ocasionar en la Compañía.  No ha considerado necesario contratar instrumentos de cobertura. 
+  
+
+=== PAGINA PDF 22 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+22 
+Al respecto, la Compañía mantiene ciertas cuentas por cobrar y por pagar en Soles cuyo destino es cubrir sus 
+necesidades en esta moneda (bonos corporativos, impuestos y remuneraciones).  Al 30 de junio de 2019 y 31 
+de diciembre de 2018 la Compañía está expuesta a la variación del tipo de cambio principalmente por la 
+posición pasiva neta en Soles originada principalmente por los bonos corporativos en Soles (Nota 14). 
+ 
+ Al 30 de junio Al 31 de diciembre 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Activo   
+Efectivo y equivalentes de efectivo 25,608 19,193 
+Activo por impuesto a la renta corriente (*)  122,881 224,559 
+Otras cuentas por cobrar  12 24  __________ __________ 
+ 148,501 243,776  __________ __________ 
+   
+Pasivo   
+Cuentas por pagar comerciales  10,931 11,922 
+Bonos corporativos  401,676 397,769  __________ __________ 
+ 412,607 409,691  __________ __________    
+Posición pasiva neta  (264,106) (165,915)  __________ __________ 
+ 
+(*) El saldo en moneda extranjera del activo por impuesto a la renta corriente corresponde a los pagos a cuenta de 
+impuesto a la renta en soles realizados durante el periodo, el cual se presenta neto del pasivo por impuesto a la 
+renta corriente en el estado de situación financiera.  
+ 
+Por el periodo de seis meses terminado el 30 de junio de 2019 el tipo de cambio para las transacciones en 
+moneda extranjera (diferente a la moneda funcional) fue US$0.304 por S/1 (US$0.296 por S/1 al 31 de 
+diciembre de 2018). 
+ 
+Por el periodo de seis meses terminado el 30 de junio de 2019 la Compañía registró ganancias en cambio y 
+pérdidas en cambio de US$1,471,000 y US$3,315,000, respectivamente (US$1,304,000 y US$179,000; 
+respectivamente, por el periodo de seis meses terminado el 30 de junio de 2018). 
+ 
+Por el periodo de seis meses terminado el 30 de junio de 2019 una depreciación o apreciación del Sol de 5% 
+respecto de la moneda funcional supondría un aumento o disminución aproximado del resultado de 
+US$3,819,000 y US$4,221,000; respectivamente (US$4,329,000 y US$4,785,000; respectivamente, por el 
+periodo de seis meses terminado el 30 de junio de 2018). 
+ 
+  
+
+=== PAGINA PDF 23 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+23 
+(ii) Riesgo de tasa de interés sobre el valor razonable y los flujos de efectivo - 
+El riesgo de tasa de interés para la Compañía surge de su endeudamiento a largo plazo.  La Compañía reduce el 
+riesgo desfavorable de cambios en las tasas de interés manteniendo excedentes de efectivo depositados en 
+entidades financieras de primer orden que devengan intereses a tasas flotantes. 
+ 
+La Compañía tiene activos, principalmente otras inversiones equivalentes de efectivo que devengan intereses 
+colocados en instituciones financieras locales e internacionales de primer nivel.  Dichos activos, en cuanto a 
+evolución de tasas de interés, actuarían, como una cobertura parcial de un futuro endeudamiento contratado a 
+tasa variable.   
+ 
+En caso ocurriese un aumento o disminución de la tasa de interés de estos activos de 0.05%, el efecto en los 
+resultados integrales por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 ascendería a 
+US$58,000 y US$67,000, respectivamente. 
+ 
+Al 30 de junio de 2019 y 31 de diciembre de 2018, la Compañía mantiene su deuda a tasa fija.  El 
+endeudamiento a tasa fija expone a la Compañía al riesgo de tasa de interés sobre el valor razonable de sus 
+pasivos; sin embargo, la Compañía considera que estas tasas se aproximan a las tasas de mercado. 
+ 
+El Valor Adquisitivo Constante (VAC) corresponde a los cambios del índice de reajuste diario¸ que es preparado 
+por el Banco Central. 
+ 
+Por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 un incremento o disminución del 
+factor VAC de 0.5% supondría un aumento o reducción aproximada del resultado de S/2.00 millones 
+(equivalente a US$608,000) y S/1.96 millones (equivalente a US$599,000); respectivamente, por los bonos 
+emitidos en Soles. 
+ 
+(b) Riesgo de crédito - 
+El riesgo de crédito de la Compañía se origina de la incapacidad de los deudores de poder cumplir con sus 
+obligaciones, en la medida que éstos hayan vencido.  Por ello, la Compañía establece políticas de crédito 
+conservadoras y evalúa constantemente las condiciones del mercado en que se desenvuelven, para lo cual 
+utiliza informes de clasificación de riesgos para las operaciones comerciales y de crédito.  Por consiguiente, la 
+Compañía no espera incurrir en pérdidas significativas por riesgo de crédito. 
+ 
+Los activos financieros de la Compañía potencialmente expuestos a concentraciones de riesgo de crédito 
+consisten principalmente de depósitos en bancos y cuentas por cobrar comerciales.  Respecto de los depósitos 
+en bancos, la Compañía reduce la probabilidad de concentraciones significativas de riesgo de crédito porque 
+mantiene sus depósitos y coloca sus inversiones de efectivo en instituciones financieras de primera categoría.  
+Con relación a las cuentas por cobrar comerciales, el riesgo se minimiza debido a que la Compañía opera 
+mayormente con clientes de primera línea. 
+  
+
+=== PAGINA PDF 24 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+24 
+Asimismo, en caso alguna cuenta por cobrar se considere vencida, la recuperación de esta cuenta estaría 
+cubierta mediante cartas fianza recibidas de clientes que cubren dos meses de futuros pagos.  La Gerencia 
+considera que el riesgo de crédito relacionado a las cuentas por cobrar está minimizado. 
+ 
+(c) Riesgo de liquidez - 
+La administración prudente del riesgo de liquidez que implica mantener suficiente efectivo y equivalente de 
+efectivo, mantiene la disponibilidad de financiamiento a través de una adecuada cantidad de fuentes de crédito 
+comprometidas y la capacidad de cerrar posiciones en el mercado.  Debido a la naturaleza dinámica de los 
+negocios, la Gerencia Financiera se orienta a mantener flexibilidad en su financiamiento a través de la 
+disponibilidad de líneas de crédito acordadas. 
+ 
+Los vencimientos de los pasivos financieros se evidencian en la exposición de corto y largo plazo detallada en el 
+estado de situación financiera, así como en la nota sobre bonos corporativos (Nota 14). 
+ 
+ Menos de 
+un año 
+Entre 1 y 
+2 años 
+Entre 2 y 
+5 años 
+Más de  
+5 años 
+ US$(000) US$(000) US$(000) US$(000)      
+Al 30 de junio de 2019     
+Cuentas por pagar comerciales 30,289 - - - 
+Bonos corporativos 2,729 11,735 38,747 931,958 
+Intereses no devengados a pagar 22,352 44,345 128,620 107,494  __________ __________ __________ __________      
+Total 55,370 56,080 167,367 1,039,452  __________ __________ __________ __________ 
+     
+Al 31 de diciembre de 2018     
+Cuentas por pagar comerciales 39,538 - - - 
+Bonos corporativos 2,662 11,447 37,796 929,947 
+Intereses no devengados a pagar 44,446 44,143 128,124 107,073  __________ __________ __________ __________      
+Total 86,646 55,590 165,920 1,037,020  __________ __________ __________ __________ 
+ 
+Los vencimientos de los bonos corporativos no incluyen los costos de transacción. 
+ 
+4.2 Administración del riesgo de la estructura de capital - 
+Los objetivos de la Compañía al administrar el capital son el salvaguardar su capacidad de continuar como empresa en 
+marcha con el propósito de generar retornos a sus accionistas, beneficios a otros grupos de interés y mantener una 
+estructura de capital óptima para reducir el costo del capital.  
+ 
+  
+
+=== PAGINA PDF 25 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+25 
+La Compañía monitorea su capital sobre la base del ratio de apalancamiento, este ratio se calcula dividiendo la deuda 
+neta entre el capital total.  La deuda neta corresponde al total del endeudamiento (incluyendo el endeudamiento 
+corriente y no corriente) menos el efectivo y equivalente de efectivo.  El capital total corresponde al patrimonio tal y como 
+se muestra en el estado de situación financiera más la deuda neta. 
+ 
+El ratio de apalancamiento se compone: 
+ 
+ Al 30 de junio Al 31 de diciembre 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Total pasivos financieros (Nota 14)  974,509 970,069 
+Menos: Efectivo y equivalentes de efectivo (Nota 6)  (176,036) (167,527)  ___________ ___________    
+Deuda neta (a) 798,473 802,542 
+Total patrimonio (b)  314,363 314,537  ___________ ___________    
+Total deuda neta más patrimonio (a+b) = (c)  1,112,836 1,117,079  ___________ ___________    
+Ratio de apalancamiento (a/c)  72% 71%  ___________ ___________ 
+ 
+4.3 Estimación del valor razonable - 
+El valor razonable es definido como el importe por el cual un activo podría ser intercambiado o un pasivo liquidado entre 
+partes conocedoras y dispuestas a ello en una transacción corriente, bajo el supuesto de que la entidad es una empresa 
+en marcha. 
+ 
+Para la clasificación del tipo de valoración utilizadas por la Compañía de los instrumentos financieros a valor razonable, 
+se han establecido los siguientes niveles de medición: 
+ 
+- Nivel 1: Se usa valores de cotización en mercados activos para activos o pasivos idénticos. 
+- Nivel 2: Se usa información sobre el activo o pasivo distinta a valores de cotización (nivel 1) pero que pueda ser 
+confirmada, sea directa (por ejemplo, precios) o indirectamente (por ejemplo, provenientes de precios). 
+- Nivel 3: Se usa información sobre el activo o pasivo que no se basa en data que se pueda confirmar en el 
+mercado (es decir, información no observable). 
+ 
+Cuando un instrumento financiero es comercializado en un mercado líquido y activo, su precio estipulado en el mercado 
+en una transacción real brinda la mejor evidencia de su valor razonable.  Cuando no se cuenta con el precio estipulado en 
+el mercado o este no puede ser un indicativo del valor razonable del instrumento, para determinar dicho valor razonable 
+se pueden utilizar el valor de mercado de otro instrumento, sustancialmente similar, el análisis de flujos descontados u 
+otras técnicas aplicables; las cuales se ven afectadas de manera significativa por los supuestos utilizados. 
+ 
+  
+
+=== PAGINA PDF 26 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+26 
+No obstante que la Gerencia ha utilizado su mejor juicio en la estimación de los valores razonables de sus instrumentos 
+financieros, cualquier técnica para efectuar dicho estimado conlleva cierto nivel de fragilidad inherente.  Como 
+resultado, el valor razonable no es indicativo del valor neto de realización o de liquidación de los instrumentos 
+financieros. 
+ 
+Los siguientes métodos y supuestos fueron utilizados para estimar los valores razonables: 
+ 
+(i) Instrumentos financieros cuyo valor razonable es similar al valor en libros - 
+Para los activos y pasivos financieros que son líquidos o tienen vencimientos a corto plazo (menor a tres meses), 
+como efectivo y equivalente de efectivo, cuentas por cobrar comerciales, otras cuentas por cobrar, cuentas por 
+pagar comerciales y otros pasivos corrientes, se considera que el valor en libros es similar al valor razonable. 
+ 
+(ii) Instrumentos financieros - 
+El valor razonable de los activos y pasivos financieros que se encuentran a tasas fija a costo amortizado, se 
+determina comparando las tasas de interés del mercado en el momento de su reconocimiento inicial con las 
+tasas de mercado actuales relacionadas con instrumentos financieros similares.  El valor razonable estimado de 
+los depósitos que devengan intereses se determina mediante los flujos de caja descontados usando tasas de 
+interés del mercado en la moneda que prevalece con vencimientos y riesgos de crédito similares. 
+ 
+El valor en libros de los bonos corporativos es aproximado a su valor razonable, porque el impacto de su 
+descuento no es significativo. 
+ 
+  
+
+=== PAGINA PDF 27 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+27 
+Sobre la base de lo mencionado anteriormente, a continuación, se establece una comparación entre los valores 
+en libros y los valores razonables de los instrumentos financieros de la Compañía presentados en el estado de 
+situación financiera. 
+La tabla no incluye los valores razonables de los activos y pasivos no financieros. 
+ 
+ Al 30 de junio de 2019 Al 31 de diciembre de 2018  __________________________ __________________________ 
+ Valor en 
+libros 
+Valor 
+razonable 
+Valor en 
+libros 
+Valor 
+razonable 
+ US$(000) US$(000) US$(000) US$(000) 
+     
+Activos financieros     
+Efectivo y equivalentes de 
+efectivo 176,036 176,036 167,527 167,527 
+Cuentas por cobrar comerciales 61,915 61,915 59,879 59,879 
+     
+Pasivos financieros     
+Cuentas por pagar comerciales 30,289 30,289 39,538 39,538 
+Bonos corporativos 974,509 974,556 970,069 970,124 
+Otras cuentas por pagar 
+(excluyendo Provisiones por 
+litigios y sanciones y Tributos 
+y Contribuciones sociales) 57,402 57,402 67,302 67,302 
+ 
+  5. Instrumentos financieros por categoría 
+La clasificación de los instrumentos financieros por categoría es como sigue: 
+ 
+ Activos financieros Pasivos financieros  __________________________ __________________________ 
+ 
+Préstamos y 
+cuentas por 
+cobrar Total 
+Otros pasivos 
+financieros Total 
+ US$(000) US$(000) US$(000) US$(000) 
+     
+Al 30 de junio de 2019     
+Activos y pasivos según estado de  
+situación financiera     
+Efectivo y equivalente de efectivo 176,036 176,036 - - 
+Cuentas por cobrar comerciales 61,915 61,915 - - 
+Cuentas por pagar comerciales - - 30,289 30,289 
+Bonos corporativos - - 974,509 974,509 
+Otras cuentas por pagar (excluyendo Provisiones por 
+litigios y sanciones y Tributos y contribuciones 
+sociales) - - 57,402 57,402  _________ _________ _________ _________      
+ 237,951 237,951 1,092,489 1,092,489  __________ __________ __________ __________ 
+ 
+ 
+ 
+
+=== PAGINA PDF 28 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+28 
+ Activos financieros Pasivos financieros  __________________________ __________________________ 
+ 
+Préstamos y 
+cuentas por 
+cobrar Total 
+Otros pasivos 
+financieros Total 
+ US$(000) US$(000) US$(000) US$(000) 
+     
+Al 31 de diciembre de 2018     
+Activos y pasivos según estado de  
+situación financiera     
+Efectivo y equivalente de efectivo 167,527 167,527 - - 
+Cuentas por cobrar comerciales 59,879 59,879 - - 
+Cuentas por pagar comerciales - - 39,538 39,538 
+Bonos corporativos - - 970,069 970,069 
+Otras cuentas por pagar (excluyendo Provisiones por 
+litigios y sanciones y Tributos y contribuciones 
+sociales) - - 67,302 67,302  __________ __________ __________ __________      
+ 227,406 227,406 1,076,909 1,076,909  __________ __________ __________ __________ 
+ 
+  6. Efectivo y equivalentes de efectivo 
+(a)  A continuación se presenta la composición del rubro: 
+ 
+ Al 30 de junio Al 31 de diciembre 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+   
+Efectivo 15 15 
+Cuentas corrientes bancarias 59,304 61,814 
+Otras inversiones equivalentes de efectivo (b)  116,717 105,698  __________ __________    
+Total 176,036 167,527  __________ __________ 
+ 
+(b)   Al 30 de junio de 2019 y 31 de diciembre de 2018 la Compañía mantiene depósitos a plazo denominados en dólares 
+estadounidenses en entidades internacionales con menos de tres meses de vencimiento desde su fecha de constitución, 
+con la más alta calificación crediticia y devengan intereses a una tasa promedio de 2.21% (2.06% al 31 de diciembre de 
+2018). 
+  
+
+=== PAGINA PDF 29 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+29 
+  7. Cuentas por cobrar comerciales 
+(a)  A continuación se presenta la composición del rubro: 
+ 
+ Al 30 de junio Al 31 de diciembre 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Transporte de gas natural (b)  45,341 44,165 
+Transporte de líquidos de gas natural (b)  16,908 16,895  __________ __________ 
+Total 62,249 61,060    
+Menos - Estimación para cuentas de cobranza dudosa  (334) (1,181)  __________ __________    
+Total 61,915 59,879  __________ __________ 
+ 
+(b) Los saldos por transporte de gas natural y líquidos de gas natural a clientes se denominan en dólares estadounidenses, 
+tienen vencimiento corriente y corresponden a los montos que adeudan los clientes por los servicios de transporte de gas 
+natural y de líquidos de gas natural prestados en el curso normal de los negocios y estimaciones por dichos conceptos 
+que se facturaron y cobraron en el mes posterior a su registro. 
+ 
+(c) Al 30 de junio de 2019 y al 31 de diciembre de 2018 la Compañía no tiene cuentas vencidas.  En caso alguna cuenta por 
+cobrar se considere vencida, la recuperación de esta cuenta estaría cubierta mediante cartas fianza recibidas de clientes 
+que cubren dos meses de futuros pagos, excepto las empresas generadoras eléctricas. Sin embargo, los principales 
+clientes de la Compañía son de reconocido prestigio en el mercado. 
+ 
+(d) En opinión de la Gerencia de la Compañía, el saldo de la provisión por cobranza dudosa es suficiente para cubrir, de 
+manera adecuada, los riesgos de incumplimiento a la fecha del estado de situación financiera. 
+ 
+  8. Saldos y transacciones con partes relacionadas 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ Al 30 de junio Al 31 de diciembre 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+COGA:   
+Otras cuentas por cobrar (Nota 9)  81 79 
+Cuentas por pagar comerciales (Nota 12)  6,340 16,274 
+   
+Sonatrach Perú Corporation S.A.C.:    
+Otras cuentas por pagar  4,759 5,725 
+ 
+(b) La compensación pagada a personal de la gerencia, considerada personal clave por el periodo de seis meses terminado 
+el 30 de junio de 2019 y de 2018, se describe en la Nota 23. 
+  
+
+=== PAGINA PDF 30 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+30 
+(c) Las principales transacciones con partes relacionadas por el periodo de seis meses terminado el 30 de junio de 2019 y 
+de 2018 se detallan como sigue: 
+ 
+ Por el periodo de seis meses  
+terminado el 30 de junio de   ______________________________________ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+COGA:   
+Costos/Gastos:    
+Servicios de operación y mantenimiento (d)  58,160 48,357 
+Servicios de obras de estabilización (d)  9,067 3,322 
+Otros servicios (d)  1,500 360 
+   
+Ingresos:   
+Reembolsos de gastos  3 4 
+Alquiler de instalaciones  414 395 
+   
+Sonatrach Perú Corporation S.A.C.:    
+Costos/Gastos    
+Servicio de compresi ón y consume de combustible  3,277 2,924 
+ 
+(d) Incluido en los rubros de costo del servicio y activos intangibles distintos a la plusvalía y en el estado de resultados 
+integrales y estado de situación financiera, respectivamente. 
+ 
+9. Otras cuentas por cobrar 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ Al 30 de junio Al 31 de diciembre 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Anticipos otorgados  2,240 3,126 
+Otros 1,831 1,366  __________ __________    
+Total 4,071 4,492  __________ __________ 
+ 
+(b) Al 30 de junio de 2019 el saldo de otras cuentas por cobrar incluye saldos con partes relacionadas ascendentes a 
+US$81,000 (US$79,000 al 31 de diciembre de 2018) (Nota 8). 
+
+=== PAGINA PDF 31 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+31 
+ 
+10. Propiedad, planta y equipo, neto 
+(a) A continuación se presenta la composición y el movimiento del rubro: 
+ 
+ 
+Saldo 
+inicial Adiciones Transferencia Retiro y/o ajustes Saldo final 
+ US$(000) US$(000) US$(000) US$(000) US$(000) 
+      
+Al 30 de junio de 2019      
+Costo       
+Terrenos 1,426 - - - 1,426 
+Edificios 2,451 76 906 - 3,433 
+Unidades de transporte 814 - - (106) 708 
+Muebles y enseres y equipos diversos 49,856 21 158 - 50,035 
+Obras en curso 5,636 1,633 (2,605) - 4,664 
+Suministros para expansiones 8,316 - - - 8,316  __________ __________ __________ __________ __________       
+ 68,499 1,730 (1,541) (106) 68,582  __________ __________ __________ __________ __________       
+Depreciación acumulada      
+Edificios 316 161 - - 477 
+Unidades de transporte 593 32 - (76) 549 
+Muebles y enseres y equipos diversos 24,486 1,999 - - 26,485  __________ __________ __________ __________ __________       
+ 25,395 2,192 - (76) 27,511  __________ __________ __________ __________ __________       
+Costo neto 43,104    41,071  __________    __________ 
+      
+Al 30 de junio de 2018      
+Costo       
+Terrenos 1,251 - 175 - 1,426 
+Edificios 1,218 77 713 - 2,008 
+Unidades de transporte 759 - 33 - 792 
+Muebles y enseres y equipos diversos 41,536 92 4,750 - 46,378 
+Obras en curso 8,935 751 (5,578) - 4,108 
+Suministros para expansiones 9,070 - (379) - 8,691  __________ __________ __________ __________ __________       
+ 62,769 920 (286) - 63,403  __________ __________ __________ __________ __________       
+Depreciación acumulada      
+Edificios 350 93 (225) - 218 
+Unidades de transporte 566 29 - - 595 
+Muebles y enseres y equipos diversos 20,885 1,688 - - 22,573  __________ __________ __________ __________ __________       
+ 21,801 1,810 (225) - 23,386  __________ __________ __________ __________ __________       
+Costo neto 40,968    40,017  __________    __________ 
+ 
+
+=== PAGINA PDF 32 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+32 
+(b) El gasto por depreciación por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 ha sido registrado en 
+los siguientes rubros del estado de resultados integrales: 
+ 
+ Por el periodo de seis meses  
+terminado el 30 de junio de   ______________________________________ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Costo del servicio (Nota 22)  1,869 888 
+Gastos de administración (Nota 23)  323 922  ___________ ___________    
+ 2,192 1,810  ___________ ___________ 
+ 
+(c) En opinión de la Gerencia, luego de haber evaluado los indicios de deterioro para cada período presentado, no se ha 
+identificado deterioro sobre sus activos. 
+ 
+
+=== PAGINA PDF 33 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+33 
+11. Activos intangibles distintos de la plusvalía, neto 
+(a) A continuación se presenta la composición y el movimiento del rubro: 
+ 
+ 
+Saldo 
+inicial Adiciones Transferencia Retiro y/o ajustes Saldo final 
+ US$(000) US$(000) US$(000) US$(000) US$(000) 
+      
+Al 30 de junio de 2019      
+Costo      
+Sistema de transporte de GN y LGN – (b y c) 1,964,060 14,710 531 - 1,979,301 
+Derecho a recibir servicios de compresión (e) 162,401 - - - 162,401 
+Line pack 13,152 639 - (636) 13,155 
+Otros 8,684 - 1,010 - 9,694  ___________ ___________ ___________ ___________ __________       
+ 2,148,297 15,349 1,541 (636) 2,164,551  ___________ ___________ ___________ ___________ __________ 
+      
+Amortizaciones acumuladas      
+Sistema de transporte de GN y LGN - Intangible 828,387 46,934 - - 875,321 
+Derecho a recibir servicios de compresión 50,815 3,561 - - 54,376 
+Otros 5,131 456 - - 5,587  ___________ ___________ ___________ ___________ ___________       
+ 884,333 50,951 - - 935,284  ___________ ___________ ___________ ___________ ___________       
+Costo neto 1,263,964    1,229,267  ___________    ___________ 
+      
+Al 30 de junio de 2018      
+Costo      
+Sistema de transporte de GN y LGN - Intangible 1,935,617 5,936 (323) - 1,941,230 
+Derecho a recibir servicios de compresión 162,401 - - - 162,401 
+Line pack 13,149 613 - (610) 13,152 
+Otros 8,043 - 609 - 8,652  ___________ ___________ ___________ ___________ ___________       
+ 2,119,210 6,549 286 (610) 2,125,435  ___________ ___________ ___________ ___________ ___________ 
+      
+Amortizaciones acumuladas      
+Sistema de transporte de GN y LGN - Intangible 739,687 44,435 225 - 784,347 
+Derecho a recibir servicios de compresión 43,639 3,561 - - 47,254 
+Otros 4,385 374 - - 4,759  ___________ ___________ ___________ ___________ ___________       
+ 787,765 48,370 225 - 836,360  ___________ ___________ ___________ ___________ ___________       
+Costo neto 1,331,445    1,289,075  ___________    ___________ 
+
+=== PAGINA PDF 34 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+34 
+(b) Al 30 de junio de 2019 y 31 de diciembre de 2018 el rubro sistema de transporte de gas natural y líquidos de gas natural 
+corresponde al sistema requerido para el transporte de gas natural por ductos desde Camisea al City Gate en Lima y el 
+transporte de líquidos de gas natural por ductos desde Camisea a la Costa, el costo activo se registra y amortiza de 
+acuerdo con la política contable. 
+ 
+(c) Las adiciones al sistema de transporte de gas natural y líquido de gas natural al 30 de junio de 2019 y de 2018, 
+corresponde principalmente a obras de estabilización de terrenos en ciertas áreas por las que se desplazan los ductos de 
+gas natural y de líquidos de gas natural. 
+ 
+(d) El gasto por amortización por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 ha sido registrado en 
+los siguientes rubros del estado de resultados integrales: 
+ 
+ Por el periodo de seis meses  
+terminado el 30 de junio de   ______________________________________ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Costo del servicio (Nota 22)  50,495 47,996 
+Gastos de administración (Nota 23)  456 374  ___________ ___________    
+ 50,951 48,370  ___________ ___________ 
+ 
+(e) Derecho a recibir servicios de compresión - 
+ Esta partida incluye los siguientes contratos suscritos: 
+ 
+(i) Con fecha 30 de diciembre de 2003 la Compañía y el consorcio operador del gas de Camisea suscribieron el 
+contrato para el servicio de transporte de gas natural que, entre otros aspectos, establece los principales 
+lineamientos para el servicio de compresión que el consorcio operador debe prestar a la Compañía.  El contrato 
+otorgó a la Compañía el derecho a recibir el servicio de compresión de gas natural por un plazo de 30 años 
+contados a partir del 20 de agosto de 2004.  El contrato establece que la Compañía debe pagar una 
+“remuneración fija”, equivalente a 60 cuotas mensuales consecutivas de US$240,199, en retribución a que el 
+consorcio operador ponga a su disposición los equipos de compresión necesarios para la prestación del 
+servicio.   
+ 
+En adición, la Compañía se compromete al pago de una “remuneración variable” al consorcio operador que 
+equivale al traslado del costo de operación de dichos equipos de compresión a lo largo del plazo de prestación 
+del servicio.  El saldo al 30 de junio de 2019 de la cuenta Derecho a recibir servicios de compresión (neto de su 
+amortización acumulada) es US$7,339,000 (US$7,579,000 al 31 de diciembre de 2018). 
+ 
+  
+
+=== PAGINA PDF 35 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+35 
+En relación con el derecho antes mencionado para recibir servicios de compresión, la Compañía y el consorcio 
+operador suscribieron un acuerdo el 1 de julio de 2009 que establece, entre otros aspectos, una obligación de 
+pago de US$27 millones más intereses, condicionada al cumplimiento de ciertos eventos.  En 2007 estos 
+eventos se cumplieron y, en consecuencia, la Compañía reconoció a partir de ese momento un activo por su 
+derecho a recibir servicios de compresión con crédito a Otras cuentas por pagar a largo plazo (Nota 15). 
+ 
+Al 30 de junio de 2019 el valor actualizado del derecho a recibir servicios de compresión, neto de la 
+amortización acumulada asciende a US$29,860,000 (US$30,846,000 al 31 de diciembre de 2018) y se 
+registró en la cuenta Derecho a recibir compresión. 
+ 
+(ii) En junio de 2009 la Compañía y el consorcio operador subscribieron una adenda al contrato de transporte de 
+gas natural descrito en el literal i) anterior, por el cual la Compañía contrata el derecho a recibir servicios de 
+compresión hasta 595 mmpcd desde la fecha de suscripción del contrato hasta agosto de 2034.  La Compañía 
+pagará por este servicio una remuneración fija equivalente a 96 cuotas mensuales de US$1,471,491 cada una 
+a partir del 31 marzo de 2012, en retribución a que el consorcio operador ponga a su disposición los equipos de 
+compresión necesarios para la prestación del servicio.  En adición, la Compañía se compromete al pago de una 
+“remuneración variable” al consorcio operador que equivale al traslado del costo de operación de dichos 
+equipos de compresión a lo largo del plazo de prestación del servicio.  
+ 
+Al 30 de junio de 2019 el valor total de la remuneración fija descontado a su valor presente, neto de la 
+amortización acumulada asciende a US$70,826,000 (US$73,161,000 al 31 de diciembre de 2018) y se 
+registró en la cuenta Derecho a recibir servicio de compresión. 
+ 
+Por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 la amortización del Derecho a recibir 
+servicios de compresión ascendió a US$3,561,000 respectivamente, y se incluye en el Costo de servicio (Nota 
+22) del estado de resultados integrales.  La amortización se realiza de acuerdo con la política contable de la 
+Compañía descrita en la Nota 2.3 (g). 
+ 
+12. Cuentas por pagar comerciales 
+Las cuentas por pagar comerciales se originan principalmente por la prestación de servicios y adquisición de materiales, 
+suministros y repuestos necesarios para la ampliación y prestación de los servicios de transporte por ductos de gas natural y de 
+líquidos de gas natural.  Las cuentas por pagar comerciales están denominadas principalmente en dólares estadounidenses, no 
+devengan intereses y tienen vencimiento corriente.  No se han otorgado garantías específicas por estas obligaciones. 
+ 
+Al 30 de junio de 2019 el saldo de cuentas por pagar comerciales incluye saldo con partes relacionadas ascendente a 
+US$6,340,000 (US$16,274,000 al 31 de diciembre de 2018) (Nota 8). 
+  
+
+=== PAGINA PDF 36 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+36 
+13. Pasivo por adelantos de garantía de red principal 
+Este rubro comprende el cobro anticipado a las generadoras eléctricas por concepto de Garantía de Red Principal de acuerdo con 
+lo pactado en el contrato de concesión de transporte de gas natural suscrito con Estado Peruano.  Estas recaudaciones están 
+siendo pagadas a las empresas de generación eléctrica a lo largo de la vida de la Concesión (Nota 1).  Por el periodo de seis 
+meses terminado el 30 de junio de 2019 y de 2018 los intereses devengados ascienden a US$8,431,000 y US$8,023,000, 
+respectivamente (Nota 25). 
+ 
+El movimiento de esta cuenta es el siguiente: 
+ 
+ Al 30 de junio Al 31 de diciembre 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Saldo inicial 123,133 123,550 
+Actualización 1,534 2,466 
+Aplicaciones (1,589) (2,883)  ___________ ___________    
+Saldo final 123,078 123,133 
+Menos: parte corriente  (3,553) (3,288)  ___________ ___________    
+Parte no corriente 119,525 119,845  ___________ ___________ 
+ 
+14. Bonos corporativos 
+(a) A continuación se presenta la composición del rubro: 
+ 
+Emisión Moneda 
+Importe 
+autorizado y/o 
+utilizado 
+Al 30 de junio 
+2019 
+Al 31 de 
+diciembre 
+2018 
+ US$(000) US$(000) US$(000) US$(000) 
+     
+Mercado local (b)     
+Cuarta S/ 236,600 108,201 104,281 
+Sexta S/ 28,960 13,325 12,845 
+Bono senior (c) US$ 850,000 852,983 852,943  ___________ ___________ ___________ ___________      
+Total (*)   974,509 970,069 
+Menos: parte corriente   (6,460) (6,548)  ___________ ___________ ___________ ___________      
+Parte no corriente   968,049 963,521  __________ __________ __________ __________ 
+ 
+(*) Estos saldos se presentan netos de los intereses devengados por pagar y costos de emisión de bonos, de acuerdo con la 
+política contable descrita en la Nota 2.3 (k) 
+ 
+  
+
+=== PAGINA PDF 37 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+37 
+(b) El 24 de agosto de 2004 la Compañía realizó la cuarta emisión del primer programa de emisión de bonos corporativos en 
+Soles por S/236,600,000 (equivalente a US$70,020,000).  Los intereses se pagan trimestralmente y el capital se 
+amortizará trimestralmente a partir del 24 de noviembre de 2019 hasta el 24 de agosto 2029.  La tasa anual de 
+colocación primaria de los bonos es VAC + 7.125%. 
+ 
+Con fecha 24 de mayo de 2005 la Compañía realizó la sexta emisión del primer programa de emisión de bonos 
+corporativos en Soles por S/28,960,000 (equivalente a US$8,897,000).  Los intereses se pagan trimestralmente y el 
+capital se amortizará trimestralmente a partir del 24 de agosto de 2020 hasta el 24 de mayo de 2030. 
+ 
+La tasa anual de colocación primaria de los bonos es VAC + 6.25%. 
+ 
+Por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 la actualización de los bonos corporativos en 
+Soles usando el factor VAC asciende a S/3,797,000 (equivalente a US$1,154,000) y S/982,000 (equivalente a 
+US$300,000), respectivamente (Nota 25). 
+ 
+(c) Con fecha 30 de abril de 2013, la Compañía efectuó la emisión internacional de bonos bajo la regla 144 A y la 
+Regulación S del United States Securities Act. de 1933 por un monto de US$850,000,000 a una tasa de 4.25% y con 
+vencimiento el 30 de abril de 2028.  Los intereses se pagan semestralmente y el capital se amortizará anualmente a 
+partir del 30 de abril de 2024.  Los fondos obtenidos de esta emisión internacional fueron utilizados para el pago de la 
+deuda con los Accionistas, el pago de los préstamos bancarios y el pago de la deuda de las emisiones locales de bonos 
+del Primer Programa de Bonos Corporativos (primera y quinta emisión) y del Segundo Programa de Bonos Corporativos 
+(tercera y cuarta emisión).  
+ 
+Estos bonos no presentan garantías ni compromisos financieros específicos. 
+ 
+Por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 los intereses devengados por estas deudas ascendieron 
+a US$22,156,000 y US$22,155,000, respectivamente (Nota 25). 
+ 
+Al 30 de junio de 2019, el costo de emisión de deuda asciende a US$3,603,000 (US$3,801,000 al 31 de diciembre de 2018). 
+ 
+  
+
+=== PAGINA PDF 38 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+38 
+Al 30 de junio de 2019 el cronograma de pagos del principal de estas deudas y de los intereses (estimados con una proyección 
+del VAC a la fecha) es el siguiente: 
+ 
+ Bonos en soles Bonos en dólares estadounidenses  ___________________________________________________________ _______________________ 
+ Capital Intereses Capital Intereses  ___________________________ __________________________ _______________________ 
+ S/(000) US$(000) S/(000) US$(000) US$/(000) US$(000) 
+       
+2019 8,977 2,729 14,112 4,289 - 18,063 
+2020 38,607 11,735 27,042 8,220 - 36,125 
+2021 41,654 12,661 24,732 7,517 - 36,125 
+2022 42,496 12,917 22,245 6,761 - 36,125 
+2023 43,325 13,169 19,633 5,967 - 36,125 
+2024 en adelante 269,641 81,958 56,527 17,181 850,000 90,313  ___________ ___________ __________ ___________ ___________ ___________        
+ 444,700 135,169 164,291 49,935 850,000 252,876  ___________ ___________ ___________ ___________ ___________ ___________ 
+ 
+15. Otras cuentas por pagar 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ Al 30 de junio Al 31 de diciembre 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Pasivo por derecho a recibir servicio de compresión (b)  47,586 57,248 
+Provisiones por litigios y sanciones (c)  14,913 19,572 
+Tributos y contribuciones sociales por pagar  10,178 7,059 
+Beneficios a los empleados  1,284 1,942 
+Diversas 8,532 8,112  ___________ ___________    
+Total 82,493 93,933 
+Menos: parte corriente  (28,652) (28,748)  ___________ ___________    
+Parte no corriente 53,841 65,185  ___________ ___________ 
+ 
+(b) Pasivo por derecho a recibir servicios de compresión - 
+Corresponde a la obligación de pago al consorcio operador por el derecho a recibir servicio de compresión por US$27 
+millones más intereses (Nota 11, acápite (i)).   
+ 
+Al 30 de junio de 2019 el pasivo asciende a US$33,148,000 (US$34,430,000 al 31 de diciembre de 2018) el cual es 
+cancelado en 240 cuotas mensuales y consecutivas desde el 30 de abril de 2012, devengando un interés anual de 
+Libor+4%. 
+   
+  
+
+=== PAGINA PDF 39 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+39 
+Además, comprende el derecho a recibir servicio de compresión de acuerdo con la adenda al contrato de transporte de 
+gas natural por US$100 millones (Nota 11, acápite (ii)).  Al 30 de junio de 2019 el pasivo relacionado asciende a 
+US$14,438,000 (US$22,818,000 al 31 de diciembre de 2018) el cual se cancelará por medio de una remuneración fija 
+equivalente a 96 cuotas mensuales de US$1,471,491 desde el 31 marzo de 2012, devengando un interés anual de 
+5.1%. 
+ 
+Por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 los intereses devengados por el derecho a 
+recibir servicio de compresión ascendieron a US$1,542,000 y US$1,911,000, respectivamente y se incluyen en la 
+cuenta gastos financieros del estado de resultados integrales (Nota 25). 
+ 
+Al 30 de junio de 2019 el saldo de otras cuentas por pagar incluye saldo con partes relacionadas ascendente a 
+US$4,759,000 (US$5,725,000 al 31 de diciembre de 2018) (Nota 8). 
+ 
+(c) Provisiones por litigios y sanciones - 
+El movimiento de las provisiones por litigios y sanciones por el periodo de seis meses terminado el 30 de junio de 2019 y 
+de 2018 es el siguiente: 
+ 
+ OSINERMIN SUNAT Total 
+ US$(000) US$(000) US$(000) 
+    
+Al 1 de enero de 201 9 9,274 10,298 19,572 
+Adiciones - - - 
+Provisiones, nota 23 (a) - 533 533 
+Actualización de provisión  (5,192) - (5,192)  ___________ ___________ ___________     
+Al 30 de junio de 2019 4,082 10,831 14,913 
+    
+Al 1 de enero de 201 8 11,001 10,940 21,941 
+Provisiones, nota 23 (a)   177 177 
+Actualización de provisión  (802) - (802)  ___________ ___________ ___________     
+Al 30 de junio de 2018 10,199 11,117 21,316  __________ __________ __________ 
+ 
+Al 30 de junio de 2019 comprende principalmente las provisiones constituidas por concepto de multas impuestas por el 
+Organismo Supervisor de la Inversión en Energía y Minería (OSINERGMIN) referidas principalmente a presuntas 
+infracciones por aproximadamente US$9.07 millones (US$12.25 millones al 31 de diciembre de 2018), de las cuales 
+aproximadamente US$1.29 millones (US$2.18 millones al 31 de diciembre de 2018) corresponde a multas impuestas 
+durante la fase de construcción de ductos, las que han sido apeladas. 
+ 
+La Gerencia de la Compañía, sobre la base de la opinión de sus asesores legales, mantiene al 30 de junio de 2019 una 
+provisión por este concepto ascendente a US$4,082,000 (US$9,274,000 al 31 de diciembre de 2018). Las 
+actualizaciones de esta provisión se cargan a los resultados del ejercicio, que se estiman suficientes para cubrir 
+cualquier desembolso futuro por este concepto. 
+  
+
+=== PAGINA PDF 40 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+40 
+Como resultado de la revisión de las declaraciones juradas correspondientes a los ejercicios 2004 y 2005, la Compañía 
+recibió de la Administración Tributaria (SUNAT) resoluciones de determinación y multa en las que se determinaron 
+reparos al impuesto a la renta, más intereses y accesorios por aproximadamente US$27.64 millones al 30 de junio de 
+2019 (US$18.63 millones al 31 de diciembre de 2018).  La Compañía ha presentado reclamo frente a estas 
+resoluciones. 
+ 
+La Gerencia de la Compañía, sobre la base de la opinión de sus asesores legales, mantiene al 30 de junio de 2019 una 
+provisión por este concepto ascendente a US$10,831,000 (US$10,298,000 al 31 de diciembre de 2018). Las 
+actualizaciones de esta provisión se cargan a los resultados del ejercicio, que se estiman suficientes para cubrir 
+cualquier desembolso futuro por este concepto. 
+ 
+De acuerdo a la adenda al Contrato BOOT de Concesión de Transporte de Gas Natural (Nota 1), la Compañía se 
+comprometió a construir la Derivación Principal Ayacucho, estableciéndose que los costos de inversión reconocidos por 
+la Concedente serían aquellos que resulten de la revisión que efectúe una Empresa Consultora contratada para dicho fin.  
+ 
+En este sentido, la Empresa Consultora emitió su informe final que fue presentado a la Concedente, quien manifestó 
+inicialmente que el informe no tenía carácter de informe final, objetándose el resultado del mismo. Ante ello, en 2018 se 
+inició una controversia con la Concedente; en opinión de los asesores legales la Compañía tiene una alta expectativa de 
+obtener un resultado favorable. 
+ 
+16. Impuesto a las ganancias diferido 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ Al 30 de junio Al 31 de diciembre 
+ 2019 2018 
+ US$(000) US$(000) 
+Impuesto diferido activo:    
+Impuesto diferido que se recuperara después de 12       
+    Meses (952) 2,729 
+Impuesto diferido que se recuperara dentro de 12  
+    Meses 5,209 5,209  ___________ ___________    
+Total impuesto diferido activo  4,257 7,938  ___________ ___________ 
+ 
+  
+
+=== PAGINA PDF 41 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+41 
+(b) El movimiento bruto de la cuenta impuesto a las ganancias diferido es el siguiente: 
+ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Al 1 de enero 7,938 9,869 
+Emergencias (3,531) 3,719 
+Baja de activo fijo (245) 772 
+Provisión por reclamo  (254) 414 
+Provisiones no devengadas  (303) - 
+Activo Intangible - Aplicación CINIIF 12 673 (445) 
+Amortización del derecho a recibir servicios de      
+      compresión (151) (26) 
+Costo de emisión bono senior  52 52 
+Depreciación de costos de financiamiento 78 75  ___________ ___________    
+Al 31 de junio 4,257 14,430  ___________ ___________ 
+ 
+(c) El movimiento de esta cuenta por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 es el siguiente: 
+ 
+ Saldo inicial 
+Abono (cargo) al 
+resultado del 
+período Saldo final 
+ US$(000) US$(000) US$(000) 
+    
+Por el periodo de seis meses terminado  
+el 30 de junio de 2019    
+Activo diferido    
+Derecho a recibir servicio de compresión  8,982 (287) 8,695 
+Emergencias 1,246 (3,531) (2,285) 
+Baja de activo fijo 995 (245) 750 
+Provisión por reclamo  414 (254) 160 
+Provisiones no devengadas  435 (303) 132 
+Provisión por deterioro de suministros para expansiones  5,209 - 5,209 
+Provisión por obsolescencia de materiales  158 - 158  ___________ ___________ ___________ 
+ 17,439 (4,620) 12,819  ___________ ___________ ___________     
+Pasivo diferido    
+Derecho a recibir servicio de compresión  (219) 136 (83) 
+Activo Intangible - Aplicación CINIIF 12 (5,964) 673 (5,291) 
+Depreciación de costos de financiamiento  (2,355) 78 (2,277) 
+Comisión de emisión Bono Senior  (963) 52 (911)  ___________ ___________ ___________     
+Total (9,501) 939 (8,562)  ___________ ___________ ___________ 
+Activo neto 7,938 (3,681) 4,257  ___________ ___________ ___________ 
+ 
+ 
+    
+
+=== PAGINA PDF 42 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+42 
+ Saldo inicial 
+Abono (cargo) al 
+resultado del 
+período Saldo final 
+ US$(000) US$(000) US$(000) 
+    
+Por el periodo de seis meses terminado  
+el 30 de junio de 2018 
+Activo diferido    
+Derecho a recibir servicio de compresión  9,555 (286) 9,269 
+Emergencias - 3,719 3,719 
+Baja de activo fijo - 772 772 
+Provisión por reclamo  - 414 414 
+Provisión por deterioro de suministros para expansiones  5,209 - 5,209 
+Provisión por obsolescencia de materiales  158 - 158  ___________ ___________ ___________ 
+ 14,922 4,619 19,541  ___________ ___________ ___________     
+Pasivo diferido    
+Derecho a recibir servicio de compresión  (680) 260 (420) 
+Activo Intangible - Aplicación CINIIF 12 (802) (445) (1,247) 
+Depreciación de costos de financiamiento  (2,505) 75 (2,430) 
+Comisión de emisión Bono Senior  (1,066) 52 (1,014)  ___________ ___________ ___________ 
+Total (5,053) (58) (5,111)  ___________ ___________ ___________ 
+Activo neto 9,869 4,561 14,430  ___________ ___________ ___________ 
+ 
+17 Patrimonio  
+(a) Capital social - 
+Al 30 de junio de 2019 y 31 de diciembre de 2018 el capital autorizado, suscrito y pagado, de acuerdo con los estatutos 
+de la Compañía y sus modificaciones, está representado por 208,300,000 acciones comunes cuyo valor nominal es de 
+US$1 cada una. 
+ 
+Al 30 de junio de 2019 y 31 de diciembre de 2018 la estructura societaria de la Compañía es la siguiente: 
+ 
+Accionista 
+Número de acciones 
+comunes 
+Porcentaje de 
+participación 
+   
+Enagás Internacional, S.L.U.  60,305,161 28.95111 
+Sipco Perú Pipelines Corporation 44,119,000 21.18051 
+Tecgas Camisea Inc 42,986,412 20.63678 
+Carmen Corporation 28,990,602 13.91771 
+Pisco Four Holdings INC  16,800,000 8.06529 
+La Habanera L.P. 15,098,725 7.24855 
+Tecgas Inc. 100 0.00005  ____________ ____________    
+Total 208,300,000 100.00000  ____________ ____________ 
+ 
+  
+
+=== PAGINA PDF 43 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+43 
+Al 30 de junio de 2019 y 31 de diciembre de 2018, se muestra la información sobre los dividendos declarados: 
+ 
+ Fecha 
+Dividendos 
+declarados y 
+pagados 
+Dividendos 
+por acción común 
+  US$(000) US$(000) 
+    
+Dividendos 2019    
+Junta Obligatoria Anual de Accionistas 20 de marzo 64,577 0.31 
+Junta Obligatoria Anual de Accionistas 18 de junio 64,559 0.31   _________             ________ 
+  129,136    _________  
+    
+Dividendos 2018    
+Junta Obligatoria Anual de Accionistas 27 de abril 100,184 0.48 
+Junta Obligatoria Anual de Accionistas 28 de noviembre 167,500 0.80   _________             ________ 
+  267,684    _________  
+    
+ 
+Los dividendos distribuidos a los accionistas distintos de las personas jurídicas domiciliadas y sin Contrato de 
+Estabilidad Jurídica están sujetos a la tasa aplicable de retención de acuerdo con la ley del impuesto a la renta (Nota 
+19(f)).  La Compañía retiene y liquida dicho impuesto. 
+ 
+(b) Otras reservas de capital - 
+Reserva Legal - 
+De acuerdo con la Ley General de Sociedades, la Compañía está obligada a constituir una reserva legal mediante la 
+transferencia de no menos del 10% de la utilidad del año después de impuestos, debiendo alcanzar un monto 
+equivalente al 20% del capital social.  En ausencia de utilidades o de reservas de libre disposición, la reserva legal 
+deberá ser aplicada a la compensación de pérdidas, debiendo ser repuesta con las utilidades de ejercicios posteriores.  
+Esta reserva puede ser capitalizada siendo igualmente obligatoria su reposición. 
+ 
+(c) Resultados acumulados -  
+En virtud de los contratos descritos en la Nota 1, se garantiza la estabilidad tributaria de la Compañía con el régimen 
+tributario vigente en la fecha de suscripción de los referidos contratos por lo que los dividendos y cualquier otra forma de 
+distribución de utilidades no constituyen rentas gravadas para los titulares, socios o accionistas. 
+ 
+  
+
+=== PAGINA PDF 44 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+44 
+18. Compromisos 
+Al 30 de junio de 2019 y 31 de diciembre de 2018 el Banco de Crédito del Perú mantiene una fianza solidaria, sin beneficio de 
+exclusión, incondicionada, irrevocable y de realización automática en favor de la República del Perú, representada por el 
+Ministerio de Energía y Minas, a petición y por cuenta de TGP por la suma de US$2 millones a fin de garantizar el cumplimiento de 
+las obligaciones de la Compañía establecidas en los Contratos BOOT de Concesión derivadas de la etapa pre-operativa de la 
+concesión.   
+ 
+Esta garantía ha sido emitida de acuerdo a lo estipulado en los Contratos BOOT de Concesión y deberá mantenerse vigente desde 
+la fecha de entrega al Concedente, hasta noventa días calendario posteriores a la fecha de vencimiento de los Contratos BOOT de 
+Concesión. 
+ 
+19. Impuesto a las ganancias 
+(a) Con fecha 5 de diciembre de 2000 el Estado Peruano, a través de CONITE, y la Compañía suscribieron el Convenio de 
+Estabilidad Jurídica (Nota 1).  Este Convenio tiene una vigencia que se inicia con la suscripción de los contratos y se 
+extiende por todo el plazo de la concesión materia de dichos contratos y no puede ser modificado unilateralmente, así se 
+trate de modificaciones más beneficiosas o perjudiciales para alguna de las partes.  No obstante, TGP tiene derecho a 
+renunciar por única vez al régimen de estabilidad jurídica otorgado en ese convenio y pasar a regirse automáticamente 
+por la legislación común. 
+ 
+En aplicación del convenio de estabilidad jurídica y de acuerdo con lo permitido por el Artículo 87º del Código Tributario, 
+los registros contables de la Compañía son mantenidos en dólares estadounidenses. 
+ 
+(b) Se ha determinado la utilidad tributaria bajo el régimen general del impuesto a las ganancias de acuerdo con la 
+legislación tributaria vigente a la fecha de suscripción de los contratos de estabilidad (Nota 1 y Nota 19(a)), la que exige 
+agregar y deducir aquellas partidas que la referida legislación reconoce como gravables y no gravables, respectivamente. 
+ 
+(c) El impuesto a la renta registrado en el estado de resultados integrales por el periodo de seis meses terminado el 30 de 
+junio de 2019 y  2018 se compone de la siguiente manera: 
+ 
+ Por el periodo de seis meses  
+terminado el 30 de junio de   ______________________________________ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Corriente 51,130 52,667 
+Diferido (Nota 16)  3,681 (4,561)  __________ __________    
+Total 54,811 48,106  __________ __________ 
+ 
+  
+
+=== PAGINA PDF 45 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+45 
+(d) El impuesto a la renta corriente difiere del monto teórico que hubiera resultado de aplicar la tasa del impuesto a la 
+utilidad antes del impuesto a la renta por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 como 
+sigue: 
+ 
+ Por el periodo de seis meses terminado 
+el 30 de junio de 2019 
+Por el periodo de seis meses terminado 
+el 30 de junio de 2018  __________________________ __________________________ 
+ US$(000) % US$(000) %      
+Utilidad antes de impuesto a la renta 183,773 100.00 162,486 100.00  _________ _________ _________ _________      
+Impuesto calculado aplicando la tasa 
+teórica 55,132 30.00 48,746 30.00 
+Partidas permanentes (321) (0.17) (640) (0.39)      _________      _________     _________      _________      
+Gasto por impuesto a la renta 54,811 29.83 48,106 29.61  _________ _________ _________ _________ 
+ 
+(e) La Administración Tributaria tiene la facultad de revisar y, de ser el caso, corregir el impuesto a la renta determinado por 
+la Compañía en los cuatro últimos años, contados a partir del 1 de enero del año siguiente al de la presentación de la 
+declaración jurada del impuesto correspondiente o de eventuales rectificatorias presentadas posteriormente por el 
+contribuyente (años abiertos a fiscalización).  Las declaraciones juradas de impuesto a la renta de los años 2014, 2015, 
+2016, 2017 y 2018 están sujetas a fiscalización.  Debido a que pueden producirse diferencias en la interpretación por 
+parte de la Administración Tributaria sobre las normas aplicables a la Compañía, no es posible anticipar a la fecha si se 
+producirán pasivos tributarios adicionales como resultado de eventuales revisiones.  Cualquier impuesto adicional, 
+recargos e intereses, si se produjeran, serán reconocidos en los resultados del año en el que la diferencia de criterios con 
+la Administración Tributaria se resuelva. 
+ 
+Durante 2016 y 2017, la Administración Tributaria revisó la declaración jurada del impuesto a la renta por el ejercicio 
+2013, como resultado de esta revisión a la fecha, no han surgido pasivos ni contingencias relevantes. 
+ 
+(f) Marco regulatorio - Cambios en las leyes y regulaciones del impuesto a la renta peruana -  
+Mediante la Ley N° 30296 promulgada el 31 de diciembre de 2014, se realizaron cambios a la Ley del Impuesto a la 
+Renta del Perú, que entran en vigencia a partir del año fiscal 2015 en adelante. 
+ 
+El impuesto sobre dividendos y otras formas de distribución de utilidades acordado por cualquier entidad legal para 
+personas físicas y jurídicas no domiciliadas se incrementará progresivamente hasta el 6.8% para distribuciones 
+acordadas o disponibles en efectivo o en especie durante los años fiscales 2015 y 2016; con un incremento al 8% para 
+los años fiscales 2017 y 2018; y un aumento final al 9.3% entrará en vigencia a partir del año fiscal 2019 en adelante. 
+  
+
+=== PAGINA PDF 46 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+46 
+La distribución de las ganancias retenidas hasta el 31 de diciembre de 2016 continuará sujeta a un impuesto de 6.8%, 
+incluso cuando la distribución se realice en los años subsiguientes. 
+ 
+Mediante la Ley N° 1261 promulgada el 10 de diciembre de 2016, se han realizado cambios a la Ley del Impuesto a la 
+Renta, con efecto a partir del año fiscal 2016 en adelante.  Entre las principales modificaciones, el impuesto sobre 
+dividendos y otras formas de distribución de beneficios acordado por cualquier entidad jurídica para personas físicas y 
+jurídicas no domiciliadas se modifica del 6,8% al 5% para las distribuciones acordadas o disponibles en efectivo o en 
+especie durante los años fiscales 2017 en adelante.  Estas modificaciones reemplazan a las establecidas en la Ley N° 
+30296, "Ley que promueve la reactivación de la economía". 
+ 
+(g) Impuesto temporal a los activos netos - 
+El Impuesto Temporal sobre los Activos Netos grava a los generadores de rentas de tercera categoría sujetos al régimen 
+general del Impuesto a la Renta.  La tasa del impuesto es de 0.04% aplicable al monto de los activos netos que excedan 
+S/1 millón. 
+ 
+El monto efectivamente pagado podrá utilizarse como crédito contra los pagos a cuenta del régimen general del 
+impuesto a la renta o contra el pago de regularización del impuesto a la renta del ejercicio gravable al que corresponda. 
+ 
+Se podrá solicitar la devolución del impuesto sólo en el caso que se sustente haber incurrido en pérdidas tributarias o se 
+haya determinado un menor pago del impuesto a la renta sobre la base de las normas del régimen general. 
+ 
+(h) Las principales normas tributarias emitidas durante el 2018 son las siguientes: 
+ 
+(i) Se modificó, a partir del 1 de enero de 2019, el tratamiento aplicable a las regalías y retribuciones por servicios 
+prestados por no domiciliados, eliminando la obligación de abonar el monto equivalente a la retención con 
+motivo del registro contable del costo o gasto, debiendo ahora retenerse el impuesto a la renta con motivo del 
+pago o acreditación de la retribución.  
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes jurídicos de informar 
+la identificación de sus beneficiarios finales (Decreto Legislativo N°1372). Estas normas son aplicables a las 
+personas jurídicas domiciliadas en el país, de acuerdo a lo establecido en el artículo 7 de la Ley de Impuesto a 
+la Renta, y a los entes jurídicos constituidos en el país.  
+ 
+  
+
+=== PAGINA PDF 47 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+47 
+(iii) Se modificó el Código Tributario en la aplicación de la norma antielusiva general (Norma XVI del Título Preliminar 
+del Código Tributario (Decreto Legislativo N°1422).  
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, cuando el deudor 
+tributario sea sujeto de la aplicación de las medidas dispuestas por la Norma XVI en caso se detecten supuestos 
+de elusión de normas tributarias; en tal caso, la responsabilidad solidaria se atribuirá a los representantes 
+legales siempre que hubieren colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o 
+relaciones económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que tengan 
+Directorio, corresponde a este órgano societario definir la estrategia tributaria de la entidad debiendo decidir 
+sobre la aprobación o no de actos, situaciones o relaciones económicas a realizarse en el marco de la 
+planificación fiscal, siendo esta facultad indelegable. Los actos, situaciones y relaciones económicas realizados 
+en el marco de planificaciones fiscales e implementados a la fecha de entrada en vigencia del Decreto 
+Legislativo N°1422 (14 de septiembre del 2018) y que sigan teniendo efectos, han sido puestos en 
+conocimiento del Directorio en sesión del 25 de marzo de 2019 con el apoyo de consultores independientes 
+especializados en asuntos fiscales.  Se concluyó que la Compañía no ha realizado transacciones en el marco de 
+una planificación fiscal que deben analizarse en virtud de la Norma XVI del Título Preliminar del Código 
+Tributario.  
+ 
+(iv) Se incluyeron modificaciones a la Ley del Impuesto a la Renta, con vigencia a partir del 1 de enero de 2019, 
+para perfeccionar el tratamiento fiscal aplicable a (Decreto Legislativo N°1424) 
+ 
+Debido a que la Compañía tiene un convenio de estabilidad jurídica, donde el Estado Peruano le garantizó la 
+estabilidad jurídica del régimen tributario referido al impuesto a la renta y de los regímenes de contratación de 
+trabajadores vigentes a la fecha de suscripción, no hubo modificaciones importantes al 30 de junio de 2019, 
+que afectaran a la Compañía. 
+ 
+20. Medio ambiente 
+Las actividades de transporte de gas natural y de líquidos de gas natural de TGP en lo que respecta a su aspecto ambiental, social 
+y protección al patrimonio cultural se encuentran normadas por las leyes y reglamentos vigentes sobre la materia que disponen 
+que TGP obtenga la aprobación de estudios de impacto ambiental y social de todas sus actividades de hidrocarburos, previo al 
+inicio de la construcción de las obras respectivas y que ejecute todas sus actividades de acuerdo con los estándares y 
+requerimientos establecidos en los Plan de Manejo Ambiental y Social aprobados.  Estos estudios de impacto ambiental y social 
+normarán las actividades de construcción, reparación, conservación, operación y mantenimiento de los sistemas de transporte de 
+gas y de transporte de líquidos.  La Compañía cuenta con el Estudio de Impacto Ambiental y Social del Transporte de Gas Natural 
+y Líquidos de Gas Natural que fue aprobado en marzo de 2002 quedando TGP sujeta a las obligaciones en materia ambiental y 
+social que este documento establece. 
+ 
+  
+
+=== PAGINA PDF 48 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+48 
+Los contratos BOOT de concesión obligan a TGP transferir los bienes de la concesión al producirse la caducidad de las 
+concesiones otorgadas y mantener la continuidad del servicio, es por esta razón que la Compañía no requiere del registro de 
+provisiones por rehabilitación ni cierre definitivo de tubería e instalaciones asociadas. 
+ 
+Por el periodo de seis terminado el 30 de junio de 2019 y de 2018 la Compañía ha incurrido en gastos de consultoría 
+relacionados al aspecto medio ambiental por aproximadamente US$189,000 y US$170,000, respectivamente, que se incluyen 
+en el estado de resultados integrales. 
+ 
+21. Ingresos de operación 
+Los ingresos de la Compañía por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 comprenden: 
+ 
+ Por el periodo de seis meses  
+terminado el 30 de junio de   ______________________________________ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Servicios de transporte de gas natural 248,272 244,787 
+Servicios de transporte de líquidos de gas natural  101,183 98,649  ____________ ____________    
+Total 349,455 343,436  ____________ ____________ 
+ 
+Servicio de transporte de gas natural - 
+Los ingresos por transporte de gas natural corresponden a los servicios prestados a los usuarios finales del sistema de transporte 
+según las tarifas determinadas conforme lo establece el Contrato BOOT de Concesión, las cuales son ajustadas anualmente por 
+el U.S.  Producer Price Index (PPI). 
+ 
+La determinación de la tarifa pretende que la Compañía recupere el valor del “Costo del servicio” ofertado en licitación durante el 
+tiempo de duración de la concesión que calculada a valores de marzo de 2003 asciende a US$956.3 millones.  El “Costo del 
+servicio” incluye todos los costos involucrados para la prestación del Servicio de Transporte de Gas Natural.  El período de 
+recuperación de la inversión es de treinta años, utilizando una tasa de actualización del 12%.
+
+=== PAGINA PDF 49 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+49 
+Tal como se describe en la Nota 1, en abril de 2016, la capacidad del sistema de transporte de gas natural para el mercado local se amplió hasta 920 MMPCD; como resultado de ello, aumentaron los 
+ingresos de los servicios de transporte de gas natural.  
+ 
+Servicio de transporte de líquidos de gas natural - 
+El ingreso generado por el servicio de transporte de líquidos de gas natural es determinado de acuerdo a la tarifa acordada por las partes según los mismos principios establecidos para el transporte de 
+gas natural.  El costo del servicio de transporte de líquidos de gas natural refleja el valor presente de las inversiones en las obras comprometidas y todos los costos de operación y mantenimiento en que 
+se incurra en la prestación del servicio. 
+ 
+De acuerdo con el contrato de transporte de líquidos de gas natural para el Lote 88, el consorcio operador del proyecto Camisea pagó a la Compañía una tarifa mensual fija por el derecho de transporte 
+en firme (Ingreso ship or pay) que asciende a US$ 7.47 millones más ajuste por PPI para una capacidad garantizada de 70,000 barriles de petróleo diario (BPD).  Por otro lado, el contrato para el 
+transporte de líquidos de gas natural del Lote 56, establece una tarifa mensual fija por el derecho de transporte en firme (Ingreso ship or pay) de US$4.80 millones más ajuste por PPI para una 
+capacidad de 45,000 BPD. 
+ 
+En caso el volumen transportado exceda los 70.000 y 45.000 BPD indicados anteriormente, y la capacidad garantizada se mantiene en los valores mencionados, el consorcio operador va a pagar por el 
+exceso la tarifa interrumpible establecida en los contratos relacionados. En los contratos antes mencionados, la tarifa se ajusta usando el U.S.  Producer Price Index (PPI). 
+ 
+La participación porcentual de los clientes en los ingresos de la Compañía por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 es como sigue: 
+ 
+ Servicio de transporte de GN Servicio de transporte de LGN  ____________________________________________________________ ____________________________________________________________ 
+ 2019 2018 2019 2018  _________________________ _________________________ _________________________ _________________________ 
+Porcentaje de participación individual sobre 
+ingresos 
+Número de  
+clientes Ingresos 
+Número de  
+clientes Ingresos 
+Número de  
+clientes Ingresos 
+Número de  
+clientes Ingresos 
+  US$(000)  US$(000)  US$(000)  US$(000) 
+         
+Hasta 5% 12 14,429 12 14,234 - - - - 
+De 5% a 10% 2 11,882 2 13,133 - - - - 
+De 10.1% a más 8 221,961 8 217,420 1 101,183 1 98,649  ________ ________ ________ ________ ________ ________ ________ ________          
+Total 22 248,272 22 244,787 1 101,183 1 98,649  ________ ________ ________ ________ ________ ________ ________ ________ 
+ 
+ 
+
+=== PAGINA PDF 50 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+50 
+22. Costo del servicio 
+(a) A continuación se presenta la composición del rubro por el periodo de seis meses terminado el 30 de junio de 2019 y de 
+2018: 
+ 
+ Por el periodo de seis meses  
+terminado el 30 de junio de   ______________________________________ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Servicios de operación y mantenimiento  53,172 50,209 
+Amortización (Nota 11)  50,495 47,996 
+Consumo de combustible  10,405 9,728 
+Servicios de compresión  8,510 5,229 
+Contribuciones al organismo regulador  3,129 3,086 
+Mantenimientos mayores  3,087 3,006 
+Seguros 2,894 2,693 
+Depreciación (Nota 10)  1,869 888 
+Servicio de consultoría profesional  1,583 472 
+Arrendamiento de capacidad de transporte  1,335 1,335 
+Otros 861 561 
+Gastos por imprevistos de operación (b)  415 12,414  ___________ __________    
+Total 137,755 137,617  ___________ __________ 
+ 
+(b) Por el año 2018 corresponde principalmente a los costos incurridos en el incidente al Sistema de Transporte de Líquidos 
+de Gas Natural por Ductos ubicado a la altura del (KP) 8+900 en el distrito de Megantoni, provincia de La Convención, 
+Cusco. 
+ 
+  
+
+=== PAGINA PDF 51 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+51 
+23. Gastos de administración 
+(a) A continuación se presenta la composición del rubro por el periodo de seis meses terminado el 30 de junio de 2019 y de 
+2018: 
+ 
+ Por el periodo de seis meses  
+terminado el 30 de junio de   ______________________________________ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Costos laborales 1,965 2,558 
+Alquileres y mantenimiento  1,307 1,906 
+Donaciones y acciones comunitarias  3,336 2,568 
+Litigios y sanciones, Nota 15(c)  533 177 
+Consultoría profesional  591 516 
+Depreciación (Nota 10)  323 922 
+Amortización (Nota 11)  456 374 
+Asesoría legal 598 366 
+Otros (3,629) 1,670  ____________ ____________    
+Total 5,480 11,057  ____________ ____________ 
+ 
+(b) Por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018 las compensaciones pagadas a la gerencia de 
+la Compañía ascienden a US$940,000 y US$1,062,000, respectivamente, y corresponden íntegramente a beneficios de 
+corto plazo. 
+ 
+24. Otros gastos e ingresos 
+(a) A continuación se presenta la composición del rubro por el periodo de seis meses terminado el 30 de junio de 2019 y de 
+2018: 
+ 
+ Por el periodo de seis meses  
+terminado el 30 de junio de   ______________________________________ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Otros gastos:   
+Servicios recibidos por terceros  6 6 
+Otros 83 1,145  ____________ ____________    
+Total 89 1,151  ____________ ____________ 
+   
+Otros ingresos:   
+Indemnización de seguros (b)  11,591 - 
+Otros 1,061 721  ____________ ____________    
+Total 12,652 721  ____________ ____________ 
+ 
+  
+
+=== PAGINA PDF 52 ===
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+52 
+(b) Al 30 de junio de 2019 corresponde al recupero del seguro bajo la póliza de responsabilidad civil y adelanto por el 
+seguro bajo la póliza patrimonial por el incidente al Sistema de Transporte de Líquidos de Gas Natural por Ductos 
+ubicado a la altura del (KP) 8+900 en el distrito de Megantoni, provincia de La Convención, Cusco.   
+ 
+25. Gastos e ingresos financieros 
+A continuación se presenta la composición del rubro por el periodo de seis meses terminado el 30 de junio de 2019 y de 2018: 
+ 
+ Por el periodo de seis meses  
+terminado el 30 de junio de   ______________________________________ 
+ 2019 2018 
+ US$(000) US$(000) 
+   
+Gastos financieros:   
+Intereses por bonos (Nota 14)  22,156 22,155 
+Intereses por la Garantía de Red Principal (Nota 13)  8,431 8,023 
+Intereses por pasivo relacionado al derecho 
+a recibir servicios de compresión (Nota 15)  1,542 1,911 
+Actualización de bonos en soles (Nota 14)  1,154 300 
+Intereses por ajuste de la GRP  431 385 
+Otros 1,118 1,117  ________ ________    
+Total 34,832 33,891  ________ ________    
+Ingresos financieros:   
+Ingresos sobre depósitos  1,666 920  ________ ________ 
+ 
+26. Eventos subsecuentes a la fecha del estado de situación financiera 
+En Junta General de Accionistas de fecha 11 de julio de 2019, se aprobó ejercer la opción de rescate de los bonos corporativos 
+emitidos por la Compañía bajo la Cuarta Emisión del “Primer Programa de Bonos Corporativos de TgP” (Nota 14); adicionalmente 
+se aprobó que la Compañía obtenga un financiamiento hasta por el monto de US $ 50,000,000 del banco BBVA Perú. A la fecha 
+de emisión de las presentes Notas a los Estados Financieros el referido financiamiento no ha sido desembolsado. 
+ 
+Salvo lo mencionado en los párrafos precedentes, no se tiene conocimiento de hechos posteriores  
+ocurridos entre el 30 de junio de 2019 y la fecha de emisión de los presentes estados financieros, que modifiquen o impacten 
+significativamente la interpretación de mismos. 
+ 

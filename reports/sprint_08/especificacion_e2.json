@@ -1,0 +1,87 @@
+{
+  "financieros": [
+    "pasivo_activo",
+    "margen_neto",
+    "rentabilidad_activo_cierre",
+    "rotacion_activo_cierre",
+    "fco_activo",
+    "fco_ingresos",
+    "inversion_capex_activo",
+    "crecimiento_ActivoTotal",
+    "crecimiento_TotalIngreso",
+    "cambio_FCO_activo_previo",
+    "FCO_lag1",
+    "FCO_lag2",
+    "FCO_lag3",
+    "FCO_std3_previa",
+    "cambio_FCL_preliminar_activo_previo",
+    "FCL_preliminar_lag1",
+    "FCL_preliminar_lag2",
+    "FCL_preliminar_lag3",
+    "FCL_preliminar_std3_previa"
+  ],
+  "macroeconomicos": [
+    "inflacion_lima_dic_dic_pct",
+    "tipo_cambio_promedio_soles_usd",
+    "tasa_referencia_promedio_pct",
+    "crecimiento_pbi_real_pct"
+  ],
+  "bursatiles": [
+    "rentabilidad_indice_anual_pct",
+    "volatilidad_diaria_anualizada_pct",
+    "monto_renta_variable_anual_millones_pen"
+  ],
+  "E2": [
+    "pasivo_activo",
+    "margen_neto",
+    "rentabilidad_activo_cierre",
+    "rotacion_activo_cierre",
+    "fco_activo",
+    "fco_ingresos",
+    "inversion_capex_activo",
+    "crecimiento_ActivoTotal",
+    "crecimiento_TotalIngreso",
+    "cambio_FCO_activo_previo",
+    "FCO_lag1",
+    "FCO_lag2",
+    "FCO_lag3",
+    "FCO_std3_previa",
+    "cambio_FCL_preliminar_activo_previo",
+    "FCL_preliminar_lag1",
+    "FCL_preliminar_lag2",
+    "FCL_preliminar_lag3",
+    "FCL_preliminar_std3_previa",
+    "inflacion_lima_dic_dic_pct",
+    "tipo_cambio_promedio_soles_usd",
+    "tasa_referencia_promedio_pct",
+    "crecimiento_pbi_real_pct",
+    "rentabilidad_indice_anual_pct",
+    "volatilidad_diaria_anualizada_pct",
+    "monto_renta_variable_anual_millones_pen"
+  ],
+  "redundantes_excluidas_por_definicion": [
+    "FCL_preliminar_mean3_previa",
+    "FCO_mean3_previa",
+    "fcl_activo"
+  ],
+  "objetivo": {
+    "nombre": "objetivo_fcl_t1",
+    "definicion": "FCL_preliminar(t+1) = FCO(t+1) + CAPEX_reportado(t+1) de la misma RPJ, unido por Ejercicio+1 exacto (nunca la fila siguiente); faltante si CAPEX_reportado(t+1) > 0. FCL preliminar, no FCFF validado.",
+    "horizonte": "un ejercicio anual adelante (anio_objetivo = Ejercicio + 1)",
+    "elegibilidad": "utilizable_supervisado = objetivo no faltante Y Moneda(t) == Moneda(t+1); sin imputación del objetivo",
+    "particion": "entrenamiento: anio_objetivo <= 2021 (Ejercicio 2005–2020); prueba: anio_objetivo 2022–2025 (Ejercicio 2021–2024)"
+  },
+  "preparacion_principal": "Por moneda y ajustado solo en entrenamiento: ColumnTransformer -> SimpleImputer(strategy=\"median\", keep_empty_features=True) -> StandardScaler() (ddof=0) -> Ridge(alpha=1.0, solver=\"svd\")",
+  "sensibilidades": [
+    "rezago_externo_t_1: los 7 externos se reemplazan por su valor del año Ejercicio−1 (2005 queda faltante e imputado)",
+    "sensibilidad_robust: RobustScaler(quantile_range=(25,75)) en lugar de StandardScaler"
+  ],
+  "alpha": 1.0,
+  "evidencia": {
+    "listas_E0_E1_E2": "notebooks/07_baseline_variantes.ipynb celda 10; reports/sprint_06/validacion_baseline.json (experimentos)",
+    "objetivo_y_elegibilidad": "notebooks/07_baseline_variantes.ipynb celda 7; src/feature_engineering.py:97",
+    "preparacion": "notebooks/07_baseline_variantes.ipynb celda 19 (crear_modelo)",
+    "sensibilidad_rezago_externo": "notebooks/07_baseline_variantes.ipynb celda 13",
+    "sensibilidad_robust": "notebooks/07_baseline_variantes.ipynb celda 28"
+  }
+}

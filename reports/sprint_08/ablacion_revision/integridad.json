@@ -1,0 +1,11 @@
+{
+  "archivos_verificados": 1565,
+  "sin_cambios_durante_ejecucion": true,
+  "git_modificados_previos": [
+    "notebooks/03_extraccion_macroeconomica.ipynb",
+    "reports/auditoria_extraccion_macroeconomica.md"
+  ],
+  "filas_entrenamiento": 2869,
+  "filas_prueba_usadas": 0,
+  "resultados_anteriores_preservados": "reports/sprint_08/ablacion/ (solo lectura)"
+}

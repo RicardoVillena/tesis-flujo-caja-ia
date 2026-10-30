@@ -1,0 +1,152 @@
+{
+  "pregunta": "¿Retirar una variable reduce el error de predicción de forma consistente en validación temporal dentro de entrenamiento?",
+  "alcance": "Conclusiones limitadas a Ridge(alpha=1.0) con mediana + StandardScaler, por moneda, objetivo FCL_preliminar(t+1) y años objetivo de validación 2014–2021.",
+  "atributos_E2": [
+    "pasivo_activo",
+    "margen_neto",
+    "rentabilidad_activo_cierre",
+    "rotacion_activo_cierre",
+    "fco_activo",
+    "fco_ingresos",
+    "inversion_capex_activo",
+    "crecimiento_ActivoTotal",
+    "crecimiento_TotalIngreso",
+    "cambio_FCO_activo_previo",
+    "FCO_lag1",
+    "FCO_lag2",
+    "FCO_lag3",
+    "FCO_std3_previa",
+    "cambio_FCL_preliminar_activo_previo",
+    "FCL_preliminar_lag1",
+    "FCL_preliminar_lag2",
+    "FCL_preliminar_lag3",
+    "FCL_preliminar_std3_previa",
+    "inflacion_lima_dic_dic_pct",
+    "tipo_cambio_promedio_soles_usd",
+    "tasa_referencia_promedio_pct",
+    "crecimiento_pbi_real_pct",
+    "rentabilidad_indice_anual_pct",
+    "volatilidad_diaria_anualizada_pct",
+    "monto_renta_variable_anual_millones_pen"
+  ],
+  "grupos": {
+    "financieros": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa"
+    ],
+    "macroeconomicos": [
+      "inflacion_lima_dic_dic_pct",
+      "tipo_cambio_promedio_soles_usd",
+      "tasa_referencia_promedio_pct",
+      "crecimiento_pbi_real_pct"
+    ],
+    "bursatiles": [
+      "rentabilidad_indice_anual_pct",
+      "volatilidad_diaria_anualizada_pct",
+      "monto_renta_variable_anual_millones_pen"
+    ]
+  },
+  "objetivo": {
+    "nombre": "objetivo_fcl_t1",
+    "definicion": "FCL_preliminar(t+1) = FCO(t+1) + CAPEX_reportado(t+1) de la misma RPJ, unido por Ejercicio+1 exacto (nunca la fila siguiente); faltante si CAPEX_reportado(t+1) > 0. FCL preliminar, no FCFF validado.",
+    "horizonte": "un ejercicio anual adelante (anio_objetivo = Ejercicio + 1)",
+    "elegibilidad": "utilizable_supervisado = objetivo no faltante Y Moneda(t) == Moneda(t+1); sin imputación del objetivo",
+    "particion": "entrenamiento: anio_objetivo <= 2021 (Ejercicio 2005–2020); prueba: anio_objetivo 2022–2025 (Ejercicio 2021–2024)"
+  },
+  "modelo": {
+    "pipeline": "Pipeline([('preparacion', ColumnTransformer([('numericas', Pipeline([('imputer', SimpleImputer(strategy='median', keep_empty_features=True)), ('scaler', StandardScaler())]), columnas)], remainder='drop')), ('ridge', Ridge(alpha=1.0, solver='svd', fit_intercept=True))])",
+    "por_moneda": true,
+    "nuevo_pipeline_por_variante_y_pliegue": true,
+    "hiperparametros_fijos": true,
+    "evidencia": "notebooks/07_baseline_variantes.ipynb celda 19 (crear_modelo); notebooks/07_baseline_variantes.ipynb celda 10; reports/sprint_06/validacion_baseline.json (experimentos)"
+  },
+  "datos": "panel_financiero_macro_bursatil.csv verificado por src/auditoria_calidad.load_inputs; se retienen solo filas utilizable_supervisado y particion == entrenamiento (anio_objetivo <= 2021).",
+  "pliegues": {
+    "origen": "notebooks/08_mejoras_baseline.ipynb celda 16 (cohorte todas); tamaños contrastados con reports/sprint_06/mejoras/cv_folds.csv",
+    "regla": "Años objetivo ordenados; calentamiento 8 años (si hay >= 12); bloques de validación de 2 años; entrenamiento expansivo con todos los años anteriores al bloque.",
+    "unidad_de_validacion": "año objetivo",
+    "aleatorio": false
+  },
+  "metricas": {
+    "delta_RMSE": "RMSE_sin_variable - RMSE_referencia",
+    "delta_MAE": "MAE_sin_variable - MAE_referencia",
+    "delta_porcentual": "100 x (error_sin_variable - error_referencia) / error_referencia; indefinido si error_referencia = 0",
+    "signo": "negativo = retirar la variable reduce el error",
+    "criterio_principal": "promedio simple del RMSE anual (cada año evaluable pesa igual)",
+    "complementaria": "promedio simple del MAE anual",
+    "concatenadas": "RMSE y MAE sobre todas las predicciones de validación juntas (pondera años por n); no son el criterio de clasificación"
+  },
+  "clasificacion": {
+    "tolerancia_empate_relativa": 1e-06,
+    "umbral_practico_pct_exploratorio": 1.0,
+    "fraccion_anios_consistencia": 0.75,
+    "candidata_a_retirar": "delta_RMSE_medio_pct <= -1 Y años con mejora de RMSE >= ceil(0.75 x años evaluables) Y mediana anual de delta_RMSE < 0 Y delta_MAE_medio_pct <= tolerancia",
+    "conservar": "delta_RMSE_medio_pct >= +1 Y años con empeoramiento de RMSE >= ceil(0.75 x años) Y mediana anual de delta_RMSE > 0 Y delta_MAE_medio_pct >= -tolerancia",
+    "resultado_incierto": "cualquier otro caso: cambio menor que el umbral, dirección inestable entre años o conflicto entre RMSE y MAE",
+    "nota": "El umbral de 1% y la fracción 0.75 son decisiones exploratorias, no reglas universales. Fijadas antes de ejecutar el análisis."
+  },
+  "retirada_conjunta": "Por moneda, retirar juntas todas las candidatas de esa moneda; mismos pliegues, filas, modelo e hiperparámetros. Exploratoria: las candidatas se eligieron con la misma validación.",
+  "supuestos": [
+    "Se reutiliza la cohorte \"todas\" de Sprint 06; no se usan cohortes sectoriales.",
+    "Las métricas monetarias están en la unidad reportada de cada moneda; nunca se agregan entre monedas.",
+    "Un año de validación pertenece a un único pliegue; los años del mismo bloque comparten modelo."
+  ],
+  "validacion_anidada": {
+    "proposito": "Estimar el desempeño de un procedimiento de selección (atributos y alpha) frente al modelo completo con alpha seleccionado, separando selección (validación interna, solo pasado) y evaluación (año externo no usado en decisiones).",
+    "anios_externos": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "entrenamiento_externo": "todas las filas con anio_objetivo < año externo, misma moneda",
+    "validacion_interna": "los 3 años objetivo inmediatamente anteriores al año externo; cada uno con ventana expansiva (entrena con años anteriores) y al menos 8 años de historia; por eso el primer año externo es 2017",
+    "compatibilidad_sprint06": "Se conserva la unidad año objetivo, las ventanas expansivas y el calentamiento de 8 años de Sprint 06. Sus bloques de 2 años no se reutilizan como pliegues externos porque los primeros (2014–2015) no dejan historia para una validación interna.",
+    "rejilla_alpha": [
+      0.1,
+      1.0,
+      10.0,
+      100.0,
+      1000.0,
+      10000.0
+    ],
+    "seleccion_alpha": "mínimo RMSE anual medio interno; empate (diferencia relativa <= 1e-9): mayor alpha",
+    "eliminacion_hacia_atras": {
+      "inicio": "26 atributos de E2",
+      "paso": "evaluar retirar cada atributo restante (alpha reajustado para cada subconjunto con la misma rejilla y pliegues internos)",
+      "eleccion": "retirada con menor RMSE anual medio interno; empate: primer atributo en el orden E2",
+      "aceptacion": "mejora relativa >= 1 % del RMSE interno medio Y RMSE menor en >= 2 de 3 años internos",
+      "maximo_retiradas": 5,
+      "sin_busqueda_exhaustiva": true
+    },
+    "procedimientos": {
+      "completo_alpha_interno": "26 atributos, alpha interno",
+      "reducido": "atributos y alpha internos",
+      "E2_alpha_1": "contexto: E2 original con alpha=1.0 fijo (no participa en la decisión)"
+    },
+    "regla_recomendacion": {
+      "reducir_provisional": "RMSE anual medio externo del reducido <= -1 % frente al completo, mejora en >= 4 de 5 años, MAE anual medio no peor y peor empeoramiento anual <= 5 %",
+      "conservar_completo": "RMSE anual medio externo del reducido >= completo o reducido peor en la mayoría de años",
+      "evidencia_insuficiente": "cualquier otro caso"
+    },
+    "nota": "Umbrales exploratorios fijados antes de ejecutar; la evaluación externa mide el procedimiento, no la optimalidad de una lista fija."
+  }
+}

@@ -1,0 +1,31 @@
+moneda,anio_externo,modelo,segundos_busqueda_interna,segundos_ajuste_externo
+D lares,2017,ridge,0.0268,0.0048
+D lares,2017,elastic_net,0.2703,0.0049
+D lares,2017,boosting,1.8820,0.0547
+D lares,2018,ridge,0.0160,0.0043
+D lares,2018,elastic_net,0.3391,0.0056
+D lares,2018,boosting,1.9785,0.0381
+D lares,2019,ridge,0.0159,0.0042
+D lares,2019,elastic_net,0.2689,0.0049
+D lares,2019,boosting,1.8636,0.0374
+D lares,2020,ridge,0.0159,0.0043
+D lares,2020,elastic_net,0.2725,0.0050
+D lares,2020,boosting,2.2531,0.0417
+D lares,2021,ridge,0.0169,0.0044
+D lares,2021,elastic_net,0.2631,0.0049
+D lares,2021,boosting,2.0600,0.0498
+Soles,2017,ridge,0.0234,0.0067
+Soles,2017,elastic_net,0.3365,0.0070
+Soles,2017,boosting,2.8323,0.0850
+Soles,2018,ridge,0.0253,0.0070
+Soles,2018,elastic_net,0.3400,0.0063
+Soles,2018,boosting,2.6451,0.1521
+Soles,2019,ridge,0.0255,0.0077
+Soles,2019,elastic_net,0.3554,0.0068
+Soles,2019,boosting,2.6558,0.0801
+Soles,2020,ridge,0.0265,0.0072
+Soles,2020,elastic_net,0.4023,0.0068
+Soles,2020,boosting,2.6785,0.0619
+Soles,2021,ridge,0.0256,0.0076
+Soles,2021,elastic_net,0.4561,0.0078
+Soles,2021,boosting,2.9978,0.1048

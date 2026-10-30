@@ -1,0 +1,1512 @@
+
+=== PAGINA PDF 1 ===
+Los Portales S.A.  
+Estados financieros separados al 31 de diciembre de 2024 y de 2023  
+junto con el informe de los auditores independientes 
+ 
+  
+ 
+
+=== PAGINA PDF 2 ===
+ 
+ 
+Los Portales S.A. 
+Estados financieros separados al 31 de diciembre de 2024 y de 2023 
+junto con el informe de los auditores independientes 
+Contenido 
+ 
+Informe de los auditores independientes 
+ 
+Estados financieros separados 
+ 
+Estado separado de situación financiera  
+Estado separado de resultados integrales 
+Estado separado de cambios en el patrimonio neto 
+Estado separado de flujos de efectivo 
+Notas a los estados financieros separados 
+ 
+
+=== PAGINA PDF 3 ===
+ 
+Lima 
+Av. Víctor Andrés 
+Belaunde 171 
+San Isidro  
+Tel: +51 (1) 411 4444 
+ 
+Lima II 
+Av. Jorge Basadre 330 
+San Isidro 
+Tel: +51 (1) 411 4444 
+ 
+ 
+Arequipa 
+Edificio City Center ,       
+piso 13, Torre Sur , Cerro 
+Colorado 
+Tel: +51 (54) 484 470 
+ 
+ 
+Trujillo 
+Av. El Golf 591, Urb. Las 
+Flores del Golf III, Víctor 
+Larco Herrera 13009, 
+Sede Miguel Ángel Quijano 
+Doig 
+La Libertad  
+Tel: +51 (44) 608 830 
+ 
+Chiclayo (satélite) 
+Av. Federico Villareal 115, 
+Lambayeque  
+Tel: +51 (74) 227 424 
+ 
+Cusco (satélite) 
+Jr . Ricardo Palma #18, 
+Urb. Santa Mónica, 
+Wanchaq 
+ 
+    
+Inscrita en la partida 13222951 del Registro de Personas Jurídicas de Lima y Callao 
+Miembro de Ernst & Young Global 
+Informe de los auditores independientes 
+ 
+Tanaka, Valdivia & Asociados 
+Sociedad Civil de R. L 
+ 
+A los Accionistas y Directores de Los Portales S.A. 
+ 
+Opinión 
+ 
+Hemos auditado los estados financieros separados de Los Portales S.A. (la Compañía), que 
+comprenden el estado separado de situación financiera al 31 de diciembre de 2024, y los estados 
+separados de resultados, de resultados integrales, de cambios en el patrimonio neto y de flujos de 
+efectivo por el año terminado en esa fecha, y las notas a los estados financieros separados, así como 
+las notas explicativas a los estados financieros que incluyen información sobre las políticas contables 
+materiales. 
+ 
+En nuestra opinión, los estados financieros separados adjuntos presentan razonablemente, en todos 
+los aspectos significativos, la situación financiera separada de la Compañía al 31 de diciembre de 
+2024, así como su desempeño financiero y sus flujos de efectivo separados por el año terminado en 
+esa fecha, de acuerdo con las normas contables NIIF. 
+ 
+Base de la opinión 
+ 
+Realizamos nuestra auditoría de conformidad con las Normas Internacionales de Auditoría (NIAs) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos 
+del Perú. Nuestras responsabilidades en virtud de esas normas se describen con más detalle en la 
+sección Responsabilidades del auditor en relación con la auditoría de los estados financieros de 
+nuestro informe. Somos independientes de la Compañía de acuerdo con el Código de Ética para 
+Profesionales de la Contabilidad del Consejo de Normas Internacionales de Ética para Contadores 
+(Código IESBA, por sus siglas en inglés) junto con los requisitos éticos que son relevantes para nuestra 
+auditoría de los estados financieros en Perú, y hemos cumplido con nuestras otras responsabilidades 
+éticas de acuerdo con estos requisitos y el Código IESBA. Consideramos que la evidencia de auditoría 
+que hemos obtenido proporciona una base suficiente y adecuada para nuestra opinión. 
+ 
+Énfasis sobre la información separada  
+ 
+Los estados financieros separados de Los Portales S.A. han sido preparados en cumplimiento de los 
+requerimientos legales vigentes en Perú para la presentación de información financiera, tal como se 
+indica en la nota 28.1(i). Estos estados financieros separados se deben leer conjuntamente con los 
+estados financieros consolidados de Los Portales S.A. y Subsidiarias al 31 de diciembre de 2024, que 
+se preparan y presentan por separado.  
+
+=== PAGINA PDF 4 ===
+Dictamen de los auditores independientes (continuación)  
+ 
+Asuntos clave de auditoría 
+ 
+Los asuntos clave de auditoría son aquellos asuntos que, a nuestro juicio profesional, fueron de mayor 
+importancia en la auditoría de los estados financieros separados del período en curso. Estos asuntos 
+se abordaron en el contexto de la auditoría de los estados financieros separados en su conjunto, y en 
+la formación de nuestra opinión del auditor sobre los mismos; por lo que no proporcionamos una 
+opinión separada sobre estos asuntos. Con base en lo anterior, más adelante, se detalla la manera en 
+la que cada asunto clave fue abordado durante nuestra auditoría. 
+ 
+Hemos cumplido con las responsabilidades descritas en la sección Responsabilidades del auditor en 
+relación con la auditoría de los estados financieros separados de nuestro informe, incluso en relación 
+con estos asuntos.  En consecuencia, nuestra auditoría incluyó la realización de procedimientos 
+diseñados para responder a los riesgos de incorrección material evaluados en los estados financieros. 
+Los resultados de los procedimientos de auditoría, incluidos los procedimientos realizados para 
+abordar los asuntos que se mencionan a continuación, constituyen la base para la opinión de auditoría 
+sobre los estados financieros separados adjuntos. 
+ 
+Reconocimiento de ingresos por venta de inmuebles 
+Descripción del 
+asunto 
+ La Compañía en aplicación de la NIIF15 (Ingresos de actividades ordinarias 
+procedentes de contratos con clientes), reconoce un ingreso por venta de 
+inmuebles cuando ocurre lo siguiente: 
+- El cliente ha pagado el 20% de cuota inicial; o ha realizado el pago de 
+las primeras 3 cuotas, y 
+- Se ha entregado el bien. 
+Sobre la base de las estimaciones realizadas por la Compañía con evidencia 
+histórica de resoluciones de contratos, si se dan las situaciones anteriormente 
+descritas es más probable que ocurra el cobro de las cuentas por cobrar a sus 
+clientes y por tanto desde ese momento se debe reconocer el ingreso. 
+Consideramos que el reconocimiento de ingresos por venta de inmuebles es 
+un asunto clave de auditoría debido a que corresponde a un importe 
+significativo de los ingresos de la Compañía (S/688,021,000 por venta de 
+inmuebles) y por tratarse de un estimado complejo definido por la gerencia. 
+La descripción de la metodología aplicada en el reconocimiento de ingresos 
+por venta de inmuebles; así como las revelaciones requeridas se presenta en 
+la nota 27.21(a) de los estados financieros separados. 
+ 
+   
+   
+   
+   
+
+=== PAGINA PDF 5 ===
+Dictamen de los auditores independientes (continuación)  
+ 
+Reconocimiento de ingresos por venta de inmuebles 
+Cómo 
+abordamos el 
+asunto en 
+nuestra 
+auditoría 
+ Nuestros esfuerzos de auditoría sobre la revisión del adecuado reconocimiento 
+de ingresos por venta de inmuebles se centraron en realizar lo siguiente: 
+- Obtuvimos un entendimiento sobre las políticas, metodología y proceso de 
+reconocimiento de ingresos de la gerencia. 
+- Evaluamos la calidad e integridad de los datos de los reportes operativos 
+utilizados en la estimación de la Compañía del momento en el cual se debe 
+reconocer el ingreso. 
+- Recalculamos el estimado preparado por la Compañía y verificamos que el 
+reconocimiento de los ingresos se realice cuando existe una mayor 
+posibilidad de que el cliente pague sus cuotas. 
+- Confirmamos que se hayan reconocido los ingresos por venta de inmuebles 
+siguiendo las siguientes condiciones: i) El cliente ha pagado el 20% de cuota 
+inicial; o ha realizado el pago de las primeras 3 cuotas; y ii) Se ha 
+entregado el bien. 
+- Evaluamos la idoneidad de las revelaciones de los ingresos por ventas de 
+inmuebles en las notas de los estados financieros. 
+ 
+Otra información incluida en el Informe Anual 2024 de la Compañía 
+ 
+Otra información consiste en la información incluida en la Memoria Anual, distinta de los estados 
+financieros separados y nuestro informe de auditoría sobre los mismos. La gerencia es responsable de 
+la otra información. 
+ 
+Nuestra opinión sobre los estados financieros separados no cubre la otra información y no 
+expresamos ninguna forma de conclusión que proporcione un grado de seguridad sobre ésta. 
+ 
+En relación con nuestra auditoría de los estados financieros separados, nuestra responsabilidad es 
+leer la otra información y, al hacerlo, considerar si la otra información es materialmente inconsistente 
+con los estados financieros separados o nuestro conocimiento obtenido en la auditoría o si de otra 
+manera parece estar materialmente mal expresada. Si, en base al trabajo que hemos realizado, 
+concluimos que existe un error material de esta otra información, estamos obligados a informar de 
+ese hecho. No tenemos nada que informar a este respecto. 
+ 
+  
+
+=== PAGINA PDF 6 ===
+Dictamen de los auditores independientes (continuación)  
+ 
+Responsabilidades de la gerencia y los responsables del gobierno corporativo de la Compañía en 
+relación con los estados financieros separados  
+ 
+La gerencia es responsable de la preparación y presentación razonable de los estados financieros 
+separados de acuerdo con las normas contables NIIF, y del control interno que la gerencia determine 
+que es necesario para permitir la preparación de estados financieros separados que estén libres de 
+errores materiales, ya sea debido a fraude o error. 
+ 
+Al preparar los estados financieros separados, la gerencia es responsable de evaluar la capacidad de 
+la Compañía para continuar como una empresa en marcha, revelando, según corresponda, los asuntos 
+relacionados con la empresa en marcha y utilizando la base contable de la empresa en marcha, a 
+menos que la gerencia tenga la intención de liquidar a la Compañía o cesar las operaciones, o no tenga 
+otra alternativa realista diferente a hacerlo. 
+ 
+Los responsables del gobierno corporativo de la Compañía son responsables de la supervisión del 
+proceso de información financiera separada de la Compañía. 
+ 
+Responsabilidades del auditor en relación con la auditoría de los estados financieros separados 
+ 
+Nuestros objetivos son obtener seguridad razonable sobre si los estados financieros separados en su 
+conjunto están libres de incorrección material, ya sea por fraude o error, y emitir un informe que 
+incluya nuestra opinión. La seguridad razonable es un alto nivel de aseguramiento, pero no garantiza 
+que una auditoría realizada de conformidad con las NIA siempre detectará una incorrección 
+importante cuando exista. Las incorrecciones pueden surgir debido a fraude o error y se consideran 
+materiales si, individualmente o acumuladas, podría esperar que influyan razonablemente en las 
+decisiones económicas que los usuarios toman basándose en los estados financieros separados. 
+ 
+Como parte de una auditoría de acuerdo con las Normas Internacionales de Auditoría (NIA) aprobadas 
+para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos del Perú, 
+ejercemos un juicio profesional y mantenemos el escepticismo profesional durante toda la auditoría. 
+También: 
+ 
+- Identificar y evaluar los riesgos de incorrección material de los estados financieros separados, 
+ya sea debido a fraude o error, diseñar y ejecutar procedimientos de auditoría que respondan a 
+esos riesgos, y obtener evidencia de auditoría que sea suficiente y apropiada para 
+proporcionarnos una base para nuestra opinión. El riesgo de no detectar una incorrección 
+material debido a fraude es mayor que la resultante de un error, ya que el fraude puede implicar 
+colusión, falsificación, omisiones intencionales, declaraciones falsas o sobrepaso del sistema de 
+control interno. 
+ 
+
+=== PAGINA PDF 7 ===
+Dictamen de los auditores independientes (continuación)  
+ 
+- Obtener un entendimiento del control interno relevante para la auditoría con el fin de diseñar 
+procedimientos de auditoría que sean apropiados en las circunstancias, pero no con el propósito 
+de expresar una opinión sobre la efectividad del control interno de la Compañía. 
+ 
+- Evaluar la idoneidad de las políticas contables utilizadas, la razonabilidad de las estimaciones 
+contables y las respectivas revelaciones realizadas por la gerencia.  
+ 
+- Concluir sobre la idoneidad del uso por parte de la gerencia de la base contable de la empresa 
+en marcha y, sobre la base de la evidencia de auditoría obtenida, si existe una incertidumbre 
+material relacionada con eventos o condiciones que puedan generar dudas significativas sobre 
+la capacidad de la Compañía para continuar como una empresa en marcha. Si llegamos a la 
+conclusión de que existe una incertidumbre material, estamos obligados a llamar la atención en 
+el informe de nuestro auditor sobre las revelaciones relacionadas en los estados financieros o, 
+si dichas revelaciones son inadecuadas, a modificar nuestra opinión. Las conclusiones se basan 
+en la evidencia de auditoría obtenida hasta la fecha de nuestro informe de auditoría. Sin 
+embargo, los eventos o condiciones futuras pueden hacer que la Compañía deje de continuar 
+como una empresa en marcha. 
+ 
+- Evaluar la presentación general, la estructura, el contenido de los estados financieros 
+separados, incluidas las revelaciones, y si los estados financieros separados representan las 
+transacciones y eventos subyacentes de manera que logre una presentación razonable. 
+ 
+Comunicamos a los responsables del gobierno de la Compañía, entre otros asuntos, al alcance 
+planeado y el momento de realización de la auditoría, los hallazgos significativos de la misma, así 
+como cualquier deficiencia significativa del control interno identificada en el transcurso de la 
+auditoría. 
+ 
+También proporcionamos a los responsables del gobierno corporativo de la Compañía una declaración 
+de que hemos cumplido con los requerimientos de ética aplicables en relación con la independencia y 
+comunicado con ellos acerca de todas las relaciones y demás cuestiones de las que se podría esperar 
+razonablemente que pudieran afectar mi independencia y, en su caso, las respectivas salvaguardas. 
+ 
+  
+
+=== PAGINA PDF 8 ===
+Dictamen de los auditores independientes (continuación)  
+ 
+Entre los asuntos que han sido objeto de comunicación con los responsables del gobierno de la 
+Compañía, determinamos los que han sido de la mayor significatividad en la auditoría de los estados 
+financieros separados del periodo en curso y, por lo tanto, son los asuntos clave de auditoría. Hemos 
+descrito esos asuntos en nuestro informe de auditor salvo que las disposiciones legales o 
+reglamentarias prohíban revelar públicamente el asunto o, en circunstancias extremadamente poco 
+frecuentes, determinemos que un asunto no se debería comunicar en nuestro informe porque se 
+esperaría razonablemente que las consecuencias adversas de hacerlo superarían los beneficios de 
+interés público del mismo. 
+ 
+ 
+Lima, Perú 
+20 de marzo de 2025 
+ 
+ 
+Refrendado por:  
+ 
+ 
+ 
+ 
+ 
+____________________________ 
+Luis Felipe Chancafe Valdivia 
+Socio a cargo 
+C.P.C.C. Matrícula No 60571 
+
+=== PAGINA PDF 9 ===
+ 
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado separado. 
+Los Portales S.A. 
+Estado separado de situación financiera 
+Al 31 de diciembre de 2024 y de 2023  
+ Nota 2024 2023 
+  S/(000) S/(000) 
+    
+Activo        
+Activos corrientes        
+Efectivo y equivalente de efectivo 3 182,970 135,445     
+Cuentas por cobrar comerciales 4 149,094 126,762     
+Cuentas por cobrar a partes relacionadas 5 994 9,933     
+Otras cuentas por cobrar, neto 6 5,511 3,775     
+Inventarios 7 424,522 439,389     
+Otros activos  1,191 1,014   ___________ ___________ 
+Total activos corrientes  764,282 716,318   ___________ ___________     
+    
+    
+    
+Activos no corrientes        
+Cuentas por cobrar comerciales 4 717,884 697,977     
+Otras cuentas por cobrar, neto 6 29,430 20,526     
+Inversiones en subsidiarias 8 114,434 120,734     
+Propiedades y equipos, neto 9 40,834 38,058     
+Propiedades de inversión 10 249,664 292,485     
+Activos intangibles 11 10,415 16,475   ___________ ___________ 
+Total activos no corrientes  1,162,661 1,186,255   ___________ ___________     
+Total   1,926,943 1,902,573   ___________ ___________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nota 2024 2023 
+  S/(000) S/(000) 
+    
+Pasivo y Patrimonio neto    
+Pasivos corrientes    
+Obligaciones financieras 12 130,238 86,034 
+Obligaciones por arrendamientos 9(i) 944 869 
+Cuentas por pagar comerciales 13 262,956 300,038 
+Cuentas por pagar a partes relacionadas 5 16,085 15,315 
+Otras cuentas por pagar 14 87,495 95,709 
+Provisiones 23.1(v) 5,873 1,646 
+      ___________ ___________ 
+Total pasivos corrientes  503,591 499,611   ___________ ___________     
+Total pasivos no corrientes    
+Obligaciones financieras 12 471,329 518,269 
+Obligaciones por arrendamientos 9(i) 926 590 
+Cuentas por pagar comerciales 13 39,899 62,606 
+Otras cuentas por pagar  14 31,059 11,767 
+Impuesto a la renta diferido pasivo 15(c) 55,544 49,861   ___________ ___________     
+Total pasivos no corrientes  598,757 643,093   ___________ ___________ 
+Total pasivos  1,102,348 1,142,704   ___________ ___________ 
+    
+Patrimonio neto 16   
+Capital emitido  253,754 253,754 
+Excedente de revaluación  3,944 3,944 
+Reserva legal  50,751 50,751 
+Resultados acumulados  516,146 451,420   ___________ ___________ 
+Total patrimonio neto  824,595 759,869   ___________ ___________ 
+Total  1,926,943 1,902,573   ___________ ___________ 
+
+=== PAGINA PDF 10 ===
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado separado. 
+Los Portales S.A. 
+Estado separado de resultados integrales 
+Por los años terminados el 31 de diciembre del 2024 y de 2023  
+ Nota  2024 2023 
+  S/(000) S/(000) 
+    
+Operaciones continuadas    
+Ingresos por ventas de inmuebles  688,021 753,644 
+Ingresos por servicios prestados  2,561 1,883 
+Ingresos por financiamiento de venta de inmuebles  116,775 110,456   _________ _________ 
+Ingresos 2 807,357 865,983   _________ _________ 
+    
+Costo de venta de inmuebles  (469,092) (525,933) 
+Costos por servicios prestados  (763) (672)   _________ _________ 
+Costo de ventas 17 (469,855) (526,605)   _________ _________ 
+Utilidad bruta  337,502 339,378 
+    
+Gastos de ventas 18 (77,999) (81,105) 
+Gastos de administración 19 (78,809) (75,429) 
+Ingresos dividendos  6,300 7,499 
+Otros ingresos 21 31,549 35,564 
+Otros gastos 21 (23,616) (24,831) 
+Cambios en el valor razonable de propiedades de 
+inversión 10(a) (365) 849   _________ ________ 
+Utilidad de operación  194,562 201,925     
+Gastos financieros 22 (56,976) (52,851) 
+Diferencia en cambio, neta 24.1(a)(i) (1,359) (1,134)   _________ ________ 
+Utilidad antes de impuestos por operaciones 
+continuadas  136,227 147,940 
+Gastos por impuesto a la utilidad 15(a) (41,501) (42,483)   _________ ________ 
+Utilidad del ejercicio por operaciones continuadas  94,726 105,457 
+Operaciones discontinuas 
+Ganancia neta por operaciones discontinuas    8(c) - 14,965   _________ ________ 
+Utilidad del ejercicio  94,726 120,422   _________ ________ 
+
+=== PAGINA PDF 11 ===
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado separado. 
+Los Portales S.A. 
+Estado separado de cambios en el patrimonio neto 
+Por los años terminados el 31 de diciembre de 2024 y de 2023 
+  
+Capital 
+emitido 
+Reserva 
+ legal 
+Excedente de 
+revaluación 
+Resultados 
+acumulados Total 
+  S/(000) S/(000) S/(000) S/(000) S/(000) 
+      
+Saldos al 1 de enero de 2023 253,754 50,751 3,944 434,343 742,792       
+Utilidad del ejercicio - - - 120,422 120,422 
+Dividendos declarados y pagados, nota 1 6(d) - - - (103,345) (103,345)   __________ __________ __________ __________ __________       
+Saldos al 31 de diciembre de 2024 253,754 50,751 3,944 451,420 759,869  __________ __________ __________ __________ __________       
+Saldos al 1 de enero de 2024 253,754 50,751 3,944 451,420 759,869 
+Utilidad del ejercicio - - - 94,726 94,726 
+Dividendos declarados y pagados, nota 1 6(d) - - - (30,000) (30,000)   __________ __________ __________ __________ __________       
+Saldos al 31 de diciembre de 2024 253,754 50,751 3,944 516,146 824,595  __________ __________ __________ __________ __________ 
+ 
+
+=== PAGINA PDF 12 ===
+ 
+ 
+Los Portales S.A. 
+Estado separado de flujos de efectivo  
+Por los años terminados el 31 de diciembre de 2024 y de 2023 
+ Nota 2024 2023 
+  S/(000) S/(000) 
+    
+Actividades de operación    
+Utilidad del ejercicio  94,726 120,422 
+Ajustes para conciliar la utilidad antes de impuestos 
+con los flujos de efectivos netos:    
+Depreciación 9(a) 9,314 9,655 
+Amortización 11(a) 3,943 3,317 
+Impuesto a la renta diferido 15(c) 5,683 9,030 
+Cambios en el valor razonable de propiedades de 
+inversión 10(a) 365 (849) 
+Diferencia en cambio 12(f) y 9(i) 3,498 (7,204) 
+Ajuste costo amortizado de terrenos 21 526 (3,124) 
+Venta de cartera 4(e) (3,707) (3,697) 
+Estimación de deterioro de otras cuentas por cobrar 6(d) (460) 569 
+Utilidad venta negocio LPE 8(c) - (21,227) 
+Provisión por deterioro de inmuebles terminados 7(d) 2,144 1,239 
+Intereses devengados 9(i) y 12(f)  56,317 52,633 
+Otros  3 (1,084) 
+Variaciones en el capital de trabajo    
+Cuentas por cobrar comerciales, relacionadas y otras 
+cuentas por cobrar  (105,873) (190,962) 
+Inventarios  170,910 158,450 
+Otros activos  (1,939) (2,763) 
+Cuentas por pagar comerciales, relacionadas, otras 
+cuentas por pagar y provisiones  (7,461) (34,687) 
+Intereses pagados 12(f) (52,026) (48,476) 
+Intereses cobrados  67,426 77,343 
+Impuesto a la renta pagado  (34,710) (41,032)   ________ ________     
+Flujos netos de efectivo proveniente de actividades de 
+operación  208,679 77,553   ________ ________ 
+    
+Actividades de inversión    
+Cobro de dividendos  6,300 7,499 
+Compra de activos intangibles 11(a) (1,740) (8,892) 
+Compra de propiedades y equipos 9(a) (10,657) (9,922) 
+Compra de propiedades de inversión 10(a) (112,687) (128,110) 
+Venta de Subsidiaria  - 69,993   ________ ________ 
+Flujos netos de efectivo utilizado en actividades de 
+inversión  (118,784) (69,432)   ________ ________ 
+    
+  
+
+=== PAGINA PDF 13 ===
+Estado separado de flujos de efectivo (continuación)  
+ 
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado separado. 
+ Nota 2024 2023 
+  S/(000) S/(000) 
+    
+Actividades de financiamiento    
+Obtención de obligaciones financieras 12(f) 200,099 257,247 
+Pago de obligaciones financieras 12(f) (210,957) (138,690) 
+Pagos de obligaciones por arrendamientos 9(i) (1,512) (1,411) 
+Pago de factoring con proveedores  - (8,951) 
+Pago de dividendos 16(d) (30,000) (103,345)   _________ _________ 
+Flujos netos de efectivo (utilizado en) proveniente de 
+actividades de financiamiento  (42,370) 4,850   _________ _________ 
+    
+Aumento neto de efectivo   47,525 12,971 
+Saldo inicial de efectivo y equivalente de efectivo  135,445 122,474   _________ _________ 
+Saldo final de efectivo y equivalente de efectivo 3 182,970 135,445   _________ _________ 
+    
+Transacciones que no representaron flujos de 
+efectivo -    
+Compensación con devolución de aportes cuenta por 
+pagar relacionada 8(d) - 20,814 
+Adiciones de activos derechos de uso                                                            9(a) 1,795            1,470 
+Transferencia de inventarios a propiedades de 
+inversión  10(e) 2,023 289 
+Transferencia de propiedades de inversión a 
+inventarios 10(d) (158,891) (166,886) 
+   Obligaciones por arrendamientos 9(i) 1,811 456 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 14 ===
+ 
+ 
+Los Portales S.A. 
+Notas a los estados financieros separados 
+Al 31 de diciembre de 2024 y de 2023 
+ 1. Información general 
+1.1 Antecedentes - 
+Los Portales S.A. (en adelante “Los Portales” o “la Compañía”) es una sociedad anónima que se 
+constituyó en la cuidad de Lima el 6 de marzo de 1996 e inicio sus operaciones en junio del 
+mismo año con la razón social de Consorcio Inmobiliario Los Portales S.A. El 28 de febrero de 
+2000 la Junta General de Accionistas acordó el cambio de su razón social a Los Portales S.A., su 
+domicilio legal es Jr. Mariscal La Mar No.991 Magdalena, Lima - Perú y se dedica principalmente 
+al desarrollo de proyectos de habilitación urbana de terrenos y de construcción de viviendas 
+multifamiliares. Además, desarrolla actividades de inversión y operación de servicios hoteleros 
+en Perú y de desarrollo y operación de playas de estacionamiento. 
+ 
+Las acciones de la Compañía están registradas en la Bolsa de Valores de Lima, bajo el nemónico 
+de “PORTAC 1”; no obstante, en los últimos años no han tenido una alta frecuencia de 
+negociación. 
+ 
+Al 31 de diciembre de 2024 y diciembre del 2023, la Compañía lidera un grupo económico 
+compuesto por cuatro subsidiarias, siendo las principales líneas de negocios: unidad de vivienda - 
+inmobiliario, hoteles y rentas. 
+ 
+1.2 Aprobación de los estados financieros separados - 
+Los estados financieros separados al 31 de diciembre de 2024 han sido emitidos con 
+autorización de la Gerencia el 15 de febrero de 2025 y han sido aprobados por el Directorio el 20 
+de marzo de 2025 y serán presentados para la aprobación de la Junta General de Accionistas. En 
+opinión de la Gerencia de la Compañía, los estados financieros separados serán aprobados por la 
+Junta General de Accionistas sin modificaciones. 
+ 
+Los estados financieros separados al 31 de diciembre de 2023 han sido emitidos con 
+autorización de la Gerencia el 15 de febrero de 2024 y han sido aprobados por el Directorio el 22 
+de marzo de 2024 y serán presentados para la aprobación de la Junta General de Accionistas. En 
+opinión de la Gerencia de la Compañía, los estados financieros separados serán aprobados por la 
+Junta General de Accionistas sin modificaciones. 
+. 
+ 
+  
+
+=== PAGINA PDF 15 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+2 
+1.3  Venta de Los Portales Estacionamientos S.A. 
+ Con fecha 9 de junio de 2023, Los Portales S.A. anunció que suscribieron con AC Capitales 
+Infrastructure II, L.P, AC Capitales Fondo Infraestructura II, AC Capitales Fondo Infraestructura 
+II, GP , un contrato de compraventa sobre el 85% de las acciones de Los Portales 
+Estacionamientos S.A y subsidiaria, en la misma sesión también se acordó vender el 14.99% de 
+su participación al Grupo Raffo principal accionista de Los Portales S.A. junto con ICA de México. 
+La subsidiaria está ubicada en la República del Perú, dedicada a la administración, operación, 
+concesión e inversión de estacionamientos, además de los negocios vinculados, como valet 
+parking, publicidad, soluciones y equipamiento tecnológico, diseños y arquitectura y otros 
+servicios relacionados. El cierre de la operación se realizó el 30 de junio del 2023, una vez 
+cumplida las condiciones precedentes y perfeccionada la transferencia de acciones en el contrato 
+de compra – venta. El resultado neto de la transacción asciende a una ganancia de 
+S/21,227,000,  
+ 
+ 2. Actividad económica e información por segmentos 
+2.1 Actividad económica 
+Para propósitos de gestión, la Compañía está organizada en unidades de negocios sobre la base 
+de sus productos y servicios y por lo que ha definido dos segmentos operativos. El Comité 
+Ejecutivo de la Compañía supervisa la utilidad antes de impuesto para cada unidad de negocio por 
+separado, con el propósito de tomar decisiones sobre la asignación de recursos y evaluación del 
+rendimiento financiero. 
+ 
+Para los segmentos definidos por la Compañía, no existe clientes que individualmente superen el 
+10 por ciento de los ingresos de las actividades ordinarias de cada unidad de negocio. Las 
+actividades de la Compañía comprenden las siguientes unidades de negocio: 
+ 
+(a) Unidad de Vivienda (Inmobiliario) - 
+Comprende las actividades de desarrollo, venta y financiamiento de terrenos dentro de los 
+que destaca la habilitación urbana con servicios básicos y la habilitación urbana para 
+vivienda secundaria (venta de lotes para casas de campo o casas de playa). Además, se 
+construyen viviendas de interés social y se desarrollan proyectos multifamiliares de 
+vivienda a través de programas gubernamentales, como son los programas de Mivivienda 
+y de Techo Propio y de financiamiento bancario con apoyo gubernamental para ciertos 
+clientes como los del programa Mivivienda. 
+ 
+(b) Unidad de Rentas - 
+La Unidad de Rentas se dedica a la gestión de arrendamientos de locales comerciales, 
+hoteles y de oficinas de propiedad de la Compañía. 
+  
+
+=== PAGINA PDF 16 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+3 
+2.2 Información por segmentos 
+La información de estas unidades de negocio, al 31 de diciembre de 2024 y de 2023, excluyendo 
+los activos y pasivos no asignados se presenta a continuación: 
+ 
+ Inmobiliario Rentas Total 
+ S/(000) S/(000) S/(000) 
+Año 2024    
+Ingresos por ventas y servicios  688,021 2,561 690,582 
+Ingresos financieros 116,775 - 116,775 
+Costo de venta y de servicios  (469,092) (763) (469,855)  __________ __________ _________ 
+Utilidad bruta 335,704 1,798 337,502  __________ __________ _________ 
+Gastos de ventas (77,999) - (77,999) 
+Gastos de administración (78,511) (298) (78,809) 
+Otros ingresos/egresos 13,745 123 13,868  __________ __________ _________ 
+Utilidad de operación 192,939 1,623 194,562  __________ __________ _________ 
+Ingresos financieros 8,160 27 8,187 
+Gastos financieros (63,240) (1,923) (65,163) 
+Diferencia en cambio, neta  (1,000) (359) (1,359)  __________ __________ _________     
+Utilidad (pérdida) antes de impuesto a la renta  136,859 (632) 136,227  _________ _________ ________ 
+ 
+  
+
+=== PAGINA PDF 17 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+4 
+ Inmobiliario Rentas Total 
+ S/(000) S/(000) S/(000) 
+    
+Año 2024    
+Activos corrientes 757,891 2,997 760,888 
+Activos no corrientes 1,081,172 74,000 1,155,172  __________ __________ __________     
+Total, activos 1,839,063 76,997 1,916,060  __________ __________ __________     
+Obligaciones financieras corrientes 124,680 4,270 128,950 
+Otros pasivos corrientes 362,462 1,160 363,622 
+Obligaciones financieras no corrientes  458,762 12,567 471,329 
+Otros pasivoss no Corrientes 118,541 7,568 126,109  __________ __________ __________     
+Total, pasivos 1,064,445 25,565 1,090,010  __________ __________ __________ 
+Año 2023    
+Ingresos por ventas y servicios  753,644 1,883 755,527 
+Ingresos financieros 110,456 - 110,456 
+Costo de venta y de servicios  (525,933) (672) (526,605)  __________ __________ __________ 
+Utilidad bruta 338,167 1,211 339,378  __________ __________ __________ 
+Gastos de ventas (81,105) - (81,105) 
+Gastos de administración (75,123) (306) (75,429) 
+Otros ingresos/egresos 18,586 495 19,081  __________ __________ __________ 
+Utilidad de operación 200,525 1,400 201,925  __________ __________ __________ 
+    
+Ingresos financieros 7,754 9 7,763 
+Gastos financieros (58,334) (2,280) (60,614) 
+Diferencia en cambio, neta  (1,759) 625 (1,134)  __________ __________ __________     
+Utilidad (pérdida) antes de impuesto a la renta  148,186 (246) 147,940  __________ __________ __________ 
+    
+Año 2023    
+Activos Corrientes 702,012 3,317 705,329 
+Activos no corrientes 1,106,187 71,832 1,178,019  __________ __________ __________     
+Total, activos 1,808,199 75,149 1,883,348  __________ __________ __________     
+Obligaciones financieras corrientes 80,029 4,220 84,249 
+Otros pasivo corrientes 410,019 135 410,154 
+Obligaciones financieras no corrientes  501,767 16,502 518,269 
+Otros pasivos no corrientes  115,920 7,150 123,070  __________ __________ __________     
+Total, pasivos 1,107,735 28,007 1,135,742  _________ _________ _________ 
+ 
+Los ingresos y costo de venta y de servicios, así como el margen bruto corresponden a las 2 
+unidades de negocio reportables asignados en las unidades de negocio de la Compañía. 
+ 
+
+=== PAGINA PDF 18 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+5 
+A continuación, presentamos una conciliación del total de activos de las unidades de negocio con 
+el total de activos de la Compañía: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Total, activos por segmentos  1,916,060 1,883,348 
+Existencias no asignadas 294 80 
+Propiedad y equipo no asignados  3,133 2,842 
+Activos intangibles no asignados  3,857 4,893 
+Inversión en subsidiaria 500 501 
+Otros activos 727 672 
+Cuentas por cobrar a partes relacionadas  611 7,132 
+Otras cuentas por cobrar 45 255 
+Cuentas por cobrar comerciales 715 1,817 
+Efectivo y equivalente de efectivo  1,001 1,033  __________ __________    
+Total activos  1,926,943 1,902,573  __________ __________ 
+ 
+A continuación, una conciliación del total de pasivos por unidades de negocio con el total de 
+pasivos: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Total pasivos por segmentos  1,090,010 1,135,742 
+Cuentas por pagar comerciales  3,435 4,355 
+Otras cuentas por pagar 7,583 822 
+Cuentas por pagar relacionadas  32 - 
+Obligaciones financieras 1,288 1,785  __________ __________    
+Total pasivos 1,102,348 1,142,704  __________ __________ 
+ 
+Ver nota 27.26 para política contable relevante sobre la información por unidades de negocio. 
+ 
+  
+
+=== PAGINA PDF 19 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+6 
+3. Efectivo y equivalente de efectivo 
+(a) Al 31 de diciembre, este rubro comprende 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Caja y fondos fijos 398 475 
+Fondos mutuos (b) 34,166 11,000 
+Depósitos a plazo (c) 60,194 46,846 
+Cuentas corrientes (d) 88,212 77,124  __________ __________    
+Total  182,970 135,445  __________ __________ 
+ 
+El efectivo y equivalente de efectivo al 31 de diciembre de 2024, incluye un saldo de 
+aproximadamente S/34,593,000 (aproximadamente S/12,593,000, al 31 de diciembre de 2023) 
+correspondiente a desembolsos efectuados por los bancos para construcción de viviendas, los 
+cuales son liberados con la presentación de las valorizaciones de obras; este proceso de 
+liberación puede tomar entre uno y tres meses. 
+ 
+(b) Al 31 de diciembre de 2024 y de 2023, corresponde a fondos mutuos, con vencimientos de entre 
+30 y 60 días, los cuales devengan intereses a tasas efectivas en soles entre 5.00 por ciento y en 
+dólares entre 4.55 por ciento. 
+ 
+(c) Al 31 de diciembre de 2024 y de 2023, corresponde a depósitos a plazo (overnight), con 
+vencimientos de entre 30 y 60 días con opción de renovación, los cuales devengan intereses a 
+tasas efectivas en soles entre 3.40 por ciento y 4.80 por ciento y en dólares entre 3.30 por 
+ciento y 3.90 por ciento. 
+ 
+(d) Las cuentas corrientes están denominadas en soles y dólares estadounidenses, se encuentran 
+depositadas en bancos locales, son de libre disponibilidad y generan intereses a tasas de 
+mercado. 
+ 
+Ver nota 27.6 para otras políticas relevantes sobre el rubro efectivo y equivalente de efectivo. 
+
+=== PAGINA PDF 20 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+7 
+4. Cuentas por cobrar comerciales 
+(a) Al 31 de diciembre, este rubro comprende: 
+ 
+ 2024 2023  ___________________________ ________________________ ____________________________________________________ 
+ Corriente No corriente Total Corriente No corriente Total 
+ S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) 
+       
+Por ventas de inmuebles (b) 148,188 717,884 866,072 119,841 697,977 817,818 
+Por rentas y servicios prestados ( c) 906 - 906 6,921 - 6,921  _________ _________ _________ _________ _________ _________        
+ 149,094 717,884 866,978 126,762 697,977 824,739  _________ _________ _________ _________ _________ _________ 
+ 
+(b) Las cuentas por cobrar por venta de inmuebles incluyen las cuentas por cobrar por ventas financiadas a los clientes a través de letras aceptadas. Estas ventas se 
+financian en promedio hasta en 109 meses desde la fecha de suscripción del contrato a tasas de mercado para este tipo de transacciones. 
+ 
+La Compañía mantiene la reserva de dominio de los inmuebles como colateral en garantía de la cancelación total del precio de venta de los inmuebles vendidos a 
+plazos. 
+ 
+(c) Las facturas por cobrar por rentas y servicios se estiman cobrar en un periodo menor a un año, no devengan intereses y no cuentan con garantías específicas. 
+ 
+(d) Información del riesgo de deterioro de las cuentas por cobrar comerciales se presenta en la nota de riesgos financieros, específicamente en la revelación sobre 
+riesgo de crédito, nota 25.1(b). 
+ 
+(e) Con fecha 25 de abril de 2024, se realizó un contrato de transferencia de cartera de letras sin recurso por un valor nominal de aproximadamente 
+UU$11,176,000, con una empresa administradora de fondos de inversiones, quien asumirá integra y totalmente los riesgos de cobrabilidad de la cartera, esta 
+operación generó una ganancia de aproximadamente S/3,707,000, que se incluyen en el rubro “Otros ingresos” del estado separado de resultados integrales. 
+Nota 21.  
+ 
+Con fecha 4 de mayo de 2023, se realizó un contrato de transferencia de cartera de letras sin recurso por un valor nominal de aproximadamente US$9,545,000, 
+con una empresa administradora de fondos de inversión, quien asumirá íntegra y totalmente los riesgos de cobrabilidad de la cartera; esta operación generó una 
+ganancia de aproximadamente S/3,697,000, que se incluye en el rubro “Otros ingresos “del estado separado de resultados integrales, nota 21. 
+ 
+En opinión de la Gerencia, las cuentas por cobrar comerciales serán recuperadas por lo que, al 31 de diciembre de 2024 y 31 de diciembre de 2023, no fue 
+necesario reconocer una estimación por pérdida crediticia esperada. Ver nota 27.7 para otras políticas relevantes sobre el rubro cuentas por cobrar 
+comerciales. 
+
+=== PAGINA PDF 21 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+8 
+5. Transacciones con partes relacionadas 
+(a) Al 31 de diciembre, el saldo de las cuentas por cobrar y pagar a partes relacionadas comprende: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Cuentas por cobrar comerciales:    
+Subsidiarias -   
+Los Portales Departamentos S.A.  652 812 
+Los Portales en Patrimonio Fideicomiso S.A.C. 17 13 
+LP Hoteles S.A. 298 2,285  __________ __________ 
+ 967 3,110  __________ __________ 
+   
+Cuentas por cobrar no comerciales:    
+Otras relacionadas -   
+Concesión Estacionamiento Gamarra  27 23 
+LP Usa S.A. nota 8(b) - 6,800  __________ __________ 
+Total 27 6,823  __________ __________ 
+Total cuentas por cobrar a partes relacionadas  994 9,933  __________ __________ 
+   
+Cuentas por pagar comerciales -   
+Subsidiarias -   
+LP Hoteles S.A. 45 131 
+Otras Relacionadas-   
+Santa Aurelia S.A. 3 3  __________ __________ 
+Total 48 134  __________ __________ 
+Cuenta por pagar no comerciales    
+Subsidiarias -   
+Los Portales en Patrimonio Fideicomiso  (c) 16,037 15,181  __________ __________ 
+Total 16,037 15,181  __________ __________ 
+Total cuentas por pagar a partes relacionadas  16,085 15,315  __________ __________ 
+ 
+  
+
+=== PAGINA PDF 22 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+9 
+Las siguientes transacciones se realizaron con accionistas y partes relacionadas: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+     
+Subsidiarias -   
+Ingresos por servicios de gerenciamiento  5,930 6,771 
+Ingresos por alquileres 924 924 
+     
+Otras relacionadas -   
+Compensación de la Gerencia clave (*)  10,328 9,927 
+ 
+(*) La Compañía incluye en este concepto a los miembros del Directorio y de la Gerencia. La 
+remuneración a la Gerencia clave, incluye sueldos, beneficios sociales, dietas y aportes 
+legales. La Compañía no otorga a la Gerencia clave beneficios post-empleo, pagos en 
+acciones o beneficios a largo plazo. 
+ 
+(b) Términos y condiciones de transacciones con partes relacionadas - 
+Las transacciones con partes relacionadas se hacen en condiciones de mercado equivalentes a 
+aquellas aplicadas a transacciones entre partes independientes. Al 31 de diciembre de 2024 y del 
+2023, la Compañía no ha registrado ninguna estimación para cuentas de cobranza dudosa en 
+relación con los saldos adeudados por las partes relacionadas ya que han evaluado la 
+cobrabilidad de estos saldos y considera que no se requiere constituir ninguna provisión por 
+deterioro. 
+ 
+(c) Las cuentas por pagar a Los Portales en Patrimonio Fideicomiso, corresponden a las cobranzas 
+de las letras por la venta de lotes en zona de Frontera (Ciudad de Tacna) las cuales serán 
+canceladas cuando se liquide el fideicomiso. 
+ 
+En opinión de la Gerencia, las cuentas por cobrar y por pagar clasificadas como corrientes al 31 
+de diciembre de 2024 y de 2023, serán cobradas y pagadas en el corto plazo. 
+ 
+Las cuentas por cobrar a partes relacionadas no generan intereses ni tienen garantías 
+específicas. 
+ 
+De acuerdo con la legislación vigente, para propósitos de la determinación del impuesto a la renta 
+y del impuesto general a las ventas, debe considerarse los precios de transferencia por las 
+operaciones con partes vinculadas y/o paraísos fiscales. Para tal efecto debe contarse con 
+documentación e información que sustente los métodos y criterios de valuación aplicados en su 
+determinación. La Administración Tributaria está facultada a solicitar esta información al 
+contribuyente. 
+
+=== PAGINA PDF 23 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+10 
+6. Otras cuentas por cobrar 
+(a) Al 31 de diciembre, este rubro comprende: 
+ 
+ 2024 2023  ___________________________ _________________________ _____________________ ______________________________ 
+ Corriente No corriente Total Corriente No corriente Total 
+ S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) 
+       
+Anticipos otorgados a proveedores (b)  1,012 - 1,012 1,451 - 1,451 
+Reclamaciones a terceros 3,309 - 3,309 1,151 - 1,151 
+Tributos por cobrar 953 - 953 1,156 - 1,156 
+Depósitos en garantía (c) 237 30,180 30,417 1,227 20,526 21,753  ___________ ___________ ___________ ___________ ___________ ___________        
+ 5,511 30,180 35,691 4,985 20,526 25,511 
+Estimación de deterioro por pérdida esperada (d)  - (750) (750) (1,210) - (1,210)  ___________ ___________ ___________ ___________ ___________ ___________        
+ 5,511 29,430 34,941 3,775 20,526 24,301  ___________ ___________ ___________ ___________ ___________ ___________ 
+ 
+El saldo de las otras cuentas por cobrar surge de transacciones complementarias a operaciones de la Compañía en el curso regular de sus actividades. No devengan 
+intereses y normalmente no tienen garantías o colaterales. 
+ 
+(b) Al 31 de diciembre de 2024 y de 2023, los anticipos otorgados a proveedores corresponden a adelantos para asegurar las opciones de compra de terrenos, 
+compra de suministros diversos y de equipamientos diversos. 
+ 
+(c) Al 31 de diciembre de 2024 y de 2023, los depósitos en garantía incluyen principalmente fondos en garantías por un préstamo y bonos de la Corporación 
+Interamericana de Inversiones (BID-Invest) por aproximadamente S/25,822,000 y     S/16,349,000, respectivamente, los cuales serán liberados a su vencimiento 
+con el pago total de las obligaciones, las mismas que vencen entre el 2030 y el 2033.Asimismo; i) recupero de fondos reembolsables de las empresas eléctricas por 
+S/2,555,000, ii) Intereses fondos mutuos Sura por S/520,000, iii) recupero empresas aseguradoras por S/174,000 entre otros menores (y en el 2023: i) recupero 
+de fondos reembolsables de las empresas eléctricas por S/733,000, ii)  recupero empresas aseguradoras por S/164,000, iii) reclamos cobro tarjeta corporativa 
+por S/77,000, entre otros). 
+ 
+(d) El movimiento de la estimación de deterioro por pérdida esperada fue el siguiente: 
+  
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Saldo inicial 1,210 641 
+Adiciones, nota 21 . 569 
+Deducciones (460) -  ___________ ___________    
+ 750 1,210  ___________ ___________ 
+ 
+En opinión de la Gerencia, al 31 de diciembre de 2024 y de 2023, la estimación de deterioro por pérdida esperada de las otras cuentas por cobrar cubre 
+adecuadamente el riesgo de crédito de estas partidas a la fecha del estado separado de situación financiera y no es necesario constituir una provisión adicional por 
+deterioro en este rubro. 
+
+=== PAGINA PDF 24 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+11 
+7. Inventarios 
+(a) Al 31 de diciembre, este rubro comprende: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Proyectos inmobiliarios en desarrollo (b)  155,431 139,433 
+Inmuebles terminados (c) 269,695 299,045 
+Suministros 1,744 1,974  __________ __________ 
+ 426,870 440,452 
+Menos -   
+Provisión por deterioro de inmuebles terminados (d)  (2,348) (1,063)  __________ __________    
+ 424,522 439,389  __________ __________ 
+ 
+(b) Proyectos inmobiliarios en desarrollo - 
+Los proyectos inmobiliarios en desarrollo se ubican en varias ciudades de Perú y se esperan 
+concluir en los próximos 10 meses. Corresponden a proyectos de habilitación urbana, 
+urbanizaciones de viviendas bajo programas gubernamentales como Techo Propio y Mi Vivienda, 
+y edificios de viviendas multifamiliares. 
+ 
+El movimiento de los proyectos inmobiliarios en desarrollo fue el siguiente: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Saldo inicial del año 139,433 207,301 
+Costos de habilitación y construcción  295,385 366,424 
+Transferencia desde propiedades de inversión, nota 10(a)  158,891 166,886 
+Transferencia a propiedades de inversión, nota 10(a)  - (289) 
+Transferencia a inmuebles terminados  (438,278) (600,889)  __________ __________    
+Saldo final del año  155,431 139,433  __________ __________ 
+ 
+  
+
+=== PAGINA PDF 25 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+12 
+Al 31 de diciembre de 2024 y de 2023, los proyectos inmobiliarios en desarrollo por zonas 
+comprenden: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Lima:   
+Zona Sur 18,582 15,089 
+Zona Norte 6,175 5,811  __________ __________    
+ 24,757 20,900  __________ __________ 
+Otras ciudades del Perú:   
+Zona Norte 69,017 59,581 
+Zona Sur 43,671 38,186 
+Zona Este 17,986 20,766  __________ __________    
+ 130,674 118,533  __________ __________ 
+ 155,431 139,433  __________ __________ 
+ 
+(c)  Inmuebles terminados - 
+Corresponde a inmuebles con habilitación urbana y edificaciones que se han concluido y están 
+disponibles para su venta. Estos inmuebles se ubican principalmente en Lima y provincias de 
+acuerdo con la tabla que se presenta a continuación: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Lima 100,993 145,234 
+Provincias 168,702 153,811  __________ __________    
+ 269,695 299,045  _________ _________ 
+ 
+(d) El movimiento de la provisión por deterioro de inmuebles terminados fue el siguiente: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Saldo inicial del año 1,063 1,462 
+Adiciones 2,144 1,239 
+Extorno por ventas (859) (1,638)  __________ __________ 
+Saldo final del año  2,348 1,063  _________ _________ 
+ 
+Al 31 de diciembre de 2024 y de 2023, las adiciones de provisiones por desvalorización de 
+inventarios por aproximadamente S/2,144,000 y S/1,239,000 corresponden a saldos de lotes 
+de proyectos antiguos. 
+ 
+
+=== PAGINA PDF 26 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+13 
+En opinión de la Gerencia de la Compañía, la estimación por desvalorización de inventarios al 31 
+de diciembre de 2024 y de 2023 cubre adecuadamente el riesgo de desvalorización de sus 
+inventarios a dichas fechas, por lo que no es necesario registrar alguna provisión adicional.     
+Ver nota 27.8 para otras políticas relevantes sobre el rubro inventarios. 
+ 
+8. Inversiones en subsidiarias 
+(a) Al 31 de diciembre de 2024 y de 2023, todas las inversiones en subsidiarias son contabilizadas 
+bajo el método de costo; ninguna de las cuales cotiza en bolsa y, por tanto, no tienen precio de 
+cotización bursátil. A continuación, se presenta la composición del rubro: 
+ 
+ Porcentaje de participación Valor en libros  ___________________________ _____________________________  
+ 2024 2023 2024 2023 
+ % % S/(000) S/(000) 
+     
+Subsidiarias -     
+Los Portales Departamentos S.A.C (d) 99.99 99.99 97,186 97,186 
+LP USA S.A. (e) 99.99 99.99 33 33 
+LP Hoteles S.A. (f) 99.99 99.99 16,737 23,037 
+Consorcio Estacionamiento Gamarra 
+S.A - (g) 100.00 100.00 115 115 
+Soluciones Urbanísticas  99.99 99.99 363 363    _________ _________      
+   114,434 120,734    _________ _________ 
+ 
+(b) El movimiento de las inversiones en subsidiarias fue el siguiente: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Saldo inicial del año 120,734 155,487 
+Capitalización de cuentas por cobrar LPD (d) - 20,814 
+Devolución de capital LPUSA (e)  - (6,800) 
+Devolución de capital LP Hoteles S.A. (f)  (6,300) - 
+Venta de acciones de Los Portales Estacionamientos 
+S.A.(c) - (48,767)  __________ __________    
+Saldo final del año  114,434 120,734  _________ _________ 
+ 
+(c) Los Portales Estacionamientos S.A.C. - 
+Se constituyó en Lima el 27 de junio de 2018 y se dedica a efectuar inversiones en 
+estacionamientos, y desarrollo y administración de éstos. 
+ 
+  
+
+=== PAGINA PDF 27 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+14 
+Con fecha 30 de junio del 2023 se ha realizado la venta de las acciones de Estacionamientos, 
+transfiriendo el 85% de su participación a AC Capitales gestora de fondos de inversiones en el 
+Perú y subsidiaria de Apoyo Consultoría.  Y el 14.99 % de su participación a la GR Holding S.A.  El 
+valor de venta de dichas acciones fue negociado en S/69,993,000, generando una ganancia para 
+la compañía de S/21,227,000, con impuesto a la renta de S/6,261,000, cuyo efecto neto de 
+impuestos es de S/14,965,000. 
+ 
+(d) Los Portales Departamentos S.A.C.  
+Se constituyó en Lima el 4 de junio de 2013 y se dedica a toda clase de inversiones y negocios de 
+promoción y desarrollo de negocios inmobiliarios, habilitación urbana, desarrollo de denuncios 
+agrícolas y urbanas, desarrollo y promoción de viviendas y multifamiliares, centros comerciales, 
+compra venta de bienes muebles e inmuebles. 
+ 
+Con fecha 21 de octubre de 2021, en Junta General de Accionistas, se acordó realizar un 
+aumento de capital a Los Portales Departamentos S.A.C., por aportes en efectivo por 
+S/5,267,000 y por capitalización de las cuentas por cobrar a Los Portales Departamentos por 
+aproximadamente S/9,735,000, consecuentemente el valor en libros de la inversión se 
+incrementó aproximadamente de S/61,375,000 a aproximadamente S/76,372,000.  
+ 
+Con fecha 30 de noviembre de 2023, en Junta General de Accionistas, se aprobó realizar el 
+aumento de capital de Los Portales Departamentos S.A.C., por S/20,814,000 mediante la 
+capitalización de créditos que mantenía con Los Portales S.A. consecuentemente el valor en 
+libros de la inversión se incrementó aproximadamente de S/76,372,000 a aproximadamente 
+S/97,186,000.  
+ 
+(e) LP USA S.A. - 
+Se constituyó en Lima el 2 de agosto de 2013 con la finalidad de realizar toda clase de 
+inversiones y negocios de promoción y desarrollo de negocios inmobiliarios, habilitación urbana, 
+desarrollo de denuncios agrícolas y urbanos, desarrollo y promoción de viviendas unifamiliares y 
+multifamiliares, centros comerciales y empresariales y otras actividades principalmente en los 
+Estados Unidos de Norteamérica. 
+ 
+Con fecha 31 de marzo de 2021, en Junta General de Accionistas se aprobó el pago de 
+dividendos por aproximadamente S/6,055,000 a favor de Los Portales S.A. y la reducción de 
+capital social mediante la entrega a Los Portales S.A. titular de aproximadamente S/14,914,000 
+acciones de parte del valor nominal amortizado, el importe entregado es por aproximadamente 
+S/8,081,000. Después de la reducción propuesta el capital social quedó fijado en 
+aproximadamente S/6,833,000, representando igual número de acciones nominales de S/1 cada 
+una. 
+ 
+Con fecha 23 de noviembre de 2023, en Junta General de Accionistas se aprobó el pago de 
+dividendos por aproximadamente S/1,500,000 a favor de Los Portales S.A. 
+ 
+  
+
+=== PAGINA PDF 28 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+15 
+En Junta General de Accionistas del 27 de noviembre de 2023, se aprobó la reducción de capital 
+social de LP USA S, A mediante la entrega a Los Portales S.A. de S/6,800,000 bajo la modalidad 
+de anulación de acciones, importe que será transferido al accionista Los Portales S.A. La 
+devolución antes mencionada genera una cuenta por pagar a Los Portales S.A. (nota 5.a) con lo 
+cual el capital social inicial de 6,833,000 acciones quedaran reducido en 33,000 acciones. 
+ 
+(f) LP Hoteles S.A. - 
+Se constituyó en Lima el 15 de setiembre de 2020 y se dedica a efectuar inversiones y negocios 
+de promoción y desarrollo hotelero, así como a la prestación de servicios turísticos, hoteleros y 
+de hospedaje y administración de estos. 
+ 
+Con fecha 19 de octubre de 2022, en Junta General de Accionistas se aprobó la reducción del 
+capital social mediante la entrega de 13,071,873 acciones bajo la modalidad de amortización y 
+anulación a la Compañía cuyo valor ascendió a aproximadamente S/13,072,000 y que será 
+compensado con saldos pendientes de pago mantenidos con esta subsidiaria. Después de la 
+reducción propuesta el capital social inicial de aproximadamente S/36,209,000 aportado a LP 
+Hoteles quedó reducido a aproximadamente S/23,037,000. 
+ 
+Con fecha 31 de marzo de 2023, en Junta General de Accionistas se aprobó el pago de 
+dividendos por aproximadamente S/3,500,000 a favor de Los Portales S.A. 
+ 
+Con fecha 13 de noviembre de 2023, en Junta General de Accionistas se aprobó el pago de 
+dividendos por aproximadamente S/2,500,000 a favor de Los Portales S.A. 
+ 
+En Junta General de Accionistas del 11 de julio de 2024, se aprobó la reducción de capital social 
+de LP Hoteles S.A. mediante la entrega a Los Portales S.A. de S/6,300,000 bajo la modalidad de 
+anulación de acciones, importe que fue transferido al accionista Los Portales S.A. quien recibió 
+como única devolución dicho importe, con lo cual el capital social inicial de 23,036,873 acciones 
+quedaron reducido en 16,736,873 acciones. 
+ 
+(g) Consorcio Estacionamiento Gamarra S.A. (CEGASA) - 
+Se constituyó en Lima el 2 de abril de 2013, se dedica a actividades de construcción, operación, 
+administración y explotación de concesiones. Su actividad principal es el desarrollo, 
+construcción, implementación, equipamiento, mantenimiento y explotación de estacionamientos.  
+ 
+Con fecha 13 de octubre del 2013, el contrato con la Municipalidad de La Victoria se suspendió 
+debido principalmente a que está pendiente la aprobación por parte de la Municipalidad de Lima 
+Metropolitana de la ejecución del proyecto en las áreas de la concesión (cuadras 15 y 16 de 
+Bauzate y Meza y Divino Niño) y establezca el lugar para reubicar la Guardería y el PRONOEI que 
+actualmente se encuentra en el Parque Divino Niño. 
+ 
+Con fecha 30 de diciembre del 2021, se registró un deterioro de la inversión en Concesiones 
+Estacionamientos Gamarra por aproximadamente S/631,000, debido a que hasta la fecha, no se 
+ha llegado a un acuerdo con la Municipalidad de la Victoria sobre dicha concesión. 
+
+=== PAGINA PDF 29 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+16 
+En Junta Obligatoria Anual de Accionistas de fecha 27 de diciembre del 2022 se aprobó realizar 
+la compra del 75 por ciento de acciones de CEGASA que figuraban en poder de Los Portales 
+Estacionamientos por un importe aproximado de S/115,000 siendo ahora los Portales S.A. 
+dueño del 100.00 por ciento de este negocio. 
+ 
+(h)       Soluciones Urbanísticas - 
+Se constituyó en Lima el 21 de octubre de 2016, se dedica a actividades de transportes Su 
+actividad principal es el de servicio de grúas y otros afines.  
+ 
+En Junta Obligatoria Anual de Accionistas de fecha 27 de diciembre del 2022 se aprobó realizar 
+la compra del 100 por ciento de acciones de esta empresa que figuraban en poder de Los 
+Portales Estacionamientos Operadora S.A. por un importe aproximado de S/363,000 siendo 
+ahora los Portales S.A. dueño del 100.00 por ciento de este negocio. 
+ 
+Ver notas 27.9 y 27.13 para otras políticas relevantes sobre el rubro inversiones en subsidiarias 
+y deterioro de activos no financieros, respectivamente. 
+
+=== PAGINA PDF 30 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+17 
+9. Propiedades y equipos, neto 
+(a) El movimiento del rubro propiedades y equipos y el de su correspondiente depreciación acumulada, al 31 de diciembre, es el que sigue: 
+ 
+ Terrenos 
+Edificaciones y 
+otras 
+construcciones 
+Mobiliario y 
+ equipos Obras en curso (d) Derechos de uso (h) Total 
+ S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) 
+       
+Costo -       
+Saldos al 1 de enero de 2023  2,883 51,963 28,012 1,547 3,528 87,933 
+Adiciones (b) - - 4,228 5,694 1,470 11,392 
+Transferencias  - 3,276 - (3,276) - - 
+Transferencia de inventarios  109 158 - - - 267 
+Baja de activos – costo (c) - (228) (445) - (2,057) (2,730)  _________ _________ _________ _________ _________ _________ 
+Saldos al 31 de diciembre de 2023  2,992 55,169 31,795 3,965 2,941 96,862 
+Adiciones (b) - - 5,238 5,419 1,795 12,452 
+Transferencias  - 7,257 - (7,257) - - 
+Baja de activos – costo (c) - (3,989) (1,012) - (1,473) (6,474)  _________ _________ _________ _________ _________ _________ 
+Saldos al 31 de diciembre de 2024  2,992 58,437 36,021 2,127 3,263 102,840  _________ _________ _________ _________ _________ _________ 
+       
+Depreciación acumulada -       
+Saldos al 1 de enero de 2023  - 32,388 16,902 - 2,342 51,632 
+Baja de activos – depreciación (c) - (82) (344) - (2,057) (2,483) 
+Depreciación del año (e) - 4,963 3,438 - 1,254 9,655  _________ _________ _________ _________ _________ _________ 
+Saldos al 31 de diciembre de 2023  - 37,269 19,996 - 1,539 58,804 
+Baja de activos – depreciación (c) - (3,758) (881) - (1,473) (6,112) 
+Depreciación del año (e) - 4,128 3,799 - 1,387 9,314  _________ _________ _________ _________ _________ _________ 
+Saldo al 31 de diciembre de 2024  - 37,639 22,914 - 1,453 62,006  _________ _________ _________ _________ _________ _________ 
+       
+Valor neto -       
+Saldo al 31 de diciembre de 2024 2,992 20,798 13,107 2,127 1,810 40,834  _________ _________ _________ _________ _________ _________ 
+Saldo al 31 de diciembre de 2023  2,992 17,900 11,799 3,965 1,402 38,058  _________ _________ _________ _________ _________ _________ 
+ 
+(b) Las adiciones del periodo 2024 corresponden a: i) obras en casetas de ventas y módulos pilotos por aproximadamente S/5,079,000,  ii) compras de equipos diversos por 
+aproximadamente S/3,226,000, iii) activos derecho de uso por S/1,795,000, iv) maquinarias de construcción por S/ 1,179,000, v) desembolsos por adquisiciones de mobiliario y 
+vehículos por aproximadamente S/825,000 y vi) remodelación sede Central por S/ 330,000 y otros por S/18,000. 
+ 
+Las adiciones del periodo 2023 corresponden a: i) obras en casetas de ventas y módulos pilotos por aproximadamente S/5,694,000,  ii) compras de equipos diversos por 
+aproximadamente por S/3,369,000, iii) activos derecho de uso por S/1,470,000 y iv) desembolsos por adquisiciones de mobiliario y vehículos por aproximadamente S/859,000. 
+ 
+
+=== PAGINA PDF 31 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+18 
+(c) Las bajas de activos del periodo 2024 en el rubro corresponden principalmente a: i) cierre de 
+casetas de ventas por aproximadamente S/3,989,000, ii) activos derecho de uso por S/ 
+1,473,000 iii) obsolescencia de equipos diversos por aproximadamente S/589,000, iv) mobiliario 
+por S/129,000 v) baja de luminarias por S/ 160,000 y otros por S/134,000. 
+ 
+Las bajas de activos del periodo 2023 en el rubro corresponden principalmente a: i) cierre de 
+casetas de ventas por aproximadamente S/228,000, ii) obsolescencia de equipos diversos por 
+aproximadamente S/339,000, iii) Vehículo por S/93,000, iv) mobiliario por S/13,000 y vi) bajas 
+derechos de uso por S/2,057,000. 
+ 
+(d) Al 31 de diciembre de 2024 y de 2023, el saldo de las obras en curso comprende principalmente 
+a los costos de remodelación de casetas de ventas. A la culminación de las obras en curso su 
+saldo se transfiere a la cuenta contable definitiva del activo correspondiente. 
+ 
+(e) Activos adquiridos bajo la modalidad de arrendamiento financiero - 
+Al 31 de diciembre de 2024 y de 2023, el saldo en libros de los activos adquiridos a través de 
+arrendamiento financiero comprende: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Mobiliario y equipos 7,015 6,001 
+Depreciación acumulada (2,593) (1,773)  __________ __________ 
+ 4,422 4,228  __________ __________ 
+ 
+(f) El gasto de depreciación del ejercicio ha sido registrado en los siguientes rubros del estado 
+separado de resultados integrales: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Costo de ventas, nota 17 1,435 1,513 
+Gastos de ventas, nota 18 4,369 4,923 
+Gastos de administración, nota 19  3,510 3,219  __________ __________ 
+ 9,314 9,655  __________ __________ 
+ 
+Ver nota 27.11 para otras políticas relevantes sobre el rubro propiedades y equipos.  
+
+=== PAGINA PDF 32 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+19 
+(g) Arrendamientos - 
+Al 31 de diciembre de 2024 y de 2023, la Compañía mantiene contratos a largo plazo de 
+arrendamiento con tarifas fijas, vigentes desde marzo de 2019 hasta el 2030, por el alquiler de, 
+casetas de ventas y otros, ubicadas en la ciudad de Lima y provincias. Dichos contratos 
+establecen tarifas fijadas en soles y dólares estadounidenses y tienen un plazo promedio de 10 
+años, pero pueden tener opciones de extensión de plazo. 
+ 
+Los términos de arrendamiento se negocian sobre una base individual y contienen una amplia 
+gama de términos y condiciones diferentes. Los contratos de arrendamiento no imponen ningún 
+compromiso de cumplimiento financiero o de otra naturaleza, aparte de la garantía en los activos 
+arrendados que son mantenidos por el arrendador. Los activos arrendados no pueden utilizarse 
+como garantía para fines de préstamo. 
+ 
+Importes reconocidos en el estado separado de situación financiera - 
+El estado separado de situación financiera muestra los siguientes importes relacionados con 
+arrendamientos: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Activo por derecho en uso:   
+Edificios, neto 1,811 1,402  __________ __________ 
+   
+Obligaciones por arrendamientos:    
+Corriente 944 869 
+No corriente 926 590  __________ __________ 
+ 1,870 1,459  __________ __________ 
+ 
+Importes reconocidos en el estado separado de resultados integrales - 
+Al 31 de diciembre de 2024 y de 2023, el gasto de depreciación de activos por derecho de uso 
+registrado dentro del estado separado de resultados integrales fue el siguiente: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Depreciación de activos por derecho de uso:    
+Edificios 1,387 1,254  __________ __________ 
+ 
+  
+
+=== PAGINA PDF 33 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+20 
+La conciliación de las obligaciones por arrendamientos y los flujos de efectivo de las actividades 
+de financiamiento es la siguiente: 
+ 
+ 2024 2023 
+ S/(000) S/(000) 
+   
+Saldo inicial 1,459 1,313 
+Adiciones 1,811 456 
+Pagos de capital (1,512) (1,411) 
+   
+Transacciones que no representaron flujos de efectivo:    
+Intereses devengados, nota 22  151 114 
+Baja de arrendamientos (15) - 
+Ampliaciones de contratos (36) 1,014 
+Diferencia en cambio 12 (27)  __________ __________ 
+Saldo final 1,870 1,459  __________ __________ 
+ 
+Ver nota 27.17 para otras políticas relevantes sobre el rubro arrendamientos. 
+ 
+10. Propiedades de inversión 
+(a) El movimiento y saldos de las propiedades de inversión por los años que terminan el 31 de 
+diciembre se presenta a continuación: 
+ 
+ 
+Reserva 
+territorial (b) 
+Edificio 
+corporativo y 
+Hoteles (c) Total 
+ S/(000) S/(000) S/(000) 
+    
+Año 2024    
+Saldo inicial del año 236,030 56,455 292,485 
+Compras 110,164 2,523 112,687 
+Transferencia a inventarios (d) y nota 7(b)  (158,891) - (158,891) 
+Transferencia desde inventarios (e) y nota 7(b)  2,023 - 2,023 
+Costos de habilitación 3,182 - 3,182 
+Otras bajas (f) (1,457)  (1,457) 
+Cambios en el valor razonable (494) 129 (365)  ____________ ____________ ____________ 
+Saldo final del año 190,557 59,107 249,664  ____________ ____________ ____________ 
+  
+
+=== PAGINA PDF 34 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+21 
+ 
+Reserva 
+territorial (b) 
+Edificio 
+corporativo y 
+Hoteles (c) Total 
+ S/(000) S/(000) S/(000) 
+    
+Año 2023    
+Saldo inicial del año 268,883 56,378 325,261 
+Compras 128,110 - 128,110 
+Transferencia a inventarios (d) y nota 7(b)  (166,886) - (166,886) 
+Transferencia desde inventarios (e) y nota 7(b)  289 - 289 
+Costos de habilitación 4,862 - 4,862 
+Cambios en el valor razonable 772 77 849  ____________ ____________ ____________ 
+Saldo final del año 236,030 56,455 292,485  ____________ ____________ ____________ 
+ 
+(b) Reserva territorial – 
+Este rubro corresponde a inmuebles adquiridos por la Compañía como reserva territorial sobre 
+los cuales a la fecha de los estados financieros separados no se tienen definidas fechas de inicio 
+del desarrollo de proyectos inmobiliarios. Al 31 de diciembre de 2024 y de 2023, estos terrenos 
+constituyen una reserva de aproximadamente 223.8 hectáreas (aproximadamente 237.4 en 
+2023) y están ubicados en diversos distritos de Lima, así como en las provincias de Piura, 
+Chiclayo, Ica, Huancayo, Puno y Lima. 
+ 
+Al 31 de diciembre de 2024  los pasivos por la compra de terrenos ascienden a aproximadamente 
+S/101,705,000 (aproximadamente S/143,556,000 al 31 de diciembre de 2023), los cuales se 
+encuentran registrados en el rubro “Cuentas por pagar comerciales” del estado separado de 
+situación financiera, nota 13. 
+ 
+(c) Edificio corporativo Hoteles y Departamentos - 
+Incluye la parte correspondiente a la sede corporativa ubicada en el distrito de Magdalena del 
+Mar otorgado por la Compañía para el alquiler a terceros. A la fecha se alquilan para ser utilizado 
+como oficinas administrativas y estacionamientos con un área total de 890 m2, con rentas fijas 
+según los espacios ocupados. 
+ 
+No existe ningún acuerdo de compra sobre la propiedad alquilada y se mantiene una garantía 
+equivalente a dos meses de renta inicial, el cual no genera intereses a favor de los arrendatarios 
+y será devuelto al finalizar el contrato. La Compañía incluye en los contratos cláusulas de gestión 
+de riesgos, tales como, la exigencia de contratación de pólizas de seguros contra todo riesgo 
+sobre las edificaciones arrendadas y sus activos. 
+ 
+A partir del 1 diciembre del 2020, se alquilaron los Hoteles Tarma y Piura a la subsidiaria LP 
+Hoteles S.A. con tarifas fijas por un periodo de 10 años con posibilidad de renovación 
+automática.  Para el periodo 2023 se ha generado una adenda en la cual se incluye una tarifa 
+variable entre 10 y 13 por ciento de los ingresos netos la cual será cobrada siempre que superen 
+a la tarifa fija. 
+
+=== PAGINA PDF 35 ===
+Notas a los estados financieros separados (continuación)  
+ 
+ 
+ 
+22 
+Con fecha 3 de mayo de 2024 Los Portales S.A. adquirió 5 departamentos de su subsidiaria Los 
+Portales Departamentos S.A.C. ubicados en Av. Mariscal la Mar Nro. 846 Distrito de Miraflores, 
+Departamento de Lima.  Los mismos que han sido alquilados a un tercero por un plazo de 3 
+meses y con renovaciones de mutuo acuerdo, con tarifas fijas y variables. 
+ 
+Al 31 de diciembre de 2024 y de 2023, los ingresos y costos generados por servicio de alquiler 
+del Edificio Corporativo, departamentos y los hoteles ascendieron a aproximadamente 
+S/2,561,000 y S/763,000, respectivamente (ingresos y costos generados por aproximadamente 
+S/1,883,000 y S/672,000, respectivamente, en 2023), nota 2.2. 
+ 
+(d) Transferencias a inventarios - 
+Las transferencias a inventarios se realizan debido al inicio del desarrollo de proyectos 
+inmobiliarios. 
+ 
+(e) Transferencias desde inventarios - 
+Las transferencias desde inventarios a propiedades de inversión se realizan principalmente por 
+un cambio de uso de propiedad (macrolotes sin planes de desarrollo y venta en el corto plazo, así 
+como lotes en litigio) y se transfieren al valor razonable. Esto debido a la estrategia comercial 
+que tiene la Compañía en relación con futuros negocios.  
+ 
+Al 31 de diciembre de 2024 se transfirieron 1 terreno de macrolotes comercial cuyo valor 
+razonable asciende a aproximadamente S/1,619,000 y 4 lotes en litigio cuyo valor razonable 
+asciende a aproximadamente S/404,000. 
+ 
+Al 31 de diciembre del 2023 se transfirieron 6 lotes en litigios cuyo valor razonable asciende a 
+aproximadamente S/289,000. 
+ 
+(f) Otras bajas 
+Con fecha 15 de noviembre de 2024 se realiza la donación de 2 terrenos a la Municipalidad 
+Distrital de Paracas, por S/1,486,000 aproximadamente, para la Ejecución de Obras de 
+Infraestructura para la Rehabilitación y Mejoramiento del sistema de Agua Potable en el distrito 
+de Paracas, con la finalidad de beneficiar a la comunidad de los proyectos desarrollados en dicha 
+zona. 
+ 
+(g) Al 31 de diciembre de 2024 y de 2023, los cobros mínimos por arrendamientos de propiedades 
+de inversión son los siguientes: 
+ 
+ 2024 2023 
+ S/(000) S/(000)    
+Hasta 1 año 2,561 1,883 
+Mayor de 1 año y hasta 3 año  5,934 5,649 
+Mayor de 3 años y hasta 6 años  7,200 6,778  __________ __________    
+ 15,695 14,310  __________ __________ 
+ 

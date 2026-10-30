@@ -1,0 +1,1894 @@
+
+=== PAGINA PDF 1 ===
+204
+MEMORIA
+INTEGRADA
+2024204
+ANEXOS
+5
+CAPÍTULO
+
+=== PAGINA PDF 2 ===
+205
+MEMORIA
+INTEGRADA
+2024
+5.1. Cómo leer este reporte
+ .(GRI 2-2, 2-3, 2-4, 2-5, 2-14)  
+En este documento presentamos los resultados y las actividades de Corporación Aceros Are-
+quipa SAC correspondientes al periodo comprendido entre el 1 de enero y el 31 de diciembre 
+del 2024. Este informe ha sido elaborado en conformidad con los Estándares del Global Re-
+porting Initiative (GRI). Asimismo, incluye indicadores de la guía del Sustainability Accounting 
+Standards Board (SASB) para empresas del sector industrial de producción de hierro y acero, y 
+métricas del Dow Jones Sustainability Index (DJSI), que evalúan nuestro nivel de compromiso 
+con la sostenibilidad. También cumplimos con los lineamientos establecidos por la Superin-
+tendencia de Mercado de Valores (SMV).
+Adicionalmente, reafirmamos nuestro compromiso con el Pacto Global de las Naciones Uni-
+das (UNGC) y la contribución al logro de los Objetivos de Desarrollo Sostenible (ODS).
+La ejecución de este reporte fue realizada y supervisada por el área de Responsabilidad Social, 
+con la supervisión y aprobación del Comité de Sostenibilidad y el directorio. Para garantizar la 
+transparencia y confiabilidad de la información, el reporte cuenta con una verificación exter-
+na realizada por SCG, cuya carta de verificación se encuentra al final de este documento. 
+El alcance de los indicadores económicos, 
+sociales y ambientales presentados abarca 
+el 100 % de nuestra producción y considera 
+todas nuestras operaciones en las siguientes 
+localidades:
+1. Lima
+2. Callao
+3. Pisco 
+4. Trujillo
+5. Arequipa 
+6. Piura 
+7. Lurín 
+
+
+=== PAGINA PDF 3 ===
+206
+MEMORIA
+INTEGRADA
+2024
+206
+5.2. Información general
+DATOS GENERALES DE LA ENTIDAD EMISORA 
+Corporación Aceros Arequipa SA fue cons -
+tituida por escritura pública extendida el 31 
+de diciembre de 1997 ante el notario públi-
+co Carlos Gómez de la Torre R., en mérito a 
+la fusión entre Aceros Arequipa SA y Aceros 
+Calibrados SA, las que se disolvieron sin li-
+quidarse para formar la nueva compañía. Por 
+su parte, Aceros Arequipa SA se había consti-
+tuido por escritura pública extendida el 13 de 
+mayo de 1964 ante el notario público Ricardo 
+Samanamud. La Sociedad quedó inscrita en 
+el asiento 01, rubro A de la ficha 10456, ahora 
+Partida Electrónica N.° 11010518, del Registro 
+de Personas Jurídicas de Arequipa.
+En el 2015, se aprobó una modificación de es-
+tatutos, para variar el domicilio social, y se ins-
+cribió en la Partida Electrónica N.° 70627037 
+del Registro de Personas Jurídicas del Callao. 
+En el 2019, se aprobó una nueva modificación 
+del estatuto social, para modificar el domici-
+lio social del Callao a Lima. El cambio se ins -
+cribió en la Partida Electrónica N.º 15202705 
+del Registro de Personas Jurídicas de Lima. El 
+plazo de duración es indefinido.
+En virtud de la modificación del objeto so-
+cial realizada en el 2022, constituye el objeto 
+principal de la Sociedad la siderurgia, enten-
+dida como la producción de acero para ela-
+borar y vender palanquilla, barras, perfiles y 
+alambrones, en diferentes formas y calida-
+des. Asimismo, constituyen otras actividades 
+del objeto social dedicarse a la venta de pro-
+ductos para la construcción y la industria en 
+general (metalmecánico, minería, pesquería, 
+agroindustria, etc.), así como la importación 
+y exportación de insumos y materia prima, 
+relacionados a los bienes y productos antes 
+mencionados. También podrá realizar petito-
+rios mineros y actividades de cateo, prospec-
+ción, exploración, explotación, y demás pro-
+pias de la actividad minera.
+La Sociedad se dedica también a la transfe-
+rencia, bajo cualquier modalidad, de tecno-
+logía adquirida o desarrollada por ella; la ac -
+tividad de depósito autorizado de aduanas, 
+y la realización de actividades eléctricas de 
+transmisión y generación. Adicionalmente, la 
+modificación al objeto social realizada en el 
+2022 considera el almacenamiento de hidro-
+carburos y combustibles para uso interno y 
+la realización de actividades de venta de re-
+siduos sólidos, así como las actividades agrí-
+colas en general.
+El giro principal corresponde al código de ac-
+tividad económica N.° 2410, según la Clasifi-
+cación Industrial Internacional Uniforme de 
+las Naciones Unidas.
+En cuanto a la relación con el Estado, se debe 
+precisar que la Sociedad no se encuentra fa-
+vorecida por tratamientos tributarios espe-
+ciales, exoneraciones u otros beneficios.
+La Sociedad cuenta, entre sus principales loca-
+ciones, las siguientes: (GRI 2-1, 2-2) 
+• Las oficinas administrativas y de gerencia 
+se ubican en Av. Antonio Miró Quesada N.° 
+425, piso 17, Magdalena del Mar.
+• La planta industrial se ubica en la Paname-
+ricana Sur km 241, distrito de Paracas, pro-
+vincia de Pisco, departamento de Ica.
+• Los almacenes de productos terminados y 
+la planta de tubos se encuentran en la Av. 
+Enrique Meiggs N.° 329, Callao, Telf. (51) (1) 
+517-1800.
+• Centro de distribución en Lurín: CA. s/n Al-
+monte UC11258. Predio 0057972 Zona A 
+-Pampas de Lurín.
+Operado por terceros: 
+• El centro de distribución de Arequipa se en-
+cuentra en la Variante de Uchumayo km 5.5, 
+Cerro Colorado, Arequipa.
+• El centro de distribución de Trujillo se ubica 
+en Av. Túpac Amaru 1620. El patio de acopio 
+se encuentra en la esquina de la calle 3 con 
+la Av. 2; manzana B-1, lotes 06, 07, 08, 09, 11, 
+12, sublote B, urbanización Parque Industrial, 
+distrito La Esperanza, provincia de Trujillo, 
+departamento de La Libertad.
+• El centro de distribución de Piura se ubica en 
+carretera Piura Paita s/n lote A5, sector Cos-
+comba, distrito Veintiséis de Octubre.
+• El patio de acopio de Huachipa se ubica en 
+Parcela N.° 63 - Parcelación Cajamarquilla 
+1.ra etapa, distrito de Lurigancho – Chosica.
+• El patio de acopio de Oquendo se ubica en el 
+cruce de la calle B y calle 10 - Urbanización 
+Victoria.
+
+=== PAGINA PDF 4 ===
+207
+MEMORIA
+INTEGRADA
+2024
+3 13 8 4 2 1 12 711
+9
+10 6 5
+5.3. Administración
+
+=== PAGINA PDF 5 ===
+208
+MEMORIA
+INTEGRADA
+2024
+Nombre Tipo
+1 Sr. Ricardo Cillóniz Champín Presidente Ejecutivo20
+2 Sr. Tulio Silgado Consiglieri Gerente General 
+3 Sr. Augusto Cornejo Cañedo Gerente de Central de Producción
+4 Sra. Mariana Talavera Rubina Gerente de Cadena de Suministro
+5 Sr. Diego Arróspide Benavides Gerente de Compras Estratégicas
+6 Sr. Ricardo Guzmán Valenzuela Gerente de Administración y Finanzas
+7 Sr. Gonzalo Arróspide del Busto Gerente Comercial
+8 Sr. Juan Manuel Otoya Wherrems Gerente de Gestión Humana
+9 Sr. Rafael Cáceres Gallegos Gerente de Informática
+10 Sr. Fernando Bustamante Cillóniz Gerente de Control Estratégico de Gestión 
+11 Sr. Ricardo Cillóniz Rey Gerente de Proyectos, Minería, Responsabilidad Social e Innovación
+12 Sra. Mariana Olivares Maldonado Gerente de Asuntos Legales
+13 Sr. Humberto Barragán Herrera Gerente de Auditoría Interna
+→ TABLA 24
+PLANA 
+GERENCIAL
+(GRI 2-11) 
+SR. RICARDO CILLÓNIZ CHAMPÍN
+De profesión ingeniero civil y con una maestría en Administración de 
+Empresas de Michigan State University. Ocupó el cargo de Director 
+Gerente desde marzo de 1988 en Corporación Aceros Arequipa S.A. 
+y a partir del 1 de enero de 2007 asume la Presidencia Ejecutiva. Es 
+director de varias empresas entre las que se encuentra Compañía 
+Eléctrica El Platanal S.A. (Celepsa). Fue director de Rímac Seguros y 
+Reaseguros desde 1979 hasta el 2023.
+SR. TULIO SILGADO CONSIGLIERI 
+De profesión ingeniero agrónomo de la Universidad Nacional Agra-
+ria, con estudios en Kellogg School of Management, entre otros; 
+ocupa el cargo de gerente general desde enero del 2015. Anterior -
+mente, fue director y gerente general en Cerámica San Lorenzo des-
+de 1994 hasta el 2015.  Fue director en Cerámicas Cordillera Chile y 
+en Cerámica San Lorenzo Colombia. Asimismo, se desempeñó como 
+gerente de Ventas para Centroamérica y el Caribe de ICI (Imperial 
+Chemical Industries), gerente general de ICI Dominicana y gerente 
+de Agroquímico de ICI Perú de 1987 a 1994.  Actualmente, es direc-
+tor de las empresas Fundo Buenos Aires Quilmana SAC, Fábrica Pe-
+ruana Eternit y Tecnofil.
+20 El Reglamento del Directorio establece como única excepción que el presidente ejecutivo puede desempeñarse como Presidente del Directorio. El Reglamento también 
+establece que en caso de riesgo de conflicto de interés el director en cuestión debe notificar al Directorio para que se evalúe su abstención en dicha materia.
+1
+2
+
+=== PAGINA PDF 6 ===
+209
+MEMORIA
+INTEGRADA
+2024
+SR. AUGUSTO CORNEJO CAÑEDO
+De profesión ingeniero mecánico electricista, máster en Administración, con men-
+ción en Gestión Empresarial, y doctor en Ciencias Empresariales de la Universidad 
+San Luis Gonzaga de Ica, ocupa el cargo de gerente central de Producción desde 
+enero del 2016. Anteriormente, se desempeñó como gerente de Laminación y Plan-
+tas Acabadoras y superintendente de Laminación.
+SRA. MARIANA TALAVERA RUBINA
+De profesión ingeniera en Gestión Empresarial de la Universidad Nacional Agraria 
+La Molina, ocupa el cargo de gerente de Cadena de Suministro desde junio del 2018. 
+Anteriormente, ocupó puestos de gerencia local en áreas de Compras y Supply Chain 
+en empresas como Kimberly-Clark, Intralot del Perú y ABInbev, así como el puesto 
+de Gerencia Regional de Compras en la empresa Kimberly-Clark.
+SR. DIEGO ARRÓSPIDE BENAVIDES 
+De profesión ingeniero industrial de la Universidad de Lima y magíster en Gestión 
+de Operaciones de la UPC.  Ocupa el cargo de gerente de Compras Estratégicas des-
+de julio del 2017. Anteriormente, ocupó puestos gerenciales en áreas de compras 
+y logística en empresas como Engie Energía Perú, Peruana de Combustibles, BBVA 
+Continental y British American Tobacco.
+SR. RICARDO GUZMÁN VALENZUELA
+De profesión administrador de empresas, con concentración en finanzas en The Uni-
+versity of Texas at Austin, con un MBA en The University of Chicago Booth School of 
+Business.  Ha sido gerente de Finanzas Corporativas de Corporación Aceros Arequi-
+4
+5
+6
+7
+8
+9
+pa SA desde julio del 2011 y ocupa el cargo de gerente de Administración y Finanzas 
+desde abril del 2017.  Previamente, fue executive director en Corporate and Invest-
+ment Banking en BBVA y responsable de fusiones y adquisiciones para el Perú. An-
+teriormente, estuvo trabajando en Finanzas Corporativas para diversas entidades 
+financieras.
+SR. GONZALO ARRÓSPIDE DEL BUSTO
+De profesión administrador de empresas, con posgrados en ESAN y North Western 
+University USA, ocupa el cargo de gerente comercial desde diciembre de 1998. An-
+teriormente, laboró en Cerámica Lima SA, donde desempeñó el cargo de gerente 
+comercial.
+SR. JUAN MANUEL OTOYA WHERREMS 
+De profesión abogado de la Pontificia Universidad Católica y MBA de Maastricht 
+School of Management, con estudios de especialización en Administración de Re-
+cursos Humanos en ESAN, Alta Dirección en ESADE y Coaching Ejecutivo en Incae, 
+ocupa el cargo de gerente de Gestión Humana desde agosto del 2020. Anterior -
+mente, se desempeñó como gerente de Gestión Humana en Unique de Yanbal In-
+ternational, director de Recursos Humanos en el Grupo Codere en el Perú, Colombia 
+y Argentina, y como gerente de Recursos Humanos en ORUS SA del Grupo Romero.
+SR. RAFAEL CÁCERES GALLEGOS 
+De profesión ingeniero electrónico, ocupa el cargo de gerente de Informática desde 
+setiembre de 1999. Anteriormente, se desempeñó como gerente de @Phone S.A.  
+Hasta 1998 trabajó como gerente de operaciones de Americatel Perú SA.
+3
+
+=== PAGINA PDF 7 ===
+210
+MEMORIA
+INTEGRADA
+2024
+SR. FERNANDO BUSTAMANTE CILLÓNIZ 
+De profesión ingeniero mecánico de Boston University, con un MBA de la Universi-
+dad de Piura. Ocupa el cargo de gerente de Control Estratégico de Gestión desde el 
+2010.  Anteriormente, se desempeñó como consultor interno, jefe de Marketing de 
+la Línea de Perfiles, coordinador corporativo de TQM y como jefe de PCI y Almacén 
+de Suministros.  Actualmente, también es director de Fundo San Fernando. 
+SR. RICARDO CILLÓNIZ REY
+De profesión ingeniero industrial de la Universidad de Lima, con un MBA en Kellogg 
+School of Management y una maestría en Ingeniería en McCormick School of Engi-
+neering.  Ocupa el cargo de gerente de Proyectos, Minería,  Responsabilidad Social e 
+Innovación desde noviembre del 2010.  Anteriormente, desde el 2005 hasta el 2010, 
+se desempeñó como gerente de Consultoría en Bain and Company, Reino Unido.   
+Además, ocupó cargos en Deutsche Bank – Londres y South Pacific Business Deve-
+lopment. Actualmente, también es director en Agroindustrias AIB SA y en Consorcio 
+Industrial de Arequipa SA.
+SRA. MARIANA OLIVARES
+De profesión abogada de la Universidad de Lima con estudios en el Institute for US 
+Law de George Washington University. Ocupa el cargo de gerente de Asuntos Le-
+gales desde junio del 2023. Anteriormente, se desempeñó como directora Legal y 
+Grado de vinculación por afinidad o consanguinidad entre Directores y plana gerencial:
+1. Reneé Cillóniz de Bustamante y Ricardo Bustamante Cillóniz tienen vinculación por consanguinidad en primer grado.
+2. Ricardo Cillóniz Champín y Ricardo Cillóniz Rey tienen vinculación por consanguinidad en primer grado.
+3. Ricardo Cillóniz Champín y Reneé Cillóniz de Bustamante tienen vinculación por consanguinidad en segundo grado.
+4. Ricardo Bustamante Cillóniz y Fernando Bustamante Cillóniz tienen vinculación por consanguinidad en segundo grado.
+5. Ricardo Cillóniz Champín y Ricardo Bustamante Cillóniz tienen vinculación por consanguinidad en tercer grado.
+11
+13
+12
+10
+Asuntos Corporativos en Sodexo Perú, gerente general de la Asociación Sodexo por 
+el Desarrollo Sostenible, Asociada en Munizlaw.
+SR. HUMBERTO BARRAGÁN HERRERA
+Es contador público colegiado de la Pontificia Universidad Católica del Perú (PUCP).  
+Cuenta con un postítulo en Auditoría Interna, Control de Gestión y Gestión de Ca-
+lidad otorgado por la Universidad de Lima, además de un postítulo en Finanzas y 
+Normas Internacionales de Contabilidad otorgado por la Universidad ESAN.  Fue 
+auditor financiero externo en la firma KPMG, auditor interno en Aliaxis Latinoamé-
+rica (grupo dedicado a la industria de tuberías, accesorios, válvulas plásticas y pro-
+ductos relacionados a la construcción residencial, comercial e industrial), con sede 
+en Costa Rica; auditor interno en la empresa de construcción de infraestructura vial 
+en el Perú del Grupo H&H del Ecuador, y auditor interno de empresas de Transporte 
+de Energía Eléctrica en el Perú del Grupo Empresarial ISA de Colombia. Fue docen-
+te a tiempo parcial de la Facultad de Ciencias Contables de la PUCP.  Es gerente de 
+Auditoría Interna desde diciembre del 2013.
+
+=== PAGINA PDF 8 ===
+211
+MEMORIA
+INTEGRADA
+2024
+5.4. Información Económico-Financiera
+26 noviembre de 2024 por US$ 7'553,000.00 (equivalentes a S/28'519,000.00). El importe 
+remanente ascendente a S/ 28'926,000.00, que será pagado en US$ al tipo de cambio de 
+cierre del día anterior a la Junta General de Accionistas, se aplica tanto a las acciones co-
+munes como a las de inversión de libre circulación que totalizan 1,073'265,820 acciones, 
+que resulta un dividendo por acción equivalente a S/ 0.026951, que será pagado en US$. 
+La utilidad de Libre Disposición será canalizada hacia la cuenta Resultados Acumulados.
+Las fechas de registro y de entrega propuestas son las siguientes:
+Con la aprobación del dividendo propuesto, los resultados acumulados y el patrimonio, en 
+miles de soles, quedarían como sigue:
+APLICACIÓN DE RESULTADOS DEL EJERCICIO 
+Luego de aplicar las normas internacionales de Información Financiera (NIIF), el resultado au-
+ditado del ejercicio 2024, en miles de nuevos soles, fue el siguiente:
+Según dispone la Ley General de Sociedades, se requiere que un mínimo del 10 % de la utilidad 
+distribuible de cada ejercicio se transfiera a una reserva legal hasta que ésta sea igual al 20 % del 
+capital social. Durante el 2018 se cubrió el porcentaje exigido por lo que no corresponde detraerla.
+El capital social al 31 de diciembre del 2024 ascendió a S/ 890'858,308, representado por 
+890'858,308 acciones de un valor nominal de S/ 1.00.  A esa misma fecha la cuenta acciones de 
+Inversión fue de S/ 182'407,512 representada por 182'407,512 acciones de S/ 1.00 de valor nominal.
+El Directorio propone entregar un dividendo en efectivo de S/ 78'597,000.00, con cargo 
+a resultados acumulados de ejercicios anteriores, importe al que habrá que detraer el di-
+videndo en efectivo aprobado el 23 de julio de 2024, correspondiente a adelanto de divi-
+dendos del ejercicio 2024 y entregado el 15 agosto de 2024, por US$ 5'629,000.00 (equi-
+valente a S/ 21'152,000.00), así como el aprobado el 31 de octubre de 2024 y entregado el 
+Fecha de registro: 15.04.2025
+Fecha de entrega:     21.04.2025
+Capital social S/ 890,858
+Acciones de inversión S/ 182,407
+Reserva legal S/ 178,927
+Excedente de revaluación S/ 183,447
+Resultados acumulados S/ 1,356,549
+Total patrimonio S/ 2,792,189
+→ TABLA 26
+RESULTADOS 
+ACUMULADOS Y  
+PATRIMONIO
+Utilidad neta del ejercicio S/ 196,493
+(-) Reserva legal S/ 0
+Utilidad de libre disposición S/ 196,493
+→ TABLA 25
+RESULTADO 
+AUDITADO DEL 
+EJERCICIO 2024
+
+=== PAGINA PDF 9 ===
+212
+MEMORIA
+INTEGRADA
+2024
+ACTIVOS DISPONIBLES PARA LA VENTA 
+Para el 2025, se mantendrán en venta diver -
+sos inmuebles, entre los que se encuentran 
+un terreno de 85,000 m2 en Pisco, un terre-
+no de 801 m2 en Paracas y dos terrenos que 
+suman 60,000 m2 en Arequipa entre otros. 
+Adicionalmente, según acuerdo de Directo-
+rio de enero del 2018, se compró un terreno 
+en Lurín, con la finalidad de mudar el almacén 
+principal que la Compañía mantiene en el Ca-
+llao, poniéndose a la venta más adelante al -
+rededor de 43,000 m2 adicionales. 
+  
+PERSPECTIVAS
+Para el 2025 esperamos mejorar los resul -
+tados basados en mayores márgenes de los 
+productos largos y no largos.
+Desde el punto de vista de mercados, para el 
+2025, se espera un mayor volumen de ventas 
+a los distintos mercados que atendemos re-
+currentemente. Sin embargo, nos mantene-
+mos cautos sobre el desempeño económico 
+que pueda tener Bolivia, dada la escasez de 
+dólares americanos, el constante incremen-
+to en las comisiones para transferir fondos 
+al exterior, así como los posibles efectos que 
+podría tener el periodo electoral y las elec -
+ciones del 2025. De la misma manera, Ecua-
+dor enfrenta elecciones presidenciales, que 
+también podrían afectar la demanda y la ven-
+ta de productos. En el caso de la exportación 
+a mercados no recurrentes, se mantendrá la 
+política de exportar cuando sea conveniente 
+económicamente. Desde el punto de vista de 
+categorías de productos, esperamos que las 
+barras para bolas de minería tengan una ma-
+yor participación en nuestro portafolio.
+En cuanto a los precios internacionales de la 
+materia prima, esperamos que se mantengan 
+relativamente estables durante el 2025.
+Durante el 2025, se mantendrá el enfoque 
+en generación de valor económico a través 
+de la ejecución de proyectos de mejoras en 
+la productividad, capacidad y aseguramien-
+to del abastecimiento, todo ello enmarca-
+do en sus objetivos centrales de seguridad 
+y salud de sus trabajadores, la automatiza-
+ción de procesos e innovación, el cuidado 
+del medioambiente, la generación de valor 
+compartido para la sociedad, la mejora con-
+tinua en la calidad de nuestros productos y 
+procesos.
+El 2025 finalizará el ciclo de grandes inver -
+siones y se enfocará en ejecutar y rentabilizar 
+PARA EL 2025, 
+SE ESPERA UN 
+MAYOR VOLUMEN 
+DE VENTAS A 
+LOS DISTINTOS 
+MERCADOS QUE 
+ATENDEMOS 
+RECURRENTEMENTE
+lo invertido. Consecuentemente, pasaríamos 
+a un proceso gradual de desapalancamiento 
+(financiamientos de largo plazo) hasta el si-
+guiente ciclo de grandes inversiones.  No obs-
+tante, se mantendrá la política de evaluación 
+continua de oportunidades de inversión en 
+integración vertical y horizontal para crecer y 
+optimizar los procesos.
+Dentro de las inversiones programadas para 
+el 2025 se encuentran:
+• Aumento de la capacidad y otras mejoras 
+en la Acería N.°2.
+• Maquina de limpieza de chatarra.
+• Finalización de inversión del tren N.°3, en-
+tre otras.
+Durante el 2025 la Compañía seguirá opti-
+mizando su capital de trabajo y portafolio 
+de productos; diversificando regionalmente 
+ventas a través de nuestras subsidiarias; se-
+guirá incrementando su presencia en el sec -
+tor minero a través de mayores ventas de 
+barras para bolas, mantendrá la venta de sub-
+productos y a su vez buscando monetizar ac-
+tivos no productivos.  Asimismo, seguiremos 
+con las mejoras en sostenibilidad corporativa 
+para atender mejor a todos nuestros grupos 
+de interés.
+
+=== PAGINA PDF 10 ===
+213
+MEMORIA
+INTEGRADA
+2024
+En cuanto a la perspectiva de nuestras subsi-
+diarias:
+• Aceros America Corporation (Estados Uni-
+dos de Norteamérica): durante el 2025, a 
+través de sus subsidiarias Aceros America 
+Port Manatee LLC y Aceros America St. Pete 
+LLC, se espera una mayor exportación de 
+chatarra ferrosa y chatarra no ferrosa ver-
+sus lo ejecutado en el 2024. El incremen-
+to del volumen estará sustentado por una 
+mayor captación de chatarra e inversiones 
+en maquinaria para optimizar el recupe-
+ro de subproductos. Vale indicar que dicha 
+inversión, además de obtener nuevos sub-
+productos que antes no se vendían, permi-
+tirá reducir costos y riesgos operativos.
+• Aceros Arequipa S.A.S. (Colombia): se pro-
+yecta un mayor volumen de venta en el 
+2025 versus el 2024 y consecuentemen-
+te se esperan mayores ventas que el año 
+pasado, apalancado por el crecimiento de 
+planos, vigas, alambres y clavos.  Por otro 
+lado, vamos a estar cautos debido a la in-
+certidumbre de las inversiones públicas y 
+reformas del Gobierno Colombiano.
+• Corporación Aceros Arequipa AA S.A.S. 
+(Ecuador): Se espera mayor volumen ven-
+dido el 2025 versus el 2024, así como una 
+mejora en los márgenes debido a optimi-
+zación del portafolio. Pero nos mantene-
+mos cautos por el efecto que podría tener 
+las elecciones presidenciales del 2025 en el 
+panorama económico de Ecuador.
+• Corporación Aceros Arequipa S.R.L (Boli-
+via): El 2025 se espera sea un año retador 
+para la economía boliviana por la escasez 
+de dólares americanos, la subida de las co-
+misiones para las transferencias al exterior 
+que afecta a empresas importadoras como 
+la nuestra en dicho país y la incertidumbre 
+que pueda generar las elecciones presiden-
+ciales. En cuanto a producto terminado, 
+el ingreso de un nuevo competidor podría 
+afectar los volúmenes de venta de barras 
+de construcción, sin embargo, esperamos 
+consolidarnos en otras líneas como perfi-
+les conformados, tubos y planos. A pesar 
+del escenario retador, esperamos mejoras 
+en ventas y utilidades para el 2025.  
+• Aceros Arequipa SPA (Chile): En el 2025 se 
+espera un incremento importante en las 
+ventas versus el 2024 debido a una mayor 
+captación de chatarra, lo que se traduciría 
+en mejores márgenes junto con menores 
+gastos financieros.
+• Tecnología y Soluciones Constructivas 
+(Perú): incrementará sus operaciones du-
+rante el 2025 versus el 2024, en línea con 
+el crecimiento de la Compañía y proyectos 
+que viene adjudicando.
+• Transportes Barcino (Perú): Durante el 
+2025, las ventas se incrementarán como 
+consecuencia de un mayor volumen de 
+materia transportada y a su vez mantendrá 
+su enfoque en mejora de procesos, brin-
+dar servicio especializado y sostenible a la 
+Compañía.
+Sin embargo, estas opiniones o proyecciones 
+podrían variar como resultado de eventos no 
+previsibles.
+Finalmente, la Compañía mantendrá su es -
+trategia de comunicación con el mercado y 
+con sus grupos de interés. Para ello, se reali-
+zarán reuniones con inversionistas y llamadas 
+trimestrales de resultados, donde se brinda-
+rá información relevante sobre la Compañía y 
+su desempeño.
+
+
+=== PAGINA PDF 11 ===
+214
+MEMORIA
+INTEGRADA
+2024
+VALORES
+Según Resolución de Gerencia General CONASEV N°061-98-EF/94.11 quedaron inscritas en el Registro Públi-
+co del Mercado de Valores a partir del 23.02.98 las acciones comunes y de inversión de Corporación Aceros 
+Arequipa S.A., cuya evolución durante el ejercicio 2024, se muestra a continuación:
+5.5. Capital social y estructura accionaria
+Valor contable de la acción al cierre del ejercicio: S/ 2.63
+A. Capital Social (*):  
+íntegramente suscrito y pagado S/ 890,858,308
+B. Acciones de Inversión: S/ 182,407,512
+C. Número de acciones comunes: 890,858,308
+D. Valor nominal de la acción: S/ 1.00
+E. Acciones en poder de inversionistas nacionales:
+Acciones en poder de inversionistas extranjeros:                   
+77.57 %
+22.43 %
+→ TABLA 27
+CAPITAL 
+SOCIAL
+CAPITAL SOCIAL
+Accionista % Origen
+Cillóniz Champín Reneé 15.94 % Nacional
+Olesa Investment Corp. 10.96 % Bahamas
+Cillóniz Rey Ricardo 8.53 % Nacional
+Cillóniz Rey Andrea 8.50 % Nacional
+Servicios de Asesoría S.A. 5.47 % Nacional
+Grenview Invesment Inc.    5.37 % Panamá
+Baertl Montori José 
+Antonio 5.22 % Nacional
+→ TABLA 28
+ACCIONISTAS
+ACCIONISTAS
+
+=== PAGINA PDF 12 ===
+215
+MEMORIA
+INTEGRADA
+2024
+Tenencia Número de accionistas Porcentaje de participación
+Menor al 1% 507 19.25
+Entre 1% - 5% 13 20.77
+Entre 5% -10% 5 33.09
+Mayor al 10% 2 26.89
+Total 527 100.00
+→ TABLA 29
+ACCIONES 
+COMUNES
+Tenencia Número de titulares Porcentaje de participación
+Menor al 1% 3,332 58.73
+Entre 1% - 5% 18 41.27
+Entre 5% -10% 0 0.00
+Mayor al 10% 0 0.00
+Total 3,350 100.00
+→ TABLA 30
+ACCIONES DE 
+INVERSIÓN
+Mes  Apertura  Cierre  Máxima  Mínima  Promedio 
+Ene-24 1.80 1.75 1.80 1.75 1.80 
+Feb-24 1.75 1.75 1.75 1.75 1.75 
+Mar-24 1.75 1.70 1.75 1.70 1.71 
+Abr-24 1.69 1.65 1.72 1.65 1.68 
+May-24 1.65 1.60 1.65 1.60 1.64 
+Jun-24 1.55 1.55 1.55 1.55 1.55 
+Jul-24 1.55 1.55 1.55 1.55 1.55 
+Ago-24 1.60 1.60 1.61 1.60 1.60 
+Set-24 1.60 1.66 1.66 1.60 1.61 
+Oct-24 1.66 1.67 1.67 1.66 1.67 
+Nov-24 1.70 1.70 1.70 1.70 1.70 
+Dic-24 1.67 1.67 1.67 1.67 1.67
+→ TABLA 31
+COTIZACIÓN 
+BURSÁTIL DE 
+ACCIONES 
+COMUNES
+
+=== PAGINA PDF 13 ===
+216
+MEMORIA
+INTEGRADA
+2024
+Mes  Apertura  Cierre  Máxima  Mínima  Promedio 
+Ene-24 0.95 1.02 1.02 0.93 0.97 
+Feb-24 1.02 1.15 1.15 1.00 1.06 
+Mar-24 1.15 1.11 1.15 1.08 1.12 
+Abr-24 1.10 1.05 1.10 0.95 1.01 
+May-24 1.08 1.01 1.14 1.01 1.07 
+Jun-24 1.00 0.98 1.04 0.97 0.98 
+Jul-24 1.00 1.10 1.10 1.00 1.07 
+Ago-24 1.10 1.07 1.10 0.99 1.04 
+Set-24 1.07 1.03 1.09 1.01 1.04 
+Oct-24 1.03 1.04 1.06 1.01 1.04 
+Nov-24 1.06 1.04 1.07 1.01 1.04 
+Dic-24 1.05 1.04 1.05 1.00 1.02
+→ TABLA 32
+COTIZACIÓN 
+BURSÁTIL DE 
+ACCIONES DE 
+INVERSIÓN
+VISTA PANORÁMICA CENTRO DE DISTRIBUCIÓN LURIN
+
+=== PAGINA PDF 14 ===
+217
+MEMORIA
+INTEGRADA
+2024
+5.6. Estados
+financieros 
+ESTADOS FINANCIEROS SEPARADOS Y CONSOLIDADOS AL
+31 DE DICIEMBRE DE 2024 Y DE 2023 JUNTO CON EL DICTAMEN
+DE LOS AUDITORES INDEPENDIENTES
+2024
+años
+construyendo un mundo
+más sostenible
+Dictamen de los auditores independientes  
+ 
+ 
+Lima 
+Av. Víctor Andrés 
+Belaunde 171 
+San Isidro  
+Tel: +51 (1) 411 4444 
+ 
+Lima II 
+Av. Jorge Basadre 330 
+San Isidro 
+Tel: +51 (1) 411 4444 
+ 
+ 
+Arequipa 
+Edificio City Center ,       
+piso 13, Torre Sur , Cerro 
+Colorado 
+Tel: +51 (54) 484 470 
+ 
+ 
+Trujillo 
+Av. El Golf 591, Urb. Las 
+Flores del Golf III, Víctor 
+Larco Herrera 13009, 
+Sede Miguel Ángel Quijano 
+Doig 
+La Libertad  
+Tel: +51 (44) 608 830 
+ 
+Chiclayo (satélite) 
+Av. Federico Villareal 115, 
+Lambayeque  
+Tel: +51 (74) 227 424 
+ 
+Cusco (satélite) 
+Jr . Ricardo Palma #18, 
+Urb. Santa Mónica, 
+Wanchaq 
+ 
+    
+Inscrita en la partida 13222951 del Registro de Personas Jurídicas de Lima y Callao 
+Miembro de Ernst & Young Global 
+Tanaka, Valdivia & Asociados 
+Sociedad Civil de R. L 
+ 
+A los Accionistas de Corporación Aceros Arequipa S.A. 
+ 
+Opinión  
+ 
+Hemos auditado los estados financieros separados adjuntos de Corporación Aceros Arequipa S.A.  (la 
+Compañía), que comprenden el estado separado de situación financiera al 31 de diciembre de 202 4, y 
+los estados separados de resultados, de resultados integrales, de cambios en el patrimonio neto y de 
+flujos de efectivo por el año terminado en esa fecha, así como las notas explicativas a los estados 
+financieros separados que incluyen información sobre las políticas contables materiales. 
+ 
+En nuestra opinión, los estados financieros separados adjuntos presentan razonablemente, en todos 
+sus aspectos significativos, la situación financiera separada de la Compañía al 31 de diciembre de 
+2024, así como su desempeño financiero y sus flujos de efectivo separados por el año terminado en 
+esa fecha, de acuerdo con las normas contables NIIF e instrucciones de la Superintendencia del 
+Mercado de Valores. 
+ 
+Base de la opinión 
+ 
+Realizamos nuestra auditoría de conformidad con las Normas Internacionales de Auditoría (NIAs) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos 
+del Perú. Nuestras responsabilidades en virtud de esas normas se describen con más detalle en la 
+sección Responsabilidades del auditor en relación con la auditoría de los estados financieros de 
+nuestro informe. Somos independientes de la Compañía de acuerdo con el Código de Ética para 
+Profesionales de la Contabilidad del Consejo de Normas Internacionales de Ética para Contadores 
+(Código IESBA, por sus siglas en inglés), junto con los requisitos éticos que son relevantes para 
+nuestra auditoría de los estados financieros en Perú, y hemos cumplido con nuestras otras 
+responsabilidades éticas de acuerdo con estos requisitos y el Código IESBA. Consideramos que la 
+evidencia de auditoría que hemos obtenido proporciona una base suficiente y adecuada para nuestra 
+opinión. 
+ 
+  
+Dictamen de los auditores independientes (continuación) 
+ 
+Asuntos clave de auditoría 
+ 
+Los asuntos clave de auditoría son aquellos asuntos que, a nuestro juicio profesional, fueron de mayor 
+importancia en la auditoría de los estados financieros separados del período actual. Estos asuntos se 
+abordaron en el contexto de la auditoría de los estados financieros separados en su conjunto, y en la 
+formación de nuestra opinión sobre los mismos; por lo que no proporcionamos una opinión separada 
+sobre estos asuntos. Con base en lo anterior, más adelante, se detalla la manera en la que cada 
+asunto clave fue abordado durante nuestra auditoría. 
+ 
+Hemos cumplido con las responsabilidades descritas en la sección Responsabilidades del auditor en 
+relación con la auditoría de los estados financieros separados de nuestro informe, incluso en relación 
+con estos asuntos. En consecuencia, nuestra auditoría incluyó la realización de procedimientos 
+diseñados para responder a los riesgos de incorrección material evaluados en los estados financieros  
+separados. Los resultados de los procedimientos de auditoría, incluidos los procedimientos realizados 
+para abordar el asunto que se menciona a continuación, constituyen la base para la opinión de 
+auditoría sobre los estados financieros separados adjuntos. 
+ 
+Existencia de inventarios 
+Descripción del 
+asunto 
+ Los inventarios de Corporación Aceros Arequipa S.A. ascienden a S/1,193 
+millones que representan el 21% de los activos totales de la Compañía. Estos 
+inventarios están conformados principalmente por los productos terminados y 
+mercaderías que comercializa la Compañía, así como la materia prima, productos 
+en proceso y otros materiales que son necesarios para la producción y las 
+operaciones de la Compañía. Los inventarios se encuentran ubicados 
+principalmente en su planta de Pisco y en los centros de distribución u bicados en 
+Lima, Arequipa, Trujillo y Piura.  
+ 
+Para validar la existencia de los inventarios, la Compañía planifica y ejecuta un 
+inventario anual, el cual es realizado de acuerdo con el cronograma aprobado por 
+la Gerencia. Este procedimiento implica una participación significativa por parte 
+del equipo de auditoría, así como el involucramiento de un especialista para la 
+medición de la chatarra, principal materia prima. En base a ello, consideramos que 
+la existencia de los inventarios es un asunto clave de auditoría. 
+ 
+Cómo abordamos 
+el asunto en 
+nuestra auditoría 
+ Obtuvimos un entendimiento, evaluamos el diseño y relevamos los controles de los 
+procesos de la Compañía relacionados con la integridad y existencia de los 
+inventarios. Nuestros procedimientos de auditoría incluyeron, entre otros:  
+ 
+- Definimos la estrategia de participación de acuerdo con las sedes y tipos de 
+inventario que mantiene la Compañía. 
+- Participamos, a través de muestras representativas utilizando herramientas 
+estadísticas, en los días y sedes establecidos en nuestra estrategia de 
+inventarios. 
+
+=== PAGINA PDF 15 ===
+218
+MEMORIA
+INTEGRADA
+2024
+Dictamen de los auditores independientes (continuación) 
+ 
+Existencia de inventarios 
+- Evaluamos la integridad de los inventarios contados en los días de nuestra 
+participación, a través de conciliación con los saldos contables a la fecha de la 
+toma de los inventarios. 
+- Verificamos el cumplimiento de los procedimientos establecidos por la Gerencia 
+para el conteo. 
+- Revisamos las hojas de conteo, así como las diferencias identificadas, 
+verificando su disposición o registro en los libros de la Compañía. 
+- Involucramos a un especialista externo para validar la metodología utilizada por 
+la Compañía para calcular la cantidad de chatarra que mantenía en los días de 
+inventario. 
+- Realizamos procedimientos de conexión sobre los saldos de inventarios, desde 
+la fecha de toma de inventario hasta el cierre del periodo. 
+- Revisamos los informes sobre las conclusiones de los inventarios.  
+- Revisamos la idoneidad de las revelaciones relacionadas en los estados 
+financieros. 
+ 
+Énfasis sobre la información separada 
+ 
+Los estados financieros separados de Corporación Aceros Arequipa S.A. han sido preparados en 
+cumplimiento de los requerimientos legales vigentes en Perú para la presentación de información 
+financiera e instrucciones de la Superintendencia del Mercado de Valores, tal como se indica en la 
+nota 1.  Estos estados financieros separados se deben leer conjuntamente con los estados financieros 
+consolidados de Corporación Aceros Arequipa S.A. y Subsidiarias al 31 de diciembre de 202 4, que se 
+preparan y presentan por separado en fechas concordantes con las instrucciones de la 
+Superintendencia del Mercado de Valores. 
+ 
+Otra información incluida en el Informe Anual 2024 de la Compañía 
+ 
+Otra información consiste en la información incluida en la Memoria Anual, distinta de los estados 
+financieros separados y nuestro informe de auditoría sobre los mismos. La gerencia es responsable de 
+la otra información. 
+ 
+Nuestra opinión sobre los estados financieros separados no cubre la otra información y no 
+expresamos ninguna forma de conclusión que proporcione un grado de seguridad sobre ésta. 
+ 
+  
+Dictamen de los auditores independientes (continuación) 
+ 
+En relación con nuestra auditoría de los estados financieros separados, nuestra responsabilidad es 
+leer la otra información y, al hacerlo, considerar si la otra información es materialmente inconsistente 
+con los estados financieros separados o nuestro conocimiento obtenido en la auditoría o si de otra 
+manera parece estar materialmente mal expresada. Si, en base al trabajo que hemos realizado, 
+concluimos que existe un error material de esta otra información, estamos obligados a informar de 
+ese hecho. No tenemos nada que informar a este respecto. 
+ 
+Responsabilidad de la Gerencia y los responsables del Gobierno Corporativo de la Compañía en relación 
+con los estados financieros separados  
+ 
+La Gerencia es responsable de la preparación y presentación razonable de los estados financieros 
+separados de acuerdo con las normas contables NIIF, y del control interno que la Gerencia determine 
+que es necesario para permitir la preparación de estados financieros separados que estén libres de 
+errores materiales, ya sea debido a fraude o error. 
+ 
+Al preparar los estados financieros separados, la Gerencia es responsable de evaluar la capacidad de 
+la Compañía para continuar como una empresa en marcha, revelando, según corresponda, los asuntos 
+relacionados con la empresa en marcha y utilizando la base contable de la empresa en marcha, a 
+menos que la gerencia tenga la intención de liquidar la Compañía o cesar las operaciones, o no tenga 
+otra alternativa realista diferente a hacerlo. 
+ 
+Los responsables del gobierno corporativo de la Compañía son responsables de la supervisión del 
+proceso de información financiera separada de la Compañía. 
+ 
+Responsabilidad del auditor en relación con la auditoría de los estados financieros separados  
+ 
+Nuestros objetivos son obtener seguridad razonable sobre si los estados financieros separados en su 
+conjunto están libres de incorrección material, ya sea por fraude o error, y emitir un informe que 
+incluya nuestra opinión. La seguridad razonable es un alto nivel de aseguramiento, pero no garantiza 
+que una auditoría realizada de conformidad con las NIAs aprobadas para su aplicación en el Perú 
+siempre detectará una incorrección importante cuando exista. Las incorrecciones pueden surgir 
+debido a fraude o error y se consideran materiales si, individualmente o acumuladas, podría esperar 
+que influyan razonablemente en las decisiones económicas que los usuarios toman basándose en los 
+estados financieros separados. 
+ 
+  
+Dictamen de los auditores independientes (continuación) 
+ 
+Como parte de una auditoría de acuerdo con las Normas Internacionales de Auditoría (NIA s) 
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores Públicos 
+del Perú, ejercemos un juicio profesional y mantenemos el escepticismo profesional durante toda la 
+auditoría. También: 
+ 
+- Identificamos y evaluamos los riesgos de incorrección material de los estados financieros 
+separados, ya sea debido a fraude o error, diseñamos y ejecutamos procedimientos de auditoría 
+que respondan a esos riesgos, y obtenemos evidencia de auditoría que sea suficiente y 
+apropiada para proporcionarnos una base para nuestra opinión. El riesgo de no detectar una 
+incorrección material debido a fraude es mayor que la resultante de un error, ya que el fraude 
+puede implicar colusión, falsificación, omisiones intencionales, declaraciones falsas o sobrepaso 
+del sistema de control interno. 
+- Obtuvimos un entendimiento del control interno relevante para la auditoría con el fin de diseñar 
+procedimientos de auditoría que sean apropiados en las circunstancias, pero no con el propósito 
+de expresar una opinión sobre la efectividad del control interno de la C ompañía. 
+- Evaluamos la idoneidad de las políticas contables utilizadas, la razonabilidad de las estimaciones 
+contables y las respectivas revelaciones realizadas por la Gerencia. 
+- Concluimos sobre la idoneidad del uso por parte de la Gerencia de la base contable de la 
+empresa en marcha y, sobre la base de la evidencia de auditoría obtenida, si existe una 
+incertidumbre material relacionada con eventos o condiciones que puedan generar dudas 
+significativas sobre la capacidad de la Compañía para continuar como una empresa en marcha. 
+Si llegamos a la conclusión de que existe una incertidumbre material, estamos obligados a 
+llamar la atención en nuestro informe de auditoría. sobre las revelaciones relacionadas en los 
+estados financieros o, si dichas revelaciones son inadecuadas, a modificar nuestra opinión. Las 
+conclusiones se basan en la evidencia de auditoría obtenida hasta la fecha de nuestro informe 
+de auditoría. Sin embargo, los eventos o condiciones futuras pueden hacer que la Compañía 
+deje de continuar como una empresa en marcha. 
+- Evaluamos la presentación general, la estructura, el contenido de los estados financieros 
+separados, incluidas las revelaciones, y si los estados financieros separados representan las 
+transacciones y eventos subyacentes de manera que logre una presentación razonable.  
+ 
+Comunicamos a los responsables del gobierno corporativo de la Compañía, entre otros asuntos, al 
+alcance planeado y el momento de realización de la auditoría, los hallazgos significativos de la misma, 
+así como cualquier deficiencia significativa del control interno identificada en el transcurso de la 
+auditoría. 
+ 
+  
+
+=== PAGINA PDF 16 ===
+219
+MEMORIA
+INTEGRADA
+2024
+CENTRO DE DISTRIBUCIÓN LURIN
+Dictamen de los auditores independientes (continuación) 
+ 
+También proporcionamos a los responsables del gobierno corporativo de la Compañía una declaración 
+de que hemos cumplido con los requerimientos éticos relevantes respecto a independencia y les 
+hemos comunicado acerca de todas las relaciones y otros asuntos que se podrían razonablemente 
+afectar nuestra independencia y, según corresponda, incluyendo las respectivas salvaguardas. 
+ 
+Entre los asuntos que han sido objeto de comunicación con los responsables del gobierno corporativo 
+de la Compañía, determinamos los que han sido de la mayor significatividad en la auditoría de los 
+estados financieros separados del periodo actual y, por lo tanto, son los asuntos clave de auditoría.  
+Hemos descrito esos asuntos en nuestro informe de auditoría salvo que las disposiciones legales o 
+reglamentarias prohíban revelar públicamente el asunto o, en circunstancias extremadamente poco 
+frecuentes, determinemos que un asunto no se debería comunicar en nuestro informe porque se 
+esperaría razonablemente que las consecuencias adversas de hacerlo superarían los beneficios de 
+interés público del mismo. 
+ 
+ 
+Lima, Perú 
+28 de febrero de 2025 
+ 
+ 
+Refrendado por: 
+ 
+ 
+ 
+ 
+___________________________ 
+Ricardo Del Águila 
+Socio a cargo 
+C.P.C.C. Matrícula No. 37948 
+ 
+
+=== PAGINA PDF 17 ===
+220
+MEMORIA
+INTEGRADA
+2024
+5.7. Reporte de Cumplimiento 
+del Código de Buen Gobierno 
+Corporativo 
+PRINCIPIOS DE BUEN
+GOBIERNO CORPORATIVO
+2024
+años
+construyendo
+un mundo
+más sostenible
+
+
+=== PAGINA PDF 18 ===
+221
+MEMORIA
+INTEGRADA
+2024
+PROCESO DE DOBLE MATERIALIDAD
+(GRI 3-1) 
+Durante el 2023 implementamos el proceso de doble materialidad, una iniciativa clave para 
+evaluar el impacto de nuestras operaciones tanto a nivel externo como interno, cuya influen-
+cia se refleja en nuestro desempeño organizacional. Este enfoque permitió identificar y priori-
+zar asuntos ambientales, sociales y de gobernanza (ASG) desde dos perspectivas complemen-
+tarias: materialidad de impacto, que considera la relevancia para nuestros grupos de interés; 
+y materialidad financiera, que evalúa su impacto en el desempeño empresarial.
+El análisis incluyó una revisión exhaustiva de los principales estándares de sostenibilidad y 
+compromisos globales, una evaluación del contexto organizacional y la recopilación de infor-
+mación sobre los impactos, reales o potenciales, relacionados a nuestra industria. Además, 
+tomamos en cuenta las expectativas y los intereses de colaboradores, clientes, proveedores, 
+población del entorno con las que interactuamos y el Estado.
+Los temas prioritarios identificados fueron incorporados de manera activa a nuestra estrate-
+gia de sostenibilidad, a nuestro proceso de gestión de riesgos y a los mecanismos de reporte. 
+Este enfoque integral nos permite no solo monitorear internamente nuestros avances, sino 
+también comunicar de manera transparente tanto los logros como los desafíos a nuestros 
+grupos de interés. Así, reafirmamos nuestro compromiso con un enfoque proactivo, que res-
+ponde a las preocupaciones críticas, y con lo que se asegura que nuestras decisiones estén 
+alineadas a las expectativas sociales y los objetivos financieros de la organización.
+El proceso de análisis de doble materialidad fue liderado por la Gerencia de Proyectos, Mine-
+ría, Responsabilidad Social e Innovación, y contó con la revisión y aprobación del presidente 
+ejecutivo, lo que garantiza la solidez y alineación estratégica de esta importante iniciativa.
+5.8. Doble materialidad 
+PLANTA DE TUBOS LURÍN
+
+=== PAGINA PDF 19 ===
+222
+MEMORIA
+INTEGRADA
+2024
+ANÁLISIS DEL CONTEXTO EVALUACIÓN DE IMPACTOS VALIDACIÓN Y REPORTE DE IMPACTOS
+Análisis del 
+macroentorno y 
+microentorno
+Macroentorno:
+• Análisis de temas de 
+importancia para la industria 
+tanto a nivel local como 
+global en materia de 
+sostenibilidad
+• Análisis de políticas y 
+regulaciones ESG de la 
+industria
+Microentorno:
+• Revisión de documentación 
+interna y del entorno directo 
+de la organización.
+Relevancia 
+externa
+• Análisis de temas prioritarios 
+de los principales estándares de 
+sostenibilidad: Global Reporting 
+Initiative (GRI), Sustainability 
+Accounting Standards Board 
+(SASB), Dow Jones Sustainability 
+Indexes (DJSI), los Objetivos de 
+Desarrollo Sostenible (ODS), 
+indicadores sectoriales para 
+empresa socialmente responsable 
+(ESR) y los principios del Pacto 
+Mundial.
+• Recojo de percepciones de grupos 
+de interés: mapeo de actores 2022 
+y 11 encuestas a stakeholders, en 
+las que se incluyeron miembros 
+de la población del entorno, 
+proveedores, clientes, la sociedad 
+civil y el Gobierno.
+Validación 
+de temas 
+materiales 
+priorizados
+Se agruparon los impactos en 
+temas ambientales, sociales y de 
+gobernanza, y se obtuvieron dos 
+listas priorizadas de temas: con 
+base en sus impactos positivos e 
+impactos negativos.
+• Se ponderaron ambas listas.
+• Se obtuvo una lista final de 10 
+temas.
+Preselección 
+de temas 
+materiales
+A partir del análisis se generó 
+una lista preliminar de temas 
+ASG, en la que se identificaron 
+impactos positivos y negativos.
+Relevancia 
+Interna
+• Encuesta de colaboradores, con una muestra de 123 personas.
+• Entrevista al gerente general.
+• Panel de líderes.
+• Taller con gerentes.
+→ TABLA 33
+PROCESO 
+DE DOBLE 
+MATERIALIDAD 
+2023
+
+=== PAGINA PDF 20 ===
+223
+MEMORIA
+INTEGRADA
+2024
+MATRIZ DE DOBLE MATERIALIDAD
+En el proceso, se identificaron 15 temas ASG, entre los cuales se determinaron que once 
+(11) eran temas materiales y los siguientes cuatro (4) temas prioritarios.
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+0 0.5 1 1.5 2 2.5 3
+MATERIALIDAD DE IMPACTO
+MATERIALIDAD FINANCIERA
+A4
+A1
+A2 A3
+A5
+G1
+G2
+G3
+G4
+S1 S2
+S3
+S4
+S5
+S6
+AMBIENTAL
+A1 Respuesta al cambio   
+ climático y gestión 
+ energética
+A2 Gestión de la calidad
+ del aire
+A3 Adopción de la    
+ economía circular, gestión 
+ de residuos y ciclo de vida  
+ del producto
+A4 Protección de la    
+ biodiversidad
+A5 Gestión del agua
+SOCIAL
+S1 Fortalecimiento de la 
+ salud y seguridad 
+ ocupacional 
+S2 Relacionamiento con los 
+ clientes
+S3 Gestión del talento
+S4 Protección de los DD. HH.
+S5 Gestión de 
+ relacionamiento con la 
+ población del entorno
+S6 Fomento de la diversidad e 
+ igualdad de  oportunidades
+ECONÓMICO Y 
+GOBERNANZA
+G1 Investigación, desarrollo e 
+ innovación
+G2 Gobierno corporativo y 
+ gestión de riesgos
+G3 Creación de valor para el 
+ accionista
+G4 Gestión ESG de cadena de 
+ suministro
+
+=== PAGINA PDF 21 ===
+224
+MEMORIA
+INTEGRADA
+2024
+Temas materiales Definición Políticas, estándares o documentos que guían nuestra gestión
+Dimensión económica y de gobernanza
+1
+Investigación, 
+desarrollo e 
+innovación
+ (GRI 3-3) 
+Investigación y desarrollo tecnológico en el proceso de producción, 
+diseño de productos y servicios teniendo en cuenta las necesidades 
+de los clientes, los impactos en la salud, la sociedad y el medio 
+ambiente. Además, adaptarnos a eventos disruptivos de la industria 
+manteniéndonos competitivos, implementando estrategias para 
+ampliar la cartera de productos y estándares para asegurar la 
+continuidad.
+• Política de Seguridad de la Información
+• Política de Ciberseguridad
+• Lineamientos para la Gestión de la Seguridad de la Información y 
+Ciberseguridad
+• Plan de Recuperación ante Desastres
+• Plan de Concientización
+• Proceso de Gestión de Ciberseguridad
+2
+Gobierno 
+corporativo 
+y gestión de 
+riesgos  (GRI 3-3) 
+Implementación de reglas, procesos y principios que guíen los órganos 
+de gobierno en la toma de decisiones eficientes para la gestión integral 
+de la empresa. Este enfoque tiene por finalidad asegurar la transparencia 
+en todas las operaciones, fomentar políticas anticorrupción y prácticas 
+anticompetitivas, y mantener una conducta empresarial íntegra en 
+todos los niveles, considerando los intereses de todos los accionistas 
+(incluidos los minoritarios), y promover activamente el respeto a las 
+políticas anticorrupción y prácticas anticompetitivas entre directivos, 
+trabajadores y contratistas. Además, se centra en identificar y mitigar 
+riesgos empresariales claves, que abarcan riesgos establecidos, 
+emergentes y de derechos humanos, así como la gestión proactiva de 
+posibles crisis derivadas de conflictos sociales.
+• Código de Ética
+• Código contra Actos de Fraude y Corrupción 
+• Política Corporativa de Control Interno y Gestión de Riesgos
+• Metodología de Gestión Integral de Riesgos y Oportunidades 
+(GIRO)
+• Matriz de Gestión Integral de Riesgos y Oportunidades 
+Estratégicos
+• Matrices de Riesgos de Procesos
+• Subproceso de Gestión de Riesgos Materializados
+• Lineamientos para las Rutinas de Autocontrol
+3
+Gestión ESG 
+de Cadena de 
+Suministros
+ (GRI 3-3) 
+Gestión eficaz de riesgos y oportunidades relacionados a la cadena de 
+suministros, y creación de mecanismos de formación, transferencia y 
+control de cumplimiento en temas de ética e integridad, estándares 
+ambientales, sociales y de SST a proveedores.
+• Política de Compras de Chatarra
+• Código de Ética para Proveedores
+• Protocolo de Interacción con Funcionarios Públicos
+• Instrucción para la Compra de Chatarra Nacional
+→ TABLA 34
+POLÍTICAS 
+POR TEMA 
+MATERIAL
+LISTA DE TEMAS MATERIALES
+(GRI 2-24, 3-1, 3-2) 
+
+=== PAGINA PDF 22 ===
+225
+MEMORIA
+INTEGRADA
+2024
+Temas materiales Definición Políticas, estándares o documentos que guían nuestra gestión
+• Manual de Proveedores de Chatarra
+• Política Corporativa de Bienes y Servicios
+• Política de Compras y Servicios
+• Instrucción de Compras Corporativas
+• Instrucción para la Selección y Evaluación de Proveedores
+• Instrucción para la Evaluación del Servicio de Proveedores de 
+Transporte
+Dimensión ambiental
+4
+Respuesta al 
+cambio cli-
+mático y ges-
+tión energé-
+tica  (GRI 3-3) 
+Fomentar la reducción de la huella de carbono y la implementación de 
+programas de reducción de GEI asociados a las operaciones de la em-
+presa, para facilitar la transición haca la economía baja en carbono y 
+lograr la carbononeutralidad al 2050. Este enfoque, que incluye tam-
+bién la adopción de una gestión eficiente y sostenible de energía en las 
+operaciones, incorpora el uso de fuentes de energía renovable.
+• Política Corporativa de Medio Ambiente
+• Análisis de Riesgos y Oportunidades frente al Cambio Climático
+5
+Adopción 
+de la econo-
+mía circular 
+y gestión de 
+residuos
+ (GRI 3-3) 
+Maximizar el aprovechamiento de subproductos industriales y la ges-
+tión efectiva de los residuos generados. Priorizar el uso de material re-
+ciclado en lugar de materias primas vírgenes promueve la sostenibili-
+dad y reduce la dependencia de recursos naturales. La gestión integral 
+abarca la clasificación, reducción, reutilización y reciclaje de residuos 
+industriales, incluidos aquellos peligrosos y no peligrosos, así como los 
+efluentes generados en las operaciones. Este enfoque busca minimizar 
+el impacto ambiental y fomentar prácticas responsables en la cadena 
+de valor.
+
+=== PAGINA PDF 23 ===
+226
+MEMORIA
+INTEGRADA
+2024
+Temas materiales Definición Políticas, estándares o documentos que guían nuestra gestión
+6 Gestión del agua
+ (GRI 3-3) 
+Uso responsable del recurso hídrico cumpliendo estrictamente 
+con los controles y límites de la normativa vigente. Identificación y 
+mitigación de riesgos asociados al agua considerando el factor de 
+estrés hídrico.  
+• Política Corporativa de Medio Ambiente
+• Análisis de Riesgos y Oportunidades frente al Cambio Climático
+Dimensión social
+7
+Fortalecimiento 
+de la salud 
+y seguridad 
+ocupacional
+  (GRI 3-3) 
+Promoción de una cultura de prevención y protección de la salud y 
+seguridad integral de todo el personal, incluidos los contratistas y 
+terceros involucrados en las operaciones. Asimismo, identificación 
+de peligros potenciales relacionados y riesgos de salubridad 
+externos a la gestión de la Compañía como epidemias o pandemias.
+• Política Corporativa de Seguridad y Salud Ocupacional
+• Política de Gestión Integrada
+• Reglamento Interno de Seguridad y Salud en el Trabajo
+8
+Relacionamiento 
+con los clientes
+ (GRI 3-3) 
+Asegurar la satisfacción y lealtad de los clientes a través de una 
+mejor gestión de comunicación con ellos y la implementación de 
+herramientas de recojo de información que permitan comprender 
+mejor sus necesidades, generar mejores productos y servicios 
+posventa para fortalecer las relaciones con los clientes.
+Política de Descuentos de Corporación Aceros Arequipa S.A.
+9 Gestión del talento  (GRI 3-3) 
+Desarrollo de programas para mejorar las habilidades de los 
+trabajadores y brindar oportunidades de crecimiento dentro de la 
+organización, incluidos el despliegue de beneficios y los programas 
+de retención del talento. 
+• Política Empresarial de Gestión Humana
+• Reglamento Interno de Trabajo
+• Código de Ética
+• Código contra Actos de Fraude y Corrupción
+• Política de Seguridad y Salud Ocupacional 
+• Política de Compensaciones
+• Política de Beneficios
+• Política de Adquisición de Talento
+
+=== PAGINA PDF 24 ===
+227
+MEMORIA
+INTEGRADA
+2024
+Temas materiales Definición Políticas, estándares o documentos que guían nuestra gestión
+• Política para la Contratación y Gestión de Servicios de 
+Tercerización
+• Política de Prevención, Investigación y Sanción del 
+Hostigamiento Sexual
+• Política Corporativa de Derechos Humanos y Diversidad
+10 Protección de los DD. HH.  (GRI 3-3) 
+Identificación, evaluación, prevención y mitigación de riesgos 
+relacionados a derechos humanos en cualquiera de nuestra cadena 
+de valor y grupos de interés; gestionar eficientemente protocolos 
+de relacionamiento entre los grupos de interés que interactúen 
+con las comunidades del área de influencia que potencialmente 
+puedan vulnerar los derechos de las comunidades. Establecer 
+nuestro modelo de debida diligencia que respalde nuestro 
+compromiso con los derechos humanos.
+• Política Corporativa de Derechos Humanos y Diversidad
+• Política Empresarial de Gestión Humana 
+• Política de Adquisición de Talento
+• Política de Compensaciones
+11
+Fomento de 
+la diversidad 
+e igualdad de 
+oportunidades
+ (GRI 3-3) 
+Fomentar un ambiente laboral justo que garantice la diversidad 
+y multiculturalidad en nuestros puestos laborales, la igualdad de 
+remuneración y oportunidades de crecimiento, y el cumplimiento 
+de derechos laborales.
+• Política Corporativa de Derechos Humanos y Diversidad
+• Política Empresarial de Gestión Humana 
+• Política de Adquisición de Talento
+• Política de Compensaciones
+
+=== PAGINA PDF 25 ===
+228
+MEMORIA
+INTEGRADA
+2024
+Temas materiales Impactos Medidas tomadas y su eficacia
+1
+Investigación, 
+desarrollo e 
+innovación
+(-) Interrupción del flujo de operaciones por la falta 
+oportuna de abastecimiento de materias primas.
+(+) Mejora en la calidad de los productos y aumento 
+de la competitividad en el mercado, para satisfacer 
+las necesidades de los clientes. 
+(-) Se implementó una estrategia integral de gestión de la cadena de suministro, para 
+garantizar un abastecimiento oportuno y eficiente de materias primas. Asimismo, se 
+optimizó la monitorización de proveedores con evaluaciones mensuales y anuales 
+para identificar posibles riesgos y establecer planes de contingencia.
+(+) Se fortalecerán los programas de investigación y desarrollo, y se recogerá 
+información constante con los clientes para ajustar continuamente los productos y 
+servicios ofrecidos.
+2
+Gobierno 
+corporativo 
+y gestión de 
+riesgos
+(-) Débil reputación por filtración de información 
+privada o incumplimiento de buenas prácticas o 
+infracciones al Código de Ética.
+(+) Mejora en la cultura laboral al promover la 
+transparencia, ética y responsabilidad.
+(-) Se implementaron programas de concientización y formación en ética, y se 
+establecieron protocolos robustos de respuesta a incidentes. Aceros Arequipa cuenta 
+con un sistema de gobierno y ética, con Código de Ética, Código contra Actos de 
+Fraude, modelo de prevención, sistema de gestión antisoborno. 
+Por su parte, la Línea Ética de Acero es administrada por un tercero independiente a 
+efectos de asegurar la imparcialidad. No hemos recibido denuncias relativas a ética 
+durante el periodo.
+(+) Se han fortalecido los programas de comunicación interna, establecido canales 
+efectivos para la denuncia ética y continuado promoviendo una cultura organizacional 
+basada en valores de integridad y transparencia.
+3
+Gestión ESG 
+de Cadena de 
+Suministros
+(-) Vulneración de los derechos humanos de los 
+trabajadores de socios estratégicos (tercerización y 
+proveedores).
+(+) Implementación de nuevas tecnologías más 
+limpias en la cadena de suministro.
+(-) Se han implementado rigurosos programas de evaluación y seguimiento de 
+proveedores, a través de protocolos de auditoría periódica, que incluyen revisar las 
+condiciones laborales, y cumplir con las normativas éticas y de derechos humanos, de 
+acuerdo con nuestras políticas internas y Código de Ética. Desde CAASA se promueve 
+activamente la colaboración con proveedores comprometidos con estándares 
+sociales y éticos, y se busca la mejora continua a lo largo de la cadena de suministro.
+→ TABLA 35
+IMPACTOS 
+Y MEDIDAS 
+ADOPTADAS 
+POR TEMA 
+MATERIAL
+(GRI 2-25)
+
+=== PAGINA PDF 26 ===
+229
+MEMORIA
+INTEGRADA
+2024
+Temas materiales Impactos Medidas tomadas y su eficacia
+(+)  Se han brindado espacios y talleres donde se han mencionado la importancia de 
+implementar tecnologías limpias para comunicar las alternativas más eficientes que 
+existen en el mercado.
+4
+Respuesta al 
+cambio climático 
+y Gestión 
+energética
+(-) Aceleración del cambio climático e impulso 
+de cambios en las regulaciones relacionadas al 
+cambio climático que resultan en altos costos.
+(+) Reducción de los GEI en el ambiente por el 
+uso de tecnologías más limpias en la empresa y 
+en toda su cadena de valor.
+(-) Como parte de la estrategia para reducir la huella de carbono, Aceros Arequipa 
+ha establecido requerimientos de compra obligatorios en tecnologías utilizadas en 
+la industria. Además, la empresa ha liderado el abandono de combustibles fósiles, 
+especialmente en áreas críticas, como la carga caliente y el uso del horno vertical. Se ha 
+implementado un sistema de gestión de energía conforme a la norma ISO 50001, para 
+asegurar una gestión eficiente y sostenible de la energía en las operaciones.
+(+) En respuesta al desafío de reducir los GEI y avanzar hacia la carbononeutralidad al 
+2050, CAASA ha implementado un sistema de gestión integral detallado en la política 
+ambiental. Esto incluye la ejecución de un Programa de Cumplimiento Ambiental 
+Estratégico, la participación activa en el Programa Huella Carbono Perú y la gestión 
+integral de residuos sólidos. Aceros Arequipa, que se destaca como una de las 
+siderúrgicas con menor huella de carbono a nivel mundial, ha alcanzado menos de 0.5 t 
+de CO2 equivalente por tonelada de acero líquido. La empresa se ha comprometido a ser 
+carbononeutral para el 2050.
+5
+Adopción de 
+la economía 
+circular & 
+gestión de 
+residuos
+(-) Aumento de los subproductos industriales
+(+) Disminución del uso de materias primeras no 
+recicladas
+(-) Fortalecer las medidas para identificar y aprovechar los subproductos industriales en 
+todas las etapas de la cadena de valor.
+(+) Se ha priorizado el uso de material reciclado en lugar de materias primas vírgenes en la 
+producción. La implementación de procesos y tecnologías más sostenibles ha permitido 
+reducir la dependencia de recursos naturales y disminuir el consumo de materias primas 
+no recicladas. Además, se fomenta la conciencia y participación de los colaboradores en 
+prácticas responsables de gestión de materiales para contribuir con la sostenibilidad 
+ambiental.
+
+=== PAGINA PDF 27 ===
+230
+MEMORIA
+INTEGRADA
+2024
+Temas materiales Impactos Medidas tomadas y su eficacia
+6 Gestión del agua
+(-) Agotamiento acelerado del recurso hídrico 
+por el uso no controlado de agua.
+(+) Disponibilidad de nuevas fuentes de agua 
+(aguas tratadas) que permitan abastecer y 
+recircular el agua en la empresa.
+Para fortalecer la disponibilidad de agua, hemos iniciado el contrato de abastecimiento 
+de agua desalinizada de mar para nuestras operaciones en el complejo siderúrgico. 
+Este paso estratégico no solo asegura una fuente adicional y sostenible de agua, sino 
+que también disminuye nuestra dependencia de los recursos hídricos locales, con lo 
+que contribuimos a mitigar riesgos asociados al agua y aseguramos la continuidad de 
+nuestras operaciones en el largo plazo.
+7
+Fortalecimiento 
+de la salud 
+y seguridad 
+ocupacional 
+(-) Aumento de riesgos de seguridad y salud en 
+el trabajo.
+(+) Disminución en el índice de accidentes 
+laborales y enfermedades ocupacionales, 
+denuncias, pérdidas económicas y humanas.
+(-) Se ha establecido una sólida Política de Seguridad y Salud en el Trabajo, así como la 
+implementación de un Reglamento Interno de Seguridad y Salud en el Trabajo. En CAASA 
+se promueve activamente la participación de los trabajadores a través de consultas, 
+comunicaciones y el funcionamiento efectivo del Comité de Seguridad y Salud en el 
+Trabajo. 
+(+) Se ha fortalecido nuestro programa de inspecciones como medida preventiva ante 
+accidentes e incidentes. Este enfoque proactivo nos ha permitido identificar riesgos de 
+manera anticipada y planificar controles efectivos, lo que ha resultado en una marcada 
+disminución del índice de accidentes laborales y enfermedades ocupacionales.
+8 Relacionamiento con los clientes
+(-) Pérdida de clientes y disminución de ventas 
+por mal servicio o insatisfacción.
+(+) Mejora de la eficiencia operativa, 
+optimización de procesos que ayuden a 
+satisfacer las necesidades de los clientes, y 
+aseguren la fidelización y retención de clientes.
+(-) La implementación de una iniciativa corporativa de transformación digital y 
+significativas inversiones en desarrollo tecnológico nos ha permitido incorporar 
+de manera efectiva las necesidades del cliente en un servicio ágil y digital. Esto ha 
+contribuido a mejorar la experiencia general del cliente y proporcionar soluciones más 
+rápidas y personalizadas.
+(+) Hemos fortalecido nuestro programa de sugerencias e incentivado la participación 
+activa de los trabajadores en identificar oportunidades para mejorar la satisfacción 
+del cliente. Esta medida ha demostrado ser efectiva en la optimización de procesos 
+internos y la implementación de cambios positivos basados en la retroalimentación 
+directa de quienes están en contacto directo con los clientes.
+
+=== PAGINA PDF 28 ===
+231
+MEMORIA
+INTEGRADA
+2024
+Temas materiales Impactos Medidas tomadas y su eficacia
+9 Gestión del talento
+(-) Incremento del nivel de rotación, pérdida de 
+empleo, falta de crecimiento de colaboradores, 
+lo que ha generado mal clima laboral y pérdidas 
+económicas.
+(+) Altas oportunidades de crecimiento, 
+desarrollo profesional y satisfacción por parte 
+de los colaboradores, lo que ha generado mayor 
+productividad.
+(-) Hemos implementado programas integrales para desarrollar las habilidades de 
+los trabajadores y brindado oportunidades significativas de crecimiento dentro de 
+la organización. Además, hemos desplegado beneficios y programas específicos de 
+retención del talento. 
+(+) Las oportunidades de crecimiento y desarrollo profesional que ofrecemos han 
+generado una mayor satisfacción entre los colaboradores y fortalecido la lealtad de 
+nuestro personal.
+10 Protección de los DD. HH.
+(+) Fortalecimiento de la cultura de prevención 
+y respeto de los derechos humanos en la cadena 
+de valor.
+La implementación del modelo de debida diligencia, que respalda de manera integral 
+nuestro compromiso, genera conciencia y fomenta prácticas responsables en cada 
+etapa de nuestras operaciones. Esta cultura, que ha contribuido a fortalecer nuestras 
+relaciones con los grupos de interés, promueve un entorno respetuoso y genera 
+beneficios tangibles para todas las partes involucradas.
+11
+Fomento de 
+la diversidad 
+e igualdad de 
+oportunidades 
+(+) Mejora de la calidad de vida de los 
+colaboradores garantizando un ambiente 
+seguro y respetuoso de trabajo, creando 
+espacios de oportunidad e igualdad y 
+respetando los derechos humanos de los 
+colaboradores.
+Desde CAASA se fomenta la diversidad e igualdad de oportunidades, se garantiza 
+un ambiente laboral justo y respetuoso, y se promueve la diversidad en todos 
+nuestros puestos laborales. Se cuentan con políticas claras que aseguran la igualdad 
+de remuneración y oportunidades de crecimiento para todos los colaboradores, 
+independientemente de su género, origen étnico, orientación sexual, etc.
+
+=== PAGINA PDF 29 ===
+232
+MEMORIA
+INTEGRADA
+2024
+Cambios en la materialidad
+Temas 2020 Temas 2022 Temas 2023-2024
+1 Competitividad 1 Investigación, desarrollo e innovación 1 Protección de los DDHH
+2 Seguridad y Salud 2 Fortalecimiento de la salud y seguridad ocupacional 2 Gobierno corporativo y Gestión de riesgos
+3 Relacionamiento con los clientes 3 Gestión del agua
+4 Gestión de riesgos 4 Relacionamiento con los clientes
+3 y 4 Ética / Gobierno Corporativo 5 Gobierno corporativo y gestión ética 5 Fomento de la diversidad e igualdad de oportunidades 
+6 Gestión del talento 6 Gestión del talento
+5 Agua 7 Respuesta al cambio climático y eficiencia energética 7 Gestión ESG de Cadena de Suministros
+6 Calidad de Aire 8 Gestión de la calidad del aire 8 Adopción de la economía circular, gestión de residuos y ciclo de vida del producto
+9 Protección de los DD. HH. 9 Fortalecimiento de la salud y seguridad ocupacional 
+10 Creación de valor para el accionista 10 Respuesta al cambio climático y Gestión energética
+7 Impactos sociales en comunidades  En el 2022, tema prioritario, no material 11 Investigación, desarrollo e innovación
+→ TABLA 36
+CAMBIOS CON 
+RESPECTO 
+AL PERIODO 
+ANTERIOR
+(GRI 3-2)
+
+=== PAGINA PDF 30 ===
+233
+MEMORIA
+INTEGRADA
+2024
+5.9. Reporte de Sostenibilidad
+Corporativa
+REPORTE DE
+SOSTENIBILIDAD
+CORPORATIVA
+2024
+años
+construyendo
+un mundo
+más sostenible
+
+
+=== PAGINA PDF 31 ===
+234
+MEMORIA
+INTEGRADA
+2024
+5.10. Carta de
+verificación externa  (GRI 2-5) 
+234
+
+=== PAGINA PDF 32 ===
+235
+MEMORIA
+INTEGRADA
+2024
+5.11. Marcos y
+estándares ASG
+INDICE DE CONTENIDOS GRI
+Estándar GRI Contenido Número de página Omisión/ Detalle
+CONTENIDOS GENERALES
+GRI 2: 
+Contenidos 
+generales 
+2021
+2-1 Detalles organizativos  30, 38, 206
+2-2 Entidades incluidas en la 
+presentación de informes de 
+sostenibilidad 
+38, 205-206
+2-3 Periodo objeto del informe, 
+frecuencia y punto de contacto
+205-242 Anual, del 01/01/2024 al 
+31/12/2024, alineado a 
+la fecha de los reportes 
+financieros.
+2-4 Actualización de la información 126, 172, 205
+2-5 Verificación externa 234 La información ambiental y 
+social ha sido verificada por 
+un tercero independiente. 
+El detalle de indicadores 
+se encontrará en la carta 
+de verificación al final de 
+informe. 
+2-6 Actividades, cadena de valor y 
+otras relaciones comerciales
+44, 52, 176
+2-7 Empleados 146, 245-246
+Declaración 
+de uso
+Corporación Aceros Arequipa ha 
+presentado la información citada 
+en este índice de contenidos GRI 
+para el periodo comprendido entre 
+el 1 de enero y 31 de diciembre del 
+2024 utilizando como referencia los 
+estándares GRI.  
+GRI 1 usado GRI 1: Fundamentos 2021
+→ TABLA 37
+ÍNDICE DE 
+CONTENIDOS 
+GRI
+
+=== PAGINA PDF 33 ===
+236
+MEMORIA
+INTEGRADA
+2024
+Estándar GRI Contenido Número de página Omisión/ Detalle
+GRI 2: 
+Contenidos 
+generales 
+2021
+2-8 Trabajadores que no son empleados 146 *
+2-9 Estructura de gobernanza 65
+2-10 Designación y selección del máximo 
+órgano de gobierno
+65
+2-11 Presidente del máximo órgano de 
+gobierno 
+208
+2-12 Función del máximo órgano de 
+gobierno en la supervisión de la gestión 
+de los impactos
+65
+2-13 Delegación de la responsabilidad de 
+gestión de los impactos
+34, 71
+Estándar GRI Contenido Número de página Omisión/ Detalle
+GRI 2: 
+Contenidos 
+generales 
+2021
+2-14 Función del máximo órgano de 
+gobierno en la presentación de informes 
+de sostenibilidad
+34, 205
+2-15 Conflictos de interés 66, 79
+2-16 Comunicación de inquietudes 
+críticas
+71, 79
+2-17 Conocimientos colectivos del 
+máximo órgano de gobierno
+71, 73 Plan de 
+capacitación 
+2025 en 
+gestión de 
+riesgos, 
+sostenibilidad 
+y ESG.
+2-18 Evaluación del desempeño del 
+máximo órgano de gobierno
+66
+2-19 Políticas de remuneración *
+2-20 Proceso para determinar la 
+remuneración
+*
+2-21 Ratio de compensación total anual *
+* Omisión por razones de confidencialidad, al tratarse de información sensible.
+* Los trabajadores externos ejecutan actividades que impactan directamente en el producto terminado, en proceso o 
+materia prima estratégica. No se incluye labores complementarias, como el acondicionamiento u oxicorte de mate-
+riales. La empresa contratista mantiene un contrato directo con CAASA.
+
+=== PAGINA PDF 34 ===
+237
+MEMORIA
+INTEGRADA
+2024
+Estándar GRI Contenido Número de página Omisión/ Detalle
+GRI 2: 
+Contenidos 
+generales 
+2021
+2-22 Declaración sobre la estrategia 
+de desarrollo sostenible  
+5-28
+2-23 Compromisos y políticas 30-36, 188 Políticas 
+cuentan 
+con enlace a 
+portal web.
+2-24 Incorporación de los 
+compromisos y políticas
+224-227 Se detallan 
+políticas 
+aplicables en 
+anexo Doble 
+materialidad.
+2-25 Procesos para remediar los 
+impactos negativos
+228-231
+2-26 Mecanismos para solicitar 
+asesoramiento y plantear inquietudes
+79, 84-86
+2-27 Cumplimiento de la legislación y 
+las normativas
+79, 112
+2-28 Afiliación a las asociaciones 262
+2-29 Enfoque para la participación de 
+los grupos de interés
+172-175, 188, 
+201-203
+Estándar GRI Contenido Número de página Omisión/ Detalle
+GRI 2: 
+Contenidos 
+generales 
+2021
+2-30 Convenios de 
+negociación colectiva
+157 La Empresa otorga los 
+beneficios acordados mediante 
+negociación colectiva a los 
+afiliados de los gremios y los 
+beneficios establecidos en su 
+política de compensaciones, al 
+resto de trabajadores, según los 
+dispositivos legales, vigentes y 
+preservando la equidad interna, 
+el bienestar general y el buen 
+clima organizacional.
+Omisión: La compañía decidió 
+no informar el porcentaje del 
+total de empleados cubiertos 
+por convenios colectivos de 
+trabajo por restricciones de 
+confidencialidad.
+TEMAS MATERIALES 
+GRI 3: Temas 
+materiales 
+2021
+3-1 Proceso para definir 
+los temas materiales
+221-232
+3-2 Lista de temas 
+materiales
+224-227
+
+=== PAGINA PDF 35 ===
+238
+MEMORIA
+INTEGRADA
+2024
+Estándar GRI Contenido Número de página Omisión/ Detalle
+INVESTIGACIÓN, DESARROLLO E INNOVACIÓN
+GRI 3: Temas 
+materiales 
+2021
+3-3 Gestión de los temas materiales 74-78, 
+100-107, 
+224
+Indicador 
+propio
+Inversión en desarrollo de tecnologías 
+digitales
+75
+Indicador 
+propio
+Número de proyectos implementados 104
+Indicador 
+propio
+Monto de ahorros generados por 
+proyectos de mejora de alto impacto
+104
+GOBIERNO CORPORATIVO Y GESTIÓN DE RIESGOS
+GRI 3: Temas 
+materiales 
+2021
+3-3 Gestión de los temas materiales 65, 79, 
+224
+GRI 205: 
+Anticorrup-
+ción
+205-1 Operaciones evaluadas en función 
+de los riesgos relacionados con la 
+corrupción
+81
+205-2 Comunicación y formación 
+sobre políticas y procedimientos 
+anticorrupción
+81-82
+205-3 Incidentes de corrupción 
+confirmados y medidas tomadas
+83
+Estándar GRI Contenido Número de página Omisión/ Detalle
+GRI 206: 
+Competencia 
+desleal 2016
+206-1 Acciones jurídicas relacionadas 
+con la competencia desleal y las 
+prácticas monopólicas y contra la libre 
+competencia 
+83-84
+GRI 415: 
+Política 
+pública 
+2016
+415-1 Contribución a partidos y/o 
+representantes políticos
+261
+Indicador 
+propio
+Metodología de gestión integrada de 
+riesgos y oportunidades
+89-96
+Implementación de la cultura de riesgos 97-99
+Gobernanza de riesgos 87-99
+GESTIÓN ESG DE CADENA DE SUMINISTROS
+GRI 3: Temas 
+materiales 
+2021
+3-3 Gestión de los temas materiales 172, 224-
+225
+GRI 308: 
+Evaluación 
+ambiental 
+de provee-
+dores 2016
+308-1 Nuevos proveedores que han 
+pasado filtros de selección de acuerdo 
+con criterios ambientales
+180-181, 
+259-260

@@ -1,0 +1,3814 @@
+
+=== PAGINA PDF 1 ===
+ 
+ 
+ 
+ 
+LECHE GLORIA S.A. 
+ 
+ 
+ESTADOS FINANCIEROS SEPARADOS  
+31 DE DICIEMBRE DE 2024 Y 31 DE DICIEMBRE DE 2023  
+ 
+ 
+
+=== PAGINA PDF 2 ===
+ 
+LECHE GLORIA S.A. 
+ 
+ 
+ESTADOS FINANCIEROS SEPARADOS 
+31 DE DICIEMBRE DE 2024 Y 31 DE DICIEMBRE DE 2023 
+ 
+ 
+CONTENIDO  Página 
+ 
+ 
+Informe de los auditores independientes  1 - 5 
+ 
+Estado separado de situación financiera  6 
+ 
+Estado separado de resultados integrales  7 
+ 
+Estado separado de cambios en el patrimonio  8 
+ 
+Estado separado de flujos de efectivo  9 
+ 
+Notas a los estados financieros separados  10 - 69 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S/ = Sol 
+US$ = Dólar estadounidense 
+ 
+
+=== PAGINA PDF 3 ===
+ 
+ 
+ 
+INFORME DE LOS AUDITORES INDEPENDIENTES 
+ 
+A los señores Accionistas y Directores de  
+Leche Gloria S.A. 
+ 
+ 
+Opinión  
+ 
+Hemos auditado los estados financieros separados de Leche Gloria S.A. (en adelante la Compañía) 
+que comprenden el estado separado de situación financiera al 31 de diciembre de 202 4, el estado 
+separado de resultados integrales, el estado separado de cambios en el patrimonio y el estado 
+separado de flujos de efectivo correspondientes al año terminado en esa fecha, así como las notas a 
+los estados financieros separados, que incluyen un resumen de las políticas contables significativas.  
+ 
+En nuestra opinión, los estados financieros separados adjuntos, presentan razonablemente, en todos 
+sus aspectos significativos, la situación financiera no consolidada de la Compañía al 31 de diciembre 
+de 2024, sus resultados no consolidados y sus flujos de efectivo no consolidados por el año terminado 
+en esa fecha, de conformidad con Normas Internacionales de Información Financiera (NIIF) emitidas 
+por el International Accounting Standards Board (IASB). 
+ 
+Fundamento para la opinión 
+ 
+Efectuamos nuestra auditoría de conformidad con Normas Internacionales de Auditoría (NIA) 
+aprobadas para su aplicación en Perú por la Junta de Decanos de Colegios de Contadores Públicos 
+del Perú. Nuestras responsabilidades, de acuerdo con estas normas, se describen más adelante en la 
+sección Responsabilidades del auditor en relación con la auditoría de los estados financieros 
+separados de nuestro informe. 
+ 
+Somos independientes de la Compañía, de conformidad con el Código de Ética para Profesionales de 
+la Contabilidad del Consejo de Normas Internacionales de Ética para Contadores (Código de Ética del 
+IESBA) junto con los requerimientos éticos que son aplicables para nuestra auditoría de los estados 
+financieros separados en Perú, y hemos cumplido las demás responsabilidades de ética de 
+conformidad con esos requerimientos y con el Código de Ética del IESBA. 
+ 
+Consideramos que la evidencia de auditoría que hemos obtenido es suficiente y apropiada para 
+fundamentar nuestra opinión.  
+ 
+Énfasis sobre estados financieros no consolidados 
+ 
+Llamamos la atención a la Nota 1(d) a los estados financieros separados, donde se revela que los 
+estados financieros antes indicados han sido preparados en cumplimiento de los requerimientos 
+legales vigentes en Perú para la presentación de información financiera no consolidada de acuerdo 
+con las NIIF. Estos estados financieros separados reflejan el valor de las inversiones en sus 
+subsidiarias medidas al costo y no sobre bases consolidadas; y la inversión en la asociada se refleja 
+al costo y no al método de participación patrimonial, por lo que estos se deben leer junto con los 
+estados financieros consolidados de Leche Gloria S.A. y Subsidiarias, que se presentan por separado, 
+sobre los que en nuestro informe de la fecha emitimos una opinión sin salvedades. Nuestra opinión no 
+se modifica en relación con este asunto. 
+
+=== PAGINA PDF 4 ===
+ 
+- 2 - 
+Asuntos Clave de la Auditoría  
+ 
+Los asuntos clave de la auditoría son aquellos que, según nuestro juicio profesional, han sido de 
+mayor importancia en nuestra auditoría de los estados financieros separados del período actual. Estos 
+asuntos han sido tratados en el contexto de nuestra auditoría de los estados financieros separados en 
+su conjunto y al formarnos nuestra opinión sobre los mismos, y no emitimos una opinión por separado 
+sobre estos asuntos. 
+ 
+Asunto clave de la auditoría  Cómo se trató el asunto en nuestra auditoría 
+ 
+Reconocimiento de ingresos por venta de bienes (Nota 2.3(p) y Nota 20 a los estados 
+financieros separados) 
+ 
+En 2024, los ingresos por venta de bienes y 
+servicios de la Compañía ascienden a (en miles) 
+S/4,252,767. Los ingresos provienen 
+principalmente de la venta de productos lácteos y 
+otros productos de consumo masivo, los que se 
+caracterizan por representar un alto volumen de 
+transacciones y de clientes, por orientarse a 
+diversas locaciones y geografías y el uso de 
+diversos canales de venta. Como parte de esa 
+dinámica de operación, los ingresos se reconocen 
+en el momento en que se transfiere el control de 
+los bienes, lo que se da, generalmente, cuando 
+los productos se entregan a los clientes en la 
+ubicación que estos especifiquen, lo que hace 
+necesario identificar el punto de transferencia 
+para que los ingresos sean reconocidos en el 
+período adecuado. 
+ 
+Consideramos al reconocimiento de los ingresos 
+por venta de bienes como un asunto clave de 
+auditoría, por lo siguiente: (i) la magnitud del 
+asunto, (ii) el alto volumen de transacciones y de 
+clientes en diversas locaciones en los que la 
+transferencia de control se da con la entrega de 
+los productos, y (iii) el esfuerzo en la realización 
+de procedimientos de auditoría para la obtención 
+de evidencia de auditoría a través de revisiones 
+documentarias, para verificar que los ingresos 
+hayan ocurrido y se reconozcan en el período 
+adecuado. 
+ 
+Nuestro enfoque para abordar el asunto 
+incluyó, entre otros, la ejecución de los 
+siguientes procedimientos:  
+ 
+(i) Evaluamos los criterios y políticas 
+contables aplicados por la Compañía 
+sobre el reconocimiento de los ingresos 
+por venta de bienes.  
+ 
+(ii) Obtuvimos un entendimiento de los 
+procesos establecidos por la Gerencia de 
+la Compañía para el reconocimiento de 
+ingresos por venta de bienes, incluyendo 
+los relacionados para asegurar que los 
+ingresos hayan ocurrido y se hayan 
+reconocido en el período adecuado. 
+ 
+(iii) Efectuamos una revisión documentaria, 
+sobre una muestra seleccionada de 
+ventas con terceros y empresas 
+relacionadas a lo largo del año, para 
+verificar la ocurrencia de los ingresos. 
+ 
+(iv) Efectuamos una revisión documentaria, 
+sobre una muestra seleccionada de 
+ventas dentro del periodo de riesgo que 
+determinamos para la transferencia de 
+control (últimos días del año 2024 y 
+primeros días del año 2025), a fin de 
+verificar que hayan sido apropiadamente 
+reconocidas en el período adecuado. 
+ 
+(v) Revisamos, sobre una muestra 
+seleccionada, las notas de crédito 
+emitidas con posterioridad al 31 de 
+diciembre de 2024. 
+ 
+
+=== PAGINA PDF 5 ===
+ 
+- 3 - 
+Otra información 
+ 
+La gerencia es responsable de la otra información. La otra información comprende la memoria anual 
+requerida por la Superintendencia del Mercado de Valores - SMV, que no forma parte integral de los 
+estados financieros separados ni de nuestro informe de auditoría, la cual esperamos disponer 
+después de la fecha de este informe de auditoría. 
+ 
+Nuestra opinión sobre los estados financieros separados no cubre la otra información y no 
+expresamos ningún tipo de seguridad ni conclusión sobre esa otra información.  
+ 
+En relación con nuestra auditoría de los estados financieros separados, nuestra responsabilidad es 
+leer la otra información antes indicada cuando dispongamos de ella, y al hacerlo, considerar si existe 
+una incongruencia material entre la otra información y los estados financieros separados o nuestro 
+conocimiento obtenido en la auditoría o si parece que existe una incorrección material en la otra 
+información por algún otro motivo. 
+ 
+Cuando leamos y consideremos la memoria anual, si concluimos que contiene una incorrección 
+material, estamos obligados a comunicar este hecho a los encargados del Gobierno Corporativo de la 
+Compañía. 
+ 
+Responsabilidades de la gerencia y de los encargados del Gobierno Corporativo por los 
+estados financieros separados  
+ 
+La gerencia es responsable de la preparación y presentación razonable de los estados financieros 
+separados adjuntos de acuerdo con NIIF emitidas por el IASB, y por el control interno que la gerencia 
+considere que es necesario para permitir la preparación de estados financieros separados que estén 
+libres de incorrección material, ya sea por fraude o error.  
+ 
+Al preparar los estados financieros separados, la gerencia es responsable de evaluar la capacidad de 
+la Compañía de continuar como empresa en marcha, revelando, según sea aplicable, los asuntos 
+relacionados a la continuidad de las operaciones y utilizando el principio contable de empresa en 
+marcha, a menos que la gerencia tenga la intención de liquidar a la Compañía, o cesar sus 
+operaciones, o no tenga otra alternativa realista.  
+ 
+Los encargados del Gobierno Corporativo de la Compañía son responsables por la supervisión del 
+proceso de preparación de información financiera de la Compañía.  
+ 
+Responsabilidades del auditor en relación con la auditoría de los estados financieros 
+separados 
+ 
+Nuestros objetivos son obtener una seguridad razonable de que los estados financieros separados en 
+su conjunto estén libres de incorrecciones materiales, ya sea por fraude o error, y emitir un informe de 
+auditoría que incluya nuestra opinión. Seguridad razonable es un alto nivel de seguridad, pero no 
+garantiza que una auditoría efectuada de conformidad con las NIA aprobadas para su aplicación en 
+Perú, siempre detecte una incorrección material, cuando exista. Las incorrecciones pueden deberse a 
+fraude o error y se consideran materiales si, individualmente o en agregado, podrían razonablemente 
+influir en las decisiones económicas que los usuarios toman basándose en los estados financieros 
+separados. 
+
+=== PAGINA PDF 6 ===
+ 
+- 4 - 
+Como parte de una auditoría de acuerdo con las NIA aprobadas para su aplicación en Perú, 
+ejercemos nuestro juicio profesional y mantenemos escepticismo profesional durante toda la auditoría. 
+Además:  
+ 
+● Identificamos y evaluamos los riesgos de incorrección material en los estados financieros 
+separados, ya sea por fraude o error, diseñamos y aplicamos procedimientos de auditoría en 
+respuesta a estos riesgos y obtenemos evidencia de auditoría que sea suficiente y apropiada para 
+ofrecer fundamento para nuestra opinión. El riesgo de no detectar una incorrección material 
+debido a fraude es más elevado que no detectar una incorrección material debida a error, ya que 
+el fraude puede involucrar colusión, falsificación, omisiones intencionales, declaraciones falsas o 
+la vulneración del control interno.  
+● Obtuvimos un entendimiento del control interno relevante para la auditoría con el propósito de 
+diseñar procedimientos de auditoría que sean apropiados en función de las circunstancias, pero 
+no con el propósito de expresar una opinión sobre la eficacia del control interno de la Compañía.  
+● Evaluamos lo adecuado de las políticas contables aplicadas y la razonabilidad de las 
+estimaciones contables y la respectiva información revelada por la gerencia.  
+● Concluimos sobre el adecuado uso del principio contable de empresa en marcha por parte de la 
+gerencia y, sobre la base de la evidencia obtenida, concluimos sobre si existe o no una 
+incertidumbre material relacionada a eventos o condiciones que pueden generar dudas 
+significativas sobre la capacidad de la Compañía de continuar como empresa en marcha. Si 
+concluimos que existe una incertidumbre material, se requiere que llamemos la atención en 
+nuestro informe de auditoría sobre la respectiva información revelada en los estados financieros 
+separados o, si tales revelaciones son inadecuadas, para que expresemos una opinión 
+modificada. Nuestras conclusiones se sustentan en la evidencia de auditoría obtenida hasta la 
+fecha de nuestro informe de auditoría. Sin embargo, eventos o condiciones futuras pueden ser 
+causa de que la Compañía ya no pueda continuar como empresa en marcha.  
+● Evaluamos la presentación general, estructura y contenido de los estados financieros separados, 
+incluyendo la información revelada, y si los estados financieros separados representan las 
+transacciones y eventos subyacentes de un modo que logran la presentación razonable.  
+ 
+Nos comunicamos con los encargados del Gobierno Corporativo de la Compañía respecto de, entre 
+otros aspectos, el alcance y la oportunidad de los procedimientos de auditoría planificados y los 
+hallazgos significativos de auditoría, así como cualquier deficiencia significativa en el control interno 
+que identificamos en el transcurso de nuestra auditoría.  
+ 
+También proporcionamos a los encargados del Gobierno Corporativo de la Compañía una declaración 
+de que hemos cumplido con los requerimientos éticos aplicables en relación con la independencia y 
+les hemos comunicado acerca de toda relación y otros asuntos que podrían razonablemente afectar 
+nuestra independencia y, según corresponda, las medidas tomadas para eliminar las amenazas o 
+salvaguardas aplicadas. 
+ 
+
+=== PAGINA PDF 7 ===
+- 5 -
+De los asuntos comunicados a los encargados del Gobierno Corporativo de la Compañía, 
+determinamos aquellos asuntos que fueron de mayor importancia en la auditoría de los estados 
+financieros separados del periodo actual y son, por consiguiente, los Asuntos Clave de la Auditoría. 
+Hemos descrito estos asuntos en nuestro informe de auditoría salvo que las leyes y regulaciones 
+aplicables prohíban la revelación pública sobre el asunto o cuando, en circunstancias 
+extremadamente inusuales, determinemos que un asunto no debería ser comunicado en nuestro 
+informe porque cabe razonablemente esperar que las consecuencias adversas de hacerlo podrían 
+superar los beneficios en el interés público de tal comunicación. 
+Lima, Perú 
+18 de febrero de 2025 
+Refrendado por 
+--------------------------------------(socio) 
+Daniel Oliva 
+Contador Público Colegiado 
+Matrícula No.27882 
+
+=== PAGINA PDF 8 ===
+ 
+- 6 - 
+LECHE GLORIA S.A. 
+ 
+ 
+ESTADO SEPARADO DE SITUACIÓN FINANCIERA 
+ 
+ 
+    Al 31 de diciembre de      Al 31 de diciembre de 
+  Nota  2024  2023    Nota  2024  2023 
+    S/000  S/000      S/000  S/000 
+               
+ACTIVO        PASIVO       
+ACTIVO CORRIENTE        PASIVO CORRIENTE       
+Efectivo y equivalente de efectivo  2.3(c) y 5  156,490  119,009  Obligaciones financieras  2.3(b) y 14  -  150,500 
+Cuentas por cobrar comerciales  2.3(b) y 6  276,955  270,506  Cuentas por pagar comerciales  2.3(b) y 15  465,063  401,339 
+Cuentas por cobrar a entidades relacionadas  2.3(b) y 33  223,373  181,225  Cuentas por pagar a entidades relacionadas  2.3(b) y 33  331,566  398,562 
+Otras cuentas por cobrar y créditos fiscales  2.3(b) y 7  45,534  53,932  Otros pasivos y provisiones  2.3(b) y 16  215,873  144,172 
+Inventarios  2.3(d) y 8  893,880  975,935  Pasivo por arrendamientos  2.3(k) y 17  5,533  4,094 
+Gastos pagados por anticipado  2.3(e)  11,802  7,296  Total pasivo corriente    1,018,035  1,098,667 
+Total activo corriente    1,608,034  1,607,903         
+        PASIVO NO CORRIENTE       
+        Obligaciones financieras  2.3(b) y 14  1,267,500  969,500 
+ACTIVO NO CORRIENTE        Cuentas por pagar a entidades relacionadas  2.3(b) y 33  81,055  - 
+Cuentas por cobrar a entidades relacionadas  2.3(b) y 33  939,989  389,367  Pasivo por arrendamientos  2.3(k) y 17  9,111  11,930 
+Cuenta por cobrar comerciales  2.3(b) y 6  131  1,131  Pasivo por impuesto a las ganancias diferido  2.3(n) y 18  76,771  82,236 
+Otras cuentas por cobrar y créditos fiscales  2.3(b) y 7  203,444  185,943  Total pasivo no corriente    1,434,437  1,063,666 
+Inversiones en subsidiarias y asociada  2.3(f) y 9  112,389  112,960  Total pasivo    2,452,472  2,162,333 
+Propiedades de inversión  2.3(g) y 10  66,929  67,837         
+Propiedades, planta y equipo  2.3(h) y 11  1,116,714  1,346,589  PATRIMONIO  19     
+Activos por derecho en uso  2.3(k) y 13  13,785  15,340  Capital social    382,502  382,502 
+Activos intangibles  2.3(i) y 12  14,425  12,433  Acciones de inversión    38,470  38,470 
+Total activo no corriente    2,467,806  2,131,600  Otras reservas de capital    76,500  76,500 
+        Resultados acumulados    1,125,896  1,079,698 
+        Total patrimonio    1,623,368  1,577,170 
+TOTAL ACTIVO    4,075,840  3,739,503  TOTAL PASIVO Y PATRIMONIO    4,075,840  3,739,503 
+ 
+ 
+ 
+Las notas que se acompañan de la página 10 a la 69 forman parte de los estados financieros separados. 
+
+=== PAGINA PDF 9 ===
+ 
+- 7 - 
+LECHE GLORIA S.A. 
+ 
+ 
+ESTADO SEPARADO DE RESULTADOS INTEGRALES 
+ 
+ 
+    Por el año terminado el  
+    31 de diciembre de  
+  Nota  2024  2023 
+    S/000  S/000 
+       
+Ventas de bienes y servicios  2.3(p) y 20  4,252,767  4,097,504 
+Costo de ventas de bienes y servicios  2.3(q) y 21  (3,330,009)  (3,365,991) 
+Utilidad bruta    922,758  731,513 
+       
+Gastos de venta y distribución  2.3(q) y 22  (394,582)  (312,713) 
+Gastos de administración  2.3(q) y 23  (180,305)  (166,577) 
+Otros ingresos operativos  2.3(p) y 26  42,106  43,123 
+Otros gastos operativos  2.3(q) y 27  -  (1,482) 
+Utilidad operativa    389,977  293,864 
+       
+Ingresos financieros  2.3(p) y 28  59,852  59,369 
+Gastos financieros  2.3(q) y 29  (89,834)  (99,242) 
+Pérdida por venta de activos financieros y otros    (7,219)  (8,065) 
+Diferencia de cambio, neta  2.3(a) y 3(b)  3,123  (7,473) 
+    (34,078)  (55,411) 
+       
+Utilidad antes de impuesto a las ganancias    355,899  238,453 
+Impuesto a las ganancias  2.3(n) y 18 (b)  (109,701)  (67,791) 
+Utilidad del año    246,198  170,662 
+Otros resultados integrales    -  - 
+Resultado integral del año    246,198  170,662 
+       
+Utilidad básica y diluida por acción       
+común (en soles)  2.3(t) y 32  0.584  0.405 
+Utilidad básica y diluida por acción de       
+inversión (en soles)  2.3(t) y 32  0.584  0.405 
+ 
+ 
+ 
+Las notas que se acompañan de la página 10 a la 69 forman parte de los estados financieros 
+separados.
+
+=== PAGINA PDF 10 ===
+ 
+- 8 - 
+LECHE GLORIA S.A. 
+ 
+ 
+ESTADO SEPARADO DE CAMBIOS EN EL PATRIMONIO 
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2024  
+Y EL 31 DE DICIEMBRE DE 2023 
+ 
+ 
+  Capital   Acciones de   Otras reservas  Resultados    
+  social  inversión  de capital  acumulados  Total 
+  S/000  S/000  S/000  S/000  S/000 
+           
+Saldos al 1 de enero de 2023  382,502  38,470  76,500  909,036  1,406,508 
+Utilidad del año  -  -  -  170,662  170,662 
+Saldos al 31 de diciembre de 2023  382,502  38,470  76,500  1,079,698  1,577,170 
+           
+           
+Saldos al 1 de enero de 2024  382,502  38,470  76,500  1,079,698  1,577,170 
+Distribución de dividendos, nota 19(d)  -  -  -  (200,000)  (200,000) 
+Utilidad del año  -  -  -  246,198  246,198 
+Saldos al 31 de diciembre de 2024  382,502  38,470  76,500  1,125,896  1,623,368 
+ 
+ 
+ 
+Las notas que se acompañan de la página 10 a la 69 forman parte de los estados financieros separados. 
+
+=== PAGINA PDF 11 ===
+ 
+- 9 - 
+LECHE GLORIA S.A. 
+ 
+ 
+ESTADO SEPARADO DE FLUJOS DE EFECTIVO 
+ 
+ 
+    Por el año terminado 
+    el 31 de diciembre de 
+  Nota  2024  2023 
+    S/000  S/000 
+       
+ACTIVIDADES DE OPERACIÓN       
+Cobranzas a clientes    4,839,388  4,776,996 
+Otros cobros de efectivo relativos a la actividad    13,351  8,924 
+Pago a proveedores de bienes y servicios    (3,885,687)  (4,025,965) 
+Pago de remuneraciones y beneficios sociales    (194,821)  (173,772) 
+Pagos de tributos    (181,085)  (129,530) 
+Pago del impuesto a las ganancias    (65,583)  (45,444) 
+Otros (pagos) cobros relativos a la actividad, neto    (7,588)  (5,798) 
+Efectivo neto proveniente de las actividades de operación    517,975  405,411 
+       
+ACTIVIDADES DE INVERSIÓN       
+Cobro por venta de propiedades, planta y equipo y otros activos    115,725  2,022 
+Intereses cobrados a entidades relacionadas    69,328  15,119 
+Cobro de préstamos otorgados a entidades relacionadas  33(n)  344,348  90,789 
+Dividendos cobrados    -  22,938 
+Préstamos otorgados a entidades relacionadas  33(n)  (994,559)  (423,450) 
+Pagos por compra de propiedades, planta y equipo  11  (88,254)  (44,113) 
+Pagos por compra de activos intangibles  12  (2,205)  (142) 
+Efectivo neto utilizado en las actividades de inversión    (555,617)  (336,837) 
+       
+ACTIVIDADES DE FINANCIAMIENTO       
+Obtención de obligaciones financieras  14(e)  5,477,880  3,908,000 
+Pago de obligaciones financieras  14(e)  (5,330,380)  (3,963,000) 
+Pago de intereses de obligaciones financieras    (93,619)  (92,853) 
+Pago por pasivo de arrendamientos  17(e)  (5,225)  (5,892) 
+Préstamos recibidos de entidades relacionadas  33(n)  102,479  36,634 
+Pago de préstamos recibidos de entidades relacionadas  33(n)  (22,712)  (36,634) 
+Pago de intereses por préstamos recibidos   33(n)  (829)  (86) 
+Pago de dividendos  16(b)  (52,471)  (201,900) 
+Efectivo neto proveniente de (utilizado en) las actividades de 
+financiamiento 
+   
+75,123  (355,731) 
+       
+Aumento neto (disminución neta) de efectivo y equivalente de 
+efectivo 
+   
+37,481  (287,157) 
+Saldo de efectivo y equivalente de efectivo al inicio del año    119,009  406,166 
+Saldo de efectivo y equivalente de efectivo al final del año    156,490  119,009 
+       
+Transacciones que no generan flujo de efectivo:       
+Compensación de préstamos otorgados  con:       
+- Dividendos  16(b),33(n)  137,180  115,115 
+- Intereses y cuentas por cobrar  33(n)  14  1,700 
+- Cuenta por pagar comerciales  33(n)  6,600  4,330        
+Nuevos arrendamientos en el activo por derecho de uso  13(a),17(e)  4,033  3,642 
+ 
+ 
+ 
+Las notas que se acompañan de la página 10 a la 69 forman parte de los estados financieros 
+separados. 
+
+=== PAGINA PDF 12 ===
+ 
+- 10 - 
+LECHE GLORIA S.A. 
+ 
+ 
+NOTAS A LOS ESTADOS FINANCIEROS SEPARADOS  
+31 DE DICIEMBRE DE 2024 Y 31 DE DICIEMBRE DE 2023 
+ 
+ 
+1 IDENTIFICACIÓN Y ACTIVIDAD ECONÓMICA  
+ 
+(a) Identificación - 
+ 
+Leche Gloria S.A. (en adelante “la Compañía”) se constituyó en la República del Perú el 5 de febrero 
+de 1941 y es una subsidiaria directa de Gloria Foods S.A., una empresa domiciliada en Perú que 
+posee el 75.55% de su capital social. A su vez, Gloria Foods S.A. es una subsidiaria de Holding 
+Alimentario del Perú S.A., empresa matriz que agrupa la unidad de negocio de alimentos del Grupo 
+Gloria, la cual posee el 99.9% de su capital social.  
+ 
+El domicilio legal de la Compañía es Avenida República de Panamá N°2457, La Victoria, Lima.  
+ 
+Los estados financieros separados de la Compañía al y por el año terminado el 31 de diciembre de 
+2024 han sido autorizados para su emisión por la Gerencia y el Directorio con fecha 18 de febrero de 
+2025 y reflejan los hechos ocurridos hasta esa fecha. Estos estados financieros serán puestos a 
+consideración y aprobación de la Junta Obligatoria Anual de Accionistas, la cual será convocada 
+dentro de los plazos establecidos por Ley. La Gerencia de la Compañía considera que estos estados 
+financieros separados serán aprobados sin modificaciones.  
+ 
+Los estados financieros separados de la Compañía al y por el año terminado el 31 de diciembre de 
+2023 fueron aprobados por la Junta General de Accionistas el 27 de marzo de 2024. 
+ 
+(b) Actividad económica -  
+ 
+La actividad económica principal de la Compañía es la producción de leche evaporada en sus plantas 
+ubicadas en los departamentos de Arequipa y Lima, así como la fabricación y venta de otros 
+productos lácteos. Asimismo, comercializa mercaderías de consumo masivo alimentario, tales como 
+conservas de pescado, mermeladas, panetones y otros productos relacionados.  
+ 
+Al 31 de diciembre de 2024 y de 2023, la Compañía y su empresa relacionada Distribuidora Exclusiva 
+de Productos de Calidad S.A.C. (Deprodeca) mantienen suscrito un contrato de distribución, por el 
+cual Deprodeca brinda los servicios de gestión de la distribución y de la fuerza de ventas de la 
+Compañía, recibiendo una comisión del 10% (9% en 2023) sobre el valor de venta de los productos 
+vendidos.  
+ 
+La Compañía forma parte de un grupo económico compuesto por más de 50 empresas, el mismo que 
+está dividido en cuatro unidades de negocios: alimentos, cementos, papeles y cartones, y 
+agroindustria. La Compañía forma parte de la unidad de negocios de alimentos.  
+ 
+
+=== PAGINA PDF 13 ===
+ 
+- 11 - 
+Para el desarrollo de sus operaciones, la Compañía ha realizado inversiones en acciones en otras 
+empresas peruanas y extranjeras dedicadas a realizar actividades relacionadas con el acopio, 
+producción y distribución de productos lácteos y otros afines. Al 31 de diciembre de 2024 y de 2023, 
+las inversiones directas e indirectas que mantiene la Compañía se presentan a continuación:  
+ 
+  Porcentaje de      
+  participación al   País  Actividad económica 
+  2024  2023     
+  %  %     
+         
+Subsidiarias         
+         
+Agroindustrial del Perú S.A.C. 
+ 
+99.97 
+ 
+99.97 
+ 
+Perú 
+ 
+Servicios de enfriamiento, 
+conservación e 
+        industrialización de leche 
+        fresca. 
+         
+Agropecuaria Chachani S.A.C. 
+(en liquidación) 
+ 
+99.97 
+ 
+99.97 
+ 
+Perú 
+ 
+Crianza de ganado vacuno. 
+         
+Inversiones Gloria Bolivia S.A. 
+ 
+99.89 
+ 
+99.89 
+ 
+Bolivia 
+ 
+Tenencia de inversiones en 
+empresas. 
+         
+Pil Andina S. A. (*) 
+ 
+91.17 
+ 
+91.17 
+ 
+Bolivia 
+ 
+Fabricación y venta de 
+productos pasteurizados   
+ 
+     
+de leche y procesamiento 
+de sus derivados 
+         
+Facilidades de Transporte S.A. 
+(en liquidación) 
+ 
+- 
+ 
+99.76 
+ 
+Bolivia 
+ 
+Transporte de carga 
+nacional e internacional, 
+distribución,    
+     
+ 
+Recolección y almacenaje. 
+         
+Industria de Empaques y 
+Metales del Perú Empamel S.A. 
+ 
+99.78 
+ 
+99.78 
+ 
+Ecuador 
+ 
+Venta por mayor de metales 
+y hojalatas.   
+ 
+      
+         
+Asociada         
+         
+Leche Gloria Ecuador S.A. 
+ 
+19.09 
+ 
+28.36 
+ 
+Ecuador 
+ 
+Acopio, producción y  
+        distribución de leche. 
+ 
+(*) Subsidiarias indirectas a través de Inversiones Gloria Bolivia S.A.
+
+=== PAGINA PDF 14 ===
+ 
+- 12 - 
+A continuación, se presentan los principales saldos de los estados financieros de las subsidiarias de la Compañía, sin incluir los efectos de consolidación, 
+expresados en miles de soles, al y por los años terminados el 31 de diciembre de 2024 y de 2023: 
+ 
+  Agroindustrial del Perú 
+S.A.C.  
+Agropecuaria-Chachani  
+S.A.C. (en liquidación)  
+Industria de empaques y metales del 
+Perú Empamel S.A.  
+Inversiones Gloria  
+Bolivia S.A.  Pil Andina S.A.  
+Facilidades de Transporte 
+S.A. (en liquidación) 
+  2024  2023  2024  2023  2024  2023  2024  2023  2024  2023  2024  2023 
+  S/000  S/000  S/000  S/000  S/000  S/000  S/000  S/000  S/000  S/000  S/000  S/000                          
+Estado de situación financiera -                        
+Activo corriente  38,670  20,766  28,965  28,893  26,007  11,864  37,058  3,297  304,546  326,950  12  12 
+Propiedades, planta                         
+y equipo  33,591  56,589  -  -  2,035  2,010  29,953  29,531  357,032  371,229  -  - 
+Otros activos  10,318  3,558  -  -  358  95  271,668  315,273  93,643  10,765  -  - 
+Total activo  82,579  80,913  28,965  28,893  28,400  13,969  338,679  348,101  755,221  708,944  12  12 
+                         
+Pasivo corriente  24,373  22,074  25  7  30,055  16,054  4,662  17,643  373,112  296,291  12  12 
+Obligaciones financieras  -  -  -  -  -  -  17,315  17,071  139,801  150,577  -  - 
+Otros pasivos no corrientes  6,615  5,017  -  -  317  95  87  71  45,443  53,942  -  - 
+Total pasivo  30,988  27,091  25  7  30,372  16,149  22,064  34,785  558,356  500,810  12  12 
+                         
+Patrimonio  51,591  53,822  28,940  28,886  (1,972)  (2,180)  316,615  313,316  196,865  208,134  -  - 
+Total pasivo y patrimonio 82,579  80,913  28,965  28,893  28,400  13,969  338,679  348,101  755,221  708,944  12  12 
+                         
+Estado de resultados integrales -                       
+Ventas  50,219  52,067  -  -  23,463  4,195  -  233  1,329,831  1,322,589  -  - 
+Costo de ventas  (55,876)  (50,307)  -  -  (19,889)  (3,478)  -  -  (1,032,187)  (1,058,501)  -  - 
+Gastos operativos  3,815  (663)  78  (322)  (2,642)  (3,270)  (728)  (1,677)  (224,670)  (159,211)  -  - 
+Utilidad (pérdida) del año  (2,231)  488  54  (322)  349  (2,533)  (2,080)  (3,132)  38,463  58,261  -  - 
+ 
+A continuación, los principales saldos de los estados financieros de la asociada de la Compañía al y por el año terminado el 31 de diciembre de 2024 y de 
+2023: 
+ 
+Leche Gloria Ecuador S.A. 
+ 
+  Activos  Pasivos  Patrimonio  Resultados 
+  S/000  S/000  S/000  S/000          
+Al 31 de diciembre de 2024  160,664  92,797  67,867  (18,117) 
+Al 31 de diciembre de 2023  144,102  86,825  57,277  (5,126) 
+ 
+
+=== PAGINA PDF 15 ===
+ 
+- 13 - 
+(c) Liquidación de Agropecuaria Chachani S.A.C. -  
+ 
+En Junta General de Accionistas del 24 de junio de 2019, como resultado de la evaluación estratégica 
+efectuada por la Gerencia de la unidad de negocios de alimentos, se acordó la disolución y liquidación 
+de la subsidiaria Agropecuaria Chachani S.A.C. A la fecha de emisión de este informe, la liquidación 
+se encuentra en proceso. La Gerencia de la Compañía considera que la liquidación de esta 
+subsidiaria se concretará durante 2025. 
+ 
+(d) Emisión de estados financieros separados - 
+ 
+Los presentes estados financieros separados de Leche Gloria S.A. han sido preparados en 
+cumplimiento de requerimientos vigentes en Perú para la presentación de información financiera 
+separada para la Superintendencia del Mercado de Valores (SMV). Estos estados financieros 
+separados reflejan el valor de sus inversiones en sus subsidiarias medidas al costo (Nota 2.3 (f)) y no 
+sobre bases consolidadas; y la inversión en asociada se refleja al costo y no al método de 
+participación patrimonial, por lo que se deben leer junto con los estados financieros consolidados al 31 
+de diciembre de 2024 y de 2023, de Leche Gloria S.A. y subsidiarias, que se presentarán por 
+separado dentro de los plazos establecidos por el ente regulador. 
+ 
+2 RESUMEN DE POLÍTICAS CONTABLES SIGNIFICATIVAS 
+ 
+A continuación, se presentan las principales políticas contables utilizadas en la preparación de los 
+estados financieros separados de la Compañía: 
+ 
+2.1 Bases de preparación - 
+ 
+Los estados financieros separados de la Compañía han sido preparados de acuerdo con las Normas 
+Internacionales de Información Financiera (NIIF) emitidas por la International Accounting Standard 
+Board (IASB) vigentes al 31 de diciembre de 2024. La información contenida en estos estados 
+financieros separados es responsabilidad de la Gerencia y del Directorio de la Compañía quien 
+manifiesta expresamente que se han aplicado en su totalidad los principios y criterios contemplados 
+en las NIIF emitidas por el IASB. 
+ 
+De acuerdo con dichas normas, no existe obligación de preparar estados financieros separados; sin 
+embargo, en Perú las empresas tienen la obligación de prepararlos de acuerdo con las normas legales 
+vigentes. Debido a esto, la Compañía ha preparado estados financieros separados de acuerdo con la 
+NIC 27, ‘Estados financieros separados’.  
+ 
+La Compañía también prepara estados financieros consolidados de acuerdo con lo previsto en la NIIF 
+10, ‘Estados financieros consolidados’, que se presentan de forma separada. Para una correcta 
+interpretación de los estados financieros separados de acuerdo con NIIF, estos deben leerse junto con 
+los estados financieros consolidados de la Compañía y sus subsidiarias que se presentan por 
+separado.  
+ 
+Base de medición - 
+ 
+Los estados financieros separados adjuntos han sido preparados sobre la base del costo histórico, a 
+partir de los registros de contabilidad mantenidos por la Compañía. Los estados financieros separados 
+adjuntos se presentan en miles de soles (moneda funcional y de presentación), excepto cuando se 
+indique lo contrario.  
+ 
+La preparación de los estados financieros separados de acuerdo a NIIF requiere el uso de ciertos 
+estimados contables críticos. También requiere que la Gerencia ejerza su juicio en el proceso de 
+aplicación de las políticas contables de la Compañía, ver nota 2.4.  
+  
+
+=== PAGINA PDF 16 ===
+- 14 -
+2.2 Normas, modificaciones e interpretaciones - 
+2.2.1 Nuevas normas y modificaciones vigentes desde el 1 de enero de 2024 adoptadas por la 
+Compañía - 
+En el marco de las NIIF, se han emitido ciertos cambios contables que tienen vigencia desde el 1 de 
+enero de 2024. Estos cambios han sido tomados en cuenta por la Compañía para la preparación de 
+los estados financieros separados de 2024; sin embargo, no han tenido un impacto relevante para el 
+año corriente, ni se espera que lo tengan en periodos futuros. Estos cambios contables se resumen 
+como sigue: 
+● Modificaciones a la NIC 1: Clasificación de pasivos como corrientes o no corrientes
+● Modificación a la NIIF 16: Ventas con arrendamiento posterior
+● Modificaciones a la NIC 7 y la NIIF 7: Acuerdos de financiamiento de proveedores
+2.2.2 Nuevas normas y modificaciones e interpretaciones aplicables a la Compañía vigentes 
+para los estados financieros de períodos anuales que se inicien el o después del 1 de 
+enero de 2025 y que no han sido adoptadas anticipadamente – 
+A la fecha, se han publicado las siguientes normas y modificaciones a normas que son de aplicación 
+obligatoria el o después del 1 de enero de 2025 y no han sido adoptadas de forma anticipada por la 
+Compañía: 
+● Modificaciones a la NIC 21 - Falta de intercambiabilidad
+● Modificaciones a las NIIF 9 y NIIF 7 - Modificaciones a la clasificación y medición de instrumentos
+financieros
+● NIIF 18, Presentación y revelación en estados financieros
+● NIIF 19, Subsidiarias sin obligación pública de rendir cuentas: Información a revelar
+● Mejoras anuales a las NIIF 2024 – Volumen 11
+● Modificaciones a la NIIF 10 y NIC 28 – Venta o contribución de activos entre un inversionista y su
+asociada o negocio conjunto –
+La Compañía evaluará el impacto de las presentes normas y modificaciones en 2025. 
+2.3 Resumen de políticas cont ables significativas - 
+A continuación, se presentan las políticas contables significativas utilizadas por la Gerencia de la 
+Compañía en la preparación de los estados financieros separados:  
+(a) Traducción de moneda extranjera -
+Moneda funcional y de presentación - 
+Las partidas incluidas en los estados financieros separados de la Compañía se expresan en la 
+moneda del ambiente económico primario donde opera la entidad (moneda funcional). La moneda 
+funcional de la Compañía es el sol, la que también es la moneda de presentación de estos estados 
+financieros separados.  
+Transacciones y saldos en moneda extranjera - 
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda diferente a 
+la moneda funcional. Las transacciones en moneda extranjera son inicialmente registradas en la 
+moneda funcional usando los tipos de cambio vigentes en las fechas de las transacciones.  
+Los activos y pasivos monetarios denominados en moneda extranjera son posteriormente traducidos a 
+la moneda funcional usando los tipos de cambio del mercado libre que publica la Superintendencia de 
+Banca y Seguros y AFP.  
+
+=== PAGINA PDF 17 ===
+ 
+- 15 - 
+Las ganancias o pérdidas por diferencia en cambio resultante de la liquidación de dichas 
+transacciones y de la conversión de los activos y pasivos monetarios en moneda extranjera a los tipos 
+de cambio de la fecha de los estados financieros separados, son reconocidas en el rubro “Diferencia 
+de cambio, neta” del estado separado de resultados integrales. Los activos y pasivos no monetarios 
+determinados en moneda extranjera son convertidos a la moneda funcional al tipo de cambio a la 
+fecha de la transacción.  
+ 
+(b) Instrumentos financieros:  
+ 
+(b.1) Activos financieros -  
+ 
+Clasificación y medición inicial - 
+ 
+La Compañía clasifica sus activos financieros en las siguientes categorías:  
+ 
+- Medidos a valor razonable (sea a través de resultados o de otros resultados integrales), y  
+- Medidos al costo amortizado. 
+ 
+La clasificación depende del modelo de negocio que la Compañía tiene para administrar sus activos 
+financieros y de los términos contractuales que impactan los flujos de efectivo.  
+ 
+Los activos financieros no se reclasifican después de su reconocimiento inicial, excepto si el Grupo 
+cambia su modelo de negocio para su gestión.  
+ 
+La Compañía mide los activos financieros al costo amortizado, los cuales son posteriormente medidos 
+usando el método de interés efectivo y están sujetos a deterioro. Las ganancias y pérdidas son 
+reconocidas en resultados cuando el activo es dado de baja, modificado o deteriorado.   
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalentes de efectivo, cuentas por 
+cobrar comerciales, otras cuentas por cobrar y cuentas por cobrar relacionadas, los cuales son 
+medidos al costo amortizado.  
+ 
+Se reconocen ingresos por intereses por los préstamos por cobrar sobre la base de la proporción de 
+tiempo transcurrido, usando el método de interés efectivo. Cuando el préstamo o cuenta por cobrar ha 
+sufrido deterioro, la Compañía reduce el valor en libros a su valor recuperable, siendo los flujos de 
+efectivo futuros descontados a la tasa de interés original.  
+ 
+Medición posterior - 
+ 
+Instrumentos de deuda - 
+ 
+La medición posterior de instrumentos de deuda depende del modelo de negocio que la Compañía ha  
+establecido para la gestión del activo, así como de las características de los flujos del activo que se  
+derivan del activo. Existen tres posibles categorías en las cuales se pueden clasificar instrumentos de 
+deuda, estas son: 
+ 
+- Costo amortizado. 
+- Valor razonable a través de otros resultados integrales (VRORI). 
+- Valor razonable a través de resultados (VRGyP). 
+ 
+Al 31 de diciembre de 2024 y de 2023, la Compañía solo mantuvo instrumentos de deuda al costo 
+amortizado. 
+  
+
+=== PAGINA PDF 18 ===
+ 
+- 16 - 
+El costo amortizado es aplicable para activos cuyo modelo de negocio es cobrar los flujos de caj a 
+contractuales, siempre que estos flujos de caja solo representen pagos de capital e intereses. Los 
+intereses que generan estos activos financieros se reconocen como ingreso financiero usando el 
+método de interés efectivo. Cualquier ganancia o pérdida que surja de la baja de este tipo de activo 
+financiero, se reconoce en resultados y se presenta en la partida de “Otros ingresos operativos” o de 
+“Otros gastos operativos” junto con las ganancias o pérdidas por diferencia en cambio asociadas . Las 
+pérdidas por deterioro de activos financieros se presentan dentro de la partida “Gastos de venta y 
+distribución”.  
+ 
+Baja en cuentas -  
+ 
+Un activo financiero (o, de corresponder, parte de un activo financiero o parte de un grupo de activos 
+financieros similares) se da de baja en cuentas, es decir, se elimina del estado separado de situación 
+financiera cuando:  
+ 
+- Han expirado los derechos contractuales a recibir los flujos de efectivo generados por el activo; o   
+ 
+- La Compañía ha transferido sus derechos para recibir los flujos de efectivo generados por el 
+activo, o retiene los derechos contractuales a recibir los flujos de efectivo del activo financiero, 
+pero asume la obligación contractual de pagarlos a uno o más perceptores, dentro de un acuerdo 
+sin una demora significativa, a través de un acuerdo de intermediación; y (a) se ha transferido 
+sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo; o (b) no ha 
+transferido ni retenido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del 
+activo, pero ha transferido el control del activo.  
+ 
+(b.2) Deterioro de los activos financieros - 
+ 
+La Compañía reconoce una provisión por deterioro bajo un modelo de pérdida de crédito esperada 
+(PCE) para todos los instrumentos de deuda no mantenidos al valor razonable a través de resultados. 
+La PCE se determina como la diferencia entre los flujos de caja contractuales que vencen de acuerdo 
+con el contrato y todos los flujos de caja que la Compañía espera recibir, descontado s a una tasa que 
+se aproxima a la tasa efectiva de interés original. Los flujos de caja esperados incluirán flujos de caja 
+producto de la venta de garantías mantenidas u otras garantías recibidas.  
+ 
+Para la determinación de la PCE existe dos enfoques, (a) el enfoque general que requiere determinar 
+la PCE por eventos de incumplimiento esperados en los siguientes 12 meses y, luego, si hubiera un 
+incremento significativo en el riesgo de crédito, estimar la PCE para toda la vida del instrumento, y (b) 
+el enfoque simplificado que se explica seguidamente. 
+ 
+Para cuentas por cobrar comerciales, la Compañía aplica el enfoque simplificado al calcular la PCE. 
+En base a ello, la Compañía no monitorea los cambios en el riesgo de crédito, en vez de esto, 
+reconoce una provisión por deterioro por la “PCE durante toda la vida”, en cada fecha de reporte. La 
+Compañía ha establecido una matriz de provisión que se basa en la experiencia de pérdida histórica, 
+ajustada por factores esperados específicos a los deudores y al entorno económico.   
+ 
+La Compañía toma en cuenta los conceptos de pérdida esperada para evaluar la necesidad de 
+efectuar provisiones por deterioro de sus cuentas por cobrar comerciales y diversas a entidades 
+relacionadas. En dichos casos, considerando que la oportunidad de pagos se influye de la política de 
+tesorería del Grupo, solo se monitorea cualquier circunstancia excepcional para reconocer provisiones 
+por deterioro.  
+  
+
+=== PAGINA PDF 19 ===
+ 
+- 17 - 
+(b.3) Pasivos financieros - 
+ 
+Reconocimiento y medición inicial - 
+ 
+Los pasivos financieros se clasifican, al momento de su reconocimiento inicial, como pasivos 
+financieros al valor razonable con cambios en resultados, préstamos o cuentas por pagar al costo 
+amortizado, o como derivados designados como instrumentos de cobertura en una cobertura eficaz, 
+según corresponda.  
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable y, en el caso de los 
+préstamos y cuentas por pagar, netos de los costos de transacción directamente atribuibles.   
+ 
+Medición posterior - 
+ 
+La medición posterior de los pasivos financieros depende de su clasificación. Al 31 de diciembre de 
+2024 y de 2023, la Compañía únicamente mantiene pasivos clasificados al “costo amortizado”, los 
+cuales se miden utilizando el método de la tasa de interés efectiva. Las ganancias y pérdidas se 
+reconocen en resultados cuando los pasivos se dan de baja, así como también a través del proceso 
+de amortización de acuerdo con el método de la tasa de interés efectiva.  
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en la adquisición y las 
+comisiones o los costos que sean una parte integrante de la tasa de interés efectiva . La amortización 
+de acuerdo con el método de interés efectivo se reconoce como gasto financiero en el estado 
+separado de resultados integrales.  
+ 
+Al 31 de diciembre de 2024 y de 2023, la Compañía mantiene dentro de esta categoría a las 
+obligaciones financieras, cuentas por pagar comerciales, otros pasivos corrientes y cuentas por pagar 
+a entidades relacionadas. La Compañía presenta los intereses devengados pendientes de pago de las 
+obligaciones financieras en el rubro de “Otros pasivos y provisiones” del estado separado de situación 
+financiera (nota 16).  
+ 
+Baja en cuentas - 
+ 
+Un pasivo financiero se da de baja cuando la obligación especificada en el correspondiente contrato 
+se ha pagado o cancelado, o ha vencido.  
+ 
+Cuando un pasivo financiero existente es reemplazado por otro pasivo proveniente del mismo 
+acreedor bajo condiciones sustancialmente diferentes, o si las condiciones de un pasivo existente se 
+modifican de manera sustancial, tal permuta o modificación se trata como una baja del pasivo original 
+y el reconocimiento de un nuevo pasivo, y la diferencia entre los importes respectivos en libro s se 
+reconoce en resultados. 
+ 
+(b.4) Compensación de instrumentos financieros - 
+ 
+Los activos y pasivos financieros se compensan y el monto neto es reportado en el estado separado 
+de situación financiera cuando existe derecho legalmente exigible para compensar los montos 
+reconocidos y si existe la intención de liquidarlos sobre bases netas o de realizar el activo y pagar el 
+pasivo simultáneamente. El derecho legalmente exigible no debe ser contingente a eventos futuros y 
+debe ser exigible en el curso ordinario del negocio y en algún evento de incumplimiento o insolvencia 
+de la Compañía o de la contraparte.  
+  
+
+=== PAGINA PDF 20 ===
+ 
+- 18 - 
+(b.5) Valor razonable de los instrumentos financieros - 
+ 
+El valor razonable es el precio que se recibiría por vender un activo o que se pagaría al transferir un 
+pasivo en una transacción ordenada entre partícipes de mercado a la fecha de medición.  
+ 
+El valor razonable de un activo o pasivo se mide utilizando los supuestos que un partícipe de mercado 
+usaría al asignarle valor al activo o pasivo, asumiendo que los partícipes de mercado actúan en su 
+mejor interés económico.  
+ 
+La Compañía utiliza técnicas de valorización que son apropiadas en las circunstancias y por las 
+cuales tiene suficiente información disponible para medir al valor razonable, maximizando el uso de 
+datos observables relevantes y minimizando el uso de datos no observables.   
+ 
+Todos los activos y pasivos por los cuales se determinan o revelan valores razonables en los estados 
+financieros separados son clasificados dentro de la jerarquía de valor razonable, descrita a 
+continuación, en base al nivel más bajo de los datos usados que sean significativos para la medición 
+al valor razonable como un todo: 
+ 
+- Nivel 1: Precios cotizados (no ajustados) en mercados activos para activos o pasivos idénticos a 
+los que la entidad puede acceder en la fecha de la medición.  
+ 
+- Nivel 2: Técnicas de valorización por las cuales el nivel más bajo de información que es 
+significativo para la medición al valor razonable es directa o indirectamente observable.   
+ 
+- Nivel 3: Técnicas de valorización por las cuales el nivel más bajo de información que es 
+significativo para la medición al valor razonable no es observable.  
+ 
+Para los activos y pasivos que son reconocidos al valor razonable en los estados financieros 
+separados sobre una base recurrente, la Compañía determina si se han producido transferencias 
+entre los diferentes niveles dentro de la jerarquía mediante la revisión de la categorización al final de 
+cada período de reporte. Al 31 de diciembre de 2024 y de 2023, la Compañía no presenta activos o 
+pasivos financieros medidos al valor razonable.  
+ 
+Para propósitos de las revelaciones de valor razonable, la Compañía ha determinado las clases de 
+activos y pasivos sobre la base de su naturaleza, características y riesgos y el nivel de la jerarquía de 
+valor razonable tal como se explicó anteriormente. El valor en libros del efectivo y equivalentes de 
+efectivo corresponde a su valor razonable. Al 31 de diciembre de 2024 y de 2023, el valor en libros de 
+las cuentas por cobrar y por pagar corrientes se considera se aproximan a su valor razonable, por su 
+vencimiento en el corto plazo. El valor razonable de las obligaciones financieras de largo plazo se 
+revela en la nota 14.  
+ 
+(c) Efectivo y equivalentes de efectivo - 
+ 
+Para propósitos de presentación en el estado separado de situación financiera y en el estado 
+separado de flujos de efectivo, el efectivo y equivalentes de efectivo incluye el efectivo disponible, el 
+efectivo disponible en cuentas corrientes, así como depósitos a plazo en entidades financieras y otras 
+inversiones de corto plazo altamente líquidas con vencimientos de tres meses o menos.   
+ 
+(d) Inventarios - 
+ 
+Los inventarios se reconocen al costo o al valor neto de realización, el menor. El valor neto de 
+realización es el precio de venta estimado en el curso ordinario del negocio, menos los costos 
+estimados de terminación y los gastos estimados necesarios para llevar a cabo la venta.  
+  
+
+=== PAGINA PDF 21 ===
+ 
+- 19 - 
+Los inventarios se contabilizan de la siguiente manera: 
+ 
+Productos terminados, envases y en proceso -  
+ 
+Se registran al costo de producción, que incluye el costo de las materias primas, mano de obra 
+directa, otros costos directos y una proporción de los costos indirectos fijos y variables de fabricación 
+basada en la capacidad normal de operación; excluyendo los costos de financiamiento  y las 
+diferencias de cambio. Posteriormente, se sigue el método del costo promedio ponderado mensual.  
+ 
+La capacidad normal se define como el nivel de uso de la capacidad que satisface la demanda 
+promedio de la Compañía a lo largo de cierto período.  
+ 
+Repuestos - 
+ 
+Se registran al costo de adquisición y son reconocidos como consumos de repuestos cuando son 
+utilizados por mantenimiento, reconociéndose en el rubro de “Costo de ventas  de bienes y servicios” 
+del estado separado de resultados integrales. 
+ 
+Materias primas, mercaderías, embalajes y diversos - 
+ 
+Se registran al costo de adquisición, siguiendo el método del costo promedio ponderado mensual.  
+ 
+La provisión por desvalorización es determinada en función a un análisis efectuado sobre las 
+condiciones y la rotación de los bienes. El cargo por esta provisión se reconoce en los resultados y se 
+analiza su naturaleza para determinar su presentación. La desvalorización identificada en almacenes 
+propios se presenta como parte del “Costo de ventas de bienes y servicios”, la que surge de productos 
+devueltos de clientes se presenta como “Gastos de venta y distribución” y la que se origina de 
+siniestros se presenta como “Gastos de administración”.  
+ 
+Los inventarios por recibir se refieren a aquellas adquisiciones de materiales y suministros que a la 
+fecha de cierre son propiedad de la Compañía pero aún no tienen ingreso al almacén, y se registran al 
+costo específico de adquisición.  
+ 
+(e) Gastos pagados por anticipado -  
+ 
+Los seguros pagados por adelantado se reconocen como un activo dentro de esta partida, por el valor 
+de la prima pagada para la cobertura de los diferentes activos y riesgos. El valor de este activo es 
+transferido a resultados de forma lineal durante el plazo de vigencia de las pólizas correspondientes.  
+ 
+Los pagos adelantados por servicios diversos se reconocen como un activo, el que es transferido a 
+resultados conforme el servicio es recibido.  
+ 
+(f) Inversiones en subsidiarias y asociadas -  
+ 
+Reconocimiento - 
+ 
+Subsidiarias  
+ 
+Las subsidiarias son todas las entidades sobre las que la Compañía tiene el poder de gobernar sus 
+políticas operativas y financieras generalmente por ser propietario de más de la mitad de sus acciones 
+con derecho a voto. 
+ 
+El control se obtiene cuando la Compañía está expuesta o tiene derecho a rendimientos variables 
+procedentes de su participación en la entidad receptora de la inversión, y tiene la capacidad de afectar 
+tales rendimientos a través de su poder sobre esta última.  
+  
+
+=== PAGINA PDF 22 ===
+ 
+- 20 - 
+Específicamente, la Compañía controla una entidad receptora de la inversión si tiene:   
+ 
+- Poder sobre la entidad receptora de la inversión; es decir, existen derechos que le otorgan la 
+capacidad presente de dirigir las actividades relevantes de la misma.  
+- Exposición o derecho a rendimientos variables procedentes de su participación en la entidad 
+receptora de la inversión, y  
+- Capacidad de utilizar su poder sobre la entidad receptora de la inversión para afectar sus 
+rendimientos de forma significativa.  
+ 
+Por lo general, se presume que una mayoría de votos o derechos similares de la entidad receptora de 
+la inversión otorgan el control sobre dicha entidad. La Compañía considera todos los hechos y 
+circunstancias pertinentes a fin de evaluar si tiene o no el poder sobre dicha entidad, lo que incluye:   
+ 
+- El acuerdo contractual entre la Compañía y los otros tenedores de voto de la entidad receptora de 
+la inversión. 
+- Los derechos que surjan de otros acuerdos contractuales.  
+- Los derechos de voto del inversor, sus derechos potenciales de voto o una combinación de 
+ambos.  
+ 
+La Compañía reevalúa si posee o no el control sobre una subsidiaria, si los hechos y las 
+circunstancias indican que existen cambios en uno o más de los tres elementos de control arriba 
+descritos.  
+ 
+Asociadas -  
+ 
+Las asociadas son todas las entidades sobre las que la Compañía ejerce influencia significativa pero 
+no control. La influencia significativa es el poder de participar en las decisiones sobre las políticas 
+financieras y operativas de la entidad en la que invierte, pero que no supone control o control conjunto 
+sobre esas políticas.  
+ 
+Medición y reconocimiento de ingresos por dividendos - 
+ 
+Las inversiones en subsidiarias y asociadas en los estados financieros separados se reconocen al 
+costo. Los dividendos en efectivo recibidos se reconocen como un ingreso en el estado separado de 
+resultados integrales, como parte del rubro “Ingresos financieros”, en el momento en que se aprueba 
+su distribución. Los dividendos en acciones recibidos no se reconocen como ingreso en el estado 
+separado de resultados integrales.  
+ 
+Después del reconocimiento inicial, la Compañía determina si es necesario reconocer una pérdida por 
+deterioro de las inversiones en subsidiarias y asociadas. La Compañía determina en cada fecha del 
+estado separado de situación financiera si hay una evidencia objetiva de que la s inversiones en 
+subsidiarias y asociadas han perdido valor. Si fuera el caso, la Compañía determina el importe del 
+deterioro como la diferencia entre el importe recuperable de la inversión en las subsidiarias o asociada 
+y su valor en libros y reconoce cualquier pérdida resultante en el estado separado de resultados 
+integrales.  
+ 
+(g) Propiedades de inversión - 
+ 
+Los inmuebles que se mantienen para generar rendimientos a largo plazo de su alquiler o para la 
+apreciación de su valor y que no son ocupados por la Compañía se clasifican como propiedades de 
+inversión.  
+ 
+Las propiedades de inversión son presentadas al costo, menos su depreciación acumulada y, si las 
+hubiere, las pérdidas acumuladas por deterioro. El costo de las propiedades de inversión corresponde 
+al monto pagado por los terrenos, más los costos incurridos en su respectiva edificación . Los costos 
+subsecuentes atribuibles a las propiedades de inversión se capitalizan solo cuando es probable que 
+se generen beneficios económicos futuros asociados con el activo para la Compañía y el costo de 
+estos activos pueda ser medido razonablemente, caso contrario se imputa a gasto cuando se incurren.   
+
+=== PAGINA PDF 23 ===
+ 
+- 21 - 
+Cuando el valor en libros de un inmueble es mayor que su valor recuperable estimado se reduce 
+inmediatamente a su valor recuperable. 
+ 
+Los terrenos que son clasificados como propiedad de inversión no se deprecian . La edificación está 
+sujeta a depreciación siguiendo el método de línea recta, a una tasa que es adecuada para extinguir el 
+costo al fin de la vida útil estimada, la cual se encuentra en un rango de 20 a 33 años.   
+ 
+Se realizan transferencias a o desde las propiedades de inversión solamente cuando exista un cambio 
+en el uso del activo. Para el caso de una transferencia desde una propiedad de inversión hacia un 
+componente de propiedades, planta y equipo, esta se efectúa a su valor en libros en la fecha del 
+cambio de uso. Si un componente de propiedades, planta y equipo se transfiere a una propiedad de 
+inversión, la Compañía contabiliza el activo hasta la fecha del cambio de uso de acuerdo con la 
+política contable establecida para las propiedades, planta y equipo.  
+ 
+Las propiedades de inversión se dan de baja, ya sea en el momento de su venta o cuando éstas se 
+retiran del uso en forma permanente, y no se espera recuperar beneficio económico alguno de su 
+venta. La diferencia entre el ingreso neto procedente de la venta y el importe en libros del activo se 
+reconoce en los resultados del período en el que el activo fue dado de baja.  
+ 
+(h) Propiedades, planta y equipo - 
+ 
+Los terrenos y edificios comprenden sustancialmente plantas, locales de ventas y oficinas . La partida 
+de propiedades, planta y equipo se presenta al costo menos su depreciación acumulada y, si las 
+hubiere, las pérdidas acumuladas por deterioro. El costo de un elemento de propiedades, planta y 
+equipo comprende su precio de compra o su costo de fabricación, incluyendo aranceles e impuestos 
+de compra no reembolsables y cualquier costo necesario para poner el activo en  las condiciones de 
+operación previstas por la Gerencia. El precio de compra o el costo de construcción corresponden al 
+total del importe pagado y el valor razonable de cualquier otra contraprestación entregada por adquirir 
+el activo.  
+ 
+Los costos subsecuentes atribuibles a los bienes del activo fijo se capitalizan sólo cuando es probable 
+que beneficios económicos futuros asociados con el activo se generen para la Compañía y el costo de 
+estos activos se pueda medir confiablemente, caso contrario se imputan al costo de producción o 
+gasto según corresponda. Los gastos de mantenimiento y de reparación se cargan al costo de 
+producción o al gasto, según corresponda, en el período en el que estos se incurren.  
+ 
+Los desembolsos incurridos para reemplazar un componente de una partida o elemento de 
+propiedades, planta y equipo se capitalizan por separado, castigándose el valor en libros del 
+componente que se reemplaza. En el caso de que el componente que se reemplaza no se haya 
+considerado como un componente separado del activo, el valor de reemplazo del componente nuevo 
+se usa para estimar el valor en libros del activo que se reemplaza.  
+ 
+Los activos en etapa de construcción y unidades por recibir se capitalizan como un componente 
+separado y se presentan como obras en curso. A su culminación, el costo de estos activos se 
+transfiere a su categoría definitiva.  
+ 
+Las partidas de propiedades, planta y equipo se dan de baja en el momento de su venta o cuando no 
+se esperan beneficios económicos de su uso o de su posterior venta. Las ganancias y pérdidas por la 
+venta de activos corresponden a la diferencia entre los ingresos de la transacción y el valor en libros 
+de los activos. Estas se incluyen en el estado separado de resultados integrales.  
+ 
+Los desembolsos de mantenimiento mayor comprenden el costo de reemplazo de partes de los 
+activos y los costos de reacondicionamiento que se realizan periódicamente con el objeto de mantener 
+la capacidad operativa del activo de acuerdo con sus especificaciones técnicas . Los desembolsos de 
+mantenimientos mayores se capitalizan al reconocimiento inicial del activo como un componente 
+separado del bien y se deprecian en el estimado del tiempo en que se requerirá el siguiente 
+mantenimiento mayor.   
+
+=== PAGINA PDF 24 ===
+ 
+- 22 - 
+Los terrenos, las obras en curso y las unidades por recibir no se deprecian. La depreciación de los 
+otros activos se calcula por el método de línea recta para asignar su costo menos su valor residual 
+durante el estimado de su vida útil. Las vidas útiles determinadas por rubro son como siguen:  
+ 
+  Años 
+   
+Edificios, plantas y otras construcciones  Hasta 33 
+Maquinaria y equipo  Entre 3 y 30 
+Repuestos (incluidos en maquinaria y equipo)  Hasta 5 
+Unidades de transporte  Entre 5 y 20 
+Muebles y enseres  10 
+ 
+Los valores residuales, la vida útil de los activos y los métodos de depreciación aplicados se revisan 
+de forma anual y se ajustan, de ser necesario. Cualquier modificación se trata como cambios de 
+estimados contables, los cuales se ajustan prospectivamente. 
+ 
+(i) Activos intangibles - 
+ 
+Los activos intangibles adquiridos en forma separada se miden inicialmente al costo . Después del 
+reconocimiento inicial, los activos intangibles se contabilizan al costo menos la amortización y 
+cualquier pérdida acumulada por deterioro del valor, en caso de existir.  
+ 
+Los activos intangibles con vidas útiles limitadas, representadas por software y licencias, se amortizan 
+a lo largo de sus vidas útiles económicas, estimadas en 4 años, y se revisan para determinar si 
+tuvieron algún deterioro del valor en la medida en que exista algún indicio de que el activo intangible 
+pudiera haber sufrido dicho deterioro. El período y el método de amortización para un activo intangible 
+con una vida útil limitada se revisan al menos al cierre de cada período sobre el que se informa . Los 
+cambios en la vida útil esperada o el patrón esperado de consumo del activo se contabilizan al 
+modificarse el período o el método de amortización, según corresponda, y se tratan como cambios en 
+las estimaciones contables.  
+ 
+El gasto por amortización de activos intangibles con vidas útiles limitadas se reconoce en el estado 
+separado de resultados integrales en la categoría de gastos que resulte más coherente con su 
+función.  
+ 
+El activo intangible con vida útil indefinida, representado por la marca “Milkito”, no se amortiza, pero se 
+somete a revisiones anuales para determinar si sufrieron algún deterioro del valor, ya sea en forma 
+individual o a nivel de la unidad generadora de efectivo a la que pertenecen. Una vida útil indefinida se 
+revisa en forma anual para determinar si la misma sigue siendo apropiada. En caso de no serlo, el 
+cambio de vida útil de ilimitada a limitada se contabiliza en forma prospectiva.   
+ 
+La Compañía se encuentra desarrollando módulos adicionales al sistema SAP  que al 31 de diciembre 
+de 2024 se presentan como intangibles en curso. Los intangibles en curso no se amortizan. 
+ 
+(j) Deterioro de activos no financieros -  
+ 
+A cada fecha de cierre del período sobre el que se informa, la Compañía evalúa si existe algún indicio 
+de que el valor de un activo pudiera estar deteriorado. La Compañía estima el importe recuperable de 
+un activo cuando existe tal indicio, o cuando se requiere efectuar una prueba anual de deterioro de su 
+valor.  
+ 
+El importe recuperable de un activo es el mayor valor entre el valor razonable menos los costos para 
+su venta, ya sea de un activo o de una unidad generadora de efectivo, y su valor en uso, y se 
+determina para un activo individual, salvo que el activo no genere flujos de efectivo que sean 
+sustancialmente independientes de los otros activos o grupos de activos.  
+ 
+Cuando el importe en libros de un activo o de una unidad generadora de efectivo excede su importe 
+recuperable, el activo se considera deteriorado y su valor se reduce a su importe recuperable.  
+
+=== PAGINA PDF 25 ===
+ 
+- 23 - 
+Al evaluar el valor en uso de un activo, los flujos de efectivo estimados se descuentan a su valor 
+presente mediante una tasa de descuento antes de impuestos que refleja las evaluaciones corrientes 
+del mercado sobre el valor temporal del dinero y los riesgos específicos del activo . Para la 
+determinación del valor razonable menos los costos de venta se toman en cuenta las transacciones 
+recientes de mercado, si las hubiera. Si no existen dichas transacciones, se usan modelos de 
+valorización.  
+ 
+Las pérdidas por deterioro del valor correspondientes a las operaciones continuas, incluido el deterioro 
+del valor de los inventarios, se reconocen en el estado separado de resultados integrales en aquellas 
+categorías de gastos que correspondan con la función del activo deteriorado.  
+ 
+Para los activos en general, a cada fecha de cierre del período sobre el que se informa, se efectúa 
+una evaluación sobre si existe algún indicio de que las pérdidas por deterioro del valor reconocidas 
+previamente ya no existen o han disminuido. Si existiesen tales indicios, la Compañía estima el 
+importe recuperable del activo o de la unidad generadora de efectivo. Una pérdida por deterioro del 
+valor reconocida previamente solamente se revierte si hubo un cambio en los supuestos utilizados 
+para determinar el importe recuperable del activo desde la última vez en que se reconoció una pérdida 
+por deterioro del valor de ese activo.  
+ 
+La reversión se limita de manera tal que el importe en libros del activo no exceda su monto 
+recuperable, ni exceda el importe en libros que se hubiera determinado, neto de la depreciación 
+acumulada, si no se hubiese reconocido una pérdida por deterioro del valor para ese activo en años 
+anteriores. Tal reversión se reconoce en resultados. 
+ 
+(k) Arrendamientos - 
+ 
+La Compañía evalúa al inicio del contrato si un contrato es, o contiene, un arrendamiento . Es decir, si 
+el contrato transmite el derecho de controlar el uso de un activo identificado por un período de tiempo 
+a cambio de una contraprestación.  
+ 
+La Compañía aplica un enfoque único de reconocimiento y medición para todos los arrendamientos, 
+excepto para los arrendamientos a corto plazo y los arrendamientos de activos de bajo valor . La 
+Compañía reconoce los pasivos por arrendamiento para realizar pagos por arrendamiento y activos 
+por derecho de uso que representan el derecho a utilizar los activos subyacentes.   
+ 
+(k.1) Activo por derechos de uso - 
+ 
+La Compañía reconoce un activo por derecho de uso en la fecha de inicio del arrendamiento (es decir, 
+la fecha en que el activo subyacente está disponible para su uso). Los activos por derechos de uso se 
+miden al costo, menos cualquier depreciación acumulada y pérdidas por deterioro, y se ajustan para 
+cualquier nueva medición de los pasivos por arrendamiento.  
+ 
+El costo de los activos por derecho de uso incluye el valor de los pasivos por arrendamiento 
+reconocidos, los costos directos iniciales incurridos y los pagos de arrendamiento realizados en la 
+fecha de inicio o antes, menos los incentivos de arrendamiento recibidos. Los activos por derecho de 
+uso se deprecian de forma lineal durante el plazo más corto del arrendamiento y la vida útil estimada 
+de los activos. El plazo de depreciación de los activos por derecho de uso de los contratos de 
+arrendamiento, por cada categoría de activo subyacente, son:  
+ 
+Contratos de arrendamiento de:  Años    
+Terrenos  Entre 3 y 20 
+Edificios, plantas y otras construcciones  Hasta 33 
+Maquinaria y equipos  Entre 3 y 30 
+Unidades de transporte  Entre 5 y 20 
+  
+
+=== PAGINA PDF 26 ===
+ 
+- 24 - 
+La determinación de si un acuerdo es, o contiene, un arrendamiento se basa en la sustancia del 
+contrato en la fecha de inicio de este. 
+ 
+Es necesario evaluar si el cumplimiento del contrato depende del uso de un activo o activos 
+específicos o si el contrato traslada el derecho de usar el activo o activos, aún si ese derecho no está 
+explícitamente especificado en el contrato. 
+ 
+(k.2) Pasivo por arrendamientos - 
+ 
+A la fecha de inicio del arrendamiento, la Compañía reconoce los pasivos por arrendamiento medidos 
+al valor presente de los pagos por arrendamiento que se realizarán durante el plazo del 
+arrendamiento. Los pagos de arrendamiento incluyen pagos fijos (incluyendo pagos fijos en sustancia) 
+menos cualquier incentivo de arrendamiento por cobrar, pagos de arrendamiento variables que 
+dependen de un índice o una tasa, y montos que se espera pagar bajo garantías de valor residual . Los 
+pagos de arrendamiento también incluyen el precio de ejercicio de una opción de compra 
+razonablemente segura para ser ejercida por la Compañía y los pagos de penalidades por rescindir el 
+arrendamiento, si el plazo del arrendamiento refleja que la Compañía ejercerá la opción de rescindir.  
+ 
+Los pagos de arrendamiento variables que no dependen de un índice o una tasa se reconocen como 
+gastos (a menos que se incurra para producir inventarios) en el período en el que ocurre el evento o 
+condición que desencadena el pago.  
+ 
+Al calcular el valor presente de los pagos de arrendamiento, la Compañía utiliza la tasa de interés 
+incremental que le aplica en la fecha de inicio del arrendamiento, debido a que la tasa de interés 
+implícita en el arrendamiento no es determinable de forma simple. Después de la fecha de inicio, el 
+monto de los pasivos por arrendamiento se incrementa para reflejar la acumulación de intereses y se 
+reduce por los pagos de arrendamiento realizados. Además, el importe en libros de los pasivos por 
+arrendamiento se vuelve a medir si hay una modificación por cambios en el plazo del arrendamiento, 
+en la evaluación de una opción de compra, en los importes por pagar esperados relacionados con una 
+garantía de valor residual y en los pagos futuros procedentes de un cambio en un índice o tasa.  
+ 
+Arrendamientos a corto plazo y arrendamientos de activos de bajo valor - 
+ 
+La Compañía aplica la excepción de reconocimiento de arrendamiento a corto plazo por sus 
+arrendamientos de activos a corto plazo (es decir, aquellos arrendamientos que tienen un plazo 
+de arrendamiento de 12 meses o menos desde la fecha de inicio y no conti enen una opción de 
+compra). También aplica la excepción de reconocimiento de activos de bajo valor a los 
+arrendamientos de equipos de oficina que se consideran de bajo valor. Los pagos de 
+arrendamiento en arrendamientos a corto plazo y arrendamientos de activos de bajo valor se 
+reconocen como gastos de forma lineal durante el plazo del arrendamiento.  
+ 
+Política contable como arrendador - 
+ 
+Un arrendador clasificará cada uno de sus arrendamientos como un arrendamiento operativo o un 
+arrendamiento financiero.  
+ 
+Un arrendamiento se clasificará como financiero cuando transfiera sustancialmente todos los riesgos y 
+beneficios inherentes a la propiedad de un activo subyacente. Un arrendamiento se clasificará como 
+operativo si no transfiere sustancialmente todos los riesgos y beneficios inherentes a la propiedad de 
+un activo subyacente.  
+ 
+Los ingresos por arrendamientos operativos en los que la Compañía es un arrendador se  reconocen 
+en resultados bajo el método de línea recta durante el plazo del arrendamiento. Los costos directos 
+iniciales incurridos en la obtención de un arrendamiento operativo se agregan al valor en libros del 
+activo subyacente y se reconocen como gastos durante el plazo del arrendamiento en la misma base 
+que los ingresos del arrendamiento. Los respectivos activos arrendados se incluyen en el estado 
+separado de situación financiera en función de su naturaleza. 
+ 
+Las propiedades que la Compañía arrienda a terceros se encuentran en el alcance de la política 
+2.3(g).  
+
+=== PAGINA PDF 27 ===
+ 
+- 25 - 
+(l) Provisiones - 
+ 
+Las provisiones se reconocen cuando la Compañía tiene una obligación presente (legal o implícita) 
+como resultado de un suceso pasado, es probable que la entidad tenga que desprenderse de recursos 
+que incorporan beneficios económicos para cancelar la obligación, y cuando pueda hacerse una 
+estimación confiable de su importe.  
+ 
+En los casos en que la Compañía espera que la provisión se reembolse en todo o en parte, por 
+ejemplo, en virtud de un contrato de seguros, el reembolso se reconoce como un activo separado 
+únicamente en los casos en que tal reembolso sea virtualmente seguro de obtener.  
+ 
+El gasto correspondiente a cualquier provisión se presenta en el estado separado de resultados 
+integrales neto de todo reembolso relacionado.  
+ 
+Si el efecto del valor en el tiempo del dinero es significativo, las provisiones se descuentan utilizando 
+una tasa actual de mercado antes de impuestos que refleja, cuando corresponda, los riesgos 
+específicos del pasivo. Cuando se reconoce el descuento, el aumento de la provisión producto del 
+paso del tiempo se reconoce como un gasto financiero en el estado separado de resultados integrales.   
+ 
+(m) Pasivos y activos contingentes - 
+ 
+Un pasivo contingente es divulgado cuando la existencia de una obligación sólo será confirmada por 
+eventos futuros o cuando el importe de la obligación no puede ser medido con suficiente confiabilidad , 
+a menos que la posibilidad de salida de recursos sea remota. Los activos contingentes no son 
+reconocidos, pero son divulgados cuando es probable que se produzca un ingreso de beneficios 
+económicos hacia la Compañía.  
+ 
+Por su naturaleza, las contingencias sólo se resolverán cuando uno o más eventos futuros ocurran o 
+no. La determinación de las contingencias involucra inherentemente el ejercicio de juicio y el cálculo 
+de estimados de los resultados de eventos futuros.  
+ 
+(n) Impuesto a las ganancias - 
+ 
+(n.1) Impuesto a las ganancias corriente - 
+ 
+Los activos y pasivos por el impuesto a las ganancias corriente se miden por los importes que se 
+esperan recuperar o pagar de o a la autoridad fiscal, respectivamente. Las tasas impositivas y la 
+normativa fiscal utilizadas para computar dichos importes son aquellas que estén aprobadas o cuyo  
+procedimiento de aprobación se encuentre próximo a completarse a la fecha de cierre del periodo 
+sobre el que se informa, correspondientes a Perú, país en el que la Compañía opera y genera 
+utilidades sujetas al impuesto.  
+ 
+El impuesto a las ganancias corriente se calcula por el monto que se espera será recuperado o 
+pagado a las autoridades tributarias, en base a los estados financieros de la Compañía.  
+ 
+El impuesto a las ganancias corriente que se relaciona con partidas que se reconocen directamente 
+en el patrimonio, también se reconoce en el patrimonio y no en el estado separado de resultados 
+integrales. La Gerencia evalúa en forma periódica las posiciones tomadas en las declaraciones de 
+impuestos con respecto a las situaciones en las que las normas fiscales aplicables se encuentran 
+sujetas a interpretación, y constituye provisiones cuando fuera apropiado. 
+ 
+(n.2) Impuesto a las ganancias diferido - 
+ 
+El impuesto a las ganancias diferido se reconoce utilizando el método del pasivo sobre las diferencias 
+temporales entre las bases impositivas de los activos y pasivos y sus importes en libros a la fecha de 
+cierre del periodo sobre el que se informa. 
+  
+
+=== PAGINA PDF 28 ===
+ 
+- 26 - 
+Los pasivos por impuesto diferido se reconocen por todas las diferencias temporales imponibles, salvo 
+las diferencias temporales imponibles relacionadas con las inversiones en subsidiarias, dado que su 
+reversión se puede controlar, y es probable que las mismas no se reversen en el futuro cercano.   
+ 
+Los activos por impuesto diferido se reconocen por todas las diferencias temporales deducibles, y por 
+la compensación futura de créditos fiscales y pérdidas tributarias arrastrables no utilizadas, en la 
+medida en que sea probable la existencia de ganancias imponibles disponibles futuras contr a las 
+cuales se puedan compensar dichas diferencias temporales deducibles, y/o se puedan utilizar dichos 
+créditos fiscales y pérdidas tributarias arrastrables, salvo las diferencias temporales deducibles 
+relacionadas con las inversiones en subsidiarias, asociadas y participaciones en negocios conjuntos, 
+donde los activos por impuesto diferido se reconocen solamente en la medida en que sea probable 
+que las diferencias temporales deducibles se reviertan en un futuro cercano, y que existan ganancias 
+imponibles disponibles futuras contra las cuales se puedan compensar dichas diferencias.   
+ 
+El importe en libros de los activos por impuesto diferido se revisa en cada fecha de cierre del periodo 
+sobre el que se informa y se reduce en la medida en que ya no sea probable la existencia de 
+suficiente ganancia imponible futura para permitir que esos activos por impuesto diferido sean 
+utilizados total o parcialmente. Los activos por impuesto diferido no reconocidos se reevalúan en cada 
+fecha de cierre del periodo sobre el que se informa y se reconocen en la medida en que se torne 
+probable la existencia de ganancias imponibles futuras que permitan recuperar dichos activos por 
+impuesto diferido no reconocidos con anterioridad.  
+ 
+Los activos y pasivos por impuesto diferido se miden a las tasas impositivas que se espera se 
+apliquen en el ejercicio en el que el activo se realice o el pasivo se cancele, en base a las tasas 
+impositivas y normas fiscales que fueron aprobadas a la fecha de cierre del periodo sobre el que se 
+informa, o cuyo procedimiento de aprobación se encuentre próximo a completarse a esa fecha . El 
+impuesto diferido se reconoce en relación con la partida que lo origina, ya sea en otros resultados 
+integrales o directamente en el patrimonio.  
+ 
+La medición de los activos y pasivos diferidos refleja las consecuencias tributarias derivadas de la 
+forma en que la Compañía espera recuperar o liquidar el valor de sus activos y pasivos a la fecha de 
+los estados financieros separados.  
+ 
+Los activos y pasivos por impuesto diferido se compensan si existe un derecho legalmente exigible de 
+compensar los activos y pasivos por impuesto a las ganancias corriente, y si los impuestos diferidos 
+se relacionan con la misma autoridad tributaria y la misma jurisdicción fiscal. 
+ 
+(o) Beneficios a los empleados - 
+ 
+(o.1) Vacaciones y gratificaciones - 
+ 
+Las vacaciones anuales de los trabajadores, sus gratificaciones y otros beneficios se calculan sobre la 
+base de disposiciones legales vigentes en Perú y son reconocidas sobre la base del devengado. La 
+obligación estimada por vacaciones anuales, gratificaciones y otros beneficios a los trabajadores 
+resultantes de sus servicios prestados, se reconocen a la fecha del estado separado de situación 
+financiera.  
+ 
+(o.2) Compensación por tiempo de servicios - 
+ 
+La compensación por tiempo de servicios de los trabajadores (CTS) corresponde a su derecho 
+indemnizatorio equivalente a una remuneración por año laborado, calculada de acuerdo con la 
+legislación vigente, que debe ser depositada en las cuentas bancarias elegidas por los trabajadores, 
+fraccionada en dos momentos, en mayo (CTS del 1 de noviembre al 30 de abril) y noviembre (CTS del 
+1 de mayo al 31 de octubre) de cada año. Dichos depósitos tienen carácter cancelatorio, de acuerdo 
+con lo establecido por ley. La Compañía no tiene obligaciones de pago adicionales una vez que 
+efectúe los depósitos anuales de los fondos a los que el trabajador tiene derecho.  
+  
+
+=== PAGINA PDF 29 ===
+ 
+- 27 - 
+(o.3) Participación en las utilidades - 
+ 
+Las participaciones de los trabajadores en las utilidades de la Compañía son calculadas de acuerdo 
+con normas legales vigentes (Decreto Legislativo No.892) sobre la misma base neta imponible 
+utilizada para calcular el impuesto a las ganancias. Para el caso de la Compañía, la tasa de la 
+participación en las utilidades es de 10% sobre la base neta imponible del año corriente. De acuerdo 
+con las leyes peruanas, existe un límite en la participación que un trabajador puede recibir, 
+equivalente a 18 sueldos mensuales. 
+ 
+La Compañía reconoce la porción corriente de las participaciones en las utilidades pagadas 
+directamente a los trabajadores de acuerdo con lo establecido en la NIC 19, “Beneficios a los 
+empleados”, mediante el cual considera dichas participaciones como cualquier beneficio que la 
+entidad proporciona a los trabajadores a cambio de sus servicios. Basado en esto, la Compañía 
+reconoce las participaciones como costo o gasto, dependiendo de la función que desempeñen los 
+trabajadores. 
+ 
+(p) Ingresos de contratos con clientes - 
+ 
+Los ingresos de la Compañía corresponden principalmente a la venta de bienes de consumo, 
+principalmente lácteos. La transferencia a los clientes se da en un punto en el tiempo, con la entrega 
+de los productos. Los otros ingresos, que son menores en relación con las ventas de bienes, 
+corresponden principalmente a servicios gerenciales, y la transferencia al cliente se realiza a lo largo 
+del tiempo. 
+ 
+(p.1) Venta de bienes - 
+ 
+Por estos ingresos existe solo una obligación contractual que es la venta de bienes . En este caso, el 
+reconocimiento de los ingresos se produce en el momento en el que el control de los activos se 
+transfiere al cliente que es cuando se entregan los bienes al cliente. 
+ 
+Los ingresos por venta de bienes se reconocen cuando la Compañía ha entregado los productos al 
+cliente, el cliente tiene discreción sobre los mercados y los precios para vender los productos y no 
+existe ninguna obligación incumplida que puede afectar la aceptación de los productos por parte del 
+cliente. La entrega al cliente no se da hasta que los productos han sido transferidos en el medio de 
+transporte que designe en la ubicación especificada o en el punto de salida, los riesgos de 
+obsolescencia y pérdida han sido transferidos al cliente y este ha aceptado los productos de acuerdo 
+con el contrato y la condición de venta pactada y la cobranza de las cuentas por cobrar está 
+razonablemente asegurada. 
+ 
+Asimismo, otros aspectos relevantes para la Compañía es la determinación del precio de venta y si, 
+en algunos casos, existen otras obligaciones contractuales que se deben separar de la venta de los 
+bienes. En este sentido, algunos aspectos relevantes al reconocimiento de ingresos son: 
+ 
+(i) Contraprestaciones variables: 
+ 
+En ciertos contratos con clientes se proporcionan algunos derechos que pueden afectar el precio de la 
+transacción:  
+ 
+- Descuentos por volumen y por cumplimiento de metas: 
+ 
+La Compañía otorga descuentos principalmente por volumen para algunos canales de venta una 
+vez que el volumen de ventas de productos en un periodo cumple con los requisitos estipulados 
+en los acuerdos para este tipo de beneficios. Estos descuentos se van determinando y liquidando 
+a lo largo del año. Por lo general, al cierre de cada año no se presentan incertidumbres sobre el 
+otorgamiento de los descuentos, por lo que no se requiere de algún nivel de estimación.  
+  
+
+=== PAGINA PDF 30 ===
+ 
+- 28 - 
+- Derechos de devolución 
+ 
+En ciertos casos, se proporciona a los clientes derechos de devolución del bien en un periodo 
+específico. Estas devoluciones se reconocen durante el año conforme ocurren y se considera que, 
+Al 31 de diciembre de 2024 y de 2023, el monto de las devoluciones esperadas no es material. 
+ 
+- Transferencias gratuitas: 
+ 
+La Gerencia entrega bienes a sus clientes de forma gratuita con la finalidad de fomentar la venta 
+de los productos que comercializa. Al 31 de diciembre de 2024 y de 2023, el impacto de este 
+otorgamiento no se considera relevante. 
+ 
+(p.2) Prestación de servicios - 
+ 
+Los ingresos provenientes de servicios, que sustancialmente se refieren a servicios de gerencia que 
+se prestan a nivel corporativo, se reconocen en el período en el que se prestan considerando el grado 
+de terminación de la prestación final del período sobre el cual se informa. 
+ 
+(q) Reconocimiento de costos y gastos - 
+ 
+Los costos y gastos se reconocen a medida que devengan, independientemente del momento en que 
+se paguen, y se registran en los períodos con los cuales se relacionan. Los gastos de flete y 
+transporte relacionados con la entrega de productos se presentan como parte del costo de ventas.  
+ 
+(r) Costos de financiamiento - 
+ 
+Los costos por préstamos que sean directamente atribuibles a la adquisición, construcción o 
+producción de un activo que necesariamente lleve un período de tiempo sustancial para que esté 
+disponible para su uso esperado o su venta, se capitalizan como parte del costo del activo respectivo.  
+ 
+Estos costos de financiamiento se capitalizan, como parte del costo del activo, siempre que sea 
+probable que den lugar a beneficios económicos futuros para la entidad y puedan ser medidos con 
+confiabilidad. Todos los demás costos por préstamos se contabilizan como gastos en el período en el 
+que se incurren. Los costos por préstamos incluyen los intereses y otros costos en los que incurre la 
+Compañía en relación con la celebración de los acuerdos de préstamos respectivos.  
+ 
+(s) Clasificación de partidas en corrientes y no corrientes -  
+ 
+La Compañía presenta los activos y pasivos en el estado separado de situación financiera, 
+clasificados en corrientes y no corrientes. Un activo es clasificado como corriente cuando la entidad: 
+ 
+- Espera realizar el activo o tiene la intención de venderlo o consumirlo en su ciclo normal de 
+operación. 
+- Mantiene el activo principalmente con fines de negociación. 
+- Espera realizar el activo dentro de los doce meses siguientes del período sobre el que se informa; 
+o 
+- El activo es efectivo o equivalente al efectivo, a menos que se encuentre restringido y no pueda 
+ser intercambiado ni utilizado para cancelar un pasivo, por un periodo mínimo de doce meses 
+siguientes al período sobre el que se informa. 
+ 
+Todos los demás activos se clasifican como no corrientes. Un pasivo se clasifica como corriente 
+cuando la entidad: 
+ 
+- Espera liquidar el pasivo en su ciclo normal de operación. 
+- Mantiene el pasivo principalmente con fines de negociación. 
+- El pasivo debe liquidarse dentro de los doce meses siguientes del período sobre el que se 
+informa; o 
+- No tiene un derecho incondicional para aplazar la cancelación del pasivo durante al menos, 
+los doce meses siguientes al período sobre el que se informa a la fecha de cierre.  
+  
+
+=== PAGINA PDF 31 ===
+ 
+- 29 - 
+Todos los demás pasivos se clasifican como no corrientes. 
+ 
+Los activos y pasivos por impuesto a las ganancias diferidos se clasifican como activos y pasivos no 
+corrientes en todos los casos. 
+ 
+(t) Utilidad por acción en los estados financieros separados - 
+ 
+La utilidad por acción básica y diluida ha sido calculada sobre la base del promedio ponderado de las 
+acciones comunes y de inversión en circulación a la fecha de los estados financieros separados y 
+tomando en cuenta la utilidad del año de los estados separados de resultados integrales . Al 31 de 
+diciembre de 2024 y de 2023, la Compañía no mantuvo instrumentos financieros con efecto dilutivo, 
+por lo que las utilidades básica y diluida por acción son las mismas. 
+ 
+(u) Dividendos - 
+ 
+La Compañía reconoce un pasivo por pagar por dividendos cuando su distribución está autorizada y 
+aprobada por la Junta General de Accionistas. El importe correspondiente se reconoce directamente 
+en el patrimonio. 
+ 
+(v) Eventos posteriores - 
+ 
+Los eventos posteriores al cierre del ejercicio que proveen información adicional sobre la situación 
+financiera de la Compañía a la fecha del estado separado de situación financiera (eventos de ajuste) 
+son incluidos en los estados financieros separados. Los eventos posteriores importantes que no son 
+eventos de ajuste son expuestos en notas a los estados financieros separados.  
+ 
+2.4 Juicios, estimaciones y supuestos contables significativos - 
+ 
+La preparación de los estados financieros separados aplicando NIIF requiere que la Gerencia de la 
+Compañía utilice juicios, estimaciones y supuestos para determinar los montos reportados de activos 
+y pasivos, la exposición de activos y pasivos contingentes y la divulgación de eventos significativos en 
+las notas a los estados financieros separados. 
+ 
+Las estimaciones y juicios son continuamente evaluados y están basados en la experiencia histórica y 
+otros factores, incluyendo la expectativa de eventos futuros que se cree son razonables bajo las 
+actuales circunstancias. 
+ 
+En el proceso de aplicar las políticas contables de la Compañía, la Gerencia ha usado los siguientes 
+juicios y estimaciones más significativos en la preparación de los estados financieros separados:  
+ 
+(i) Vida útil de los activos no financieros, y deterioro de valor, ver notas 2.3(g), (h), (i), (j) y (k) - 
+ 
+El tratamiento contable de la inversión en propiedades de inversión, propiedades, planta y equipo y 
+activos intangibles requiere la realización de estimaciones para determinar el periodo de vida útil a 
+efectos de su depreciación y amortización. La determinación de las vidas útiles requiere estimaciones 
+respecto a la evolución tecnológica esperada y los usos alternativos de los activos. La hipótesis 
+respecto al marco tecnológico y su desarrollo futuro implican un grado significativo de juicio, en la 
+medida en que el momento y la naturaleza de los futuros cambios tecnológicos son difíciles de 
+predecir. 
+ 
+Existe deterioro del valor cuando el importe en libros de un activo o de una unidad generadora de 
+efectivo excede su importe recuperable, que es el mayor importe entre el valor razonable menos los 
+costos de venta, y el valor en uso. El cálculo del valor razonable menos los costos de ventas se basan 
+en información disponible sobre transacciones de ventas para bienes similares hechas en condiciones 
+y entre partes independientes o sobre precios de mercado observables, netos de los costos 
+incrementales relacionados con la venta del bien o también se obtiene con técnicas de valorización. El 
+cálculo del valor en uso se basa en un modelo de flujos de efectivo descontados . Los flujos de efectivo 
+surgen de las proyecciones estimadas para los próximos años.  
+
+=== PAGINA PDF 32 ===
+ 
+- 30 - 
+La Gerencia de la Compañía evalúa de forma periódica el desempeño de las unidades generadoras 
+de efectivo definidas con la finalidad de identificar un posible deterioro en el valor de sus activos.  
+ 
+(ii) Impuesto a las ganancias corriente y diferido, ver nota 2.3 (n) - 
+ 
+Existen diferentes interpretaciones de las normas tributarias, incertidumbre sobre los cambios en las 
+leyes fiscales y sobre la determinación de la renta gravable. Las diferencias que surjan entre los 
+resultados reales y las hipótesis formuladas, o cambios futuros en tales supuestos, podrían requerir 
+ajustes futuros a los ingresos y gastos tributarios registrados. 
+ 
+La Compañía establece provisiones basadas en estimaciones razonables. La cuantía de dichas 
+provisiones se basa en varios factores, como la experiencia de las auditorías fiscales anteriores y las 
+diferentes interpretaciones de la normativa y la autoridad fiscal competente.  
+ 
+(iii) Contingencias, nota 2.3(m) - 
+ 
+Por su naturaleza, las contingencias sólo se resolverán cuando uno o más eventos futuros ocurran o 
+dejen de ocurrir. La evaluación de la existencia y monto potencial de las contingencias involucra 
+inherentemente el ejercicio de un juicio significativo y el uso de estimados sobre los resultados de 
+eventos futuros. 
+ 
+(iv) Provisión para pérdidas esperadas de crédito de cuentas por cobrar comerciales, nota 2.3  (b.2) -  
+ 
+Para cuentas por cobrar comerciales, la Compañía aplica un enfoque simplificado al calcular la PCE. 
+Por lo tanto, la Compañía no monitorea los cambios en el riesgo de crédito, en vez de esto, reconoce 
+una provisión por deterioro en base a la “PCE durante toda la vida” en cada fecha de reporte . La 
+Compañía ha establecido una matriz de provisión que se basa en la experiencia de pérdida histórica, 
+ajustada por factores esperados específicos a los deudores y al entorno económico.  
+ 
+Al determinar si el riesgo crediticio de un activo financiero ha aumentado significativamente desde el 
+reconocimiento inicial al estimar las pérdidas crediticias esperadas, la Compañía considera la 
+información razonable y sustentable que sea relevante y esté disponible sin costos o esfuerzos 
+onerosos. 
+ 
+3 ADMINISTRACIÓN DE RIESGOS FINANCIEROS 
+ 
+Por la naturaleza de sus actividades, la Compañía está expuesta al riesgo de crédito, tasa de interés, 
+liquidez y tipo de cambio, los cuales son gestionados a través de un proceso de identificación, 
+medición y monitoreo continuo, con sujeción a los límites de riesgo y otros controles . Este proceso de 
+manejo de riesgo es crítico para la rentabilidad continua de la Compañía y la responsabilidad de su 
+gestión se explica seguidamente. 
+ 
+El proceso independiente de control de riesgos no incluye riesgos de negocio como cambios en el 
+medio ambiente, tecnología e industria, los cuales son monitoreados a través del proceso de 
+planificación estratégica de la Compañía. 
+ 
+(a) Estructura de gestión de riesgos - 
+ 
+La estructura de gestión de riesgos tiene como base al Directorio de la Compañía que es el 
+responsable final de identificar y controlar los riesgos; en coordinación con otras áreas como se 
+explica a continuación:  
+ 
+(i) Directorio 
+ 
+El Directorio es el responsable del enfoque general para la gestión de riesgos. El Directorio 
+proporciona los principios para la gestión de riesgos, así como las políticas elaboradas para áreas 
+específicas, como riesgo de tipo de cambio, riesgo de tasa de interés y riesgo de crédito.   
+
+=== PAGINA PDF 33 ===
+ 
+- 31 - 
+(ii) Dirección Corporativa de Finanzas 
+ 
+La Dirección Corporativa de Finanzas es responsable de gestionar los activos y pasivos de la 
+Compañía y toda la estructura financiera. Principalmente es responsable de la gestión de los 
+fondos y riesgos de liquidez de la Compañía; asumiendo los riesgos de liquidez y cambio de 
+moneda relacionados, según las políticas y límites actualmente vigentes.  
+ 
+(b) Excesiva concentración de riesgos - 
+ 
+Las concentraciones surgen cuando un número de contrapartes se dedican a actividades comerciales 
+similares, o tienen condiciones económicas u otras similares. Las concentraciones indican la relativa 
+sensibilidad del rendimiento de la Compañía con las características que afectan un sector en 
+particular. Las concentraciones de riesgo crediticio identificadas son controladas y monitoreadas 
+continuamente. 
+ 
+Riesgo de mercado - 
+ 
+El riesgo de mercado es el riesgo de que el valor razonable de los flujos futuros de un instrumento 
+financiero fluctúe debido a cambios en los precios de mercado. En el caso de la Compañía, los 
+riesgos de mercado que le podrían impactar son de tres tipos: el riesgo de tasa de interés, el riesgo de 
+tipo de cambio y el riesgo de precios.  
+ 
+(a) Riesgo de tasa de interés - 
+ 
+El riesgo de tasa de interés es el riesgo de que el valor razonable o flujos de caja futuros de un 
+instrumento financiero fluctúen debido a cambios en las tasas de interés de mercado . El riesgo de 
+tasas de interés relacionado a flujos se vincula principalmente con instrumentos financieros con 
+intereses a tasas variables. Al 31 de diciembre de 2024 y de 2023, la Compañía no está expuesta a 
+este riesgo de flujo de caja porque mantiene financiamientos con tasas de interés fijas.  
+ 
+Por otro lado, la Gerencia de la Compañía considera que el riesgo del valor razonable de tasas de 
+interés no es significativo, debido a que las tasas de interés de sus contratos de financiamiento no 
+difieren significativamente de las tasas de interés de mercado que estarían disponibles para la 
+Compañía para instrumentos financieros similares. 
+ 
+(b) Riesgo de tipo de cambio - 
+ 
+El riesgo de tipo de cambio es el riesgo de que el valor razonable o flujos de caja futuros de un 
+instrumento financiero fluctúen debido a fluctuaciones en los tipos de cambio. La exposición de la 
+Compañía proviene principalmente de sus actividades operativas. La posición corriente en moneda 
+extranjera comprende los activos y pasivos que están expresados al tipo de cambio de cierre de año. 
+Cualquier devaluación/revaluación de la moneda extranjera afectaría los resultados. 
+ 
+La Compañía factura la venta local de sus productos principalmente en soles. El riesgo de tipo de 
+cambio surge de las cuentas por cobrar por ventas al exterior, de los préstamos otorgados/recibidos 
+en dólares estadounidenses a/de entidades relacionadas y por las transacciones pasivas y 
+endeudamiento con ciertas entidades financieras que se mantienen en esa moneda . La Compañía no 
+utiliza instrumentos financieros derivados para cubrir su exposición al riesgo de tipo de cambio; sin 
+embargo, tiene como objetivo mantener una posición neta que disminuya cualquier impacto 
+significativo por variaciones en el tipo de cambio. 
+ 
+Las operaciones en moneda extranjera se efectúan a los tipos de cambio del mercado libre publicados 
+por la Superintendencia de Banca, Seguros y AFP. Al 31 de diciembre de 2024, los tipos de cambio 
+promedio del mercado libre para las transacciones en dólares estadounidenses fueron de S/ 3.758 
+para la compra y S/3.770 para la venta (S/3.705 para la compra y S/3.713 para la venta, al 31 de 
+diciembre de 2023). 
+  
+
+=== PAGINA PDF 34 ===
+ 
+- 32 - 
+Al 31 de diciembre de 2024 y de 2023, la Compañía presenta los siguientes activos y pasivos en 
+dólares estadounidenses: 
+ 
+  2024  2023 
+  US$000  US$000 
+     
+Activo     
+Efectivo y equivalentes de efectivo  18,009  1,186 
+Cuentas por cobrar comerciales  28,915  20,583 
+Cuentas por cobrar a entidades relacionadas  23,531  94,880 
+Otras cuentas por cobrar  887  616 
+  71,342  117,265 
+Pasivo     
+Cuentas por pagar comerciales  (80,502)  (65,470) 
+Cuentas por pagar a entidades relacionadas  (27,544)  (6,295) 
+Otras cuentas por pagar  (13,010)  (11,566) 
+  (121,056)  (83,331) 
+Posición (pasiva) activa, neta  (49,714)  33,934 
+ 
+En 2024, la ganancia por diferencia en cambio neta asciende a S/3,123,000 (pérdida por diferencia de 
+cambio neta de S/7,473,000 en 2023), la cual se muestra en el rubro “Diferencia de cambio, neta” del 
+estado separado de resultados integrales. 
+ 
+El siguiente cuadro muestra el análisis de sensibilidad de los dólares estadounidenses (la única 
+moneda distinta a la funcional en que la Compañía tiene una exposición significativa al 31 de 
+diciembre de 2024 y de 2023), en sus activos y pasivos monetarios y sus flujos de caja estimados.  
+ 
+El análisis determina el efecto de una variación razonablemente posible del tipo de cambio del sol, 
+considerando las otras variables constantes, en el estado separado de resultados integrales 
+después del impuesto a las ganancias. Un monto negativo muestra una reducción potencial neta en 
+el estado separado de resultados integrales, mientras que un monto positivo refleja un incremento 
+potencial neto. 
+   Variación en       tasas de cambio  2024  2023 
+  %  S/000  S/000 
+       
+Devaluación -       
+Devaluación del sol  5  (9,414)  6,253 
+Devaluación del sol  10  (18,828)  12,506        
+Revaluación -       
+Revaluación del sol  5  9,414  (6,253) 
+Revaluación del sol  10  18,828  (12,506) 
+ 
+(c) Riesgo de precios - 
+ 
+La Compañía no está expuesta al riesgo de mercado que surge de sus inversiones en instrumentos 
+de patrimonio. Estas inversiones son realizadas íntegramente en entidades no cotizadas y son 
+mantenidas con fines estratégicos más que con propósitos de negociación en el mercado.  
+  
+
+=== PAGINA PDF 35 ===
+ 
+- 33 - 
+Riesgo de crédito - 
+ 
+El riesgo de crédito de la Compañía se origina en el efectivo y depósitos en bancos e instituciones 
+financieras, así como de la exposición al crédito de los clientes, que incluye principalmente los saldos 
+pendientes de las cuentas por cobrar comerciales y a entidades relacionadas.  
+ 
+El área de créditos y cobranzas evalúa la calidad crediticia de los clientes, tomando en consideración 
+su posición financiera, la experiencia pasada y otros factores, se establecen límites de crédito 
+individuales sobre la base de las calificaciones internas. El uso de los límites de crédito se monitorea 
+con regularidad.  
+ 
+La Compañía no concentra las cuentas por cobrar en clientes específicos. Al 31 de diciembre de 2024 
+y de 2023, aproximadamente el 77% del total de las cuentas por cobrar comerciales con terceros se 
+concentra en 14 y 16 clientes, respectivamente. 
+ 
+Gestión de riesgo: 
+ 
+La Gerencia considera que la Compañía no tiene riesgo de crédito significativo sobre las cuentas por 
+cobrar comerciales y a entidades relacionadas, debido a la política de gestión de cobranzas, no 
+habiéndose presentado problemas significativos de riesgo crediticio.  
+ 
+La Compañía coloca sus excedentes de liquidez en instituciones financieras de prestigio, establece 
+políticas de crédito conservadoras y evalúa constantemente las condiciones existentes en el mercado 
+en el que opera. En relación con los bancos e instituciones financieras, la Compañía solo acepta 
+instituciones financieras cuyas calificaciones de riesgo independiente son de categoría A + . En 
+consecuencia, la Compañía no prevé pérdidas significativas que surjan de este riesgo.  
+ 
+Los riesgos de concentración de crédito pueden surgir de las colocaciones de excedentes de liquidez; 
+para tal fin, la Compañía tiene como política distribuir sus depósitos entre diferentes instituciones 
+financieras al finalizar las operaciones diarias. 
+ 
+Durante los años 2024 y 2023, la Compañía no mantuvo concentraciones de riesgo de crédito 
+significativo con respecto al monto de sus activos monetarios brutos. 
+ 
+Riesgo de liquidez - 
+ 
+La Gerencia tiene la responsabilidad principal de la administración del riesgo de liquidez, la cual ha 
+establecido políticas y procedimientos en cuanto al endeudamiento a corto, mediano y largo plazo . La 
+Compañía administra el riesgo de liquidez mediante el monitoreo de flujos de efectivo y los 
+vencimientos de sus activos y pasivos financieros. 
+  
+
+=== PAGINA PDF 36 ===
+ 
+- 34 - 
+El siguiente cuadro muestra el vencimiento de las obligaciones contraídas por la Compañía a la fecha 
+del estado separado de situación financiera y los importes a desembolsar a su vencimiento, en base a 
+los pagos no descontados que se realizarán. 
+ 
+  De 1 a 12  De 1 a 2  Más de     meses  años  2 años  Total 
+  S/000  S/000  S/000  S/000          
+Al 31 de diciembre de 2024         
+Obligaciones financieras  67,261  1,141,315  228,553  1,437,129 
+Cuentas por pagar comerciales 465,063  -  -  465,063 
+Cuentas por pagar a entidades relacionadas 331,566  81,055  -  412,621 
+Pasivos por arrendamiento  6,258  4,446  5,627  16,331 
+Otros pasivos  154,522  -  -  154,522 
+  1,024,670  1,226,816  234,180  2,485,666 
+         
+Al 31 de diciembre de 2023         
+Obligaciones financieras  232,926  855,351  228,553  1,316,830 
+Cuentas por pagar comerciales 401,339  -  -  401,339 
+Cuentas por pagar a entidades relacionadas 398,562  -  -  398,562 
+Pasivos por arrendamiento  4,867  4,611  8,847  18,325 
+Otros pasivos  124,278  -  -  124,278 
+  1,161,972  859,962  237,400  2,259,334 
+ 
+La Gerencia administra el riesgo asociado con los importes incluidos en cada una de las categorías 
+mencionadas anteriormente; la Compañía mantiene líneas de crédito en bancos locales, así como 
+también solventa su capital de trabajo con los flujos de efectivo proveniente de sus actividades de 
+operación, financiamiento y de inversión. 
+ 
+Riesgo de gestión de capital - 
+ 
+La Compañía gestiona activamente una base de capital con el fin de cubrir los riesgos inherentes a 
+sus actividades. La adecuación de capital de la Compañía es controlada usando, entre otras medidas, 
+ratios establecidas por el Directorio y la Gerencia. 
+ 
+Los objetivos de la Compañía cuando maneja capital, que es un concepto más amplio que el 
+“Patrimonio” que se muestra en el estado separado de situación financiera, son: (i) salvaguardar la 
+capacidad de la Compañía para continuar operando de manera que continúe brindando retornos a los 
+accionistas y beneficios a los otros participantes, y (ii) mantener una fuerte base de capital para 
+apoyar el desarrollo de sus actividades. Al 31 de diciembre de 2024 y de 2023, no han existido 
+cambios en las actividades y políticas de gestión de capital en la Compañía. El índice de 
+apalancamiento (que incluye pasivos no financieros) a dichas fechas se determina como sigue: 
+   2024  2023 
+  S/000  S/000 
+     
+Obligaciones financieras  1,267,500  1,120,000 
+Cuentas por pagar comerciales  465,063  401,339 
+Cuentas por pagar a relacionadas  412,621  398,562 
+Pasivo por arrendamientos  14,644  16,024 
+Otros pasivos  215,873  144,172 
+Menos – Efectivo y equivalente de efectivo  (156,490)  (119,009) 
+Deuda neta (a)  2,219,211  1,961,088 
+Patrimonio (b)  1,623,368  1,577,170 
+     
+Capital y deuda neta (c) = (a) + (b)   3,842,579  3,538,258 
+Índice de apalancamiento (a) / (c)  57.75%  55.43% 
+  
+
+=== PAGINA PDF 37 ===
+ 
+- 35 - 
+4 INSTRUMENTOS FINANCIEROS POR CATEGORÍA 
+ 
+La clasificación de los instrumentos financieros activos y pasivos al 31 de diciembre son como sigue:  
+ 
+  2024  2023 
+  S/000  S/000 
+     
+Activos financieros -     
+Activos a costo amortizado:     
+- Efectivo y equivalente de efectivo  156,490  119,009 
+- Cuentas por cobrar comerciales  277,086  271,637 
+- Cuentas por cobrar a entidades relacionadas  1,163,362  570,592 
+- Otras cuentas por cobrar (*)  26,962  43,628   1,623,900  1,004,866 
+     
+Pasivos financieros -     
+Pasivo a costo amortizado:     
+- Obligaciones financieras  1,267,500  1,120,000 
+- Cuenta por pagar comerciales  465,063  401,339 
+- Cuenta por pagar a entidades relacionadas  412,621  398,562 
+- Pasivos por arrendamiento  14,644  16,024 
+- Otros pasivos (**)  154,522  124,278   2,314,350  2,060,203 
+ 
+(*) No incluye impuestos, ni anticipos a proveedores. 
+(**) No incluye impuestos, ni provisiones. 
+ 
+5 EFECTIVO Y EQUIVALENTES DE EFECTIVO 
+ 
+(a) Este rubro comprende: 
+   2024  2023 
+  S/000  S/000 
+     
+Caja y fondos fijos (b)  6,698  6,647 
+Cuentas corrientes (c)  149,792  112,362 
+  156,490  119,009 
+ 
+(b) Al 31 de diciembre de 2024 y de 2023, corresponde principalmente a cobranzas a clientes en 
+cheques pendientes de depósito por un importe de S/6,688,000 y S/6,637,000, respectivamente. 
+ 
+(c) Al 31 de diciembre de 2024 y de 2023, la Compañía mantiene cuentas corrientes denominadas en 
+soles y dólares estadounidenses en entidades financieras del mercado local, son de libre 
+disponibilidad y no devengan intereses. 
+  
+
+=== PAGINA PDF 38 ===
+ 
+- 36 - 
+6 CUENTAS POR COBRAR COMERCIALES 
+ 
+(a) Este rubro comprende: 
+ 
+  2024  2023 
+  S/000  S/000 
+     
+Facturas por cobrar (b)  293,504  285,116 
+Letras por cobrar (c)  131  3,002   293,635  288,118 
+Estimación para deterioro de cuentas de cobranza     
+dudosa (e)  (16,549)  (16,481)   277,086  271,637 
+     
+Vencimiento:     
+Porción corriente  276,955  270,506 
+Porción no corriente  131  1,131   277,086  271,637 
+ 
+(b) Las facturas por cobrar son de vencimiento corriente, no tienen garantías específicas y no 
+devengan intereses. El período promedio de crédito otorgado a los clientes nacionales se 
+encuentra entre 7 y 90 días, y para clientes del exterior entre 10 y 120 días. 
+ 
+(c) Corresponde a letras otorgadas al cliente Fouscas Trading E.I.R.L. por la renovación de los saldos 
+comerciales por venta de productos. 
+ 
+(d) La antigüedad de las cuentas por cobrar comerciales es como sigue: 
+ 
+  No deteriorado  Deteriorado  Total 
+  S/000  S/000  S/000 
+       
+Al 31 de diciembre de 2024       
+No vencido  213,828  -  213,828 
+Vencido:       
+Hasta 30 días  52,667  -  52,667 
+Entre 31 y 60 días  1,559  -  1,559 
+Entre 60 días y 180 días  6,129  -  6,129 
+Más de 180 días  2,903  16,549  19,452 
+Total  277,086  16,549  293,635 
+       
+Al 31 de diciembre de 2023       
+No vencido  207,294  -  207,294 
+Vencido:       
+Hasta 30 días  34,619  -  34,619 
+Entre 31 y 60 días  11,032  -  11,032 
+Entre 60 días y 180 días  15,847  -  15,847 
+Más de 180 días  2,845  16,481  19,326 
+Total  271,637  16,481  288,118 
+ 
+Al 31 de diciembre de 2024 y de 2023, la Compañía cuenta con garantías otorgadas por sus 
+clientes en respaldo de los saldos por cobrar por S/69,004,000 y S/72,139,000, respectivamente. 
+ 
+(e) La provisión por deterioro se incluye en el rubro “Gastos de administración” en el estado separado 
+de resultados. Los montos provisionados se castigan cuando no existe expectativa de 
+recuperación. 
+  
+
+=== PAGINA PDF 39 ===
+ 
+- 37 - 
+El movimiento de la provisión por deterioro de cuentas cobrar comerciales es como sigue: 
+ 
+  2024  2023 
+  S/000  S/000 
+     
+Saldo inicial  16,481  16,603 
+Adiciones nota, 23(a)  79  27 
+Castigos  (11)  (149) 
+Saldo final  16,549  16,481 
+ 
+7 OTRAS CUENTAS POR COBRAR Y CRÉDITOS FISCALES 
+ 
+(a) Este rubro comprende: 
+   2024  2023 
+  S/000  S/000      
+Reclamos por tributos (b)  203,302  174,351 
+Proveedores de leche (d)  18,021  39,359 
+Impuesto general a las ventas (e)  10,176  6,048 
+Impuesto a las ganancias por recuperar (f)  8,533  6,406 
+Cuentas por cobrar al personal (g)  4,336  3,798 
+Préstamo a terceros (h)   3,082  - 
+Subsidios por cobrar a ESSALUD   773  1,040 
+Impuestos a las ganancias a favor (c)  -  9,442 
+Otros  1,545  211 
+  249,768  240,655 
+Estimación de cobranza dudosa   (790)  (780) 
+  248,978  239,875 
+     
+Vencimiento -     
+Porción corriente  45,534  53,932 
+Porción no corriente (b) y (d)  203,444  185,943 
+  248,978  239,875 
+ 
+(b) El saldo de este rubro corresponde principalmente a los siguientes conceptos:  
+ 
+En noviembre de 2020, la Compañía recibió una notificación de la Administración Tributaria 
+(SUNAT) exigiendo un pago vinculado con el impuesto selectivo al consumo (ISC) por 
+S/52,563,000, como resultado de la fiscalización del año 2013, importe que incluye impuesto e 
+intereses. La Compañía pagó, bajo protesto, los importes determinados por SUNAT en enero de 
+2021. De acuerdo con los procedimientos tributarios vigentes y plazos existentes para resolver 
+este tipo de reclamos, la Gerencia y sus asesores legales estiman que las resoluciones sobre este 
+caso serán favorables para la Compañía, por tal motivo los pagos efectuados se han reconocido 
+como parte de esta cuenta en el activo.  
+ 
+En marzo de 2022, la Compañía recibió la resolución de cumplimiento respecto al proceso de 
+revisión del ISC y del impuesto general a las ventas (IGV) del año 2014, por la cual se le exige el 
+pago de S/30,890,736, importe que incluye impuesto e intereses. Asimismo, se recibió la 
+resolución del Tribunal Fiscal N°000773-A 2022 (Aduanas) exigiendo el pago por S/48,982,064, 
+que la Compañía decidió pagar e interponer una demanda vía instancia judicial, sobre la cual, la 
+Gerencia y sus asesores legales externos manifiestan que existen argumentos legales sólidos y 
+alta probabilidad de obtener un resultado favorable en dicha instancia y, por tanto, obtener la 
+devolución de este pago. 
+  
+
+=== PAGINA PDF 40 ===
+ 
+- 38 - 
+En febrero de 2023, la Compañía recibió la resolución de cumplimiento respecto al proceso de 
+revisión del ISC y del impuesto general a las ventas (IGV) del año 2015, por la cual se le exige el 
+pago de S/40,570,595, importe que incluye impuesto e intereses. La Compañía pagó, bajo 
+protesto, estos importes determinados por SUNAT en julio de 2023. De acuerdo con los 
+procedimientos tributarios vigentes y plazos existentes para resolver este tipo de reclamos, la 
+Gerencia y sus asesores legales estiman que las resoluciones sobre este caso serán favorables 
+para la Compañía, por tal motivo los pagos efectuados se han reconocido como parte de esta 
+cuenta en el activo.  
+ 
+En octubre de 2024 la Compañía recibió la resolución de cumplimiento respecto al proceso de 
+revisión del ISC y del impuesto general a las ventas (IGV) del año 2017, por la cual se le exige el 
+pago de S/29,162,283, importe que incluye impuestos e intereses. La Compañía pagó bajo 
+protesto estos importes determinados por SUNAT en noviembre de 2024. De acuerdo con los 
+procedimientos tributarios vigentes y plazos existentes para resolver este tipo de reclamos, la 
+Gerencia y sus asesores legales estiman que las resoluciones sobre este caso serán favorables 
+para la Compañía, por tal motivo los pagos efectuados se han reconocido como parte de esta 
+cuenta en el activo. 
+ 
+(c) Al 31 de diciembre de 2023, este saldo correspondía a los pagos a cuenta del impuesto a la renta 
+por S/80,667,000, netos del impuesto a las ganancias calculado para el año 2023 por 
+S/71,225,000  
+ 
+(d) Al 31 de diciembre de 2024 y de 2023, corresponde a los saldos por cobrar a ganaderos por la 
+venta de ciertos suministros relacionados al mantenimiento del ganado, así como la habilitación 
+de fondos monetarios y financiamiento para capital de trabajo. Al 31 de diciembre de 2024, la tasa 
+de interés efectiva para los préstamos otorgados a los proveedores de leche es de 6.5% en 
+moneda nacional (en 2023 la tasa de interés efectiva fue de 3.5% en moneda nacional). 
+ 
+(e) Corresponde principalmente al crédito fiscal por IGV que surge principalmente de las compras de 
+materias primas. 
+ 
+(f) Al 31 de diciembre de 2024 y de 2023, este saldo corresponde principalmente a la aplicación de la 
+Ley N°29230 “Ley de obras por impuestos”, por el desarrollo de un proyecto de ampliación de un 
+sistema de agua potable y alcantarillado en los sectores de El Palmo, Larrea y Barrio Nuevo en el 
+distrito de Moche, Trujillo - La Libertad, cuyo saldo asciende a S/6,406,000. La Compañía se 
+encuentra en proceso de obtener los certificados de inversión pública regional y local que serán 
+utilizados como crédito para los pagos a cuenta del impuesto a las ganancias.  
+ 
+Adicionalmente, durante 2024, se ejecutó un proyecto relacionado a la Ley N°29230 “Ley de obras 
+por impuestos”. Este proyecto consiste en la mejora de los servicios de extensión universitaria en 
+la sede Pedregal de la Universidad Nacional de San Agustín en el distrito de Majes, Provincia 
+Caylloma, el importe a la fecha asciende a S/2,127,000. 
+ 
+(g) Al 31 de diciembre de 2024 y de 2023, corresponde principalmente a adelantos de 
+remuneraciones, préstamos a personal, y adelanto de vacaciones, los cuales se descuentan de 
+las planillas mensuales. 
+ 
+(h) Al 31 de diciembre de 2024, corresponde a un préstamo otorgado al proveedor Bombonería di 
+Perugia S.A.C., el cual devenga intereses a una tasa anual de 7.00%, cuyo vencimiento será en el 
+año 2025, con cuotas mensuales que incluyen capital e intereses. 
+ 
+En opinión de la Gerencia de la Compañía las otras cuentas por cobrar son recuperables, la provisión 
+por deterioro cubre adecuadamente el riesgo de crédito de estas partidas y no es necesari o el 
+reconocimiento de alguna provisión por deterioro adicional a la registrada. 
+  
+
+=== PAGINA PDF 41 ===
+ 
+- 39 - 
+8 INVENTARIOS 
+ 
+(a) Este rubro comprende: 
+   2024  2023   S/000  S/000 
+     
+Productos terminados  164,612  148,906 
+Mercadería (b)  31,845  48,399 
+Productos en proceso  41,589  42,974 
+Materias primas, auxiliares y otros insumos (c)  404,173  513,800 
+Repuestos y suministros diversos (d)  168,220  153,584 
+Inventarios por recibir (e)  111,379  85,922   921,818  993,585 
+Menos:     
+Estimación por desvalorización de inventarios (f)  (27,938)  (17,650)   893,880  975,935 
+ 
+(b) Corresponde principalmente a azúcar y conservas de pescado, productos que son 
+comercializados en el curso normal de las operaciones; asimismo, incluye alimento para ganado a 
+suministrar a los proveedores de leche. 
+ 
+(c) Corresponde principalmente a leche entera en polvo, grasa anhidra de leche y leche descremada 
+utilizados en los diversos procesos de producción; asimismo, incluye bobinas de hojalata 
+utilizadas en el proceso de envasado. 
+ 
+(d) Corresponde a bienes que son utilizados en la producción y en los mantenimientos periódicos de 
+las maquinarias y equipos de la Compañía. La Gerencia de la Compañía, de acuerdo con el plan 
+de producción anual y del mantenimiento de equipos, evalúa periódicamente el grado de 
+utilización. 
+ 
+(e) Comprende la adquisición de materia prima y auxiliar, que se recibe en los almacenes de la 
+Compañía con posterioridad al cierre del año. 
+ 
+(f) El movimiento de la provisión por desvalorización de inventarios por los años 2024 y 2023, es 
+como sigue: 
+   2024  2023   S/000  S/000 
+     
+Saldo inicial  17,650  12,124 
+Adiciones (*)  30,344  29,927 
+Castigos  (20,056)  (24,401) 
+Saldo final  27,938  17,650 
+ 
+(*) En 2024, la Compañía, en base a un estudio técnico para medir el grado de uso de sus 
+existencias, registró una pérdida por desvalorización en los rubros “Costo de ventas de bienes 
+y servicios” y “Gastos de venta y distribución”” por S/22,490,000 y S/7,854,000, 
+respectivamente (S/22,874,000, S/6,889,000 y S/164,000, en los rubros “Costo de ventas de 
+bienes y servicios”, “Gastos de venta y distribución” y “Gastos de Administración”, 
+respectivamente, en 2023), ver notas 21, 22 y 23. 
+ 
+En opinión de la Gerencia de la Compañía, la provisión por desvalorización de inventarios cubre 
+adecuadamente su riesgo de desvalorización al 31 de diciembre de 2024 y de 2023. 
+  
+
+=== PAGINA PDF 42 ===
+ 
+- 40 - 
+9 INVERSIONES EN SUBSIDIARIAS Y ASOCIADA 
+ 
+(a) Este rubro comprende: 
+ 
+  Porcentaje de        participación al   Valor en libros 
+  2024  2023  2024  2023 
+  %  %  S/000  S/000 
+         
+Subsidiarias         
+Agroindustrial del Perú S.A.C.  99.97  99.97  38,631  38,631 
+Inversiones Gloria Bolivia S.A.  99.89  99.89  29,608  29,608 
+Agropecuaria Chachani S.A.C. - En         
+Liquidación  99.97  99.97  28,886  28,886 
+Industrias de Empaques y Metales del          
+Perú EMPAMEL S.A.  99.78  99.78  2,152  2,152 
+Otros      36  36       99,313  99,313 
+         
+Asociadas         
+Leche Gloria Ecuador S.A.  19.09  28.36  13,076  13,647       112,389  112,960 
+ 
+(b) El movimiento de esta partida, por los años 2024 y 2023, es como sigue: 
+   2024  2023 
+  S/000  S/000 
+     
+Saldo inicial  112,960  113,890 
+Participación en los resultados netos de la asociada  (571)  - 
+Deterioro de inversiones, nota 23 (a) (*)  -  (930) 
+Saldo final  112,389  112,960 
+ 
+(*) Al 31 de diciembre de 2023, la Gerencia identificó deterioro de la inversión en Agropecuaria 
+Chachani S.A.C. (en liquidación), determinando un menor valor recuperable como 
+consecuencia de su liquidación, ver nota 1(c). Esta pérdida por deterioro se presenta en el 
+rubro de “Gastos de administración” del estado separado de resultados integrales. 
+ 
+(c) Al 31 de diciembre de 2024 y 2023, la Gerencia realizó una evaluación de deterioro de las 
+inversiones que mantiene en sus subsidiarias y asociadas y concluyó que, con excepción de la 
+subsidiaria descrita en el acápite (b), no existen indicios de deterioro y que los valores 
+recuperables de éstas exceden a los importes en libros, por lo que, en su opinión, no es necesario 
+constituir provisión adicional por deterioro. 
+  
+
+=== PAGINA PDF 43 ===
+ 
+- 41 - 
+10 PROPIEDADES DE INVERSIÓN 
+ 
+(a) El movimiento del rubro propiedades de inversión y su correspondiente depreciación acumulada 
+por los años 2024 y 2023, es el siguiente: 
+ 
+    Edificios, plantas y   
+    otras     Terrenos  construcciones  Total 
+  S/000  S/000  S/000        
+Costo       
+Saldo al 1 de enero de 2023  50,542  33,699  84,241 
+Transferencia  8  -  8 
+Saldo al 31 de diciembre de 2023  50,550  33,699  84,249 
+Transferencia  -  105  105 
+Saldo al 31 de diciembre de 2024  50,550  33,804  84,354        
+Depreciación acumulada       
+Saldo al 1 de enero de 2023  -  15,404  15,404 
+Adiciones  -  1,008  1,008 
+Saldo al 31 de diciembre de 2023  -  16,412  16,412 
+Adiciones  -  1,009  1,009 
+Transferencia  -  4  4 
+Saldo al 31 de diciembre de 2024  -  17,425  17,425        
+Costo neto al 31 de diciembre de 2023 50,550  17,287  67,837 
+Costo neto al 31 de diciembre de 2024 50,550  16,379  66,929 
+ 
+(b) Las propiedades de inversión corresponden principalmente a terrenos y edificaciones  ubicados en 
+Lima, Arequipa y Trujillo, y están destinadas para la generación de plusvalías y para el 
+arrendamiento operativo a entidades relacionadas y a terceros. Dichos bienes se encuentran 
+libres de gravámenes. 
+ 
+La renta de los alquileres obtenidos durante 2024 y 2023, ascendió a S/17,044,000 y 
+S/19,066,000, respectivamente, y se presenta en el rubro “Otros ingresos operativos” del estado 
+separado de resultados integrales, ver nota 26(a). 
+ 
+(c) La Compañía mantiene seguros sobre estos inmuebles de acuerdo con las políticas establecidas 
+por la Gerencia. Al 31 de diciembre de 2024 y de 2023, ha contratado pólizas de seguros 
+corporativas por daños materiales y pérdidas y, en opinión de la Gerencia, dichas pólizas cubren 
+la integridad de los activos de la Compañía a dichas fechas. 
+ 
+(d) Al 31 de diciembre de 2024 y de 2023, la Gerencia efectuó una evaluación sobre el estado de uso 
+de los inmuebles que se incluyen en esta partida, y no ha identificado indicios de desvalorización 
+por lo que, en su opinión, su valor en libros es recuperable con las utilidades futuras que genere la 
+Compañía. Al 31 de diciembre de 2024 y de 2023, el valor razonable de estos activos ha sido 
+determinado sobre la base de tasaciones realizadas por un perito tasador independiente, en cuyo 
+valor ha sido considerado aspectos tales como la ubicación, tamaño y zonificación de cada 
+inmueble (una valorización de nivel 3, bajo los conceptos de la NIIF 13, ‘Valor Razonable’). El 
+valor atribuido por el perito tasador en su tasación al 31 de diciembre de 2024 y 2023, asciende a 
+US$67,031,376 (dicho valor es equivalente a S/251,903,911 y S/248,351,248 al 31 de diciembre 
+de 2024 y de 2023, respectivamente). 
+ 
+(e) Los cobros mínimos anuales de los arrendamientos operativos a empresas relacionadas y a  
+terceros ascienden a S/15,834,000 y S/1,210,000, respectivamente. Los contratos de 
+arrendamiento con las empresas relacionadas se renuevan anualmente, mientras que los 
+arrendamientos con terceros vencen en el corto plazo.
+
+=== PAGINA PDF 44 ===
+ 
+- 42 - 
+11 PROPIEDADES, PLANTA Y EQUIPO 
+ 
+(a) El movimiento del rubro propiedades, planta y equipo y su correspondiente depreciación acumulada por los años 2024 y 2023, es el siguiente: 
+ 
+            Obras en       Edificios,         Curso y        plantas y  Maquinaria y  Muebles y  Unidades de   unidades por     Terrenos  otras construcciones   equipo  enseres  transporte  recibir (c)  Total 
+  S/000  S/000  S/000  S/000  S/000  S/000  S/000 
+               
+Costo               
+Saldo al 1 de enero de 2023  578,987  554,546  1,446,984  140,357  41,374  9,397  2,771,645 
+Adiciones (b)  1,557  -  -  -  -  42,556  44,113 
+Retiros  -  -  (2,479)  (3,295)  (7,931)  -  (13,705) 
+Transferencias  -  2,143  25,883  5,477  615  (34,597)  (479) 
+Saldo al 31 de diciembre de 2023  580,544  556,689  1,470,388  142,539  34,058  17,356  2,801,574 
+Adiciones (b)  -  -  68  -  -  88,186  88,254 
+Retiros  (190,480)  (34,422)  (107,480)  (53,551)  (9,269)  -  (395,202) 
+Otras transferencias -Propiedad de Inversión  -  (105)  -  -  -  -  (105) 
+Otras transferencias -Intangibles  -  -  -  -  -  (493)  (493) 
+Transferencias  139  14,326  65,056  3,267  55  (82,843)  - 
+Saldo al 31 de diciembre de 2024  390,203  536,488  1,428,032  92,255  24,844  22,206  2,494,028 
+               
+Depreciación acumulada               
+Saldo al 1 de enero de 2023  -  204,803  998,332  107,998  39,074  -  1,350,207 
+Adiciones (d)  -  16,344  76,097  9,961  484  -  102,886 
+Retiros  -  -  (1,965)  (3,236)  (7,533)  -  (12,734) 
+Saldo al 31 de diciembre de 2023  -  221,147  1,072,464  114,723  32,025  -  1,440,359 
+Adiciones (d)  -  16,501  76,217  8,309  467  -  101,494 
+Retiros  -  (8,747)  (105,452)  (53,358)  (9,178)  -  (176,735) 
+Saldo al 31 de diciembre de 2024  -  228,901  1,043,229  69,674  23,314  -  1,365,118 
+               
+Estimación de deterioro de valor               
+Saldo al 1 de enero de 2023  -  -  12,010  -  -  -  12,010 
+Adiciones (f )  -  -  2,616  -  -  -  2,616 
+Saldo al 31 de diciembre de 2023  -  -  14,626  -  -  -  14,626 
+Retiros  -  -  (2,430)  -  -  -  (2,430) 
+Saldo al 31 de diciembre de 2024  -  -  12,196  -  -  -  12,196 
+Costo neto al 31 de diciembre de 2023  580,544  335,542  383,298                   27,816  2,033                17,356  1,346,589 
+Costo neto al 31 de diciembre de 2024  390,203  307,587  372,607                   22,581  1,530                22,206  1,116,714 
+ 
+
+=== PAGINA PDF 45 ===
+ 
+- 43 - 
+(b) Durante los años 2024 y 2023, se ejecutaron proyectos destinados principalmente a la ampliación 
+de la línea de producción de envasado y elaboración de leche evaporada y de derivados lácteos; 
+asimismo, se efectuaron mejoras en las instalaciones y compras de máquinas y equipos para la 
+implementación de la planta de UHT. 
+ 
+(c) Las obras en curso y unidades por recibir comprenden todos los activos que se encuentran en 
+proceso de construcción y/o instalación, acumulando los respectivos costos hasta el momento que 
+están listos para entrar en operación, fecha en la que se transfieren a la cuenta de activo final. La 
+composición de las obras en curso y unidades por recibir, al 31 de diciembre de 2024 y de 2023, 
+es como sigue: 
+   2024  2023 
+  S/000  S/000 
+     
+Edificios  4,518  994 
+Maquinaria y equipo  17,496  15,823 
+Muebles y enseres  192  539 
+  22,206  17,356 
+ 
+(d) El gasto por depreciación de los años 2024 y 2023, en el estado separado de resultados 
+integrales, se ha distribuido como sigue: 
+   2024  2023 
+  S/000  S/000 
+     
+Costo de ventas, nota 21  80,495  79,927 
+Gasto de ventas y distribución, nota 22  4,605  4,383 
+Gasto de administración, nota 23  16,394  18,576 
+  101,494  102,886 
+ 
+(e) El rubro inmueble, mobiliario y equipo incluye activos adquiridos a través de contratos de 
+arrendamiento con entidades financieras locales cuyas obligaciones ya han sido canceladas. Al 31 
+de diciembre de 2024 y de 2023, el costo y la correspondiente depreciación acumulada de estos 
+bienes se encuentran compuestos de la siguiente manera: 
+   2024  2023 
+  S/000  S/000 
+     
+Costo  56,994  79,943 
+Depreciación acumulada  (52,801)  (74,449) 
+Costo neto  4,193  5,494 
+ 
+(f) Durante 2023, producto del proceso de toma de inventario de bienes del activo fijo, se 
+identificaron ciertos faltantes y activos deteriorados, por los cuales se reconoció una pérdida por 
+deterioro en resultados de S/2,616,000, ver nota 23(a). 
+ 
+Durante 2024, se dieron de baja activos fijos deteriorados por S/2,430,000. 
+ 
+(g) La Compañía mantiene seguros vigentes sobre sus principales activos de conformidad con las 
+políticas establecidas por la Gerencia. 
+ 
+(h)  Al 31 de diciembre de 2024 y de 2023, la Compañía no ha otorgado en garantía ningún bien de 
+propiedades, planta y equipo. 
+  
+
+=== PAGINA PDF 46 ===
+ 
+- 44 - 
+12 ACTIVOS INTANGIBLES 
+ 
+(a) El movimiento del rubro de activos intangibles y el de su correspondiente amortización acumulada 
+por los años 2024 y 2023, es el siguiente: 
+ 
+    Patentes,       Software  marcas y otros  En curso  Total 
+  S/000  S/000  S/000  S/000 
+         
+Costo         
+Saldo al 1 de enero de 2023  43,887  4,460  3,827  52,174 
+Adiciones (b)  -  -  142  142 
+Retiros  -  -  (142)  (142) 
+Transferencias  1,113  -  (617)  496 
+Saldo al 31 de diciembre de 2023  45,000  4,460  3,210  52,670 
+Adiciones (b)  -  -  2,205  2,205 
+Transferencias de propiedad, planta y equipo  -  -  493  493 
+Transferencias  6,024  (184)  (5,840)  - 
+Saldo al 31 de diciembre de 2024  51,024  4,276  68  55,368          
+Amortización acumulada         
+Saldo al 1 de enero de 2023  36,910  776  -  37,686 
+Adiciones  2,551  -  -  2,551 
+Saldo al 31 diciembre de 2023  39,461  776  -  40,237 
+Adiciones  706  -  -  706 
+Saldo al 31 diciembre de 2024  40,167  776  -  40,943          
+Costo neto al 31 de diciembre de 2023  5,539  3,684  3,210  12,433 
+Costo neto al 31 de diciembre de 2024  10,857  3,500  68  14,425 
+ 
+(b) Durante 2024 y 2023, la Compañía compró diversas licencias de software destinadas al 
+mejoramiento de sus operaciones; asimismo, realizó mejoras para el desarrollo de los sistemas 
+utilizados principalmente en los procesos de producción y distribución, así como en el Sistema del 
+portal de ganaderos y el proyecto de la célula digital de campo. 
+ 
+Al 31 de diciembre de 2024 y de 2023, el rubro de patentes, marcas y otros incluye el costo de 
+adquisición de la marca Milkito por S/3,402,000. La Compañía tiene la intención de renovar la 
+marca continuamente y la evidencia respalda su calidad para acompañar a la Compañía en la 
+generación de beneficios económicos. Un análisis de los estudios del ciclo de vida del producto y 
+de las tendencias competitivas y del mercado proporciona evidencia de que el producto generará 
+ingresos de efectivo netos para la Compañía por un periodo indefinido. Por la tanto, la marca 
+registrada se reconoce al costo, no se amortiza, pero se prueba por deterioro.  
+ 
+(c) La amortización de los años 2024 y 2023 se ha distribuido en el estado separado de resultados 
+integrales como sigue: 
+   2024  2023 
+  S/000  S/000 
+     
+Costo de ventas, nota 21  285  741 
+Gasto de ventas y distribución, nota 22  255  159 
+Gasto de administración, nota 23  166  1,651 
+  706  2,551 
+ 
+(d) Al 31 de diciembre de 2024 y de 2023, la Gerencia de la Compañía no ha identificado indicios de 
+deterioro en dichos activos, por lo que, en su opinión el valor en libros de sus activos es 
+recuperable con las utilidades futuras que genere la Compañía. 
+ 
+Al 31 de diciembre del 2024 y de 2023, la Compañía no tiene prendas o ningún otro tipo de 
+gravámenes sobre los bienes incluidos en este rubro. 
+
+=== PAGINA PDF 47 ===
+ 
+- 45 - 
+13 ACTIVO POR DERECHO DE USO 
+ 
+(a) El movimiento del rubro activo por derecho de uso y su correspondiente depreciación acumulada por los años 2024 y 2023, en función del tipo de bien 
+arrendado, es el siguiente: 
+ 
+    Edificios            y otras  Maquinarias  Unidades      Terrenos   construcciones   y equipos   de transporte  Total 
+   S/000  S/000  S/000  S/000  S/000             
+Costo           
+Saldo al 1 de enero de 2023  707  1,692  32,226  55  34,680 
+Arrendamiento operativo  -  1,233  2,409  -  3,642 
+Retiro  -  (1,057)  (8,869)  (55)  (9,981) 
+Saldo al 31 de diciembre de 2023  707  1,868  25,766  -  28,341            
+Arrendamiento operativo  1,173  820  2,040  -  4,033 
+Retiro  (707)  (635)  -  -  (1,342) 
+Saldo al 31 de diciembre de 2024  1,173  2,053  27,806  -  31,032 
+            
+Depreciación acumulada           
+Saldo al 1 de enero de 2023  271  1,145  16,367  55  17,838 
+Adiciones  172  431  4,541  -  5,144 
+Retiro  -  (1,057)  (8,869)  (55)  (9,981) 
+Saldo al 31 de diciembre de 2023  443  519  12,039  -  13,001 
+Adiciones  180  393  4,827  -  5,400 
+Retiro  (519)  (635)  -  -  (1,154) 
+Saldo al 31 de diciembre de 2024  104  277  16,866  -  17,247            
+Costo neto al 31 de diciembre de 2023  264  1,349  13,727  -  15,340 
+Costo neto al 31 de diciembre de 2024  1,069  1,776  10,940  -  13,785 
+ 
+ 
+
+=== PAGINA PDF 48 ===
+ 
+- 46 - 
+(b) El gasto por depreciación de los años 2024 y 2023, incluido en el estado separado de resultados 
+integrales, se ha distribuido como sigue: 
+   2024  2023 
+  S/000  S/000 
+     
+Costo de ventas, nota 21  4,963  4,709 
+Gasto de administración, nota 23  437  435 
+  5,400  5,144 
+ 
+(c) Al 31 de diciembre de 2024 y de 2023, la Gerencia de la Compañía no ha encontrado indicios de 
+desvalorización en dichos activos, por lo que, en su opinión el valor en libros de sus activos es 
+recuperable con las utilidades futuras que genere la Compañía. 
+ 
+ 
+
+=== PAGINA PDF 49 ===
+ 
+- 47 - 
+14 OBLIGACIONES FINANCIERAS 
+ 
+(a) Este rubro comprende las siguientes obligaciones financieras: 
+ 
+  Corriente   No corriente (d)  Total  
+  2024  2023  2024  2023  2024  2023 
+  S/000  S/000  S/000  S/000  S/000  S/000 
+             
+Pagarés (b)  -  150,500  1,117,500  819,500  1,117,500  970,000 
+Bonos (c)  -  -  150,000  150,000  150,000  150,000 
+  -  150,500  1,267,500  969,500  1,267,500  1,120,000 
+ 
+(b) Al 31 de diciembre de 2024 y de 2023, los saldos por pagarés bancarios están denominados en soles y se detallan como sigue: 
+ 
+  Tasa de interés  Vencimientos  Número de pagarés           2024  2023  2024  2023  2024  2023  2024  2023 
+  %  %          S/000  S/000 
+Entidad financiera -                 
+BBVA Continental S.A.  5.28 y 7.28  7.79  En enero 2026  Enero de 2025  1  1  252,500  269,500 
+BBVA Continental S.A.  4.95 y 6.99  -  En marzo 2026  -  1  -  105,000  - 
+Scotiabank del Perú S.A.A.  5.29  -  En enero 2026  -  1  -  145,000  - 
+Scotiabank del Perú S.A.A.  5.00  7.8  En marzo 2026  Enero de 2025  2  1  205,000  100,000 
+Banco de Crédito del Perú S.A.  4.98  7.86  En marzo 2026  Enero de 2025  1  1  410,000  450,000 
+Banco Internacional del Perú S.A.A.  -  7.97  -  Julio de 2024  1  3  -  150,500 
+              1,117,500  970,000 
+ 
+Durante 2024 y 2023, la Compañía ha reconocido gastos por intereses relacionados con pagarés por S/ 72,247,000 y S/83,285,000, respectivamente, los 
+cuales se presentan en el rubro “Gastos financieros” del estado separado de resultados integrales, ver nota 2 9. 
+ 
+Al 31 de diciembre de 2024 y de 2023, los pagarés contratados no requieren que la Compañía cumpla con obligaciones de desempeño  financiero. 
+  
+
+=== PAGINA PDF 50 ===
+ 
+- 48 - 
+(c) A continuación, se presenta la composición de los programas de emisión de los bonos corporativos  Al 31 de diciembre de 2024 y de 2023, los cuales 
+fueron íntegramente emitidos, no cuentan con garantías específicas y se encuentran inscritos en la Superintendencia de Mercado de Valores - SMV: 
+ 
+  Valor  Fecha de  Fecha de  Tasa de  Pago de  Amortización del       nominal  emisión  vencimiento  interés  intereses  principal  2024  2023   S/000      %      S/000  S/000                  
+Primer programa -            Parcial a partir del     
+Cuarta emisión  150,000  5/02/2015  5/02/2035  7.13  Semestral  5/08/2032  150,000  150,000 
+ 
+Los fondos obtenidos a través de las emisiones del Primer Programa de Bonos Corporativos fueron destinados principalmente par a uso como capital de 
+trabajo e inversión en infraestructura y bienes de capital. Al 31 de diciembre de 2024 y de 2023, los bonos mantienen una clasificación de riesgo AAA, 
+designado por entidades clasificadoras de riesgo de reconocido prestigio. 
+ 
+Durante 2024 y 2023, la Compañía ha reconocido gastos por intereses relacionados con estos instrumentos de deuda por S/ 10,688,000 en ambos años, 
+los cuales se presentan en el rubro “Gastos financieros” del estado separado de resultados integrales, ver nota 2 9. 
+ 
+La Compañía se encuentra obligada a cumplir con las siguientes restricciones que no implican ratios financieros: 
+ 
+- Participar en fusiones, adquisiciones o reorganizaciones societarias, que conlleve n un efecto o cambio sustancialmente adverso para el emisor y/o 
+pueda generar uno o más eventos de incumplimiento. 
+- Transferir, total o parcialmente, cualquier derecho u obligación generada por las respectivas emisiones.  
+- Establecer ni acordar un orden de prelación en sus futuras obligaciones.  
+ 
+El cumplimiento de las obligaciones descritas es supervisado por la Gerencia de la Compañía y validad o por los representantes de los obligacionistas. En 
+caso de incumplimiento de los resguardos mencionados se incurrirá en evento de terminación anticipada . En opinión de la Gerencia, la Compañía ha 
+cumplido con dichas obligaciones Al 31 de diciembre de 2024 y de 2023. 
+ 
+Los pagarés y bonos se encuentran denominados en soles y generan intereses a tasas anuales de mercado. Al 31 de diciembre de 2024 y de 2023, los 
+intereses devengados pendientes de pago por estas deudas ascienden a S/8,828,000 y S/18,590,000, respectivamente, y se presentan en el rubro de 
+“Otros pasivos y provisiones”, nota 16. 
+
+=== PAGINA PDF 51 ===
+ 
+- 49 - 
+(d) El vencimiento de las obligaciones financieras es como sigue: 
+ 
+Año  2024  2023 
+  S/000  S/000 
+     
+2024  -  150,500 
+2025  -  819,500 
+2026  1,117,500  - 
+2032  22,500  22,500 
+2033  45,000  45,000 
+2034  52,500  52,500 
+2035  30,000  30,000 
+  1,267,500  1,120,000 
+ 
+(e) A continuación, se presentan los cambios en los pasivos provenientes de las actividades de 
+financiamiento: 
+ 
+  Pagarés  Bonos 
+  2024  2023  2024  2023 
+  S/000  S/000  S/000  S/000 
+         
+Saldo inicial al 1 de enero  970,000  1,025,000  150,000  150,000 
+Ingreso de efectivo  5,477,880  3,908,000  -  - 
+Salida de efectivo  (5,330,380)  (3,963,000)  -  - 
+Saldo final  1,117,500  970,000  150,000  150,000 
+ 
+(f) El valor en libros y el valor razonable de las obligaciones financieras al 31 de diciembre de 2024 y 
+de 2023, es el siguiente: 
+ 
+  Valor en libros   Valor razonable 
+  2024  2023  2024  2023 
+  S/000  S/000  S/000  S/000 
+         
+Pagarés  1,117,500  970,000  1,113,562  983,391 
+Bonos  150,000  150,000  159,785  157,711 
+  1,267,500  1,120,000  1,273,347  1,141,102 
+ 
+Al 31 de diciembre de 2024, los valores razonables se basan en los flujos de caja descontados 
+empleando las tasas de interés de mercado entre 5.84 y 6.68% en soles (entre 6.92% y 8.08% en 
+soles, al 31 de diciembre de 2023). 
+ 
+15 CUENTAS POR PAGAR COMERCIALES 
+ 
+Las cuentas por pagar comerciales están denominadas en moneda nacional y moneda extranjera y se 
+originan principalmente por obligaciones con proveedores nacionales y del exterior por la adquisición 
+de materia prima y suministros necesarios para la producción. Las cuentas por pagar comerciales 
+tienen vencimientos corrientes que oscilan entre 7 y 90 días, no generan intereses y no se han 
+otorgado garantías específicas por estas obligaciones. 
+  
+
+=== PAGINA PDF 52 ===
+ 
+- 50 - 
+16 OTROS PASIVOS Y PROVISIONES 
+ 
+(a) Este rubro comprende: 
+   2024  2023 
+  S/000  S/000 
+     
+Otros pasivos      
+Dividendos (b)  19,339  18,446 
+Dietas al Directorio (c)  59,634  40,934 
+Participación de los trabajadores  44,362  27,704 
+Vacaciones por pagar  11,847  11,540 
+Remuneraciones  5,894  3,529 
+Intereses por pagar, nota 14 (c)  8,828  18,590 
+Impuesto a las ganancias (e)  43,952  - 
+Impuestos y contribuciones sociales (d)  6,751  13,329 
+Compensación por tiempo de servicios  2,048  1,919 
+Depósitos en garantía  108  108 
+Otros  2,462  1,508 
+  205,225  137,607 
+     
+Provisiones     
+Provisiones por contingencias legales  10,648  6,565 
+Total  215,873  144,172 
+ 
+(b) Durante 2024, se realizaron pagos de dividendos a terceros y relacionadas ascendentes a 
+S/7,126,000 y S/45,345,000, respectivamente (durante 2023, los pagos de dividendos a terceros y 
+relacionadas ascendieron a S/2,813,000 y S/199,087,000, respectivamente). Asimismo, durante 
+2024 y 2023, se compensaron préstamos otorgados con dividendos por pagar ascendentes a 
+S/137,180,000 y S/115,115,000, respectivamente, ver nota 33 (n). 
+ 
+(c) Durante 2024 y 2023, las dietas de los directores ascendieron a S/22,717,000 y S/15,220,000, las 
+que se presentan en resultados en el rubro de “Gastos de administración”, ver nota 23(a). 
+ 
+(d) Al 31 de diciembre de 2024 corresponde principalmente al impuesto selectivo al consumo y al 
+impuesto a la renta de quinta categoría ascendientes a S/1,991,000 y S/1,894,000, 
+respectivamente (al 31 de diciembre de 2023, corresponde principalmente al impuesto general a 
+las ventas, impuesto selectivo al consumo y al impuesto a la renta de quinta categoría ascendente 
+a S/7,199,000, S/1,881,000 y S/1,322,0200, respectivamente). 
+ 
+(e) Corresponde al impuesto a la renta 2024 de S/115,166,000 , neto de: (i) los pagos a cuenta del 
+año de S/65,583,000 y (ii) el saldo a favor de 2023 de S/5,631,000. 
+ 
+17 PASIVO POR ARRENDAMIENTOS 
+ 
+(a) El pasivo por arrendamiento se presenta, en cuanto a su porción corriente y no corriente, como 
+sigue: 
+ 
+  2024  2023 
+  S/000  S/000 
+     
+Porción corriente  5,533  4,094 
+Porción no corriente  9,111  11,930 
+  14,644  16,024 
+ 
+  
+
+=== PAGINA PDF 53 ===
+ 
+- 51 - 
+(b) El pasivo por arrendamiento discriminado por tipo de proveedor es como sigue: 
+   2024  2023 
+  S/000  S/000 
+     
+Con empresas relacionadas  2,654  1,583 
+Con terceros  11,990  14,441 
+  14,644  16,024 
+ 
+(c) Este pasivo está compuesto por arrendamientos de inmuebles, maquinaria y equipo y vehículos 
+destinados a la operación de la Compañía. 
+ 
+(d) Los contratos de arrendamiento tienen vencimientos mayores a 12 meses y se extienden hasta 30 
+años. Han sido medidos usando una tasa de descuento de 11.13% en soles y de 7.89% anual en 
+dólares estadounidenses. Dichos contratos otorgan a la Compañía, en común acuerdo con los 
+propietarios, la opción de ampliarlos, renovarlos y finiquitarlos anticipadamente. 
+ 
+(e) El movimiento del pasivo por arrendamiento es como sigue: 
+   2024  2023 
+  S/000  S/000 
+     
+Saldo inicial  16,024  18,274 
+Adiciones de arrendamientos  4,033  3,642 
+Bajas de contrato de arrendamiento  (188)  - 
+Gastos por intereses  922  804 
+Pago de cuotas de arrendamiento  (5,225)  (5,892) 
+Pago de intereses  (922)  (804) 
+Saldo final  14,644  16,024 
+ 
+ 
+
+=== PAGINA PDF 54 ===
+ 
+- 52 - 
+18 PASIVO POR IMPUESTO A LAS GANANCIAS DIFERIDO 
+ 
+(a) A continuación, se detalla el movimiento de los componentes que originan el impuesto a las ganancias diferido por los años 2024 y 2023: 
+ 
+      Al 31 de    Al 31 de 
+  Al 1 de enero   Ingreso  diciembre   Ingreso  diciembre de 
+  de 2023  (gasto)  de 2023  (gasto)  2024 
+  S/000  S/000  S/000  S/000  S/000 
+           
+Pasivo diferido -           
+Costo asumido de activos fijos  (72,666)  1,425  (71,241)  1,517  (69,724) 
+Diferencia en tasas de depreciación  (21,734)  (496)  (22,230)  1,476  (20,754) 
+Activo por derecho de uso  (4,969)  443  (4,526)  458  (4,068) 
+Depreciación de activos adquiridos con           
+contratos de arrendamiento financiero  (2,132)  350  (1,782)  384  (1,398) 
+Amortización de intangibles de duración limitada  (1,077)  419  (658)  (496)  (1,154) 
+Otros  (902)  326  (576)  277  (299) 
+  (103,480)  2,467  (101,013)  3,616  (97,397) 
+           
+Activo diferido -           
+Provisión de vacaciones  3,197  115  3,312  52  3,364 
+Estimación por desvalorización de inventarios  3,576  1,630  5,206  3,035  8,241 
+Estimación por deterioro de maquinarias y equipos 3,543  772  4,315  (717)  3,598 
+Pasivo por arrendamiento  5,392  (664)  4,728  (407)  4,321 
+Otros  2,102  (886)  1,216  (114)  1,102 
+  17,810  967  18,777  1,849  20,626 
+Pasivo diferido, neto  (85,670)  3,434  (82,236)  5,465  (76,771) 
+ 
+
+=== PAGINA PDF 55 ===
+ 
+- 53 - 
+(b) El gasto por impuesto a las ganancias mostrado en el estado separado de resultados integrales 
+por los años 2024 y de 2023, se compone de la siguiente manera: 
+   2024  2023 
+  S/000  S/000 
+     
+Corriente  (115,166)  (71,225) 
+Diferido  5,465  3,434 
+  (109,701)  (67,791) 
+ 
+(c) A continuación, se presenta, para los años 2024 y de 2023, la conciliación de la tasa efectiva del 
+impuesto a las ganancias: 
+ 
+  2024      2023     
+  S/000  %  S/000  %          
+Utilidad antes del impuesto a las ganancias  355,899  100  238,453  100 
+Gasto teórico del impuesto a las ganancias  
+con la tasa legal  (104,990)  (29,50)  (70,344)  (29.50) 
+         
+Más (menos)         
+Dividendos no gravados  94  0.03  8,769  3.68 
+Partidas permanentes  (4,805)  (1.35)  (6,216)  (2.61) 
+Gasto por impuesto a las ganancias con tasa  (109,701)  (30.82)  (67,791)  (28.43) 
+ 
+19 PATRIMONIO 
+ 
+(a) Capital social - 
+ 
+Al 31 de diciembre de 2024 y de 2023, el capital social de la Compañía está representado por 
+382,502,106 acciones comunes a un valor nominal de S/1 cada una, las cuales se encuentran 
+íntegramente emitidas y pagadas. Al 31 de diciembre de 2024 y de 2023, la estructura societaria de la 
+Compañía es la siguiente: 
+ 
+  Número de     Porcentaje de  
+Accionista  Acciones  Valor  participación 
+    S/  % 
+       
+Gloria Foods S. A.  288,948,549  1.00  75.54 
+Racionalización Empresarial S. A.  33,812,045  1.00  8.84 
+Personas naturales  16,628,942  1.00  4.35 
+Otros  43,112,570  1.00  11.27 
+  382,502,106    100.00 
+ 
+(b) Acciones de inversión - 
+ 
+Al 31 de diciembre de 2024 y de 2023, está representado por 39,117,107 acciones de inversión 
+respectivamente, cuyo valor nominal es de S/1.00. El valor de mercado de las acciones de inversión 
+asciende a S/6.00 por acción al 31 de diciembre de 2024 (S/5.10 por acción al 31 de diciembre de 
+2023) y se negocian en la Bolsa de Valores de Lima. 
+ 
+Al 31 de diciembre de 2024 y de 2023, la Compañía cuenta con 647,107 acciones de inversión 
+mantenidas en Tesorería, cuyo valor nominal es de S/1.00. 
+  
+
+=== PAGINA PDF 56 ===
+ 
+- 54 - 
+(c) Otras reservas de capital (reserva legal) - 
+ 
+De acuerdo con la Ley General de Sociedades, la reserva legal se constituye con la transferencia de 
+10% de la utilidad neta anual hasta alcanzar un monto equivalente al 20% del capital pagado. En 
+ausencia de utilidades no distribuidas o reservas de libre disposición, la reserva legal podrá ser 
+aplicada a la compensación de pérdidas, debiendo ser repuesta con las utilidades de ejercicios 
+posteriores. Esta reserva puede ser capitalizada siendo igualmente obligatoria su reposición . Al 31 de 
+diciembre de 2024 y de 2023, la reserva legal alcanzó su límite establecido. 
+ 
+(d) Distribución de dividendos - 
+ 
+En Junta General de Accionistas de fecha 9 de abril de 2024, se aprobó la distribución de dividendos 
+correspondiente a los resultados acumulados obtenidos al 31 de diciembre de 2023 por 
+S/200,000,000, equivalente a S/0.474361684 por acción común y de inversión. 
+ 
+Al 31 de diciembre de 2024 y de 2023, la Compañía mantiene dividendos pendientes de pago por 
+S/19,339,000 y S/18,446,000, respectivamente, ver nota 16(a). 
+ 
+De acuerdo con el artículo 232 de la Ley General de Sociedades, el derecho a cobrar los dividendos 
+distribuidos, caduca a los tres años a partir de la fecha en que su pago era exigible.  
+ 
+(e) Resultados acumulados - 
+ 
+La política de dividendos de las empresas peruanas que forman parte del Grupo se sujeta al artículo 
+N°230 y siguientes de la Ley General de Sociedades. La Compañía establece que la distribución de 
+utilidades de libre disposición, vía dividendo, de hasta un 60% de dichas utilidades, previa 
+aprobación de la Junta General de Accionistas. 
+ 
+20 VENTA DE BIENES Y SERVICIOS 
+ 
+(a) En el siguiente cuadro se indica la desagregación de los ingresos provenientes de contratos con 
+clientes de la Compañía: 
+ 
+    Derivados       Leche  lácteos  Otros  Total 
+  S/000  S/000  S/000  S/000 
+         
+Año 2024         
+Ingreso por venta de         
+bienes  2,892,459  910,251  390,884  4,193,594 
+Otros ingresos menores  -  -  59,173  59,173 
+  2,892,459  910,251  450,057  4,252,767 
+         
+Año 2023         
+Ingreso por venta de         
+bienes  2,786,232  887,860  364,028  4,038,120 
+Otros ingresos menores  -  -  59,384  59,384 
+  2,786,232  887,860  423,412  4,097,504 
+ 
+  
+
+=== PAGINA PDF 57 ===
+ 
+- 55 - 
+(b) A continuación, se presenta la composición del rubro por producto y por tipo de cliente: 
+ 
+    2024  2023 
+  S/000  S/000      
+Por familia de productos      
+Leche evaporada  2,324,356  2,316,262 
+Yogurt  659,287  644,093 
+Leche UHT  456,235  401,612 
+Mantequilla   142,507  127,709 
+Leche condensada   111,868  68,358 
+Quesos  108,457  115,915 
+Jugos y refrescos  92,099  87,021 
+Panetón   83,849  70,670 
+Conservas   57,715  49,525 
+Otros   157,221  156,955 
+  4,193,594  4,038,120 
+Servicios (c)  59,173  59,384 
+  4,252,767  4,097,504 
+Por tipo de clientes     
+Terceros   3,883,393  3,723,549 
+Relacionadas, nota 33(m)     
+Deprodeca, nota 1(b)  254,604  283,772 
+Otras empresas relacionadas  114,770  90,183 
+  4,252,767  4,097,504 
+ 
+(c) Corresponde principalmente a servicios de gerenciamiento corporativos brindados a sus 
+entidades relacionadas. 
+ 
+21 COSTO DE VENTAS DE BIENES Y SERVICIOS 
+ 
+(a) Este rubro comprende: 
+ 
+  2024  2023   S/000  S/000 
+     
+Producción -     
+Inventario inicial de mercadería, nota 8(a)  48,399  47,627 
+Compra de mercadería  226,136  274,915 
+Inventario final de mercadería, nota 8(a)  (31,845)  (48,399) 
+Inventario inicial de productos terminados, nota 8(a)  148,906  149,673 
+Inventario inicial de productos en proceso, nota 8(a)  42,974  41,502 
+Consumo de materias prima e insumos  2,323,365  2,393,443 
+Mano de obra directa (*)  44,388  38,311 
+Depreciación, nota 11(d) y 13(b)  85,458  84,636 
+Otros gastos de fabricación (*)  568,238  495,713 
+Desvalorización de existencias Nota 8(f)  22,490  22,874 
+Amortización, nota 12 (c)  285  741 
+Inventario final de productos terminados, nota 8(a)  (164,612)  (148,906) 
+Inventario final de productos en proceso, nota 8(a)  (41,589)  (42,974) 
+  3,272,593  3,309,156 
+Servicios -     
+Costo de servicios  57,416  56,835 
+  3,330,009  3,365,991 
+ 
+(*) En 2024, la Compañía mantiene como otros gastos de fabricación los gastos asociados a la 
+mano de obra indirecta asociada al costo de venta de bienes y servicios. En 2024, la mano de 
+obra directa e indirecta ascienden a S/44,388,000 y S/109,282,000, respectivamente 
+(S/38,311,000 y S/96,367,000, respectivamente, en 2023), ver nota 24(b).   
+
+=== PAGINA PDF 58 ===
+ 
+- 56 - 
+22 GASTOS DE VENTA Y DISTRIBUCIÓN 
+ 
+(a) Este rubro comprende: 
+   2024  2023 
+  S/000  S/000 
+     
+Comisiones (b)  228,817  190,101 
+Publicidad y promociones (c)  110,191  85,713 
+Servicios prestados por terceros nota 25(b)  19,790  9,800 
+Cargas de personal, nota 24(b)  10,078  2,409 
+Cargas diversas de gestión y provisiones  8,538  11,815 
+Destrucciones de inventarios, nota 8 (f)  7,854  6,889 
+Depreciación, nota 11(d)  4,605  4,383 
+Tributos  3,349  424 
+Regalías  1,105  1,020 
+Amortización, nota 12 (c)  255  159 
+  394,582  312,713 
+ 
+(b) Corresponde principalmente a las comisiones pagadas a su relacionada Deprodeca S.A.C. por el 
+servicio de agenciamiento en la distribución de productos vendidos en Lima y provincias, nota 
+1(b). 
+ 
+(c) Corresponde principalmente a los gastos de publicidad y marketing, principalmente en medios de 
+comunicación. 
+ 
+23 GASTOS DE ADMINISTRACIÓN  
+ 
+(a) Este rubro comprende: 
+ 
+  2024  2023 
+  S/000  S/000      
+Cargas de personal, nota 24(d)  67,781  51,934 
+Servicios prestados por terceros nota 25(b)  50,176  52,425 
+Dietas de directores, nota 16 (c)  22,717  15,220 
+Depreciación, notas 10(a) ,11(e) y 13(b)  17,840  20,019 
+Cargas diversas de gestión y provisiones  14,382  10,031 
+Tributos (b)  6,137  10,772 
+Impuesto a las transacciones financieras  1,027  788 
+Amortización, nota 12(c)    166  1,651 
+Estimación por deterioro de cuentas por cobrar, nota 6  79  27 
+Deterioro de maquinaria y equipos, nota 11(f)  -  2,616 
+Estimación por deterioro de inversiones, nota 9(b)  -  930 
+Destrucciones de inventarios, nota 8 (f)  -  164 
+  180,305  166,577 
+ 
+(b) Corresponde principalmente al Impuesto General a las Ventas por operaciones no gravadas  y 
+retenciones de rentas en operaciones con empresas relacionadas del exterior.  
+  
+
+=== PAGINA PDF 59 ===
+ 
+- 57 - 
+24 GASTOS DE PERSONAL 
+ 
+(a) Este rubro comprende: 
+   2024  2023 
+  S/000  S/000 
+     
+Remuneraciones  167,994  144,993 
+Participación de los trabajadores  43,983  26,961 
+Compensación por tiempo de servicios  18,004  15,277 
+Otros gastos de personal  1,548  1,790 
+  231,529  189,021 
+ 
+(b) Los gastos de personal se encuentran distribuidos de la siguiente manera: 
+   2024  2023 
+  S/000  S/000 
+     
+Costo de ventas, nota 21 (*)  153,670  134,678 
+Gastos de venta y distribución, nota 22(a)  10,078  2,409 
+Gastos de administración, nota 23(a)  67,781  51,934 
+  231,529  189,021 
+ 
+25 SERVICIOS PRESTADOS POR TERCEROS 
+ 
+(a) Este rubro comprende: 
+ 
+   2024  2023 
+   S/000  S/000 
+      
+Servicio de electricidad, agua y gas  66,548  59,693 
+Servicio de honorarios y comisiones   59,384  45,634 
+Servicio de mantenimiento y reparación   25,524  10,092 
+Servicio de flete y transporte de leche  25,334  29,962 
+Servicio de personal  23,389  20,612 
+Servicio de limpieza y fumigación   11,329  11,134 
+Servicio de vigilancia  5,101  5,469 
+Servicio de Outsourcing  4,612  4,439 
+Comunicaciones  2,382  1,822 
+Licencias  1,325  5,386 
+Otros  22,858  14,960 
+   247,786  209,203 
+ 
+(b) Los gastos de servicios prestados por terceros se encuentran distribuidos de la siguiente manera: 
+   2024  2023 
+  S/000  S/000 
+     
+Costo de ventas de bienes y servicios  177,820  146,978 
+Gastos de venta y distribución, ver nota 22  19,790  9,800 
+Gastos de administración, ver nota 23  50,176  52,425 
+  247,786  209,203 
+  
+
+=== PAGINA PDF 60 ===
+ 
+- 58 - 
+26 OTROS INGRESOS OPERATIVOS 
+  
+(a) Este rubro comprende: 
+   2024  2023 
+  S/000  S/000 
+     
+Alquileres, nota 10(b)   17,044  19,066 
+Venta de propiedades, planta y equipo (b)  9,253  2,022 
+Venta de bienes y servicios diversos   5,294  4,997 
+Exceso de provisión de años anteriores  4,218  3,644 
+Reembolso seguro (d)  3,355  4,284 
+Certificados de reposición (c)  1,603  4,479 
+Recuperación de provisión de impuestos (e)  -  2,565 
+Otros  1,339  2,066 
+  42,106  43,123 
+ 
+(b) Al 31 de diciembre de 2024, corresponde principalmente a la venta del terreno e inmueble ubicado 
+en Ate, a una relacionada, el valor de la venta asciende a S/227,064,000 y el costo de 
+enajenación asciende a S/216,223,000. El importe cobrado durante 2024 asciende a 
+S/115,725,000. Al 31 de diciembre de 2023, corresponde principalmente a la venta de 
+maquinarias y unidades de transporte a relacionadas. 
+ 
+(c) Corresponde a la devolución de impuestos aduaneros por la importación de mercaderías que es 
+nacionalizada y posteriormente es utilizada para obtener mercadería de exportación.  
+ 
+(d) En agosto de 2023, se obtuvo un reintegro por la liquidación de un reclamo al seguro por los 
+siniestros ocurridos en diciembre de 2022, relacionado a los hechos de vandalismo por asuntos 
+políticos que afectaron a la Compañía. Durante 2024, se obtuvo la indemnización por lucro 
+cesante. 
+ 
+(e) Al 31 de diciembre de 2023, corresponde a la devolución de SUNAT (Aduanas) según Resolución 
+de División No. 0001687-2023-Sunat / 308500 de fecha 5 de julio de 2023, donde se resuelve 
+reconocer a favor de la Compañía un crédito por derechos específicos.  
+ 
+27 OTROS GASTOS OPERATIVOS 
+ 
+Este rubro comprende exclusivamente el costo de enajenación por la venta de maquinarias y equipos.  
+ 
+28 INGRESOS FINANCIEROS 
+ 
+(a) Este rubro comprende: 
+   2024  2023 
+  S/000  S/000      
+Intereses por préstamos a relacionadas, nota 33(n)  54,699  25,405 
+Descuentos por pronto pago  1,955  1,465 
+Otros ingresos financieros  1,443  2,382 
+Intereses por depósitos a plazo  1,437  392 
+Dividendos (b)  318  29,725 
+  59,852  59,369 
+ 
+(b) En 2023 corresponde a dividendos recibidos de la subsidiaria Inversiones Gloria Bolivia S.A. los 
+cuales se encuentran afectos a impuestos. El flujo recibido neto de impuestos asciende a 
+S/22,938,000.  
+
+=== PAGINA PDF 61 ===
+ 
+- 59 - 
+29 GASTOS FINANCIEROS 
+ 
+Este rubro comprende: 
+ 
+   2024  2023 
+   S/000  S/000 
+      
+Intereses por pagarés, nota 14(b)  72,247  83,285 
+Intereses por bonos corporativos, nota 14(c)  10,688  10,688 
+Intereses por préstamos de relacionadas, nota 33(n)  3,345  86 
+Intereses por arrendamiento  922  804 
+Intereses de deuda tributaria  451  575 
+Otros intereses (*)  2,181  3,804 
+   89,834  99,242 
+ 
+(*) Incluye principalmente comisiones por cartas fianzas e intereses de sobregiros bancarios. 
+ 
+30 SITUACIÓN TRIBUTARIA 
+ 
+(a) La Compañía está sujeta al régimen tributario peruano. La tasa del impuesto a la renta, al 31 de 
+diciembre de 2024 y de 2023, es de 29.5% sobre la utilidad gravable después de calcular la 
+participación de los trabajadores, la cual, de acuerdo con lo establecido por las normas vigentes, 
+se calcula, en el caso de la Compañía, aplicando una tasa de 10% sobre la renta neta imponible. 
+ 
+Las personas jurídicas no domiciliadas en Perú y las personas naturales están sujetas a la 
+retención de un impuesto adicional sobre los dividendos recibidos. Al respecto, en atención a lo 
+dispuesto por el referido Decreto Legislativo, el impuesto adicional a los dividendos por las 
+utilidades generadas es el siguiente: 
+ 
+- 6.8% por las utilidades generadas desde el 1 de enero de 2015 hasta el 31 de diciembre de 
+2016. 
+- Por las utilidades generadas a partir del 1 de enero de 2017, cuya distribución se efectúe 
+a partir de dicha fecha, la tasa aplicable será de 5%. 
+ 
+(b) La Administración Tributaria tiene la facultad de revisar y, de ser el caso, corregir el impuesto a 
+la renta determinado por la Compañía en los cuatro últimos años, contados a partir del 1 de 
+enero del año     siguiente al de la presentación de la declaración jurada del impuesto 
+correspondiente (años abiertos a fiscalización). Los años 2020 al 2024 están sujetos a una 
+futura fiscalización. Cualquier impuesto adicional, multas e intereses, si se produjeran, serán 
+reconocidos en los resultados del año en el que la diferencia de criterios con la Administración 
+Tributaria se resuelva. La Gerencia estima que no surgirán pasivos de importancia como 
+resultado de estas posibles revisiones. 
+ 
+(c) De acuerdo con la legislación vigente, para propósitos de la determinación del Impuesto a la 
+Renta y del Impuesto General a las Ventas, el precio de transferencia entre partes relacionadas 
+y no relacionadas debe contar con documentación e información que sustente los métodos y 
+criterios de valuación aplicados en su determinación. La Administración Tributaria está facultada 
+a solicitar esta información al contribuyente. Con base en el análisis de las operaciones de la 
+Compañía, la Gerencia   y sus asesores legales opinan que, como consecuencia de la aplicación 
+de esta norma, no surgirán contingencias de importancia para la Compañía Al 31 de diciembre 
+de 2024 y de 2023. 
+  
+
+=== PAGINA PDF 62 ===
+ 
+- 60 - 
+(d) Marco regulatorio - Modificaciones a la Ley del Impuesto a la Renta -  
+ 
+Con posterioridad al 31 de diciembre de 2024, no se han presentado cambios significativos al 
+régimen de Impuesto a la Renta en el Perú, que tuvieran efectos en estos estados financieros 
+separados. Las normas e interpretaciones vigentes al 31 de diciembre de 2024 han sido 
+consideradas por la Gerencia en la preparación de los estados financieros.  
+ 
+Para el año 2024, las principales modificaciones que fueron de aplicación son:  
+ 
+- Decreto Supremo N°047-2024-EF, que modifica el Reglamento de la Ley del Impuesto a la 
+Renta, entre las modificaciones se encuentra el haberse establecido que, para efectos del 
+impuesto a la renta, se entiende por dividendos y cualquier otra forma de distribución de 
+utilidades a la participación del asociado de un contrato de asociación en participación;  
+- Decreto Legislativo N°1545 con vigencia desde el 1 de enero de 2024, el Decreto Legislativo 
+tiene por objeto modificar el primer párrafo del artículo 26 de la Ley del Impuesto a la Renta, 
+sobre rentas por intereses presuntos. 
+- Mediante Resolución de Superintendencia N° 000302-2024-SUNAT aprueban disposiciones 
+para la implementación del Decreto Legislativo No.1532 encargado de la regulación del 
+procedimiento de atribución de la condición de sujeto sin capacidad operativa (en adelante, 
+“SSCO”), y a su vez modifica la norma de comprobantes de pago. 
+- Mediante el decreto legislativo N° 1669 se elimina el plazo de 12 meses que tenían los 
+contribuyentes para anotar sus comprobantes y poder utilizar el IGV pagado como crédito 
+fiscal, por lo que la no anotación en los plazos establecidos resultará en la pér dida del 
+derecho al crédito fiscal. 
+ 
+(e) El Impuesto Temporal a los Activos Netos grava a los generadores de rentas de tercera categoría 
+sujetos al régimen general del impuesto a la renta. La tasa del impuesto es de 0.4% aplicable al 
+monto de los activos netos que excedan S/1 millón. El monto efectivamente pagado podrá 
+utilizarse como crédito contra los pagos a cuenta del Régimen General del Impuesto a la Renta o 
+contra el pago de la regularización del impuesto a la renta del ejercicio gravable al que 
+corresponda. 
+ 
+31 COMPROMISOS, CONTINGENCIAS Y GARANTÍAS OTORGADAS 
+ 
+(a) Medio ambiente - 
+ 
+La Compañía cuenta con estudios de impacto ambiental evaluados y aprobados por el Consejo 
+Nacional de Ambiente - CONAM, existen compromisos con relación al control de sus efluentes y 
+emisiones, para tal efecto debe presentar el monitoreo ambiental de manera periódica, los cuales son 
+elaborados por una consultora ambiental certificada. Con dichos instrumentos se pueden desarrollar 
+prácticas de gestión ambiental y procedimientos dirigidos a proteger el medio ambiente, mediante la 
+prevención y minimización de los impactos en el aire, agua, suelos, la flora y fauna, considerando que 
+la preservación es garantía de desarrollo sostenible corporativo. De otro lado también, el cumplimiento 
+de los compromisos ambientales y de toda la regulación ambiental permite evaluar y manejar todos 
+los aspectos de la interacción Industria - Medio Ambiente con el propósito de minimizar los impactos y 
+aplicar tecnologías amigables. 
+ 
+Durante 2024 y 2023, la Compañía incurrió en desembolsos por S/2,174,000 y S/2,567,000, 
+respectivamente, que se presentan dentro del rubro “Costo de venta de bienes y servicios”, los cuales 
+fueron destinados principalmente a la inversión en la Planta de Tratamiento de Efluentes Industriales 
+de Huachipa y para el manejo de residuos sólidos, que se encuentra contemplado en el E studio de 
+Impacto Ambiental. 
+ 
+  
+
+=== PAGINA PDF 63 ===
+ 
+- 61 - 
+(b) Contingencias - 
+ 
+(b.1) Contingencias tributarias - 
+ 
+Al 31 de diciembre de 2024 y de 2023, la Compañía mantiene cuatro procedimientos   contenciosos 
+tributarios cuya calificación otorgada por los abogados externos es posible, por lo que no es 
+requerido reconocer una provisión. Los referidos procesos son resultantes de: (i) la fiscalización 
+iniciada por la SUNAT durante el año 2021 relacionada al IGV y al ISC, de los periodos de enero a 
+diciembre de 2016 por un monto de S/99,684,697; (ii) la fiscalización iniciada por la SUNAT  durante 
+el año 2022 relacionada al IGV y al ISC, de los periodos de enero a diciembre de 2017 por un  monto 
+de S/84,559,360; (iii) la fiscalización iniciada por la SUNAT durante el año 2023 relacionada al IGV y 
+al ISC, de los periodos de enero a diciembre de 2018 por un   monto de S/47,693,149; y (iv) la 
+fiscalización iniciada por la SUNAT durante el año 2021 relacionada al debido acogimiento al 
+Régimen de Reposición de Mercancías con Franquicia Arancelaria (RRMFA), correspondiente a las 
+importaciones realizadas en los periodos 2016 y 2017 por un  monto de S/36,240,439.  
+ 
+En diciembre de 2022, el Tribunal Fiscal emitió la Resolución No. 08627-1-2022, mediante la cual 
+revocó las Resoluciones de Determinación y de Multa relacionadas al ISC de los periodos enero a  
+diciembre de 2015, que involucraban montos ascendentes a S/55,475,977; y confirmó en parte las  
+Resoluciones de Determinación y de Multa relacionadas al IGV de los periodos enero a diciembre 
+de 2015, cuyos montos ascendían a S/43,680,840.  
+ 
+Asimismo, la Compañía tiene las siguientes contingencias tributarias, sobre las cuales ha realizado  
+pagos bajo protesto (Nota 7b): 
+ 
+• ISC del periodo 2013 por un importe de S/52,563,381 
+• ISC e IGV del periodo 2014 por un importe de S/30,890,736 
+• Régimen de Reposición de Mercancías con Franquicia Arancelaria del periodo 2015 por 
+un importe de S/48,982,066 
+• ISC e IGV del periodo 2015 por un importe de S/40,570,595 
+ 
+La Gerencia y sus asesores legales consideran que es probable que la Compañía obtenga 
+resultados favorables de estos procesos. 
+ 
+(b.2) Contingencias administrativas - 
+ 
+Al 31 de diciembre de 2024 y de 2023, la Compañía mantiene procedimientos sancionadores 
+interpuestos por el Instituto Nacional de Defensa de la Competencia y de la Protección  de la 
+Propiedad Intelectual (INDECOPI) y la Dirección General de Salud Ambiental (DIGESA),  
+relacionados con presuntos incumplimientos de las normas de protección al consumidor, 
+competencia desleal y normas sanitarias. Los asesores legales consideran a estos procesos como 
+contingencias probables por lo cual la Compañía ha constituido provisiones, ver notas 2.3(l) y 16. 
+ 
+A la fecha, se mantienen vigentes 22 expedientes que representan posibles sanciones  impugnadas 
+por S/17,239,000. De este grupo, 8 expedientes se han resuelto en las salas administrativas en 
+contra de la Compañía por un monto de S/8,943,000 y se encuentran en proceso de apelación ante 
+el Poder Judicial. 
+ 
+La Compañía y sus asesores legales son de la opinión que la resolución final de dichos casos se 
+dará de manera favorable para la Compañía, debido a que todos los casos se encuentran 
+fundamentados con el cumplimiento de las regulaciones de sanidad, protección al consumidor y 
+competencia desleal vigentes en Perú y, asimismo, porque en opinión de la Gerencia los productos 
+comercializados por la Compañía no generan ni han generado algún daño a la salud de los 
+consumidores. 
+ 
+  
+
+=== PAGINA PDF 64 ===
+ 
+- 62 - 
+(c) Garantías otorgadas - 
+ 
+Al 31 de diciembre de 2024, la Compañía mantiene cartas fianza a favor de terceros en soles y 
+dólares estadounidenses por S/58,189,000 y US$132,437,000, respectivamente (al 31 de diciembre 
+de 2023, mantenía cartas fianza a favor de terceros por S/58,604,000 y US$11,224,000, 
+respectivamente). 
+ 
+(d) Compromisos de compra de activo fijo - 
+ 
+Al 31 de diciembre de 2024, la inversión contratada pendiente de ejecutar y, por lo tanto, no 
+reconocida en el estado separado de situación financiera asciende a aproximadamente S/ 153,045,000 
+y se prevé concretarla en el año 2025 (S/26,706,000, al 31 de diciembre de 2023 que se preveía 
+concretarse en el 2024). 
+ 
+32 UTILIDAD POR ACCIÓN EN BASE A LA UTILIDAD DE LOS ESTADOS FINANCIEROS 
+SEPARADOS 
+ 
+La utilidad por acción básica se calcula dividiendo la utilidad del año que surge del estado separado 
+de resultados integrales entre el promedio ponderado del número de acciones en circulación durante 
+el año. La utilidad por acción básica es equivalente a la utilidad diluida por acción, debido a que no 
+hay efectos diluyentes sobre las ganancias. 
+ 
+A continuación, se presenta el cálculo de la utilidad por acción para las acciones comunes y de 
+inversión: 
+ 
+a) Utilidad del año 
+ 
+  2024  2023 
+  S/000  S/000 
+     
+Utilidad del año atribuible a:     
+Acciones comunes  223,356  154,828 
+Acciones de inversión  22,842  15,834 
+  246,198  170,662 
+ 
+b) Número promedio ponderado de acciones en circulación  
+ 
+  2024  2023 
+     
+     
+Acciones comunes, nota 19(a)  382,502,106  382,502,106 
+Acciones de inversión, nota 19(b)  39,117,107  39,117,107 
+ 
+c) Utilidad básica y diluida por acción común y de inversión (utilidad del año dividida entre el número 
+promedio de acciones en circulación) 
+ 
+  2024  2023 
+  S/  S/ 
+     
+Utilidad básica por acción común en soles  0.584  0.405 
+Utilidad básica por acción de inversión en soles  0.584  0.405 
+ 
+  
+
+=== PAGINA PDF 65 ===
+ 
+- 63 - 
+33 SALDOS Y TRANSACCIONES CON ENTIDADES RELACIONADAS 
+ 
+(a) Los saldos de cuentas por cobrar y por pagar con entidades relacionadas se resumen como sigue: 
+ 
+  2024  2023 
+  S/000  S/000 
+     
+Cuentas por cobrar comerciales y diversas (b) y (c)     
+Subsidiarias -     
+Industria de Empaques y Metales del Perú S.A. (d)  27,046  15,936 
+Agroindustrial del Perú S.A.C.  9,097  6,851 
+Pil Andina S.A. (e)  5,427  10,140      
+Asociadas -     
+Leche Gloria Ecuador S.A. (e)  28,207  20,821      
+Relacionadas -     
+Corporación Azucarera del Perú S.A.(h)  112,011  35 
+Agrolmos S.A.   9,005  17,756 
+Gloria Argentina S.A.  5,768  6,028 
+Bearden International Inc.  2,830  2,782 
+Parktown International S.A.  2,449  2,299 
+Sociedad Boliviana de Cementos S.A.  2,335  1,950 
+Trupal S.A.   851  661 
+Suiza Dairy Corporation (e)  686  17,538 
+Yura S.A.  665  1,365 
+Unión Cementera Nacional Ucem C.E.M.  580  31 
+Illapu Energy S.A.  351  112 
+Cartavio S.A.A.  339  308 
+Gloria Colombia S.A.S.  333  526 
+Panificadora Gloria S.A.  314  328 
+Concretos Supermix S.A.  217  353 
+Cal & Cemento Sur S.A.  199  413 
+Deprodeca S.A.C., nota 1(b)  151  648 
+Casa Grande S.A.A.  140  427 
+Centro de Sistemas y Negocios S.A.  137  127 
+Agroindustrias San Jacinto S.A.A.  120  422 
+Suiza Fruit Corporation (e)  -  7,849 
+Gloria Foods del Uruguay S.A.  -  75 
+Otros  3,340  4,206 
+     
+Accionistas -      
+Gloria Foods S.A.  1,107  309 
+Racionalización Empresarial S.A.  643  710 
+  214,348  121,006 
+     
+Préstamos e intereses por cobrar (g) y (h)      
+Subsidiarias -     
+Agroindustrial del Perú S.A.C.  3,244  4,147 
+     
+ 
+  
+
+=== PAGINA PDF 66 ===
+ 
+- 64 - 
+  2024  2023 
+  S/000  S/000      
+Otras relacionadas -     
+Agrolmos S.A. (i)  51,115  51,747 
+Corporación Azucarera del Perú S.A. (g)  21,611  - 
+Gloria Argentina S.A. (f)  10,933  6,530 
+Inversiones Inmobiliarias Arequipa S.A.   4,381  4,210 
+Centro de Sistemas y negocios S.A.  1,221  - 
+Suiza Dairy Corporation (j)  -  26,353 
+Panificadora Gloria S.A.   -  8,183 
+Suiza Fruit Corporation (j)  -  6,033 
+Gloria Colombia S.A.S.  -  67      
+Accionista -     
+Gloria Foods S.A. (g)  856,509  342,316 
+  949,014  449,586 
+Total cuentas por cobrar a relacionadas  1,163,362  570,592 
+ 
+Las cuentas por cobrar a relacionas por vencimiento se presentan como sigue:  
+ 
+  2024  2023 
+  S/000  S/000 
+     
+Vencimiento -     
+Corriente  223,373  181,225 
+No corriente   939,989  389,367 
+  1,163,362  570,592 
+     
+Cuentas por pagar comerciales y diversas (b)     
+Subsidiarias -     
+Pil Andina S.A. (k)  86,609  5,931 
+Agroindustrial del Perú S.A.C.   28,981  6,004 
+Agropecuaria Chachani S.A.C. En Liquidación  23,437  23,437 
+     
+Otras relacionadas -     
+Deprodeca S.A.C., nota 1(b)  98,724  172,301 
+Illapu Energy S.A.   22,817  11,817 
+Casa Grande S.A.A.  9,336  2,243 
+Panificadora Gloria S.A.   8,560  17,738 
+Trupal S.A.   5,474  42,868 
+Gloria Argentina S.A.  2,695  - 
+Suiza Dairy Corporation  43  25 
+Cartavio S.A.A.  20  1,259 
+Otros   3,148  5,028 
+     
+Accionistas -     
+Silvertone Holding (l)  86,986  73,029 
+Racionalización Empresarial S.A (l)  35,791  36,882 
+Total cuentas por pagar a relacionadas   412,621  398,562 
+ 
+Vencimiento -     
+Corriente  331,566  398,562 
+No corriente   81,055  - 
+  412,621  398,562 
+  
+
+=== PAGINA PDF 67 ===
+ 
+- 65 - 
+(b) Las cuentas por cobrar y por pagar comerciales se originan principalmente por la venta y compra 
+de productos terminados y diversos servicios entre empresas vinculadas, son de vencimiento 
+corriente, no devengan intereses y no cuentan con garantías específicas. La Gerencia evalúa 
+permanentemente el ordenamiento y recuperación de estas cuentas, y al cierre de cada periodo 
+determina los plazos y formas de pago y/o liquidación de acuerdo con las condiciones financieras 
+de las entidades relacionadas y del mercado en el que operan. 
+ 
+Al 31 de diciembre de 2024 y de 2023, la Gerencia de la Compañía estima que las cuentas por 
+cobrar comerciales y diversas con relacionadas se liquidarán en el periodo corriente y no se ha 
+identificado la necesidad de constituir provisiones por deterioro. 
+ 
+(c) La Compañía efectúa la prestación de servicios corporativos en general a empresas relacionadas, 
+que incluyen servicios de dirección estratégica y operativa, gestión administrativa y asesoría 
+integral, así como la prestación de servicios de asesoría y soporte en las áreas de producción, 
+comercialización, administración, contabilidad y finanzas, sistemas, recursos humanos, legales, 
+alquileres de inmuebles y maquinarias, entre otros. 
+ 
+(d) Corresponde principalmente a la venta de envases y tapas de aluminio. 
+ 
+(e) Los saldos por cobrar a las relacionadas Suiza Dairy Corporation, Suiza Fruit Corporation, Leche 
+Gloria Ecuador S.A. y Pil Andina S.A., entidades domiciliadas en Puerto Rico, Ecuador y Bolivia, 
+respectivamente, corresponden principalmente a la venta de leche evaporada, leche condensada 
+y néctar de frutas en diferentes presentaciones; asimismo, comprende reembolsos de gastos de 
+servicios corporativos y gastos de viaje. 
+ 
+(f) Corresponde a préstamos otorgados a Gloria Argentina S.A. para refinanciar deuda comercial, los 
+cuales devengan un interés anual de 8.395% en dólares estadounidenses y cuya liquidación se 
+realizará hasta 2028 de acuerdo con el contrato suscrito. 
+ 
+(g) Los préstamos otorgados a entidades relacionadas se efectúan para cubrir sus obligaciones 
+corrientes. En 2024, estos préstamos devengaron intereses a una tasa anual entre 5.623% y 
+9.018% en soles, y en dólares estadounidenses la tasa anual fue de 7.738% (en 2023, 
+devengaron intereses a una tasa anual entre 8.693% y 9.303% en soles y entre 8.395% y 9.488% 
+en dólares estadounidenses). 
+ 
+ Con respecto a los saldos de préstamos otorgados a Gloria Foods S.A., estos son de vencimiento 
+corriente y no corriente, no tienen garantías específicas y devengan intereses a las tasas antes 
+indicadas. 
+ 
+(h) Al 31 de diciembre de 2024, corresponde al saldo por cobrar por la venta del local ubicado en el 
+distrito de Ate –Lima, el mismo que devenga intereses a una tasa anual de 5.50% y será 
+cancelado en su totalidad en 2025. 
+ 
+(i) El 31 de diciembre de 2018, la Compañía suscribió un contrato con Agrolmos S.A. para refinanciar 
+deuda comercial. Con la refinanciación, las deudas empezaron a devengar intereses a una  tasa 
+anual de 8.02% y tiene vencimiento en 2025. 
+ 
+(j) El 31 de marzo de 2022, la Compañía suscribió contratos con Suiza Dairy Corporation y Suiza 
+Fruit Corporation, para refinanciar deuda comercial. Con la refinanciación, las deudas empezaron 
+a devengar intereses a una tasa anual de 5.12% y su liquidación fue realizándose de forma 
+mensual en cuanto a los intereses y el capital al final del contrato. La deuda se canceló en  2024. 
+ 
+(k) Corresponde principalmente a préstamos recibidos de Pil Andina S.A. para capital de trabajo, los 
+mismos que devengan intereses a una tasa anual de 6.75% con vencimiento en el año 2026. 
+  
+
+=== PAGINA PDF 68 ===
+ 
+- 66 - 
+(l) Al 31 de diciembre de 2024 y 2023, corresponde principalmente a dividendos pendientes de pago. 
+En el caso de Racionalización Empresarial S.A. las cuentas por pagar incluyen facturas por pagar 
+comerciales. 
+ 
+Durante 2024 y 2023, se realizó pago de dividendos por S/45,345,000 y S/200,894,000, 
+respectivamente y compensación por S/137,194,000 y S/116,815,000, respectivamente. 
+ 
+(m) En 2024, la Compañía ha reconocido ingresos por intereses de los préstamos con sus 
+relacionadas por S/54,699,000 (en 2023, por S/25,405,000), que se incluyen en el rubro de 
+“Ingresos financieros” del estado separado de resultados integrales, ver nota 28.  
+ 
+(n) Las principales transacciones entre la Compañía y sus entidades relacionadas fueron como sigue:  
+   2024  2023 
+  S/000  S/000      
+Venta de bienes, nota 1(b)  310,608  314,700 
+Venta de servicios  58,766  59,255 
+Compra de bienes y servicios  819,043  750,850 
+Intereses por préstamos otorgados  54,699  25,405 
+Intereses por préstamos recibidos  3,345  86 
+Préstamos recibidos  102,479  36,634 
+Pagos de Dividendos   45,345  201,900 
+Préstamos otorgados  994,559  423,450 
+Pago de préstamos recibidos  22,712  36,634 
+Cobros de préstamos otorgados  344,348  90,789 
+Compensación de préstamos con dividendos  137,180  115,115 
+Compensación de intereses y cuentas por cobrar      
+con dividendos   14  1,700 
+Compensación de préstamos con cuentas por      
+pagar comerciales  6,600  4,330 
+ 
+La composición de las transacciones con entidades relacionadas es como sigue:  
+   2024  2023 
+  S/000  S/000 
+     
+Venta de bienes      
+Subsidiarias:     
+Industria de Empaques y Metales del Perú Empamel 
+S.A. 
+ 15,788  805 
+Pil Andina S.A.  12,311  18,795      
+Otras relacionadas:     
+Deprodeca S.A.C., notas 1(b)   232,766  261,521 
+Suiza Dairy Corporation  17,967  8,173 
+Panificadora Gloria S.A.  6,789  5,600 
+Otros menores  24,987  19,806 
+  310,608  314,700 
+  
+
+=== PAGINA PDF 69 ===
+ 
+- 67 - 
+  2024  2023 
+  S/000  S/000 
+     
+Venta de servicios     
+Subsidiarias:     
+Pil Andina S.A.  2,349  2,028 
+Agroindustrial del Perú S.A.C.  1,793  1,813 
+     
+Otras relacionadas:     
+Deprodeca S.A.C.  21,838  22,251 
+Yura S.A.  4,709  4,923 
+Trupal S.A.  4,245  3,930 
+Illapu Energy S.A.  3,897  3,595 
+Concretos Supermix S.A.  1,680  1,811 
+Gloria Colombia S.A.S.  1,683  1,351 
+Casa Grande S.A.A.  1,532  1,412 
+Cal & Cemento Sur S.A.  1,523  1,500 
+Sociedad Boliviana de Cemento S.A.  870  756 
+Agrolmos S.A.  812  798 
+Unión Cementera Nacional S.A.  556  536 
+Gloria Foods del Uruguay S.A.  13  1,128 
+Otros menores   8,819  8,994 
+     
+Accionista:     
+Racionalización Empresarial S.A.  2,447  2,429 
+  58,766  59,255 
+     
+Compra de bienes y servicios      
+Subsidiarias:     
+Agroindustrial del Perú S.A.C.  74,779  52,464 
+Pil Andina S.A.  15,852  34,678 
+     
+Otras relacionadas:     
+Deprodeca S.A.C., nota 1(b)  393,721  331,010 
+Trupal S.A.  88,240  90,195 
+Panificadora Gloria S.A.  59,558  54,532 
+Casa Grande S.A.A.  44,348  37,824 
+Gloria Argentina S.A.  43,798  61,001 
+Illapu Energy S.A.  27,543  28,218 
+Centro de Sistemas y Negocios S.A.  15,473  14,428 
+Gloria Foods del Uruguay S.A.  7,209  7,345 
+Cartavio S.A.A.  1,077  1,952 
+Suiza Dairy Corporation  1,239  6 
+Otros  2,547  3,306 
+     
+Accionista:     
+Racionalización Empresarial S.A.  43,659  33,891 
+  819,043  750,850 
+ 
+  
+
+=== PAGINA PDF 70 ===
+ 
+- 68 - 
+ 
+  2024  2023 
+  S/000  S/000 
+     
+     
+Intereses por préstamos otorgados -     
+Otras relacionadas:     
+Agrolmos S.A.  4,380  3,975 
+Suiza Dairy Corporation  1,181  1,350 
+Panificadora Gloria S.A.  526  538 
+Suiza Fruit Corporation  271  309 
+Gloria Colombia S.A.S.  -  658 
+Otros  2,108  648 
+     
+Accionistas:     
+Gloria Foods S.A.  46,233  17,813 
+Racionalización Empresarial S.A.  -  114 
+  54,699  25,405 
+Intereses por préstamos recibidos -     
+Otras relacionadas:  
+3,345 
+ 
+- Pil Andina S.A.   
+Otros menores  -  86 
+               3,345  86 
+Préstamos recibidos -     
+Otras relacionadas:     
+Pil Andina S.A.             91,059  - 
+Yura S.A.             11,420  700 
+Corporación Azucarera del Perú S.A.  -  29,750 
+Gloria Foods S.A.  -  4,180 
+Trupal S.A.  -  1,818 
+Consorcio Cementero del Sur S.A.  -  186 
+  102,479  36,634 
+Préstamos otorgados -     
+Subsidiarias:     
+Agroindustrial del Perú S.A.C.  16,836  14,173 
+     
+Otras relacionadas:     
+Yura S.A.  115,000  - 
+Trupal S.A.  109,550  2,336 
+Cal & Cemento Sur S.A.  28,000  - 
+Corporación Azucarera del Perú S.A.  21,000  512 
+Centro de Sistemas y Negocios S.A.  8,080  - 
+Deprodeca S.A.C.  6,600  17 
+Gloria Argentina S.A.  6,317  5,226 
+Inversiones Inmobiliarias Arequipa S.A.C.  4,354  220 
+Agroindustrias San Jacinto S.A.A.  2,600  - 
+Silverstone Holding S.A.  -  390 
+Feria Oriente S.A.C.  -  83 
+     
+Accionista:     
+Gloria Foods S.A.  670,222  369,395 
+Racionalización Empresarial S.A.  6,000  31,098 
+  994,559  423,450 
+  
+
+=== PAGINA PDF 71 ===
+ 
+- 69 - 
+  2024  2023 
+  S/000  S/000      
+Pago de préstamos recibidos -     
+Otras relacionadas:     
+Yura S.A.  11,420  700 
+Pil Andina S.A.  11,292  - 
+Corporación Azucarera del Perú S.A.  -  29,750 
+Gloria Foods S.A.  -  4,180 
+Trupal S.A.  -  1,818 
+Consorcio Cementero del Sur S.A.  -  186 
+  22,712  36,634 
+Cobro de préstamos otorgados -     
+Subsidiarias:     
+Agroindustrial del Perú S.A.C.  18,128  8,000 
+     
+Otras relacionadas:     
+Yura S.A.  115,000  - 
+Trupal S.A.  109,550  2,336 
+Cal & Cemento Sur S.A.  28,000  - 
+Suiza Dairy Corporation  26,893  - 
+Panificadora Gloria S.A.  8,129  - 
+Centro de Sistemas y Negocios S.A.  6,868  - 
+Deprodeca S.A.C.  -  17 
+Suiza Fruit Corporation  6,167  - 
+Inversiones Inmobiliarias Arequipa S.A.  3,860  - 
+Gloria Argentina S.A.  2,621  - 
+Agroindustrias San Jacinto S.A.A.  2,600  - 
+Silverstone Holding S.A.  276  - 
+Gloria Colombia S.A.S.  -  12,106 
+Corporación Azucarera del Perú S.A.  -  512 
+     
+Accionista:     
+Gloria Foods S.A.  10,256  36,720 
+Racionalización Empresarial S.A.  6,000  31,098 
+  344,348  90,789 
+ 
+(o) La Compañía efectúa sus operaciones con empresas relacionadas bajo condiciones similares que 
+las efectuadas con terceros, cuando hay transacciones equivalentes en el mercado, por lo que, en 
+lo aplicable, no hay diferencias en las políticas de precios ni en la base de liquidación de 
+impuestos. 
+ 
+(p) Remuneración al personal clave – 
+ 
+El personal clave incluye a los directores y personal gerencial. En 2024 y 2023, la remuneración 
+de los directores ascendió a S/22,717,000 y S/15,220,000, respectivamente, que corresponde al 
+6% de la utilidad antes de impuestos de la Compañía, este porcentaje es establecido por la Junta 
+General de Accionistas. Asimismo, la remuneración al personal gerencial ascendió a S/48,231,847 
+y S/39,114,986, en 2024 y 2023, respectivamente. La Compañía no otorga beneficios de largo 
+plazo a los directores ni a su gerencia clave. 
+ 
+34 EVENTOS POSTERIORES 
+ 
+Entre el 31 de diciembre de 2024 y la fecha de autorización para la emisión de estos estados 
+financieros separados, no se han presentado eventos posteriores que, en opinión de la Gerencia de 
+la Compañía, requieran alguna divulgación adicional en las notas o algún ajuste a los saldos 
+presentados. 
+
+=== PAGINA PDF 72 ===
+  
+ 
+ 
+ 
+ 
+ 
+Constancia de Habilitación 
+ 
+ 
+El Decano y el Director Secretario del Colegio de Contadores Públicos de Lima, que 
+suscriben, declaran que, en base a los registros de la institución, se ha verificado que: 
+ 
+           CPC. DANIEL ALFONSO OLIVA SANTILLAN 
+                               MATRICULA: 27882 
+Se encuentra HÁBIL, para el ejercicio de las funciones profesionales que le faculta la 
+Ley N.º 13253 y su modificación Ley N.º 28951 y conforme al Estatuto y Reglamento 
+Interno de este Colegio; en fe de lo cual y a solicitud de parte, se le  extiende la 
+presente constancia para los efectos y usos que estime conveniente. Esta constancia 
+tiene vigencia hasta el 31 de MARZO del 2026. 
+  
+ 
+      Lima, 12 de julio del 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CPC. Onofré Francisco Pizarro Chima 
+DECANO 
+CPC. Lydia Wilma Rosales Solano 
+DIRECTOR SECRETARIO 
+ 
+E001-10360 
+ 

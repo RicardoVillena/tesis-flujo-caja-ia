@@ -1,0 +1,11 @@
+{
+  "id": "pacasmayo23",
+  "url": "https://storage.googleapis.com/pacasmayo_web/assets/EEFF%202023%20Separados.pdf",
+  "url_final": "https://storage.googleapis.com/pacasmayo_web/assets/EEFF%202023%20Separados.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "79941f9237401390771d3aa686505e7763c57a9a016c8f1936723a3a81121319",
+  "sha256_texto": "4dab1b3465941971bf8b7056915d906b7ed35e83f1212bcf320ef4cacb82959d",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 72
+}

@@ -1,0 +1,11 @@
+{
+  "id": "corona25",
+  "url": "https://www.smv.gob.pe/ConsultasP8/temp/EEFF%20SMC%202025.pdf",
+  "url_final": "https://www.smv.gob.pe/ConsultasP8/temp/EEFF%20SMC%202025.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "8ab918ba395795935dc9ecba388800e0ec24167b392943054ff20fd6b709449d",
+  "sha256_texto": "3646796ea4cf2863c71352b3d455912040dd0d7ed7ffc6282f0ae670b1c74915",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

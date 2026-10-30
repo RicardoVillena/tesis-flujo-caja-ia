@@ -1,0 +1,1491 @@
+
+=== PAGINA PDF 1 ===
+1 
+ 
+Yura S.A. 
+Información financiera intermedia separada al 30 de junio de 2020 (no 
+auditada) y 31 de diciembre de 2019 (auditada) y por los períodos de seis 
+meses terminados el 30 de junio de 2020 y 2019 (no auditados) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 2 ===
+2 
+ 
+YURA S.A. 
+ 
+ 
+TABLA DE CONTENIDO        Págs. 
+ 
+Información financiera separada intermedia al 30 de junio 2020 
+(no auditada) y 31 de diciembre de 2019 (auditada) y por los periodos de los 
+seis primeros meses terminados el 30 de junio de 2020 y 2019 (no auditados) 
+ 
+ 
+Estado de Situación Financiera          3 
+Estado de Resultados Integrales          4 
+Estado Cambios en el Patrimonio          5 
+Estado Flujos de Efectivo          6 
+Notas a los Estados Financieros           7 - 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S/ = Sol 
+US$ = Dólar estadounidense 
+ 
+ 
+ 
+
+=== PAGINA PDF 3 ===
+ 
+3 
+YURA S.A.
+ESTADO DE SITUACION FINANCIERA SEPARADA
+AL 30 DE JUNIO DE 2020 (NO AUDITADO) Y 31 DE DICIEMBRE DE 2019 (AUDITADO)
+ 
+ACTIVO PASIVO Y PATRIMONIO
+Nota Nota
+2020 2019 2020 2019
+S/(000) S/(000) S/(000) S/(000)
+ACTIVO CORRIENTE PASIVO CORRIENTE
+Efectivo y equivalentes al efectivo 3 145,449         93,580               Pasivos financieros 13 60,000          21,667               
+Cuentas por cobrar comerciales, neto 4 13,452           33,832               Cuentas por pagar comerciales 14 39,385          37,982               
+Cuentas por cobrara a relacionadas 5 117,395         66,790               Cuentas por pagar a relacionadas 5 19,563          11,565               
+Otras cuentas por cobrar, neto 6 20,022           9,463                 Otras cuentas por pagar 15 38,805          80,981               
+Inventarios (neto) 7 131,080         158,502             Pasivos por derecho de uso 323              351                   
+Gastos pagados por anticipado 10,492           2,409                 Total pasivo corriente 158,076        152,546             
+Total activo corriente 437,890         364,576             
+PASIVO NO CORRIENTE
+ACTIVO NO CORRIENTE Otros pasivos financieros a largo plazo 13 1,150,940      1,180,906           
+Cuentas por cobrar a relacionadas 5 70,021           103,926             Otras cuentas por pagar 15 28,893          27,514               
+Inversiones en subsidiarias y asociadas 8 1,526,776       1,526,776           Pasivo por derecho de uso 1,045            923                   
+Propiedades de inversión 9 77,422           85,435               Provisión por cierre de canteras 50,817          50,818               
+Propiedades, planta y equipo (neto) 10 1,130,103       1,166,810           Pasivo por impuesto a las ganancias diferido, neto 20,933          23,454               
+Intangibles y otros, neto 11 8,815             9,651                 Total pasivo no corriente 1,252,628      1,283,615           
+Activo por derecho de uso, neto 12 1,341             1,244                 Total pasivo 1,410,704      1,436,161           
+Total activo no corriente 2,814,478       2,893,842           
+PATRIMONIO 16
+Capital social 303,166        303,166             
+Capital adicional 5                  5                       
+Acciones de inversión 278              278                   
+Otras reservas de capital 60,633          60,633               
+Resultados acumulados 1,477,582      1,458,175           
+Total patrimonio 1,841,664      1,822,257           
+TOTAL ACTIVO 3,252,368       3,258,418           TOTAL PASIVO Y PATRIMONIO 3,252,368      3,258,418           
+Las notas adjuntas son parte integrante de los estados financieros separados
+Al 31 de 
+diciembre de
+Al 31 de 
+diciembre de
+Al 30 de 
+junio de
+Al 30 de 
+junio de
+
+=== PAGINA PDF 4 ===
+ 
+4 
+ 
+ 
+YURA S.A.
+ESTADO  SEPARADO  DE  RESULTADOS  INTEGRALES
+AL 30 DE JUNIO DE 2020 Y 2019 (NO AUDITADO) 
+Por el trimestre terminado de
+abril a junio
+Nota 2020 2019 2020 2019
+S/(000) S/(000) S/(000) S/(000)
+Ventas de bienes 72,290        211,267         241,754      415,075      
+Ventas de servicios 4,929         20,045           20,637       38,863        
+Total de ingresos de actividades ordinarias 18 77,219        231,312         262,391      453,938      
+Total costo de ventas 19 (64,691)      (117,905)        (171,755)    (243,644)     
+Utilidad bruta 12,528        113,407         90,636       210,294      
+Gastos operación:
+Gastos de venta y distribución 20 (4,238)        (7,425)           (10,903)      (14,383)       
+Gastos de administración 21 (6,737)        (17,826)         (23,358)      (32,938)       
+Utilidad (pérdida) por enajenación de activos, neto -            673               -            673            
+Otros ingresos operativos 22 2,119         12,660           3,676         14,663        
+Total gastos operacionales (8,856)        (11,918)         (30,585)      (31,985)       
+Utilidad operativa 3,672         101,489         60,051       178,309      
+Otros ingresos (gastos):
+Ingresos financieros 23 1,366         2,868            3,288         4,494          
+Gastos financieros 24 (17,865)      (24,737)         (35,816)      (49,432)       
+Diferencia en cambio, neta 455            330               1,135         (104)           
+Participación en los resultados de asociadas y negocios -            (43)               -            -             
+(16,044)      (21,582)         (31,393)      (45,042)       
+Utilidad antes de impuesto a las ganancias (12,372)      79,907           28,658       133,267      
+Gasto por impuesto a las ganancias 17 1,940         (23,478)         (9,251)        (39,235)       
+Utilidad neta y resultado integral del período (10,432) 56,429 19,407 94,032 
+Utilidad básica por acción en soles 26 (0.034) 0.186 0.064 0.310 
+Las notas adjuntas son parte integran de los estados financieros separados
+Por el periodo terminado
+al 30 de junio
+
+=== PAGINA PDF 5 ===
+ 
+5 
+ 
+ 
+ 
+ 
+YURA S.A.
+E STADO SE PARADO DE  CAMBIOS E N E L PATRIMONIO
+POR LOS PE RIODOS TE RMINADOS AL 30 DE  JUNIO DE  2020 Y 2019 (NO AUDITADOS)
+Capital Capital Acciones Reserva Resultados Total
+Nota social adicional de inversión legal acumulados
+S/(000) S/(000) S/(000) S/(000) S/(000) S/(000)
+Saldos al 1 de enero de 2019 16 303,166         5                    278              60,633              1,347,577            1,711,659        
+Distribucion de Dividendos (100,000)              (100,000)         
+Utilidad neta y resultado integral del año -                 -                 -               -                   94,032                 94,032             
+Saldos al 30 de junio de 2019 303,166         5                    278              60,633              1,341,609            1,705,691        
+Saldos al 1 de enero de 2020 303,166          5                     278               60,633              1,458,175             1,822,257        
+Utilidad neta y resultado integral del año 19,407                  19,407             
+Saldos al 30 de junio de 2020 303,166          5                     278               60,633              1,477,582             1,841,664        
+Las notas adjuntas son parte integran de los estados financieros separados
+
+=== PAGINA PDF 6 ===
+ 
+6 
+ 
+ 
+ 
+YURA S.A.
+E STADO SE PARADO DE  FLUJOS DE  E FE CTIVO
+POR LOS PE RIODOS TE RMINADOS AL 30 DE  JUNIO DE  2020 Y 2019 (NO AUDITADOS)
+2020 2019
+S/000 S/000
+ACTIVIDADES DE OPERACION
+Cobranzas a clientes 265,581        531,471        
+Pago a proveedores de bienes y servicios (71,688)        (246,912)       
+Pago de remuneraciones y beneficios sociales (84,545)        (65,573)        
+Impuesto a las ganancias pagado (27,881)        (42,020)        
+Pagos de tributos (5,004)          (47,445)        
+Otros cobros de efectivo relativos a la actividad 3,976           8,356           
+Efectivo neto procedente a las actividades de operación 80,439          137,877        
+ACTIVIDADES DE INVERSION
+Venta de propiedades, planta y equipo -              1,072           
+Préstamos cobrados a entidades relacionadas 21,165          
+Intereses cobrados 2,655           2,849           
+Préstamos otorgados a entidades relacionadas (40,386)        
+Compra de propiedades, planta y equipo (3,570)          (18,128)        
+Compra de activos intangibles (46)              (5)                
+Efectivo neto utilizado en las actividades de inversión (961)             (33,433)        
+ACTIVIDADES DE FINANCIAMIENTO
+Obtención de otros pasivos financieros 1,004,853     60,000          
+Amortización de otros pasivos financieros (996,519)       (58,255)        
+Pago de préstamos a entidades relacionadas -              (2)                
+Intereses pagados (35,943)        (48,633)        
+Dividendos pagados -              (99,699)        
+Efectivo neto (utilizado en) procedente de las actividades de financiamiento (27,609)        (146,589)       
+Variación neta de efectivo y equivalente de efectivo 51,869          (42,145)        
+Saldo de efectivo y equivalentes de efectivo al inicio del periodo 93,580          56,887          
+Saldo de efectivo y equivalentes de efectivo al final del periodo 145,449        14,742          
+Las notas adjuntas son parte itegrante de los estados financieros separados
+Por el periodo terminado
+al 30 de junio de 
+
+=== PAGINA PDF 7 ===
+ 
+7 
+Yura S.A. 
+NOTAS A LOS ESTADOS FINANCIEROS SEPARADOS 
+AL 30 DE JUNIO DE 2020 Y 31 DE DICIEMBRE DE 2019 (AUDITADO) 
+(Expresado en miles de soles-S/000) 
+ 
+1. IDENTIFICACIÓN Y ACTIVIDAD ECONÓMICA 
+ 
+(a) Identificación –  
+Yura S.A., en adelante “la Compañía”, es una subsidiaria directa de Consorcio Cementero del Sur 
+S.A. que posee el 92.75 por ciento de las acciones representativas de su capital emitido y esta es a 
+su vez una subsidiaria directa de Holding Cementero del Perú S.A. La Compañía fue constituida en 
+Perú el 1 de marzo de 1996 como consecuencia de la fusión de Cemento Yura S.A. y Consorcio de 
+Concreto y Cemento S.A. El domicilio legal de la Compañía es Estación Yura s/n departamento de 
+Arequipa, Perú.  
+ 
+Los estados financieros intermedios separados de la Compañía al 3 0 de junio de 2020  fueron 
+aprobados para su emisión por la Gerencia el 30 de setiembre de 2020. 
+ 
+Los estados financieros adjuntos reflejan la actividad individual de la Compañía sin incluir los efectos 
+de la consolidación de estos estados financieros con los de sus subsidiarias. Para una correcta 
+interpretación, estos estados financieros deben leerse conju ntamente con los estados financieros 
+consolidados Yura S.A. y subsidiarias, que se presentan por separado. 
+ 
+(b)  Actividad económica - 
+La actividad principal de la Compañía es la producción y venta de cemento, incluyendo las 
+actividades de extracción, procesamiento y transporte de minerales metálicos y no metálicos desde 
+sus canteras hasta la planta de producción ubicada en el departamento de Arequipa.  
+ 
+La Compañía forma parte de un grupo económico compuesto por más de 50 empresas, el mismo 
+que está dividido en cuatro segmentos de negocios: lácteos, cementos, papeles y cartones y 
+agroindustria. La Compañía pertenece al segmento de cementos. 
+ 
+Para el desarrollo de sus operaciones, la Compañía ha realizado inversiones en acciones en otras 
+empresas en el Perú y en el exterior dedicadas a realizar actividades similares a la de la Compañía. 
+Al 30 de junio de 2020, las inversiones que mantiene l a Compañía se presentan sin variaciones 
+respecto a los estados financieros separados auditados al 31 de diciembre de 2019. 
+ 
+(c)  Estado de Emergencia Nacional en el Perú - 
+Posterior al 31 de diciembre de 2019, el brote del nuevo coronavirus (en adelante “COVID-19”) fue 
+declarado una pandemia internacional por la Organización Mundial de la Salud en marzo de 2020. 
+    
+Para hacer frente al impacto económico y social de esta pandemia en el Perú, el 15 de marzo de 
+2020, entre otras medidas, el gobierno peruano procedió a la declaración de “Estado de 
+Emergencia Sanitaria a Nivel Nacional”, mediante la emisión del Decreto Supremo N° 044-2020-
+PCM y el Decreto de Urgencia N°026-2020.   
+ 
+
+=== PAGINA PDF 8 ===
+8 
+ 
+ 
+ 
+ 
+El Decreto Supremo Nº044-2020-PCM estableció diversas medidas excepcionales para proteger la 
+vida y la salud de la población en el Perú, tales como: 
+- Garantizar el acceso a servicios públicos y bienes y servicios esenciales  
+- La suspensión del ejercicio de ciertos derechos constitucionales 
+- Limitación al ejercicio del derecho a la libertad de tránsito de las personas 
+- Reforzar el Sistema Nacional de Salud en todo el territorio nacional  
+- Restricciones en el ámbito de la actividad comercial, actividades culturales, 
+establecimientos, actividades recreativas, hoteles y restaurantes 
+- El cierre temporal de fronteras; entre otras.  
+ 
+ Estas medidas han tenido el efecto en la compañía en generar un menor nivel de eficiencia y 
+productividad, así como del performance financiero de manera general. 
+ 
+A la fecha de este informe, la Gerencia de la Compañía ha evaluado e implementado las medidas 
+necesarias con la finalidad de mitigar los efectos en sus operaciones y situación financiera que 
+vienen ocasionando tanto el brote del COVID-19 a nivel mundial y en el Perú, como los efectos 
+adicionales de los Decretos Supremos antes mencionados.  
+ 
+Ya habiendo empezado la comercialización de nuestros productos y la producción en nuestras 
+plantas, podremos cumplir con nuestros compromisos. No esperamos que COVID-19 afecte el 
+valor de nuestros activos ni anticipamos ningún deterioro material o cambio en los juicios 
+contables.  
+ 
+2. RESEUMEN DE PRINCIPIOS Y PRÁCTICAS CONTABLES SIGNIFICATIVAS  
+ 
+2.1. Bases de preparación – 
+a)  Los presentes estados financieros intermedios separados han sido preparados de acuerdo a lo 
+indicado en la Resolución SMV Nro. 013-2014-SMV/01 publicado en el diario oficial “El Peruano” el 
+22 de junio de 2014. 
+Para el presente informe, la Compañía ha aplicado las mismas políticas contables, bases, ju icios, 
+estimaciones y métodos de cálculo que utilizó en la preparación de los estados financieros auditados 
+anuales correspondiente al periodo 2019. No existen cambios nuevos o importantes en las políticas 
+contables significativas que no estén discutidas en el informe anual en mención.  
+Los estados financieros intermedios separados de la Compañía han sido preparados de acuerdo a 
+lo indicado en la NIC 34 Información Financiera Intermedia emitido por el International Accounting 
+Standars Board (IASB). 
+De acuerdo a lo indicado en la NIC 34, las notas explicativas a los estados financieros intermedios 
+separados que han sido reveladas por requerimiento en la información financiera auditada anual no 
+deben repetirse, de esta forma el presente informe expone solament e los nuevos eventos que no 
+duplican la información ya reportada. En ese sentido, la presente información debe leerse 
+
+=== PAGINA PDF 9 ===
+9 
+ 
+conjuntamente con los estados financieros separados anuales de la Com pañía al 31 de diciembre 
+de 2019.  
+b)   Los estados financieros intermedios separados adjuntos han sido preparados sobre la base del costo 
+histórico, a partir de los registros de contabilidad mantenidos por la Compañía a excepción de las 
+inversiones en asociadas que son medidas al valor de participación patrimonial. Los est ados 
+financieros intermedios separados adjuntos se presentan en miles de soles (moneda funcional y de 
+presentación), excepto cuando se indique lo contrario. 
+c)  Los estados financieros no auditados correspondientes al primer trimestre de 2020 , han sido 
+preparados conforme a lo dispuesto en la resolución anteriormente indicada y contienen todos los 
+ajustes necesarios para presentar razonablemente la posición financiera de la Compañía al 3 0 de 
+junio de 2020 y 2019. 
+ 
+2.2      Resumen de políticas contables significativas 
+A continuación, se presentan las políticas contables significativas utilizadas por la Gerencia de la 
+Compañía en la preparación de los estados financieros:  
+  
+a)    Instrumentos financieros: reconocimiento inicial y medición posterior  
+La Compañía adoptó la NIIF 9 para el reconocimiento y medición de sus instrumentos financieros al 
+1 de enero de 2018. Un instrumento financiero es cualquier acuerdo que da origen a un activo 
+financiero  
+Reconocimiento y medición inicial: 
+Los activos financieros se clasifican, al momento de su reconocimiento inicial, como medidos al costo 
+amortizado, al valor razonable con cambios en otros resultados integrales, y al valor razonable con 
+cambios en resultados. 
+ 
+Los activos financieros de la Compañía inc luyen efectivo y equivalente de efectivo, cuentas por 
+cobrar comerciales, otras cuentas por cobrar y cuentas por cobrar a relacionadas. 
+De acuerdo con la NIIF 9, los activos financieros se clasifican en las siguientes cuatro categorías: 
+ 
+ Activos financieros al costo amortizado (instrumentos de deuda). 
+ Activos financieros al valor razonable con cambios en otros resultados integrales con 
+traslado de ganancias y pérdidas acumuladas (instrumentos de deuda). 
+ Activos financieros al valor razonable con cambios en otros resultados integrales que no se 
+trasladan a ganancias y pérdidas cuando se dan de baja (instrumentos de patrimonio). 
+ Activos financieros a valor razonable con cambios en resultados. 
+ 
+La clasificación depende del modelo de negocio de la Compañía y de los términos contractuales de 
+los flujos de efectivo. La Compañía, ha clasificado sus activos financieros en la categoría “activos 
+financieros al costo amortizado”. 
+ 
+La Compañía mide los activos financieros al costo amortizado si se cumplen las siguientes 
+condiciones: 
+ 
+ Modelo de negocios que la Compañía tiene para la gestión de los activos financieros cuyo 
+
+=== PAGINA PDF 10 ===
+10 
+ 
+objetivo es mantener los activos financieros, en esta categoría es poder cobrar los flujos de 
+efectivo contractuales y no realizar su venta o negociación; y 
+ Las condiciones contractuales del activo financiero dan lugar, en fechas específicas, a flujos 
+de efectivo que son únicamente pagos del principal e intereses sobre el importe del principal 
+pendiente. 
+ 
+Los activos financieros al costo amortizado son posteriormente medidos usando el método de interés 
+efectivo y están sujetos a deterioro. Las ganancias y pérdidas son reconocidas en resultados cuando 
+el activo es dado de baja, modificado o deteriorado. 
+Los activos financieros no se reclasifican d espués de su reconocimiento inicial, excepto si la 
+Compañía cambia su modelo de negocio para su gestión. 
+ 
+En esta categoría se incluyen el efectivo y equivalente de efectivo, las cuentas por cobrar 
+comerciales, las otras cuentas por cobrar y las cuentas por cobrar a relacionadas. 
+ 
+Baja en cuentas – 
+Un activo financiero (o, de corresponder, parte de un activo financiero o parte de un grupo de activos 
+financieros similares) se da de baja en cuentas, es decir, se elimina del estado separado de situación 
+financiera cuando: 
+ 
+ Han expirado los derechos contractuales a recibir los flujos de efectivo generados por el 
+activo; o 
+ La Compañía ha transferido sus derechos para recibir los flujos de efectivo generados por 
+el activo, o ha asumido una obligación de pagar a un  tercero la totalidad de esos flujos de 
+efectivo sin una demora significativa, a través de un acuerdo de intermediación; y (a) se ha 
+transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del 
+activo; o (b) no ha transferido ni  retenido sustancialmente todos los riesgos y beneficios 
+inherentes a la propiedad del activo, pero ha transferido el control del activo. 
+ 
+Cuando la Compañía ha transferido sus derechos de recibir los flujos de efectivo generados por el 
+activo, o se ha celebrado un acuerdo de intermediación, la Compañía evalúa si ha retenido, y en qué 
+medida, los riesgos y beneficios inherentes a la propiedad del activo. Cuando la Compañía no ha 
+transferido ni retenido sustancialmente todos los riesgos y beneficios inherent es a la propiedad del 
+activo, ni ha transferido el control del activo, la Compañía continúa reconociendo contablemente el 
+activo transferido. En ese caso, la Compañía también reconoce el pasivo relacionado. El activo 
+transferido y el pasivo relacionado se miden de manera tal que reflejen los derechos y obligaciones 
+que la Compañía ha retenido. 
+ 
+b)    Instrumentos financieros: reconocimiento inicial y medición posterior  
+La Compañía adoptó la NIIF 9 para el reconocimiento y medición de sus instrumentos financieros al 
+1 de enero de 2018. 
+Un instrumento financiero es cualquier acuerdo que da origen a un activo financiero de una entidad 
+y a un pasivo financiero o instrumento patrimonial de otra entidad. 
+La norma no difiere significativamente de la norma que  la precede, NIC 17 “Arrendamientos”, con 
+respecto al tratamiento contable desde el punto de vista del arrendador. Existen exenciones de 
+reconocimiento para los arrendamientos de corto plazo y los arrendamientos de partidas de bajo 
+
+=== PAGINA PDF 11 ===
+11 
+ 
+valor. Sin embargo, desde el punto de vista del arrendatario, la norma requiere el reconocimiento de 
+activos y pasivos para la mayoría de los contratos de arrendamientos. 
+La Compañía adoptó la nueva norma en la fecha de aplicación requerida y ha optado por no re 
+expresar la información comparativa de acuerdo a lo permitido por NIIF 16. 
+ 
+c)     CINIIF 23 – Incertidumbre frente a los tratamientos del impuesto a las ganancias 
+La Interpretación se refiere a la contabilización del impuesto a las ganancias cuando los tratamientos 
+tributarios implican incertidumbre que afectan la aplicación de la NIC 12, no se aplica a impuestos o 
+gravámenes fuera del alcance de la NIC 12, ni incluye requisitos específicos relacionados con 
+intereses y sanciones asociados con tratamientos tributarios inciertos. 
+Una entidad debe determinar si considera cada tratamiento tributario incierto por separado o junto 
+con uno o más tratamientos tributarios inciertos. Se debe seguir el enfoque que permita una mejor 
+estimación de la resolución de la incertidumbre . La interpretación es efectiva para los períodos 
+anuales que comiencen el 1 de enero de 2019, pero existen ciertas consideraciones disponibles para 
+la transición.  
+La Compañía aplicará la interpretación desde su fecha efectiva. La Gerencia de la Compañía analizó 
+los posibles efectos de esta norma y no encontró mayores impactos. 
+ 
+ 
+3. EFECTIVO Y EQUIVALENTE DE EFECTIVO 
+A continuación, se presenta la composición del rubro: 
+ 
+ 
+ 30.Jun.2020  31.Dic.2019 
+  S/(000)    S/(000)  
+      
+Efectivo en caja y bancos                355                  354  
+Cuentas corrientes bancarias (a)          137,319              89,646  
+Depósitos a plazo (b)             7,775               3,580  
+Total          145,449              93,580  
+ 
+ 
+(a) Al 30  de junio de 20 20 y 31 de diciembre de  2019, la Compañía mantiene cuentas corrientes 
+denominadas en soles y dólares estadounidenses en entidades financieras del mercado local, son 
+de libre disponibilidad y no devengan intereses. 
+ 
+(b)  Al 30 de junio de 2020 y 31 de diciembre de 2019, corresponde a depósitos a plazo mantenidos en 
+entidades financieras del mercado local, los cuales devengaron intereses a una tasa de interés 
+promedio anual entre 0.03 y 2.35 por ciento en soles en el año 2020 y entre 1.00 y 2.40 por ciento 
+en el año 2019, con vencimientos originales menores a 90 días. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 12 ===
+12 
+ 
+4. CUENTAS POR COBRAR COMERCIALES, NETO 
+ 
+(a) A continuación, se presenta la composición del rubro: 
+ 
+ 30.Jun.2020  31.Dic.2019 
+  S/(000)    S/(000)  
+     
+Facturas             15,771              35,661  
+Estimación para deterioro             (2,319)             (1,829) 
+             13,452              33,832  
+ 
+ 
+(b) Las cuentas por cobrar comerciales son de vencimiento corriente y no devengan intereses. Al 30 
+de junio de 2020, las cuentas por cobrar cubiertas con garantías específicas ascienden a S/11,935 
+(S/13,019 al 31 de diciembre de 2019 ). Las garantías específicas comprenden principalmente 
+cartas fianza emitidas por bancos locales. 
+ 
+(c) La antigüedad del saldo de cuentas por cobrar comerciales es como sigue: 
+ 
+ 
+ 30.Jun.2020  31.Dic.2019 
+ S/(000)  S/(000) 
+     
+No vencido               7,187          22,144  
+Vencido:    
+Hasta 30 días               1,026                8,896  
+Entre 31 y 60 días                   40                1,530  
+Entre 60 días y 180 días               4,512                1,073  
+Más de 180 días               3,006                2,018  
+Total         15,771          35,661  
+ 
+ 
+La Gerencia considera que los valores en libros de las cuentas por cobrar comerciales menos la 
+estimación por deterioro son similares a sus valores razonables debido a su vencimiento corriente.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 13 ===
+13 
+ 
+5. SALDOS Y TRANSACCIONES CON ENTIDADES RELACIONADAS 
+ 
+a) El saldo de las cuentas por cobrar y por pagar se resume como sigue: 
+ 
+  30.Jun.2020   31.Dic.2019 
+  S/000   S/000 
+Cuentas por cobrar comerciales       
+Subsidiarias:      
+Concretos Supermix S.A                   46,418                    32,522  
+Yura Chile Spa                   13,216                    16,464  
+Cal & Cementos Sur S.A                      2,373                      1,390  
+Inversiones G y minerales S.A.C                          25    - 
+       
+Relacionadas      
+Sociedad Boliviana de Cemento S.A.                     7,250                      5,692  
+Yura Inversiones Bolivia S.A.                     3,056                      2,742  
+Racionalización Empresarial S.A.                     1,570                         975  
+Manufacturera y Distribuidora Regional S.A                     1,278                      1,048  
+Agroaurora S.A.C.                     1,159                         983  
+Leche Gloria S.A.                        195                         308  
+Agrolmos S.A.                        183                         202  
+Suiza Dairy Corporation                        171                           -    
+Unión Cementera Nacional UCEM C.E.M.                        141                         102  
+Trupal S.A.                          75                           44  
+Pil Andina                          46                           -    
+Centro de Sistemas  y Negocios S.A.                          15                           -    
+Casa Grande S.A.A.                           -                           425  
+Otros                          28                         103  
+       
+Total cuentas por cobrar comerciales                   77,199                    63,000  
+ 
+ 
+  30.Jun.2020   31.Dic.2019 
+  S/000   S/000 
+        
+Otras cuentas por cobrar       
+Subsidiarias:      
+Cal & Cemento Sur S.A.                   83,098                    81,436  
+Yura Chile SPA                          31                           29  
+       
+Relacionadas      
+Manufacturera y Distribuidora Regional S.A.                   17,271                    16,678  
+Fondo de Inversiones Diversificadas S.A.                     9,331                      9,077  
+Expreso Ferroviario del Perú S.A.                        336                         316  
+Racionalización Empresarial S.A.                          53                           86  
+Kuskalla Mining Company S.A.                          75                           -    
+Minera Uchusuma S.A.                          14                           -    
+Concretos Supermix S.A.                            8                             8  
+Otros                           -                             86  
+Total otras cuentas  por cobrar                 110,217                  107,716  
+        
+Total cuentas por cobrar relacionadas                 187,416                  170,716  
+ 
+Por vencimiento-      
+Porción corriente                   117,395                    66,790 
+Porción no corriente                  70,021                  103,926 
+Total cuentas  por cobrar                 187,416                  170,716  
+
+=== PAGINA PDF 14 ===
+14 
+ 
+ 
+ 
+  30.Jun.2020   31.Dic.2019 
+  S/000   S/000 
+Cuentas por pagar comerciales       
+Subsidiarias:       
+Cal & Cementos Sur S.A                      2,262                      1,043  
+Concretos Supermix S.A                           -                           204  
+        
+Relacionadas       
+Racionalización Empresarial S.A.                   13,583                      9,526  
+Leche Gloria S.A.                     2,097                         449  
+Centro de Sistema y negocio S.A.                        814                           94  
+Manufacturera y Distribuidora Regional S.A.                        731                           65  
+Sociedad Boliviana de Cementos S.A.                          52                           -    
+Casa Grande SAA                          10                           -    
+Otros                          14                           40  
+        
+Asociadas       
+lndustrias Cachimayo S.A.                           -                           144  
+Total cuentas por pagar comerciales                   19,563                    11,565  
+        
+ 
+b) Las cuentas por cobrar y por pagar comerciales se originan principalmente por la venta y compra 
+de productos terminados y diversos servicios entre empresas vinculadas, son de vencimiento 
+corriente, no devengan intereses y no cuentan con garantías específicas. La Gerencia evalúa 
+permanentemente el ordenamiento y recupero de estas cuentas, y al cierre de cada periodo 
+determina los plazos y formas de pago y/o liquidación de acuerdo con las condiciones financieras 
+de las entidades relacionadas y del mercado en el que operan. La Gerencia de la Compañía estima 
+que las cuentas por cobrar a relacionadas corrientes se liquidarán de manera razonable en el 
+periodo 2020. 
+ 
+6. OTRAS CUENTAS POR COBRAR, NETO 
+ 
+A continuación, se presenta la composición del rubro: 
+ 
+ 30.Jun.2020  31.Dic.2019 
+  S/(000)    S/(000)  
+    
+Obras por impuesto, crédito tributario             8,980            5,900  
+Impuesto a la Renta             6,089                 -    
+Cuentas por cobrar al personal             2,985            2,624  
+Deposito en garantía                115               111  
+Entregas a rendir cuenta                105                 70  
+Reclamos a la administración tributaria                 80                 77  
+Otros menores             1,668               681  
+           20,022            9,463  
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 15 ===
+15 
+ 
+7. INVENTARIO, NETO 
+A continuación, se presenta la composición: 
+ 
+ 30.Jun.2020  31.Dic.2019 
+  S/(000)    S/(000)  
+     
+Mercadería                 874                 616  
+Productos terminados              4,995               4,623  
+Productos en proceso             43,622             71,212  
+Materias primas y auxiliares             10,669             11,585  
+Suministros diversos             84,696             84,465  
+Existencias por recibir              1,490                 308  
+Estimación por desvalorización           (15,266)           (14,307) 
+           131,080           158,502  
+ 
+Al 30 de junio de 2020, los suministros diversos incluyen principalmente repuestos por (en miles) S/ 69,686 
+y combustible por S/27,696 (S/42,529 y S/17,260 al 31 de diciembre de 2019, respectivamente). 
+ 
+En opinión de la Gerencia de la Compañía, la estimación por obsolescencia de repuestos y suministros 
+cubre adecuadamente su riesgo de desvalorización al 30 de junio de 2020 y 31 de diciembre de 2019. 
+ 
+8. INVERSIONES EN SUBSIDIARIAS Y ASOCIADAS 
+ 
+ Este rubro comprende acciones comunes en las siguientes empresas: 
+ 
+   Participación  Valor en libros 
+ Cantidad  en el capital  30.Jun.2020   31.Dic.2019 
+   %  S/000  S/000 
+         
+         
+Inversiones en subsidiarias            
+Casaracra S.A.         1,402,373,000                          100               1,212,587               1,212,587  
+Cal & Cemento Sur S.A.             53,528,119                            98                  222,392                  222,392  
+Concretos Supermix S.A.             67,464,225                          100                    71,282                    71,282  
+Consorcio Portuario Binacional del Sur S.A.                     9,000                          100                             9                             9  
+Yura Eors                      1,500                            50                             2                             2  
+Yura Chile Spa                     1,000                          100                             3                             3  
+Inversiones en asociadas            
+Industrias Cachimayo S.A.               2,658,154                            30                    20,501                    20,501  
+Total                  1,526,776               1,526,776  
+ 
+ 
+La Gerencia consider a que al 30  de junio de 2020 y 31 de diciembre de 2019  no existen indicios de 
+deterioro en el valor de las inversiones financieras. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 16 ===
+16 
+ 
+9. PROPIEDADES DE INVERSION 
+ 
+a) El movimiento del rubro propiedades de inversión y su correspondiente depreciación acumula da por los 
+años terminados el 30 de junio 2020 y 31 de diciembre de 2019, es el siguiente:  
+ 
+ 
+       
+Terrenos  
+Edificios e 
+instalaciones  
+Obras en  
+curso  Total 
+  S/(000)     S/(000)     S/(000)     S/(000)  
+        
+Costo        
+  ___________    ___________    ___________    ___________  
+Saldo al 01 de Enero de 2019              49,567                         15,310                  2,259                67,136  
+  ___________    ___________    ___________    ___________  
+Adiciones                      -                                    -                     2,163                  2,163  
+Reclasificación a PPE               (4,807)                            (630)                    (5,437) 
+Reclasificación de PPE                 9,439                          13,911                   1,702                 25,052  
+Transferencias                   279                            5,845                 (6,124)                        -    
+  ___________    ___________    ___________    ___________  
+Saldo al 31 de Diciembre de 2019              54,478                         34,436                        -                  88,914  
+  ___________    ___________    ___________    ___________  
+        
+Reclasificación a PPE                       -                            (7,987)                        -                   (7,987) 
+Reclasificación de PPE                       -                                    -                        530                      530  
+  ___________    ___________    ___________    ___________  
+Saldo al 30 de Junio de 2020              54,478                         26,449                     530                81,457  
+  ___________    ___________    ___________    ___________  
+Depreciación Acumulada        
+        
+Saldo al 01 de Enero de 2019                      -                             1,818                        -                    1,818  
+  ___________    ___________    ___________    ___________  
+Adiciones                      -                             1,058                       1,058  
+Reclasificación a PPE                       -                               (164)                        -                      (164) 
+Reclasificación de PPE                       -                                 767                         -                        767  
+  ___________    ___________    ___________    ___________  
+Saldo al 31 de Diciembre de 2019                      -                             3,479                        -                    3,479  
+        
+Adiciones                      -                                556                        -                       556  
+  ___________    ___________    ___________    ___________  
+Saldo al 30 de Junio de 2020                      -                             4,035                        -                    4,035  
+  ___________    ___________    ___________    ___________  
+        
+Valor Neto al 31 de Diciembre de 2019              54,478                         30,957                        -                  85,435  
+        
+Valor Neto al 30 de Junio de 2020              54,478                         22,414                     530                77,422  
+ 
+ 
+ 
+
+=== PAGINA PDF 17 ===
+ 
+17 
+10. PROPIEDADES, PLANTA Y EQUIPO, NETO 
+El movimiento del rubro propiedades, planta y equipo y su correspondiente depreciación acumulada al 30 de junio de 2020 y al 31 de diciembre de 2019, es el siguiente: 
+ 
+Terreno
+Edificios, 
+plantas y otras 
+construccione
+s
+Maquinaria,  
+equipo y repuestos 
+estrategicos
+Unidades de 
+explotación
+Muebles y 
+enseres 
+Unidades de 
+transporte
+Equipos 
+diversos
+Obras en curso 
+y Unidades por 
+recibir
+Total
+S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000)
+Costo:
+Saldo al 1 de enero de 2019 28,325             463,278           1,385,969                 84,858            1,622               44,065            68,184            20,151              2,096,452     
+Adiciones -                 -                 -                          -                 -                  -                 -                 35,863              35,863          
+Actualizacion de cierre de canteras -                 38,065             -                          -                 -                  -                 -                 -                   38,065          
+Retiros y bajas -                 -                 (9,237)                     (3,702)            -                  (2,208)            -                 -                   (15,147)        
+Transferencia de intangibles, -                 -                 -                          -                 -                  -                 -                 1,089                1,089           
+Transferencia de Propiedad de inversión 4,807              630                 -                          -                 -                  -                 -                 -                   5,437           
+Transferencia a Propiedad de inversión (9,439)             (13,911)           -                          -                 -                  -                 -                 (1,702)              (25,052)        
+Transferencias 379                 5,168              19,623                     4,492              63                    623                2,852              (33,200)             -              
+Otros -                 -                 235                         -                 -                  -                 -                 -                   235              
+Saldos al 31 de diciembre de 2019 24,072             493,230           1,396,590                 85,648            1,685               42,480            71,036            22,201              2,136,942     
+Adiciones -                 -                 -                          -                 -                  -                 -                 3,570                3,570           
+Transferencia de intangibles, -                 2                    433                         -                 -                  -                 -                 -                   435              
+Transferencia a Propiedad de inversión -                 7,987              -                          -                 -                  -                 -                 (530)                 7,457           
+Transferencias -                 -                 1,121                       -                 36                    -                 68                  (1,225)              -              
+Saldos al 30 de junio de 2020 24,072             501,219           1,398,144                 85,648            1,721               42,480            71,104            24,016              2,148,404     
+Depreciación acumulada:
+Saldo al 1 de enero de 2019 -                 127,122           656,134                   56,684            855                  29,267            13,420            -                   883,482        
+Adiciones -                 11,292             67,287                     5,453              154                  3,550              2,532              -                   90,268          
+Retiros y bajas -                 -                 (64)                          (2,017)            -                  (1,398)            -                 -                   (3,479)          
+Transferencia de Propiedad de inversión -                 164                 -                          -                 -                  -                 -                 -                   164              
+Transferencia a Propiedad de inversión -                 (767)                -                          -                 -                  -                 -                 -                   (767)             
+Otros -                 -                 235                         -                 -                  -                 -                 -                   235              
+Saldos al 31 de diciembre de 2019 -                 137,811           723,592                   60,120            1,009               31,419            15,952            -                   969,903        
+Adiciones -                 6,342              36,147                     2,821              83                    1,487              1,289              -                   48,169          
+Saldos al 30 de junio de 2020 -                 144,153           759,739                   62,941            1,092               32,906            17,241            -                   1,018,072     
+Deterioro:
+Adiciones -                 -                 229                         -                 -                  -                 -                 -                   229              
+Saldos al 31 de diciembre de 2019 -                 -                 229                         -                 -                  -                 -                 -                   229              
+Saldos al 30 de junio de 2020 -                 -                 229                         -                 -                  -                 -                 -                   229              
+COSTO NETO:
+Al 31 de diciembre de 2019 24,072             355,419           672,769                   25,528            676                  11,061            55,084            22,201              1,166,810     
+Al 30 de junio de 2020 24,072             357,066           638,176                   22,707            629                  9,574              53,863            24,016              1,130,103     
+
+=== PAGINA PDF 18 ===
+ 
+18 
+a) Durante el periodo terminado al 30 de junio de 2020, las adiciones de la Compañía ascendieron a (en 
+miles) S/3,570 ((en miles) S/35,863 al 31 de diciembre de 2019). 
+b) Los trabajos en curso comprenden todos los activos que se encuentran en proceso de construcción y/o 
+instalación, acumulando los respectivos costos hasta el momento que estén listos para entrar en 
+operación/uso, momento en el que se transfieren a la cuenta de activo final. 
+c) El gasto por depreciación por los periodo s terminados al 30 de junio  de 2020 y 31 de diciembre 2019 
+se ha distribuido en el estado de resultados integrales como sigue: 
+ 
+ 30.Jun.2020  31.Dic.2019 
+  S/(000)    S/(000)  
+     
+Costo de venta              45,823             84,662  
+Costo de venta de servicios                  788               3,468  
+Gasto de ventas y distribución                   437                 650  
+Gasto de administración               1,121               1,488  
+Total              48,169             90,268  
+ 
+ 
+d) El saldo de propiedades, planta y equipo al 30 de junio de 2020 incluye bienes adquiridos a través de 
+contratos de arrendamiento financiero, cuyo valor en libros es (en miles) S/ 72,921 (S/85,795 al 31 de 
+diciembre de 2019). 
+ 
+11. INTANGIBLES Y OTROS, NETO 
+ 
+a) El movimiento del rubro intangible y el de su correspondiente amortización acumula da por los años 
+terminados el 30 de junio de 2020 y 31 de diciembre de 2019, es el siguiente:  
+ 
+  
+Concesiones 
+ Costo de 
+desarrollo y  
+otros 
+ Software y 
+aplicaciones 
+informáticas 
+ Desarrollo de 
+proyectos y 
+otros 
+   
+     Total 
+  S/(000)  S/(000)  S/(000)  S/(000)   S/(000) 
+Costo                   
+Saldo al 1 de enero de 2019                 2,062                    5,668                    11,607                    1,887              21,224  
+Adiciones                     -                          -                           -                       492                 492  
+Bajas                     -                       (650)                        -                         (4)               (654) 
+Reclasificaciones a Propiedad, planta y 
+equipo                     -                          -                           -                   (1,089)            (1,089) 
+Transferencias                     -                          -                         318                    (318)                  -    
+Saldos al 31 de diciembre de 2019                 2,062                    5,018                   11,925                      968              19,973  
+Adiciones                     -                          -                            -                          46                    46  
+Reclasificaciones a Propiedad, planta y 
+equipo                     -                          -                           -                      (435)               (435) 
+Otros                     -                          -                           -                         -                     -    
+Saldos al 30 de junio de 2020                 2,062                    5,018                   11,925                      579              19,584  
+          
+Amortización acumulada:                  
+Saldo al 1 de enero de 2019                   112                    4,677                      4,221                        -                  9,010  
+Adiciones                     50                      120                     1,142                       -                 1,312  
+Saldos al 31 de diciembre de 2019                   162                    4,797                      5,363                        -                10,322  
+Adiciones                     24                        60                        363                        -                       447  
+Saldos al 30 de junio de 2020                   186                    4,857                     5,726                        -                10,769  
+                   
+Costo neto:                 
+Al 31 de diciembre del 2019                 1,900                      221                     6,562                     968               9,651  
+                
+Al 30 de junio del 2020                 1,876                      161                     6,199                     579               8,815  
+
+=== PAGINA PDF 19 ===
+ 
+ 
+  
+19 
+b) Durante los meses terminados al 3 0 de junio de 2020, las adiciones de la Compañí a ascendieron a 
+(en miles) S/46 (S/492 por el año 2019). 
+c) El gasto por amortización por el segundo trimestre de 2020, ascendió a (en miles) S/447 (S/1,312 por 
+el año 2019) 
+ 
+ 
+12. ACTIVO POR DERECHO DE USO, NETO 
+ 
+  Terrenos 
+  Edificios, plantas   Total 
+  y otras construcciones   
+  S/(000)   S/(000)   S/(000) 
+            
+Costo:           
+            
+Saldo al 01 de Enero de 2019      2,078                   49       2,127  
+Adiciones -  -  - 
+Saldo al 31 de Diciembre de 2019      2,078                   49       2,127  
+Adiciones         421                   71          492  
+Saldo al 30 de Junio de 2020      2,499                 120       2,619  
+            
+Depreciación Acumulada:           
+           
+Saldo al 01 de Enero de 2019           -                      -              -    
+Adiciones         848                   35          883  
+Saldo al 31 de Diciembre de 2019         848                   35          883  
+            
+Adiciones         377                   18          395  
+Saldo al 30 de Junio de 2020      1,225                   53       1,278  
+            
+Valor neto al 31 de diciembre de 2019      1,230                   14       1,244  
+Valor neto al 30 de Junio de 2020      1,274                   67       1,341  
+ 
+ 
+13. PASIVOS FINANCIEROS 
+ 
+a) A continuación, se presenta la composición del rubro: 
+ 
+ Corriente  No Corriente (d)  Total 
+ 30.Jun.2020  31.Dic.2019  30.Jun.2020  31.Dic.2019  30.Jun.2020  31.Dic.2019 
+ S/(000)  S/(000)  S/(000)  S/(000)  S/(000)  S/(000) 
+            
+Pagarés             60,000              21,667             349,463            379,463             409,463             401,130  
+Bonos                    -                       -               801,477            801,443             801,477             801,443  
+            
+             60,000              21,667          1,150,940         1,180,906          1,210,940          1,202,573  
+ 
+
+=== PAGINA PDF 20 ===
+ 
+ 
+  
+20 
+ 
+ 
+ 
+b) Al 30 de junio de 2020 y 31 de diciembre de 2019, los saldos por pagarés están afectos a tasas de interés 
+de mercado y se componen de la siguiente manera: 
+ 
+  Tasa de interés   Vencimientos       
+              
+  30.Jun.2020 31.Dic.2019   30.Jun.2020 31.Dic.2019   30.Jun.2020 31.Dic.2019 
+  % %         S/0 S/0 
+Pagarés:                 
+Banco de Crédito del Perú S.A. 3.05 Entre 3.09 y 4.74   Abr-21 Jun-20 Soles          60,000          51,667  
+BBVA Continental S.A. 2.5 3.1   Jun-21 Feb-21 Soles          98,463        218,463  
+Scotiabank Perú S.A.A. 2.2 2.85   Ago-21 Feb-21 Soles        151,000        131,000  
+Banco Internacional del Perú S.A.A. 2.3 -   Nov-21 - Soles        100,000   - 
+                     409,463        401,130  
+ 
+ 
+ 
+c) A continuación, se presenta la composición de los programas de emisión de los bonos corporativos, los 
+cuales fueron íntegramente emitidos, no tienen garantías específicas y se encuentran inscritos en la 
+Superintendencia del Mercado de Valores – SMV. Al 30 de junio de 2020 y 31 de diciembre de 2019: 
+ 
+  
+Valor 
+nominal 
+Fecha de 
+emisión 
+Fecha de 
+vencimiento 
+Tasa de Pago de 
+intereses Amortización del principal 30.Jun.2020 31.Dic.2019 interés 
+  S/0     %     S/(000) S/(000) 
+                  
+Cuarto programa                 
+Primera emisión 302,386 06.05.2015 06.05.2030 7.9375 Semestral Parcial a partir del 06.11.2025 302,061 302,045 
+Segunda emisión 200,000 06.05.2015 07.05.2040 7.9063 Semestral Parcial a partir del 06.11.2035 199,778 199,776 
+Tercera emisión 300,000 12.11.2018 14.11.2033 6.843375 Semestral Parcial a partir del 14.05.2024 299,638 299,622 
+              801,477 801,443 
+ 
+d) El valor en libros y el valor razonable de los pasivos financieros al 30 de junio de 2020 y 31 de diciembre 
+de 2019 es el siguiente: 
+ 
+    Valor en libros   Valor razonable 
+    30.Jun.2020  31.Dic.2019   30.Jun.2020  31.Dic.2019 
+    S/(000)   S/(000)   S/(000)   S/(000) 
+           
+Pagarés         409,463         401,130          403,402           395,536  
+Bonos         801,477         801,443          879,709           954,914  
+           
+Total      1,210,940      1,202,573       1,283,111        1,350,450  
+ 
+ 
+
+=== PAGINA PDF 21 ===
+ 
+ 
+  
+21 
+14. CUENTAS POR PAGAR COMERCIALES 
+ 
+Al 30 de junio de 2020 y 31 de diciembre de 2019, las cuentas por pagar comerciales presentan saldo en 
+miles de S/39,385  y S/37,982, respectivamente, las que se originan principalmente por la adquisición de 
+materia prima y suministros necesarios para la producción y corresponden a facturas emitidas por 
+proveedores nacionales y del exterior, están denominadas principalmente en moneda nacional, tienen 
+vencimiento corriente menor a 60 días, no generan intereses y la Compañía no ha otorgado garantías por 
+cumplimiento de su pago. 
+ 
+ 
+15. OTRAS CUENTAS POR PAGAR 
+ 
+a) El rubro está compuesto por las siguientes partidas: 
+ 
+ 30.Jun.2020  31.Dic.2019 
+  S/(000)    S/(000)  
+    
+Honorarios al directorio                    26,109               24,014  
+Intereses por pagar                     9,578                 9,889  
+Participación de los trabajadores                      5,923               36,715  
+Impuesto general a las ventas                      5,905                   8,567  
+Anticipos recibidos de clientes                     4,454                 5,072  
+Penalidad y otros                     3,500                 3,500  
+Gratificaciones por pagar                     3,497   - 
+Contingencias 859                  859  
+Depósitos en garantía                        782                   795  
+Compensación por tiempo de servicios                        653                   636  
+Vacaciones por pagar                        648                 3,878  
+Impuestos y contribuciones sociales                     442                   840  
+Impuestos a la regalías                        250                   450  
+Honorarios diversos                        121                   134  
+Multas                        111                   131  
+Impuesto a las ganancias                          -                 10,020  
+Otros                      4,866   2,995 
+                    67,698             108,495  
+ 
+Por vencimiento:    
+Porción corriente                          38,805               80,981  
+Porción no corriente                          28,893               27,514  
+Total otras cuentas por pagar                          67,698           108,495  
+ 
+b) De acuerdo a la legislación vigente, la participación de los trabajadores en las utilidades de la Compañía 
+es del 10% de la renta neta. Esta participación es gasto deducible para propósitos del cálculo del impuesto 
+a la renta.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 22 ===
+ 
+ 
+  
+22 
+16. PATRIMONIO 
+ 
+a) Capital Social emitido 
+El c apital de la Compañía al 30 de junio  de 2020 y 31 de diciembre de 201 9, está representado por 
+303,443,506 acciones  comunes, cuyo valor nominal es de S/ 1.00 cada una, las que se encuentran 
+íntegramente emitidas y pagadas. 
+ 
+Al 30 de junio de 2020 y 31 de diciembre de 2019 la estructura societaria de la Compañía es la que sigue: 
+ 
+ 
+Porcentaje de participación 
+individual del capital  Número de accionistas  Porcentaje total de participación 
+    % 
+     
+De 1.01 a 10  2  7.25 
+De 90.01 a 100  1  92.75 
+  3  100.00 
+ 
+b) Otras Reservas de Capital 
+De acuerdo con la Ley General de Sociedades, la reserva legal se constituye con la transferencia de 10 
+por ciento de la utilidad neta anual hasta alcanzar un monto equivalente al 20 por ciento del capital 
+pagado. En ausencia de utilidades no distribuidas o reservas de libre disposición, la reserva legal podrá 
+ser aplicada a la compensación de pérdidas, debiendo ser repuesta con las utilidades de ejercicios 
+posteriores. Esta reserva puede ser capitalizada siendo igualmente obligatoria su reposición.  
+Al 31 de diciembre de 2019 se alcanzó el límite establecido y no se efectuó transferencia de la reserva 
+legal. 
+ 
+e) Distribución de dividendos 
+En Junta General de Accionistas de fecha 29 de marzo de 2019, se aprobó la distribución de dividendos 
+correspondiente a los resultados acumulados obtenidos al 31 de diciembre de 2018 por (miles) 
+S/100,000, los cuales fueron pagados íntegramente en 2019. 
+ 
+17. SITUACIÓN TRIBUTARIA 
+ 
+a) La Compañía está sujeta al régimen tributario peruano. La tasa del impues to a la renta al 30 de junio  de 
+2020 y 31 de diciembre de 2019 fue de 29.5 por ciento, sobre la utilidad gravable después de calcular la 
+participación a los trabajadores, la cual, de acuerdo con lo establecido por las normas vigentes, se calcula, 
+en el caso de la Compañía, aplicando una tasa de 10 por ciento sobre la renta neta imponible. 
+ 
+En atención a lo dispuesto por el Decreto Legislativo N°1261, publicado el 10 de diciembre de 2016 y 
+vigente a partir del 1 de enero de 2017, la tasa del impuesto a la renta aplicable sobre la utilidad gravable, 
+luego de deducir la participación de los trabajadores, será, desde el ejercicio 2017 en adelante, de 29.5 
+por ciento. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales están sujetas a la retención 
+de un impuesto adicio nal sobre los dividendos recibidos. Al respecto, en atención a lo dispuesto por el 
+
+=== PAGINA PDF 23 ===
+ 
+ 
+  
+23 
+referido Decreto Legislativo, el impuesto adicional a los dividendos por las utilidades generadas será el 
+siguiente: 
+ 
+- 6.8 por ciento por las utilidades generadas desde el 01 de enero de 2015 hasta el 31 de diciembre 
+de 2016. 
+- Por las utilidades generadas a partir del 1 de enero de 2017, cuya distribución se efectúe a partir 
+de dicha fecha, la tasa aplicable será de 5 por ciento. 
+ 
+b) El gasto por impuesto a las ganancias por los periodos terminados al 30 de junio de 2020 y 2019, 
+comprenden las siguientes partidas: 
+ 
+ 30.Jun.2020  30.Jun.2019 
+  S/(000)    S/(000)  
+     
+Impuesto a las ganancias corriente (11,250)  (36,478) 
+Impuesto a las ganancias diferido 2,521  (2,100) 
+Regalías mineras (522)  (656) 
+Total (9,251)  (39,235) 
+ 
+ 
+ 
+c) Para propósito de la determinación del impuesto a las ganancias, los precios de transferencia de las 
+transacciones con empresas relacionadas y con empresas residentes en territorios de baja o nula 
+imposición, deben estar sustentados con documentación e inf ormación sobre los métodos de valoración 
+utilizados y los criterios considerados para su determinación.  
+ 
+Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus asesores legales opinan 
+que, como consecuencia de la aplicación de estas normas, no surgirán contingencias de importancia para 
+la Compañía al 30 de junio de 2020 y 31 de diciembre de 2019. 
+ 
+d) Las principales normas tributarias emitidas durante el 2018 son las siguientes: 
+ 
+ Se modificó, a partir del 1 de enero de 2019, el tratamiento aplicable a las regalías y retribuciones 
+por servicios prestados por no domiciliados, eliminando la obligación de abonar el monto 
+equivalente a la retención con motivo del registro contable del costo o gasto, debiendo ahora 
+retenerse el impuesto a la renta con motivo del pago o acreditación de la retribución. Para que 
+dicho costo o gasto sea deducible para la empresa local, deberá haberse pagado o acreditado 
+la retribución hasta la fecha de presentación de la declaración jurada anual del impuest o a la 
+renta (Decreto Legislativo N°1369). 
+ 
+ Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo N°1372). 
+Estas normas son aplica bles a las personas jurídicas domiciliadas en el país, de acuerdo a lo 
+establecido en el artículo 7 de la Ley de Impuesto a la Renta, y a los entes jurídicos constituidos 
+en el país. La obligación alcanza a las personas jurídicas no domiciliadas y a los entes jurídicos 
+constituidos en el extranjero en tanto: a) cuenten con una sucursal, agencia u otro 
+
+=== PAGINA PDF 24 ===
+ 
+ 
+  
+24 
+establecimiento permanente en el país; b) la persona natural o jurídica que gestione el patrimonio 
+autónomo o los fondos de inversión del exterior, o la persona natural o jurídica que tiene calidad 
+de protector o administrador, esté domiciliado en el país y c) cualquiera de las partes de un 
+consorcio esté domiciliada en el país. Esta obligación será cumplida mediante la presentación a 
+la Autoridad Tributaria de  una Declaración Jurada informativa, que deberá contener la 
+información del beneficiario final y ser presentada, de acuerdo con las normas reglamentarias y 
+en los plazos que se establezcan mediante Resolución de Superintendencia de la SUNAT. 
+ 
+ Se modificó el Código Tributario en la aplicación de la norma anti elusiva general (Norma XVI 
+del Título Preliminar del Código Tributario (Decreto Legislativo N°1422).  
+ 
+ 
+ Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por la Norma 
+XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubier en 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que tengan 
+Directorio, corresponde a este órgano societario definir la estrategia tr ibutaria de la entidad 
+debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones económicas a 
+realizarse en el marco de la planificación fiscal, siendo esta facultad indelegable. Los actos, 
+situaciones y relaciones económicas realizados en el marco de planificaciones fiscales e 
+implementados a la fecha de entrada en vigencia del Decreto Legislativo N°1422 (14 de 
+septiembre del 2018) y que sigan teniendo efectos, deben ser evaluados por el Directorio de la 
+persona jurídica para efecto de su ratificación o modificación hasta el 29 de marzo de 2019, sin 
+perjuicio de que la gerencia u otros administradores de la sociedad hubieran aprobado en su 
+momento los referidos actos, situaciones y relaciones económicas.  
+ 
+ Se incluyeron modificaciones a l a Ley del Impuesto a la Renta, con vigencia a partir del 1 de 
+enero de 2019, para perfeccionar el tratamiento fiscal aplicable a (Decreto Legislativo N°1424): 
+ 
+I. Los establecimientos permanentes de empresas unipersonales, sociedades y 
+entidades de cualquier naturaleza constituidas en el exterior; incorporándose nuevos 
+supuestos de establecimiento permanente, entre ellos, cuando se produzca la 
+prestación de servicios en el país, respecto de un mismo proyecto, servicio o para uno 
+relacionado, por un período que  en total exceda de 183 días calendario dentro de un 
+período cualquiera de doce meses. 
+ 
+II. El régimen de créditos contra el Impuesto a la Renta por impuestos pagados en el 
+exterior, incorporándose el crédito indirecto (impuesto corporativo pagado por 
+subsidiarias del exterior) como crédito aplicable contra el Impuesto a la Renta de 
+personas jurídicas domiciliadas, a fin de evitar la doble imposición económica. 
+ 
+III. La deducción de gastos por intereses para la determinación del Impuesto a la Renta 
+empresarial. En los años 2019 y 2020, el límite de endeudamiento fijado en tres veces 
+el patrimonio neto al 31 de diciembre del año anterior será aplicable, tanto a préstamos 
+
+=== PAGINA PDF 25 ===
+ 
+ 
+  
+25 
+con partes vinculadas, como a préstamos con terceros contraídos a partir del 14 de 
+setiembre de 2018. A partir del 2021 el límite para la deducción de gastos financieros 
+será equivalente al 30 por ciento del EBITDA de la entidad.  
+ 
+IV. Se han establecido normas para el devengo de ingresos y gastos para fines tributarios 
+a partir del 1 de enero de 2019 (Decreto Legislativo No 1425). Hasta el año 2018 no se 
+contaba con una definición normativa de este concepto, por lo que en muchos casos 
+se recurría a las normas contables para su interpretación. En términos generales, con el 
+nuevo criterio, para fines de la determinación del Impuesto a la Renta ahora se 
+considerará si se han producido los hechos sustanciales para la generación del ingreso 
+o gasto acordados por las partes, que no estén sujetos a una condición suspensiva, en 
+cuyo caso el reconocimiento se dará cuando ésta se cumpla; no se tendrá en cuenta la 
+oportunidad de cobro o pago establecida; y, si la determinación de la  contraprestación 
+depende de un hecho o evento futuro, se diferirá el total o la parte del ingreso o 
+gasto que corresponda hasta que ese hecho o evento ocurra." 
+ 
+e) La Autoridad Tributaria tiene la facultad de revisar y, de ser aplicable, corregir el impuesto a las ganancias 
+calculado por la Compañía en los cuatro años posteriores a la presentación de la declaración de 
+impuestos. Al 31 de diciembre de 2019, las obligaciones tributarias referidas al impuesto a las ganancias 
+e Impuesto general a las ventas de los ejercicios 2014 al 2019, se encuentran pendientes de revisión.   
+ 
+Debido a las posibles interpretaciones que la Autoridad Tributaria pueda dar a las normas legales vigentes 
+no es posible determinar, a la fecha, si de las revisiones que se realicen resultarán o no pasivos para la 
+Compañía, por lo que cualquier eventual mayor impuesto o recargo que pudiera resultar de las revisiones 
+fiscales sería aplicado a los resultados del ejercicio en que éste se determine. En el caso de Cementos 
+Otorongo S.A.C. que es una sociedad fusionada con la Compañía, se encuentra pendiente de revisión 
+por parte de la Administración Tributaria tanto en Impuesto  a las ganancias e Impuesto General a las 
+Ventas de los años 2014 al 2019. Sin embargo, en opinión de la Gerencia de la Compañía y de sus 
+asesores legales, cualquier eventual liquidación adicional de impuestos no sería significativa para los 
+estados financieros separados al 30 de junio de 2020 y 31 de diciembre de 2019. 
+ 
+18. INGRESOS DE ACTIVIDADES ORDINARIAS 
+ Este rubro comprende: 
+ 
+  30.Jun.2020  30.Jun.2019 
+   S/(000)    S/(000)  
+        
+Segmentos        
+Ingresos por venta de bienes:       
+ Cemento y cal          237,790             412,733  
+ Puzolana             2,631                 1,315  
+ Otros             2,446                   872  
+ Flete            19,524               39,018  
+           262,391            453,938  
+ 
+ 
+
+=== PAGINA PDF 26 ===
+ 
+ 
+  
+26 
+ A partir de 2013, la compañía asumió la producción y comercialización de cemento de la Unidad de Negocio 
+en general. Por ello, acordó con su subsidiaria Cal & Cemento Sur S.A. a través de un contrato de licencia 
+de uso de marca, producir y comercializar ce mento marca Rumi, a cambio del pago de una retribución 
+económica. 
+ 
+19. COSTO DE VENTAS 
+a) Este rubro comprende: 
+ 
+  30.Jun.2020   30.Jun.2019 
+   S/(000)     S/(000)  
+        
+Producción .-       
+Inventario inicial de mercadería (Nota 7)                  616                    459  
+Compras de mercadería                1,039                  1,117  
+Inventario inicial de productos terminados (Nota 7)                4,623                  7,928  
+Inventario inicial de productos en proceso (Nota 7)              71,245                67,764  
+Consumo de materias primas e insumos              29,859                98,906  
+Mano de obra directa              19,378                  5,814  
+Depreciación (Nota 9d)              45,823                41,683  
+Amortización de intangibles                  184                    286  
+Otros gastos de fabricación              46,680                95,971  
+Inventario final de productos terminados (Nota 7)              (4,995)               (5,222) 
+Inventario final de productos en proceso (Nota 7)            (43,622)             (73,763) 
+Inventario final de mercadería (Nota 7)                 (874)                  (763) 
+             169,956              240,180  
+Servicios .-       
+Costo de venta de servicios                1,799                  3,464  
+                 1,799                  3,464  
+        
+             171,755             243,644  
+ 
+20. GASTOS DE VENTA Y DISTRIBUCIÓN 
+A continuación, se presenta la composición del rubro: 
+ 
+  30.Jun.2020   30.Jun.2019 
+   S/(000)     S/(000)  
+        
+Regalías por uso de marca (a)               2,911                 4,453  
+Cargas de personal               2,948                 4,083  
+Servicios prestados por terceros               2,599                 4,415  
+Cargas diversas de gestión y provisiones               1,589                   611  
+Tributos                    44                     81  
+Depreciación                  437                   322  
+Depreciación por derecho de uso                  375                   405  
+Amortización de intangibles                    -                       13  
+               10,903              14,383  
+ 
+a) Corresponde a regalías pagadas a la empresa Cal & Cemento Sur S.A. por el uso de la marca RUMI. 
+ 
+
+=== PAGINA PDF 27 ===
+ 
+ 
+  
+27 
+21. GASTOS ADMINISTRATIVOS 
+                 Este rubro comprende: 
+ 
+        
+  30.Jun.2020   30.Jun.2019 
+   S/(000)     S/(000)  
+        
+Cargas de personal               8,762               10,308  
+Servicios prestados por terceros               7,311                 8,285  
+Honorarios al directorio               1,829                 8,458  
+Tributos               1,700                 2,468  
+Cargas diversas de gestión y provisiones               1,691                 1,616  
+Depreciación               1,677                 1,266  
+Amortización de intangibles                 263                   393  
+Impuesto a las transacciones financieras                 108                   126  
+Depreciación por derecho de uso                   17                     18  
+              23,358              32,938  
+ 
+ 
+22. OTROS INGRESOS OPERATIVOS 
+El rubro está compuesto de la siguiente forma: 
+    
+  30.Jun.2020   30.Jun.2019 
+   S/(000)     S/(000)  
+Ingresos operativos:       
+Regalías             1,203                 1,131  
+Exceso de provisión años anteriores             1,104                 1,393  
+Alquileres de edificios y terrenos                984                   808  
+Recuperación de impuestos                  83                   519  
+Ingresos diversos con entidades relacionadas                   7                       3  
+Indemnización seguro                  -                 10,284  
+Otros ingresos                295                   525  
+              3,676              14,663  
+ 
+23. INGRESOS FINANCIEROS 
+ Este rubro comprende: 
+ 
+  30.Jun.2020   30.Jun.2019 
+   S/(000)     S/(000)  
+        
+Intereses por préstamos a entidades relacionadas                 2,655                2,849  
+Intereses por depósitos a plazo fijo                     32                     58  
+Intereses - Devolución de impuestos                     -                  1,193  
+Otros                    601                   394  
+                  3,288               4,494  
+ 
+ 
+ 
+
+=== PAGINA PDF 28 ===
+ 
+ 
+  
+28 
+24. GASTOS FINANCIEROS 
+ Este rubro comprende: 
+ 
+  30.Jun.2020   30.Jun.2019 
+   S/(000)     S/(000)  
+        
+Intereses por bonos corporativos               30,173              30,256  
+Intereses por préstamos bancarios                 5,459              18,378  
+Costos de estructuración de deuda                   101                  660  
+Intereses por derecho de uso                     45                    64  
+Otros 38                   74  
+                35,816             49,432  
+ 
+ 
+25. COMPROMISOS, CONTINGENCIAS Y GARANTÍAS OTORGADAS 
+ 
+a) Programa de adecuación al medio ambiente - PAMA - 
+La Compañía está ejecutando el Programa de Adecuación al Medio Ambiente (PAMA). En 2019 se 
+incurrió en desembolsos por (miles) S/6,198 ((miles) S/6,150 en 2018)  que fueron destinados 
+principalmente a elaborar e implementar el programa anual de mantenimiento preventivo de los sistemas 
+y líneas de transporte de materia prima y producto, continuar con el programa de forestación y regadío, 
+efectuar mantenimiento correctivo de mangas de filtro, elaborar e implementar el programa anual de 
+mantenimiento preventivo y correctivo de los sistemas de control y emisión de partículas (electro filtro y 
+filtro de mangas), ejecutar el programa de monitoreo de emisiones fijas y fugitivas y establecer sistema 
+de riego continuo de vías y accesos utilizados por la empresa.  
+ 
+b) Ley de cierre de minas - 
+Con fecha 14 de octubre de 2004 entró en vigencia la Ley No.28090 que tiene por objeto regular las 
+obligaciones y procedimientos que deben cumplir los titulares de la actividad minera para la elaboración, 
+presentación e implementación del Plan de Cierre de Minas y la constitución de las garantías ambientales 
+correspondientes.  
+ 
+Esta Ley estableció que el titular de unidades mineras en operación presentara ante las autoridades 
+competentes el Plan de Cierre de Mina, dentro del plazo máximo de seis meses a partir de la vigencia de 
+esta Ley. Sin embargo, el 8 de mayo de 2005 se aprobó una modificación por la cual el titular de unidades 
+mineras en operación deberá presentar ante las autoridades competentes el Plan de Cierre de Minas 
+dentro de un plazo máximo de un año a partir de la vigencia del reglamento de la presente Ley. El 
+Reglamento para el Cierre de Minas fue aprobado el 15 de agosto de 2005 mediante Decreto Supremo 
+No.033-2005-EM. 
+ 
+En cumplimiento de esta obligación, el 21 de octubr e de 2010 la Compañía presento al Ministerio de 
+Energía y Minas su Plan de Cierre de Mina de la Unidad Minera Chili. El 20 de julio de 2011, mediante 
+Resolución Directoral N°720-2011-MEM-DGAAM fue aprobado dicho Plan de Cierre.  
+ 
+AI 31 de diciembre de 2019, el valor futuro de la provisión para cierre de unidades mineras (canteras) ha 
+sido descontado utilizando la tasa anual libre de riesgo de 0.58 por ciento, (tasa de 1.21por ciento al 31 
+de diciembre de 2018), resultando un pasivo actualizado de US$ 15,320  (US$3,732 al 31 de diciembre 
+
+=== PAGINA PDF 29 ===
+ 
+ 
+  
+29 
+de 2018). La Compañía considera que este pasivo es suficiente para cumplir con las leyes de protección 
+del medio ambiente vigentes aprobadas por el Ministerio de Energía y Minas.  
+El movimiento de la provisión por cierre de minas es como sigue: 
+ 
+ 31.Dic.2019 31.Dic.2018 
+ S/(000) S/(000) 
+   
+Saldo inicial 12,610 12,892 
+Adición por nuevas provisiones  37,466 - 
+Modificación del valor por variación de tasa  599 (1,182) 
+Actualización de provisión para cierre de canteras  374 368 
+Diferencia de cambio  (231) 532  ____________ ____________    
+Saldo final 50,818 12,610  ____________ ____________ 
+ 
+ 
+b) Garantías Otorgadas 
+Al 31 de diciembre de 2019 la Compañía mantiene (en miles) US$ 4,586 y S/ 2,130 en fianzas a favor de 
+entidades financieras (En 2018 fue (en miles) US$ 4,096 y S/1,083) 
+ 
+c) Contingencias 
+Al 31 de diciembre de 2019 la Compañía ha entablado descargos ante sanciones notificadas por parte 
+del Organismo de Evaluación y Fiscalización Ambiental por importe indeterminado. Al r especto, la 
+gerencia y sus asesores legales estiman que no surgirán pasivos de importancia que deben ser 
+registrados a dicha fecha. Asimismo, tiene demandas laborales que según sus asesores legales pueden 
+ser resueltos en contra de la Compañía; sin embargo , debido a que los importes a ser pagados pueden 
+variar, la Gerencia ha decidido no efectuar provisión alguna hasta el momento que se indique el importe 
+a pagar por la instancia correspondiente.  
+ 
+26. GANANCIA BÁSICA POR ACCIÓN 
+La utilidad básica por acción se calcula dividiendo la utilidad atribuible a los accionistas de la Compañía 
+entre el promedio ponderado de las acciones comunes y de inversión en circulación a la fecha del 
+estado de situación financiera consolidado. La utilidad básica por acción común y de inversión se 
+determina como sigue: 
+ 
+  Por el trimestre terminado al 
+  el 30 de junio de   
+  2020  2019 
+  S/(000)  S/(000) 
+        
+Utilidad neta atribuible a los accionistas de la 
+Compañía          19,407             94,032  
+Promedio ponderado de acciones en circulación   303,448,969      303,448,969  
+Utilidad básica por acción, en soles            0.064               0.310  
+ 
+ 
+ 
+
+=== PAGINA PDF 30 ===
+ 
+ 
+  
+30 
+27. EVENTOS POSTERIORES A LA FECHA DE BALANCE 
+ 
+Con fecha 20 de julio se confirmó la transferencia del 30% del accionariado de Industrias Cachimayo 
+S.A. al accionista Holding Nitratos S.A., el cual es parte del grupo empresarial de ENAEX S.A. cuyo 
+precio fue de US$7 millones de dólares americanos, desprendiéndose así Yura S.A. de todas sus 
+acciones en Cachimayo. 

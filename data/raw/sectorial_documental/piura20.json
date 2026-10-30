@@ -1,0 +1,11 @@
+{
+  "id": "piura20",
+  "url": "https://www.enelamericas.com/content/dam/enel-americas/investor/enel-generaci%C3%B3n-piura/piura/inversores/pdf/egpiura/reportes/estados-financieros/anuales/2020/EEFF%20EG%20Piura%202020.pdf",
+  "url_final": "https://www.enelamericas.com/content/dam/enel-americas/investor/enel-generaci%C3%B3n-piura/piura/inversores/pdf/egpiura/reportes/estados-financieros/anuales/2020/EEFF%20EG%20Piura%202020.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "b4c02478eb0e12dccb689232c8c99cddadb1093866b803e1fa3147c64d9d9e0e",
+  "sha256_texto": "85afb46d00ea2f250f30074243792b8cbe7e8f39b3653e788b60a2f1ac485065",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

@@ -1,0 +1,1510 @@
+
+=== PAGINA PDF 1 ===
+PESQUERA EXALMAR S.A.A.
+ESTADOS FINANCIEROS AL 31 DE DICIEMBRE DE 2024 Y 2023
+Y EL DICTAMEN DE LOS AUDITORES INDEPENDIENTES
+
+=== PAGINA PDF 2 ===
+PESQUERA EXALMAR S.A.A.
+ESTADOS FINANCIEROS AL 31 DE DICIEMBRE DE 2024 Y 2023
+CONTENIDO
+Dictamen de los auditores independientes
+Estado de situación financiera
+Estado de resultado y de otro resultado integral
+Estado de cambios en el patrimonio
+Estado de flujos de efectivo
+Notas a los estados financieros
+
+=== PAGINA PDF 3 ===
+DICTAMEN DE LOS AUDITORES INDEPENDIENTES
+A los Señores Accionistas
+PESQUERA EXALMAR S.A.A.
+Opinión
+Hemos auditado los estados financieros de PESQUERA EXALMAR S.A.A.,(una subsidiaria de Caleta
+de Oro Holding S.A. domiciliada en Perú), que comprenden el estado de situación financiera al
+31 de diciembre de 2024, el estado de resultado integral y de otro resultado integral, de cambios
+en el patrimonio y de flujos de efectivo correspondientes al año terminado en esa fecha, así
+como las notas explicativas a los estados financieros, que incluyen un resumen de las políticas
+contables significativas y otra información explicativa.
+En nuestra opinión, los estados financieros presentan razonablemente, en todos sus aspectos
+significativos, la situación financiera de PESQUERA EXALMAR S.A.A. al 31 de diciembre de 2024,
+su desempeño financiero y sus flujos de efectivo por el año terminado en esa fecha, de
+conformidad con Normas Internacionales de Información Financiera (NIIF) emitidas por el
+International Accounting Standards Board (IASB).
+Fundamento para nuestra opinión
+Efectuamos nuestra auditoría de conformidad con Normas Internacionales de Auditoría (NIA)
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores
+Públicos del Perú. Nuestras responsabilidades de acuerdo con estas normas se describen con más
+detalle en la sección Responsabilidades del Auditor.
+Somos independientes de PESQUERA EXALMAR S.A.A. de conformidad con el Código de Ética para
+Profesionales de la Contabilidad del Consejo de Normas Internacionales de Ética para Contadores
+(Código de Ética del IESBA) junto con los requisitos éticos que son relevantes para nuestra
+auditoría de los estados financieros en el Perú, y hemos cumplido con nuestras otras
+responsabilidades de ética de conformidad con estos requisitos. Consideramos que la evidencia
+de auditoría que hemos obtenido es suficiente y apropiada para fundamentar nuestra opinión.
+Asuntos claves de auditoría
+Los asuntos claves de auditoría son aquellos que, a nuestro juicio profesional, fueron de mayor
+importancia en nuestra auditoría de los estados financieros del período actual.  Estos asuntos
+claves de auditoría han sido tratados en el contexto de nuestra auditoría de los estados
+financieros en su conjunto y al formarnos nuestra opinión sobre los mismos; sin embargo , no
+emitimos una opinión por separado sobre estos asuntos.
+Asunto clave de auditoría Cómo nuestra auditoría abordó el asunto
+De acuerdo con los requisitos de la NIC 36
+Deterioro del valor de los activos, la
+Compañía realiza una evaluación anual del
+deterioro del valor en libros del crédito
+mercantil y los activos intangibles de vida
+útil indefinida para determinar si el valor
+recuperable es inferior al valor en libros al
+31 de diciembre de 2024.
+Se realizaron los siguientes procedimientos: i)
+Evaluamos la determinación de las Unidades
+Generadoras de Efectivo (UGE) realizada por la
+Compañía y con base a nuestro entendimiento
+de la naturaleza del negocio y de sus
+operaciones, revisamos si estos criterios son
+consistentes con la información interna del
+negocio; ii) Hemos considerado el rendimiento
+Tel: +511 2225600
+www.bdo.com.pe
+CÓRDOVA, PETROZZI, CORONADO
+Sociedad Civil de Responsabilidad Limitada
+Av. Camino Real 456
+Torre Real, Piso 5
+San Isidro
+LIMA 27- PERU
+Córdova, Petrozzi, CoronadoSociedad Civil de Responsabilidad Limitada, una sociedad civil peruana, es miembro de BDO International Limited, una compañíalimitada por garantía del
+Reino Unido, y forma parte de la red internacional BDO, empresas independientes asociadas.
+BDO es el nombre comercial de la red BDO y de cada una de las empresas asociadas de BDO.
+
+=== PAGINA PDF 4 ===
+- 2 -
+Asunto clave de auditoría Cómo nuestra auditoría abordó el asunto
+Para calcular el importe recuperable de
+cada grupo de UGE, se utiliza el método
+de estimación de flujos de caja libres
+(“FCFF”).
+Un modelo de valor en uso tiene un juicio
+y una estimación significativa con respecto
+a los pronósticos de flujo de efectivo
+futuro, la tasa de descuento y los
+supuestos de la tasa de crecimiento
+terminal. Los cambios en ciertos supuestos
+pueden dar lugar a cambios significativos
+en la evaluación del importe recuperable.
+Este asunto ha sido considerado como un
+asunto clave de auditoría debido al nivel
+de juicio requerido para estimar los flujos
+de efectivo previstos y las tasas de
+descuento utilizadas.
+histórico y análisis de comparables como
+procedimientos para verificar la existencia de
+evidencia contraria a lo utilizado por la
+Compañía; iii) Revisamos que el modelo de
+valor en uso estuviera de acuerdo con los
+requisitos de la NIC 36; iv) Se revisó que las
+proyecciones de flujos de caja estuvieran
+aprobadas por el Directorio teniendo en cuenta
+nuestro conocimiento del negocio y la
+información externa relevante; v) Revisamos la
+tasa de descuento aplicada a los flujos de caja
+de cada UGE para verificar si la tasa aplicada
+refleja los riesgos asociados a las respectivas
+proyecciones de flujos de caja; vi)
+Involucramos a nuestros especialistas en
+valuación para evaluar la razonabilidad de los
+supuestos adoptados; vii) Evaluamos el análisis
+de sensibilidad de la Compañía sobre las UGE;
+viii) Comprobamos si las divulgaciones
+efectuadas en los estados financieros cumplen
+con los criterios establecidos en las Normas
+Internacionales de Información Financiera.
+Los procedimientos aplicados para evaluar el
+importe de recuperación de los activos
+intangibles de vida indefinida y del crédito
+mercantil registrado por Pesquera Exalmar
+S.A.A. al 31 de diciembre de 2024 nos
+permitieron obtener evidencia suficiente para
+asegurarnos de su razonabilidad.
+Otra información
+La Gerencia es responsable por la otra información. La otra información comprende la
+información incluida en la memoria anual y no forma parte integral de los estados financieros ni
+de nuestro informe de auditoría. Se espera que la memoria anual esté disponible para nosotros
+después de la fecha de nuestra opinión de auditoría.
+Nuestra opinión sobre los estados financieros no cubre la otra información y no expresaremos
+ningún tipo de seguridad ni conclusión sobre esa otra información.
+Con relación a nuestra auditoría de los estados financieros, nuestra responsabilidad es leer la
+otra información cuando esté disponible y, al hacerlo, considerar si existe una inconsistencia
+material entre la otra información y los estados financieros o nuestro conocimiento obtenido en
+la auditoría o, de cualquier otro modo, la otra información parece contener una incorrección
+material.
+Córdova, Petrozzi, CoronadoSociedad Civil de Responsabilidad Limitada, una sociedad civil peruana, es miembro de BDO International Limited, una compañíalimitada por garantía del
+Reino Unido, y forma parte de la red internacional BDO, empresasindependientes asociadas.
+BDO es el nombre comercial de la red BDO y de cada una de las empresas asociadas de BDO.
+CÓRDOVA, PETROZZI, CORONADO
+Sociedad Civil de Responsabilidad Limitada
+
+
+=== PAGINA PDF 5 ===
+- 3 -
+Responsabilidades de la Gerencia y de los Encargados del Gobierno Corporativo por los
+estados financieros
+La Gerencia es responsable de la preparación y presentación razonable de los estados financieros
+adjuntos de conformidad con Normas Internacionales de Información Financiera (NIIF) emitidas
+por el International Accounting Standards Board (IASB), y del control interno que considere
+necesario para permitir la preparación de estados financieros libres de incorrecciones
+materiales, ya sea por fraude o error.
+Al preparar los estados financieros, la Gerencia es responsable de evaluar la capacidad de la
+Compañía de continuar como empresa en marcha, revelando, según sea aplicable, los asuntos
+relacionados a la continuidad de operaciones y utilizando el principio contable de empresa en
+marcha, a menos que los accionistas tengan la intención de liquidar a la Compañía o cesar sus
+operaciones, o no tenga otra alternativa realista que liquidar o cesar sus operaciones.
+Los encargados del Gobierno Corporativo de PESQUERA EXALMAR S.A.A. son responsables de la
+supervisión del proceso de información financiera de la Compañía.
+Responsabilidades del auditor por la auditoría de los estados financieros
+Nuestros objetivos son obtener una seguridad razonable de que los estados financieros en su
+conjunto estén libres de incorrecciones materiales, ya sea por fraude o error, y emitir un
+informe de auditoría que incluya nuestra opinión. Seguridad razonable es un alto nivel de
+seguridad, pero no garantiza que una auditoría efectuada de conformidad con las NIA aprobadas
+para su aplicación en el Perú siempre detecte una incorrección material cuando esta exista. Las
+incorrecciones pueden surgir de fraude o error y son consideradas materiales si, individualmente
+o en su conjunto, podrían razonablemente influir en las decisiones económicas que los usuarios
+toman basándose en los estados financieros.
+Como parte de una auditoría de acuerdo con NIA, ejercemos nuestro juicio profesional y
+mantenemos escepticismo profesional durante toda la auditoría. Además:
+- Identificamos y evaluamos los riesgos de incorrecciones materiales en los estados
+financieros, ya sea por fraude o error, diseñamos y aplicamos procedimientos de auditoría
+en respuesta a estos riesgos y obtenemos evidencia de auditoría que sea suficiente y
+apropiada en ofrecer fundamento para nuestra opinión. El riesgo de no detectar una
+incorrección material que resulte de fraude es más elevado que el no detectar uno que
+surge de un error, puesto que el fraude puede involucrar colusión, falsificación, omis iones
+intencionales, declaraciones falsas o la vulneración del control interno.
+- Obtuvimos un entendimiento del control interno relevante a la auditoría con el propósito
+de diseñar procedimientos de auditoría que sean apropiados en las circunstancias, pero no
+con el propósito de expresar una opinión sobre la efectividad del control interno de
+PESQUERA EXALMAR S.A.A.
+- Evaluamos la idoneidad de las políticas contables aplicadas, la razonabilidad de las
+estimaciones contables y las respectivas revelaciones efectuadas por la Gerencia.
+- Concluimos sobre el adecuado uso del principio contable de empresa en marcha por parte
+de la Gerencia y, sobre la base de la evidencia obtenida, no se identificó alguna
+incertidumbre significativa relacionada a eventos o condiciones que pueden suscitar dud as
+significativas sobre la capacidad de PESQUERA EXALMAR S.A.A. de continuar como empresa
+en marcha. Si llegáramos a la conclusión que existe una incertidumbre significativa,
+estamos obligados de llamar la atención en nuestro dictamen de auditoría sobre la
+respectiva información revelada en los estados financieros o, si tales revelaciones son
+inadecuadas, modificar nuestra opinión. Nuestras conclusiones se sustentan en la
+Córdova, Petrozzi, CoronadoSociedad Civil de Responsabilidad Limitada, una sociedad civil peruana, es miembro de BDO International Limited, una compañíalimitada por garantía del
+Reino Unido, y forma parte de la red internacional BDO, empresas independientes asociadas.
+BDO es el nombre comercial de la red BDO y de cada una de las empresas asociadas de BDO.
+CÓRDOVA, PETROZZI, CORONADO
+Sociedad Civil de Responsabilidad Limitada
+
+
+=== PAGINA PDF 6 ===
+- 4 -
+evidencia de auditoría obtenida hasta la fecha de nuestro dictamen de auditoría; sin
+embargo, eventos o condiciones futuras podrían originar que PESQUERA EXALMAR S.A.A.
+deje de continuar como una empresa en marcha.
+- Evaluamos la presentación general, la estructura y contenido de los estados financieros,
+incluidas las revelaciones, y si los estados financieros representan las transacciones y
+eventos subyacentes de una manera que logren su presentación razonable.
+- Obtuvimos evidencia suficiente y apropiada de auditoría respecto a información financiera
+de las principales entidades o actividades de negocios dentro de la Compañía para
+expresar una opinión sobre los estados financieros. Somos responsables por la direcc ión,
+supervisión y ejecución de la auditoría de la Compañía. Somos los únicos responsables por
+nuestra opinión de auditoría.
+Comunicamos a los encargados del Gobierno Corporativo de la Compañía, entre otros aspectos,
+el alcance y la oportunidad de la auditoría planificados, los hallazgos significativos de auditoría,
+así como cualquier deficiencia significativa en el control interno que identificamos en el
+transcurso de nuestra auditoría.
+También proporcionamos a los encargados del Gobierno Corporativo una declaración de que
+hemos cumplido con los requerimientos éticos relevantes aplicables en relación con la
+independencia y les hemos comunicado acerca de toda relación y otros asuntos que p odrían
+razonablemente afectar nuestra independencia y, según corresponda, las acciones tomadas para
+eliminar las amenazas o las salvaguardas aplicadas.
+De los asuntos comunicados a los encargados del Gobierno Corporativo, determinamos aquellos
+asuntos que fueron de mayor importancia en la auditoría de los estados financieros del periodo
+corriente y son, por consiguiente, los principales asuntos claves de auditoría. Hemos descrito
+estos asuntos en nuestro dictamen de auditoría salvo que las leyes y regulaciones aplicables
+prohíban la revelación pública sobre el asunto o cuando, en circunstancias extremadamente
+inusuales, determinemos que un asunto no debería ser comunicado en nuestro dictamen porque
+cabe razonablemente esperar que las potenciales consecuencias adversas de hacerlo podrían
+superar los beneficios en el interés público de tal comunicación.
+Lima, Perú
+21 de febrero de 2025
+Refrendado por
+__________________________ (Socio)
+Luis Gómez Montoya
+Contador Público Colegiado Certificado
+Matrícula Nº 01-19084
+Córdova, Petrozzi, CoronadoSociedad Civil de Responsabilidad Limitada, una sociedad civil peruana, es miembro de BDO International Limited, una compañíalimitada por garantía del
+Reino Unido, y forma parte de la red internacional BDO, empresas independientes asociadas.
+BDO es el nombre comercial de la red BDO y de cada una de las empresas asociadas de BDO.
+CÓRDOVA, PETROZZI, CORONADO
+Sociedad Civil de Responsabilidad Limitada
+
+
+=== PAGINA PDF 7 ===
+PESQUERA EXALMAR S.A.A.
+ESTADO DE SITUACIÓN FINANCIERA
+AL 31 DE DICIEMBRE DE 2024 Y 2023
+(Expresado en miles de dólares estadounidenses)
+ACTIVO PASIVO Y PATRIMONIO
+Notas 2024 2023 Notas 2024 2023
+ACTIVO CORRIENTE PASIVO CORRIENTE
+Efectivo y equivalentes de efectivo 6 21,548 3,690 Préstamos bancarios 13 136,782 121,096
+Cuentas por cobrar comerciales, neto 7 23,181 28,585 Obligaciones financieras 14 33,933 19,495
+Otras cuentas por cobrar 8 76,954 41,546 Cuentas por pagar comerciales 15 55,280 53,371
+Existencias, neto 9 127,557 97,585 Tributos, remuneraciones y otras cuentas por pagar 16 47,591 22,764
+Cuentas por cobrar a relacionadas 27 4,923 4,686 Cuentas por pagar a relacionadas 27 18 17
+Crédito fiscal de IGV 32 (h) 15,762 17,559 ---------- ----------
+Pago a cuenta del impuesto a la renta 32 (h) - 13,561 Total pasivo corriente 273,604 216,743
+Gastos pagados por adelantado 137 484 ---------- ----------
+---------- ----------
+Total activo corriente 270,062 207,696
+---------- ---------- PASIVO NO CORRIENTE
+Obligaciones financieras 14 108,015 136,370
+Tributos, remuneraciones y otras cuentas por pagar 16 991 3,043
+Provisiones para contingencias 17 1,957 2,451
+Pasivo por impuesto a la renta diferido 18 52,988 52,252
+---------- ----------
+Total pasivo no corriente 163,951 194,116
+---------- ----------
+Total pasivo 437,555 410,859
+---------- ----------
+ACTIVO NO CORRIENTE PATRIMONIO
+Otras cuentas por cobrar 8 16,654 16,667 Capital emitido 19 89,772 89,772
+Inmuebles, embarcaciones, maquinaria y equipo, neto 10 207,242 211,872 Prima por emisión de acciones 69,721 69,721
+Intangibles, neto 11 119,994 120,195 Reserva legal 3,609 3,609
+Crédito mercantil 11 (b) 113,342 113,342 Excedente de revaluación 41,075 40,883
+Activos por derecho de uso 12 7,308 8,443 Resultados netos no realizados de instrumentos financieros
+Instrumentos financieros derivados 14 (e) 1,841 - derivados de cobertura 14 (e) 1,298 -
+Otros activos 887 887 Resultados acumulados 94,300 64,258
+---------- ---------- ---------- ----------
+Total activo no corriente 467,268 471,406 Total patrimonio 299,775 268,243
+---------- ---------- ---------- ----------
+Total activo 737,330 679,102 Total pasivo y patrimonio 737,330 679,102
+======= ======= ======= =======
+Las notas a los estados financieros adjuntas forman parte de este estado.
+
+=== PAGINA PDF 8 ===
+PESQUERA EXALMAR S.A.A.
+ESTADO DE RESULTADO INTEGRAL
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2024 Y 2023
+(Expresado en miles de dólares estadounidenses)
+Notas 2024 2023
+VENTAS 20 456,503 254,351
+COSTO DE VENTAS 21 (340,490) (224,133)
+COSTO DE DISTRIBUCIÓN 22 (27,016) (17,127)
+---------- ----------
+Utilidad bruta 88,997 13,091
+---------- ----------
+INGRESOS (GASTOS) OPERACIONALES
+Gastos administrativos 23 (13,312) (11,647)
+Otros ingresos 25 6,332 2,200
+Otros gastos 25 (9,134) (4,849)
+---------- ----------
+Utilidad (pérdida) operativa 72,883 (1,205)
+---------- ----------
+OTROS INGRESOS (GASTOS)
+Ingresos financieros 26 2,526 12,720
+Gastos financieros 26 (27,438) (25,735)
+Pérdida neta por diferencia de cambio (124) (158)
+---------- ----------
+Utilidad (pérdida) antes del impuesto a la renta 47,847 (14,378)
+---------- ----------
+Impuesto a la renta 32 (c) (17,805) 2,769
+---------- ----------
+Utilidad (pérdida) neta 30,042 (11,609)
+======= =======
+Número de acciones en circularización (en miles) 30 295,536 295,536
+Utilidad (pérdida) por acción básica y diluida (en
+US$) 30 0.102 (0.039)
+Las notas a los estados financieros adjuntas forman parte de este estado.
+
+=== PAGINA PDF 9 ===
+PESQUERA EXALMAR S.A.A.
+ESTADO DE OTRO RESULTADO INTEGRAL
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2024 Y 2023
+(Expresado en miles de dólares estadounidenses)
+Notas 2024 2023
+Utilidad (pérdida) neta 30,042 (11,609)
+--------- ---------
+Otros resultados integrales a ser reclasificados a
+resultados en períodos posteriores
+Resultados netos no realizados de instrumentos
+financieros derivados de cobertura 14 (e) 1,841 (9,803)
+Revaluación de terrenos 10 (b) 272 804
+Efecto en el impuesto a la renta diferido de
+valorización de instrumentos financieros derivados
+de cobertura y de revaluación de terrenos 18 (623) 2,655
+--------- ---------
+Otros resultados integrales a ser reclasificados a
+resultados en períodos posteriores, neto de impuesto
+a la renta diferido 1,490 (6,344)
+--------- ---------
+Total resultado integral 31,532 (17,953)
+====== ======
+Las notas a los estados financieros adjuntas forman parte de este estado
+
+=== PAGINA PDF 10 ===
+PESQUERA EXALMAR S.A.A.
+ESTADO DE CAMBIOS EN EL PATRIMONIO
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2024 Y 2023
+(Expresado en miles de dólares estadounidenses)
+NÚMERO
+DE
+ACCIONES
+CAPITAL
+EMITIDO
+PRIMA POR
+EMISIÓN DE
+ACCIONES
+RESERVA
+LEGAL
+EXCEDENTE DE
+REVALUACIÓN
+RESULTADOS
+NETOS NO
+REALIZADOS DE
+INSTRUMENTOS
+FINANCIEROS
+DERIVADOS DE
+COBERTURA
+RESULTADOS
+ACUMULADOS
+TOTAL
+PATRIMONIO
+(Nota 14 (e))
+SALDOS AL 31 DE DICIEMBRE DE 2022 295,536 89,772 69,721 3,609 40,316 6,911 85,467 295,796
+Pérdida neta - - - - - - (11,609) (11,609)
+Otros resultados integrales del año - - - - 567 (6,911) - (6,344)
+Distribución de dividendos, Nota 19 (e) - - - - - - (9,600) (9,600)
+---------- --------- --------- ------- --------- ------- --------- ----------
+SALDOS AL 31 DE DICIEMBRE DE 2023 295,536 89,772 69,721 3,609 40,883 - 64,258 268,243
+Utilidad neta - - - - - - 30,042 30,042
+Otros resultados integrales del año - - - - 192 1,298 - 1,490
+---------- --------- --------- ------- --------- ------- --------- ----------
+SALDOS AL 31 DE DICIEMBRE DE 2024 295,536 89,772 69,721 3,609 41,075 1,298 94,300 299,775
+======= ====== ====== ===== ====== ===== ====== =======
+Las notas a los estados financieros adjuntas forman parte de este estado.
+
+=== PAGINA PDF 11 ===
+PESQUERA EXALMAR S.A.A.
+ESTADO DE FLUJOS DE EFECTIVO
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2024 Y 2023
+(Expresado en miles de dólares estadounidenses)
+Notas 2024 2023
+FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE OPERACIÓN
+Cobranza por ventas a clientes 461,907 259,171
+Otros cobros relativos a la actividad 8,566 15,747
+Menos:
+Pago a proveedores (334,009) (208,653)
+Pago al personal (42,967) (44,804)
+Pago de otros impuestos (19,692) (14,988)
+Pago de intereses y comisiones bancarias (27,438) (25,735)
+Recupero de IGV 41,514 13,650
+Otros pagos relativos a la actividad (48,375) (18,657)
+---------- ----------
+EFECTIVO NETO PROVENIENTE DE(APLICADO A)LAS
+ACTIVIDADES DE OPERACIÓN 39,506 (24,269)
+---------- ----------
+FLUJOS DE EFECTIVO DE LASACTIVIDADES DE
+INVERSIÓN
+Compra de inmuebles, embarcaciones, maquinaria y
+equipo 5 y 10 (15,403) (10,577)
+Compra de activos intangibles 11 (168) (216)
+---------- ----------
+EFECTIVO NETO APLICADO A LAS ACTIVIDADES DE
+INVERSIÓN (15,571) (10,793)
+---------- ----------
+FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE
+FINANCIAMIENTO
+Obtención de préstamos bancarios y obligaciones
+financieras 3 393,609 405,362
+Pago de préstamos bancarios y obligaciones financieras (397,218) (373,625)
+Pago de pasivos por arrendamientos 12 (a) (2,468) (457)
+Pago de dividendos 19 (e) - (9,600)
+---------- ----------
+EFECTIVO NETO(APLICADO A)PROVENIENTE DE LAS
+ACTIVIDADES DE FINANCIAMIENTO (6,077) 21,680
+---------- ----------
+AUMENTO NETO (DISMINUCIÓN NETA) DE EFECTIVO Y
+EQUIVALENTES DE EFECTIVO 17,858 (13,382)
+EFECTIVO Y EQUIVALENTES DE EFECTIVO AL INICIO DEL
+AÑO
+6
+3,690 17,072
+---------- ----------
+EFECTIVO Y EQUIVALENTES DE EFECTIVO AL FINAL DEL
+AÑO
+6
+21,548 3,690
+======= =======
+
+=== PAGINA PDF 12 ===
+PESQUERA EXALMAR S.A.A.
+ESTADO DE FLUJOS DE EFECTIVO
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2024 Y 2023
+(Expresado en miles de dólares estadounidenses)
+Notas 2024 2023
+FLUJOS DE EFECTIVO DE ACTIVIDADES DE OPERACIÓN
+Utilidad (pérdida) neta 30,042 (11,609)
+Más (menos) ajustes a lautilidad (pérdida) neta:
+Estimación por desvalorizaciónde existencias 9 34 -
+Recupero de estimación para pérdidas crediticias
+esperadas 8 - (1,578)
+Depreciación 10 18,980 21,226
+Amortización de intangibles 11 369 440
+Amortización de activos por derecho de uso 12 1,162 1,274
+Costo neto por retiro de activos fijos 10 2,424 745
+Costo neto por retiro de activo por derecho de uso 12 182 -
+Impuesto a la renta diferido 18 113 (2,994)
+Cargos y abonos porcambios netos en el activo y pasivo:
+Disminución de cuentas por cobrar comerciales 5,404 4,820
+Aumento de otras cuentas por cobrar (35,395) (1,129)
+(Aumento) disminución de cuentas por cobrar a
+relacionadas (237) 113
+(Aumento) disminución de existencias (30,006) 793
+Disminución(aumento) de crédito fiscal por IGV 1,797 (8,117)
+Disminución (aumento) de pago a cuenta del impuesto a
+la renta 13,561 (13,561)
+Disminución (aumento) de gastos pagados por adelantado 347 (439)
+Aumento (diminución) de cuentas por pagar comerciales 6,604 (5,434)
+Aumento (diminución) de tributos, remuneraciones y
+otras cuentas por pagar 24,618 (9,471)
+(Diminución)aumento de provisiones para contingencias (494) 661
+Aumento (disminución) de cuentas por pagar a
+relacionadas 1 (9)
+--------- ---------
+EFECTIVO NETO PROVENIENTE DE(APLICADO A)LAS
+ACTIVIDADES DE OPERACIÓN 39,506 (24,269)
+====== ======
+Las notas a los estados financieros adjuntas forman parte de este estado.
+
+=== PAGINA PDF 13 ===
+PESQUERA EXALMAR S.A.A.
+NOTAS A LOS ESTADOS FINANCIEROS
+AL 31 DE DICIEMBRE DE2024 Y 2023
+1. IDENTIFICACIÓN, ACTIVIDAD ECONÓMICA Y OTROS ASUNTOS
+(a) Identificación
+PESQUERA EXALMAR S.A.A. (en adelante la Compañía) es una subsidiaria de Caleta
+de Oro Holding S.A. domiciliada en Perú (entidad controladora principal), la cual
+posee el 66.58 por ciento de las acciones de su capital social emitido. La Compañía
+fue constituida en la ciudad de Lima el 25 de noviembre de 1997.
+Su domicilio legal, así como sus oficinas administrativas se ubican en Avenida Victor
+Andrés Belaunde 214, San Isidro, Lima, Perú.
+(b) Actividad económica
+La Compañía se dedica a la actividad pesquera, que incluye la extracción de
+recursos hidrobiológicos y su transformación en harina y aceite de pescado y a la
+venta directa de pescado fresco y congelado; así como a la comercialización de
+estos productos tanto en el mercado nacional como en el exterior y al
+almacenamiento de productos congelados. Para este fin, al 31 de diciembre de
+2024, la Compañía cuenta con una flota de 22 embarcaciones pesqueras de cerco y 5
+plantas industriales de harina y aceite de pescado (24 embarcaciones pesqueras de
+cerco y 5 plantas industriales de harina y aceite de pescado, al 31 de diciembre de
+2023). Las plantas industriales de harina y aceite de pescado se encuentran ubicadas
+en Chicama, Chimbote, Huacho, Callao y Tambo de Mora. Por otro lado, para la
+elaboración de pescado congelado, la Compañía cuenta con dos plantas ubicadas en
+Paita y Tambo de Mora.
+(c) Aprobación de los estados financieros
+Los estados financieros del año 2024 han sido autorizados por la Gerencia y el
+directorio de la Compañía el 21 de enero de 2025 y serán presentados para su
+aprobación por la Junta General de Accionistas que se llevará a cabo dentro de los
+plazos establecidos por Ley.  En opinión de la Gerencia, los estados financieros
+adjuntos serán aprobados por la Junta General de Accionistas sin modificaciones.
+Los correspondientes al año 2023 fueron aprobados por la Junta General de
+Accionistas realizada el 1 de abril de 2024.
+(d) Marco regulatorio
+Las actividades de la Compañía están reguladas por el Decreto Ley N°25977, Ley
+General de Pesca, y su reglamento, Decreto Supremo N°012-2001-PE. La
+administración y control de la actividad pesquera en el ámbito nacional es asumida
+por el Ministerio de la Producción- PRODUCE, entidad que además de supervisar y
+fiscalizar las actividades de pesca y su procesamiento, organiza y centraliza la
+información estadística y económica propias de la actividad pesquera de acuerdo
+con las normas antes citadas. Sobre la base de informes técnicos emitidos por el
+Instituto del Mar del Perú - IMARPE, establece las vedas biológicas de anchoveta y
+
+=== PAGINA PDF 14 ===
+- 2 -
+sardina para preservar los recursos. Los períodos de veda que afectaron a la
+Compañía en el año 2024 fueron de 231 días (244 días en el año 2023).
+Con fechas 28 de junio y 12 de diciembre de 2008, el Gobierno Peruano publicó el
+Decreto Legislativo N°1084 y los Decretos Supremos N°021-2008-PRODUCE y N°009-
+2009-PRODUCE, por el cual se establece la Ley sobre Límites Máximos de Captura
+por Embarcación (LMCE) y su reglamento, respectivamente. Mediante estos
+dispositivos, el Gobierno Peruano cambió, a partir del año 2009, el modelo de pesca
+de consumo humano indirecto, llevado a través de cuotas máximas de captura
+anuales por el de cuotas individuales para la pesca.
+Asimismo, en diciembre de 2015, la Compañía suscribió un contrato de garantía de
+permanencia en el régimen de LMCE con el Ministerio de la Producción por sus
+embarcaciones pesqueras, el cual tiene una vigencia de 10 años, plazo que la
+Gerencia estima que sea renovado. En virtud de dichos contratos, la Compañía debe
+respetar las condiciones, deberes y obligaciones de la ley sobre LMCE, la Ley
+General de Pesca y su Reglamento, y normas complementarias.
+En opinión de la Gerencia y de sus asesores legales, en los años 2024 y 2023, la
+Compañía ha cumplido con las condiciones de los contratos indicados.
+La LMCE también establece ciertos lineamientos para el desarrollo de las actividades
+pesqueras. Dentro de los principales se pueden mencionar los siguientes:
+- El cálculo del LMCE se realiza para cada temporada de pesca, en función al
+Porcentaje Máximo de Captura por Embarcación (PMCE) asignado a cada
+embarcación pesquera.
+- Las cantidades no extraídas en ejecución de un LMCE asignado para una
+temporada de pesca no podrán ser transferidas a ninguna otra temporada,
+extinguiéndose el derecho de la Compañía sobre los saldos no extraídos en la
+fecha de expiración de la temporada de pesca correspondiente.
+- El permiso de pesca de una embarcación pesquera no nominada; es decir, una
+embarcación pesquera no seleccionada para realizar actividades pesqueras
+durante una temporada de pesca por estar parqueada, quedará suspendido
+temporalmente durante dicha temporada, quedando dicha embarcación
+impedida de realizar actividades extractivas durante dicho período, pasando a
+pescarse la cuota (LMCE) de dicho barco dentro de la bolsa (global) de la
+Compañía.
+- Es causal de recálculo del PMCE, cuando se reduzca el PMCE asignado a la
+Compañía en virtud a que durante cuatro temporadas de pesca consecutivas
+el porcentaje no ejecutado del LMCE asignado supere el 20 por ciento en cada
+período. La reducción corresponderá al porcentaje promedio no capturado
+durante las cuatro temporadas de pesca consecutivas, debiendo ser
+prorrateado entre las embarcaciones pertenecientes a la Compañía.
+Durante los años 2024 y 2023, el PMCE total de las embarcaciones pesqueras de la
+Compañía en las zonas norte-centro y sur fue de 6.77 y 4.10 por ciento,
+respectivamente (6.77 y 4.64 por ciento, respectivamente en el año 2023), y no ha
+sufrido reducciones desde el inicio de vigencia de la LMCE.
+
+=== PAGINA PDF 15 ===
+- 3 -
+(e) Operaciones
+De acuerdo con la información elaborada por Gerencia, los principales datos
+operativos de la Compañía se presentan a continuación:
+(i) Consumo humano indirecto
+2024 2023
+Producción
+Días de producción 135 121
+Días de paralización 231 244
+Costos incurridos en periodo de no
+producción imputados al costo del producto
+en US$ (000) 5,272 32,206
+Anchoveta procesada en miles de TM 831 396
+Anchoveta procesada con captura propia en
+miles de TM 284 139
+Anchoveta procesada con compra de terceros
+en miles de TM 547 257
+Harina producida en miles de TM 200 93
+Aceite producido en miles de TM 28 2
+Vetas al exterior en % 91 92
+Ventas locales en % 9 8
+Zona norte-centro
+Cuota asignada en % 6.77 6.77
+Primera temporada –
+Cuota país en miles de TM 2,475 1,091
+Fecha de inicio 16/04/2024 03/06/2023
+Fecha de fin 15/06/2024 08/06/2023
+Segunda temporada -
+Cuota país en miles de TM 2,510 1,682
+Fecha de inicio 1/11/2024 21/10/2023
+Fecha de fin 21/01/2025 13/01/2024
+Zona sur
+Cuota asignada en % 4.10 4.64
+Primera temporada -
+Cuota país en miles de TM 251 337
+Fecha de inicio 4/01/2024 04/01/2023
+Fecha de fin 30/06/2024 30/06/2023
+Segunda temporada -
+Cuota país en millones de TM 251 -
+Fecha de inicio 1/07/2024 -
+Fecha de fin 31/12/2024 -
+
+=== PAGINA PDF 16 ===
+- 4 -
+(ii) Consumo humano directo
+2024 2023
+Captura propia en miles de TM
+Jurel y Caballa captura propia en miles de
+TM 12,683 24,311
+Materia prima de terceros en miles de TM
+Jurel y Caballa captura de terceros en miles
+de TM 49,475 33,819
+Bonito captura de terceros en miles de TM 8,194 -
+Perico captura de terceros en miles de TM 179 -
+Anchoveta captura de terceros en miles de
+TM 610 -
+Pota captura de terceros en miles de TM 636 1,771
+Pulpo captura de terceros en miles de TM 32 -
+Producción en miles de TM
+Jurel y Caballa 58,094 50,585
+Ventas en %
+Locales 17 24
+Exterior 83 76
+(f) Reglamento ambiental
+La Ley General de Pesca requiere que se realice un Estudio de Impacto Ambiental
+(EIA) previamente al inicio de cualquier actividad pesquera.
+Bajo el Decreto Ley N° 25977 - Ley General de Pesca y su Reglamento, según el
+Decreto Supremo N° 01-94-PE, las entidades pesqueras deben adoptar las medidas
+para la protección y preservación del medio ambiente necesarias para prevenir y
+reducir los daños de contaminación y riesgos en los ambientes terrestre, marino y
+atmosférico.
+Las operaciones de la Compañía se realizan protegiendo la salud pública y el medio
+ambiente, y cumplen con todas las regulaciones aplicables.
+En el año 2024, la Compañía ha ejecutado obras en sus distintas sedes relacionadas
+con la protección del medio ambiente por un monto de US$ 1,175,000 (US$ 831,000
+en el año 2023), tales como la instalación de un sistema de redes de gas natural, un
+sistema de tratamiento de agua y recuperación de sólidos, salas para el tratamiento
+físico del agua bombeada, adquisición de hornos, bombas y secadores de vapor.
+Estos desembolsos se reconocen como parte del rubro Inmuebles, embarcaciones,
+maquinaria y equipo, neto, ya que son necesarios para cumplir con los objetivos
+operativos y de producción, así como los estándares requeridos para la protección
+del medio ambiente. Al 31 de diciembre de 2024 y 2023, no existen pasivos ni
+obligaciones ambientales.
+2. POLÍTICAS CONTABLES QUE SIGUE LA COMPAÑÍA
+Las principales políticas contables adoptadas por la Compañía en la preparación y
+presentación de sus estados financieros se señalan a continuación. Han sido preparados de
+acuerdo con las Normas Internacionales de Información Financiera (en adelante NIIF)
+emitidas por el International Accounting Standards Board, bajo principios y criterios
+aplicados consistentemente por los años presentados.
+
+=== PAGINA PDF 17 ===
+- 5 -
+(a) Bases de preparación
+(i) Declaración de cumplimiento y bases de preparación y presentación
+La Compañía ha preparado estos estados financieros en cumplimiento del
+Reglamento de Información Financiera de la Superintendencia del Mercado de
+Valores (SMV).
+En la preparación de los estados financieros adjuntos, la Gerencia de la
+Compañía ha cumplido con todas las Normas Internacionales de Información
+Financiera emitidas por el International Accounting Standards Board (en
+adelante Normas de Contabilidad NIIF) vigentes al 31 de diciembre de 2024.
+(ii) La información contenida en estos estados financieros es responsabilidad de la
+Gerencia de la Compañía, que manifiesta expresamente haber cumplido con
+la aplicación de las NIIF en su totalidad, sin restricciones ni reservas.
+(iii) Los estados financieros han sido preparados en términos de costos históricos,
+a partir de los registros de contabilidad mantenidos por la Compañía, excepto
+por los terrenos y los instrumentos financieros derivados que son medidos al
+valor razonable.
+(iv) Los estados financieros adjuntos se presentan en dólares estadounidenses
+(moneda funcional y de presentación), y todas las cifras han sido redondeadas
+a miles, excepto cuando se ha indicado lo contrario.
+(b) Modificaciones y nuevas NIIF emitidas que son efectivas a la fecha de los estados
+financieros
+Las modificaciones y nuevas NIIF que entraron en vigencia en el año 2024 y aplican a
+la Compañía se resumen a continuación:
+· Acuerdos de Financiación de Proveedores- Modificaciones a la NIC 7 y la NIIF 7
+Las modificaciones a la NIC 7 “Estado de Flujos de Efectivo” y a la NIIF 7
+“Instrumentos Financieros: Información a Revelar” aclaran las características de
+los acuerdos de financiación de proveedores y requieren una revelación adicional
+de dichos acuerdos.Los requisitos de revelación en las modificaciones tienen
+como objetivo ayudar a los usuarios de los estados financieros a comprender los
+efectos de los acuerdos de financiación de proveedores sobre los pasivos, los
+flujos de efectivo y la exposición al riesgo de liquidez de una entidad.
+· Clasificación de Pasivos como Corrientes o No Corrientes y Pasivos No
+Corrientes con Condiciones Pactadas - Modificaciones a la NIC 1
+En enero de 2020 y octubre de 2022, el IASB emitió las modificaciones del
+párrafo 69 al 76 de la NIC 1 “Presentación de Estados Financieros” para
+especificar los requisitos para clasificar los pasivos como corrientes o no
+corrientes. Las modificaciones aclaran los siguientes puntos:
+- El significado del derecho a diferir la liquidación de un pasivo.
+- Que el derecho a diferir la liquidación del pasivo debe existir al cierre
+del periodo.
+- Que la clasificación no se ve afectada por la probabilidad de que la
+entidad ejerza su derecho a diferir la liquidación del pasivo.
+
+=== PAGINA PDF 18 ===
+- 6 -
+- Que únicamente si algún derivado implícito en un pasivo convertible
+representa en sí un instrumento de patrimonio, los términos del pasivo
+no afectarían su clasificación.
+Además, se introdujo un requisito de revelación cuando un pasivo derivado de
+un contrato de préstamo se clasifica como no corriente y el derecho de la
+entidad a diferir la liquidación está sujeto al cumplimiento de compromisos
+futuros dentro de un periodo incluido en un plazo de doce meses.
+Las modificaciones no tuvieron impacto en los estados financieros de la
+Compañía.
+· Pasivo por Arrendamiento en una Venta con Arrendamiento Posterior -
+Modificaciones a la NIIF 16
+En setiembre de 2022, el IASB emitió modificaciones a la NIIF 16
+“Arrendamientos” con el fin de especificar los requisitos que un vendedor-
+arrendatario utiliza en la medición del pasivo por arrendamiento que surge en
+una transacción de venta y arrendamiento posterior, para garantizar que el
+vendedor-arrendatario no reconozca ningún monto por la ganancia o pérdida
+que esté relacionada con el derecho de uso que mantiene.
+Las modificaciones no tuvieron impacto en los estados financieros de la
+Compañía.
+La Compañía decidió adoptar en el momento de su vigencia y no adoptar
+anticipadamente, las modificaciones y nuevas NIIF que fueron emitidas por el IASB y
+que serán efectivas a partir del 1 de enero de 2025 o en fecha posterior (ver Nota 33).
+(c) Estimaciones y juicios contables críticos
+La preparación de los estados financieros requiere que la Gerencia de la Compañía
+lleve a cabo estimaciones y juicios para la determinación de los saldos de los activos
+y pasivos, de ingresos y gastos, el monto de contingencias y la exposición de eventos
+significativos en notas a los estados financieros.
+El uso de estimaciones razonables es una parte esencial de la preparación de
+estados financieros y no menoscaba su fiabilidad. Las estimaciones y juicios
+determinados por la Gerencia son continuamente evaluados y están basados en la
+experiencia histórica y toda información que sea considerada relevante. Si estas
+estimaciones y juicios variaran en el futuro como resultado de cambios en las
+premisas que las sustentaron, los correspondientes saldos de los estados financieros
+serán corregidos en la fecha en la que el cambio en las estimaciones y juicios se
+produzca.
+Las estimaciones consideradas por la Gerencia en relación con los estados
+financieros adjuntos están referidas a:
+- Las pérdidas crediticias esperadas de las cuentas por cobrar,
+- La desvalorización de existencias,
+- La vida útil y valor recuperable de los inmuebles, embarcaciones, maquinaria
+y equipo e intangibles,
+- El deterioro del valor de activos no financieros,
+- El deterioro del crédito mercantil, estimación de los flujos de efectivo futuros
+y determinación de la tasa de descuento,
+- La determinación del impuesto a la renta diferido,
+
+=== PAGINA PDF 19 ===
+- 7 -
+- La determinación de la tasa incremental de endeudamiento utilizada para
+medir los pasivos por arrendamiento,
+- Procedimientos judiciales – estimaciones de reclamos y procesos legales,
+- La revaluación de los terrenos,
+- La medición del valor razonable de activos y pasivos financieros,
+- Costos estimados en periodos de no producción.
+(d) Transacciones en moneda extranjera
+- Moneda funcional y moneda de presentación
+Para expresar sus estados financieros, la Compañía ha determinado su moneda
+funcional sobre la base del entorno económico principal donde opera, el cual
+influye fundamentalmente en la determinación de los precios de los bienes
+que vende y los servicios que presta y en los costos que se incurren para
+producir estos bienes y prestar estos servicios.
+Los estados financieros se presentan en dólares estadounidenses, que es, a su
+vez, la moneda funcional y la moneda de presentación de la Compañía. Todas
+las transacciones son medidas en la moneda funcional y por el contrario,
+moneda extranjera es toda aquella distinta de la funcional.
+- Transacciones y saldos en moneda extranjera
+Las operaciones en moneda extranjera se registran en dólares
+estadounidenses aplicando los tipos de cambio del día de la transacción. Los
+saldos al 31 de diciembre de 2024 y 2023 están valuados al tipo de cambio de
+cierre del año. Las diferencias de cambio que se generan entre el tipo de
+cambio registrado al inicio de una operación y el tipo de cambio de
+liquidación de la operación o el tipo de cambio de cierre del año se muestran
+en el estado de resultado integral.
+(e) Clasificación y medición de instrumentos financieros
+Los instrumentos financieros son contratos que dan lugar simultáneamente a un
+activo financiero en una entidad y a un pasivo financiero o un instrumento de capital
+en otra. En el caso de la Compañía, los instrumentos financieros corresponden a los
+instrumentos primarios tales como efectivo y equivalentes de efectivo, cuentas por
+cobrar y cuentas por pagar.
+Activos financieros -
+Los activos financieros en el reconocimiento inicial se miden por su valor razonable
+más los costos de transacción que sean directamente atribuibles a la adquisición o
+emisión del activo, excepto por las cuentas por cobrar comerciales cuya medición es
+en base al precio de transacción (de acuerdo con la Norma Internacional de
+Información Financiera NIIF 15 Ingresos de Actividades Ordinarias Procedentes de
+Contratos con Clientes) siempre que no exista un componente financiero
+significativo.
+Una entidad clasifica los activos financieros según se midan posteriormente a costo
+amortizado, a valor razonable con cambios en otros resultados integrales y a valor
+razonable con cambios en resultados. La clasificación depende del modo en que una
+entidad gestiona sus activos financieros de acuerdo con su modelo de negocio y las
+características de los flujos de efectivo contractuales que espera recibir.
+
+=== PAGINA PDF 20 ===
+- 8 -
+Para la medición posterior de los activos financieros de la Compañía le son
+aplicables los acápites siguientes:
+(i) Activos financieros a costo amortizado (instrumentos de deuda)
+Los activos financieros de la Compañía medidos a costo amortizado
+corresponden a las cuentas por cobrar comerciales, a relacionadas y otras
+cuentas por cobrar, las cuales son a corto plazo y largo plazo y su valor en
+libros es similar a su costo amortizado.
+La Compañía mide los activos financieros a costo amortizado cuando cumple n
+con las siguientes condiciones:
+ü El objetivo del modelo de negocio es mantener un activo financiero con
+el fin de cobrar flujos de efectivo contractuales y,
+ü Según las condiciones del contrato, se reciben flujos de efectivo en
+fechas específicas que constituyen exclusivamente pagos del principal
+más intereses sobre dicho principal.
+La determinación del costo amortizado para estos activos financieros se
+realiza bajo el método de la tasa de interés efectiva. Estos activos financieros
+están sujetos a deterioro. Las ganancias y pérdidas se reconocen en el estado
+de resultado integral cuando el activo es dado de baja en cuentas, se modifica
+o se deteriora.
+(ii) Activos financieros a valor razonable con cambios en resultados
+La Compañía mide los activos financieros a valor razonable con cambios en
+resultados a menos que no puedan ser medidos a costo amortizado o a valor
+razonable con cambios en otro resultado integral.
+Los activos financieros a valor razonable con cambios en resultados incluyen
+el efectivo y equivalentes de efectivo.
+El efectivo es un activo financiero porque representa un medio de pago y por
+ello es la base sobre la que se miden y reconocen todas las transacciones en
+los estados financieros. Los equivalentes de efectivo son inversiones
+(depósitos a plazos altamente líquidos a corto plazo).
+Los cambios en el valor razonable de estos activos y el rendimiento ganado
+son registrados en el estado de resultado integral.
+Pasivos financieros -
+Los pasivos financieros en el reconocimiento inicial se miden por su valor razonable
+menos los costos de transacción que sean directamente atribuibles a la adquisición
+del pasivo.
+Una entidad clasifica los pasivos financieros y los mide ya sea a costo amortizado o a
+valor razonable con cambios en resultados.
+Los pasivos financieros de la Compañía medidos a costo amortizado corresponden a
+obligaciones financieras, préstamos bancarios, cuentas por pagar comerciales,
+cuentas por pagar a relacionadas, otras cuentas por pagar y pasivo por
+arrendamiento. Cuando estos pasivos financieros son de corto y largo plazo, su valor
+en libros es similar a su costo amortizado.
+
+=== PAGINA PDF 21 ===
+- 9 -
+La determinación del costo amortizado de los pasivos financieros se realiza bajo el
+método de la tasa de interés efectiva. Las ganancias y pérdidas se reconocen en el
+estado de resultado integral.
+La Compañía no posee pasivos financieros a valor razonable con cambios en
+resultados.
+(f) Compensación de activos y pasivos financieros
+Los activos y pasivos financieros se compensan cuando se tiene el derecho legal de
+compensarlos y la Gerencia de la Compañía tiene la intención de cancelarlos sobre
+una base neta o de realizar el activo y cancelar el pasivo simultáneamente.
+(g) Baja de activos y pasivos financieros
+Activos financieros -
+Un activo financiero es dado de baja cuando: (i) los derechos de recibir flujos de
+efectivo del activo han terminado, (ii) la Compañía ha transferido sus derechos de
+recibir flujos de efectivo del activo o ha asumido una obligación de pagar la
+totalidad de los flujos de efectivo recibidos inmediatamente a una tercera parte
+bajo un acuerdo de traspaso y (iii) la Compañía ha transferido sustancialmente todos
+los riesgos y beneficios del activo o, de no haber transferido ni retenido
+sustancialmente todos los riesgos y beneficios del activo, ha transferido su control.
+Pasivos financieros -
+Un pasivo financiero es dado de baja cuando la obligación de pago se termina, se
+cancela o expira.
+Cuando un pasivo financiero existente es reemplazado por otro del mismo
+prestatario en condiciones significativamente diferentes, o las condiciones son
+modificadas en forma importante, dicho reemplazo o modificación se trata como
+una baja del pasivo original, se reconoce el nuevo pasivo y la diferencia entre ambos
+se refleja en los resultados del periodo en los rubros de ingresos y gastos financieros
+según corresponda.
+(h) Instrumentos financieros derivados y contabilidad de cobertura
+La Compañía utiliza instrumentos financieros derivados, tales como swaps de tasas
+de interés, para cubrir sus riesgos de tasas de interés. Dichos instrumentos
+financieros derivados se reconocen inicialmente a su valor razonable en la fecha en
+que se realiza un contrato de derivados y posteriormente se vuelven a medir a su
+valor razonable. Los derivados se contabilizan como activos financieros cuando el
+valor razonable es positivo y como pasivos financieros cuando el valor razonable es
+negativo.
+Para fines de contabilidad de coberturas, las coberturas se clasifican en:
+- Coberturas de valor razonable cuando cubren la exposición a cambios en el
+valor razonable de un activo o pasivo reconocido o un compromiso en firme no
+reconocido (compromiso en firme, según la NIIF 9 Instrumentos financieros, se
+define como un acuerdo obligatorio para intercambiar una determinada
+cantidad de activos a un precio determinado, en una fecha o fechas futuras
+prefijadas).
+
+=== PAGINA PDF 22 ===
+- 10 -
+- Coberturas de flujos de efectivo cuando cubren la exposición a la variabilidad
+en los flujos de efectivo que es atribuible a un riesgo particular asociado con
+un activo o pasivo reconocido o una transacción pronosticada altamente
+probable o el riesgo de moneda extranjera en un compromiso en firme no
+reconocido.
+- Coberturas de una inversión neta en una operación en el extranjero.
+Al inicio de una relación de cobertura, la Compañía designa y documenta
+formalmente la relación de cobertura a la que desea aplicar la contabilidad de
+cobertura y el objetivo y la estrategia de gestión de riesgos para emprender la
+cobertura.
+La documentación incluye identificación del instrumento de cobertura, la partida
+cubierta, la naturaleza del riesgo cubierto y cómo la Compañía evaluará si la
+relación de cobertura cumple con los requisitos de efectividad de cobertura
+(incluyendo el análisis de las fuentes de ineficacia de la cobertura y cómo se
+determina la relación de cobertura). Una relación de cobertura califica para la
+contabilidad de cobertura si cumple con todos los requisitos de eficacia siguientes:
+- Existe una "relación económica" entre la partida cubierta y el instrumento de
+cobertura.
+- El efecto del riesgo de crédito no "domina los cambios de valor" que resultan
+de esa relación económica.
+- La razón (ratio) de la relación de cobertura es la misma que la resultante de
+la cantidad de la partida cubierta que la Compañía realmente cubre y la
+cantidad del instrumento de cobertura que la Compañía realmente utiliza
+para cubrir esa cantidad de partida cubierta.
+Las coberturas que cumplen con todos los criterios de calificación para la
+contabilidad de coberturas se contabilizan como se describe a continuación:
+(i) Coberturas de valor razonable
+El cambio en el valor razonable de un instrumento de cobertura se reconoce
+en el estado de resultado integral como otros gastos. El cambio en el valor
+razonable de la partida cubierta atribuible al riesgo cubierto se registra como
+parte del valor en libros de la partida cubierta y también se reconoce en el
+estado de resultado integral como otros gastos.
+Para las coberturas de valor razonable relacionadas con elementos
+contabilizados al costo amortizado, cualquier ajuste al valor en libros se
+amortiza a través de resultados durante el plazo remanente de la cobertura
+utilizando el método de la tasa de interés efectiva. La amortización de la tasa
+de interés efectiva puede comenzar tan pronto como exista un ajuste y, a más
+tardar, cuando la partida cubierta deje de ajustarse por los cambios en su
+valor razonable atribuibles al riesgo que se está cubriendo.
+Si la partida cubierta se da de baja en cuentas, el valor razonable no
+amortizado se reconoce inmediatamente en resultados.
+Cuando un compromiso en firme no reconocido se designa como una partida
+cubierta, el cambio acumulado posterior en el valor razonable del
+compromiso en firme atribuible al riesgo cubierto se reconoce como un activo
+o pasivo con una ganancia o pérdida correspondiente reconocida en
+resultados.
+
+=== PAGINA PDF 23 ===
+- 11 -
+(ii) Coberturas de flujo de efectivo
+La porción efectiva de la ganancia o pérdida en el instrumento de cobertura
+se reconoce en otros resultados integrales en la reserva de cobertura de flujo
+de efectivo, mientras que cualquier porción inefectiva se reconoce
+inmediatamente en el estado de resultado integral. La reserva de cobertura
+de flujo de efectivo se ajusta al menor de la ganancia o pérdida acumulada en
+el instrumento de cobertura y el cambio acumulativo en el valor razonable de
+la partida cubierta.
+La Compañía utiliza contratos de divisas a plazo (Swap) como coberturas de su
+exposición al riesgo de tipo de cambio en transacciones pronosticadas y
+compromisos en firme. La porción inefectiva relacionada con contratos de
+moneda extranjera se reconoce en otros gastos. Ver Nota de ingresos y gastos
+financieros.
+Los importes acumulados en otros resultados integrales se contabilizan,
+dependiendo de la naturaleza de la transacción cubierta subyacente. Si la
+transacción cubierta posteriormente resulta en el reconocimiento de una
+partida no financiera, el importe acumulado en el patrimonio se elimina del
+componente separado del patrimonio y se incluye en el costo inicial u otro
+importe en libros del activo o pasivo cubierto. Este no es un ajuste por
+reclasificación y no será reconocido en otros resultados integrales por el
+periodo. Esto también se aplica cuando la transacción pronosticada cubierta
+de un activo no financiero o un pasivo no financiero posteriormente se
+convierte en un compromiso en firme para el cual se aplica la contabilidad de
+coberturas del valor razonable.
+Para cualquier otra cobertura de flujos de efectivo, el importe acumulado en
+otros resultados integrales se reclasifica a resultados como un ajuste por
+reclasificación en el mismo periodo o periodos durante los cuales los flujos de
+efectivo cubiertos afectan los resultados.
+Si se interrumpe la contabilidad de cobertura de flujo de efectivo, el monto
+que se ha acumulado en otros resultados integrales debe permanecer en otros
+resultados integrales acumulado si aún se espera que ocurran los flujos de
+efectivo futuros cubiertos. De lo contrario, el monto se reclasificará
+inmediatamente a resultados como un ajuste por reclasificación. Después de
+la interrupción, una vez que se produce el flujo de efectivo cubierto,
+cualquier importe remanente en otros resultados integrales acumulado debe
+contabilizarse según la naturaleza de la transacción subyacente como se
+describe anteriormente.
+(iii) Coberturas de una inversión neta
+Las coberturas de una inversión neta en una operación en el extranjero,
+incluida una cobertura de una partida monetaria que se contabiliza como
+parte de la inversión neta, se contabilizan de forma similar a las coberturas
+de flujo de efectivo. Las ganancias o pérdidas en el instrumento de cobertura
+relacionadas con la porción efectiva de la cobertura se reconocen como otros
+resultados integrales, mientras que cualquier ganancia o pérdida relacionada
+con la porción inefectiva se reconoce en el estado de resultado integral. En la
+venta de la operación en el extranjero, el valor acumulado de tales ganancias
+o pérdidas registradas en el patrimonio se transfiere al estado de resultado
+integral.
+
+=== PAGINA PDF 24 ===
+- 12 -
+(i) Deterioro de activos financieros
+La Compañía reconoce una estimación para pérdidas crediticias esperadas para
+todos los instrumentos de deuda que no se mantienen a valor razonable con cambios
+en resultados. Las pérdidas crediticias esperadas se basan en la diferencia entre los
+flujos de efectivo contractuales y todos los flujos de efectivo que la Compañía
+espera recibir, descontados a la tasa de interés efectiva original. Los flujos de
+efectivo esperados incluirán los flujos de efectivo procedentes de la venta de
+garantías u otras mejoras crediticias que sean parte integrante de los términos
+contractuales.
+La Compañía determina la estimación para pérdidas crediticias esperadas bajo el
+enfoque simplificado para las cuentas por cobrar comerciales y el enfoque general
+para las otras cuentas por cobrar.
+(i) La Compañía aplica un enfoque simplificado al calcular las pérdidas crediticias
+esperadas para las cuentas por cobrar comerciales. Por lo tanto, la Compañía
+no realiza un seguimiento de los cambios en el riesgo de crédito, sino que
+reconoce una provisión basada en la pérdida crediticia esperada de por vida
+en cada fecha de presentación.
+La Compañía ha establecido una matriz de provisiones que se basa en su
+experiencia histórica de pérdidas crediticias, ajustada por factores
+prospectivos específicos para los deudores y el entorno económico.
+(ii) Para las otras cuentas por cobrar y cuentas por cobrar a relacionadas, la
+Compañía aplica el enfoque general. El enfoque general definido en la NIIF 9
+“Instrumentos Financieros” se basa en el análisis de la calidad crediticia del
+deudor; es decir, exige estimar las pérdidas crediticias esperadas antes de
+que exista evidencia objetiva de deterioro.
+El enfoque general se estructura a través de fases que se basan en el grado de
+riesgo crediticio y en la circunstancia que se haya producido un incremento
+significativo del mismo.
+Fase 1, para aquellas exposiciones crediticias para las cuales en la fecha de
+presentación no ha habido un aumento significativo en el riesgo de crédito,
+las pérdidas crediticias esperadas se reconocen para eventos de
+incumplimiento que son posibles dentro de los próximos 12 meses (una
+pérdida crediticia esperada de 12 meses).
+Fase 2, para aquellas exposiciones crediticias para las cuales ha habido un
+aumento significativo en el riesgo de crédito desde el reconocimiento inicial,
+se requiere una estimación por pérdida crediticia esperada durante la vida
+restante de la exposición sobre la base de intereses brutos,
+independientemente del momento del incumplimiento (una pérdida crediticia
+esperada de por vida).
+Fase 3, para aquellas exposiciones crediticias para las cuales ha habido un
+aumento significativo en el riesgo de crédito desde el reconocimiento inicial,
+se requiere una estimación por pérdida crediticia esperada durante la vida
+restante de la exposición sobre la base de intereses netos,
+independientemente del momento del incumplimiento (una pérdida crediticia
+esperada de por vida).
+
+=== PAGINA PDF 25 ===
+- 13 -
+(j) Existencias y estimación por desvalorización
+Las existencias se registran al costo o valor neto de realización, el que resulte
+menor. El costo se determina usando el método de costo promedio, excepto en el
+caso de existencias por recibir que se determina usando el método de identificación
+específica. El valor neto de realización es el precio estimado de venta normal menos
+los costos para efectuar la venta, incluyendo los gastos de comercialización y
+distribución. Por las reducciones del valor en libros de las existencias a su valor neto
+de realización, de ser necesario, se constituye una estimación por desvalorización
+de existencias con cargo a resultados del año en el que ocurren tales reducciones.
+Los descuentos comerciales, las rebajas obtenidas y otras partidas similares (ajustes
+de precios) se deducen en la determinación del precio de adquisición.
+La estimación por desvalorización de existencias es calculada sobre la base de un
+análisis específico que realiza periódicamente la Gerencia considerando la
+obsolescencia y lento movimiento de las existencias; y es registrada con cargo a
+resultados del año.
+Las existencias se contabilizan de la siguiente manera:
+Productos terminados y en proceso -
+Se registran al costo de producción que incluye el costo de las materias primas,
+suministros, mano de obra directa, otros costos directos, gastos generales de
+fabricación y una proporción de los costos fijos y variables de fabricación basada en
+la capacidad normal de operación; excluyendo los costos de financiamiento .
+Posteriormente, se sigue el método del costo promedio ponderado mensual.
+La capacidad normal se define como la capacidad de extracción y producción en
+cada una de las dos temporadas de pesca definidas en el año, en base a la cuota de
+pesca de anchoveta asignada a la Compañía por el ente regulador (PRODUCE).
+El proceso de distribución de los costos indirectos fijos a los costos de
+transformación se basará en la capacidad normal de operación y teniendo en cuenta
+la pérdida de capacidad operativa previstas en la temporada de veda. Los costos
+indirectos no distribuidos se reconocerán como gasto del periodo en el que han sido
+incurridos.
+Repuestos –
+Se registran al costo de adquisición y son reconocidos como consumos de repuestos
+cuando son utilizados, reconociéndose en el rubro de costo de ventas de bienes y
+servicios del estado de resultados integrales.
+Materias primas, mercaderías, envases y embalajes y suministros diversos -
+Se registran al costo de adquisición, siguiendo el método del costo promedio.
+Existencias por recibir –
+Las existencias por recibir se refieren a aquellas adquisiciones de materiales y
+suministros que a la fecha de cierre aún no tienen ingresos al almacén. Se registran
+al costo específico de adquisición.
+
+=== PAGINA PDF 26 ===
+- 14 -
+La estimación por desvalorización es determinada en función a un análisis efectuado
+sobre las condiciones y la rotación de los inventarios. La estimación se registra con
+cargo a los resultados del año en que se determina.
+(k) Inmuebles, embarcaciones, maquinaria y equipo
+El rubro Inmuebles, embarcaciones, maquinaria y equipo, excepto los terrenos, se
+presentan al costo de adquisición menos su depreciación acumulada y si las hubiera,
+el importe acumulado de las pérdidas por deterioro del valor.
+El costo histórico de adquisición incluye los desembolsos directamente atribuibles a
+la adquisición de los activos.
+Los desembolsos posteriores y renovaciones de importancia se reconocen como
+activo, cuando es probable que la Compañía obtenga beneficios económicos futuros
+derivados del mismo y su costo pueda ser valorizado con fiabilidad. El
+mantenimiento y las reparaciones menores son reconocidos como gastos según se
+incurren.
+El costo de terrenos incluye la revaluación efectuada sobre la base de tasaciones
+efectuadas por peritos independientes. Dichos activos se expresan al valor razonable
+determinado en la fecha de la tasación. El mayor valor se refleja como excedente
+de revaluación, neto del pasivo por impuesto a la renta diferido en otro resultado
+integral y en el patrimonio.
+La depreciación de los activos fijos es calculada siguiendo el método de línea recta
+sobre la base de su vida útil estimada indicadas en la Nota 10. La vida útil, los
+valores residuales y el método de depreciación de los activos se revisan
+periódicamente para asegurar que el método y el periodo de la depreciación sean
+consistentes con el patrón previsto de beneficios económicos futuros.
+Al vender o retirar los inmuebles, embarcaciones, maquinaria y equipo, la Compañía
+elimina el costo y la depreciación acumulada correspondiente. Cualquier pérdida o
+ganancia que resultase de su disposición se incluye en el estado de resultado integral.
+Los trabajos en cursose capitalizan como componentes separados. A su culminación, el
+costo de estos activos se transfiere a su categoría definitiva. Estos activos, así como los
+terrenos, no se deprecian.
+(l) Intangibles y amortización acumulada
+Los intangibles se contabilizan al costo inicial menos su amortización acumulada y
+posteriormente menos cualquier pérdida acumulada por desvalorización. En el
+reconocimiento inicial la Compañía evalúa si la vida útil de los intangibles es definida o
+indefinida.
+Los intangibles con vida útil definida se amortizan bajo el método de línea recta sobre
+la base de su vida útil estimada. El periodo y el método de amortización se revisan al
+final de cada año. Los intangibles con vida útil indefinida no seamortizan, sino que se
+evalúa anualmente la existencia de indicios de deterioro, individualmente o a nivel de
+una unidad generadora de efectivo.
+
+=== PAGINA PDF 27 ===
+- 15 -
+Un activo intangible se da de baja cuando se enajena (es decir, en la fecha en que el
+receptor obtiene el control) o cuando no se espera obtener beneficios económicos
+futuros derivados de su uso o enajenación. Cualquier ganancia o pérdida en el
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto
+procedente de la venta del activo y su importe en libros), se incluye en el estado de
+resultado integral cuando se da de baja el activo.
+Permisos de pesca y licencias de producción
+Los permisos de pesca y licencias de producción representan el derecho de pescar en el
+litoral peruano para cada una de las embarcaciones pesqueras y de procesar harina y
+aceite de pescado para cada una de las plantas pesqueras. Dichos activos no poseen
+vencimiento, razón por la cual son considerados activos intangibles de vida útil
+indefinida y nose amortizan; pero se evalúa anualmente si existe un deterioro.
+Nota 2 (n).
+Los permisos de pesca y licencias de producción se miden inicialmente al costo. El
+costo de los permisos de pesca y licencias de producción adquiridos en combinación de
+negocios es su valor razonable a la fecha de la adquisición.
+Crédito mercantil
+El crédito mercantil se mide inicialmente al costo, y corresponde al exceso de la suma
+de la contraprestación transferida y el importe reconocido por el interés no
+controlador, respecto de los activos identificables adquiridos y los pasivos asumidos en
+una combinación de negocios. Después del reconocimiento inicial, el crédito mercantil
+se mide al costo menos cualquier pérdida acumulada por deterioro del valor. A fin de
+efectuar la prueba de deterioro, el crédito mercantil adquirido en una combinación de
+negocios se asigna, a partir de la fecha de adquisición, a cada una de las unidades
+generadoras de efectivo de la Compañía que se espera serán beneficiadas con la
+combinación.
+Cuando el crédito mercantil forma parte de una unidad generadora de efectivo y parte
+de la operación de una unidad es dispuesta, el crédito mercantil asociado en la
+operación dispuesta se incluye en el valor en libros cuando se determina la ganancia o
+pérdida de la operación.
+Software
+Corresponden a licencias y costos directamente relacionados con la implementación de
+un sistema de procesamiento de información. Estos activos se presentan al costo de
+adquisición y se amortizan en diez años.
+(m) Arrendamientos
+Arrendatario
+Todos los arrendamientos en los que la Compañía participa como arrendatario sin
+opción de compra se contabilizan reconociendo un activo por derecho de uso y un
+pasivo por arrendamiento excepto por:
+ Arrendamientos de activos de bajo valor, y
+ Arrendamientos con una duración de doce meses o menos.
+
+=== PAGINA PDF 28 ===
+- 16 -
+(i) Activos por derecho de uso
+Los activos por derecho de uso se miden inicialmente por el monto del pasivo
+por arrendamiento, reducido por cualquier incentivo recibido por el
+arrendamiento y aumentado por:
+- Pagos de arrendamiento realizados al inicio del arrendamiento o antes;
+- Costos directos iniciales incurridos; y
+- El monto de cualquier provisión reconocida cuando la Compañía está
+obligada contractualmente a desmantelar, eliminar o restaurar el activo
+arrendado.
+Los activos por derecho de uso se deprecian linealmente durante el plazo
+restante del arrendamiento.
+Si la propiedad del activo arrendado se transfiere a la Compañía al final del
+plazo del arrendamiento o el costo refleja el ejercicio de una opción de
+compra, la depreciación se calcula utilizando la vida útil estimada del activo.
+La Compañía mantiene un activo por derecho de uso que corresponde al
+alquiler de bienes inmuebles que se deprecian en periodos de 3 años.
+El activo por derecho de uso se reduce periódicamente por pérdidas por
+deterioro, si las hubiera, y se ajusta por nuevas mediciones del pasivo por
+arrendamiento.
+(ii) Pasivos por arrendamiento
+El pasivo por arrendamiento se mide al valor presente de los pagos
+contractuales sobre el plazo del arrendamiento, con la tasa de descuento
+determinada por referencia a la tasa incremental de endeudamiento al
+comienzo del arrendamiento, ver Nota 12.
+Los pagos de arrendamiento variables solo se incluyen en la medición del
+pasivo por arrendamiento si dependen de un índice o tasa. En tales casos, en
+la medición inicial del pasivo por arrendamiento se asume que el elemento
+variable permanecerá sin cambios durante el plazo de arrendamiento. Los
+otros pagos de arrendamiento variables se cargan al resultado del periodo en
+el que se devengan.
+Con posterioridad a la medición inicial, el pasivo por arrendamiento aumenta
+como resultado de intereses cobrados a tasa constante sobre el saldo
+pendiente y se reducen por los pagos de arrendamiento realizados.
+Cuando la Compañía revisa su estimación del plazo de cualquier
+arrendamiento, ajusta el monto del pasivo por arrendamiento para reflejar los
+pagos a realizar durante el plazo revisado y lo descuenta a la misma tasa que
+se aplicó al inicio del arrendamiento. El valor en libros de los pasivos por
+arrendamiento se revisa de manera similar cuando el elemento variable de
+futuros pagos de arrendamiento depende de una tasa o índice.
+Cuando la Compañía renegocia los términos contractuales de un
+arrendamiento con el arrendador, la contabilización depende de la naturaleza
+de la modificación.
+
+=== PAGINA PDF 29 ===
+- 17 -
+Arrendador
+Los arrendamientos en los que la Compañía participa como arrendador y no se
+transfieren sustancialmente todos los riesgos y recompensas relacionados con la
+propiedad de los activos, se clasifican como arrendamientos operativos. Los ingresos
+se contabilizan linealmente sobre el plazo de arrendamiento y los costos incurridos
+se reconocen en resultados durante el plazo del arrendamiento sobre la misma base
+que los ingresos por alquiler.
+(n) Deterioro de activos no financieros de larga duración
+El valor de los inmuebles, embarcaciones, maquinaria y equipo, activos por derecho
+de uso, intangibles y crédito mercantil es revisado periódicamente para determinar
+si existe deterioro, cuando se producen circunstancias que indiquen que el valor en
+libros puede no ser recuperable.
+De haber indicios de deterioro, la Compañía estima el importe recuperable de los
+activos y reconoce una pérdida por deterioro en el estado de resultado integral.
+El valor recuperable de un activo es el mayor entre su valor razonable menos los
+gastos de venta y su valor de uso. El valor de uso es el valor presente de los flujos
+de efectivo futuros estimados que resultarán del uso continuo de un activo, así como
+de su disposición al final de su vida útil.
+Los importes recuperables se estiman para cada activo o, si no es posible, para la
+menor unidad generadora de efectivo que haya sido identificada. De existir una
+disminución de las pérdidas por deterioro determinadas en años anteriores, se
+registra un ingreso en el estado de resultado integral.
+Para los permisos de pesca, licencias de producción y crédito mercantil se realiza
+una prueba de deterioro por lo menos cada año al 31 de diciembre. Para los otros
+activos en general, a cada fecha de cierre del período sobre el que se informa, se
+efectúa una evaluación sobre si existe algún indicio de que las pérdidas por
+deterioro del valor reconocidas previamente ya no existen o han disminuido. Si
+existiese tal indicio, la Compañía efectúa una estimación del importe recuperable
+del activo o de la unidad generadora de efectivo.
+Las pérdidas por deterioro relacionadas con los permisos de pesca, licencias de
+producción y el crédito mercantil no pueden ser revertidas en períodos futuros .
+(ñ) Provisiones
+Se reconoce una provisión solo cuando la Compañía tiene alguna obligación presente
+como consecuencia de un hecho pasado, es probable que se requiera para su
+liquidación la salida de recursos y puede hacerse una estimación confiable del
+monto de la obligación. Las provisiones se revisan periódicamente y se ajustan para
+reflejar la mejor estimación que se tenga a la fecha del estado de situación
+financiera. El gasto relacionado con una provisión se muestra en el estado de
+resultado integral.
+(o) Beneficios a los empleados
+La Compañía tiene obligaciones de corto plazo por beneficios a sus empleados que
+incluyen sueldos, vacaciones, compensación por tiempo de servicios, aportaciones
+sociales y gratificaciones de ley, entre otros.  Estas obligaciones se registran
+mensualmente con cargo al estado de resultado integral a medida que se devengan.
+
+=== PAGINA PDF 30 ===
+- 18 -
+La Compañía no cuenta con planes de beneficios postempleo ni brinda a sus
+trabajadores beneficios a largo plazoo pagos basados en acciones.
+(p) Clasificación de partidas en corriente y no corriente
+La Compañía presenta los activos y pasivos en el estado de situación financiera,
+clasificados en corrientes y no corrientes. Un activo es clasificado como corriente
+cuando la Compañía:
+- Espera realizar el activo o tiene la intención de venderlo o consumirlo en su
+ciclo normal de operación.
+- Mantiene el activo principalmente con fines de negociación.
+- Espera realizar el activo dentro de los doce meses siguientes del período
+sobre el que se informa; o
+- El activo es efectivo, a menos que se encuentre restringido y no pueda ser
+intercambiado ni utilizado para cancelar un pasivo, por un período mínimo de
+doce meses siguientes al período sobre el que se informa.
+Todos los demás activos se clasifican como no corrientes.
+Un pasivo se clasifica como corriente cuando la Compañía:
+- Espera liquidar el pasivo en su ciclo normal de operación.
+- Mantiene el pasivo principalmente con fines de negociación.
+- El pasivo debe liquidarse dentro de los doce meses siguientes del período
+sobre el que se informa; o
+- No se tiene un derecho incondicional para aplazar la cancelación del pasivo
+durante al menos, los doce meses siguientes al período sobre el que se
+informa.
+Todos los demás pasivos se clasifican como no corrientes.
+Los activos y pasivos por impuesto a la renta diferidos se clasifican como activos y
+pasivos no corrientes en todos los casos.
+(q) Capital social
+Las acciones comunes se clasifican en el patrimonio.
+(r) Ingresos de actividades ordinarias procedentes de contratos con clientes
+La Compañía tiene como objeto dedicarse a la venta de harina y aceite de pescado,
+pescado fresco y congelado, que se reconoce en la medida en que se satisfaga una
+obligación de desempeño mediante la transferencia de los bienes comprometidos al
+cliente. Un activo se transfiere cuando el cliente obtiene el control de ese activo.
+El ingreso se reconocerá en función al precio de la transacción que se asigna a esa
+obligación de desempeño, a la cual la Compañía espera tener derecho a cambio de
+transferir los bienes comprometidos con el cliente, excluyendo los importes
+recaudados en nombre de terceros.
+(s) Reconocimiento de ingresos por intereses, diferencias de cambio y otros
+Los ingresos provenientes de intereses se reconocen sobre la base de la proporción
+de tiempo transcurrido, usando el método de interés efectivo.
+
+=== PAGINA PDF 31 ===
+- 19 -
+Las diferencias de cambio correspondientes al ajuste de las partidas monetarias
+representadas en moneda extranjera que sean favorables para la Compañía son
+reconocidas como un ingreso financiero cuando fluctúa el tipo de cambio.
+Los otros ingresos se registran cuando se devengan.
+(t) Reconocimiento del costo de ventas de bienes, costo de distribución, gastos,
+diferencias de cambio e intereses
+Los costos de ventas de bienes y distribución corresponden al costo de producción
+de los productos que comercializa la Compañía y se registra cuando estos son
+entregados al cliente.
+Los otros gastos se reconocen conforme se devengan.
+Las diferencias de cambio correspondientes al ajuste de las partidas monetarias
+representadas en moneda extranjera que sean desfavorables para la Compañía son
+reconocidas como un gasto financiero cuando fluctúa el tipo de cambio.
+Los intereses se reconocen en proporción al tiempo transcurrido, de manera que
+reflejen el costo efectivo del instrumento financiero.
+(u) Impuestos
+El impuesto a la renta incluye un componente corriente y uno diferido.
+Impuesto a la renta Corriente -
+El impuesto a la renta corriente es considerado como el importe por pagar a la
+autoridad tributaria. Es calculado sobre la base de la renta imponible determinada
+para fines tributarios.
+Impuesto a la renta Diferido -
+El impuesto a la renta diferido se calcula bajo el método del pasivo del balance, que
+consiste en determinar las diferencias temporarias entre los activos y pasivos
+financieros y tributarios y aplicar a dichas diferencias la tasa del impuesto a la
+renta.
+Los activos diferidos son reconocidos para todas las diferencias deducibles y
+pérdidas tributarias arrastrables, en la medida que sea probable que exista utilidad
+gravable contra la cual se puedan compensar las diferencias temporarias deducibles
+y se puedan usar las pérdidas tributarias arrastrables.
+Los pasivos diferidos son reconocidos para todas las diferencias temporarias
+imponibles, excepto por las diferencias temporarias gravables asociadas con
+inversiones en subsidiarias, en que la oportunidad de las reversiones de las
+diferencias temporarias puede ser controlada y es probable que las diferencias
+temporarias no sean reversadas en un futuro previsible.
+El valor en libros de los activos diferidos es revisado en cada fecha del estado de
+situación financiera y es reducido en la medida que no sea probable que exista
+suficiente utilidad imponible contra la cual se pueda compensar todo o parte del
+activo diferido a ser utilizado. Los activos diferidos no reconocidos son reevaluados
+en cada fecha del estado de situación financiera y son reconocidos en la medida que
+sea probable que la utilidad imponible futura permita recuperar el activo
+
+=== PAGINA PDF 32 ===
+- 20 -
+diferido. Los activos y pasivos diferidos se reconocen sin tomar en cuenta el
+momento en que se estime que las diferencias temporarias se anulan.
+Los activos y pasivos diferidos son medidos con las tasas legales que se esperan
+aplicar en el año en el que el activo es realizado o el pasivo es liquidado, sobre la
+base de las tasas que han sido promulgadas o sustancialmente promulgadas en la
+fecha del estado de situación financiera.
+Los activos y pasivos diferidos son compensados, si existe un derecho legal de
+compensar los impuestos corrientes contra los pasivos corrientes y los impuestos
+diferidos se relacionan con la misma entidad y autoridad tributaria.
+Impuesto general a las ventas –
+Los ingresos de actividades ordinarias, los gastos y los activos se reconocen
+excluyendo el importe del impuesto general a las ventas, salvo:
+(i) Cuando el impuesto general a las ventas incurrido en una adquisición de
+activos o en una prestación de servicios no resulte recuperable, en cuyo caso
+ese impuesto se reconoce como parte del costo de adquisición del activo o
+como parte del gasto, según corresponda.
+(ii) Las cuentas por cobrar y por pagar comerciales se registran incluyendo el
+importe de impuesto general a las ventas.
+El importe neto del impuesto general a las ventas que se espera recuperar o
+que corresponda pagar a la Autoridad Tributaria, se presenta como una
+cuenta por cobrar o una cuenta por pagar en el estado de situación
+financiera, según corresponda.
+Tratamientos fiscales inciertos -
+La Compañía evalúa en cada cierre de los estados financieros si cada tratamiento
+fiscal incierto es considerado por separado o junto con uno o más otros tratamientos
+fiscales inciertos y utiliza el enfoque que predice mejor la resolución de la
+incertidumbre.
+La Compañía aplica un juicio significativo al identificar incertidumbres sobre los
+tratamientos del impuesto a la renta.
+(v) Contingencias
+Las contingencias son activos o pasivos que surgen a raíz de sucesos pasados, cuya
+existencia quedará confirmada sólo si llegan a ocurrir sucesos futuros que no están
+enteramente bajo el control de la Compañía.
+Los activos contingentes no se registran en los estados financieros, pero se revelan
+en notas cuando su grado de contingencia es probable.
+Los pasivos contingentes no se registran en los estados financieros y se revelan en
+notas a los estados financieros solo cuando existe una obligación posible.
+(w) Utilidad básica y diluida por la acción
+La utilidad básica por acción resulta de dividir el resultado neto atribuible a los
+accionistas entre el promedio ponderado del número de acciones comunes en
+circulación en elperiodo.
+
+=== PAGINA PDF 33 ===
+- 21 -
+La utilidad diluida por acción resulta de dividir el resultado neto atribuible a los
+accionistas entre el promedio ponderado del número de acciones comunes en
+circulación y acciones potenciales que podían haber sido emitidas en el periodo.
+3. ADMINISTRACIÓN DE RIESGOS FINANCIEROS Y LA GESTIÓN DE CAPITAL
+(a) Factores de riesgo financiero
+Las actividades de la Compañía la exponen a una variedad de riesgos financieros.
+Los principales riesgos que pueden afectar adversamente los activos y pasivos
+financieros de la Compañía, así como sus flujos de caja futuros son: riesgo de
+liquidez, de crédito, de interés y de cambio. El programa de administración de
+riesgos de la Compañía trata de minimizar los potenciales efectos adversos en su
+desempeño financiero.
+La Gerencia de la Compañía es conocedora de las condiciones existentes en el
+mercado y sobre la base de su conocimiento y experiencia revisa y controla los
+riesgos siguiendo las políticas aprobadas por el Directorio.
+La Compañía no mantiene instrumentos derivados para propósitos especulativos.
+Los aspectos más importantes para la gestión de estos riesgos son:
+(i) Riesgo de liquidez
+El riesgo de liquidez es el riesgo de que el efectivo pueda no estar disponible
+para pagar obligaciones a su vencimiento a un costo razonable. La
+consecuencia sería el incumplimientode la Compañíaen el pago de sus
+obligaciones frente a terceros.
+La política de la Compañía es asegurarse de tener suficiente efectivo que le
+permita cumplir con sus obligaciones a su vencimiento. Para lograr este fin,
+trata de mantener saldos en efectivo para cubrir sus requerimientos
+esperados. Asimismo, la compañía cuenta con una línea de crédito
+comprometida de capital de trabajo por US$ 50,000,000, ver Nota 14 (c).
+El siguiente cuadro muestra los vencimientos de los pasivos financieros
+(expresado en miles de dólares estadounidenses):
+Al 31 de
+diciembre de 2024
+Hasta
+12 meses
+Entre 1
+y 2 años
+Entre 2
+y 3 años
+Entre 3
+y 6 años Total
+Préstamos bancarios 136,782 - - - 136,782
+Cuentas por pagar
+comerciales 55,280 - - - 55,280
+Tributos, remuneraciones
+y otras cuentas por pagar 26,248 - - - 26,248
+Cuentas por pagar a
+relacionadas 18 - - - 18
+Obligaciones financieras:
+Amortización del capital 33,933 48,422 39,047 20,546 141,948
+Flujo por pago de
+intereses 12,029 12,029 12,029 5,764 41,851
+---------- --------- --------- --------- ----------
+264,290 60,451 51,076 26,310 402,127
+======= ====== ====== ====== =======
+
+=== PAGINA PDF 34 ===
+- 22 -
+Al 31 de
+diciembre de 2023
+Hasta
+12 meses
+Entre 1
+y 2 años
+Entre 2
+y 3 años
+Entre 3
+y 6 años Total
+Préstamos bancarios 121,096 - - - 121,096
+Cuentas por pagar
+comerciales 53,371 - - - 53,371
+Tributos, remuneraciones
+y otras cuentas por pagar 13,863 - - - 13,863
+Cuentas por pagar a
+relacionadas 17 - - - 17
+Obligaciones financieras:
+Amortización del capital 19,495 59,356 38,519 38,495 155,865
+Flujo por pago de
+intereses 13,765 21,603 12,029 4,617 52,014
+---------- --------- --------- --------- ----------
+221,607 80,959 50,548 43,112 396,226
+======= ====== ====== ====== =======
+
+=== PAGINA PDF 35 ===
+- 23 -
+A continuación se presentan los cambios en los pasivos que provienen de las actividades definanciamiento por los años 2024 y 2023 (expresado en
+miles de dólares estadounidenses):
+Saldos
+al 31 de
+diciembre
+de 2023 Obtención Distribución Pagos Otros
+Saldos
+al 31 de
+diciembre
+de 2024
+Préstamos bancarios 121,096 393,400 - (375,832) (1,882) 136,782
+Obligaciones financieras 155,865 - - (21,386) 7,469 141,948
+Pasivos por arrendamiento 3,710 209 - (2,468) 207 1,658
+---------- ---------- --------- ---------- --------- ----------
+280,671 393,609 - (399,686) 5,794 280,388
+======= ======= ====== ======= ====== =======
+Saldos
+al 31 de
+diciembre
+de 2022 Obtención Distribución Pagos Otros
+Saldos
+al 31 de
+diciembre
+de 2023
+Préstamos bancarios 92,232 271,577 - (243,374) 661 121,096
+Obligaciones financieras 152,568 133,359 - (130,251) 189 155,865
+Pasivos por arrendamiento 3,885 426 - (457) (144) 3,710
+Dividendos por pagar - - 9,600 (9,600) - -
+---------- ---------- --------- ---------- --------- ----------
+248,685 405,362 9,600 (383,682) 706 280,671
+======= ======= ====== ======= ====== =======

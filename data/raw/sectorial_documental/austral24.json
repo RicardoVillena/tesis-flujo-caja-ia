@@ -1,0 +1,11 @@
+{
+  "id": "austral24",
+  "url": "https://www.austral.com.pe/wp-content/uploads/2025/05/EEFF-AUDITADOS-2024.pdf",
+  "url_final": "https://www.austral.com.pe/wp-content/uploads/2025/05/EEFF-AUDITADOS-2024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "aa28f289ea4d3b9f7ff9eadd116b21f6a970c19b0845d1902a38e6e7cbb70ba9",
+  "sha256_texto": "dc24efe828db6b1d90e6c520cfd80767974a4b31b7e9f7402213d04b6965b90c",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

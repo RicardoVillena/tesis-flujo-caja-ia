@@ -1,0 +1,11 @@
+{
+  "id": "aceros24",
+  "url": "https://investors.acerosarequipa.com/memoria-integrada-2024/assets/pdfs/es/Anexos.pdf",
+  "url_final": "https://investors.acerosarequipa.com/memoria-integrada-2024/assets/pdfs/es/Anexos.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "fb6342f5cea1bdd9252a182d81f019ec039717ed512e77500a33b6842f2539f6",
+  "sha256_texto": "c92d5979df584ed7dc895a050b031f0fe16dc637d07bbc4f7281a04005f8459e",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

@@ -1,0 +1,11 @@
+moneda,fold,anios_objetivo_train,anios_objetivo_validacion,n_train,empresas_train,n_validacion,empresas_validacion,evaluable,motivo
+D lares,0,,2006-2013,0,0,154,0,False,Años de calentamiento: solo entrenan; no tienen historia previa suficiente para validarse (regla Sprint 06)
+D lares,1,2006-2013,2014;2015,154,36,54,28,True,
+D lares,2,2006-2015,2016;2017,208,39,47,26,True,
+D lares,3,2006-2017,2018;2019,255,43,51,28,True,
+D lares,4,2006-2019,2020;2021,306,48,47,26,True,
+Soles,0,,2006-2013,0,0,1155,0,False,Años de calentamiento: solo entrenan; no tienen historia previa suficiente para validarse (regla Sprint 06)
+Soles,1,2006-2013,2014;2015,1155,227,357,186,True,
+Soles,2,2006-2015,2016;2017,1512,241,352,187,True,
+Soles,3,2006-2017,2018;2019,1864,256,331,175,True,
+Soles,4,2006-2019,2020;2021,2195,263,321,166,True,

@@ -1,0 +1,1697 @@
+
+=== PAGINA PDF 1 ===
+ 
+- 1 - 
+ 
+ 
+ 
+  
+ 
+ 
+ AENZA S.A.A.  
+ 
+Estados Financieros Separados  
+Condensados (No Auditados) 
+31 de diciembre de 2024 y 2023  
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PAGINA PDF 2 ===
+ 
+- 2 - 
+ 
+ 
+ 
+ 
+AENZA S.A.A.  
+ 
+ 
+Estados Financieros Separados Condensados  
+al 31 de diciembre de 2024 y por los periodos de  
+tres y doce meses terminados en esa fecha (No Auditados) 
+ 
+ 
+ 
+ 
+ 
+CONTENIDO          Pág. 
+ 
+ 
+Estado separado condensado de situación financiera           1 
+Estado separado condensado de resultados           2  
+Estado separado condensado de resultados integrales           3  
+Estado separado condensado de cambios en el patrimonio           4  
+Estado separado condensados de flujos de efectivo           5  
+Notas a los estados financieros separados condensados         6-27
+  
+ 
+ 
+ 
+S/ =    Sol 
+US$    =    Dólar estadounidense 
+
+=== PAGINA PDF 3 ===
+AENZA S.A.A. 
+Estado Separado Condensado de Situación Financiera 
+Por los periodos terminados al 31 diciembre de 2024 y de 2023 
+ 
+ 
+- 1 - 
+ 
+ 
+ 
+ 
+Las notas adjuntas forman parte integral de los estados financieros separados condensados. 
+ 
+  
+En miles de soles Nota 2024 2023 En miles de soles Nota 2024 2023
+Activos Pasivos
+Activos corrientes Pasivos corrientes
+Efectivo y equivalentes de efectivo 7               83,016             164,224 Otros pasivos financieros 12 -                                416,610 
+Cuentas por cobrar comerciales, neto -                   942 Bonos por pagar 13                  7,015 -                  
+Cuentas por cobrar a partes relacionadas 8 B             157,962             141,145 Cuentas por pagar comerciales                10,539             12,901 
+Otras cuentas por cobrar, neto 9               81,696                 5,318 Cuentas por pagar a partes relacionadas 8 B                63,148               3,039 
+Gastos contratados por anticipado                1,252                 5,530 O tras cuentas por pagar 14                22,852             26,819 
+Total activos corrientes         323,926         317,159 O tras provisiones 15                  9,749               9,749 
+Total pasivos corrientes          113,303        469,118 
+Pasivos no corrientes
+Activo no corrientes Otros pasivos financieros 12 -                                 25,307 
+Cuentas por cobrar comerciales, neto -                                   1,453 Bonos por pagar 13               686,415 -                  
+Cuentas por cobrar a partes relacionadas 8 B             318,515             239,471 Cuentas por pagar a partes relacionadas 8 B               174,823            176,204 
+Otras cuentas por cobrar, neto 9               79,239               69,389 Otras cuentas por pagar 14               442,083            457,965 
+Inversiones en subsidiarias y asociadas 10          1,770,471          1,666,813 Otras provisiones 15                34,573             27,184 
+Propiedades de inversión, neto 11 a             111,439               38,630 Total pasivos no corrientes        1,337,894        686,660 
+Instalaciones y equipamiento, neto                1,229                 1,049 Tot al  pasivos        1,451,197     1,155,778 
+Activos por derecho de uso, neto 11 c -                                 26,060 Patrimonio 16
+Activos intangibles, neto 11 b                   974                 1,474 Capital emitido            1,786,625         1,371,965 
+Activos por impuestos diferidos               51,151               56,807 P rima de emisión de acciones              (208,740) -                  
+Gastos contratados por anticipado -                                     580 O tras reservas               (81,157)            (68,283)
+Total activos no corrientes      2,333,018      2,101,726 R esultados acumulados              (290,981)            (40,575)
+Total patrimonio        1,205,747     1,263,107 
+Total activos      2,656,944      2,418,885 Tot al pasivos y patrimonio        2,656,944     2,418,885 
+
+=== PAGINA PDF 4 ===
+AENZA S.A.A. 
+Estado Separado Condensado de Situación Financiera 
+Por los periodos terminados el 31 de diciembre y de 2024 
+ 
+- 2 - 
+ 
+ 
+Las notas adjuntas forman parte integral de los estados financieros separados condensados. 
+ 
+ 
+  
+En miles de soles Nota 2024 2023 2024 2023
+Ingresos
+Ingresos por alquileres de estacionamiento y edificios a partes relacionadas 8 A                 2,797                    2,896               11,366                 12,392 
+Ingresos por servicios prestados a partes relacionadas 8 A                 1,766                    1,997                7,089                   7,989 
+Ingresos por operación conjunta                      -                      1,175                3,607                   4,800 
+Total ingresos de actividades ordinarias            4,563               6,068          22,062            25,181 
+Costos
+Costos de aquileres                (2,055)                   (6,965)               (8,046)                (13,094)
+Costos de servicios prestados                (2,268)                    1,572               (9,966)                  (9,667)
+Costos de servicios 16           (4,323)              (5,393)         (18,012)           (22,761)
+Utilidad bruta               240                 675            4,050              2,420 
+Gastos administrativos 17                (8,660)                 (11,469)              (25,706)                (26,972)
+Otros ingresos y gastos, neto 19                 5,909                     (480)                6,389                   2,692 
+Pérdida operativa           (2,511)            (11,274)         (15,267)           (21,860)
+Gastos financieros 18 A              (44,241)                 (22,384)            (148,687)                (96,072)
+Ingresos financieros 18 A                 8,110                  13,995               29,504                 52,391 
+Intereses por valor presente de activo o pasivo financiero 18 B                    735                    1,003              (11,447)                   2,399 
+Participación en los resultados de asociadas
+por el método de participación patrimonial 10            (125,982)                  70,123              (94,789)               151,470 
+(Pérdida) utilidad  antes de impuesto a la renta        (163,889)             51,463 (240,686)       88,328
+Impuesto a la renta 20              (11,872)                      188               (8,403)                  (3,698)
+(Pérdida) utilidad del periodo        (175,761)             51,651 (249,089)       84,630
+(Pérdida) utilidad por acción atribuibles a los propietarios de la Compañía 
+durante el periodo:                (0.128)                    0.043               (0.177)                   0.071 
+(Pérdida) utilidad por acción diluida a los propietarios de la Compañía durante 
+el periodo:                (0.128)                    0.043               (0.177)                   0.062 
+ Para el periodo de tres meses 
+finalizado el 31 de diciembre de 
+ Para el periodo de doce 
+meses finalizado el 31 de 
+
+=== PAGINA PDF 5 ===
+AENZA S.A.A. 
+Estado Separado Condensado de Otros Resultados Integrales 
+Por los periodos terminados al 31 diciembre de 2024 y de 2023 
+ 
+- 3 - 
+ 
+  
+ 
+  
+ 
+  
+Las notas adjuntas forman parte integral de los estados financieros separados condensados. 
+ 
+ 
+ 
+En miles de soles Nota 2024 2023 2024 2023
+(Pérdida) utilidad del periodo             (175,761)                 51,651               (249,089)                 84,630 
+Otros resultados integrales
+Partidas que pueden posteriormente ser reclasificados a resultados:
+Conversión de inversión en el exterior -                                        (278) 997                                      (1,420)
+Diferencia en cambio de inversiones neta en el extranjero       10                   (639) -                      -                                          (167)
+Participación en otros resultados integrales de subsidiarias, asociadas y negocios 
+conjuntos       10                (5,637)                   6,585                (13,871) 30,497                
+           (6,276)              6,307            (12,874)             28,910 
+Total resultados integrales del periodo        (182,037)             57,958          (261,963)           113,540 
+ Para el periodo de tres meses 
+finalizado el 31 de diciembre de 
+ Para el periodo de doce meses 
+finalizado el 31 de diciembre de 
+
+=== PAGINA PDF 6 ===
+AENZA S.A.A. 
+Estado Separado Condensado de Cambio en el Patrimonio  
+Por los años terminados el 31 de diciembre de 2024 y de 2023 
+ 
+- 4 - 
+ 
+ 
+ 
+ 
+   Las notas adjuntas forman parte integral de los estados financieros separados condensados. 
+  
+Capital Reserva
+emitido legal
+Saldos al 1 de enero de 2023 1,196,980 1,196,980 132, 011 29,974 1,142,092 (97,193)      (1,341,282) 1,062,582
+Utilidad neta del periodo -               -               -               -               -               -               84,630          84,630          
+Conversión de inversión en el exterior -               -               -               -               -               (1,420)          -               (1,420)          
+Diferencia en cambio de inversiones neta en el extranjero 10 -               -               -               -               -               (167)             -               (167)             
+Participación en los otros resultados integrales de 
+subsidiarias, asociadas y negocios conjuntos 10 -               -               -               -               -               30,497 -               30,497
+Resultados integrales del periodo -               -               -               -               -               28,910 84,630 113,540
+Transacciones con accionistas:
+Incremento de capital 174,985        174, 985        -               -               (88,000)         -               -               86,985          
+Compensación de pérdidas acumuladas -               -               (132,011)       (29,974)         (1,054,092)    -               1,216,077 -               
+Total transacciones con accionistas 174,985 174,985 ( 132,011)    (29,974)     (1,142,092) -               1,216,077 86,985
+Saldos al 31 de diciembre de 2023 1,371,965 1,371,965 -               -               -               (68,283)     (40,575)     1,263,107
+Saldos al 1 de enero de 2024 1,371,965 1,371,965 -               -               -               (68,283)     (40,575)     1,263,107
+Pérdida neta del periodo -               -               -               -               -               -               (249,089)       (249,089)       
+Conversión de inversión en el exterior -               -               -               -               -               997 -               997
+Participación en los otros resultados integrales de 
+subsidiarias, asociadas y negocios conjuntos 10 -               -               -               -               -               (13,871)         -               (13,871)         
+Resultados integrales del periodo -               -               -               -               -               (12,874)         (249,089)       (261,963)       
+Transacciones con accionistas:
+Incremento de capital 414,660        414, 660        -               -               (208,740)       -               -               205,920
+Otros -               -               -               -               -               -               (1,317)          (1,317)          
+Total transacciones con accionistas 414,660        414, 660        -           -           (208,740)    -           (1,317)       204,603
+Saldos al 31 de diciembre de 2024 1,786,625 1,786,625 -           -           (208,740)    (81,157)     (290,981)    1,205,747
+Resultados 
+acumulados TotalEn miles de soles Nota Número de acciones Reserva facultativa Prima en emisión de Otras reservas
+
+=== PAGINA PDF 7 ===
+AENZA S.A.A.  
+Estado Separado Condensado de Flujos de Efectivo   
+Por los periodos terminados el 31 de diciembre de 2024 y de 2023  
+ 
+- 5 - 
+ 
+ 
+ 
+ 
+Las notas adjuntas forman parte integral de los estados financieros separados condensados. 
+ 
+ 
+ 
+ 
+En miles de soles Nota 2024 2023 2024 2023
+Flujos de efectivo de las actividades de operación
+Pérdida (utilidad) antes de impuestos               (163,889)                 51,463               (240,686)                 88,328 
+Ajustes al resultado neto que no afectan los flujos de efectivo de las 
+actividades de operación:
+Depreciación 17                   8,582                   2,556                 10,257                 10,417 
+Amortización 17                  (5,876)                      142                      445                      567 
+Ajustes por derecho de uso 19 -                                          (783)                  (1,392)                  (3,043)
+Baja de contrato por terminación anticipada 19                  (6,049)                        -                    (6,049) -                      
+Deterioro de cuenta por cobrar -                                          (866) -                      -                      
+Baja de intangibles                        55                        -                          55 -                      
+Recupero de deterioro de otras cuentas por cobrar -                                              5 -                                       (2,934)
+Gastos contractuales -                                        1,169 -                                        2,110 
+Actualización CINIIF 23 -                                          (476) -                                          (476)
+Pérdida en venta de instalación y equipamiento (2)                                              (2) (2)                                              (2)
+Sanciones administrativas 19                        79                      144                   1,035                      543 
+Gasto financiero, neto 18                 36,131                   8,389                119,183                 43,681 
+Actualización por valor presente de activo y pasivo financiero 18                     (735)                      618                 11,447                  (2,399)
+Ganancia por diferencia de cambio de las actividad de operación                  (2,593)                     (786)                  (2,593)                     (786)
+Participación en los resultados de subsidiarias, asociadas y negocios conjuntos 10                125,982                (70,123)                 94,789               (151,470)
+Variación neta de activo y pasivo
+Cuentas por cobrar comerciales -                                            (61) (522)                                          (57)
+Otras cuentas por cobrar (28,843)                              (28,880)                (92,746)                  (7,382)
+Cuentas por cobrar a partes relacionadas (31,718)                              (25,760)                (12,593)                (28,708)
+Gastos contratados por anticipado y otros activos 10                                         5,296                   4,026                   3,053 
+Cuentas por pagar comerciales 6,161                                       236                      187                  (2,124)
+Otras cuentas por pagar (22,351)                              (32,299)                (39,100)                (46,464)
+Cuentas por pagar a partes relacionadas (20,454)                               29,023                (22,697)                 16,418 
+Pagos de impuesto a la renta 19 (1,080)                                  (1,562)                  (3,354)                  (4,238)
+Pago de intereses (57,823)                              (18,593)               (176,715)                (62,109)
+Efectivo neto aplicado a las actividades de operación (164,413)         (81,150)           (357,025)         (147,075)         
+Flujos de efectivo de las actividades de inversión
+Dividendos recibidos 10 c                 31,826                 46,186                 70,197                100,305 
+Venta de propiedades, instalación y equipamiento e intangibles 2                                                2 2                                                2 
+Pagos por compra de propiedad de inversión (74,772)                                      -   (74,772)               -                      
+Pagos por compra de instalaciones y equipamiento                     (646)                       (19)                     (649) (113)                    
+Pago compras y aportes por Inv. Asoc. Y negocio conjunto               (207,131) -                                    (207,131) -                      
+Préstamos otorgados a subsidiarias 8.C               (161,593)                (23,580)               (251,124)               (111,628)
+Cobro de préstamos e intereses a subsidiarias 8.C                154,543                   2,943                172,079                 96,055 
+Cobro de intereses por depósito a plazos 18 A                   1,363                   2,277                   4,849                 10,876 
+Efectivo neto (aplicado a) provisto por las actividades de inversión (256,408)         27,809            (286,549)         95,497
+Flujos de efectivo de las actividades de financiamiento  
+Préstamos recibidos -                      36,237                -                      36,237                
+Amortización de préstamos recibidos 12 II -                      (70,872)                             (394,130)                (79,231)
+Amortización de pasivo derecho de uso 12 II (1,873)                 (1,493)                                  (6,604)                  (5,237)
+Bonos emitidos 193,408               -                                     779,575 -                      
+Costos incurridos por bonos (13,692)               -                                     (35,965) -                      
+Préstamos recibido de entidades relacionadas 49,241                -                                      49,241 -                      
+Pago de préstamos recibidos de entidades relacionadas 8 C (34,176)               (47)                                     (34,176) (47)                      
+Pagos por costos incurridos de préstamo 8 C -                      (8,543)                 -                                       (8,590)
+Incremento de capital 205,920               86,985                               205,920 86,985                
+Efectivo neto provisto por las actividades de financiamiento 398,828 42,267 563,861 30,117            
+Disminución neto del efectivo                (21,993)                (11,074)                (79,713)                (21,461)
+Diferencia en cambio                   9,703                     (835)                   2,593                      786 
+Efectivo en desconsolidación de consorcio                  (4,088)                        -                    (4,088)                        -   
+Saldo del efectivo y equivalente de efectivo al inicio del periodo 99,394 176,133 164,224 184,899
+Saldo del efectivo y equivalente de efectivo al final del periodo 7 83,016 164,224 83,016 164,224
+Transacciones que no generan flujo de efectivo
+Participación en los otros resultados integrales de subsidiarias y asociadas 10                  (5,637)                   6,418                (13,871)                 30,330 
+Compensación de dividendos por cobrar 10 a                 16,933                 13,888                 41,238                 26,260 
+Saldos por cobrar dividendos                   2,145                 34,804                   2,145                 34,804 
+Compensación de préstamos obtenidos a partes relacionadas                (14,472)                (10,147)                (34,643)                (24,543)
+Capitalización de préstamos otorgados a partes relacionadas                 28,330                186,171                 58,221 211,681               
+Aporte no dinerario             1,376,713 -                      1,572,376            -                      
+ Para el periodo de tres meses 
+finalizado el 31 de diciembre de 
+ Para el periodo de doce meses 
+finalizado el 31 de diciembre de 
+
+=== PAGINA PDF 8 ===
+AENZA S.A.A.  
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y de 2023  
+ 
+- 6 - 
+ 
+1. Información General 
+ 
+A. Constitución y operaciones 
+ 
+AENZA S.A.A ., (en adelante la “Compañía”) es la matriz de la Corporación AENZA que está 
+compuesta por la Compañía y por sus subsidiarias (en adelante, la “Corporación”) y tiene como 
+actividad principal la tenencia y gestión de inversiones en las diferentes empresas de la Corporación. 
+De forma complementaria, la Compañía presta servicios de asesoría gerencial especializada y 
+arrendamiento operativo de oficinas a las empresas de la Corporación. El domicilio legal de la 
+Compañía es Av. Petit Thouars N° 4957, Miraflores, Lima. 
+La Corporación es un conglomerado de empresas cuyas operaciones abarcan diferentes negocios, 
+siendo los más relevantes los de infraestructura (propiedad y operación de concesiones públicas), 
+energía, desarrollo de proyectos inmobiliarios e ingeniería y construcción. 
+ 
+B. Autorización de emisión de estados financieros 
+ 
+Estos estados financieros separados condensados por el periodo terminado el 31 de diciembre de 
+2024 fueron aprobados por la Gerencia y el Directorio el 17 de febrero de 2025.  
+ 
+ Los estados financieros separados por el año terminado el 31 de diciembre de 2023 fueron 
+preparados y emitidos con autorización de la Gerencia y el Directorio el 29 de febrero de 2024 y 
+fueron aprobados por la Junta General de Accionistas el 27 de marzo de 2024. 
+ 
+C. Cumplimiento con leyes y regulaciones 
+ 
+Como consecuencia de las investigaciones en torno a los casos conocidos como Club de la 
+Construcción y Lava Jato, AENZA se acogió a un proceso de colaboración eficaz. Con fecha 15 de 
+setiembre de 2022, se suscribió el Acuerdo de Colaboración y Beneficios ( el “Acuerdo”) entre la 
+Fiscalía, la Procuraduría y la Compañía. El Acuerdo fue homologado mediante sentencia del 11 de 
+agosto de 2023, y entró en vigencia con su consentimiento, el cual fue notificado a AENZA con 
+fecha 11 de diciembre de 2023. 
+ 
+Mediante el Acuerdo, la Compañía se comprometió al pago de una reparación civil a favor del Estado 
+peruano por S/333.3 millones y US$40.7 millones, en un plazo de doce (12) años, a una tasa de 
+interés legal anual en soles de 2.52% y dólares estadounidenses  de 1.80%, al 31 de diciembre de 
+2024 (3.55% y 1.90% de interés anual al 31 de diciembre de 2023 en soles y dólares 
+estadounidenses, respectivamente). Asimismo, la Compañía se obligó a establecer un paquete de 
+garantías a través de un fideicomiso al cual se cederán los siguientes activos y/o derechos: i) 
+acciones emitidas por una de las subsidiarias de la Compañía; ii) un predio perteneciente a la 
+Compañía y iii) una cuenta de garantía con fondos equivalentes a la cuota anual del año siguiente. 
+Entre otras condiciones, el Acuerdo incluye una restricción a AENZA y a las subsidiarias Cumbra 
+Perú S.A. y Unna Transporte S.A.C. para contratar proyectos de infraestructura, construcción y 
+mantenimiento de carreteras con el Estado peruano por un plazo de dos (2) años a partir de la 
+homologación del Acuerdo, que se cumple en diciembre 2025. A las demás empresas miembros 
+de la Corporación no les es aplicable ningún impedimento ni prohibición para contratar con el Estado. 
+ 
+Al 31 de diciembre de 2024 y 2023, se han cumplido con las garantías y pagos de cuotas acorde al 
+cronograma establecido (nota 14 a). 
+ 
+D. Deslistado de NYSE y desregistro de SEC de los ADSs emitidos por AENZA 
+ 
+El 31 de octubre de 2023, el Directorio de AENZA decidió iniciar el proceso de Deslistado de 
+acciones, representadas por American Depositary Securities (en adelante “ADS”), en la Bolsa de 
+Valores de Nueva York (en adelante “NYSE”), el proceso de desregistro de dichos instrumentos en 
+la Comisión de Bolsa y Valores de los Estados Unidos de América (en adelante “SEC”) y la 
+terminación del Programa de ADS. 
+
+=== PAGINA PDF 9 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 7 - 
+ 
+ 
+El 7 de diciembre de 2023, fue el último día de cotización de los ADS en NYSE. 
+ 
+El 9 de setiembre de 2024, AENZA presentó ante la SEC el Form 15F a efectos de desregistrar sus 
+acciones representadas por ADS y concluir con sus obligaciones de reporte bajo la Sección 13(a) y 
+15(d) del “Securities Exchange Act of 1934”.  
+ 
+El 11 de diciembre de 2024, las obligaciones de reporte de AENZA ante la SEC quedaron 
+definitivamente canceladas al haber concluido: (i) el proceso de deslistado de acciones 
+representadas por ADS en NYSE, y (ii) el proceso de desregistro de los ADS en SEC.  
+ 
+En opinión de la Gerencia y del Directorio, esta decisión generará eficiencias para la Compañía, 
+considerando la poca liquidez de los ADS y los altos costos anuales del listado en NYSE registro  
+en SEC, y no afectará los planes de largo plazo de la Compañía. Las acciones de AENZA 
+seguirán listadas en la Bolsa de Valores de Lima (BVL).  
+ 
+E. Reorganización Corporativa 
+De acuerdo con el Plan de Reorganización Corporativa, aprobado en Junta General de Accionistas 
+del 7 de febrero de 2024, la nueva estructura del grupo económico estaría conformada por dos 
+nuevas sociedades holding, una que agrupa los negocios de infraestructura y energía y otra que 
+agrupa los negocios de ingeniería y construcción; manteniéndose Viva Negocio Inmobiliario S.A.C. 
+como el vehículo para el negocio de desarrollo inmobiliario. En este sentido, el 23 de octubre de 
+2024, las juntas generales de acci onistas de las sociedades holding y subholding aprobaron sus 
+respectivos aumentos de capital mediante los siguientes aportes no dinerarios: 
+ 
+i. De AENZA a favor de Unna Infraestructura S.A.C., consistente en las acciones de 
+propiedad de la Compañía representativas del capital de: Tren Urbano Lima S.A., Red 
+Vial 5 S.A., Concesionaria La Chira S.A., Inversiones en Autopistas S.A., Carretera 
+Andina del Sur S.A.C., Carretera Sierra Piura S.A.C. y Concesionaria Vía Expresa Sur 
+S.A.C. 
+ii. De AENZA a favor de Inversiones Ingeniería y Construcción S.A .C., consistente en las 
+acciones de propiedad de la Compañía representativas del capital de Cumbra Perú S.A. 
+iii. De AENZA a favor de UNNA Inversiones S.A.C., consistente en las acciones de 
+propiedad de la Compañía representativas del capital de: Unna Infraestructura S.A.C. y 
+Unna Energía S.A. 
+ 
+2. Bases de Preparación y Políticas Contables Materiales. 
+ 
+Los estados financieros separados condensados por el periodo terminado el 31 de diciembre de 
+2024, han sido preparados de conformidad con la NIC 34 “Información financiera intermedia”. Los 
+estados financieros separados condensados proveen información comparativa respecto del año 
+anterior, sin embargo, no incluyen toda la información y las revelaciones requeridas en los estados 
+financieros consolidados, por lo que, deben ser leídos en su conjunto con los estados financieros 
+consolidados anuales, que han sido preparados de conformidad con las Normas Internacionales de 
+Información Financiera (en adelante “NIIF”). Los estados financieros separados condensados se 
+presentan en miles de soles S/(000), excepto cuando se indique una expresión monetaria distinta. 
+La Gerencia sigue teniendo una expectativa razonable de que la Corporación cuenta con los recursos 
+adecuados para continuar como empresa en marcha por un periodo de tiempo razonable y que la 
+base contable de empresa en marcha es apropiada. La Gerencia considera que no existen 
+incertidumbres materiales que puedan generar dudas significativas sobre este supuesto, y que 
+existe una expectativa razonable de que la Corporación tiene los recursos adecuados para continuar 
+con sus operaciones en el f uturo previsible y no menos de doce (12) meses desde el final del 
+período sobre el que se informa. 
+
+=== PAGINA PDF 10 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 8 - 
+ 
+Las políticas contables utilizadas en la preparación de estos estados financieros separados 
+condensados son consistentes con las aplicadas en la preparación de los estados financieros 
+separados anuales por el año terminado el 31 de diciembre de 2023. 
+ 
+3. Nuevas normas, enmiendas e interpretaciones adoptadas por la Compañía   
+ 
+Las normas, enmiendas a las normas e interpretaciones que han entrado en vigencia a partir del 1 
+de enero de 2024, no han tenido impacto en los estados financieros separados condensados al 31 
+de diciembre de 2024 y por este motivo no han sido reveladas. La Compañía no ha adoptado 
+anticipadamente ninguna norma, enmienda y modificaciones que aún no sea efectiva. 
+ 
+4. Uso de Estimaciones y Juicios   
+ 
+Los estimados y juicios usados son continuamente evaluados y se basan en la experiencia histórica 
+y otros factores, incluyendo la expectativa de ocurrencia de eventos futuros que se consideran 
+razonables de acuerdo con las circunstancias.   
+ 
+Al preparar estos estados financieros separados condensados, los criterios significativos utilizados 
+por la Gerencia en la aplicación de las políticas contables de la Compañía y las fuentes clave para 
+desarrollar estimaciones de hechos inciertos fueron similares a los aplicados en la preparación de 
+los estados financieros separados al 31 de diciembre de 2024.  
+ 
+5. Estacionalidad de las operaciones 
+ 
+La Corporación no presenta estacionalidad en ninguna de sus subsidiarias, realizándose de forma 
+regular las operaciones durante el periodo.   
+ 
+6. Instrumento Financiero 
+ 
+La clasificación de los activos y pasivos financieros por categoría es como sigue:  
+ 
+ 
+ 
+ 
+ 
+ 
+En miles de soles Nota 2024 2023
+Activos financieros según el estado de situación financiera
+- Efectivo y equivalente de efectivo 7 83,016 164,224
+Préstamos y cuentas por cobrar al costo amortizado:
+- Cuentas por cobrar comerciales -                     2,395
+- Otras cuentas por cobrar (excluye activos no financieros) (i) 9 105,773 40,330
+- Cuentas por cobrar a partes relacionadas 8 476,477 380,616
+665,266 587,565
+Al 31 de diciembre de
+En miles de soles 2024 2023
+Pasivos financieros según el estado de situación financiera
+Otros pasivos financieros al costo amortizado:
+- Bono 693,430 -                     
+- Cuentas por pagar comerciales y otras cuentas
+por pagar (excluye pasivos no financieros) (ii) 470,944 489,179
+- Cuentas por pagar a partes relacionadas 237,971 179,243
+- Otros pasivos financieros -                     409,556
+- Pasivo por derechos de uso -                     32,361
+1,402,345 1,110,339
+Al 31 de diciembre de
+
+=== PAGINA PDF 11 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 9 - 
+ 
+(i) Se excluye los siguientes activos no financieros: reclamos a terceros por S/ 46.7 millones, 
+impuesto temporal de activos netos – ITAN por S/ 6.2 millones, pagos a cuenta por S/ 1.1 
+millones, crédito a favor por S/0.7 millones y anticipo a proveedores S/0.5 millones (reclamos 
+a terceros por S/ 30 millones, Impuesto temporal de activos netos – ITAN por S/ 3.7 millones, 
+pagos a cuenta por S/ 0.6 millones respectivamente, al 31 de diciembre de 2023). 
+ 
+(ii) Se excluye los siguientes pasivos no financieros: impuestos por pagar S/ 0.7 millones y 
+remuneraciones y participaciones por pagar por S/ 3.8 millones, (S/ 4.9 millones y S/ 3.6 
+millones, respectivamente, al 31 de diciembre de 2023). 
+ 
+7. Efectivo y Equivalentes de Efectivo  
+Al 31 de diciembre, este rubro comprende:  
+     
+ 
+ 
+(a) Las cuentas corrientes están denominadas en moneda local y extranjera depositadas en 
+bancos locales con una alta evaluación crediticia y son de libre disponibilidad. Estas cuentas 
+generan intereses a tasas de mercado. 
+ 
+(b) Fideicomisos: La Compañía mantiene cuentas de fideicomiso como fondos operativos en 
+bancos locales para la administración de fondos de reserva y garantía destinadas para el 
+cumplimiento de pago de obligaciones de la Compañía. 
+ 
+(c) Los depósitos a plazo tienen vencimiento inferior a noventa (90) días y pueden renovarse al 
+vencimiento. Al 31 de diciembre de 2024, corresponden principalmente depósitos a plazos 
+realizados a través de fondos administrados por la subsidiaria Aenza Servicios  
+Corporativos S.A.C.: 
+ 
+ 
+El efectivo y equivalente s de efectivo no representa un riesgo de crédito ni de tasa de interés 
+significativo; por lo tanto, sus valores en libros se aproximan a su valor razonable. 
+ 
+8. Transacciones entre Partes Relacionadas   
+ 
+A. Transacciones entre partes relacionadas 
+Las principales transacciones entre la Compañía y sus partes relacionadas, las cuales se incluyen 
+en el estado separado de resultados, se resumen como sigue: 
+ 
+En miles de soles 2024 2023
+Caja 2 7
+Cuentas corrientes (a) 21,614 110,993
+Fideicomisos – Fondo de uso específico (b) 22,548 18,957
+Depósitos a plazo (c) 38,852 34, 267
+Total efectivo y equivalentes de efectivo 83,016 164,224
+En miles de soles
+Entidad Financiera
+Tasa de 
+interés Fecha de vencimiento Moneda
+Al 31 de 
+diciembre 
+2024
+Banco de Crédito del Perú 4.36% 2/01/2025 SOL 8,600
+8,600
+Banco de Crédito del Perú 3.51% 6/01/2025 USD 5,073
+Banco de Crédito del Perú 3.46% 2/01/2025 USD 10,147
+Banco de Crédito del Perú 3.46% 2/01/2025 USD 15,032
+30,252
+38,852
+
+=== PAGINA PDF 12 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 10 - 
+ 
+ 
+ 
+Las transacciones entre partes relacionadas se llevaron a cabo bajo términos similares a los 
+practicados con terceros no vinculados. 
+ 
+B. Saldos con partes relacionadas 
+Los saldos comprenden lo siguiente: 
+ 
+ 
+Las cuentas por cobrar comerciales a partes relacionadas surgen por: a) prestar servicios de asesoría 
+estratégica, b) venta de bienes y servicios principalmente por alquileres de oficinas y 
+estacionamientos (ambos servicios tienen como vencimiento  dos meses después de la fecha del 
+servicio prestado) y c) servicios reembolsables por gastos correspondiente a sus relacionadas 
+pagadas por la Compañía cuyo vencimiento no es determinado. Las cuentas por pagar a partes 
+relacionadas surgen principalmente de transacciones de prestación de servicios de leasing de 
+equipos informáticos y reembolsos por gastos de la Compañía pagados por sus relacionadas. 
+(*) Corresponde al adelanto por la  adquisición del edificio en Surquillo, proporcionado a la  
+subsidiaria Viva Negocio Inmobiliario S.A.C. por S/ 60.1 millones 
+En miles de soles Nota 2024 2023 2024 2023
+Ingresos
+Ingresos por intereses 18                    4,546                    5,974                  15,604                  27,447 
+Ingresos por alquileres de estacionamiento y edificios                    2,797                    2,896                  11,366                  12,392 
+Ingresos por comisiones y avales de préstamos 18                    2,309                    2,182                    8,924                    8,699 
+Ingresos por servicios prestados                    1,766                    1,997                    7,089                    7,989 
+11,418 13,049 42,983 56,527
+Gastos
+Gastos por intereses de préstamos 18                    3,049                    2,012                  11,508                  10,904 
+Costo por servicios prestados                   (6,685)                 (10,005)                    1,013                    1,234 
+Gastos por comisión por carta fianza o avales                          -                           17                         51                         67 
+             (3,636)              (7,976) 12,572 12,205
+Para el periodo de tres meses
+finalizado el 31 de diciembre
+Para el periodo de doce meses
+finalizado el 31 de diciembre
+Por cobrar Por pagar Por cobrar Por pagar
+Operaciones comerciales y diversas:
+Viva Negocio Inmobiliario S.A.C.  (*) -                                    60,100 -                     -                     
+Tren Urbano de Lima S.A. (**)                  1,510 -                                    32,074 -                     
+AENZA Servicios Corporativos S.A.C.                10,314 -                                    10,339 450
+Cumbra Ingeniería S.A.                  4,181 -                                      3,450 -                     
+Unna Inversiones S.A.C.                  1,420 -                     -                     -                     
+Red Vial 5 S.A. -                     -                                      2,730 -                     
+Unna Energía S.A.                     509 -                                      2,150 -                     
+Consorcio Lima Actividades S.A.                  1,648 -                                      1,648 -                     
+Otros menores 3,787 3,033 4,460 2,589
+23,369 63,133 56,851 3,039
+Operaciones de préstamos:
+Cumbra Perú S.A.                78,210 -                     966                    -                     
+Unna Energía S.A.                46,743 -                                    75,629 -                     
+Viva Negocio Inmobiliario S.A.C.                  7,329 -                                      7,329 -                     
+Morelco SAS                  1,967 -                                            -   -                     
+Otros menores                     344 15                      340 -                     
+134,593 15                 84,264 -                
+Porción corriente 157,962 63,148 141,115 3,039
+Porción no corriente
+Operaciones comerciales y diversas:
+Gasoducto Sur Peruano S.A. (i) 239,968 -                     236,584 -                     
+Cumbra Perú S.A. -                     6,779                 -                     7,773
+239,968 6,779            236,584 7,773
+Operaciones de préstamos:
+Inversiones en Autopistas S.A. -                     -                     -                     139,484
+UNNA Inversiones SAC -                     122,891 -                     -                     
+Unna Energía S.A. 75,591 -                     -                     -                     
+Carretera Andina del Sur S.A.C. -                     17,189 -                     15,988
+Concesionaria La Chira S.A. -                     14,930 -                     -                     
+Unna Transporte S.A.C. -                     11,563 -                     11,563
+Otros menores 2,956 1,471 2,887 1,396
+78,547 168,044 2,887 168,431
+Porción no corriente 318,515 174,823 239,471 176,204
+En miles de soles
+Al 31 de diciembre de 2023Al 31 de diciembre de 2024
+
+=== PAGINA PDF 13 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 11 - 
+ 
+(**) La variación corresponde al cobro de dividendos declarados del año 2023 por el Tren Urbano 
+de Lima S.A. 
+ 
+Las cuentas por cobrar y por pagar son principalmente de vencimiento corriente excepto por 
+Gasoducto Sur Peruano S.A.  y no tienen garantías específicas. Estos saldos no generan intereses 
+considerando su vencimiento a corto plazo. 
+ 
+i. Gasoducto Sur Peruano S.A. (GSP) 
+ 
+El 30 de abril de 2024, mediante escritura pública se dio por resuelto el contrato de Fideicomiso de 
+Servidumbres, Costos Administrativos y Realización de Obras Sociales conformado por GSP y La 
+Fiduciaria, relacionado al Contrato de Concesión. Como consecuencia de ello, se liberaron US$38.3 
+millones y que a la fecha se encuentran en cuentas bancarias de GSP, en Liquidación, administrados 
+por Alva Legal Asesoría Empresarial S.A.C., Liquidador elegido para el proceso de Liquidación de 
+GSP. 
+ 
+Con esto, el proceso de liquidación de GSP continua su curso, así como las acciones necesarias 
+para la recuperación del Valor Contable Neto (VCN). 
+ 
+Valores reconocidos en los estados financieros separados  
+Al 31 de diciembre de 2024, el valor neto de la cuenta por cobrar a GSP corresponde a un 
+aproximado de US$63.9 millones, equivalente a S/240 millones (US$63.9 millones equivalente a 
+S/236.6 millones al 31 de diciembre de 2023).  
+ 
+La Gerencia de la Compañía mantiene la estimación de recupero en 8 años, aplicando una tasa de 
+descuento de 5.86% para el 2024 y 2023.  
+ 
+De acuerdo con la evaluación de la Gerencia y en conjunto con la opinión del departamento legal 
+interno y los asesores legales externos, la estimación de recupero, la estimación de deterioro y el 
+valor neto reconocido de la cuenta por cobrar a GSP al 31 de diciembre de 2024 y de 2023 es 
+razonable y suficiente a la fecha de presentación de los estados financieros separados de la 
+Compañía. 
+ 
+  
+
+=== PAGINA PDF 14 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 12 - 
+ 
+C. Préstamos entre partes relacionadas 
+ 
+El movimiento de los préstamos al 3 1 de diciembre de 2024 y de 2023 entre relacionadas es el 
+siguiente: 
+ 
+ 
+ 
+Al 31 de diciembre de 2024, las cuentas por cobrar y por pagar por préstamos entre relacionadas 
+generan intereses considerando su vencimiento. 
+ 
+Préstamos otorgados 
+(i) En 2024 las adiciones de los préstamos otorgados corresponden a: 
+- Morelco S.A.S. por S/ 126.2 millones, Cumbra Perú S.A. por S/ 79.6 millones, Unna  
+Energía S.A. por S/ 44.8 millones, y otros menores por S/ 0.5 millones (En 2023 las 
+adiciones corresponden a Cumbra Perú S.A. por S/ 74.9 millones, Unna Energía S.A. 
+por S/ 36.2 millones, Concesionaria Chavimochic S.A. por S/ 0.5 millones). 
+(ii) Cobros por los préstamos otorgados corresponde a: 
+- Morelco S.A.S. por S/125.6 millones, Cumbra Perú S.A. por S/39.3 millones, y Unna 
+Energía S.A. por S/7.2 millones (En 2023 los cobros corresponden a Cumbra Perú S.A. 
+por S/65.8 millones, Morelco S.A.S. por S/23.6 millones y Unna Energía S.A. por S/6.6 
+millones). 
+(iii) Asimismo, en diciembre de 2024 se acordó realizar: 
+- La capitalización de deudas de la subsidiaria Cumbra Perú S.A. por S/ 58.2 millones (En 
+2023 la capitalización de deudas de la subsidiaria Cumbra Perú S.A. fue por S/ 211.7 
+millones). 
+Préstamos Recibidos 
+(i) En 2024 las adiciones de los préstamos recibidos corresponden a: 
+- Unna Inversiones S.A.C por S/ 34.2 millones y AENZA Servicios Corporativos S.A.C por 
+S/ 15 millones (En 2023 no se recibió préstamos).  
+(ii) Pagos por los préstamos recibidos corresponde a: 
+- Unna Inversiones S.A.C por S/34.2 millones (En 2023 corresponde a Viva Negocios 
+Inmobiliario S.A.C por S/0.04 millones). 
+(iii) La compensación en préstamos recibidos en 2024 corresponde a Inversiones en Autopista 
+por S/ 34.6 millones (En el 2023 corresponde a  Inversiones en autopista por S/ 24.5 
+millones). 
+ 
+En miles de soles 2024 2023
+Préstamos otorgados:
+Saldo inicial 87, 181 256,358
+Adiciones (i) 251,124 111,628
+Intereses devengados 12,709 31,943
+Cobranzas (capital e intereses) (ii) (172,079) (96,055)
+Compensación 89,787        (1,474)
+Capitalización (iii) (58,221)       (211,681)
+Diferencia de Cambio 2,639 (3,538)
+Saldo Final 213,140 87,181
+Préstamos recibidos:
+Saldo Inicial 168,431 190,139
+Adiciones (i) 49,241 -                     
+Intereses devengados 5,512 9,675
+Pagos (ii) (34,176)       (47)
+Compensación (iii) (34,643) (24,543)
+Valor presente 12,150 (2,015)
+Diferencia de Cambio 1,544 (4,778)
+Saldo Final 168,059 168,431
+
+=== PAGINA PDF 15 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 13 - 
+ 
+La Compañía efectúa sus operaciones con empresas relacionadas bajo las mismas condiciones que 
+las efectuadas con terceros, por consiguiente, no hay diferencias en las políticas de precios ni en la 
+base de liquidación de impuestos; en relación con las formas de pago, las mismas no difieren con 
+políticas otorgadas a terceros. 
+De acuerdo con la evaluación de la Gerencia, no se requiere constituir ninguna provisión de 
+incobrabilidad para las cuentas por cobrar y préstamos otorgados a partes relacionadas al 31 de 
+diciembre de 2024 y de 2023. 
+ 
+9. Otras Cuentas por Cobrar, Neto  
+ 
+Este rubro comprende: 
+ 
+ 
+ 
+(a) Al 31 de diciembre de 2024, los fondos restringidos corresponden a certificados bancarios 
+en garantía compuestos por: S/ 47.2 millones y S/ 22.7 millones en Liberty Seguros S.A. y 
+Banco Internacional del Perú S.A.A. - INTERBANK, respectivamente, para garantizar pago 
+de deuda tributaria materia de aplazamiento; S/ 2.3 millones equivalente US$ 0.6 millones, 
+en The Bank of New York Mellon para resguardo de temas aplicables al bono. 
+ 
+(b) Corresponde al reclamo de la Compañía ante el Juzgado Especializado en lo Contencioso 
+Administrativo de la Corte de Justicia de Lima en contra de la Administración Tributaria por 
+deducciones de pérdida en inversiones. El saldo al 31 de diciembre 2024 es S/ 29.9 millones 
+(S/ 29.9 millones, al 31 de diciembre de 2023). Adicionalmente, durante el año 2024 se ha 
+realizado el pago del fraccionamiento por concepto de deuda tributaria del impuesto a la 
+renta 2010 y 2013 por S/ 16.8 millones. En opinión de la Gerencia y sus asesores legales, 
+esta cuenta será recuperada en el largo plazo, al término del proceso judicial. 
+ 
+(c) El saldo corresponde al reclamo al Ministerio de Desarrollo Agrario y Riego (en adelante 
+“MIDAGRI”) realizado por la Concesionaria Chavimochic por US$ 8.9 millones equivalente 
+a S/ 32.5 millones por la ejecución del total de la Garantía de Fiel Cumplimiento, derivada 
+del proceso arbitral seguido contra el Gobierno Regional de La Libertad y el MIDAGRI por 
+el procedimiento de terminación anticipada del Contrato de Concesión por incumplimiento 
+contractual del Concedente. 
+  
+En miles de soles 2024 2023
+Fondos restringidos (a) 72,169 7,346
+Reclamos a terceros (b) 46,691 29,976
+Cuenta por cobrar a terceros (c) 32,543 32,062
+Impuestos y créditos por recuperar 8,010 4,401
+Otros menores 1,522 922
+Saldos al 31 de diciembre de 160,935 74,707
+Porción corriente 81,696 5,318
+Porción no corriente 79,239 69,389
+160,935 74,707
+
+=== PAGINA PDF 16 ===
+AENZA S.A.A.  
+Notas a los Estados Separados  
+Al 31 de diciembre de 2024 y de 2023  
+ 
+- 14 - 
+ 
+10. Inversiones en Subsidiaria, Asociadas y Negocio Conjunto 
+ 
+Al 31 de diciembre de 2024 y de 2023 el detalle de las inversiones en subsidiarias y asociadas comprende:  
+ 
+      *Inversión totalmente deteriorada 
+ 
+Domicilio 2024 2023 2024 2023 2024 2023
+Unna Inversiones S.A.C. (i) Perú 99.99                  99.99 1, 005,760 715,120             132,577 132,306
+Inversiones Ingenieria y Construcción S.A.C. (i) Perú 99.55                  99.53 369, 214 578,398 (255,232) 302
+Viva Negocio Inmobiliario S.A.C. Perú 99.39                  99.39 300, 764 289,940 10,824 11,439
+Cumbra Ingeniería S.A. Perú 89.41                  89.41 30, 636 25,642 4,784 (2,574)
+Unna Transporte S.A.C. Perú 100.00                100.00 25, 678 26,024 1,097 2,028
+CAM Holding S.P.A. Chile 100.00                100.00 16, 705 17,343 1,269 191
+AENZA Servicios Corporativos S.A.C. Perú 100.00                100.00 12, 119 7,941 4,178 5,045
+Agenera S.A. Perú 99.00                  99.00 6, 083 2,889 5,718 2,710
+Promotora Larcomar S.A. Perú 46.55                  46.55 2, 731 2,735 (4) 23
+Recaudo Lima S.A. Perú 100.00                100.00 772 772 -                     -                     
+Billetera Electrónica de Transporte Lima S.A.C. Perú 95.50                  95.50 9 9 -                     -                     
+Negocio del Gas S.A. Perú 99.99                  99.99 -                     -                     -                     -                     
+1,770,471 1,666,813 (94,789) 151,470
+Asociadas
+Concesionaria Chavimochic S.A.C. * Perú 26.5 26.5 -                     -                     -                     -                     
+Inversiones en subsidiaria y asociadas 1,770,471 1,666,813 (94,789) 151, 470
+En miles de soles
+Participación en el capital Valor en libros Valor de participación patrimonial en resultados
+
+=== PAGINA PDF 17 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 15 - 
+ 
+(i) Para efectos de presentación en el año 2023 se reestructuraron los saldos en Unna Inversiones 
+S.A.C. e Inversiones Ingeniería y Construcción S.A.C. se agrupó de acuerdo con la Reorganización 
+societaria (nota 1E), con la finalidad de hacerlos comparativos: 
+ 
+ 
+ 
+Por el periodo terminado al 31 de diciembre, el movimiento de las inversiones es como sigue: 
+ 
+ 
+  
+(a) En 2024 se realizó aporte dinerario por S/ 207.1 millones a Unna Inversiones S.A. C.  
+ 
+(b) De acuerdo al plan de reorganización corporativa, conforme al cual la nueva estructura del grupo 
+económico está conformada por dos nuevas holding, una que agrupa los negocios de ingeniería 
+y construcción y otra que agrupa los negocios de infraestructura y energía (nota 1E). 
+ 
+(c) En 2024 se aprobó la capitalización de deudas de la subsidiaria Cumbra Perú S.A. por S/ 58.2 
+millones el cambio de porcentaje es de 99.53% a 99.55% e Inversiones  Ingeniería y  
+Construcción S.A.C. por S/74.2 millones, incrementándose el porcentaje de 99.55% a 99.58%. 
+En diciembre 2023 se aprobó la capitalización de deudas de la subsidiaria Cumbra Perú S.A. por 
+S/ 211.7 millones, incrementándose el porcentaje de 99.39% a 99.53%.  
+ 
+(d) En 2024, se declararon S/ 77.6 millones en las subsidiarias: UNNA Inversiones S.A.C por  
+S/ 36.2 millones, Inversiones en Autopista S.A. por S/ 24.3 millones, Red Vial 5 S.A por S/ 11.8 
+millones, Agenera S.A. por S/ 2.5 millones, UNNA Transporte S.A.C. por  S/ 1.4 millones y 
+Carretera Sierra Piura S.A.C. por S/ 1.4 millones; de los cuales se cobraron S/ 32.6 millones del 
+periodo, S/ 34.8 millones de años anteriores, S/ 2.7 millones como anticipos y se compensaron 
+S/ 41.2 millones; quedando un saldo de dividendos por cobrar de S/ 2.1 millones. 
+ 
+Domicilio 2023 2023 2023
+Unna Energía S.A. Perú                  95.00 424,874 46,237
+Tren Urbano de Lima S.A. Perú                  75.00 162,679 58,970
+Inversiones en Autopista S.A. Perú                100.00 77,648 20,983
+Red Vial 5 S.A. Perú                  18.20 26,225 7,828
+Carretera Andina del Sur S.A.C. Perú                100.00 18,972 (2,207)
+Carretera Sierra Piura S.A.C. Perú                  99.96 4,712 525
+Concesionaria Vía Expresa Sur S.A. Perú                  98.89 10 (30)
+A: Unna Inversiones S.A.C. 715,120 132,306
+Cumbra Perú S.A. Perú                  99.53 578,398 302
+A: Inversiones Ingenieria y Construcción S.A.C 578,398 302
+En miles de soles
+Participación 
+en el capital Valor en libros
+Valor de 
+participación 
+patrimonial 
+en resultados
+En miles de soles 2024 2023
+Saldo inicial 1,666,813 1,428,401
+Aporte dinerario  (a) 207,131                     -   
+Reclasificación de cuentas por cobrar de la Chira a inversiones 24,543                     -   
+Reorganización societaria (b)                 -                       -   
+    Baja de inversiones por Reorganización Societaria (1,572,376)
+    Aporte no dinerario a Unna Inversiones S.A.C.       815,674 
+    Aporte no dinerario a Unna Infraestructura S.A.C. 351,209      
+    Aporte no dinerario a Inversiones en I&C S.A.C. 405,493      
+Capitalización ( c) 58,221 211,681
+Participación patrimonial en los resultados de las subsidiarias y 
+asociadas (94,789) 151,470
+Participación patrimonial en otros resultados integrales de inversiones 
+en subsidiarias y asociadas (13,871) 30,330
+Dividendos recibidos (d) (77,577) (155,069)
+Saldo final 1,770,471 1,666,813
+
+=== PAGINA PDF 18 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 16 - 
+ 
+Al 31 de diciembre de 2023 se declararon S/ 155.1 millones en las subsidiarias: por Tren Urbano 
+de Lima por S/73.5 millones, Unna Energía S.A. por S/39.4 millones, Inversiones en Autopista 
+S.A. por S/24.7 millones, Red Vial por S/12 millones, Unna Transporte S.A.C. por S/5.5 millones; 
+de los cuales se cobraron S/94 millones del periodo, S/ 6.3 millones de años anteriores y se 
+compensaron S/ 26.3 millones; quedando un saldo de dividendo por cobrar de S/ 34.8 millones. 
+ 
+11. Propiedades de Inversión, Activos Intangibles y Activo por Derecho de Uso   
+El movimiento de los rubros de propiedades de inversión, activos intangibles y los activos por derecho 
+de uso es el siguiente:  
+ 
+a) Propiedades de inversión, neto 
+El movimiento de la propiedad de inversión y el de su correspondiente depreciación acumulada, por 
+los años terminados el 31 de diciembre de 2024 y de 2023 es el siguiente:  
+ 
+ 
+ 
+(a) La propiedad de inversión se contabiliza al costo neto de depreciación acumulada y 
+corresponde a lo siguiente: 
+ 
+(*) La Compañía es propietaria del inmueble ubicado en la Av. Paseo de la Republica 4675 en 
+Surquillo. Al 31 de diciembre de 2024, el valor razonable asciende a S/ 77.2 millones, equivalente a 
+US$ 20.1millones. Al 31 de diciembre de 2024 el saldo, neto en libros asciende a S/36.7 millones (S/ 
+38.6 millones al cierre del 2023). 
+(**) El 23 de diciembre la Compañía adquirió el inmueble ubicado en la Av. Petit Thouars 4957 en 
+Miraflores por US$ 19.9 millones equivalente por S/74.8 millones. 
+ 
+En miles de soles Terrenos Edificios Total
+Costo
+Saldo al 01 de enero 2023 10,968 48,067 59,035
+Transferencias Interna  - Costo -                     2,971 2,971
+Saldo al 31 de diciembre 2023 10,968 51,038 62,006
+Saldo al 01 de enero 2024 10,968 51,038 62,006
+Adición 19,254 55,519 74,773
+Saldo al 31 de diciembre 2024 30,222 106,557 136,779
+Depreciación acumulada
+Saldo al 01 de enero 2023 -                     (18,441) (18,441)
+Transferencias Interna  - Depreciación -                     (2,971) (2,971)
+Depreciación (1,964) (1,964)
+Saldo al 31 de diciembre 2023 -                     (23,376) (23,376)
+Saldo al 01 de enero 2024 -                     (23,376) (23,376)
+Depreciación -                     (1,964) (1,964)
+Saldo al 31 de diciembre 2024 -                     (25,340) (25,340)
+Saldos acumulados
+Al 01 de enero de 2023 10,968 29,626 40,594
+Al 31 de diciembre de 2023 10,968 27,662 38,630
+Al 31 de diciembre de 2024 30,222 81,217 111,439
+En miles de soles 2024 2023
+Año de 
+adquisición o 
+construcción
+Nivel de 
+jerarquía
+Metodología 
+de 
+valorización
+Propiedades de inversión 
+construida
+Oficinas en alquiler – Surquillo (*) 36,667 38,630 2009 Nivel 3 Tasación
+Oficinas administrativas (**) 74,772 - 2024 Nivel 3 Tasación
+111,439 38,630
+
+=== PAGINA PDF 19 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 17 - 
+ 
+b) Activos Intangibles, neto 
+El movimiento de los activos intangibles y el de su correspondiente amortización acumulada, por los 
+años terminados el 31 de diciembre de 2024 y de 2023 es el siguiente:  
+ 
+   
+ 
+El activo intangible comprende los costos incurridos relacionados con el ERP Oracle y el Sistema 
+Corporativo de Gestión Humana del SAP. 
+ 
+c) Activo por derecho de uso 
+El movimiento de los activos por derecho de uso y el de su correspondiente depreciación acumulada, 
+por los años terminados el 31 de diciembre de 2024 y de 2023 es el siguiente:  
+ 
+ 
+ 
+  
+En miles de soles Software Total
+Costo
+Saldo al 1 de enero 2023 7,182 7,182
+Saldo al 31 de diciembre 2023 7,182 7,182
+Saldo al 1 de enero 2024 7,182 7,182
+Baja (55) (55)
+Saldo al 31 de diciembre 2024 7,127 7,127
+Amortización acumulada
+Saldo al 1 de enero 2023 5,141 5,141
+Amortización 567 567
+Saldo al 31 de diciembre 2023 5,708 5,708
+Saldo al 1 de enero 2024 5,708 5,708
+Amortización 445 445
+Saldo al 31 de diciembre 2024 6,153 6,153
+Saldos acumulados
+Al 1 de enero de 2023 2,041 2,041
+Al 31 de diciembre de 2023 1,474 1,474
+Al 31 de diciembre de 2024 974 974
+En miles de soles Inmuebles Vehículos Total
+Costo
+Saldo al 01 de enero 2023 61,993 178 62,171
+Adiciones 669 -                     669
+Baja de derecho de uso - costo (12) (12)
+Saldo al 31 de diciembre 2023 62,662 166 62,828
+Saldo al 01 de enero 2024 62,662 166 62,828
+Adiciones 1,001 -                     1,001
+Terminación de contrato (i) (63,663) (12) (63,675)
+Otros -                     (154) (154)
+Saldo al 31 de diciembre 2024 -                     -                     -                     
+Depreciación acumulada
+Saldo al 01 de enero 2023 28,699 35 28,734
+Depreciación 8,025 9 8,034
+Saldo al 31 de diciembre 2023 36,724 44 36,768
+Saldo al 01 de enero 2024 36,724 44 36,768
+Depreciación 8,027 9 8,036
+Terminanción de contrato (i) (44,751) -                     (44,751)
+Otros -                     (53) (53)
+Saldo al 31 de diciembre 2024 -                     -                     -                     
+Saldos Acumulados
+Al 01 de enero de 2023 33,294 143 33,437
+Al 31 de diciembre 2023 25,938 122 26,060
+Al 31 de diciembre 2024 -                     -                     -                     
+
+=== PAGINA PDF 20 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 18 - 
+ 
+(i) El derecho de uso por el edificio administrativo, ubicado en Miraflores, Lima, fue terminado 
+anticipadamente, por lo que se reconoció su impacto por la baja del activo y pasivo (nota 17). 
+ 
+12. Otros Pasivos Financieros 
+Este rubro comprende: 
+ 
+  
+  
+(a) El 17 de marzo de 2022, la Compañía celebró un contrato de crédito puente por hasta US$ 
+120 millones,  con un grupo de entidades financieras conformado por Banco BTG Pactual 
+Sucursal Caimán,  Banco Santander Perú, HSBC México, Institución de Banca Múltiple, 
+Grupo Financiero HSBC, y Natixis, Sucursal Nueva York. La financiación se amortizaría en 
+un plazo de dieciocho (18) meses, mediante pago de cuotas por intereses trimestrales, y 
+está garantizada, sujeto al cumplimiento de ciertas condicio nes precedentes, por un 
+fideicomiso de flujo (primer gravamen), una prenda sobre nuestras acciones en Unna Energía 
+S.A. (primer gravamen), y un fideicomiso sobre las acciones de Viva Negocio Inmobiliario 
+S.A.C. (segundo gravamen). El 5 de abril de 2022, la Compañía recibió el crédito puente por 
+US$ 120 millones. 
+ 
+El 5 de octubre de 2023 y el 27 de diciembre de 2023 se realizaron pagos de US$ 8 millones 
+(equivalente a S/ 29.1 millones) y US$ 12 millones (equivalente a S/ 43.6 millones), 
+respectivamente. Adicionalmente, el 27 de diciembre de 2023, se suscribió la extensión de 
+plazo del contrato de crédito puente hasta por US$ 100 millones por un periodo de doce 
+meses. 
+Al 31 de diciembre de 2023, la Compañía ha cumplido con los covenants establecidos en el 
+contrato de préstamo. 
+ 
+El 14 de mayo de 2024, la compañía canceló la totalidad de la deuda de US$ 100 millones, 
+equivalente a S/ 363.4 millones.  
+ 
+El 15 de febrero de 2023 y el 15 de mayo de 2023, el Ministerio de Desarrollo Agrario y 
+Riego – MIDAGRI ejecutó la carta fianza bancaria por un importe total de US$ 9.5 millones 
+que habían sido emitidas en nombre de la Concesionaria Chavimochic S.A.C. como garantía 
+en virtud del contrato de Concesión.  Como resultado la Compañía suscribió un préstamo a 
+corto plazo con el Banco del Crédito de Perú bajo el tramo C1 del contrato de financiamiento 
+sindicado financiado en un plazo de doce (12) meses. El 4 de junio de 2024, la compañía 
+canceló la totalidad de US$ 8 millones (equivalente a S/ 30.7 millones). 
+ 
+(b) La terminación anticipada del contrato de alquiler por el pasivo por derecho de uso (nota 8 
+A). 
+ 
+ 
+ 
+2024 2023
+Préstamos bancarios
+Credito Puente (a) 2024
+Term SOFR 3M + 
+de 
+9.75% a 11.25% USD -                                     379,928 
+Banco de Crédito del Perú S.A. (b) 2024 15% USD -                                      29,628 
+Pasivo por derecho de uso
+Volcom Capital Petit Thouars S.A.C. 2027 9.49% USD -                                      32,361 
+-                                441,917 
+Porción corriente -                                     416,610 
+Porción no corriente -                                      25,307 
+-                                441,917 
+En miles de soles  
+Año de 
+vencimiento Tasa de interes Moneda
+Al 31 de diciembre de
+
+=== PAGINA PDF 21 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 19 - 
+ 
+ 
+I. Al 31 de diciembre de 2023, el valor en libros y el valor razonable de otros pasivos financieros son 
+como sigue: 
+ 
+ 
+ 
+II. El movimiento de otros pasivos financieros que se incluyen en las actividades de financiamiento 
+son: 
+ 
+ 
+ 
+ 
+  
+En miles de soles 2024 2023 2024 2023
+Préstamos Bancarios                      -              409, 556                      -              409,556 
+Pasivo por derecho de uso                      -                32, 361                      -                32,480 
+                     -          441,917                      -          442,036 
+Valor en libros Valor razonable
+Al 31 de diciembre deAl 31 de diciembre de
+En miles de soles Nota
+Préstamos 
+bancarios
+Pasivo por 
+derecho de uso
+Saldos al 1 de enero 409,556             32,361
+Adiciones -                     -                     
+Amortización de préstamos recibidos (394,130)
+Amortización de pasivo derecho de uso -                     (6,604)                
+Interés devengado 18 29, 568 2,637
+Interés pagado (38,645) ( 2,637)                
+Ajustes de tarifa activo por derecho de uso 19 -                     (1,392)
+Diferencia de Cambio (6,349) ( 405)
+Otros -                     (23,960)
+Saldos al 31 de diciembre -                     -                     
+2024
+2023
+En miles de soles Nota
+Préstamos 
+bancarios
+Pasivo por 
+derecho de uso
+Saldos al 1 de enero 463,773 41,600
+Adiciones 36,237 -                     
+Amortización de préstamos recibidos (79,231) -                     
+Amortización de pasivo derecho de uso -                     ( 5,237)
+Interés devengado 18 70,250               3, 695
+Interés pagado (58,414) (3,695)
+Ajustes de tarifa activo por derecho de uso 19 -                     ( 3,043)
+Diferencia de Cambio (14,469) (1,616)
+Otros (8,590) 657                    
+Saldos al 31 de diciembre 409,556 32,361
+
+=== PAGINA PDF 22 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 20 - 
+ 
+13. Bonos  
+ 
+Al 31 de diciembre, este rubro comprende: 
+ 
+ 
+ 
+El 14 de mayo de 2024, la Compañía realizó una emisión internacional de bonos corporativos, 
+adhiriéndose a las directrices establecidas por la Regla 144A y la Regulación S de los Estados Unidos 
+de Norte América. La emisión se realizó por un monto de US$ 210 millones, con un plazo de 
+amortización bullet a 5 años que culmina con el reembolso del principal al vencimiento. Los bonos 
+presentan una clasificación de riesgo de BB-. 
+ 
+Estos bonos incluyen las siguientes garantías: (i) garantía mobiliaria sobre las acciones de Unna 
+Energía S.A., (ii) fideicomiso sobre las acciones de Unna Inversiones S.A.C. y Unna Infraestructura 
+S.A.C., (iii) fideicomiso sobre los dividendos recibidos de Unna Energía S.A., Tren Urbano de Lima S.A. 
+y Red Vial 5 S.A., así como sobre ciertas cuentas por cobrar de AENZA frente a Unna Energía S.A. por 
+préstamos intercompañía, (iv) fideicomiso sobre los dividendos recibidos de Carretera Andina del Sur 
+S.A., Carretera Sierra Piura S.A.C. y Concesionaria La Chira S.A., (v) fideicomiso de flujos sobre las 
+cuentas por cobrar correspondiente a los Lotes III y IV, y (vi) la Cuenta de Reserva del Servicio de la 
+Deuda.  
+ 
+Por el periodo terminado al 31 de diciembre de 2024, el movimiento de esta cuenta es la siguiente  
+ 
+ 
+ 
+14. Otras Cuentas por Pagar 
+Este este rubro comprende: 
+ 
+ 
+ 
+2024
+Bonos Corporativos-Regulación S 
+Estados Unidos de Norte América 2029 12.00% USD          693,430 
+693,430
+Porción corriente 7,015
+Porción no corriente          686,415 
+693,430
+En miles de soles 
+Año de 
+vencimiento
+Tasa de 
+interes Moneda
+En miles de soles 2024
+Adiciones 781,830
+Interés devengado 73,210
+Interés pagado (47,585)
+Diferencia de Cambio 9,788
+Costos e intereses por emisión (123,813)
+    Interés pagado por adelantado (87,848)
+   Costos de emisión de deuda (35,965)
+Saldos al 31 de diciembre 693,430
+En miles de soles 2024 2023
+Reparación Civil al Estado Peruano (a) 458,066 469,839
+Remuneraciones y participaciones por pagar 3,782 3,630
+Impuesto por pagar 109 4,876
+Otros 2,978 6,439
+464,935 484,784
+Porción corriente 22,852 26,819
+Porción no corriente 442,083 457,965
+464,935 484,784
+Al 31 de diciembre
+
+=== PAGINA PDF 23 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 21 - 
+ 
+(a) Corresponde al pasivo de la Compañía por indemnización a favor del Estado peruano, en relación 
+con su participación como socios minoritarios en ciertas entidades que desarrollaron proyectos 
+de infraestructura en Perú con empresas pertenecientes al grupo Odebrecht y los proyectos 
+asociados. Mediante el Acuerdo de Colaboración y Beneficios, la Compañía se comprometió al 
+pago de una reparación civil a favor del Estado por S/ 333.3 millones y US$ 40.7 millones, en un 
+plazo de 12 años, a una tasa de interés legal en soles 2.52% y dólares americanos 1.80%. 
+Asimismo, la Compañía se obligó a establecer un paquete de garantías a través de un fideicomiso 
+al cual se cederán los siguientes activos y/o derechos: i) acciones emitidas por una de las 
+subsidiarias de la Compañía; ii) un predio perteneciente a la Compañía y (iii) una cuenta de garantía 
+con fondos equivalentes a la cuota anual del año siguiente. Entre otras condiciones, el Acuerdo 
+incluye una restricción para AENZA y las subsidiarias Cumbra Perú S.A. y Unna Transporte S.A.C. 
+a participar en proyectos de infraestructura, construcción y mantenimiento de carreteras con el 
+Estado peruano por un plazo de dos (2) años a partir de la homologación del Acuerdo, que se 
+cumple en diciembre de 2025.  
+ 
+El 29 de noviembre de 2024 se realizó el pago de la segunda cuota de la Reparación Civil al Estado 
+Peruano por S/ 18.8 millones y US$ 1.9 millones. El 27 de diciembre de 2023, se pagó la cuota 
+inicial por S/ 10.3 millones y US$ 1.2 millones. 
+ 
+Al 31 de diciembre de 2024, el saldo incluido intereses asciende a S/ 313.5 millones y US$ 38.3 
+millones, en total S/ 458.1 millones (al 31 de diciembre de 2023, S/ 323 millones y US$ 39.5 
+millones, en total S/ 469.8 millones). 
+ 
+15. Otras Provisiones  
+ 
+Por los años terminados al 31 de diciembre de 2024 y de 2023, el movimiento de este rubro es el 
+siguiente : 
+ 
+ 
+ 
+ 
+ 
+(a) Las contingencias legales corresponden principalmente: 
+ 
+(i) Provisión por reparación Civil 
+La provisión del Acuerdo de Colaboración y Beneficios ascendente a S/ 333.3 millones 
+y US$40.7 millones, fue reclasificada al rubro del estado separado de situación 
+financiera “Otras cuentas por pagar”. 
+Reclamos Contigencias
+En miles de soles legales (a) tributarias (b) Total
+Al 1 de enero de 2024 -                     36,933 36,933
+Adiciones -                     8,103 8,103
+Extorno de provisión -                     (714)                   (714)
+Al 31 de diciembre de 2024 -                     44,322 44,322
+Porción corriente -                     9,749 9,749
+Porción no corriente -                     34,573 34,573
+-                     44,322 44,322          
+Reclamos Contigencias
+En miles de soles legales (a) tributarias (b) Total
+Al 1 de enero de 2023 488,893 30,214 519,107
+Adición del año -                     6,719 6,719
+Reclasificación (487,957)            -                     (487,957)            
+Diferencia de cambio (936) -                     (936)
+Al 31 de diciembre de 2023 -                36,933 36,933
+Porción corriente -                     9,749 9,749
+Porción no corriente -                     27,184 27,184
+-                36,933 36,933
+
+=== PAGINA PDF 24 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 22 - 
+ 
+(b) Contingencias Tributarias 
+(i) Proceso de Apelación ante el Tribunal Fiscal por S/ 27.6 millones por impuesto a la 
+renta de los años 2014, 2015, 2016 y 2017. 
+(ii) Procesos de Reclamación ante SUNAT por S/ 7.2 millones por impuesto a la renta del 
+año 2017, este proceso de adicionó dentro del 2024. 
+(iii) Reclamos ante Poder Judicial por S/ 9.5 millones por impuesto a la renta e impuesto  
+general a las ventas de los años 1998 al 2011. 
+ 
+16. Patrimonio 
+ 
+A. Capital emitido 
+El 29 de noviembre de 2024, la Compañía emitió 414,659,686 nuevas acciones comunes, a un precio 
+por acción de S/0.4966, incrementando el capital social de la Compañía de S/1,371,964,891 a 
+S/1,786,624,577. El total de las acciones fueron suscritas y pagadas íntegramente en dos ruedas de 
+suscripción preferente y mediante Oferta Privada. Se determinó una pérdida de colocación por 
+S/208,739,686, equivalente a la diferencia entre el valor nominal de las nuevas acciones comunes 
+emitidas y el importe total pagado. A la fecha de este informe, el incremento de este capital se 
+encuentra en proceso de inscripción en la partida registral de la Compañía. 
+ 
+Al 31 de diciembre de 2024, las acciones de la Compañía registraron una cotización bursátil al cierre 
+del año de S/ 0.465 por acción y una frecuencia de negociación de 42.17% (S/ 0.57 por acción y una 
+frecuencia de negociación de 49.80% al 31 de diciembre de 2023). 
+ 
+B. Prima en emisión de acciones 
+En esta cuenta se reconoce la diferencia entre el valor nominal y el valor de la transacción por las 
+adquisiciones de acciones en participaciones no controlantes.  
+ 
+El 29 de noviembre de 2024, la Compañía emitió 414,659,686 nuevas acciones comunes, a un precio 
+por acción de S/ 0.4966, incrementando el capital social de la Compañía. Se determinó una pérdida de 
+colocación por S/ 208.7 millones, equivalente a la diferenc ia entre el valor nominal de las nuevas 
+acciones comunes emitidas y el importe total pagado. 
+ 
+Según Acuerdo de Junta de Accionistas de 2023, el saldo de la Prima en emisión de acciones por S/ 
+1.05 millones fue compensado íntegramente con las pérdidas acumuladas a diciembre 2023. Este 
+saldo estaba compuesto por el exceso de los ingresos totales obtenidos por las accione emitidas en 
+2013 y 2019 en comparación con el valor nominal de estas por S/ 1,142 millones, y la pérdida de 
+colocación por S/ 88 millones obtenida en 2023. 
+ 
+ 
+  
+
+=== PAGINA PDF 25 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 23 - 
+ 
+17. Gastos por Naturaleza  
+La composición de estos rubros por los periodos  terminados el 31 de diciembre de 2024 y de 2023 
+es la siguiente:  
+ 
+ 
+ 
+(a) Las cargas del personal comprenden las siguientes partidas: 
+ 
+ 
+ 
+(b) Los servicios prestados por terceros comprenden las siguientes partidas: 
+   
+    
+ 
+ 
+ 
+  
+En miles de soles Nota
+Costo de 
+servicios 
+prestados
+Gastos 
+administrativos Total
+Costo de 
+servicios 
+prestados
+Gastos 
+administrativos Total
+2024
+Cargas de personal (a) 1,807 187 1,994 6, 992 237 7,229
+Servicios prestados por terceros (b)                460 7,664 8,124 2, 512 22,283 24,795
+Tributos 10                 127 137 13 392 405
+Cargas diversas de gestión                   -   21                       21 468 119 587
+Amortización 11 b -                112 112 -              445 445
+Depreciación 2,046 549 2,595 8, 027 2,230 10,257
+4,323 8,660 12,983 18,012 25, 706 43,718
+2023
+Cargas de personal (a)             1,472                          17 1,489 6, 507 209 6,716
+Servicios prestados por terceros (b)             1,190 11,479 12,669 5, 449 24,785 30,234
+Tributos 197 -                        197 483 -                        483
+Cargas diversas de gestión -                                      ( 191)                    (191) 1 1,315 1,316
+Amortización 11 b -                142 142 -              567 567
+Depreciación             2,534 22 2,556 10, 321 96 10,417
+5,393 11,469 16,862 22,761 26, 972 49,733
+Para el periodo de tres meses Para el periodo de doce meses
+finalizado el 31 de diciembre finalizado el 31 de diciembre
+En miles de soles 2024 2023
+Sueldos 5,838 5, 047
+Contribuciones sociales 368 410
+Compensación por tiempo de 481 310
+Gratificaciones 332 408
+Vacaciones 188 222
+Otros 22 319
+7,229 6,716
+En miles de soles 2024 2023
+Asesoría y consultoría 23,336 27,608
+Mantenimiento y reparaciones 785 1,920
+Otros 674 706
+24,795 30,234
+
+=== PAGINA PDF 26 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 24 - 
+ 
+18. Ingresos y Gastos Financieros, neto 
+ 
+A. Ingresos y Gastos financieros 
+ 
+Por los periodos terminados el 31 de diciembre de 2024 y de 2023 comprende: 
+    
+ 
+(a) La variación de préstamo con relacionadas se debe a la tasa que oscilan entre 6.12 % y 17.18% 
+en dólares. 
+(b) La disminución al 31 de diciembre de 2024 corresponde principalmente al pago total del 
+préstamo del crédito puente (nota 12). 
+(c) El incremento al 31 de diciembre de 2024 corresponde principalmente a los intereses 
+devengados y de los costos incurridos de los bonos emitidos por la Compañía el 14 de mayo 
+de 2024, por US$ 210 millones (nota 13). 
+ 
+B. Intereses por valor presente del activo o pasivo financiero 
+ 
+Por los periodos terminados el 31 de diciembre de 2024 y de 2023 comprende: 
+ 
+ 
+ 
+Se presenta una disminución neta respecto al mismo periodo del año anterior principalmente por: 
+La disminución por ajuste al valor razonable del préstamo del BCI en Inversiones en Autopista S.A. por 
+S/ 11.4 millones debido al incremento de la tasa de descuento aplicada al 31 de diciembre de 2024 de 
+9.805% a 9.196% al 31 de diciembre de 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En miles de soles Nota 2024 2023 2024 2023
+Ingresos financieros  :
+Ingresos por intereses:
+   - Préstamos con relacionadas  (a) 8 A                    4,546                    5,974                  15,604                  27,447 
+   - Depósito a plazos                    1,255                    2,277                    4,849                  10,876 
+Comisiones y avales de préstamos a 8 A                    2,309                    2,182                    8,924                    8,699 
+Diferencia en cambio, neto -                                          3,518 -                                          5,198 
+Otros ingresos financieros                          -                           44                       127                       171 
+              8,110             13,995             29,504             52,391 
+Gastos financieros:
+Gastos por intereses:
+   - Préstamos bancarios  (b) 12 B                   (2,657)                  16,175                  29,568                  70,250 
+   - Bonos  (c) 13                  29,358 -                                        73,210 -                       
+   - Reparación Civil                    2,276 158                                       11,943 158                      
+   - Préstamos con relacionadas 8 A                    3,049                    2,012                  11,508                  10,904 
+   - Arrendamiento por derecho en uso 12 B                       557                       796                    2,637                    3,695 
+Comisión de carta fianza terceros                    1,988                    1,623                    8,430                    7,280 
+Diferencia en cambio, neto                    5,417 -                                          6,884 -                       
+Otros gastos financieros                    4,253                    1,620                    4,507                    3,785 
+            44,241             22,384           148,687             96,072 
+Ingresos y gastos financieros, neto            (36,131)              (8,389)          (119,183)            (43,681)
+Para el  periodo de doce meses
+finalizado el 31 de diciembre
+Para el periodo de tres meses
+finalizado el 31 de diciembre
+En miles de soles 2024 2023 2024 2023
+Ganancia por valor presente de activo financiero 
+y pasivo financiero 25,158 (15,361)                27,581 2,399
+Pérdida por por valor presente de activo 
+financiero y pasivo financiero                 (38,001) 29,942 (39,028)                -                       
+           (12,843) 14,581 (11,447) 2,399
+Para el periodo de tres meses Para el  periodo de doce meses
+finalizado el 31 de diciembre finalizado el 31 de diciembre
+
+=== PAGINA PDF 27 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 25 - 
+ 
+19. Otros Ingresos y Otros Gastos, neto 
+La composición de estos rubros para los periodos terminados el 31 de diciembre de 2024 y de 2023 
+es la siguiente:  
+ 
+ 
+ 
+(a) El ajuste por derecho de uso por el edificio administrativo, ubicado en Miraflores, Lima, fue 
+terminado anticipadamente, por lo que se reconoció la baja del activo y pasivo por derecho de 
+uso (nota 11c). 
+ 
+20. Impuesto a la Renta 
+ 
+A. El ingreso (gasto) por Impuesto a la R enta (IR) mostrado en el estado separado de resultados 
+comprende al 31 de diciembre de 2024 y de 2023: 
+   
+ 
+ 
+ 
+B. El IR de la C ompañía difiere del monto teórico que resultaría de aplicar la tasa promedio 
+ponderada de la  Compañía sobre la utilidad del impuesto aplicable a la utilidad antes de 
+impuestos consolidada, como sigue: 
+ 
+ 
+ 
+21. Contingencias, Compromisos y Garantías  
+Al 31 de diciembre de 2024 la Compañía considera que la exposición máxima por contingencias 
+legales asciende  a S/ 1.8 millones (S/ 3.5 millones al cierre del 2023), relacionados a procesos 
+administrativos ante la Superintendencia del Mercado de Valores – SMV. 
+En miles de soles Nota 2024 2023 2024 2023
+Otros ingresos:
+Baja de contrato por terminación anticipada (a)                      6,049 -                                       6,049 -                  
+Ajuste por derecho de uso 12 B -                                         783                       1,392               3,043 
+Ingreso por reembolso de seguro -                                           12 -                                        2,673 
+Otros                            (2)                 728                          394               1,862 
+               6,047          1,523                 7,835           7,578 
+Otros gastos:
+Gastos reembolso de seguro -                                      1,244 -                                        2,110 
+Sanciones administrativas                           79                 144                       1,035                  543 
+Impuestos asumidos                          (78)                 553 -                                           792 
+Otros                         137                   62                          411               1,441 
+                  138          2,003                 1,446           4,886 
+Otros ingreos y gastos, netos                5,909           (480)                 6,389           2,692 
+Para el periodo de doce meses
+finalizado el 31 de diciembre
+Para el periodo de tres meses
+finalizado el 31 de diciembre
+En miles de soles 2024 2023 2024 2023
+Impuesto a la renta corriente (1,628) (939) (2,122) (987)
+Impuesto a la renta diferido (10,244) 1,127 (6,281) (2,711)
+Gasto por impuesto a la renta (11,872) 188 (8,403) (3,698)
+Para el periodo de tres meses
+finalizado el 31 de diciembre
+Para el periodo de doce meses
+finalizado el 31 de diciembre
+En miles de soles 2024 2023 2024 2023
+(Pérdida) utilidad antes de impuestos (163,889) 51,463 (240,686) 88,328
+Impuesto calculado a tasas tributarias locales
+aplicables a utilidades generadas en los países 47,736 (15,182) 70,391 (26,057)
+Efecto del impuesto por:
+Gastos no deducibles (24,097) (4,898) (48,805) (19,674)
+Impuesto a la renta diferido activo no reconocido 2,147                  -                      -                      -                      
+Método de participación patrimonial (36,556) 20,686 (27,354) 44,683 
+Cambio de estimaciones de años anteriores (1,102)                 (418) (2,635)                 (2,650)
+Gasto de Impuesto a la renta (11,872) 188 (8,403) (3,698)
+Para el periodo de tres meses
+finalizado el 31 de diciembre
+Para el periodo de doce meses
+finalizado el 31 de diciembre
+
+=== PAGINA PDF 28 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 26 - 
+ 
+ 
+22. Dividendos  
+En cumplimiento de ciertos covenants aplicables a la fecha producto de los acuerdos suscritos por la 
+Compañía, ésta no pagará dividendos. Algunas de las deudas u otras obligaciones contractuales 
+pueden restringir la capacidad de pagar dividendos en el futuro. Adicionalmente, el “Acuerdo 
+Colaboración y Beneficios” no permite el reparto de dividendos hasta que se haya amortizado el 40% 
+del monto total de la Reparación Civil comprometida descrita en la nota 1.C). 
+ 
+23. (Pérdida) utilidad por Acción  
+La (Pérdida) utilidad básica por acción común ha sido calculada dividiendo la (pérdida) utilidad  del 
+periodo atribuible a los accionistas comunes de la Compañía entre el promedio ponderado del número 
+de acciones comunes en circulación durante dicho período.  
+ 
+Por los periodos terminados el 31 de diciembre de 202 4 y de 2023, la (Pérdida) utilidad básica por 
+acción común resulta como sigue: 
+ 
+ 
+(i) El promedio ponderado de las acciones en 2024 considera el aumento de las acciones ordinarias (peso: 334 
+días con 1,252,011,676 acciones y 32 días con 156,207,614 acciones). El promedio ponderado de las acciones 
+en 2023 considera el aumento de las acciones ordinarias (peso: 360 días con 1,180,582,993 acciones y 5 días 
+con 18,794,040 acciones).  
+(ii) La Compañía no tiene acciones comunes con efecto dilutivo al 31 de diciembre de 2023 y de 2024. 
+  
+24. Administración de Riesgos Financieros 
+ 
+La administración de riesgos financieros es llevada a cabo por la Gerencia de la Compañía. La Gerencia 
+gestiona la administración general de riesgos financieros, tales como el riesgo de tipo de cambio, el 
+riesgo de tasas de interés sobre el valor razonable y flujos de efectivo, el riesgo de crédito, el uso de 
+instrumentos financieros derivados y no derivados y la inversión de los excedentes de liquidez los que 
+supervisa y monitorea de manera periódica. 
+ 
+A. Factores de riesgo financiero 
+ 
+Las actividades de la Compañía la exponen a una variedad de riesgos financieros: riesgos de 
+mercado (principalmente riesgo de tipo de cambio, riesgo de tasa de interés sobre el valor razonable 
+y de los flujos de efectivo), riesgo de crédito y riesgo de liquidez. El programa general de 
+administración de riesgos de la Compañía se concentra principalmente en lo impredecible de los 
+mercados financieros y trata de minimizar potenciales efectos adversos en el desempeño financiero 
+de la Compañía. 
+ 
+a) Riesgos de Liquidez 
+ 
+La Corporación gestiona el plan financiero que tiene como objetivo cumplir con las diversas 
+obligaciones a nivel de la Compañía y de las empresas de la Corporación. 
+ 
+El cuadro a continuación analiza los pasivos financieros de la Corporación agrupados sobre la base del 
+En miles de soles 2024 2023 2024 2023
+(Pérdida) utilidad del periodo (*) (175,761)            51,651               (249,089)                  84,630           
+Promedio ponderado de acciones en circulación de
+S/1.00 del 1 de enero al 31 de diciembre 1,371,964,891 1,196,979,979 1,408,219,290 1,199,377,033
+(Pérdida) utilidad básica por acción (en S/) (i) (0.128)                0.043                 (0.177)                      0.071             
+Promedio ponderado de acciones (diluidas) en circulación de
+S/1.00 del 1 de enero al 31 de diciembre 1,371,964,891 1,196,979,979 1,408,219,290 1,371,964,891
+(Pérdida) utilidad diluida por acción (en S/) (ii) (0.128)                0.043                 (0.177)                      0.062             
+Para el periodo de tres meses
+finalizado el 31 de diciembre
+Para el periodo de doce meses
+finalizado el 31 de diciembre
+
+=== PAGINA PDF 29 ===
+AENZA S.A.A. 
+Notas a los Estados Separados Condensados  
+Al 31 de diciembre de 2024 y  de 2023  
+ 
+ 
+- 27 - 
+ 
+periodo remanente a la fecha del estado separado de situación financiera hasta la fecha de su 
+vencimiento. Los montos revelados son los flujos de efectivo contractuales no descontados, que 
+incluye intereses por devengar según cronograma establecido. 
+ 
+ 
+ 
+(i)  Se excluye los siguientes pasivos no financieros: impuestos por pagar S/ 0.7 millones y 
+remuneraciones y participaciones por pagar por S/ 3.8 millones, (S/ 4.9 millones y S/ 3.6 
+millones, respectivamente, al 31 de diciembre de 2023). 
+ 
+B. Administración del riesgo de capital 
+ 
+Los objetivos de la Corporación al administrar el capital son el salvaguardar su capacidad de continuar 
+como empresa en marcha con el propósito de generar retornos a sus accionistas, beneficios a otros 
+grupos de interés y mantener una estructura de capital óptima para reducir el costo del capital.  
+ 
+Durante los periodos finalizados el 31 de diciembre de 2024 y 2023, no hubo modificaciones en los 
+objetivos, las políticas, ni los procesos relacionados con la gestión del capital. 
+ 
+25. Evento Posteriores a la Fecha del Estado de Situación Financiera  
+ 
+Entre el 31 de diciembre de 2024 y la fecha de emisión del presente informe, no se han presentado 
+eventos posteriores que puedan afectar la razonabilidad de los Estados Financieros individuales 
+emitidos. 
+ 
+ 
+Menos de Entre 1 y 2 Entre 2 y Más de
+En miles de soles 1 año años 5 años 5 años Total
+Al 31 de diciembre de 2024
+Cuentas por pagar comerciales 10,539 10,539 -              -           -            10,539
+Cuentas por pagar a partes relacionadas 237,971 63,148 174,823 -           -            237,971
+Otras cuentas por pagar 
+   (excepto pasivos no financieros) (i) 460,405 30,540 49,887 115,028 354,420 549,875
+Bonos por pagar 693,430 102,019 171,792 834,802 -            1,108,613
+1,402,345 206,246 396,502 949,830 354,420 1,906,998
+Valor en 
+Libros
+Flujos Contractuales
+Menos de Entre 1 y 2 Entre 2 y M ás de
+En miles de soles 1 año años 5 a ños 5 años Total
+Al 31 de diciembre de 2023
+Otros pasivos financieros (excepto
+  pasivo por derecho de uso) 409,556 455,317 -              -           -            455,317
+Pasivo por derecho de uso 32,361 9,824 20, 762 8,185 73 38,844
+Cuentas por pagar comerciales 12,901 12,901 -              -           -            12,901
+Cuentas por pagar a partes relacionadas 179,243 3,039 176, 204 -           -            179,243
+Otras cuentas por pagar 
+   (excepto pasivos no financieros) (i) 476,278 32,822 56, 699        97,544      410,377     597,442
+1,110,339 513,903 253,665 105, 729 410,450 1,283,747
+Flujos Contractuales
+Valor en 
+Libros

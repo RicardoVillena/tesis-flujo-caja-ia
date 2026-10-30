@@ -1,0 +1,11 @@
+{
+  "id": "portales24",
+  "url": "https://www.smv.gob.pe/ConsultasP8/temp/LosPortales_Separado_al31dic2024.pdf",
+  "url_final": "https://www.smv.gob.pe/ConsultasP8/temp/LosPortales_Separado_al31dic2024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "a3155ba301421aa4925d37871c3d5a423fd9de832a039ac676d5bb6a5d0ede2f",
+  "sha256_texto": "5b6b3b2c293bd35c3c8b0bf361982d3c0c4a496d19cb8ea0aa896ab6b4a37e27",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

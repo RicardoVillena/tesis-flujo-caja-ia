@@ -1,0 +1,109 @@
+moneda,variable,grupo_causa,causa,n
+D lares,FCL_preliminar_lag1,estructural,estructural: entrada de la empresa al panel después de 2005,13
+D lares,FCL_preliminar_lag1,estructural,estructural: historia anterior a 2005 fuera del panel,8
+D lares,FCL_preliminar_lag1,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),31
+D lares,FCL_preliminar_lag1,fuente,fuente: flujo ausente en t-1,16
+D lares,FCL_preliminar_lag2,estructural,estructural: entrada de la empresa al panel después de 2005,22
+D lares,FCL_preliminar_lag2,estructural,estructural: historia anterior a 2005 fuera del panel,16
+D lares,FCL_preliminar_lag2,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),59
+D lares,FCL_preliminar_lag2,fuente,fuente: flujo ausente en t-2,15
+D lares,FCL_preliminar_lag3,estructural,estructural: entrada de la empresa al panel después de 2005,30
+D lares,FCL_preliminar_lag3,estructural,estructural: historia anterior a 2005 fuera del panel,23
+D lares,FCL_preliminar_lag3,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),86
+D lares,FCL_preliminar_lag3,fuente,fuente: flujo ausente en t-3,15
+D lares,FCL_preliminar_std3_previa,estructural,estructural: entrada de la empresa al panel después de 2005,30
+D lares,FCL_preliminar_std3_previa,estructural,estructural: historia anterior a 2005 fuera del panel,23
+D lares,FCL_preliminar_std3_previa,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),86
+D lares,FCL_preliminar_std3_previa,fuente,fuente: flujo ausente en la ventana t-3..t-1,30
+D lares,FCO_lag1,estructural,estructural: entrada de la empresa al panel después de 2005,13
+D lares,FCO_lag1,estructural,estructural: historia anterior a 2005 fuera del panel,8
+D lares,FCO_lag1,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),31
+D lares,FCO_lag1,fuente,fuente: flujo ausente en t-1,16
+D lares,FCO_lag2,estructural,estructural: entrada de la empresa al panel después de 2005,22
+D lares,FCO_lag2,estructural,estructural: historia anterior a 2005 fuera del panel,16
+D lares,FCO_lag2,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),59
+D lares,FCO_lag2,fuente,fuente: flujo ausente en t-2,15
+D lares,FCO_lag3,estructural,estructural: entrada de la empresa al panel después de 2005,30
+D lares,FCO_lag3,estructural,estructural: historia anterior a 2005 fuera del panel,23
+D lares,FCO_lag3,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),86
+D lares,FCO_lag3,fuente,fuente: flujo ausente en t-3,15
+D lares,FCO_std3_previa,estructural,estructural: entrada de la empresa al panel después de 2005,30
+D lares,FCO_std3_previa,estructural,estructural: historia anterior a 2005 fuera del panel,23
+D lares,FCO_std3_previa,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),86
+D lares,FCO_std3_previa,fuente,fuente: flujo ausente en la ventana t-3..t-1,30
+D lares,cambio_FCL_preliminar_activo_previo,estructural,estructural: entrada de la empresa al panel después de 2005,13
+D lares,cambio_FCL_preliminar_activo_previo,estructural,estructural: historia anterior a 2005 fuera del panel,8
+D lares,cambio_FCL_preliminar_activo_previo,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),31
+D lares,cambio_FCL_preliminar_activo_previo,fuente,fuente: flujo ausente en t o t-1,19
+D lares,cambio_FCO_activo_previo,estructural,estructural: entrada de la empresa al panel después de 2005,13
+D lares,cambio_FCO_activo_previo,estructural,estructural: historia anterior a 2005 fuera del panel,8
+D lares,cambio_FCO_activo_previo,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),31
+D lares,cambio_FCO_activo_previo,fuente,fuente: flujo ausente en t o t-1,19
+D lares,crecimiento_ActivoTotal,estructural,estructural: entrada de la empresa al panel después de 2005,13
+D lares,crecimiento_ActivoTotal,estructural,estructural: historia anterior a 2005 fuera del panel,8
+D lares,crecimiento_ActivoTotal,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),31
+D lares,crecimiento_TotalIngreso,estructural,estructural: entrada de la empresa al panel después de 2005,13
+D lares,crecimiento_TotalIngreso,estructural,estructural: historia anterior a 2005 fuera del panel,8
+D lares,crecimiento_TotalIngreso,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),31
+D lares,crecimiento_TotalIngreso,regla,regla: base t-1 no positiva,16
+D lares,crecimiento_TotalIngreso,regla,regla: ingreso actual no positivo,2
+D lares,fco_activo,fuente,fuente: numerador o denominador ausente en t,10
+D lares,fco_ingresos,fuente,fuente: numerador o denominador ausente en t,10
+D lares,fco_ingresos,regla,regla: denominador no positivo en t,26
+D lares,margen_neto,regla,regla: denominador no positivo en t,27
+D lares,rotacion_activo_cierre,regla,regla: ingreso no positivo en t,27
+Soles,FCL_preliminar_lag1,estructural,estructural: entrada de la empresa al panel después de 2005,88
+Soles,FCL_preliminar_lag1,estructural,estructural: historia anterior a 2005 fuera del panel,139
+Soles,FCL_preliminar_lag1,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),16
+Soles,FCL_preliminar_lag1,fuente,fuente: flujo ausente en t-1,127
+Soles,FCL_preliminar_lag2,estructural,estructural: entrada de la empresa al panel después de 2005,164
+Soles,FCL_preliminar_lag2,estructural,estructural: historia anterior a 2005 fuera del panel,271
+Soles,FCL_preliminar_lag2,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),31
+Soles,FCL_preliminar_lag2,fuente,fuente: flujo ausente en t-2,153
+Soles,FCL_preliminar_lag3,estructural,estructural: entrada de la empresa al panel después de 2005,237
+Soles,FCL_preliminar_lag3,estructural,estructural: historia anterior a 2005 fuera del panel,398
+Soles,FCL_preliminar_lag3,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),44
+Soles,FCL_preliminar_lag3,fuente,fuente: flujo ausente en t-3,176
+Soles,FCL_preliminar_std3_previa,estructural,estructural: entrada de la empresa al panel después de 2005,237
+Soles,FCL_preliminar_std3_previa,estructural,estructural: historia anterior a 2005 fuera del panel,398
+Soles,FCL_preliminar_std3_previa,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),44
+Soles,FCL_preliminar_std3_previa,fuente,fuente: flujo ausente en la ventana t-3..t-1,233
+Soles,FCO_lag1,estructural,estructural: entrada de la empresa al panel después de 2005,88
+Soles,FCO_lag1,estructural,estructural: historia anterior a 2005 fuera del panel,139
+Soles,FCO_lag1,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),16
+Soles,FCO_lag1,fuente,fuente: flujo ausente en t-1,46
+Soles,FCO_lag2,estructural,estructural: entrada de la empresa al panel después de 2005,164
+Soles,FCO_lag2,estructural,estructural: historia anterior a 2005 fuera del panel,271
+Soles,FCO_lag2,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),31
+Soles,FCO_lag2,fuente,fuente: flujo ausente en t-2,43
+Soles,FCO_lag3,estructural,estructural: entrada de la empresa al panel después de 2005,237
+Soles,FCO_lag3,estructural,estructural: historia anterior a 2005 fuera del panel,398
+Soles,FCO_lag3,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),44
+Soles,FCO_lag3,fuente,fuente: flujo ausente en t-3,41
+Soles,FCO_std3_previa,estructural,estructural: entrada de la empresa al panel después de 2005,237
+Soles,FCO_std3_previa,estructural,estructural: historia anterior a 2005 fuera del panel,398
+Soles,FCO_std3_previa,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),44
+Soles,FCO_std3_previa,fuente,fuente: flujo ausente en la ventana t-3..t-1,82
+Soles,cambio_FCL_preliminar_activo_previo,estructural,estructural: entrada de la empresa al panel después de 2005,88
+Soles,cambio_FCL_preliminar_activo_previo,estructural,estructural: historia anterior a 2005 fuera del panel,139
+Soles,cambio_FCL_preliminar_activo_previo,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),16
+Soles,cambio_FCL_preliminar_activo_previo,fuente,fuente: flujo ausente en t o t-1,149
+Soles,cambio_FCO_activo_previo,estructural,estructural: entrada de la empresa al panel después de 2005,88
+Soles,cambio_FCO_activo_previo,estructural,estructural: historia anterior a 2005 fuera del panel,139
+Soles,cambio_FCO_activo_previo,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),16
+Soles,cambio_FCO_activo_previo,fuente,fuente: flujo ausente en t o t-1,60
+Soles,crecimiento_ActivoTotal,estructural,estructural: entrada de la empresa al panel después de 2005,88
+Soles,crecimiento_ActivoTotal,estructural,estructural: historia anterior a 2005 fuera del panel,139
+Soles,crecimiento_ActivoTotal,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),16
+Soles,crecimiento_TotalIngreso,estructural,estructural: entrada de la empresa al panel después de 2005,88
+Soles,crecimiento_TotalIngreso,estructural,estructural: historia anterior a 2005 fuera del panel,139
+Soles,crecimiento_TotalIngreso,estructural,estructural: ruptura de segmento (hueco anual o cambio de moneda),16
+Soles,crecimiento_TotalIngreso,regla,regla: base t-1 no positiva,119
+Soles,crecimiento_TotalIngreso,regla,regla: ingreso actual no positivo,14
+Soles,fco_activo,fuente,fuente: numerador o denominador ausente en t,41
+Soles,fco_ingresos,fuente,fuente: numerador o denominador ausente en t,41
+Soles,fco_ingresos,regla,regla: denominador no positivo en t,140
+Soles,inversion_capex_activo,fuente,fuente: numerador o denominador ausente en t,50
+Soles,inversion_capex_activo,regla,regla: CAPEX positivo excluido,12
+Soles,margen_neto,regla,regla: denominador no positivo en t,141
+Soles,rotacion_activo_cierre,regla,regla: ingreso no positivo en t,141

@@ -1,0 +1,43 @@
+moneda,variable_1,variable_2,pearson_anual,spearman_anual,n_anios,pearson_filas,spearman_filas
+D lares,inflacion_lima_dic_dic_pct,tipo_cambio_promedio_soles_usd,-0.329891809927853,-0.352941176470588,16,-0.343879135567611,-0.37456121420639
+D lares,inflacion_lima_dic_dic_pct,tasa_referencia_promedio_pct,0.554260817041356,0.441176470588235,16,0.535148379999746,0.408412821403443
+D lares,inflacion_lima_dic_dic_pct,crecimiento_pbi_real_pct,0.342922666321593,0.402941176470588,16,0.3560295452049,0.40367662725319
+D lares,inflacion_lima_dic_dic_pct,rentabilidad_indice_anual_pct,-0.678620685439401,-0.673529411764706,16,-0.65741961885953,-0.67149918508029
+D lares,inflacion_lima_dic_dic_pct,volatilidad_diaria_anualizada_pct,0.534143007457328,0.291176470588235,16,0.569547947501205,0.367379233283527
+D lares,inflacion_lima_dic_dic_pct,monto_renta_variable_anual_millones_pen,0.18350398353456,0.0617647058823529,16,0.10927285952468,-0.0229836817380569
+D lares,tipo_cambio_promedio_soles_usd,tasa_referencia_promedio_pct,-0.415465711243448,-0.373529411764706,16,-0.461879918157892,-0.40928179505677
+D lares,tipo_cambio_promedio_soles_usd,crecimiento_pbi_real_pct,-0.487355389174093,-0.402941176470588,16,-0.50973543464128,-0.443176152140269
+D lares,tipo_cambio_promedio_soles_usd,rentabilidad_indice_anual_pct,0.259340475026591,0.294117647058824,16,0.290747267771511,0.341823296358792
+D lares,tipo_cambio_promedio_soles_usd,volatilidad_diaria_anualizada_pct,-0.194355192904029,-0.258823529411765,16,-0.16636970704697,-0.239939355449549
+D lares,tipo_cambio_promedio_soles_usd,monto_renta_variable_anual_millones_pen,-0.169688994658789,-0.338235294117647,16,-0.135135253282873,-0.293278059922461
+D lares,tasa_referencia_promedio_pct,crecimiento_pbi_real_pct,0.716291779304632,0.576470588235294,16,0.770953428447857,0.672779489371789
+D lares,tasa_referencia_promedio_pct,rentabilidad_indice_anual_pct,-0.0949060169314685,-0.0823529411764706,16,-0.059499073412433,-0.0228732445314058
+D lares,tasa_referencia_promedio_pct,volatilidad_diaria_anualizada_pct,0.403538325795371,0.364705882352941,16,0.382677410542318,0.401872910890465
+D lares,tasa_referencia_promedio_pct,monto_renta_variable_anual_millones_pen,0.360850897894758,0.432352941176471,16,0.352220472818034,0.439070792852822
+D lares,crecimiento_pbi_real_pct,rentabilidad_indice_anual_pct,0.0847660488791966,0.0147058823529412,16,0.0966251345265728,-0.00462644203793641
+D lares,crecimiento_pbi_real_pct,volatilidad_diaria_anualizada_pct,0.16441900940553,0.420588235294118,16,0.183533422550059,0.487539024686004
+D lares,crecimiento_pbi_real_pct,monto_renta_variable_anual_millones_pen,0.291894030500227,0.411764705882353,16,0.313472293048566,0.431442130424149
+D lares,rentabilidad_indice_anual_pct,volatilidad_diaria_anualizada_pct,-0.0781510492195686,0.0235294117647059,16,-0.0787213271466772,-0.0562672087133038
+D lares,rentabilidad_indice_anual_pct,monto_renta_variable_anual_millones_pen,0.104269066361177,0.108823529411765,16,0.156473716864274,0.198696128463409
+D lares,volatilidad_diaria_anualizada_pct,monto_renta_variable_anual_millones_pen,0.341869024608583,0.397058823529412,16,0.340846541541773,0.390523912190089
+Soles,inflacion_lima_dic_dic_pct,tipo_cambio_promedio_soles_usd,-0.329891809927853,-0.352941176470588,16,-0.319713456936722,-0.334766007522247
+Soles,inflacion_lima_dic_dic_pct,tasa_referencia_promedio_pct,0.554260817041356,0.441176470588235,16,0.547024652038661,0.441510795782337
+Soles,inflacion_lima_dic_dic_pct,crecimiento_pbi_real_pct,0.342922666321593,0.402941176470588,16,0.345004686638736,0.387871618702356
+Soles,inflacion_lima_dic_dic_pct,rentabilidad_indice_anual_pct,-0.678620685439401,-0.673529411764706,16,-0.665907998019109,-0.651441629731206
+Soles,inflacion_lima_dic_dic_pct,volatilidad_diaria_anualizada_pct,0.534143007457328,0.291176470588235,16,0.530499592654949,0.306116809343974
+Soles,inflacion_lima_dic_dic_pct,monto_renta_variable_anual_millones_pen,0.18350398353456,0.0617647058823529,16,0.143340669928078,-0.00775483594347593
+Soles,tipo_cambio_promedio_soles_usd,tasa_referencia_promedio_pct,-0.415465711243448,-0.373529411764706,16,-0.443334607171992,-0.399839685878971
+Soles,tipo_cambio_promedio_soles_usd,crecimiento_pbi_real_pct,-0.487355389174093,-0.402941176470588,16,-0.490666827340124,-0.409929138924092
+Soles,tipo_cambio_promedio_soles_usd,rentabilidad_indice_anual_pct,0.259340475026591,0.294117647058824,16,0.273773853976459,0.324950111171528
+Soles,tipo_cambio_promedio_soles_usd,volatilidad_diaria_anualizada_pct,-0.194355192904029,-0.258823529411765,16,-0.16707459851645,-0.223927791920296
+Soles,tipo_cambio_promedio_soles_usd,monto_renta_variable_anual_millones_pen,-0.169688994658789,-0.338235294117647,16,-0.169122165600601,-0.323788425343036
+Soles,tasa_referencia_promedio_pct,crecimiento_pbi_real_pct,0.716291779304632,0.576470588235294,16,0.742353187640224,0.601633713235773
+Soles,tasa_referencia_promedio_pct,rentabilidad_indice_anual_pct,-0.0949060169314685,-0.0823529411764706,16,-0.0849809260564217,-0.0583537811489087
+Soles,tasa_referencia_promedio_pct,volatilidad_diaria_anualizada_pct,0.403538325795371,0.364705882352941,16,0.376574958409686,0.358593994967501
+Soles,tasa_referencia_promedio_pct,monto_renta_variable_anual_millones_pen,0.360850897894758,0.432352941176471,16,0.347043248390285,0.414118366258199
+Soles,crecimiento_pbi_real_pct,rentabilidad_indice_anual_pct,0.0847660488791966,0.0147058823529412,16,0.0763804706264173,0.00334859611380899
+Soles,crecimiento_pbi_real_pct,volatilidad_diaria_anualizada_pct,0.16441900940553,0.420588235294118,16,0.155843511912122,0.420960426139427
+Soles,crecimiento_pbi_real_pct,monto_renta_variable_anual_millones_pen,0.291894030500227,0.411764705882353,16,0.281309018372965,0.374896470324842
+Soles,rentabilidad_indice_anual_pct,volatilidad_diaria_anualizada_pct,-0.0781510492195686,0.0235294117647059,16,-0.0710087385583538,0.00979176460236668
+Soles,rentabilidad_indice_anual_pct,monto_renta_variable_anual_millones_pen,0.104269066361177,0.108823529411765,16,0.118512968152228,0.131857911778511
+Soles,volatilidad_diaria_anualizada_pct,monto_renta_variable_anual_millones_pen,0.341869024608583,0.397058823529412,16,0.333642995455146,0.356580334884924

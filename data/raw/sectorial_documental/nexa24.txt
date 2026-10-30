@@ -1,0 +1,2196 @@
+
+=== PAGINA PDF 1 ===
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Nexa Resources Perú S.A.A. y 
+subsidiarias 
+ 
+Estados financieros consolidados al 31 
+de diciembre de 2024 e informe de 
+auditores independientes 
+
+=== PAGINA PDF 2 ===
+ 
+ 
+ 
+ 
+Contenido 
+ 
+Estados financieros consolidados 
+Estado de resultados y resultados integrales consolidado ........................................ 3 
+Estado de situación financiera consolidado ............................................................ 4 
+Estado de flujos de efectivo consolidado ............................................................... 5 
+Estado de cambios en el patrimonio consolidado .................................................... 6 
+ 
+Nota a los estados financieros consolidados 
+ 
+1  Información general ..................................................................................... 7 
+2  Bases de preparación de los estados financieros consolidados ........................... 7 
+3  Principios de consolidación .......................................................................... 12 
+4 Cambios en las principales políticas contables y revelaciones .......................... 13 
+5  Ventas netas ............................................................................................. 16 
+6  Gastos por naturaleza ................................................................................ 19 
+7  Exploración mineral y evaluación de proyectos .............................................. 19 
+8 Otros ingresos y gastos, neto ...................................................................... 20 
+9  Resultado financiero, neto........................................................................... 20 
+10  Impuesto a las ganancias corriente y diferido ................................................ 21 
+11  Administración de riesgos financieros ........................................................... 24 
+12  Instrumentos financieros ............................................................................ 30 
+13  Estimación de valor razonable ..................................................................... 32 
+14  Efectivo y equivalentes de efectivo ............................................................... 33 
+15  Cuentas por cobrar comerciales ................................................................... 33 
+16  Inventarios ............................................................................................... 35 
+17  Otros activos ............................................................................................. 36 
+18  Partes relacionadas .................................................................................... 38 
+19  Propiedades, planta y equipo ....................................................................... 40 
+20  Activos intangibles ..................................................................................... 44 
+21  Activos por derecho de uso y pasivos por arrendamiento ................................ 46 
+22  Cuentas por pagar comerciales .................................................................... 49 
+23  Cuentas por pagar factoraje ........................................................................ 50 
+24  Salarios y cargas laborales .......................................................................... 51 
+25  Provisión para cierre de minas y obligaciones ambientales .............................. 51 
+26 Obligaciones contractuales .......................................................................... 54 
+27  Otros pasivos ............................................................................................ 56 
+28  Provisiones ............................................................................................... 56 
+29 Patrimonio ................................................................................................ 58 
+30 Deterioro de activos de larga duración .......................................................... 60 
+31  Compromisos a largo plazo ......................................................................... 65 
+32  Eventos posteriores a la fecha de reporte ..................................................... 66 
+ 
+Informe de los auditores independientes.   
+
+=== PAGINA PDF 3 ===
+Nexa Resources Perú S.A.A. y subsidiarias   
+Página 3 de 66 
+ 
+Estado de resultados y resultados integrales consolidado 
+Años terminados al 31 de diciembre 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario   
+ 
+  Nota 2024    2023 (Reestructurado) 
+Ventas netas 5       881,122     735,337  
+Costo de ventas 6    (581,538)    (554,546) 
+Ganancia bruta        299,584    180,791 
+          
+Gastos operativos         
+Gastos de ventas y de administración 6      (38,180)    (27,366) 
+Exploración mineral y evaluación de proyecto 6 y 7      (32,781)    (37,935) 
+Deterioro de activos de larga duración 30      (45,693)   (4,726) 
+Otros ingresos y gastos, neto 8             763     (17,589) 
+     (115,891)    (87,616) 
+Ganancia operativa        183,693    93,175 
+     
+Resultado financiero, neto 9       
+Ingresos financieros           32,039     25,931  
+Gastos financieros        (33,914)    (26,635) 
+Diferencia en cambio, neto             (152)    (4,695) 
+          (2,027)    (5,399) 
+Ganancia antes de impuesto a las ganancias        181,666    87,776 
+          
+Gasto por impuesto a las ganancias   10 (a)   (174,722)    (42,743) 
+          
+Ganancia del año, neto            6,944     45,033  
+Atribuible a propietarios de la controladora 29 (d)          4,207     46,931  
+Atribuible a participaciones no controladoras 29 (e)          2,737     (1,898) 
+Ganancia del año, neto            6,944     45,033  
+Promedio de número de acciones en circulación - en miles 29 (d)    1,272,108     1,272,108  
+Ganancia básica y diluida por acción (en US$ dólares) 29 (d)          0.003                         0.037  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas que se acompañan forman parte integral de los estados financieros consolidados. 
+ 
+
+=== PAGINA PDF 4 ===
+Nexa Resources Perú S.A.A. y subsidiarias   
+Página 4 de 66 
+Estado de situación financiera consolidado 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario   
+ 
+Activos Nota   
+Al 31 de 
+diciembre 
+2024 
+  
+Al 31 de 
+diciembre de 
+2023 
+(Restructurado) 
+  
+Al 1 de enero de  
+2023 
+(Reestructurado) 
+Activos corrientes               
+Efectivo y equivalentes de efectivo 14    336,318     217,359    243,504 
+Cuentas por cobrar comerciales 15    332,335     269,510    345,360 
+Inventarios 16    35,678     39,017    45,556 
+Impuesto a las ganancias      34     10,118    950 
+Cuentas por cobrar comerciales con partes 
+relacionadas 18    115,107     10,720    4,250 
+Otros activos 17    21,255     34,362    18,479 
+       840,727     581,086    658,099 
+Activos no corrientes               
+Activo por impuesto diferido 10 (b)    22,963     15,024                     14,630  
+Cuentas por cobrar comerciales con partes 
+relacionadas 18    -       100,000                             -    
+Otros activos 17    5,655     10,502                             -    
+Impuesto a las ganancias      841     549                       9,719  
+Propiedades, planta y equipo 19    401,620     343,785                   295,169  
+Activos intangibles 20    109,694     169,119                   170,569  
+Activos por derecho de uso 21    30,635     10,716                       3,643  
+       571,408     649,695    493,730 
+               
+Total activos      1,412,135     1,230,781    1,151,829 
+               
+Pasivos y patrimonio         
+Pasivos corrientes               
+Préstamos y financiamientos                         -                             -                            443  
+Pasivos por arrendamiento 21    10,982     4,392                       1,493  
+Cuentas por pagar comerciales 22    173,518     177,761                   155,165  
+Cuentas por pagar factoraje 23    6,469     15,042                       3,368  
+Salarios y cargas laborales 24    33,687     23,168                     30,984  
+Provisión para cierre de minas y 
+obligaciones ambientales  25    26,364     15,631    13,167   
+Provisiones 28    2,819     -                               -    
+Obligaciones contractuales 26    31,686     37,432                     26,188  
+Impuesto a las ganancias      54,591     64                     12,307  
+Otros pasivos 27    89,514     26,863                     26,151  
+       429,630     300,353                 269,266  
+Pasivos no corrientes               
+Pasivos por arrendamiento 21    22,132                     5,400                       1,245  
+Cuentas por pagar comerciales 22    89                     1,163                       1,266  
+Provisión para cierre de minas y 
+obligaciones ambientales  25    82,849                 115,573                   108,598  
+Pasivo por impuesto diferido 10 (b)    14,792                           -                            401  
+Provisiones 28    14,936                   20,765                     15,299  
+Obligaciones contractuales 26    69,272                   79,680                   105,972  
+Impuestos a las ganancias      82,120                   12,974                             -    
+Otros pasivos 27    507                        105                            72  
+       286,697               235,660                 232,853  
+         
+Total pasivos             716,327    536,013   502,119 
+         
+Patrimonio 29             
+Atribuible a propietarios de la controladora     699,589   705,566   658,610 
+Atribuible a participaciones no 
+controladoras     (3,781)   (10,798)   (8,900) 
+      695,808   694,768   649,710 
+                
+Total pasivos y patrimonio     1,412,135   1,230,781   1,151,829 
+ 
+Las notas que se acompañan forman parte integral de los estados financieros consolidados. 
+ 
+ 
+
+=== PAGINA PDF 5 ===
+Nexa Resources Perú S.A.A. y subsidiarias   
+Página 5 de 66 
+Estado de flujos de efectivo consolidado 
+Años terminados al 31 de diciembre 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario   
+ 
+  Nota   2024   2023 (Restructurado) 
+Flujos de efectivo de actividades de operación           
+Ganancia antes de impuesto a las ganancias      181,666     87,776  
+Menos, impuesto a las ganancias 10 (a)    (174,722)    (42,743) 
+Impuesto a las ganancias diferido 10 (a)    6,853     3,235  
+Deterioro de activos de larga duración 30     45,693     4,726  
+Depreciación y amortización 6     98,478     77,487  
+Interés y efectos de variación cambiaria      33,756     26,326  
+Baja y pérdida por venta de propiedades, planta y equipo, neto  8     724     3,638  
+Cambios en provisiones y deterioro de otros activos      (23,197)    1,494  
+Obligaciones contractuales 26     (22,578)    (20,377) 
+Ganancia por la venta de subsidiaria      (4,578)    -    
+(Aumento) disminución en activos:           
+Cuentas por cobrar comerciales      (63,336)    76,405  
+Inventarios      1,492     9,334  
+Otros activos      15,325     (11,125) 
+Aumento (disminución) en pasivos           
+Cuentas por pagar comerciales      (2,885)    22,493  
+Cuentas por pagar factoraje      (8,573)    11,674  
+Provisiones      (6,031)    (5,208) 
+Otros pasivos      197,658     11,899  
+Efectivo proveniente de actividades de operación      275,745     257,034  
+            
+Intereses pagados por préstamos y financiamientos                        -                      (1) 
+Intereses pagados por pasivos de arrendamientos 21 (b)    (2,542)                (394) 
+Pagos de impuesto a las ganancias      (28,263)           (50,476) 
+Efectivo neto proveniente de actividades de operación       244,940           206,163  
+            
+Flujos de efectivo de actividades de inversión           
+Adiciones de propiedades, planta y equipo           (121,670)         (128,998) 
+Préstamos a partes relacionadas 18 (a)                      -            (100,000) 
+Compra de participación en subsidiarias de accionistas 
+minoritarios                   510                       -    
+Intereses recibidos sobre préstamos a partes relacionadas                 8,602                1,981  
+Procedente de la venta de propiedades, planta y equipo                        -                       26  
+Ventas de inversiones en subsidiarias                 4,551                       -    
+Efectivo neto aplicado a actividades de inversión         (108,007)       (226,991) 
+      
+Flujos de efectivo de actividades de financiamiento           
+Pagos de préstamos y financiamientos                        -                   (447) 
+Aportes de capital de accionistas minoritarios                 (865)                      -    
+Pagos de pasivos de arrendamiento 21 (b)            (9,431)             (3,157) 
+Pago de dividendos 29             (5,949)                      -    
+Efectivo neto aplicado a actividades de financiamiento            (16,245)            (3,604) 
+            
+Diferencia en cambio del efectivo y equivalentes de efectivo              (1,729)             (1,713) 
+            
+Disminución de efectivo y equivalentes de efectivo            118,959           (26,145) 
+Efectivo y equivalentes de efectivo al inicio del año             217,359             243,504  
+Efectivo y equivalentes de efectivo al final del año 14           336,318           217,359  
+Transacciones de inversión y financiamiento no monetarias            
+Otros movimientos de patrimonio                        -                    (25) 
+Adiciones de propiedad, planta y equipo            (18,580)                      -    
+Adiciones de activos por derecho de uso 21 (a)          (31,335)           (10,261) 
+ 
+ 
+Las notas que se acompañan forman parte integral de los estados financieros consolidados. 
+
+=== PAGINA PDF 6 ===
+Nexa Resources Perú S.A.A. y subsidiarias   
+ 
+Página 6 de 66 
+Estado de cambios en el patrimonio consolidado 
+Al y por el año terminado al 31 de diciembre  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario  
+ 
+   Atribuible a propietarios de la controladora    
+   Capital  
+ Acciones de 
+inversión  
+ Reserva 
+legal  
+ Otras 
+reservas de 
+patrimonio  
+ Resultados 
+acumulados    Total  
+Participaciones 
+no 
+controladoras   
+ Total 
+patrimonio  
+Al 1 de enero de 2023      423,334               4,551      84,766               386            145,573           658,610              (8,900)         649,710  
+Ganancia (pérdida) del año neto                 -                       -                 -                     -                 46,931               46,931               (1,898)            45,033  
+Total (pérdida) ganancia integral del año                 -                       -                 -                     -                46,931             46,931              (1,898)           45,033  
+Otros movimientos de patrimonio                  -                        -                  -                    25                       -                       25                       -                      25  
+Al 31 de diciembre de 2023      423,334               4,551      84,766               411            192,504           705,566           (10,798)         694,768  
+Ganancia del año neto                  -                        -                  -                     -                   4,207                 4,207                  2,737               6,944  
+Total ganancia integral del año                 -                       -                 -                     -                  4,207                4,207                2,737               6,944  
+Distribución de dividendos                  -                        -                  -                     -                 (5,549)             (5,549)                      -               (5,549) 
+Otros movimientos de patrimonio                  -                        -                  -               (411)                  411                       -                         -                        -    
+Adquisición de participaciones no controladoras                  -                        -                  -                     -                         -                         -                    1,005               1,005  
+Compra de acciones en filial a accionistas no controladores                   -                        -                  -                     -                         -                         -                      510                  510  
+Aportes de capital de interés no controlador - 29 (f)                  -                        -                  -                     -                 (4,635)             (4,635)                 2,765             (1,870) 
+Al 31 de diciembre de 2024      423,334               4,551      84,766                   -              186,938           699,589              (3,781)         695,808  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas que se acompañan forman parte integral de los estados financieros consolidados. 
+ 
+ 
+
+=== PAGINA PDF 7 ===
+Nexa Resources Perú S.A.A. y subsidiarias  
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 7 de 66 
+1  Información general           
+  
+Nexa Resources Perú S.A.A. (“la Compañía” o “Nexa Perú”) es una sociedad anónima abierta que 
+se constituyó en Perú en 1949. La Compañía negocia sus acciones comunes (símbolo NEXAPEC1) 
+y de inversión (símbolo NEXAPEI1) en la Bolsa de Valores de Lima. El domicilio legal de sus 
+oficinas administrativas se encuentra en Avenida Circunvalación del Club Golf Los Incas N° 170, 
+Torre El Golf (Block A), Piso 22, Santiago de Surco, Lima, Perú.  
+ 
+El domicilio fiscal de las subsidiarias es el mismo de la Compañía, excepto por Nexa Resources 
+UK (Nexa UK) cuya dirección está localizada en Reino Unido. 
+ 
+La Compañía y sus subsidiarias ( “el Grupo ”) se dedica n principalmente a la exploración, 
+explotación, producción y comercialización de concentrados de zinc, cobre y plomo, los dos 
+últimos con contenidos de oro y plata. El Grupo es propietario y operador de las minas 
+polimetálicas Cerro Lindo, El Porvenir y Atacocha en las regiones de Ica y Pasco en Perú. 
+ 
+La Compañía es subsidiaria indirecta de Nexa Resources S.A. (la “Casa Matriz” o “NEXA”), entidad 
+domiciliada en Luxemburgo que cotiza sus acciones en la New York Stock Exchange (“NYSE” por 
+sus siglas en inglés).  
+ 
+NEXA controla el 83.37% de las acciones ordinarias de la Compañía a través de Nexa Resources 
+Cajamarquilla S.A. (la "Entidad Controladora" o "Nexa Cajamarquilla"). 
+ 
+El accionista mayoritario de NEXA es Votorantim S.A. (la “Empresa matriz última” o “VSA”), que 
+posee el 64.68% de su capital. VSA es un conglomerado industrial brasileño de capital cerrado 
+que tiene participaciones en empresas de los sectores minero, siderúrgico, cemento y de energía, 
+entre otras. 
+ 
+(a) Resultado neto de las desinversiones 
+ 
+El 22 de noviembre de 2024 y el 23 de diciembre de 2024, el Grupo concretó la venta de dos 
+subsidiarias no operativas, la Compañía Minera Cerro Colorado S.A.C. (propietaria del proyecto 
+greenfield Pukaqaqa) por un monto total de US$ 4,300, reconociendo una ganancia de US$ 322, 
+y la Minera Pampa de Cobre S.A.C. (propietaria de la mina de cobre Chapi) por un monto total de 
+US$ 251, reconociendo una ganancia de US$ 8,806. 
+ 
+(b) Segmentos operativos 
+ 
+El Gerente General del Grupo ha sido identificado como el máximo órgano en la toma de decisiones 
+de la operación, ya que su función engloba la autoridad sobre las decisiones de asignación de 
+recursos y la evaluación del desempeño, analizando principalmente  el rendimiento de la 
+producción obtenida en las operaciones. El Grupo ha identificado un único segmento reportable: 
+ 
+- Minería: consiste en la mina polimetálica de larga vida, localizada en la región de Pasco e 
+Ica en Perú, Además de zinc, el Grupo produce cantidades sustanciales de cobre, plomo, 
+plata y oro como subproductos, que reducen el costo total para producir zinc. 
+ 
+2  Bases de preparación de los estados financieros consolidados  
+ 
+Estos estados financieros consolidados han sido preparados de acuerdo con las Normas 
+Internacionales de Información Financiera (“NIIF”) tal como han sido emitidas por el International 
+Accounting Standards Board ("IASB") y el Comité de Interpretaciones de las NIIF 
+(Interpretaciones IFRIC). 
+ 
+
+=== PAGINA PDF 8 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 8 de 66 
+Los estados financieros consolidados han sido preparados bajo la convención de costo histórico, 
+exceptuando ciertos activos financieros (incluidos otros instrumentos financieros) que se miden a 
+valor razonable al final de cada período de reporte. 
+ 
+Los estados financieros consolidados de la Compañía para el año que finalizó el 31 de diciembre 
+de 2024 fueron aprobados para su emisión de acuerdo con una resolución de la Junta Directiva el 
+27 de febrero de 2025. 
+ 
+Aprobación de los estados financieros consolidados 
+ 
+Los estados financieros consolidados al 31 de diciembre de 202 4 han sido aprobados para su 
+emisión por el Directorio el 27 de febrero de 2025 y serán presentados para la aprobación de los 
+Accionistas dentro del plazo establecido por Ley. La Gerencia del Grupo considera que los estados 
+financieros consolidados serán aprobados sin modificaciones en la Junta General de Accionistas a 
+llevarse a cabo durante el primer trimestre de 202 5. El 21 de febrero de 2024, la Junta General 
+de Accionistas aprobó los estados financieros consolidados auditados por el año terminado al 31 
+de diciembre de 2023. 
+ 
+2.1 Reexpresión de los estados financieros anuales consolidados 
+ 
+La gerencia identificó un ajuste en los estados financieros consolidados emitidos anteriormente 
+para el ejercicio 2023. Por lo tanto, los estados financieros consolidados de estos periodos se han 
+reexpresado para incluir este ajuste. 
+ 
+Provisión para cierre de minas 
+ 
+Durante el segundo trimestre de 2024, la gerencia identificó estructuras antiguas y no operativas 
+que no se identificaron en años anteriores y, por lo tanto, no fueron reconocidas por el Grupo. 
+ 
+Esta omisión resultó en ajustes materiales en los períodos comparativos , afectando a resultados 
+acumulados, el ingreso neto, las obligaciones subestimadas por retiro de activos y los gastos por 
+intereses relacionados con el valor presente y la tasa de descuento de estas obligaciones por 
+retiro de activos. 
+ 
+Los importes acumulados se han corregido reexpresando cada una de las partidas afectadas en 
+la cuenta de resultados consolidada, el balance consolidado, el estado consolidado de cambios en 
+el patrimonio neto y el flujo de caja consolidado de los periodos anteriores presentados. 
+ 
+Impactos en los estados financieros anuales consolidados 
+ 
+Los impactos en los estados financieros consolidados del Grupo se presentan a continuación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 9 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 9 de 66 
+(a) Estado de resultados consolidado y de ingresos integrales 
+ 
+    
+2023 
+(Como fue  
+reportado  
+anteriormente)   Ajustes   
+2023 
+(Reestructurado) 
+Gastos operativos             
+Otros ingresos y gastos, neto                  (17,622)                33                   (17,589) 
+Ganancia operativa                    93,142                 33                     93,175  
+              
+Resultado financiero, neto             
+Gastos financieros                  (25,192)         (1,443)                  (26,635) 
+              
+Ganancia antes de impuesto a las ganancias                    89,186         (1,410)                    87,776  
+              
+Ganancia del año, neta                    46,443         (1,410)                    45,033  
+Atribuible a propietarios de la controladora                    48,341          (1,410)                     46,931  
+Atribuible a participaciones no controladoras                    (1,898)                   -                       (1,898) 
+Ganancia del año, neta                    46,443         (1,410)                    45,033  
+Número promedio ponderado de acciones en circulación 
+– en miles               1,272,108                    -                   1,272,108  
+Pérdida básica y diluida por acción – USD                       0.038          (0.001)                         0.037  
+ 
+(b) Estado de situación financiera consolidado  
+    Consolidado 
+  
+1 de enero de 2023 
+(Como fue  
+reportado  
+anteriormente) 
+ 
+ 
+ 
+Ajustes 
+1 de enero de 
+2023 
+(Reestructurado) 
+Pasivos no corriente       
+Provisión para cierre de minas y obligaciones ambientales  96,591 12,007 108,598 
+  220,846 12,007 232,853 
+Total pasivos              490,112         12,007              502,119  
+        
+Patrimonio       
+Resultado acumulado                  62,735          (12,007)                 50,728  
+Total patrimonio              661,717       (12,007)             649,710  
+        
+Total pasivos y patrimonio           1,151,829                  -             1,151,829  
+       Consolidado 
+  
+2023 
+(Como fue  
+reportado  
+anteriormente) 
+ 
+ 
+ 
+Ajustes 
+2023 
+(Reestructurado) 
+Pasivos no corriente       
+Provisión para cierre de minas y obligaciones ambientales  102,156 13,417               115,573  
+  222,243 13,417             235,660  
+Total pasivos              522,596         13,417              536,013  
+        
+Patrimonio       
+Ganancia del año                  46,443            (1,410)                 45,033  
+Resultado acumulado                157,580          (12,007)               145,573  
+Total patrimonio              708,185       (13,417)             694,768  
+        
+Total pasivos y patrimonio           1,230,781                  -             1,230,781  
+ 
+ 
+ 
+
+=== PAGINA PDF 10 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 10 de 66 
+(c) Estado de flujo de efectivo consolidado  
+ 
+    
+ 2023 
+(Como fue  
+reportado  
+anteriormente)   Ajustes  
+ 2023 
+(Reestructurado)  
+Ganancia antes de impuesto a las ganancias                     89,186            (1,410)                   87,776  
+Interés y efectos de variación cambiaria                     24,883             1,443                    26,326  
+Cambios en provisiones                       1,527                (33)                     1,494  
+Efectivo proveniente de actividades de operación                  115,596                      -                   115,596  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 11 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 11 de 66 
+(d) Estado de cambios en el patrimonio consolidado 
+ 
+  
+ (Como fue reportado anteriormente)  (Reestructurado) 
+ 
+Atribuible a 
+propietarios de la 
+controladora 
+     
+ Atribuible a 
+propietarios de la 
+controladora  
+    
+  
+ Resultados 
+acumulados   Total  
+Participaciones 
+no 
+controladoras   
+ Total 
+patrimonio   Ajustes  
+ Resultados 
+acumulados   Total  
+Participaciones 
+no 
+controladoras   
+ Total 
+patrimonio  
+Al 1 de enero de 2023 157,580 670,617             (8,900)      661,717    (12,007)         145,573   658,610              (8,900)        649,710  
+Ganancia del año, neta         48,341       48,341               (1,898)        46,443       (1,410)           46,931       46,931               (1,898)           45,033  
+Total ganancia integral del periodo       48,341     48,341              (1,898)        46,443      (1,410)           46,931     46,931              (1,898)          45,033  
+Otros movimientos de patrimonio                 -               25                         -                  25                 -                       -               25                         -                    25  
+Al 31 de diciembre de 2023     205,921   718,983            (10,798)      708,185    (13,417)         192,504   705,566            (10,798)        694,768  
+
+=== PAGINA PDF 12 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 12 de 66 
+3  Principios de consolidación 
+ 
+Los estados financieros consolidados comprenden los estados financieros de Nexa Perú y sus 
+subsidiarias al 31 de diciembre de 2024. 
+ 
+Las principales entidades incluidas en los estados financieros consolidados son: 
+ 
+    
+Porcentaje de 
+participación 
+Control 
+de la 
+compañía Ubicación Actividades 2024    2023  
+Subsidiarias               
+Nexa Resources El Porvenir S.A.C. 99.99    99.99  Directo Peru Minería 
+Nexa Resources Atacocha S.A.A. -  
+"Nexa Atacocha" (ii)   86.65                        66.62  Indirecto Peru Minería 
+Minera Pampa de Cobre S.A.C. (i)   -    99.99  Directo Peru Minería 
+Nexa Resources UK Limited   100.00    100.00  Directo Reino Unido Minería 
+Operaciones conjuntas               
+Cia. Minera Shalipayco S.A.C.   75.00    75.00    Peru Proyectos mineros 
+ 
+(i) El 20 de diciembre de 2024, el Grupo vendió el 100% de las acciones comunes de Minera 
+Pampa de Cobre S.A.C. 
+ 
+(ii) Para mayor detalle sobre la variación revisar la nota 29 (e). 
+ 
+(a) Subsidiarias 
+ 
+Las subsidiarias son todas las entidades respecto de las que la Compañía tiene control. La 
+Compañía controla a una entidad cuando (i) tiene control sobre la entidad, (ii) está expuesto a, o 
+tiene derecho a rendimientos variables de su involucramiento con la entidad y (iii) tiene la 
+capacidad de afectar sus rendimientos a través del control que tiene sobre la entidad. Las 
+subsidiarias se consolidan desde la fecha en que se transfiere el control a la Compañía, excepto 
+cuando se aplique la base contable anterior. Las subsidiarias dejan de consolidarse a partir de la 
+fecha en que el control cesa. 
+ 
+Las políticas contables de las filiales suelen ser consistentes con las políticas adoptadas por la 
+Compañía. Si existen diferencias, se realiza un ajuste durante el proceso de consolidación. 
+ 
+Las participaciones no controladas de patrimonio y resultados de las subsidiarias son presentadas 
+separadamente en el estado consolidado de situación financiera, estado consolidado de 
+resultados, estado de otros resultados integrales y estado consolidado d e cambios en el 
+patrimonio.  
+ 
+Un cambio en la participación en la propiedad de una subsidiaria, sin pérdida de control, se 
+contabiliza como una transacción de patrimonio. 
+ 
+Si la Compañía pierde el control de una subsidiaria, da de baja los activos, pasivos, participaciones 
+no controladoras y otros componentes del patrimonio relacionados y cualquier ganancia o pérdida 
+resultante se reconoce en el estado de resultados  integrales. Cualquier inversión retenida se 
+reconoce a su valor razonable. 
+ 
+En general, existe la presunción de que la mayoría de los derechos de voto da como resultado el 
+control. Cuando la Compañía tiene menos de la mayoría de los derechos de voto de una 
+participada, considera todos los hechos y circunstancias relevantes para determinar si tiene poder 
+sobre esta participada. Esto puede incluir arreglos contractuales con los otros tenedores de votos 
+en la participada; derechos que surgen de otros acuerdos contractuales y los derechos de voto 
+de la Compañía y los derechos de voto p otenciales que le darán la capacidad práctica de dirigir 
+las actividades relevantes de la participada unilateralmente. 
+
+=== PAGINA PDF 13 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 13 de 66 
+ 
+Las transacciones entre empresas, los saldos y las ganancias no realizadas en las transacciones 
+entre empresas del grupo consolidado se eliminan por completo en la consolidación. Las pérdidas 
+no realizadas también se eliminan, a menos que la transacción indique un deterioro del activo 
+transferido.  
+ 
+(b) Transacciones con partes no controlantes 
+ 
+Las transacciones con accionistas que poseen una participación no controladora que no resultan 
+en una pérdida de control son contabilizadas como transacciones de patrimonio, es decir, como 
+transacciones con los accionistas del Grupo consolidado. Un cambio en la participación en la 
+propiedad da como resultado un ajuste entre los valores en libros de las participaciones 
+controladoras y no controladoras para reflejar sus participaciones relativas en la subsidiaria. 
+Cualquier diferencia entre los montos del ajuste a la participación no controladora y cualquier 
+contraprestación pagada o recibida se reconoce en Capital adicional pagado dentro patrimonio. 
+ 
+(c) Traducción de moneda extranjera  
+ 
+(i) Moneda funcional y moneda de presentación  
+ 
+Los elementos incluidos en los estados financieros de cada una de las entidades del Grupo se 
+miden utilizando la moneda del entorno económico principal en el que cada entidad opera (la 
+"moneda funcional"). Todas las filiales tienen el dólar estadounidense (US$) como su moneda 
+funcional, incluidas las filiales extranjeras. Los estados financieros consolidados del Grupo se 
+presentan en US$, que es la moneda funcional y de presentación del Grupo. 
+ 
+(ii) Transacciones y saldos  
+ 
+Las transacciones en moneda extranjera se registran inicialmente por cada una de las entidades 
+del Grupo en su moneda funcional y a sus respectivos tipos de cambio vigentes en que se reconoce 
+la transacción. 
+ 
+Las ganancias y pérdidas por diferencia en cambio que resultan del pago de dichas transacciones 
+y de la conversión de los activos y pasivos monetarios denominados en su moneda funcional y a 
+sus respectivos tipos de cambio vigentes al final de cada periodo sobre el que se informa , se 
+reconocen en el estado de resultados integrales consolidados. Las partidas no monetarias que se 
+miden al costo histórico en moneda extranjera se convierten utilizando los tipos de cambio 
+vigentes en las fechas de la transacción inicial. Las diferencias de conversión en activos y pasivos 
+registrados a valor razonable se informan como parte de la ganancia o pérdida de valor razonable. 
+ 
+4 Cambios en las principales políticas contables y revelaciones 
+   
+(a) Nuevas normas y modificaciones - aplicables a partir del 1 de enero de 2024 
+ 
+El Grupo aplicó por primera vez ciertas normas y enmiendas que son efectivas para los períodos 
+anuales que comienzan el 1 de enero de 2024. La adopción de estas nuevas normas y enmiendas 
+no tuvo un impacto material en los estados financieros consolidados del Grupo. Las enmiendas a 
+la NIIF 7 y a la NIC 7 relacionadas con los acuerdos de financiamiento con proveedores fueron 
+adoptadas de manera anticipada por el Grupo en los estados financieros al 31 de diciembre de 
+2023. El Grupo no ha adoptado de manera anticipada ninguna otra norma, enmienda o 
+interpretación que haya sido emitida pero aún no esté en vigencia. 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 14 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 14 de 66 
+Clasificación de Pasivos como Corrientes o No Corrientes y Pasivos No Corrientes con 
+Pactos – Enmiendas a la NIC 1 
+ 
+Las enmiendas a la NIIF 1 especifican los requisitos para clasificar l os pasivos como corrientes o 
+no corrientes, dependiendo de los derechos para diferir el pago al final del periodo de presentación 
+de los estados financieros. 
+ 
+Además, se requiere que una entidad revele cuando un pasivo derivado de un acuerdo de 
+préstamo sea clasificado como no corriente y el derecho de la entidad para diferir el pago dependa 
+del cumplimiento de los futuros convenios dentro de los doce meses sigu ientes. Estas 
+divulgaciones incluyen el valor en libros del pasivo, la información sobre los convenios, y los 
+hechos y circunstancias, si los hubiera, que indiquen que la entidad podría tener dificultades para 
+cumplir con los convenios. 
+ 
+Pasivo por arrendamiento en una operación de venta y arrendamiento posterior – 
+Enmiendas a la NIIF 16 
+ 
+Las enmiendas a la NIIF 16 especifican los requisitos que debe utilizar un arrendatario-vendedor 
+al medir el pasivo por arrendamiento derivado de una transacción de venta y arrendamiento 
+posterior, para garantizar que el arrendatario -vendedor no reconozca ninguna cantidad de la 
+ganancia o pérdida relacionada con el derecho de uso que conserva. 
+ 
+(b) Nuevos estándares e interpretaciones aún no adoptados 
+ 
+Se han emitido algunas normas y enmiendas que aún no están vigentes; el impacto en las 
+operaciones o estados financieros de la Compañía está en evaluación.  
+ 
+Enmiendas a la NIC 21 - Falta de Intercambiabilidad 
+ 
+En agosto de 2023, el IASB emitió enmiendas a la NIC 21 "Los efectos de los cambios en los tipos 
+de cambio" para especificar cómo una entidad debe evaluar si una moneda es intercambiable y 
+cómo debe determinar un tipo de cambio spot cuando falta intercambiabilidad. 
+ 
+Las enmiendas también exigen la divulgación de información que permita a los usuarios de los 
+estados financieros comprender cómo la falta de intercambiabilidad de una moneda con respecto 
+a otra afecta, o se espera que afecte, el rendimiento financiero, la posición financiera y los flujos 
+de efectivo de la entidad. Las enmiendas serán de aplicación para los períodos anuales de reporte 
+que comiencen el 1 de enero de 2025 o después. Se permite la adopción anticipada, pero deberá 
+ser divulgada. Al aplicar las enmiendas, una entidad no podrá reexpresar la información 
+comparativa. 
+ 
+Se espera que las enmiendas no tengan un impacto material en los estados financieros 
+consolidados del Grupo 
+ 
+Nueva norma - NIIF 18 - Presentación y Divulgación en los Estados Financieros 
+ 
+En abril de 2024, el IASB emitió la NIIF 18, que reemplaza la NIC 1 "Presentación de los estados 
+financieros". La NIIF 18 introduce nuevos requisitos para la presentación dentro del estado de 
+resultados, incluyendo totales y subtotales específicos. Además, las entidades deben clasificar 
+todos los ingresos y gastos dentro del estado de resultados en una de las siguientes cinco 
+categorías: operativos, de inversión, de financiamiento, impuestos sobre la renta y operaciones 
+discontinuadas, de las cuales las tres primeras son nuevas. 
+ 
+También se requiere la divulgación de medidas de desempeño definidas por la administración, 
+subtotales de ingresos y gastos, e incluye nuevos requisitos para la agregación y desglose de la 
+información financiera basada en los 'roles' identificados de los estados financieros primarios (EFP) 
+y las notas. 
+
+=== PAGINA PDF 15 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 15 de 66 
+ 
+Además, se han realizado enmiendas de alcance reducido a la NIC 7 "Estado de flujos de efectivo", 
+que incluyen el cambio del punto de partida para determinar los flujos de efectivo de las 
+operaciones bajo el método indirecto, de "utilidad o pérdida" a "utilidad o pérdida operativa", y la 
+eliminación de la opción de clasificación de los flujos de efectivo derivados de dividendos e 
+intereses. Como resultado de estos cambios, se realizaron enmiendas consecuentes a varias otras 
+normas 
+ 
+La NIIF 18, así como las enmiendas a otras normas, será de aplicación para los períodos de 
+reporte que comiencen el 1 de enero de 2027 o después, pero se permite su aplicación anticipada, 
+debiendo ser divulgada. La NIIF 18 se aplicará de manera retrospective. 
+ 
+El Grupo está trabajando actualmente para identificar los impactos de esta nueva norma y las 
+enmiendas consecuentes a otras normas en sus estados financieros 
+ 
+Enmiendas a la NIIF 9 y la NIIF 7 - Clasificación y Medición de Instrumentos Financieros 
+ 
+En mayo de 2024, el IASB emitió enmiendas específicas a la NIIF 9 y la NIIF 7 para responder a 
+preguntas recientes surgidas en la práctica y para incluir nuevos requisitos no solo para las 
+instituciones financieras, sino también para las entidades corporat ivas. Estas enmiendas deben 
+aclarar la fecha de reconocimiento y desconocimiento de ciertos activos y pasivos financieros, con 
+una nueva excepción para algunos pasivos financieros saldados a través de un sistema de 
+transferencia electrónica de efectivo, incluir más orientación para evaluar si un activo financiero 
+cumple con el criterio de pagos de principal e intereses (SPPI, por sus siglas en inglés), definir 
+divulgaciones adicionales para ciertos instrumentos con términos contractuales que pueden 
+modificar los flujos de efectivo (como algunos instrumentos financieros con características 
+vinculadas al cumplimiento de objetivos medioambientales, sociales y de gobernanza), y 
+actualizar las divulgaciones para los instrumentos de patrimonio designados a valor razonable con 
+cambios en otro resultado integral (FVOCI, por sus siglas en inglés). 
+ 
+Las enmiendas serán efectivas para los períodos anuales que comiencen el 1 de enero de 2026 o 
+después. Se permite la adopción anticipada, con la opción de adoptar las enmiendas de manera 
+anticipada solo para características contingentes. 
+ 
+El Grupo está trabajando actualmente para identificar todos los impactos que estas enmiendas 
+tendrán en sus estados financieros 
+ 
+Enmiendas a la NIIF 9 y la NIIF 7 - Clasificación y divulgación del uso propio y 
+contabilidad de coberturas en 'Contratos que Referencian Electricidad Dependiente de 
+la Naturaleza' 
+ 
+En diciembre de 2024, el IASB modificó la NIIF 9 y la NIIF 7 para abordar la clasificación y 
+divulgación del uso propio y la contabilidad de coberturas en "Contratos que Referencian 
+Electricidad Dependiente de la Naturaleza". Las enmiendas se refieren a los requisitos de uso 
+propio y los requisitos de contabilidad de coberturas, junto con las divulgaciones relacionadas. El 
+alcance de las enmiendas es reducido y se aplica solo a los contratos que cumplen con las 
+características específicas de alcance 
+ 
+La fecha de entrada en vigor de las enmiendas será para los períodos anuales de reporte que 
+comiencen el 1 de enero de 2026 o después, con la aplicación anticipada permitida. 
+ 
+El Grupo está trabajando actualmente en identificar todos los impactos que estas enmiendas 
+tendrán en sus estados financieros. 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 16 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 16 de 66 
+(c) Estimaciones, supuestos y juicios críticos 
+ 
+La preparación de los estados financieros consolidados del Grupo requiere el uso de estimaciones, 
+suposiciones y juicios que afectan los montos reportados de ingresos, gastos, activos y pasivos, 
+así como las divulgaciones correspondientes, y la divulgación de pasivos contingent es a la fecha 
+de reporte. Por definición, las estimaciones, suposiciones y juicios críticos rara vez coinciden con 
+los resultados reales y se evalúan continuamente para reflejar las expectativas cambiantes sobre 
+eventos futuros. La dirección también debe e jercer juicio al aplicar las políticas contables del 
+Grupo. 
+ 
+Esta nota proporciona una visión general de las áreas que involucran un mayor grado de juicio o 
+complejidad, y de los elementos que son más propensos a ser ajustados materialmente debido a 
+que las estimaciones y suposiciones resulten ser incorrectas debido a su incertidumbre. La 
+información detallada sobre cada una de estas estimaciones, suposiciones y juicios se incluye en 
+otras notas, junto con información sobre la base de cálculo para cada el emento afectado en los 
+estados financieros consolidados. 
+ 
+Las estimaciones, supuestos y juicios contables críticos aplicados por el Grupo en la preparación 
+de estos estados financieros consolidados son los siguientes:   
+ 
+(i) Estimación del impuesto a las ganancias corriente y diferido – nota 10 
+(ii) Estimación del valor razonable de los instrumentos financieros – nota 13 
+(iii) Estimación de deterioro de cuentas por cobrar comerciales – nota 15 
+(iv) Estimación en la determinación de reservas y recursos minerales para el cálculo de la 
+vida útil – nota 20 
+(v) Estimación de provisión de cierre de minas y obligaciones ambientales – nota 25 
+(vi) Estimación de obligaciones contractuales – nota 26 
+(vii) Estimación de provisiones para reclamaciones judiciales – nota 28 
+(viii) Estimación de deterioro de activos de larga duración – nota 30 
+ 
+Las estimaciones, supuestos y los juicios críticos se evalúan continuamente. Se basan en la 
+experiencia histórica y otros factores, incluidas las expectativas de eventos futuros que puedan 
+tener un impacto financiero en el Grupo y que se cree que son razonables dadas las circunstancias. 
+ 
+Entre otros, el Grupo ha considerado los efectos de los compromisos  Ambiental, Social y de 
+Gobierno (Environmental, Social and Governance o “ESG” por sus siglas en inglés) al realizar sus 
+estimaciones, supuestos y juicios críticos en base a los compromisos ESG a largo plazo. Los 
+eventos y cambios de circunstancias que surjan después del 31 de diciembre de 202 4, se 
+reflejarán en las estimaciones de la administración para períodos futuros, así como los 
+desembolsos efectivos serán capitalizados o llevados a resultados, dependiendo de su naturaleza 
+y función, en el período en que se incurran. 
+ 
+5  Ventas netas  
+ 
+Política contable 
+ 
+Los ingresos comprenden el monto de la contraprestación recibida o por recibir por la venta de 
+bienes en el curso ordinario de las operaciones del Grupo. Los ingresos se presentan netos del 
+impuesto general a las ventas, devoluciones, rebajas y descuentos, luego de eliminar las ventas 
+entre las compañías consolidadas 
+ 
+El Grupo reconoce los ingresos cuando se satisface una obligación de desempeño mediante la 
+transferencia de un bien o servicio prometido a un cliente. El activo se transfiere cuando el cliente 
+obtiene el control de ese activo. Para determinar el momento en el que u n cliente obtiene el 
+control de un activo prometido, el Grupo considera los siguientes indicadores: (i) el Grupo tiene 
+un derecho presente al pago del activo; (ii) el cliente tiene título legal sobre el activo; (iii) el 
+
+=== PAGINA PDF 17 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 17 de 66 
+Grupo ha transferido la posesión física del activo; (iv) el cliente tiene los riesgos y beneficios 
+significativos de la propiedad del activo; (v) el cliente ha aceptado el bien. 
+ 
+Identificación y cumplimiento de las obligaciones de desempeño 
+ 
+El Grupo tiene dos obligaciones de desempeño incluidas en ciertos contratos de venta: 
+ 
+(i) La promesa de proporcionar bienes a sus clientes, y (ii) la promesa de proporcionar servicios 
+de flete y contratar servicios de seguro para sus clientes.  
+ 
+Promesa de proporcionar bienes: esta obligación de desempeño se cumple cuando el control de 
+dichos bienes se transfiere al cliente final, que se determina sustancialmente en función de los 
+Incoterms acordados en cada uno de los contratos con los clientes. 
+ 
+Promesa de proporcionar  servicios de flete y seguro  de contratación : esta obligación de 
+desempeño se cumple cuando se completan los servicios de flete y seguro contratado por los 
+clientes. 
+ 
+Como resultado de las distintas obligaciones de desempeño identificadas, parte de los ingresos 
+del Grupo se presentan como ingresos por servicios. El costo relacionado con los ingresos por 
+servicios se presenta en el rubro Costo de ventas. 
+ 
+Los ingresos por venta de bienes y por los servicios de fletes y seguros, se reconocen en el 
+momento en que se transfiere el control y cuando se prestan los servicios contratados , 
+respectivamente. Es en este momento cuando  se reconoce una cuenta por cobrar comercial 
+porque solo se requiere el paso del tiempo antes de que venza la contraprestación. El Grupo no 
+tiene ningún contrato de activos que dé derecho a contraprestación a cambio de bienes o servicios 
+que el Grupo haya transferido al cliente, ya que todos los derechos a contraprestación de los 
+contratos son incondicionales. 
+ 
+Los ingresos de US$ 694,035 que representan aproximadamente el 79% de los ingresos netos 
+totales, provienen de cuatro principales clientes (uno de los cuales es un cliente relacionado como 
+se explica en la nota 18 (b)) 
+ 
+Ingresos diferidos están relacionados a obligaciones contractuales que son las obligaciones de 
+una entidad de transferir bienes o servicios a un cliente por los cuales la entidad ha recibido una 
+contraprestación del cliente (o el vencimiento del pago ) pero la transferencia aún no se ha 
+completado. Para los contratos en los que las obligaciones de desempeño se satisfacen durante 
+un periodo de tiempo, se requiere el grado de finalización para calcular cuántos ingresos deben 
+reconocerse hasta la fecha y los ingresos se deducirán del pago anticipado en la medida en que 
+se cumplan las obligaciones de desempeño. Consulte la nota 26 para conocer la política contable 
+específica y la información relacionada con las obligaciones contractuales del Grupo. 
+ 
+Determinación del precio de la transacción y asignación de los montos a las obligaciones de 
+desempeño 
+ 
+El Grupo considera las condiciones del contrato y sus prácticas comerciales habituales para 
+determinar el precio de la transacción. El precio de la transacción es el monto de la 
+contraprestación a la que el Grupo espera tener derecho a cambio de transferir  los bienes o 
+servicios prometidos a sus clientes. El precio de transacción se asigna a cada obligación de 
+desempeño sobre una base independiente del precio de venta.  
+ 
+
+=== PAGINA PDF 18 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 18 de 66 
+Los precios de transacción incluidos en los contratos de venta del Grupo se pactan a precios del 
+mercado internacional. Estos ingresos están sujetos a ajustes de precio basados en el precio de 
+mercado al final del periodo de cotización estipulado en el contrato de venta. Estos se conocen 
+como acuerdos de precios provisionales que están sujetos a un ajuste de precio mensual , según 
+los precios de cotización de la London Metal Exchange (“LME” por sus siglas en inglés). Al 31 de 
+diciembre de 2024, los ajustes de precios de ventas pendientes a ser realizadas ascienden a una 
+ganancia de US$ 4,152 (ganancia de US$ 2,589 al 31 de diciembre de 2023). 
+ 
+Adicionalmente, el Grupo tiene una obligación contractual relacionada al contrato de largo plazo 
+de silver streaming relacionado a la producción de la unidad minera Cerro Lindo. El Grupo recibió 
+un pago adelantado por esta producción. El precio de la transacción está vinculado a la producción 
+de plata y los precios LME, que cambian con el tiempo y, por lo tanto, se contabiliza como una 
+contraprestación variable. Para mayor detalle sobre esta transacción de streaming, ver nota 26. 
+ 
+(a) Composición 
+ 
+(i) Conciliación de ventas brutas 
+ 
+  Nota 2024   2023 
+Ventas brutas      1,038,605          854,416  
+Ingresos por productos        1,019,163            834,223  
+Ingresos por servicios 6 (i)           19,442              20,193  
+Impuesto sobre las ventas          (157,483)         (119,079) 
+ Ventas netas          881,122          735,337  
+ 
+(ii) Clasificación de los ingresos netos 
+    
+Valor 
+          
+Cantidad 
+  2024 2023 2024 2023 
+Concentrado de zinc 283,332 229,651      276,582 TMS      271,048 TMS 
+Concentrado de plomo 280,853 234,696     100,692 TMS     93,455 TMS 
+Concentrado de cobre 267,694 225,858     121,569 TMS     111,059 TMS 
+Certificado de plata 29,801 24,939             2,610 Miles OZ           1,968 Miles OZ 
+Servicios de fletes y seguros 19,442 20,193       
+Ventas netas 881,122 735,337             
+                  
+Impuesto sobre las ventas 157,483 119,079             
+Ventas brutas 1,038,605 854,416             
+ 
+ 
+(b) Información sobre las áreas geográficas en las cuales opera el Grupo 
+ 
+Las áreas geográficas se determinan en función de la ubicación de los clientes de l Grupo. Los 
+ingresos netos del Grupo, clasificados por ubicación geográfica, son los siguientes: 
+ 
+    2024   2023 
+Peru    800,517     593,035  
+America    80,605     39,371  
+Europa    -     52,816  
+Asia    -    50,115  
+Ventas Netas (i)    881,122     735,337  
+ 
+(i) En 2024, el Grupo ha enfocado sus ventas en clientes de Perú y América 
+ 
+ 
+ 
+
+=== PAGINA PDF 19 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 19 de 66 
+6  Gastos por naturaleza 
+ 
+Política contable 
+ 
+El costo de ventas está compuesto principalmente por el costo de producción de los concentrados 
+vendidos por el Grupo y se reconocen en el estado de resultados integrales en la fecha de entrega 
+al cliente al mismo tiempo que se reconocen los ingresos por sus ventas relacionadas. 
+ 
+Los gastos de ventas y de administración se reconocen sobre la base del principio del devengo 
+independientemente de cuándo se paguen y, en su caso, en el mismo per iodo en que se 
+reconozcan los ingresos con los que están relacionados. 
+ 
+(a) Composición 
+ 
+         2024  
+  
+Costo de 
+ventas (ii)   
+Gastos de 
+ventas y de 
+administración 
+Exploración mineral 
+y evaluación  
+de proyectos Total 
+Servicios prestados por terceros (i)           (257,008)    (14,236)  (22,937)  (294,181) 
+Materia prima y consumibles utilizados            (141,245)    -     (337)  (141,582) 
+Gastos por beneficios a empleados             (76,355)    (22,398)  (3,632)  (102,385) 
+Depreciación y amortización             (97,101)    (1,251)  (126)  (98,478) 
+Otros gastos              (9,829)    (295)  (5,749)  (15,873) 
+   (581,538)    (38,180)  (32,781)  (652,499) 
+ 
+       2023  
+  
+Costo de 
+ventas (ii) 
+Gastos de 
+ventas y de 
+administración 
+Exploración mineral 
+y evaluación  
+de proyectos Total  
+Servicios prestados por terceros (i)           (265,015)            (11,986)            (26,615)   (303,616) 
+Materia prima y consumibles utilizados            (138,997)  -                  (530)   (139,527) 
+Gastos por beneficios a empleados             (63,748)            (17,300)              (3,397)     (84,445) 
+Depreciación y amortización             (76,767)                 (637)                   (83)     (77,487) 
+Otros gastos             (10,019)                2,557               (7,310)     (14,772) 
+          (554,546)           (27,366)         (37,935)  (619,847) 
+ 
+(i) Los servicios de terceros incluyen el costo de flete y seguro. Para el año terminado el 31 de 
+diciembre de 2024, es de US$ 19,442 (para el año terminado el 31 de diciembre de 2023: 
+US$ 20,193), ver nota 5.  
+ 
+(ii) Al 31 de diciembre de 2024, el Grupo reconoció US$ 3,661 en Costo de ventas relacionados 
+con costos de capacidad ociosa debido a la suspensión de la mina durante diez días en El 
+Porvenir (para el año terminado el 31 de diciembre de 2023 fue US$ 9,256). 
+ 
+7  Exploración mineral y evaluación de proyectos  
+ 
+Política contable 
+ 
+Los costos de exploración mineral y evaluación de proyectos se contabilizan como gastos en el 
+año en que se incurren. 
+ 
+Las actividades de exploración mineral implican la búsqueda de recursos minerales de áreas 
+potenciales hasta la determinación de la viabilidad comercial y factibilidad de un recurso 
+identificado. Los costos de exploración mineral incluyen la recopilación d e datos de exploración 
+mediante estudios geológicos y geofísicos, la realización de perforaciones exploratorias y la toma 
+de muestras, así como la determinación y el examen del volumen y la ley de los recursos 
+identificados.  
+ 
+
+=== PAGINA PDF 20 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 20 de 66 
+Los costos de evaluación de proyectos están relacionados principalmente a estudios de alcance, 
+prefactibilidad y factibilidad para proyectos greenfield y brownfield. Adicionalmente, estos costos 
+de evaluación pueden incluir costos incurridos en estudios para proyectos corporativos de 
+investigación, innovación, automatización y proyectos de tecnología de la información. 
+ 
+En la nota 20 se describe cuándo comienzan a capitalizarse los costos de exploración mineral y 
+evaluación de proyectos. 
+ 
+Composición 
+    2024   2023 
+Exploración mineral              28,562              30,911  
+Evaluación de proyectos               4,219                7,024  
+             32,781             37,935  
+ 
+8 Otros ingresos y gastos, neto 
+ 
+  Nota 2024   2023 (Restructurado) 
+Contribuciones a las comunidades (i)   (12,523)  (11,263) 
+Provisión de inventario de lento movimiento y obsoleto, neto    (6,645)  (1,798) 
+Gastos por suspensión temporal de explotación de mina subterránea    (6,243)  (2,110) 
+Pérdida (ganancia) esperada de cuentas por cobrar comerciales, neta 17 (b) (2,260)  254 
+Bajas y pérdida por venta de propiedad, planta y equipo, neto    (724)  (3,638) 
+Ganancia (pérdida) en la venta de suministros neto   (35)  3,432 
+Provisiones de contingencias legales, neto 28 (a) 868  (6,930) 
+Resultado neto de las desinversiones (ii)   9,128  - 
+Cambio en retiro de activos y obligaciones ambientales (iii) 19 (a) y  25 (a) 18,243  2,086 
+Otros ingresos (pérdidas) operativos, netos   954  2,378 
+    763  (17,589) 
+ 
+(i) La contribución a las comunidades incluye gastos en mantenimiento de caminos, suministro 
+de agua y otras construcciones en nuestras comunidades anfitrionas.  
+(ii) Se refiere a los resultados relacionados con las desinversiones realizadas en las filiales 
+Compañía Minera Cerro Colorado y Minera Pampa de Cobre mencionadas en la nota 1 (a).  
+(iii) Al 31 de diciembre de 2024 la variación de las obligaciones por retiro de activos aumentó 
+principalmente por la actualización de la tasa de descuento por revalorización.  
+ 
+9  Resultado financiero, neto  
+ 
+Política contable 
+ 
+(i) Gastos financieros 
+ 
+Los gastos financieros de obligaciones se registran como gasto cuando se devengan, excepto 
+aquellos directamente relacionados con la adquisición o con la construcción de activos que 
+requieren un tiempo sustancial para estar listos para su uso, en cuyo caso  estos costos se 
+capitalizan en el costo dentro de propiedades, planta y equipo y/o activo intangibles.  
+ 
+(ii) Ingresos financieros 
+ 
+Los ingresos financieros están principalmente compuestos de intereses financieros y se reconocen 
+sobre la base del devengo para reflejar el rendimiento efectivo del activo según el método de la 
+tasa de interés efectiva. 
+ 
+
+=== PAGINA PDF 21 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 21 de 66 
+(a) Composición 
+  Nota 2024 2023 (Restructurado) 
+Ingresos financieros       
+Intereses en cuentas por cobrar con relacionadas 18(b) 15,001 9,392 
+Comisión por garantía de bonos emitidos por NEXA 18(b) 2,626 5,577 
+Intereses de préstamos con partes relacionadas 18(b) 8,513 5,414 
+Ingreso por intereses en equivalentes de efectivo   5,696 5,238 
+Otros ingresos financieros   203 310 
+    32,039 25,931 
+     
+Gastos financieros       
+Intereses en la provisión de cierre de minas 25  (15,347)  (14,226) 
+Incremento de obligaciones contractuales 26  (6,424)  (5,329) 
+Intereses contingencias    (4,025)  (4,483) 
+Otros gastos financieros   (8,118)  (2,597) 
+       (33,914)  (26,635) 
+     
+Variación cambiaria, neto    (152)  (4,695) 
+     (152)  (4,695) 
+        
+ Resultado financiero, neto         (2,027)  (5,399) 
+ 
+10  Impuesto a las ganancias corriente y diferido  
+ 
+Política contable 
+ 
+El gasto por impuesto a las ganancias del año comprende al impuesto a las ganancias corriente y 
+diferido, el gravamen especial a la minería y el impuesto especial  a la minería. El gasto por 
+impuestos se reconoce en el estado de resultados integrales consolidados.   
+ 
+El gasto por impuesto a las ganancias corriente de  la Compañía y de sus subsidiarias locales se 
+calcula y reconoce de conformidad con el régimen tributario peruano vigente y, en el caso de sus 
+subsidiarias domiciliadas en el extranjero, de acuerdo con el régimen tributario vigente en los 
+países donde operan. La Gerencia periódicamente evalúa las posiciones adoptadas  por el Grupo 
+en las declaraciones  de impuesto a la renta con respecto a aquellas situaciones en las que las 
+disposiciones tributarias aplicables están sujetas a interpretación . En caso de ser necesario, 
+establecer provisiones, teniendo en cuenta los importes que se espera desembolsar a las  
+autoridades tributarias. 
+ 
+El impuesto a las ganancias corriente es presentado neto, separado por entidades contribuyentes, 
+en pasivos cuando hay montos por pagar o en activos cuando los pagos a cuenta exceden el 
+monto total adeudado a la fecha de los estados financieros consolidados. 
+ 
+El impuesto a las ganancias diferido se provisiona en su totalidad, utilizando el método del 
+balance, sobre las diferencias temporales que surgen entre las bases fiscales de los activos y 
+pasivos y sus valores en libros para propósitos de información financiera a la fecha de reporte. El 
+impuesto a las ganancias diferido se determina utilizando las tasas (y leyes) impositivas que han 
+sido promulgadas o sustancialmente promulgadas al final del per iodo sobre el que se informa y 
+que se espera sea aplicada cuando se realice el activo de impuestos a las ganancias diferido 
+relacionado o se liquide el pasivo por impuesto a la ganancia diferido. 
+ 
+Los activos por impuestos diferidos se reconocen s ólo en la medida en que sea probable que se 
+disponga de ingresos fiscales futuros contra los que se puedan utilizar las diferencias temporales 
+deducibles y/o las pérdidas fiscales. Los activos y pasivos por impuesto diferidos se compensan 
+cuando existe un derecho legalmente exigible y la intención de compensarlos en el cálculo de los 
+impuestos corrientes, generalmente cuando están relacionados con la misma  persona jurídica y 
+
+=== PAGINA PDF 22 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 22 de 66 
+la misma autoridad tributaria. En consecuencia, los activos y pasivos por impuestos diferidos en 
+diferentes compañías o en diferentes países generalmente se presentan por separado, y no sobre 
+una base neta. 
+ 
+Los pasivos y activos por impuestos diferidos no se reconocen por las diferencias temporales entre 
+los valores en libros y las bases tributarias de las inversiones en negocios en el extranjero donde 
+el Grupo es capaz de controlar el momento de la reversión  de las diferencias temporales y es 
+probable que las diferencias no se reviertan en un futuro cercano. 
+ 
+Estimaciones contables, supuestos y juicios críticos  
+ 
+El Grupo está sujeto al impuesto a las ganancias en los países en los que opera, donde surgen 
+incertidumbres en la aplicación de regulaciones tributarias complejas. Se requieren estimaciones, 
+supuestos y juicios significativos para determinar el monto de impuestos diferidos que serán 
+recuperados, ya que este monto puede verse afectado por factores que corresponden, pero no 
+están limitados a: (i) supuestos internos sobre la utilidad imponible proyectada, que se basan en 
+la producción y planificación de venta s, precios de los productos básicos, costos operativos y 
+costos de capital planeados; (ii) entorno macroeconómico; y (iii) escenarios comerciales e 
+impositivos. 
+Además, hay muchas transacciones y cálculos para los cuales la determinación fiscal final es 
+incierta. El Grupo también ejerce su juicio en la identificación de estas incertidumbres sobre los 
+tratamientos del impuesto a las ganancias que podrían afectar sus estados financieros 
+consolidados ya que el Grupo opera en un entorno multinacional complejo.  
+La Compañía y sus subsidiarias nacionales están  sujetas a revisiones de las declaraciones de 
+impuesto a las ganancias y otros pagos de impuestos, y pueden surgir disputas con las 
+autoridades fiscales sobre la interpretación de las leyes y regulaciones aplicables. 
+ 
+(a) Reconciliación del gasto de impuesto a las ganancias 
+  
+2024 2023 (Restructurado) 
+Ganancia antes de impuesto a las ganancias         181,666            87,776  
+Tasa nominal de impuesto a las ganancias 29.50% 29.50% 
+      
+Gasto por impuesto a las ganancias a tasa nominal  (53,591)  (25,894) 
+Pérdidas fiscales del año sin expectativa de recuperación   (6,625)  (5,403) 
+Impuesto especial minero  (7,198)  (5,366) 
+Partidas temporales del año sin expectativa de recuperación   (2,060)  (1,361) 
+Efecto tributario de traslación de activos/pasivos no monetarios a moneda funcional   621   12,331  
+Regalías mineras  (670)  -    
+Reversión de activo diferido sin expectativa de recuperación   (13,200)  -    
+Contingencias  (815)  (3,543) 
+Tratamiento incierto del impuesto sobre la renta (i)  (86,751)  (4,801) 
+Otras diferencias permanentes  (4,433)  (8,706) 
+ Gasto por impuesto a las ganancias   (174,722)  (42,743) 
+   
+Corriente   (167,869)  (39,508) 
+Diferido  (6,853)  (3,235) 
+ Gasto por impuesto a las ganancias   (174,722)  (42,743) 
+ 
+(i) Incluye principalmente provisión de impuesto a las ganancias relacionada con la discusión del 
+Convenio de Estabilidad de Cerro Lindo para los años 2014 a 2021. La Administración de Nexa 
+tomó la decisión en 2024 de proporcionar elementos para que la Adminis tración Tributaria 
+segregue los montos que serían estabilizados. Para más detalles, consulte la nota 10 (d) 
+ 
+
+=== PAGINA PDF 23 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 23 de 66 
+(b) Análisis del activo y pasivo por impuesto a las ganancias diferido 
+ 
+      2024  2023 
+  Crédito fiscal sobre pérdidas operativas netas      2,309     2,287  
+            
+Créditos tributarios por diferencias temporales         
+  Deterioro de activos de larga duración      17,448     23,655  
+  Provisión para cierre de minas      8,760     5,055  
+  Provisión por obsolescencia y lenta rotación de inventarios   2,990     1,775  
+  Provisiones laborales y ambientales      956     420  
+  Otros      5,595     5,481  
+      
+Débitos tributarios por diferencias temporales           
+  Diferencia por conversión en partidas no monetarias    (11,125)    (15,247) 
+Diferencias en tasas de depreciación y amortización      (17,202)    (7,357) 
+  Provisión para cierre de minas      (1,560)    (291) 
+  Otros      -       (754) 
+       8,171     15,024  
+Activo por impuesto diferido      22,963     15,024  
+Pasivo por impuesto diferido      (14,792)    -    
+       8,171     15,024  
+ 
+(c)  Efectos del impuesto diferido en el estado de resultados y otros resultados 
+integrales  
+ 
+  2024   2023 
+Saldo al inicio del año  15,024     18,259  
+Efecto en las pérdidas del año  (6,853)    (3,235) 
+Saldo al final del año  8,171     15,024  
+ 
+(d) Resumen de posiciones fiscales inciertas por impuesto a las ganancias 
+ 
+Al 31 de diciembre de 2024, las principales posiciones fiscales inciertas están relacionadas con:  
+ 
+(i) la interpretación de la aplicación del convenio de estabilidad de Cerro Lindo; y (ii) la 
+deducibilidad de ciertos costos y gastos. 
+ 
+El monto estimado de estos pasivos contingentes al 31 de diciembre de 2024 es de US$ 282,036, 
+lo que representa una disminución en comparación con el monto estimado, al 31 de diciembre de 
+2023 de US$ 354,988, debido principalmente a: (i) la reducción parcial de los montos relacionados 
+con las acotaciones tributarias de los convenios de estabilidad de Cerro Lindo de 2014, 2015 y 
+2017, tras el reconocimiento de la SUNAT de que parte de estos montos acotados prescribieron y 
+ya no son exigibles; (ii) cambios en la evaluación de riesgos que concluyen que es improbable 
+que algunas posiciones se mantengan, lo que conlleva a la constitución de nuevas provisiones y 
+a la disminución de los pasivos contingentes; y (iii) parcialmente compensado por incrementos 
+provenientes de otros asuntos de acotaciones tributarias del impuesto a la renta, en base a 
+reevaluaciones de asesores internos y externos. 
+ 
+La SUNAT emitió resoluciones desfavorables para la Compañía con respecto al  convenio de 
+estabilidad de Cerro Lindo para los años comprendidos entre 2014 y 2017, argumentando que la 
+tasa estabilizada del impuesto a la renta otorgada en virtud del convenio de estabilidad solo se 
+aplica a los ingresos generados por la producción de 5,000 toneladas por día, y no por toda la 
+capacidad de producción de la Compañía, que se expandió con el tiempo. La Compañía ha 
+presentado fuertes apelaciones contra estas decisiones de períodos. Actualmente, la SUNAT está 
+fiscalizando los ejercicios fiscales 2019 y 2020, mientras que sigue abierta la fiscalización del 
+ejercicio 2021 (año en que venció el plazo del convenio de estabilidad). 
+ 
+
+=== PAGINA PDF 24 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 24 de 66 
+En el cuarto trimestre de 2024, la SUNAT culminó la fiscalización del periodo tributario 2018, 
+reconociendo que los ingresos generados por parte de la producción se encontraban estabilizados. 
+En enero de 2025, la administración de Nexa optó por pagar US$ 18,300 (incluye otros reparos) 
+para obtener una reducción de 60% en multas e intereses. Sin embargo, la Compañía continuará 
+su defensa legal dentro de los plazos aplicables y, por lo tanto, parte de estos pagos no 
+constituyen un reconocimiento de responsabilidad por la deuda tributaria. 
+ 
+11  Administración de riesgos financieros 
+ 
+Factores de riesgos financieros 
+ 
+Las actividades del Grupo la exponen a ciertos riesgos financieros: a) riesgo de mercado (incluidos 
+el riesgo de tipo de cambio, el riesgo de tasa de interés  y el riesgo de precio s); b) riesgo de 
+crédito; y c) riesgo de liquidez. 
+ 
+Una parte significativa de los productos vendidos por el Grupo son materias primas, con precios 
+vinculados a índices internacionales y expresados en US$. Sin embargo, parte de los costos de 
+producción están denominados en Soles (“PEN”); por lo cual, existe un descalce de monedas entre 
+los ingresos y los costos. Adicionalmente, el Grupo tiene deudas vinculadas en soles, lo que puede 
+afectar sus flujos de efectivo. 
+ 
+Con la finalidad de mitigar los posibles efectos adversos de cada factor de riesgos financieros, el 
+Grupo sigue una Política de Gestión de Riesgos Financieros que establece la gobernanza y 
+lineamientos para el proceso de gestión de riesgos financieros, así  como métricas de medición y 
+seguimiento. Esta política establece lineamientos y reglas para: (i) Gestión de exposición de 
+materias primas, (ii) Gestión de exposición cambiaria, (iii) Gestión de exposición de tasa de 
+interés, (iv) Gestión de riesgo de emis ores y contrapartes, y (v) Gestión de liquidez y 
+endeudamiento financiero. Todas las estrategias y propuestas deben cumplir con los lineamientos 
+y reglas de la Política de Gestión de Riesgos Financieros, ser presentadas y discutidas con el 
+Comité de Finanzas del Directorio de NEXA y, en su caso, sometidas a la aprobación del Directorio, 
+bajo la estructura de gobierno descrita en la Política de Gestión de Riesgos Financieros. 
+
+=== PAGINA PDF 25 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 25 de 66 
+(a) Riesgo de mercado 
+ 
+El propósito del proceso de administración de riesgo de mercado y todas las acciones relacionadas tienen como objetivo proteger el flujo de caja del Grupo 
+contra los eventos adversos, como la variación del tipo de cambio, tipos de interés y riesgo de precios, para mantener la capacidad de pagar las obligaciones 
+financieras y cumplir con niveles de liquidez y endeudamiento definidos por la Gerencia. 
+(i) Sensitivity analysis 
+ 
+A continuación, se presenta un análisis de sensibilidad de los principales factores de riesgo que afectan el precio de los in strumentos financieros en 
+circulación relacionados con efectivo y equivalentes de efectivo , y préstamos y financia mientos. Las principales sensibilidades son la exposición a la 
+variación del tipo de cambio del dólar estadounidense y del sol peruano. Los escenarios de estos factores se elaboran utilizando fuentes de mercado y 
+otras fuentes relevantes, en cumplimiento de las políticas del Grupo. Los escenarios al 31 de diciembre de 2024 se describen a continuación: 
+ 
+Escenario I: considera un cambio en las curvas de rendimiento futuro del mercado y las cotizaciones al 3 1 de diciembre de 2024, con el escenario base 
+definido por el Grupo para los próximos 3 meses, al 31 de marzo de 2025; 
+ 
+Escenario II: considera un cambio de + o -25% en las curvas de rendimiento futuro del mercado al 31 de diciembre de 2024; 
+ 
+Escenario III: considera un cambio de + o -50% en las curvas de rendimiento futuro del mercado al 31 de diciembre de 2024. 
+ 
+ 
+        Impacto en resultados  
+       Escenarios II y III 
+Factor de riesgo 
+Cotización al 31 
+de diciembre de 2024 Importe  
+Cambios 
+desde 2024 Escenario I -25% -50% +25% +50% 
+Efectivo y equivalentes de efectivo                  
+Tasa de cambio                  
+SOLES                       0.266      20,352   -2.31%              (470)          (5,088)               (10,176)                   5,088                  10,176  
+ 
+ 
+ 
+
+=== PAGINA PDF 26 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 26 de 66 
+(ii) Riesgo de tipo de cambio 
+ 
+El riesgo de tipo de cambio es gestionado a través de la Política de Gestión de Riesgos Financieros 
+del Grupo, que busca protegerse contra la exposición al tipo de cambio y minimizar los descalces 
+de monedas. 
+ 
+A continuación se presentan los activos y pasivos financieros en moneda extranjera  
+(principalmente PEN convertidos a US$) al 31 de diciembre de 2024 y 2023 
+ 
+Montos en US$ de saldos en monedas extranjeras  2024   2023 
+Activos         
+Efectivo y equivalentes de efectivo              20,352           19,116  
+Otros activos             19,602           15,426  
+             39,954          34,542  
+Pasivos         
+Cuentas por pagar comerciales             (30,633)         (32,150) 
+Salarios y gastos laborales            (33,137)         (22,843) 
+Otros pasivos            (15,215)         (29,113) 
+         (78,985)      (84,106) 
+Posición neta         (39,031)      (49,564) 
+ 
+(iii) Riesgo de tasa de interés 
+ 
+El riesgo de tasa de interés para el Grupo surge principalmente de los préstamos a largo plazo. 
+Los préstamos a tasas variables exponen al Grupo al riesgo de la tasa de interés. Los préstamos 
+a tasas fijas exponen al Grupo al riesgo de valor razonable asociado a los tipos de interés.  Para 
+mayor información relacionada con las tasas de interés. 
+ 
+La Política de Gestión de Riesgos Financieros del Grupo establece directrices y normas para la 
+cobertura frente a cambios en las tasas de interés que repercuten en los flujos de caja del Grupo. 
+La exposición a cada tasa de interés se proyecta hasta el vencimiento de los activos y pasivos 
+expuestos a este índice. Ocasionalmente, el Grupo suscribe swaps de tasa de interés variable a 
+fijo para gestionar el riesgo de tasa de interés de sus flujos de caja.  
+ 
+(iv) Riesgo de precios 
+ 
+El riesgo de precio de las materias primas está relacionado con la volatilidad de los precios de las 
+materias primas de l Grupo . La fluctuación de  precios depende de la demanda, capacidad de 
+producción, niveles de inventario de los productores, estrategias comerciales adoptadas por 
+principales productores y la disponibilidad de sustitutos de estos productos en el mercado global. 
+ 
+Por ello, la Gerencia de Riesgo Financiero mantiene un estricto control de sus costos operativos y 
+realiza importantes inversiones productivas y tecnológicas, con el fin de mantener niveles de 
+costos competitivos. 
+ 
+Al 31 de diciembre de 2024 y 2023 el Grupo no tenía contratos de cobertura. 
+ 
+(b) Riesgo de crédito 
+ 
+Las cuentas comerciales por cobrar y los depósitos a plazo generan exposición al riesgo de crédito 
+con respecto a las contrapartes y los emisores. El Grupo tiene como política realizar depósitos en 
+entidades financieras que cuenten, al menos, con un rating  de dos de las siguientes agencias 
+internacionales de rating: Fitch, Moody’s o Standard & Poor’s. La calificación mínima requerida 
+para las contrapartes se determina de la siguiente manera: 
+ 
+
+=== PAGINA PDF 27 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 27 de 66 
+- Operaciones onshore: calificación "A", o equivalente, en escala local por dos agencias 
+calific1adoras. En el caso de instituciones financieras del exterior que cuenten con calificación 
+local por una sola calificadora, ésta deberá ser como mínimo “AA -”, y su casa matriz debe tener 
+una calificación mínima “A” en escala global. 
+ 
+- Operaciones offshore: calificación "BBB-", o equivalente, en escala global por dos agencias  
+calificadoras. 
+ 
+En el caso específico de las instituciones financieras en Perú o Luxemburgo, se aceptan las 
+calificaciones locales de agencias locales asociadas con las agencias de calificación aprobadas en 
+la política del Grupo. En caso de que solo esté disponible una calificación global, será elegible 
+siempre y cuando cuente con una calificación de "BBB -" como mínimo por parte de una agencia 
+de calificación. 
+ 
+En el caso de instituciones financieras que no cuenten con calificación disponible para un país 
+específico, será elegible siempre que su casa matriz siga las calificaciones mínimas especificadas 
+anteriormente. 
+ 
+La metodología de riesgo previo a la liquidación se utiliza para evaluar los riesgos de contraparte 
+en las transacciones de derivados. Esta metodología consiste en determinar el riesgo asociado a 
+la probabilidad (mediante simulaciones Monte Carlo) de que u na contraparte incumpla los 
+compromisos financieros definidos por contrato. 
+ 
+Las calificaciones globales han sido obtenidas de las agencias calificadoras Fitch, Moody's o 
+Standard & Poor's ratings y están relacionadas con compromisos en moneda local o extranjera y, 
+en ambos casos, evalúan la capacidad de honrar dichos compromisos, utilizando una escala 
+aplicable en base global. Por lo tanto, las calificaciones en moneda extranjera como en moneda 
+local son calificaciones comparables internacionalmente. 
+ 
+Los ratings utilizados por el Grupo son siempre los ratings más conservadores de las referidas 
+agencias. 
+ 
+En el caso del riesgo de crédito derivado de la exposición crediticia del cliente, el Grupo evalúa la 
+calidad crediticia del cliente, considerando principalmente la historia de la relación e indicadores 
+financieros que definen los límites de crédito individuales, los cuales son monitoreados 
+continuamente. 
+ 
+El Grupo realiza análisis iniciales de crédito de los clientes y, cuando se considera necesario, se 
+obtienen garantías o cartas de crédito para mitigar el riesgo de crédito. 
+ 
+El valor en libros de los instrumentos financieros del Grupo representa mejor la exposición máxima 
+a su riesgo de crédito. 
+ 
+La siguiente tabla refleja la calidad crediticia de los emisores y contrapartes para transacciones 
+que involucran efectivo y equivalentes de efectivo. Las variaciones presentadas están relacionadas 
+principalmente con las transacciones de l Grupo en el año y no con cambios en las calificaciones 
+de las contrapartes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 28 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 28 de 66 
+ 
+     2024     2023 
+Efectivo y equivalente de efectivo 
+Rating 
+local 
+Rating 
+global  Total  
+Rating 
+local 
+Rating 
+global  Total 
+AAA      168,663                 -    168,663     79,712               -    79,712  
+A+                -           39,598         39,598               -    38,886         38,886  
+A        10,563                 -           10,563               -        30,373         30,373  
+A-                -           29,184         29,184               -        21,744         21,744  
+AA                -           70,717         70,717               -                 -                   -    
+AA-                -           17,592         17,592               -        46,318         46,318  
+BB+                -                   -                   -                 -                 1                  1  
+Sin rating (i)                1          -                   1                 -             325              325  
+     179,227      157,091      336,318      79,712   137,647      217,359  
+ 
+(i) Se refiere a las subsidiarias de instituciones financieras internacionales que no tienen una 
+calificación global disponible en las agencias de calificación internacionales. De acuerdo con la 
+política del Grupo, para estas instituciones financieras, se asume la calificación de las entidades 
+controladoras de la institución financiera, la cual debe ser al menos BBB-.   
+ 
+(c) Riesgo de liquidez 
+ 
+Este riesgo se gestiona a través de la Política de gestión de riesgos financieros del Grupo, que 
+tiene como objetivo garantizar la disponibilidad de fondos para cumplir con las obligaciones 
+financieras del Grupo. El principal instrumento de medición y segu imiento de la liquidez es la 
+proyección de flujo de caja, utilizando un periodo mínimo de proyección de 12 meses a partir de 
+la fecha de referencia. Las instituciones financieras que prestan servicios financieros al Grupo se 
+encuentran dentro de las políti cas de calificación de Nexa, y en el mismo nivel de las previstas 
+para el riesgo crediticio del Grupo.  
+ 
+Una parte sustancial del acuerdo de cuentas por pagar confirmadas se encuentra con una 
+institución financiera. Sin embargo, existen otras instituciones financieras con las que el Grupo 
+tiene relaciones que podrían ser consideradas para futuras transaccione s de financiamiento de 
+proveedores. Si este servicio no está disponible, la entidad podría verse obligada a aumentar sus 
+niveles de deuda, lo que podría afectar negativamente sus ratios de apalancamiento. 
+ 
+El cuadro a continuación muestra los pasivos financieros del Grupo a ser liquidadas en función de 
+su vencimiento (el periodo remanente desde el estado de situación financiera hasta la fecha de 
+vencimiento contractual). Los montos revelados en el cuadro son los flujos de efectivos no 
+descontados, que incluyen los intereses en lo que incurrirá y, en consecuencia, no se concilian 
+directamente con los montos presentados en el estado de situación financiera consolidado. 
+ 
+2024 
+Menos 
+de 1 año 
+Entre 1 
+y 3 años 
+Entre 3 y 5 
+años 
+Más de 5 
+años Total 
+Pasivo por arrendamiento  12,272   12,449   1,915   11,507   38,143  
+Cuentas por pagar comerciales  173,518   89   -     -     173,607  
+Cuentas por pagar factoraje  6,469   -     -     -     6,469  
+Otros pasivos  64,732   507   -     -     65,239  
+Provisión para cierre de minas y obligaciones ambientales   26,364   31,793   21,505   128,913   208,575  
+   283,355   44,838   23,420   140,420   492,033  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+    
+
+=== PAGINA PDF 29 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 29 de 66 
+2023 
+Menos 
+de 1 año 
+Entre 1 
+y 3 años 
+Entre 3 y 5 
+años 
+Más de 5 
+años Total 
+Pasivo por arrendamiento  4,689   5,521   365   102   10,677  
+Cuentas por pagar comerciales  177,761   1,163   -     -     178,924  
+Cuentas por pagar factoraje  15,042   -     -     -     15,042  
+Otros pasivos  14,066   105   -     -     14,171  
+Provisión para cierre de minas y obligaciones ambientales   15,505   49,045   57,732   67,680   189,962  
+   227,063   55,834   58,097   67,782   408,776  
+ 
+(d) Administración del riesgo de estructura de capital 
+ 
+Los objetivos del Grupo cuando gestiona el capital son salvaguardar su capacidad para continuar 
+como empresa en marcha , de modo que pueda seguir proporcionando rendimientos a los 
+accionistas y beneficios para otras partes interesadas; y mantener una estructura de capital 
+óptima para reducir el costo del capital. 
+ 
+Para mantener o ajustar la estructura de capital, el Grupo puede ajustar el nivel de dividendos 
+pagados a los accionistas, devolver capital a los accionistas, emitir nuevas acciones o vender 
+activos o producir concentrados para reducir la deuda. El Grupo monitorea el capital 
+principalmente utilizando el ratio de apalancamiento, calculado como deuda neta sobre EBITDA  
+ajustado.  
+ 
+El Grupo define el EBITDA ajustado de la siguiente manera : utilidad (pérdida) neta del año, 
+ajustada por (i) depreciación y amortización, (ii) resultados financieros netos, (iii) impuesto a las 
+ganancias, (iv) eventos no monetarios y ganancias o pérdidas no monetarias que no reflejen 
+específicamente nuestro desempeño operativo para el período específico, tales como:  ganancia  
+(pérdida) en la venta de inversiones ,  deterioro y reversa de deterioro,  (p érdida) ganancia por 
+venta de activos de larga duración,  bajas de activos de larga duración,  actualización de provisión 
+para cierre de minas y, ajuste por actualización del streaming . Además, la Gerencia puede ajustar 
+el efecto de ciertos tipos de transacciones que a su juicio son (i) eventos no recurrentes, inusuales 
+o poco frecuente, y (ii) otros eventos específicos que, por su naturaleza y alcance, no reflejan el 
+desempeño operativo del Grupo durante el periodo. 
+ 
+Las medidas de deuda neta y EBITDA ajustado no deben considerarse de forma aislada o como 
+un sustituto de la ganancia (pérdida) o la ganancia (pérdida) operativa, como indicador del 
+desempeño operativo o como alternativa s al flujo de caja como medida de liquidez. Además, el 
+cálculo del EBITDA ajustado que realiza la gerencia puede ser diferente del cálculo utilizado por 
+otras empresas, incluidos los competidores del sector minero, por lo que estas medidas pueden 
+no ser comparables con las de otras empresas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 30 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 30 de 66 
+ Nota  2024  2023 (Restructurado) 
+Pasivo por arrendamiento 21 (b)    33,114     9,792  
+Efectivo y equivalente de efectivo 14 (a)    (336,318)    (217,359) 
+Deuda Neta (i)      (303,204)    (207,567) 
+            
+Ganancia neta del año      6,944     45,033  
+Más                 
+Depreciación y amortización 6    98,478     77,487  
+Resultado financiero, neto 9    2,027     5,399  
+Gasto por impuesto a las ganancias 10 (a)    174,722     42,743  
+Desinversión 8    (9,128)    -    
+EBITDA (ii)     273,043   170,662 
+            
+Deterioro de activos de larga duración 30    45,693     4,726  
+Bajas y pérdidas por venta de propiedades, planta y equipo, 
+netas 8    724     3,638  
+Actualización de provisión para cierre de minas 8    (19,581)    (3,926) 
+Ajuste de actualización del contrato de streaming (ii) 26    21,084     10,121  
+EBITDA ajustado      320,963     185,221  
+            
+Ratio de apalancamiento (Deuda neta / EBITDA 
+ajustado)      (0.94)    (1.12) 
+ 
+(i) La deuda neta corresponde a (a) las obligaciones financieras y pasivos por arrendamiento, 
+menos (b) efectivo y equivalentes de efectivo.  
+ 
+(ii) Este monto incluye el ajuste anual por remedición de los ingresos por streaming de plata del 
+Grupo previamente reconocidos debido a los cambios en los precios de largo plazo y en el 
+plan minero para la unidad minera Cerro Lindo (nota 26). Esta remedición es una partida no 
+monetaria y ha sido incluida en el cálculo del EBITDA Ajustado del Grupo. 
+ 
+El ratio de apalancamiento al 31 de diciembre de 2024 y 2023 se presenta con un valor negativo 
+pues los saldos de efectivo y equivalentes de efectivo exced en el saldo de las obligaciones 
+financieras y pasivos por arrendamiento. 
+ 
+12  Instrumentos financieros 
+ 
+Política contable 
+ 
+Las compras y ventas normales de activos financieros se reconocen en la fecha de negociación, 
+es decir la fecha en que el Grupo se compromete a comprar o vender el activo. Los activos 
+financieros se reconocen inicialmente a su valor razonable más los costo s de la transacción para 
+todos los activos financieros que no se contabilizan a valor razonable con cambios en resultado. 
+Los activos financieros contabilizados al valor razonable con cambios en resultados, si los hay, se 
+reconocen inicialmente por su valor razonable, y los costos de la transacción se reconocen en el 
+estado de resultados integrales consolidado. 
+ 
+Los activos financieros se dan de baja cuando los derechos a recibir flujos de efectivo han expirado 
+o el Grupo ha transferido sustancialmente todos los riesgos y beneficios de la propiedad. Los 
+activos financieros a valor razonable con cargo a resultados se contabilizan posteriormente a su 
+valor razonable. Los préstamos y otras cuentas por cobrar se contabili zan al costo amortizado 
+utilizando el método de la tasa de interés efectivo. 
+ 
+A continuación, el Grupo clasifica sus activos y pasivos financieros en las siguientes categorías: 
+costo amortizado y valor razonable con cambios en resultados. 
+
+=== PAGINA PDF 31 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 31 de 66 
+(i) Costo amortizado 
+ 
+Los activos financieros valorados a costo amortizado son activos mantenidos dentro de un modelo 
+de negocio cuyo objetivo es mantener los activos financieros para cobrar los flujos de efectivo 
+contractuales y, para que las condiciones contractuales de activo financiero den lugar en fechas 
+específicas a flujos de efectivo que son únicamente pagos del principal e intereses SPPI (the solely 
+payments of principal and interest por sus siglas en inglés) sobre el importe principal pendiente. 
+ 
+Los pasivos financieros se  valoran a costo amortizado, excepto los pasivos financieros a valor 
+razonable con cambios en resultados, como los derivados y algunos préstamos y financiamientos 
+específicos. 
+ 
+(ii) Valor razonable con cambios en resultados 
+ 
+Los activos financieros medidos a valor razonable con cambios en resultados son activos que una 
+entidad gestiona con el objetivo de realizar flujos de efectivo a través de la venta de dichos activos 
+y activos financieros que no dan lugar a flujos de efectivo que son SPPI sobre el monto principal 
+pendiente. 
+  
+Los pasivos financieros medidos a valor razonable con cargo a resultados son pasivos que no se 
+miden al costo amortizado, como los préstamos y financiamientos que están designados a la 
+opción de valor razonable, adoptándose esta opción para eliminar una discrepancia contable que 
+surgiría si se utilizara el costo amortizado. 
+ 
+(a) Clasificación por categoría 
+ 
+Los activos y pasivos financieros del Grupo se clasifican de la siguiente manera:  
+      2024 
+Activos financieros Nota 
+  
+Costo 
+amortizado   
+Valor razonable con 
+cambios en 
+resultados   
+Total 
+  Efectivo y equivalentes de efectivo  14                336,318                             -             336,318  
+  Cuentas por cobrar comerciales 15                           -                     332,335            332,335  
+  Otros activos con partes relacionadas 18                 115,107                             -              115,107  
+  Otros activos                      1,753                             -                  1,753  
+                 453,178                 332,335           785,513  
+Pasivos financieros        
+  Pasivos por arrendamiento 21     33,114                             -                33,114  
+  Cuentas por pagar comerciales  22    173,607                             -              173,607  
+  Cuentas por pagar factoraje 23    6,469                             -                  6,469  
+  Otros pasivos      3,544                             -                  3,544  
+       216,734                            -       216,734  
+       2023 
+Activos financieros Nota 
+  
+Costo 
+amortizado   
+Valor razonable con 
+cambios en 
+resultados   
+Total 
+  Efectivo y equivalentes de efectivo  14                 217,359                             -              217,359  
+  Cuentas por cobrar comerciales 15                           -                     269,510            269,510  
+  Otros activos con partes relacionadas 18                 110,720                             -              110,720  
+  Otros activos                      5,607                             -                  5,607  
+                  333,686                 269,510           603,196  
+Pasivos financieros        
+  Pasivos por arrendamiento 21                     9,792                             -                  9,792  
+  Cuentas por pagar comerciales  22                 178,924                             -              178,924  
+  Cuentas por pagar factoraje 23                   15,042                             -                15,042  
+  Otros pasivos                      4,248                             -                  4,248  
+                  208,006                            -             208,006  
+
+=== PAGINA PDF 32 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 32 de 66 
+13  Estimación de valor razonable  
+ 
+Estimaciones contables, supuestos y juicios críticos  
+ 
+El valor razonable de los instrumentos financieros que no se negocian en un mercado activo se 
+determina utilizando técnicas de valoración. El Grupo utiliza juicio para seleccionar entre una 
+variedad de métodos y realiza estimaciones y suposiciones que se basan principalmente en las 
+condiciones del mercado existentes al final de cada período de informe. 
+ 
+Aunque la dirección ha utilizado su mejor juicio para estimar el valor razonable de sus 
+instrumentos financieros, cualquier técnica para realizar dichas estimaciones y suposiciones 
+implica cierto nivel de fragilidad inherente. 
+ 
+(a) Análisis 
+ 
+Los principales instrumentos financieros  y las estimaciones y supuestos realizados por el Grupo 
+para su valuación se describen a continuación: 
+ 
+• Cuentas por cobrar comerciales - considerando su naturaleza, plazos y vencimiento, los valores 
+en libros se aproximan a su valor razonable. 
+ 
+(b) Valor razonable según jerarquía 
+ 
+Los principales instrumentos financieros y los supuestos hechos por el Grupo para su valuación 
+se describen a continuación: 
+      2024 
+  Nota   Nivel 2   Total 
+Activos           
+Cuentas por cobrar comerciales 15           332,335    332,335 
+            332,335          332,335  
+      2023 
+  Nota   Nivel 2   Total 
+Activos           
+Cuentas por cobrar comerciales 15           269,510    269,510 
+            269,510          269,510  
+ 
+El Grupo divulga las mediciones de valor razonable según su nivel en la siguiente jerarquía de 
+medición de valor razonable: 
+ 
+Nivel 1: 
+ 
+Cuando el valor razonable se calcula con precios de cotización (no ajustados) en mercados activos 
+para activos o pasivos idénticos negociados en mercados activos a la fecha del balance. 
+ 
+Un mercado se considera activo si los precios cotizados están disponibles fácil y regularmente en 
+una bolsa, distribuidor, corredor, grupo industrial, servicio de fijación de precios o agencia 
+reguladora, y esos precios representan transacciones de mercado reales que ocurren 
+regularmente en condiciones de plena competencia. El precio de mercado cotizado utilizado para 
+los activos financieros en poder del Grupo es el precio de oferta actual. 
+ 
+Nivel 2: 
+ 
+Cuando el valor razonable se calcula con técnicas de valoración, ya que los instrumentos 
+financieros no se negocian en un mercado activo, y todos los datos significativos necesarios para 
+
+=== PAGINA PDF 33 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 33 de 66 
+identificar el valor razonable de un instrumento son observables. Las técnicas de valoración 
+específicas utilizadas para valorar instrumentos financieros incluyen: 
+ 
+• Se utilizan precios de mercado cotizados o cotizaciones de operadores para instrumentos 
+similares, cuando estén disponibles; 
+• Los valores razonables de los swaps de tasas de interés se calculan al valor presente del 
+flujo de efectivo futuro estimado con base en curvas de rendimiento observables; y 
+• El valor razonable de los contratos de cambio de divisas a plazo se determina utilizando 
+tipos de cambio a plazo a la fecha del balance, con el valor resultante descontado a valor 
+presente. 
+ 
+Otras técnicas, como el análisis de flujo de efectivo descontado, se utilizan para determinar el 
+valor razonable de los instrumentos financieros restantes.  
+ 
+Nivel 3: 
+ 
+Cuando el valor razonable se calcula con insumos para el activo o pasivo que no se basan en 
+datos de mercado observables (es decir, insumos no observables). Al 31 de diciembre de 2024, 
+no había activos y pasivos financieros valorados a valor razonable clasificados como Nivel 3.  
+ 
+(c) Medición y revelación del valor razonable 
+ 
+Las técnicas de valuación usadas en la medición y revelación del valor razonable, incluidos las 
+estimaciones contables, supuestos y los juicios críticos realizados por el Grupo, son consistentes 
+con lo aplicado y revelado en los estados financieros consolidados auditados al 31 de diciembre 
+de 2023. Al 31 de diciembre de 2024, los préstamos y financiamientos se valoran al costo 
+amortizado.  
+ 
+14  Efectivo y equivalentes de efectivo 
+ 
+Política contable 
+ 
+El efectivo y equivalente s de efectivo incluyen el efectivo, depósitos bancarios e inversiones a 
+corto plazo (inversiones con un vencimiento original inferior a  los 90 días) que son fácilmente 
+convertibles en una cantidad conocida de efectivo y están sujetas a un riesgo inmaterial de cambio 
+en el valor. 
+ 
+Los intereses sobre los depósitos bancarios y  depósitos a  plazo son reconocidos en forma 
+proporcional al tiempo para reflejar el rendimiento efectivo de los activos según el método de la 
+tasa de interés efectiva. 
+ 
+Composición 
+    2024  2023 
+Caja y cuentas corrientes   217,741   193,625 
+Depósitos a plazo   118,577   23,734 
+    336,318   217,359 
+ 
+15  Cuentas por cobrar comerciales 
+ 
+Política contable 
+ 
+Las cuentas por cobrar comerciales son montos adeudados por los clientes por los bienes vendidos 
+o servicios prestados en el curso ordinario de los negocios del Grupo. 
+ 
+Las cuentas por cobrar comerciales se reconocen inicialmente a su valor razonable y 
+posteriormente se miden a: 
+
+=== PAGINA PDF 34 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 34 de 66 
+ 
+(i) Valor razonable con cargo a resultados cuando están relacionados con ventas que se 
+ajustan posteriormente a los cambios en los precios de la LME, los cuales se registran en 
+los ingresos netos. Estas cuentas por cobrar no cumplen con los criterios SPPI porque 
+existe un componente de riesgo de precio de mercancía que modifica los flujos de efectivo 
+que de otro modo serían requeridos por el contrato de venta. 
+ 
+(ii) Costo amortizado utilizando el método de la tasa de interés efectiva, menos deterioro, 
+cuando las cuentas por cobrar no cumplan con las clasificaciones anteriores. 
+ 
+El riesgo de crédito puede surgir del incumplimiento por parte de las contrapartes de sus 
+obligaciones contractuales con el Grupo. Para garantizar una evaluación efectiva del riesgo 
+crediticio, la Gerencia aplica procedimientos integrales relacionados con la solicitud de 
+otorgamiento y aprobación de créditos, renovación de límites de crédito, monitoreo continuo de 
+la exposición crediticia en relación con los límites establecidos y eventos que activan los requisitos 
+para condiciones de pago garantizadas. Com o parte del proceso del Grupo, las exposiciones 
+crediticias con todas las contrapartes se monitorean y evalúan periódicamente. 
+ 
+El Grupo aplica el enfoque simplificado de la NIIF 9 para medir las pérdidas por deterioro en las 
+cuentas por cobrar comerciales. Este enfoque requiere el uso de las pérdidas crediticias esperadas 
+durante toda la vida útil de las cuentas por cobrar comerciales que se miden al costo amortizado. 
+Para calcular las pérdidas crediticias esperadas durante toda la vida útil, el Grupo utiliza una 
+matriz de provisión e información prospectiva. Las adiciones a las pérdidas por de terioro de las 
+cuentas por cobrar comerciales se incluyen en los gastos de venta. Las cuentas por cobrar 
+comerciales generalmente se cancelan cuando no se espera recuperar efectivo adicional. 
+ 
+(a) Composición  
+ 
+    Nota   2024  2023 
+Partes relacionadas   18              293,413               233,433  
+Terceros                    39,805                 36,449  
+Deterioro de cuentas por cobrar comerciales                        (883)                    (372) 
+        332,335   269,510 
+ 
+(b) Cambios en el deterioro de cuentas por cobrar comerciales 
+ 
+      2024  2023 
+ Saldo al inicio del año     (372)  (927) 
+Adiciones     (2,363)  (371) 
+Reversiones     1,852  926 
+ Saldo al final del año     (883)  (372) 
+ 
+(c) Antiguamiento de las cuentas por cobrar comerciales 
+ 
+    2024  2023 
+Vigentes   269,290  202,802 
+Hasta 3 meses de vencimiento   43,350  45,280 
+De 3 a 6 meses de vencimiento   6,268  12,169 
+Más de 6 meses de vencimiento   14,310  9,631 
+    333,218  269,882 
+Deterioro   (883)  (372) 
+    332,335  269,510 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGINA PDF 35 ===
+Nexa Resources Perú S.A.A. y subsidiarias 
+    
+Notas a los estados financieros consolidados  
+Al y por el año terminado al 31 de diciembre de 2024  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 35 de 66 
+16  Inventarios 
+ 
+Política contable 
+ 
+Los costos relacionados con el proceso productivo se acumulan en productos en proceso y 
+concentrado. Los inventarios se registran al costo o a su valor neto de realización, el que resulte 
+menor. El costo incluye el precio de compra neto de descuentos, rebajas, entre otros. El costo de 
+repuestos y suministros se determina sobre la base del método de promedio ponderado, excepto 
+en el caso de los inventarios por rec ibir que se reconocen por el método de identificación 
+específica. 
+ 
+(i) Concentrados (zinc, plomo y cobre)  
+ 
+El saldo de la s partidas de  concentrados (zinc, cobre y plomo) resulta de las actividades de 
+producción de la Compañía y de sus subsidiarias, éstos se valorizan al costo promedio que 
+incorpora los costos incurridos en el proceso productivo. 
+ 
+El costo del concentrado y de los productos en proceso comprende el costo de los servicios de 
+contratistas, el consumo de repuestos y suministros, el costo de la mano de obra directa, otros 
+costos directos y los gastos generales de fabricación que se asign an al costo de los inventarios 
+sobre la base de la capacidad de operación normal de la planta. 
+ 
+La capacidad normal de la planta se sustenta en el presupuesto anual de producción. El costo de 
+los inventarios excluye los gastos de financiamiento y las diferencias en cambio. 
+ 
+La Gerencia calculó su costo de capacidad ociosa considerando la reducción en el nivel de 
+producción debido a eventos inusuales. Los supuestos utilizados involucraron juicios basados en 
+la Norma Internacional de Contabilidad (“ NIC”) 2 Inventarios. El cálculo de la ociosidad se basó 
+en la comparación de la producción realizada con las proyecciones de producción del pronóstico 
+del Grupo. 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de operaciones, 
+menos los costos estimados para terminar su producción y los gastos para poner los inventarios 
+en condición de venta y para realizar su comercialización. Por las reducciones en el valor en libros 
+de los inventarios a su valor neto de realización se constituye una provisión para la desvalorización 
+de inventarios con cargo al costo de ventas del ejercicio en que ocurren tales reducciones. 
+ 
+(ii) Certificados de plata  
+ 
+Los certificados de plata se registran al costo o valor neto realizable, el menor. El costo se 
+determina según el método del costo promedio.  
+ 
+El valor realizable neto es el precio de venta estimado del producto, que es el precio promedio de 
+mercado del mes anterior. 
+ 
+(iii) Repuestos y suministros  
+ 
+Los repuestos y suministros se registran al menor de su costo o valor neto realizable, el costo es 
+determinado bajo el método de promedio ponderado. El costo de estas partidas incluye el flete y 
+los impuestos aplicables no reembolsables. El inventario por recibir se registra al costo utilizando 
+el método de identificación específico. La provisión por deterioro de estos elementos se estima en 
+base a una revisión anual de repuestos y suministros sin movimiento por más de 2.5 años 
+realizada por personal técnico calificado del Grupo. Si se identifica que el valor en libros de los 
+inventarios de repuestos y suministros e xcede su valor de reposición, la diferencia se carga a 
+resultados en el periodo en que se determina esta situación. La Gerencia considera que a la fecha 
+de los estados financieros consolidados no se requiere constituir provisiones adicionales a las 

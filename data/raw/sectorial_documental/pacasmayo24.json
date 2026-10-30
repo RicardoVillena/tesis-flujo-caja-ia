@@ -1,0 +1,11 @@
+{
+  "id": "pacasmayo24",
+  "url": "https://documents.bvl.com.pe/hhii/CD0005/20250213193801/CP32INDIVIDUAL3231122024.PDF",
+  "url_final": "https://documents.bvl.com.pe/hhii/CD0005/20250213193801/CP32INDIVIDUAL3231122024.PDF",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "a3cef5e1634725c2724a95a70fdbaecc05d67ee6b57621a1bbf282cdf1f92167",
+  "sha256_texto": "4dafb1aa9663f5849ec9f8bdf076cae7208a2fd7ebeea715a436141aeae8aa70",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 73
+}

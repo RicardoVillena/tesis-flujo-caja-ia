@@ -1,0 +1,14 @@
+RPJ,sector_revision,industrias_candidatas_no_equivalen_a_asignacion,revision_requerida,NombreEmpresa,estado_clasificacion,observaciones_pendientes
+B20003,Minería,Metals & Mining | Precious Metals,"Polimetálica, con oro y plata relevantes. Aprobar criterio de frontera industrial y evaluar segmentos; PDF 100–101.",COMPAÑIA DE MINAS BUENAVENTURA S.A.A.,Pendiente,21
+A20032,Minería,Metals & Mining,"Asignación 2019–2020 por predominancia del estaño (>70% de ventas en ambos años, PDF 75); revisar criterio académico de actividad principal.",MINSUR S.A.,Parcialmente clasificada,19
+B30060,Manufactura,Apparel,"CIIU 1311 acreditado, hilados/tejidos/confecciones integrados. Industria pendiente; no equiparar automáticamente textil con confecciones.",CREDITEX S.A.A.,Pendiente,21
+CI0009,Transporte por ductos,Oil/Gas Distribution,Actividad acreditada 2018–2019. Midstream no existe en las 94 etiquetas congeladas; aprobar correspondencia con alcance oficial antes de asignar.,TRANSPORTADORA DE GAS DEL PERU S.A.,Pendiente,15
+J40655,Transporte ferroviario,Transportation (Railroads),"Documento SMV localizado pero HTTP 403; no asignado a partir de buscadores, tesis o razón social.",INCA RAIL S.A.,Pendiente,8
+017070,Agroindustria,,"Alta prioridad por muestra elegible; portal primario inaccesible. Obtener memorias, no copiar actividad de otra azucarera.",EMPRESA AZUCARERA EL INGENIO S.A.,Pendiente,21
+B08363,Agroindustria,Food Processing,Código CIIU impreso extraído como 10721 con llamada de nota; no truncar ni generar CIIU histórico sin cotejo de página.,AGROINDUSTRIAL LAREDO S.A.A.,Parcialmente clasificada,18
+000355,Construcción,Engineering/Construction,La memoria 2020 distingue operador de construcción y holding; mantener otros años pendientes hasta acreditar continuidad.,COSAPI S.A.,Parcialmente clasificada,8
+B30241,Publicaciones,Publishing & Newspapers,Clasificación 2025 de entidad separada; no atribuir televisión de subsidiarias ni retroceder a 2024 sin continuidad probada.,EMPRESA EDITORA EL COMERCIO S.A.,Parcialmente clasificada,20
+B40002,Electricidad,Power,Entidad canónica única con dos localizadores históricos. Las filas por localizador no son empresas ni nuevas observaciones.,EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA,Parcialmente clasificada,1
+B30121,Holding,,Reorganización de UNACEM: no trasladar producción de subsidiarias a matriz ni extender actividad a otros períodos.,UNACEM CORP SOCIEDAD ANONIMA ABIERTA - UNACEM CORP S.A.A.,Pendiente,21
+B80004,Financiero,,Mantener pendiente frontera bancaria de Damodaran; validar FCL económico como objetivo adecuado para bancos.,BANCO BBVA PERU,Pendiente,21
+B80020,Financiero,,Mantener pendiente frontera bancaria de Damodaran; validar FCL económico como objetivo adecuado para bancos.,BANCO INTERNACIONAL DEL PERU S.A.A. - INTERBANK,Pendiente,21

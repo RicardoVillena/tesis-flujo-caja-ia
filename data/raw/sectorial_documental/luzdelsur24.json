@@ -1,0 +1,11 @@
+{
+  "id": "luzdelsur24",
+  "url": "https://www.smv.gob.pe/ConsultasP8/temp/LDS%20EEFF%20%282024%29.pdf",
+  "url_final": "https://www.smv.gob.pe/ConsultasP8/temp/LDS%20EEFF%20%282024%29.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "6606025e4cf36f1c995e21ed095ffc7b6ae997ee018442e8dc4bc88920e3665c",
+  "sha256_texto": "2a1fa219280c6ad2f3e6f32d7e1b6c797138b897a5fac857199c00978b99a0c8",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 411
+}

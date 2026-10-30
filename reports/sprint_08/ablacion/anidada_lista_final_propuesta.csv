@@ -1,0 +1,3 @@
+moneda,anios_internos,n_train,alpha_completo,alpha_reducido,n_atributos,retirados,estado
+D lares,2019;2020;2021,353,1000,1000,25,crecimiento_pbi_real_pct,Propuesta pendiente de evaluación posterior; sin métricas externas propias
+Soles,2019;2020;2021,2516,1000,1000,26,,Propuesta pendiente de evaluación posterior; sin métricas externas propias

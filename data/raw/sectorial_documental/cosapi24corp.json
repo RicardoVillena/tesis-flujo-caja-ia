@@ -1,0 +1,11 @@
+{
+  "id": "cosapi24corp",
+  "url": "https://www.cosapi.com.pe/Upload/documento/misc/cosapi_-_memoria_integrada_2024..pdf",
+  "url_final": "https://www.cosapi.com.pe/Upload/documento/misc/cosapi_-_memoria_integrada_2024..pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "7b73749cc82416b739a1efa42d8be17213c330238ebbbe7dcfb3a6f0091066f8",
+  "sha256_texto": "02f20a1ec1a6f49726de18a314bcba1977577e58307e2f6513bfdcf3dfc66d9a",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

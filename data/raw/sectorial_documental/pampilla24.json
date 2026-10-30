@@ -1,0 +1,11 @@
+{
+  "id": "pampilla24",
+  "url": "https://www.repsol.pe/content/dam/repsol-paises/pe/estados-financieros/4t-2024/1_Informe%20de%20Gerencia%204T2024.pdf",
+  "url_final": "https://www.repsol.pe/content/dam/repsol-paises/pe/estados-financieros/4t-2024/1_Informe%20de%20Gerencia%204T2024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "2b5d8b4785e0e02d2aed1ca3ff3421eecc841a75d5504f989c7f95675fa4f8f2",
+  "sha256_texto": "f186b3b81b0c82edd4b35b77314757734bb641e21fe22ebd3f2e44da53c335a1",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 10
+}

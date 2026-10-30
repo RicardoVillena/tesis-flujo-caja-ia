@@ -1,0 +1,11 @@
+{
+  "id": "electroperu24",
+  "url": "https://www.electroperu.com.pe/blTransparenciaEstandar/Estados%20Financieros%20Auditados/Informe%20Financiero%202024.pdf",
+  "url_final": "https://www.electroperu.com.pe/blTransparenciaEstandar/Estados%20Financieros%20Auditados/Informe%20Financiero%202024.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "1809b4b84db4248c3770c92caef8357e27b989a8b19d580cfd8fb786d1fd5fb7",
+  "sha256_texto": "c72557443b56d6d4d2ba5f795091f3de1e2e1e9147e832dea2420f5bd8bcf8d5",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 59
+}

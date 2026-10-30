@@ -1,0 +1,3 @@
+moneda,especificacion,tipo,indice_condicion,variables,detalle,tolerancia
+Soles,imputada_mediana_E2,"casi dependencia (índice de condición, exploratorio)",221.433702725703,cambio_FCO_activo_previo;cambio_FCL_preliminar_activo_previo,"{""cambio_FCO_activo_previo"": 0.9641, ""cambio_FCL_preliminar_activo_previo"": 0.9539}",30
+Soles,casos_completos,"casi dependencia (índice de condición, exploratorio)",32.3737473425775,FCO_lag2;FCO_lag3;FCL_preliminar_lag2;FCL_preliminar_lag3,"{""FCO_lag2"": 0.9467, ""FCO_lag3"": 0.6384, ""FCL_preliminar_lag2"": 0.9342, ""FCL_preliminar_lag3"": 0.6281}",30

@@ -1,0 +1,57 @@
+{
+  "proposito": "Estimar el desempeño de un procedimiento de selección (atributos y alpha) frente al modelo completo con alpha seleccionado, separando selección (validación interna, solo pasado) y evaluación (año externo no usado en decisiones).",
+  "anios_externos": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "entrenamiento_externo": "todas las filas con anio_objetivo < año externo, misma moneda",
+  "validacion_interna": "los 3 años objetivo inmediatamente anteriores al año externo; cada uno con ventana expansiva (entrena con años anteriores) y al menos 8 años de historia; por eso el primer año externo es 2017",
+  "compatibilidad_sprint06": "Se conserva la unidad año objetivo, las ventanas expansivas y el calentamiento de 8 años de Sprint 06. Sus bloques de 2 años no se reutilizan como pliegues externos porque los primeros (2014–2015) no dejan historia para una validación interna.",
+  "rejilla_alpha": [
+    0.1,
+    1.0,
+    10.0,
+    100.0,
+    1000.0,
+    10000.0,
+    100000.0,
+    1000000.0
+  ],
+  "seleccion_alpha": "mínimo RMSE anual medio interno; empate (diferencia relativa <= 1e-9): mayor alpha",
+  "eliminacion_hacia_atras": {
+    "inicio": "26 atributos de E2",
+    "paso": "evaluar retirar cada atributo restante (alpha reajustado para cada subconjunto con la misma rejilla y pliegues internos)",
+    "eleccion": "se evalúan todas las retiradas del paso; son admisibles las que cumplen umbral y estabilidad; se elige la de menor RMSE interno entre las admisibles (empate: orden E2); se detiene solo si ninguna es admisible",
+    "aceptacion": "mejora relativa >= 1 % del RMSE interno medio Y RMSE menor en >= 2 de 3 años internos",
+    "maximo_retiradas": 5,
+    "sin_busqueda_exhaustiva": true
+  },
+  "procedimientos": {
+    "completo_alpha_interno": "26 atributos, alpha interno (rejilla ampliada)",
+    "reducido": "atributos y alpha internos (rejilla ampliada)",
+    "E2_alpha_1": "contexto: E2 original con alpha=1.0",
+    "media_historica": "referencia simple",
+    "persistencia": "referencia simple"
+  },
+  "regla_recomendacion": {
+    "reducir_provisional": "RMSE anual medio externo del reducido <= -1 % frente al completo, mejora en >= 4 de 5 años, MAE anual medio no peor y peor empeoramiento anual <= 5 %",
+    "conservar_completo": "RMSE anual medio externo del reducido >= completo o reducido peor en la mayoría de años",
+    "evidencia_insuficiente": "cualquier otro caso"
+  },
+  "nota": "Umbrales exploratorios fijados antes de ejecutar; la evaluación externa mide el procedimiento, no la optimalidad de una lista fija.",
+  "caracter": "EXPLORATORIA: los años externos 2017–2021 ya se examinaron en la ejecución anterior; no es confirmación independiente ni prueba final.",
+  "cambios_frente_a_ejecucion_anterior": [
+    "seleccionar(): la versión anterior se detenía si la retirada de menor RMSE no era admisible, aunque otra sí lo fuera (corregido).",
+    "rejilla de alpha ampliada una sola vez a [0.1, 1.0, 10.0, 100.0, 1000.0, 10000.0, 100000.0, 1000000.0], idéntica para completo y reducido; alpha se elige solo en pliegues internos.",
+    "referencias simples en las mismas filas y años externos."
+  ],
+  "regla_limite_rejilla": "si alguna selección vuelve a elegir el máximo (1e6), se documenta la limitación y no se amplía de nuevo",
+  "referencias_simples": {
+    "media_historica": "promedio de objetivo_fcl_t1 en el entrenamiento externo (años objetivo < año externo), por moneda",
+    "persistencia": "FCL(t) = FCL_preliminar(t) invalidado si CAPEX_reportado(t) > 0 (misma regla que el objetivo; igual al objetivo de la fila t-1); si falta, respaldo con la media histórica del entrenamiento externo. FCL_preliminar_lag1 es FCL(t-1) y no se usa."
+  },
+  "regla_modelo_frente_a_referencias": "mejora consistente si el RMSE anual medio es <= -1 % frente a la referencia y menor en >= 4 de 5 años externos; sin mejora si el RMSE anual medio no es menor; si no, mejora no consistente"
+}

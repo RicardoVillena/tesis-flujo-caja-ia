@@ -1,0 +1,11 @@
+{
+  "id": "bbva25",
+  "url": "https://www.smv.gob.pe/ConsultasP8/temp/EEFF%20Separado%202025.pdf",
+  "url_final": "https://www.smv.gob.pe/ConsultasP8/temp/EEFF%20Separado%202025.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "d22c1380442df5d1187b6acbe3fc7a12391cd2d15e32147f3d40b77a7b5139a9",
+  "sha256_texto": "501cd0ef693b4bd429b9c809c617d1c8440f3bc826a489817156efee31c3b258",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 35
+}

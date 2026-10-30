@@ -1,0 +1,225 @@
+variante,moneda,fold,n_predictores,n_train,n_validacion,anio_train_max,anio_validacion_min,hash_ids_train,hash_ids_validacion,imputacion_y_escalado_verificados_train
+referencia_26,D lares,1,26,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_pasivo_activo,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_margen_neto,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_rentabilidad_activo_cierre,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_rotacion_activo_cierre,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_fco_activo,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_fco_ingresos,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_inversion_capex_activo,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_crecimiento_ActivoTotal,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_crecimiento_TotalIngreso,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_cambio_FCO_activo_previo,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_FCO_lag1,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_FCO_lag2,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_FCO_lag3,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_FCO_std3_previa,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_cambio_FCL_preliminar_activo_previo,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_FCL_preliminar_lag1,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_FCL_preliminar_lag2,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_FCL_preliminar_lag3,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_FCL_preliminar_std3_previa,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_inflacion_lima_dic_dic_pct,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_tipo_cambio_promedio_soles_usd,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_tasa_referencia_promedio_pct,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_crecimiento_pbi_real_pct,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_rentabilidad_indice_anual_pct,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_volatilidad_diaria_anualizada_pct,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+sin_monto_renta_variable_anual_millones_pen,D lares,1,25,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+referencia_26,D lares,2,26,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_pasivo_activo,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_margen_neto,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_rentabilidad_activo_cierre,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_rotacion_activo_cierre,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_fco_activo,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_fco_ingresos,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_inversion_capex_activo,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_crecimiento_ActivoTotal,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_crecimiento_TotalIngreso,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_cambio_FCO_activo_previo,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_FCO_lag1,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_FCO_lag2,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_FCO_lag3,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_FCO_std3_previa,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_cambio_FCL_preliminar_activo_previo,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_FCL_preliminar_lag1,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_FCL_preliminar_lag2,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_FCL_preliminar_lag3,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_FCL_preliminar_std3_previa,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_inflacion_lima_dic_dic_pct,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_tipo_cambio_promedio_soles_usd,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_tasa_referencia_promedio_pct,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_crecimiento_pbi_real_pct,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_rentabilidad_indice_anual_pct,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_volatilidad_diaria_anualizada_pct,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+sin_monto_renta_variable_anual_millones_pen,D lares,2,25,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+referencia_26,D lares,3,26,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_pasivo_activo,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_margen_neto,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_rentabilidad_activo_cierre,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_rotacion_activo_cierre,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_fco_activo,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_fco_ingresos,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_inversion_capex_activo,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_crecimiento_ActivoTotal,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_crecimiento_TotalIngreso,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_cambio_FCO_activo_previo,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_FCO_lag1,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_FCO_lag2,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_FCO_lag3,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_FCO_std3_previa,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_cambio_FCL_preliminar_activo_previo,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_FCL_preliminar_lag1,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_FCL_preliminar_lag2,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_FCL_preliminar_lag3,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_FCL_preliminar_std3_previa,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_inflacion_lima_dic_dic_pct,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_tipo_cambio_promedio_soles_usd,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_tasa_referencia_promedio_pct,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_crecimiento_pbi_real_pct,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_rentabilidad_indice_anual_pct,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_volatilidad_diaria_anualizada_pct,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+sin_monto_renta_variable_anual_millones_pen,D lares,3,25,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+referencia_26,D lares,4,26,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_pasivo_activo,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_margen_neto,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_rentabilidad_activo_cierre,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_rotacion_activo_cierre,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_fco_activo,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_fco_ingresos,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_inversion_capex_activo,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_crecimiento_ActivoTotal,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_crecimiento_TotalIngreso,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_cambio_FCO_activo_previo,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_FCO_lag1,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_FCO_lag2,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_FCO_lag3,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_FCO_std3_previa,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_cambio_FCL_preliminar_activo_previo,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_FCL_preliminar_lag1,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_FCL_preliminar_lag2,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_FCL_preliminar_lag3,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_FCL_preliminar_std3_previa,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_inflacion_lima_dic_dic_pct,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_tipo_cambio_promedio_soles_usd,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_tasa_referencia_promedio_pct,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_crecimiento_pbi_real_pct,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_rentabilidad_indice_anual_pct,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_volatilidad_diaria_anualizada_pct,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+sin_monto_renta_variable_anual_millones_pen,D lares,4,25,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+referencia_26,Soles,1,26,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_pasivo_activo,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_margen_neto,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_rentabilidad_activo_cierre,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_rotacion_activo_cierre,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_fco_activo,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_fco_ingresos,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_inversion_capex_activo,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_crecimiento_ActivoTotal,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_crecimiento_TotalIngreso,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_cambio_FCO_activo_previo,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_FCO_lag1,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_FCO_lag2,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_FCO_lag3,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_FCO_std3_previa,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_cambio_FCL_preliminar_activo_previo,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_FCL_preliminar_lag1,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_FCL_preliminar_lag2,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_FCL_preliminar_lag3,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_FCL_preliminar_std3_previa,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_inflacion_lima_dic_dic_pct,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_tipo_cambio_promedio_soles_usd,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_tasa_referencia_promedio_pct,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_crecimiento_pbi_real_pct,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_rentabilidad_indice_anual_pct,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_volatilidad_diaria_anualizada_pct,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+sin_monto_renta_variable_anual_millones_pen,Soles,1,25,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+referencia_26,Soles,2,26,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_pasivo_activo,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_margen_neto,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_rentabilidad_activo_cierre,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_rotacion_activo_cierre,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_fco_activo,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_fco_ingresos,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_inversion_capex_activo,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_crecimiento_ActivoTotal,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_crecimiento_TotalIngreso,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_cambio_FCO_activo_previo,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_FCO_lag1,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_FCO_lag2,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_FCO_lag3,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_FCO_std3_previa,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_cambio_FCL_preliminar_activo_previo,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_FCL_preliminar_lag1,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_FCL_preliminar_lag2,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_FCL_preliminar_lag3,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_FCL_preliminar_std3_previa,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_inflacion_lima_dic_dic_pct,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_tipo_cambio_promedio_soles_usd,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_tasa_referencia_promedio_pct,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_crecimiento_pbi_real_pct,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_rentabilidad_indice_anual_pct,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_volatilidad_diaria_anualizada_pct,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+sin_monto_renta_variable_anual_millones_pen,Soles,2,25,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+referencia_26,Soles,3,26,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_pasivo_activo,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_margen_neto,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_rentabilidad_activo_cierre,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_rotacion_activo_cierre,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_fco_activo,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_fco_ingresos,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_inversion_capex_activo,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_crecimiento_ActivoTotal,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_crecimiento_TotalIngreso,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_cambio_FCO_activo_previo,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_FCO_lag1,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_FCO_lag2,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_FCO_lag3,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_FCO_std3_previa,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_cambio_FCL_preliminar_activo_previo,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_FCL_preliminar_lag1,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_FCL_preliminar_lag2,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_FCL_preliminar_lag3,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_FCL_preliminar_std3_previa,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_inflacion_lima_dic_dic_pct,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_tipo_cambio_promedio_soles_usd,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_tasa_referencia_promedio_pct,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_crecimiento_pbi_real_pct,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_rentabilidad_indice_anual_pct,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_volatilidad_diaria_anualizada_pct,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+sin_monto_renta_variable_anual_millones_pen,Soles,3,25,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+referencia_26,Soles,4,26,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_pasivo_activo,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_margen_neto,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_rentabilidad_activo_cierre,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_rotacion_activo_cierre,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_fco_activo,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_fco_ingresos,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_inversion_capex_activo,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_crecimiento_ActivoTotal,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_crecimiento_TotalIngreso,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_cambio_FCO_activo_previo,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_FCO_lag1,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_FCO_lag2,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_FCO_lag3,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_FCO_std3_previa,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_cambio_FCL_preliminar_activo_previo,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_FCL_preliminar_lag1,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_FCL_preliminar_lag2,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_FCL_preliminar_lag3,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_FCL_preliminar_std3_previa,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_inflacion_lima_dic_dic_pct,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_tipo_cambio_promedio_soles_usd,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_tasa_referencia_promedio_pct,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_crecimiento_pbi_real_pct,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_rentabilidad_indice_anual_pct,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_volatilidad_diaria_anualizada_pct,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+sin_monto_renta_variable_anual_millones_pen,Soles,4,25,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True
+conjunta_sin_6_candidatas,D lares,1,20,154,54,2013,2014,404bdb642ff134b7,6f296a5b89bec53d,True
+conjunta_sin_6_candidatas,D lares,2,20,208,47,2015,2016,6823bf36f351322c,d83314d10198dd49,True
+conjunta_sin_6_candidatas,D lares,3,20,255,51,2017,2018,4de5532ab76bedf7,6ec41f6d7d0540d9,True
+conjunta_sin_6_candidatas,D lares,4,20,306,47,2019,2020,3b980a29692d5669,dac2f8ee6c514b40,True
+conjunta_sin_3_candidatas,Soles,1,23,1155,357,2013,2014,bef05776f28844bf,7712370e8dbe0f70,True
+conjunta_sin_3_candidatas,Soles,2,23,1512,352,2015,2016,22a3b68a57baa6cd,8fa12290f8021d8e,True
+conjunta_sin_3_candidatas,Soles,3,23,1864,331,2017,2018,3b335f3794dc1390,e75283de71b6e5bb,True
+conjunta_sin_3_candidatas,Soles,4,23,2195,321,2019,2020,1c86c04ac7c95bd2,b230e9ac27e12314,True

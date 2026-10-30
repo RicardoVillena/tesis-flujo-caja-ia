@@ -1,0 +1,11 @@
+{
+  "id": "engie24",
+  "url": "https://www.smv.gob.pe/ConsultasP8/temp/EEFF%20ENGIE%20Energia%20Peru%20Separado.pdf",
+  "url_final": "https://www.smv.gob.pe/ConsultasP8/temp/EEFF%20ENGIE%20Energia%20Peru%20Separado.pdf",
+  "content_type": "application/pdf",
+  "fecha_consulta": "2026-10-23",
+  "sha256": "dca2c7cd41f25dac29e22f3b28d28b8052f287d84cbe796baa341faaa6d720fd",
+  "sha256_texto": "984f02f536c7d3b5ad13a9577600c146083b9e9daccf6c8ead90dfc95651f436",
+  "extractor": "pypdf 6.21.2 (herramienta temporal; no dependencia de reproducción)",
+  "paginas_en_transcripcion": 103
+}

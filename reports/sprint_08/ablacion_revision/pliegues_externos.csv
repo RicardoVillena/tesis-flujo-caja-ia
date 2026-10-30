@@ -1,0 +1,11 @@
+moneda,anio_externo,n_train,empresas_train,n_externo,empresas_externo,alpha_completo,alpha_reducido,n_atributos_reducido,retirados,motivo_parada
+D lares,2017,234,43,21,21,10000,1000,24,FCO_lag1;FCL_preliminar_lag1,paso 3: ninguna de 24 retiradas es admisible; la de menor RMSE (FCO_lag2) mejora 0.55 % en 2 años internos
+D lares,2018,255,43,25,25,1000,1000,25,FCL_preliminar_lag2,paso 2: ninguna de 25 retiradas es admisible; la de menor RMSE (FCL_preliminar_lag1) mejora 9.88 % en 1 años internos
+D lares,2019,280,47,26,26,1000,1000,24,FCL_preliminar_lag1;FCL_preliminar_lag2,paso 3: ninguna de 24 retiradas es admisible; la de menor RMSE (FCO_lag1) mejora 1.32 % en 1 años internos
+D lares,2020,306,48,24,24,1000,1000,26,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (FCL_preliminar_lag1) mejora 2.92 % en 1 años internos
+D lares,2021,330,48,23,23,1000,1000,25,crecimiento_TotalIngreso,paso 2: ninguna de 25 retiradas es admisible; la de menor RMSE (fco_activo) mejora 0.67 % en 1 años internos
+Soles,2017,1687,246,177,177,1000000,1000000,26,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (FCO_std3_previa) mejora 0.00 % en 2 años internos
+Soles,2018,1864,256,169,169,1000000,1000000,26,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (fco_activo) mejora 0.03 % en 2 años internos
+Soles,2019,2033,261,162,162,1000000,1000000,26,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (FCO_std3_previa) mejora 0.02 % en 3 años internos
+Soles,2020,2195,263,161,161,10000,10000,26,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (FCO_std3_previa) mejora 0.37 % en 2 años internos
+Soles,2021,2356,264,160,160,10000,10000,26,,paso 1: ninguna de 26 retiradas es admisible; la de menor RMSE (fco_activo) mejora 0.50 % en 1 años internos
