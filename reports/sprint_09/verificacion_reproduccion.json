@@ -1,0 +1,13 @@
+{
+  "sprint08:media_historica": 8.215236474396787e-16,
+  "sprint08:persistencia": 8.215236474396787e-16,
+  "sprint08:ridge:E2": 4.482974128505536e-15,
+  "sprint08:boosting:E2": 4.743628747564373e-15,
+  "v1:ridge:E0": 0.0,
+  "v1:ridge:E1": 0.0,
+  "v1:ridge:E2": 0.0,
+  "v1:boosting:E0": 0.0,
+  "v1:boosting:E1": 0.0,
+  "v1:boosting:E2": 0.0,
+  "v1:importancia_individual": 2.0014944904207352e-16
+}

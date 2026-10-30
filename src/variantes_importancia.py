@@ -325,7 +325,7 @@ def graficos(resumen_proc, imp_res, impb, out):
             ax.bar(x + (k - .5) * .38, vals, width=.36, color=col[mo], label='Ridge' if mo == 'ridge' else 'HistGradientBoosting', edgecolor=fondo, linewidth=2)
         for ref, ls in [('media_historica', ':'), ('persistencia', '--')]:
             ax.axhline(r.loc[ref, 'RMSE_anual_medio'], color=tinta2, ls=ls, lw=1.2)
-            ax.text(len(vv) - .45, r.loc[ref, 'RMSE_anual_medio'], ' ' + ('media histórica' if ref == 'media_historica' else 'persistencia'), va='center', fontsize=8, color=tinta2)
+            ax.text(-.55, r.loc[ref, 'RMSE_anual_medio'], ('media histórica' if ref == 'media_historica' else 'persistencia'), va='bottom', fontsize=8, color=tinta2)
         ax.set_xticks(x, vv)
         lo = min(r.RMSE_anual_medio) * .85
         ax.set_ylim(lo, max(r.RMSE_anual_medio) * 1.05)
@@ -335,7 +335,7 @@ def graficos(resumen_proc, imp_res, impb, out):
         ax.legend(frameon=False, fontsize=8, loc='upper left')
         for s in ['top', 'right']:
             ax.spines[s].set_visible(False)
-        fig.tight_layout(rect=(0, 0, .93, 1))
+        fig.tight_layout()
         ruta = out / 'graficos' / f'variantes_{ab._slug(m)}.png'
         fig.savefig(ruta, dpi=150, facecolor=fondo)
         plt.close(fig)
@@ -349,7 +349,7 @@ def graficos(resumen_proc, imp_res, impb, out):
             ax.set_yticks(range(len(g)), [f'{a}  ({p}/5)' for a, p in zip(g.retirado, g.anios_aporta)], fontsize=8)
             ax.axvline(0, color=tinta2, lw=1)
             ax.set_title(f'{"Ridge" if mo == "ridge" else "Boosting"}: Δ RMSE % al retirar', color=tinta, loc='left', fontsize=10)
-            ax.set_xlabel('positivo = retirarlo empeora (aporta); (k/5) = años con aporte')
+            ax.set_xlabel('Δ RMSE % (positivo = aporta); (k/5) años con aporte', fontsize=8)
             for s in ['top', 'right']:
                 ax.spines[s].set_visible(False)
         fig.suptitle(f'{ab._nombre(m)}: importancia individual (8 mayores y 4 menores, media de 5 años)', x=.02, ha='left', color=tinta)
