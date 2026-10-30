@@ -1,11 +1,18 @@
 {
-  "anios_externos": [
-    2017,
-    2018,
-    2019,
-    2020,
-    2021
-  ],
+  "version": "Sprint 09 — protocolo fijado antes de ejecutar E3, E4, sensibilidad t-1 e importancia por bloques",
+  "caracter": "EXPLORATORIO. Los años externos 2017–2021 ya se examinaron en el Sprint 08; los resultados E0–E2 de Ridge y boosting ya se observaron en la versión inicial del Sprint 09 (commit 6eeac16). No se cambian rejillas, criterios ni años tras observarlos. La prueba 2022–2025 no se usa.",
+  "datos": "Filas elegibles de entrenamiento (anio_objetivo <= 2021), por moneda; mismas filas externas para todas las variantes y referencias.",
+  "validacion": {
+    "anios_externos": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "interna": "3 años previos, ventana expansiva, >= 8 años de historia (Sprint 08)",
+    "criterio_interno": "promedio simple del RMSE de los años internos"
+  },
   "variantes": {
     "E0": [
       "pasivo_activo",
@@ -80,7 +87,32 @@
       "rentabilidad_indice_anual_pct",
       "volatilidad_diaria_anualizada_pct",
       "monto_renta_variable_anual_millones_pen"
-    ]
+    ],
+    "E3": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa",
+      "rentabilidad_indice_anual_pct",
+      "volatilidad_diaria_anualizada_pct",
+      "monto_renta_variable_anual_millones_pen"
+    ],
+    "E4": "subconjunto de los 26 atributos de E2 seleccionado dentro de cada entrenamiento externo (ver seleccion_E4)"
   },
   "modelos": [
     "ridge",
@@ -111,56 +143,6 @@
       },
       {
         "alpha": 0.1
-      }
-    ],
-    "elastic_net": [
-      {
-        "alpha": 1.0,
-        "l1_ratio": 0.9
-      },
-      {
-        "alpha": 1.0,
-        "l1_ratio": 0.5
-      },
-      {
-        "alpha": 1.0,
-        "l1_ratio": 0.1
-      },
-      {
-        "alpha": 0.1,
-        "l1_ratio": 0.9
-      },
-      {
-        "alpha": 0.1,
-        "l1_ratio": 0.5
-      },
-      {
-        "alpha": 0.1,
-        "l1_ratio": 0.1
-      },
-      {
-        "alpha": 0.01,
-        "l1_ratio": 0.9
-      },
-      {
-        "alpha": 0.01,
-        "l1_ratio": 0.5
-      },
-      {
-        "alpha": 0.01,
-        "l1_ratio": 0.1
-      },
-      {
-        "alpha": 0.001,
-        "l1_ratio": 0.9
-      },
-      {
-        "alpha": 0.001,
-        "l1_ratio": 0.5
-      },
-      {
-        "alpha": 0.001,
-        "l1_ratio": 0.1
       }
     ],
     "boosting": [
@@ -206,8 +188,277 @@
       }
     ]
   },
-  "ajuste": "Tres años internos expansivos; mismo protocolo Sprint 08; preparación solo en entrenamiento.",
-  "criterio": "RMSE anual medio -1% o menor, mejora en >=4/5 años, MAE no mayor.",
-  "importancia": "Retirada individual E2 con reajuste y configuración E2 congelada por pliegue; delta RMSE sin atributo menos completo. No selección ni causalidad.",
-  "alcance": "Exploratorio: 2017–2021 ya examinados; no usa prueba 2022–2025. Monedas separadas; FCL preliminar, no FCFF validado."
+  "presupuesto": "Misma rejilla (8 configuraciones) y mismos pliegues internos para cada variante y modelo; desempate hacia la configuración más simple (Sprint 08).",
+  "referencias": {
+    "media_historica": "media del objetivo en el entrenamiento externo",
+    "persistencia": "FCL(t) válido; respaldo: media del entrenamiento externo"
+  },
+  "seleccion_E4": {
+    "candidatos": "26 atributos de E2",
+    "por_modelo": true,
+    "paso_1": "hiperparámetros h0 = configuración de E2 elegida con los pliegues internos",
+    "paso_2": "eliminación hacia atrás con h0 fijo: en cada paso se evalúa retirar cada atributo restante; admisible si mejora el RMSE interno medio >= 1 % y en >= 2 de 3 años internos; se elige la admisible de menor RMSE (empate: orden E2); parada si ninguna es admisible o tras 5 retiradas",
+    "paso_3": "reajuste de hiperparámetros del subconjunto final con la rejilla completa y los mismos pliegues internos; ajuste en el entrenamiento externo; una sola predicción del año externo",
+    "justificacion": "h0 fijo durante la eliminación mantiene acotado el coste de boosting; el mismo procedimiento se aplica a Ridge para comparar selección con selección.",
+    "restriccion": "no usa resultados externos ni el ranking de importancia del Sprint 09"
+  },
+  "disponibilidad_temporal": {
+    "supuesto_principal": "los atributos de t (financieros y externos del año calendario t) están disponibles al pronosticar t+1; no está acreditado (Sprint 08: 0 atributos verificados, 12 con posible fuga temporal)",
+    "sensibilidad_t_1": {
+      "variantes": {
+        "E1_rezago": "E1",
+        "E2_rezago": "E2",
+        "E3_rezago": "E3"
+      },
+      "definicion": "los 7 externos se reemplazan por su valor del año Ejercicio-1 (fuente anual); 2005 queda faltante y se imputa dentro del pipeline (Ridge) o como NaN nativo (boosting); E0 no cambia",
+      "advertencia": "el rezago reduce la simultaneidad pero no acredita publicación ni elimina revisiones de las series"
+    }
+  },
+  "importancia": {
+    "individual": "retirar cada uno de los 26 atributos de E2, reajustar con la configuración E2 de ese pliegue (congelada) y predecir el año externo",
+    "bloques": "retirar cada bloque (financiero, macroeconómico, bursátil) de E2 con la configuración E2 congelada",
+    "signo": "delta_RMSE = RMSE_sin_atributo - RMSE_completo; positivo = retirarlo aumenta el error (aporte predictivo); negativo = retirarlo reduce el error",
+    "estabilidad": "años con delta > 0 (tolerancia relativa 1e-6), mediana y media del delta porcentual; aporte estable = delta > 0 en >= 4 de 5 años y media >= 1 %",
+    "no_permutacion": "no se permutan externos entre empresas del mismo año: son constantes dentro del año; se usa retirada con reajuste",
+    "interpretacion": "importancia predictiva condicional al modelo y a los demás atributos; no implica causalidad; la redundancia puede repartir u ocultar aportes"
+  },
+  "comparaciones": [
+    {
+      "candidato": "ridge:E1",
+      "comparador": "ridge:E0",
+      "pregunta": "aporte macroeconómico"
+    },
+    {
+      "candidato": "ridge:E3",
+      "comparador": "ridge:E0",
+      "pregunta": "aporte bursátil sobre financieros"
+    },
+    {
+      "candidato": "ridge:E2",
+      "comparador": "ridge:E1",
+      "pregunta": "aporte bursátil sobre financieros + macro"
+    },
+    {
+      "candidato": "ridge:E2",
+      "comparador": "ridge:E0",
+      "pregunta": "aporte externo conjunto"
+    },
+    {
+      "candidato": "ridge:E2",
+      "comparador": "ridge:E3",
+      "pregunta": "aporte macroeconómico sobre financieros + bursátil"
+    },
+    {
+      "candidato": "ridge:E4",
+      "comparador": "ridge:E2",
+      "pregunta": "selección de atributos frente a todos"
+    },
+    {
+      "candidato": "ridge:E4",
+      "comparador": "ridge:E0",
+      "pregunta": "selección frente a financieros"
+    },
+    {
+      "candidato": "ridge:E1_rezago",
+      "comparador": "ridge:E0",
+      "pregunta": "sensibilidad t-1: aporte macroeconómico"
+    },
+    {
+      "candidato": "ridge:E3_rezago",
+      "comparador": "ridge:E0",
+      "pregunta": "sensibilidad t-1: aporte bursátil"
+    },
+    {
+      "candidato": "ridge:E2_rezago",
+      "comparador": "ridge:E0",
+      "pregunta": "sensibilidad t-1: aporte externo conjunto"
+    },
+    {
+      "candidato": "ridge:E2_rezago",
+      "comparador": "ridge:E1_rezago",
+      "pregunta": "sensibilidad t-1: aporte bursátil sobre macro"
+    },
+    {
+      "candidato": "ridge:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "ridge:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "ridge:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "ridge:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "ridge:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "ridge:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "ridge:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "ridge:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "ridge:E4",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "ridge:E4",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E1",
+      "comparador": "boosting:E0",
+      "pregunta": "aporte macroeconómico"
+    },
+    {
+      "candidato": "boosting:E3",
+      "comparador": "boosting:E0",
+      "pregunta": "aporte bursátil sobre financieros"
+    },
+    {
+      "candidato": "boosting:E2",
+      "comparador": "boosting:E1",
+      "pregunta": "aporte bursátil sobre financieros + macro"
+    },
+    {
+      "candidato": "boosting:E2",
+      "comparador": "boosting:E0",
+      "pregunta": "aporte externo conjunto"
+    },
+    {
+      "candidato": "boosting:E2",
+      "comparador": "boosting:E3",
+      "pregunta": "aporte macroeconómico sobre financieros + bursátil"
+    },
+    {
+      "candidato": "boosting:E4",
+      "comparador": "boosting:E2",
+      "pregunta": "selección de atributos frente a todos"
+    },
+    {
+      "candidato": "boosting:E4",
+      "comparador": "boosting:E0",
+      "pregunta": "selección frente a financieros"
+    },
+    {
+      "candidato": "boosting:E1_rezago",
+      "comparador": "boosting:E0",
+      "pregunta": "sensibilidad t-1: aporte macroeconómico"
+    },
+    {
+      "candidato": "boosting:E3_rezago",
+      "comparador": "boosting:E0",
+      "pregunta": "sensibilidad t-1: aporte bursátil"
+    },
+    {
+      "candidato": "boosting:E2_rezago",
+      "comparador": "boosting:E0",
+      "pregunta": "sensibilidad t-1: aporte externo conjunto"
+    },
+    {
+      "candidato": "boosting:E2_rezago",
+      "comparador": "boosting:E1_rezago",
+      "pregunta": "sensibilidad t-1: aporte bursátil sobre macro"
+    },
+    {
+      "candidato": "boosting:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E4",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E4",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "boosting:E0",
+      "comparador": "ridge:E0",
+      "pregunta": "algoritmo (misma variante)"
+    },
+    {
+      "candidato": "boosting:E1",
+      "comparador": "ridge:E1",
+      "pregunta": "algoritmo (misma variante)"
+    },
+    {
+      "candidato": "boosting:E2",
+      "comparador": "ridge:E2",
+      "pregunta": "algoritmo (misma variante)"
+    },
+    {
+      "candidato": "boosting:E3",
+      "comparador": "ridge:E3",
+      "pregunta": "algoritmo (misma variante)"
+    },
+    {
+      "candidato": "boosting:E4",
+      "comparador": "ridge:E4",
+      "pregunta": "algoritmo (misma variante)"
+    }
+  ],
+  "regla": "mejora consistente si RMSE anual medio <= -1 %, menor RMSE en >= 4 de 5 años y MAE anual medio no mayor (Sprint 08; no es significancia)",
+  "objetivo": "FCL preliminar t+1 = FCO(t+1) + CAPEX_reportado(t+1), no FCFF validado; sin imputar"
 }
