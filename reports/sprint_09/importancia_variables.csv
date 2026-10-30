@@ -1,0 +1,105 @@
+moneda,modelo,atributo,delta_RMSE_medio,delta_RMSE_pct_medio,anios_aporta
+D lares,boosting,FCL_preliminar_lag1,2137.2532639695155,-1.0777370719552295,2
+D lares,boosting,FCL_preliminar_lag2,-2373.832295406988,-1.282856941381627,1
+D lares,boosting,FCL_preliminar_lag3,0.0,0.0,0
+D lares,boosting,FCL_preliminar_std3_previa,-2303.1777331527933,-0.9268365048935001,1
+D lares,boosting,FCO_lag1,1363.3400743336738,0.8279938798323361,4
+D lares,boosting,FCO_lag2,-158.0358278088708,-0.7938045040711781,3
+D lares,boosting,FCO_lag3,2562.5477059233817,1.389078545472855,4
+D lares,boosting,FCO_std3_previa,2952.108812072291,1.3597737882035332,3
+D lares,boosting,cambio_FCL_preliminar_activo_previo,1918.7389028714183,0.9929726336524558,4
+D lares,boosting,cambio_FCO_activo_previo,-24.089882495172787,-0.29003562880370426,1
+D lares,boosting,crecimiento_ActivoTotal,1379.7308438091015,1.0475912151279165,4
+D lares,boosting,crecimiento_TotalIngreso,4310.534942633594,2.808640199406789,3
+D lares,boosting,crecimiento_pbi_real_pct,0.0,0.0,0
+D lares,boosting,fco_activo,1012.3736271857081,0.6079055579699322,4
+D lares,boosting,fco_ingresos,2044.472540549963,1.3265754029604415,4
+D lares,boosting,inflacion_lima_dic_dic_pct,0.0,0.0,0
+D lares,boosting,inversion_capex_activo,2666.441102139483,1.9086801423828903,3
+D lares,boosting,margen_neto,-3077.853617220372,-1.1900211249442982,0
+D lares,boosting,monto_renta_variable_anual_millones_pen,3.873183368809987,0.0012144311050565904,1
+D lares,boosting,pasivo_activo,-5423.082040289894,-3.841688645346693,2
+D lares,boosting,rentabilidad_activo_cierre,-1914.681674521303,-1.3358120066062584,2
+D lares,boosting,rentabilidad_indice_anual_pct,0.0,0.0,0
+D lares,boosting,rotacion_activo_cierre,604.0174425972509,0.3462691417382868,2
+D lares,boosting,tasa_referencia_promedio_pct,-852.1153557961516,-0.47365946372072365,2
+D lares,boosting,tipo_cambio_promedio_soles_usd,123.38143646128592,-0.1746871355573698,1
+D lares,boosting,volatilidad_diaria_anualizada_pct,119.52343010363984,-0.14627786373465623,2
+D lares,ridge,FCL_preliminar_lag1,121.92097190603381,0.09597986331750796,4
+D lares,ridge,FCL_preliminar_lag2,-628.2894623960892,-0.18447088074090345,2
+D lares,ridge,FCL_preliminar_lag3,10.247307213392924,0.013716641966754484,2
+D lares,ridge,FCL_preliminar_std3_previa,6220.219747445764,4.477340734746331,5
+D lares,ridge,FCO_lag1,3269.998083279017,1.4445897689086795,4
+D lares,ridge,FCO_lag2,2636.455602163961,0.9784704495812946,5
+D lares,ridge,FCO_lag3,4608.320647327911,1.8094645717037714,5
+D lares,ridge,FCO_std3_previa,5964.46245695508,3.3325212681448546,5
+D lares,ridge,cambio_FCL_preliminar_activo_previo,-950.6941322681902,-0.21277877688157698,3
+D lares,ridge,cambio_FCO_activo_previo,-889.6083469966397,-0.30174467756976187,1
+D lares,ridge,crecimiento_ActivoTotal,24.845786818800843,0.01898452558049213,2
+D lares,ridge,crecimiento_TotalIngreso,-1257.368873456266,-0.958409184870279,3
+D lares,ridge,crecimiento_pbi_real_pct,-1305.6945587926398,0.059515532532106175,2
+D lares,ridge,fco_activo,-289.4911954545707,0.08333561052346283,4
+D lares,ridge,fco_ingresos,472.0797473506973,0.3435284489883905,5
+D lares,ridge,inflacion_lima_dic_dic_pct,46.086534189700615,0.07703233645461438,2
+D lares,ridge,inversion_capex_activo,418.33798297471947,0.327283500644604,4
+D lares,ridge,margen_neto,195.34719290081702,0.1659021810730188,3
+D lares,ridge,monto_renta_variable_anual_millones_pen,-89.67342930269078,-0.22467499102276856,3
+D lares,ridge,pasivo_activo,63.4943955383671,0.053909933828943934,3
+D lares,ridge,rentabilidad_activo_cierre,-370.23786372850884,-0.13212107583864485,3
+D lares,ridge,rentabilidad_indice_anual_pct,75.17649532842043,0.05903129736588353,4
+D lares,ridge,rotacion_activo_cierre,18.389549289876594,0.046257076567248756,2
+D lares,ridge,tasa_referencia_promedio_pct,-384.06473448137984,-0.09644637557991054,2
+D lares,ridge,tipo_cambio_promedio_soles_usd,339.94683649261134,-0.13034721605609922,3
+D lares,ridge,volatilidad_diaria_anualizada_pct,878.9772621295066,0.43628613800015703,3
+Soles,boosting,FCL_preliminar_lag1,267.6032153888606,-0.004570131637879893,3
+Soles,boosting,FCL_preliminar_lag2,-7027.922333328845,-0.6754574344491937,2
+Soles,boosting,FCL_preliminar_lag3,5281.86852426487,0.6212722175572272,4
+Soles,boosting,FCL_preliminar_std3_previa,9806.84512875073,0.8360198359110349,4
+Soles,boosting,FCO_lag1,-61.90727487092372,0.18014880880551587,3
+Soles,boosting,FCO_lag2,4295.6281000412655,1.0981844792737427,3
+Soles,boosting,FCO_lag3,-928.6269378980738,-0.021883153818895718,2
+Soles,boosting,FCO_std3_previa,189.43153321899007,-0.26418656892846615,2
+Soles,boosting,cambio_FCL_preliminar_activo_previo,-1776.032303128531,-0.12024380008459623,2
+Soles,boosting,cambio_FCO_activo_previo,-11.138897825719322,0.05299415299718557,2
+Soles,boosting,crecimiento_ActivoTotal,10047.82690473121,1.0090149736103005,4
+Soles,boosting,crecimiento_TotalIngreso,-2471.6158486391532,-0.047740508113700564,2
+Soles,boosting,crecimiento_pbi_real_pct,-446.19118594513276,-0.039295244099357696,1
+Soles,boosting,fco_activo,-1304.3581598173362,-0.07673734721387993,3
+Soles,boosting,fco_ingresos,-4764.2033459372005,-0.5003384787017828,2
+Soles,boosting,inflacion_lima_dic_dic_pct,-171.69976065093653,-0.014496977045910242,0
+Soles,boosting,inversion_capex_activo,-1072.6950003270292,-0.20562071732744824,0
+Soles,boosting,margen_neto,3525.165684139414,0.576890465019444,4
+Soles,boosting,monto_renta_variable_anual_millones_pen,0.0,0.0,0
+Soles,boosting,pasivo_activo,-4334.430186658807,-0.6250221321825,2
+Soles,boosting,rentabilidad_activo_cierre,114.23799734485802,0.1978164017401851,4
+Soles,boosting,rentabilidad_indice_anual_pct,0.0,0.0,0
+Soles,boosting,rotacion_activo_cierre,-2007.0788294675294,-0.1638763159753176,1
+Soles,boosting,tasa_referencia_promedio_pct,-2278.2390657363458,-0.1923565840503505,0
+Soles,boosting,tipo_cambio_promedio_soles_usd,-2110.705510593392,-0.17821136862244513,0
+Soles,boosting,volatilidad_diaria_anualizada_pct,13513.183222188289,1.14289795089058,2
+Soles,ridge,FCL_preliminar_lag1,-284.55007766401394,-0.012345268725251213,2
+Soles,ridge,FCL_preliminar_lag2,2564.3268713522352,0.15807269800521162,4
+Soles,ridge,FCL_preliminar_lag3,-778.497461633198,-0.051101337966901195,2
+Soles,ridge,FCL_preliminar_std3_previa,4878.257353837427,0.2915409575396555,4
+Soles,ridge,FCO_lag1,-189.62633277717978,-0.008456125400946313,3
+Soles,ridge,FCO_lag2,2266.938548569614,0.14303611500547042,4
+Soles,ridge,FCO_lag3,-417.3441681548138,-0.030425591544707142,2
+Soles,ridge,FCO_std3_previa,2591.877089027723,0.14366454687884334,2
+Soles,ridge,cambio_FCL_preliminar_activo_previo,-2.4923541398136875,-0.0006790420573166145,2
+Soles,ridge,cambio_FCO_activo_previo,0.45938818275462834,0.00013001457164207864,4
+Soles,ridge,crecimiento_ActivoTotal,5.324714535207022,0.001389040064014857,4
+Soles,ridge,crecimiento_TotalIngreso,-0.1633484572637826,-1.7900720361563316e-05,3
+Soles,ridge,crecimiento_pbi_real_pct,-214.06098684353054,-0.01767346536190262,0
+Soles,ridge,fco_activo,0.17142700928961857,1.1671862822915102e-05,5
+Soles,ridge,fco_ingresos,-0.03975587224122137,-2.49393395712616e-06,1
+Soles,ridge,inflacion_lima_dic_dic_pct,3.5176042142906225,0.00027775262197771156,4
+Soles,ridge,inversion_capex_activo,0.3846385104348883,-9.84091589484315e-05,3
+Soles,ridge,margen_neto,-0.2514648820622824,-4.1716807932523636e-05,4
+Soles,ridge,monto_renta_variable_anual_millones_pen,16.9199957180419,0.001382106272287409,5
+Soles,ridge,pasivo_activo,-22.143552573455963,-0.0026168216602351357,3
+Soles,ridge,rentabilidad_activo_cierre,4.488828403013758,0.0003351446525812207,5
+Soles,ridge,rentabilidad_indice_anual_pct,-12.071201279142405,-0.0009429120435200389,1
+Soles,ridge,rotacion_activo_cierre,-17.10401139932219,-0.0024053298705961623,3
+Soles,ridge,tasa_referencia_promedio_pct,-154.61190925295233,-0.014235443436456663,2
+Soles,ridge,tipo_cambio_promedio_soles_usd,-12.838032626593485,-0.0036063297017130402,2
+Soles,ridge,volatilidad_diaria_anualizada_pct,29.721842729358467,0.002784570922522711,2
