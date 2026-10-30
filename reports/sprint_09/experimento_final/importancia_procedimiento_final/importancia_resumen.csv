@@ -1,0 +1,51 @@
+procedimiento,moneda,modelo,retirado,anios,delta_RMSE_pct_medio,delta_RMSE_pct_mediana,delta_RMSE_pct_min,delta_RMSE_pct_max,delta_MAE_pct_medio,anios_aporta,anios_perjudica,anios_empate,aporte_estable,perjuicio_estable,tipo
+persistencia|boosting_abs:E1,D lares,boosting_abs,FCL_preliminar_lag1,5,0.67154143150828,0.266154815241562,-0.497154669130033,2.91808132352984,1.25289349257654,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,FCL_preliminar_lag2,5,1.54544862515909,0.440300554214508,0.226706423617809,5.7790788828028,1.68754905779916,5,0,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,FCL_preliminar_lag3,5,0.584872385661891,0.515632021166773,-0.718314522488879,1.98202228156539,1.5718135022763,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,FCL_preliminar_std3_previa,5,1.13018806862207,0.0332254774261446,-0.427985131362772,5.90689239327805,1.27034408883656,3,1,1,False,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,FCO_lag1,5,1.19877147389914,0.459576190253817,-0.133250142423963,3.37173257595521,1.63282996892052,4,1,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,FCO_lag2,5,2.26868214670185,0.931922362744761,-0.199192901720938,6.49911769695314,1.51692633562399,4,1,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,FCO_lag3,5,0.517835717223593,0.25201453265671,-0.430716248848419,2.33024317324133,1.3590468298603,3,1,1,False,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,FCO_std3_previa,5,2.02021488979801,0.959861694707723,-0.3986455023842,7.22550618232589,2.32378936013749,4,1,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,cambio_FCL_preliminar_activo_previo,5,1.15228316096499,0.328391983843229,0.0277564939483915,4.39676017413034,1.62090142154603,5,0,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,cambio_FCO_activo_previo,5,0.753547460597474,0.304575905872445,-0.390654831844307,2.14639298946367,2.11268711232294,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,crecimiento_ActivoTotal,5,0.340907440733526,0.108857302043466,-0.596710234967831,1.46137245770928,1.3170327963374,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,crecimiento_TotalIngreso,5,1.75184495903761,0.556985742730062,-0.411616755475033,7.69080398413655,1.01751946547489,4,1,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,crecimiento_pbi_real_pct,5,1.62594655570323,0.178328722309295,0,6.27658850395355,0.78272841113949,4,0,1,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,fco_activo,5,1.43517550044335,1.66264738049035,-0.265993318231547,3.04030434317124,1.3346350323704,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,fco_ingresos,5,1.1461418138199,0.411923239743096,-0.671237319466933,5.127208971925,1.89928541832101,4,1,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,financiero,5,1.98748063396704,2.12140002263707,-0.588229528008805,5.22665559189988,5.44576774085401,3,2,0,False,False,bloque
+persistencia|boosting_abs:E1,D lares,boosting_abs,inflacion_lima_dic_dic_pct,5,1.68270071900822,0.556494653469416,0.350648846633128,5.72328615673953,1.62626065616953,5,0,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,inversion_capex_activo,5,1.2648492135229,0.484473709185728,-0.404437665993495,3.35120324094888,1.42817706774809,4,1,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,macroeconomico,5,1.67843328179809,0.762630585193995,0.217182424081773,4.83163742683144,2.71546793347841,5,0,0,True,False,bloque
+persistencia|boosting_abs:E1,D lares,boosting_abs,margen_neto,5,2.07941719483471,0.789745388894507,-0.730319797020917,4.96992849793368,2.09160055927159,4,1,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,pasivo_activo,5,0.458366516930836,0.422736122818238,-0.297121423968008,1.46681137343459,0.792075497429949,4,1,0,False,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,rentabilidad_activo_cierre,5,1.39988128674377,0.571445879627623,-0.748973887280962,4.36266395691315,1.35667447059905,4,1,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,rotacion_activo_cierre,5,1.37316233308392,0.674444351719862,0.19169640629347,4.80450590965169,1.71631592899091,5,0,0,True,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,tasa_referencia_promedio_pct,5,0.850827372211911,0.778818595886495,-0.246773240220981,2.15841787162767,1.10463821661317,4,1,0,False,False,individual
+persistencia|boosting_abs:E1,D lares,boosting_abs,tipo_cambio_promedio_soles_usd,5,1.69851746120179,0.730879599564417,-0.330822340415273,7.05398471011373,2.27609220923542,4,1,0,True,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,FCL_preliminar_lag1,5,0.0175427792149926,0.191418731871891,-1.9979035658798,1.53528982223328,-0.00221569135984606,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,FCL_preliminar_lag2,5,0.219562199328977,0.43436945858234,-1.14570769863639,1.80229424520626,0.0426440606004228,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,FCL_preliminar_lag3,5,0.531553384838074,0.615938536559193,-0.199167223671804,1.20692918723999,0.324922195201662,4,1,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,FCL_preliminar_std3_previa,5,0.0231727870098234,-0.0933890018450853,-0.324080630956069,0.522776611899789,0.104534693419526,2,3,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,FCO_lag1,5,0.24666666221777,0.55558140110994,-1.02347504875516,0.990374555554025,-0.146170902850884,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,FCO_lag2,5,1.19822712234559,1.37597180376117,0.292982654265884,1.56688499163701,0.78381399768643,5,0,0,True,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,FCO_lag3,5,-0.131920505346965,-0.414453759993549,-1.062482126019,0.693621849023758,-0.221448565835929,2,3,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,FCO_std3_previa,5,0.0313952283997155,0.0385128954724642,-3.18689727343987,3.46181872902355,0.516152741057183,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,cambio_FCL_preliminar_activo_previo,5,0.566073845285309,0.381941419033405,-1.22061945090449,1.84170102377184,0.695411422681135,4,1,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,cambio_FCO_activo_previo,5,0.115008956400542,0.0742897355846536,-0.725751272096485,1.21389479162315,0.659557016198976,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,crecimiento_ActivoTotal,5,-0.130609053942344,-0.0761445304599971,-0.893666012638304,0.363946737578123,0.188171445954913,2,3,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,crecimiento_TotalIngreso,5,0.291744297113469,0.0747808482442844,-0.65776190645724,1.38988048053809,0.227605645011046,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,crecimiento_pbi_real_pct,5,-0.292429743042903,-0.476573364662406,-1.47834998370743,1.0174407701789,-0.118182746182724,1,3,1,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,fco_activo,5,0.78483622284241,-0.266534372467125,-0.949366817391591,3.44897936846426,0.521336459282079,2,3,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,fco_ingresos,5,0.074221904442015,0.225823643552397,-1.41884845193428,1.95270272842605,0.527663404859944,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,financiero,5,0.494924066736915,1.80302203590698,-7.007945443561,3.548973835913,3.20182569925844,4,1,0,False,False,bloque
+persistencia|boosting_abs:E1,Soles,boosting_abs,inflacion_lima_dic_dic_pct,5,-0.127545030433227,-0.247537466231027,-0.710426732757805,0.980244681904707,-0.167934690428669,1,4,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,inversion_capex_activo,5,-0.855843103474081,-0.109075394564687,-2.38447108111981,0.377526832190239,-0.825542272596482,2,3,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,macroeconomico,5,0.0623977166849321,-0.258030247688568,-1.08509670199163,2.08786150973295,-0.0446418475329271,2,3,0,False,False,bloque
+persistencia|boosting_abs:E1,Soles,boosting_abs,margen_neto,5,0.0720723872528932,-0.0898381261061393,-0.770622632786368,1.17370437463814,0.504985177994605,2,3,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,pasivo_activo,5,0.0313755656935667,-1.01231410973681,-1.11219927363742,2.94725550142535,0.217788103607404,2,3,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,rentabilidad_activo_cierre,5,0.0343194114583731,0.162936759819978,-1.08067729569351,1.31386055917808,0.307750568075867,3,2,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,rotacion_activo_cierre,5,0.0876425591115783,-0.21481098475648,-0.375614355035958,1.16832918999348,0.123324074945694,2,3,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,tasa_referencia_promedio_pct,5,0.375935857311146,0.149183903571721,-0.792980494566834,1.78238772170853,0.0397267369897349,4,1,0,False,False,individual
+persistencia|boosting_abs:E1,Soles,boosting_abs,tipo_cambio_promedio_soles_usd,5,0.167432269805923,0.204730095460946,-0.726754412314183,1.01884829449783,0.212674589969026,3,2,0,False,False,individual

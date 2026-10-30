@@ -1,0 +1,12 @@
+{
+  "media_historica": 1.6629597556388453e-15,
+  "persistencia": 5.57122141885057e-16,
+  "directa|ridge:E0": 4.819637729941677e-15,
+  "directa|ridge:E1": 4.338768377328989e-15,
+  "directa|ridge:E2": 4.603905284294198e-15,
+  "directa|ridge:E3": 3.5241393194928388e-15,
+  "directa|boosting:E0": 4.4472596647214876e-15,
+  "directa|boosting:E1": 4.6193852286708305e-15,
+  "directa|boosting:E2": 4.593077172618584e-15,
+  "directa|boosting:E3": 4.620646290399863e-15
+}

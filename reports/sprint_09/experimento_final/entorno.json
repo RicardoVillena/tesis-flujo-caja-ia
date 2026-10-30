@@ -1,0 +1,7 @@
+{
+  "python": "3.12.15",
+  "scikit-learn": "1.9.1",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "git_head": "9e1fee3b18a4552316043041ab610d3ccbc1994b"
+}

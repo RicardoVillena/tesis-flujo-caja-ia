@@ -1,0 +1,1042 @@
+{
+  "version": "Sprint 09 — experimento final acotado; protocolo fijado antes de ejecutar",
+  "caracter": "EXPLORATORIO: años externos 2017–2021 ya examinados en Sprints 08–09; prueba 2022–2025 no se usa; sin confirmación independiente.",
+  "alcance": "Predicción del FCL preliminar t+1 (FCO + CAPEX reportado); no es FCFF validado ni valoración DCF.",
+  "poblacion": {
+    "principal": "no_financiera: TipoSector SMV ∉ {BANCOS, SEGUROS, FINANCIERAS, A.F.P.} (regla de src/alineacion_investigacion.py)",
+    "limite_historico": "TipoSector se toma del registro SMV de cada ejercicio; no está acreditado que la categoría reflejara la actividad vigente en cada año; ninguna empresa cambia de TipoSector en el panel",
+    "conservadora": "NO se usa: emplea CIIU de 2023–2025 para clasificar ejercicios anteriores (sensibilidad retrospectiva, no disponible históricamente)"
+  },
+  "datos": "Sin correcciones: la auditoría de unidades no acreditó errores (ver auditoria_unidades.md); no hay versión derivada.",
+  "formulaciones": {
+    "directa": {
+      "objetivo": "FCL(t+1)",
+      "prediccion": "ŷ"
+    },
+    "persistencia": {
+      "objetivo": "FCL(t+1) − base(t)",
+      "prediccion": "base(t) + cambio predicho"
+    },
+    "relativa": {
+      "objetivo": "FCL(t+1) / ActivoTotal(t)",
+      "prediccion": "ratio predicho × ActivoTotal(t)",
+      "requisito": "ActivoTotal(t) > 0 en todas las filas (verificado; sin restricción de filas)",
+      "advertencia": "compatibilidad de unidades entre ActivoTotal (SMV InfoFinanciera) y FCO/CAPEX (FlujoEfectivo, extracción no reproducible) no acreditada: resultado no validado económicamente"
+    }
+  },
+  "base_t": "FCL(t) válido = FCL_preliminar(t) si CAPEX_reportado(t) <= 0 (src/ablacion_variables.fcl_t); si falta, media de FCL(t+1) en el entrenamiento correspondiente (externo o interno), aplicada igual al construir el objetivo y al reconstruir; con cambio predicho 0 coincide con la referencia de persistencia",
+  "prohibido": "FCL(t+1) como predictor; ActivoTotal(t+1) para reconstruir",
+  "variantes": {
+    "E0": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa"
+    ],
+    "E1": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa",
+      "inflacion_lima_dic_dic_pct",
+      "tipo_cambio_promedio_soles_usd",
+      "tasa_referencia_promedio_pct",
+      "crecimiento_pbi_real_pct"
+    ],
+    "E2": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa",
+      "inflacion_lima_dic_dic_pct",
+      "tipo_cambio_promedio_soles_usd",
+      "tasa_referencia_promedio_pct",
+      "crecimiento_pbi_real_pct",
+      "rentabilidad_indice_anual_pct",
+      "volatilidad_diaria_anualizada_pct",
+      "monto_renta_variable_anual_millones_pen"
+    ],
+    "E3": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa",
+      "rentabilidad_indice_anual_pct",
+      "volatilidad_diaria_anualizada_pct",
+      "monto_renta_variable_anual_millones_pen"
+    ]
+  },
+  "modelos": {
+    "ridge": "Pipeline mediana + StandardScaler + Ridge",
+    "boosting": "HistGradientBoosting pérdida cuadrática",
+    "boosting_abs": "HistGradientBoosting pérdida absoluta (contraste robusto)"
+  },
+  "rejillas": {
+    "ridge": [
+      {
+        "alpha": 1000000.0
+      },
+      {
+        "alpha": 100000.0
+      },
+      {
+        "alpha": 10000.0
+      },
+      {
+        "alpha": 1000.0
+      },
+      {
+        "alpha": 100.0
+      },
+      {
+        "alpha": 10.0
+      },
+      {
+        "alpha": 1.0
+      },
+      {
+        "alpha": 0.1
+      }
+    ],
+    "boosting": [
+      {
+        "max_depth": 2,
+        "max_iter": 100,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 100,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 300,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 300,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 100,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 100,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 300,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 300,
+        "l2_regularization": 0.0
+      }
+    ],
+    "boosting_abs": [
+      {
+        "max_depth": 2,
+        "max_iter": 100,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 100,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 300,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 300,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 100,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 100,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 300,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 300,
+        "l2_regularization": 0.0
+      }
+    ]
+  },
+  "fijos_boosting": {
+    "loss": "squared_error",
+    "learning_rate": 0.05,
+    "min_samples_leaf": 20,
+    "early_stopping": false,
+    "random_state": 0
+  },
+  "presupuesto": "8 configuraciones por modelo, mismos pliegues para todas las formulaciones y variantes",
+  "validacion": "anidada: años externos 2017–2021; 3 años internos expansivos, >= 8 años de historia",
+  "seleccion_interna": "promedio simple del RMSE monetario de las predicciones reconstruidas en los años internos (también para pérdida absoluta); empate: configuración más simple",
+  "referencias": "media histórica y persistencia de FCL(t) con respaldo de media (Sprint 08)",
+  "comparaciones": [
+    {
+      "candidato": "persistencia|ridge:E0",
+      "comparador": "directa|ridge:E0",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|ridge:E0",
+      "comparador": "directa|ridge:E0",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|ridge:E1",
+      "comparador": "directa|ridge:E1",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|ridge:E1",
+      "comparador": "directa|ridge:E1",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|ridge:E2",
+      "comparador": "directa|ridge:E2",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|ridge:E2",
+      "comparador": "directa|ridge:E2",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|ridge:E3",
+      "comparador": "directa|ridge:E3",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|ridge:E3",
+      "comparador": "directa|ridge:E3",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|boosting:E0",
+      "comparador": "directa|boosting:E0",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|boosting:E0",
+      "comparador": "directa|boosting:E0",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|boosting:E1",
+      "comparador": "directa|boosting:E1",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|boosting:E1",
+      "comparador": "directa|boosting:E1",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|boosting:E2",
+      "comparador": "directa|boosting:E2",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|boosting:E2",
+      "comparador": "directa|boosting:E2",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|boosting:E3",
+      "comparador": "directa|boosting:E3",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|boosting:E3",
+      "comparador": "directa|boosting:E3",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E0",
+      "comparador": "directa|boosting_abs:E0",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E0",
+      "comparador": "directa|boosting_abs:E0",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E1",
+      "comparador": "directa|boosting_abs:E1",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E1",
+      "comparador": "directa|boosting_abs:E1",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E2",
+      "comparador": "directa|boosting_abs:E2",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E2",
+      "comparador": "directa|boosting_abs:E2",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E3",
+      "comparador": "directa|boosting_abs:E3",
+      "pregunta": "formulación: persistencia frente a directa"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E3",
+      "comparador": "directa|boosting_abs:E3",
+      "pregunta": "formulación: relativa frente a directa"
+    },
+    {
+      "candidato": "directa|boosting_abs:E0",
+      "comparador": "directa|boosting:E0",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "directa|boosting:E0",
+      "comparador": "directa|ridge:E0",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "directa|boosting_abs:E1",
+      "comparador": "directa|boosting:E1",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "directa|boosting:E1",
+      "comparador": "directa|ridge:E1",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "directa|boosting_abs:E2",
+      "comparador": "directa|boosting:E2",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "directa|boosting:E2",
+      "comparador": "directa|ridge:E2",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "directa|boosting_abs:E3",
+      "comparador": "directa|boosting:E3",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "directa|boosting:E3",
+      "comparador": "directa|ridge:E3",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "directa|ridge:E1",
+      "comparador": "directa|ridge:E0",
+      "pregunta": "externos: aporte macroeconómico"
+    },
+    {
+      "candidato": "directa|ridge:E3",
+      "comparador": "directa|ridge:E0",
+      "pregunta": "externos: aporte bursátil"
+    },
+    {
+      "candidato": "directa|ridge:E2",
+      "comparador": "directa|ridge:E1",
+      "pregunta": "externos: bursátil sobre macro"
+    },
+    {
+      "candidato": "directa|ridge:E2",
+      "comparador": "directa|ridge:E0",
+      "pregunta": "externos: aporte conjunto"
+    },
+    {
+      "candidato": "directa|ridge:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|ridge:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|ridge:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|ridge:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|ridge:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|ridge:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|ridge:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|ridge:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting:E1",
+      "comparador": "directa|boosting:E0",
+      "pregunta": "externos: aporte macroeconómico"
+    },
+    {
+      "candidato": "directa|boosting:E3",
+      "comparador": "directa|boosting:E0",
+      "pregunta": "externos: aporte bursátil"
+    },
+    {
+      "candidato": "directa|boosting:E2",
+      "comparador": "directa|boosting:E1",
+      "pregunta": "externos: bursátil sobre macro"
+    },
+    {
+      "candidato": "directa|boosting:E2",
+      "comparador": "directa|boosting:E0",
+      "pregunta": "externos: aporte conjunto"
+    },
+    {
+      "candidato": "directa|boosting:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting_abs:E1",
+      "comparador": "directa|boosting_abs:E0",
+      "pregunta": "externos: aporte macroeconómico"
+    },
+    {
+      "candidato": "directa|boosting_abs:E3",
+      "comparador": "directa|boosting_abs:E0",
+      "pregunta": "externos: aporte bursátil"
+    },
+    {
+      "candidato": "directa|boosting_abs:E2",
+      "comparador": "directa|boosting_abs:E1",
+      "pregunta": "externos: bursátil sobre macro"
+    },
+    {
+      "candidato": "directa|boosting_abs:E2",
+      "comparador": "directa|boosting_abs:E0",
+      "pregunta": "externos: aporte conjunto"
+    },
+    {
+      "candidato": "directa|boosting_abs:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting_abs:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting_abs:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting_abs:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting_abs:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting_abs:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting_abs:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "directa|boosting_abs:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E0",
+      "comparador": "persistencia|boosting:E0",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "persistencia|boosting:E0",
+      "comparador": "persistencia|ridge:E0",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E1",
+      "comparador": "persistencia|boosting:E1",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "persistencia|boosting:E1",
+      "comparador": "persistencia|ridge:E1",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E2",
+      "comparador": "persistencia|boosting:E2",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "persistencia|boosting:E2",
+      "comparador": "persistencia|ridge:E2",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E3",
+      "comparador": "persistencia|boosting:E3",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "persistencia|boosting:E3",
+      "comparador": "persistencia|ridge:E3",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "persistencia|ridge:E1",
+      "comparador": "persistencia|ridge:E0",
+      "pregunta": "externos: aporte macroeconómico"
+    },
+    {
+      "candidato": "persistencia|ridge:E3",
+      "comparador": "persistencia|ridge:E0",
+      "pregunta": "externos: aporte bursátil"
+    },
+    {
+      "candidato": "persistencia|ridge:E2",
+      "comparador": "persistencia|ridge:E1",
+      "pregunta": "externos: bursátil sobre macro"
+    },
+    {
+      "candidato": "persistencia|ridge:E2",
+      "comparador": "persistencia|ridge:E0",
+      "pregunta": "externos: aporte conjunto"
+    },
+    {
+      "candidato": "persistencia|ridge:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|ridge:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|ridge:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|ridge:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|ridge:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|ridge:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|ridge:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|ridge:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting:E1",
+      "comparador": "persistencia|boosting:E0",
+      "pregunta": "externos: aporte macroeconómico"
+    },
+    {
+      "candidato": "persistencia|boosting:E3",
+      "comparador": "persistencia|boosting:E0",
+      "pregunta": "externos: aporte bursátil"
+    },
+    {
+      "candidato": "persistencia|boosting:E2",
+      "comparador": "persistencia|boosting:E1",
+      "pregunta": "externos: bursátil sobre macro"
+    },
+    {
+      "candidato": "persistencia|boosting:E2",
+      "comparador": "persistencia|boosting:E0",
+      "pregunta": "externos: aporte conjunto"
+    },
+    {
+      "candidato": "persistencia|boosting:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E1",
+      "comparador": "persistencia|boosting_abs:E0",
+      "pregunta": "externos: aporte macroeconómico"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E3",
+      "comparador": "persistencia|boosting_abs:E0",
+      "pregunta": "externos: aporte bursátil"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E2",
+      "comparador": "persistencia|boosting_abs:E1",
+      "pregunta": "externos: bursátil sobre macro"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E2",
+      "comparador": "persistencia|boosting_abs:E0",
+      "pregunta": "externos: aporte conjunto"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "persistencia|boosting_abs:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E0",
+      "comparador": "relativa|boosting:E0",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "relativa|boosting:E0",
+      "comparador": "relativa|ridge:E0",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E1",
+      "comparador": "relativa|boosting:E1",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "relativa|boosting:E1",
+      "comparador": "relativa|ridge:E1",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E2",
+      "comparador": "relativa|boosting:E2",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "relativa|boosting:E2",
+      "comparador": "relativa|ridge:E2",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E3",
+      "comparador": "relativa|boosting:E3",
+      "pregunta": "pérdida: absoluta frente a cuadrática"
+    },
+    {
+      "candidato": "relativa|boosting:E3",
+      "comparador": "relativa|ridge:E3",
+      "pregunta": "algoritmo: boosting frente a Ridge"
+    },
+    {
+      "candidato": "relativa|ridge:E1",
+      "comparador": "relativa|ridge:E0",
+      "pregunta": "externos: aporte macroeconómico"
+    },
+    {
+      "candidato": "relativa|ridge:E3",
+      "comparador": "relativa|ridge:E0",
+      "pregunta": "externos: aporte bursátil"
+    },
+    {
+      "candidato": "relativa|ridge:E2",
+      "comparador": "relativa|ridge:E1",
+      "pregunta": "externos: bursátil sobre macro"
+    },
+    {
+      "candidato": "relativa|ridge:E2",
+      "comparador": "relativa|ridge:E0",
+      "pregunta": "externos: aporte conjunto"
+    },
+    {
+      "candidato": "relativa|ridge:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|ridge:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|ridge:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|ridge:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|ridge:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|ridge:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|ridge:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|ridge:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting:E1",
+      "comparador": "relativa|boosting:E0",
+      "pregunta": "externos: aporte macroeconómico"
+    },
+    {
+      "candidato": "relativa|boosting:E3",
+      "comparador": "relativa|boosting:E0",
+      "pregunta": "externos: aporte bursátil"
+    },
+    {
+      "candidato": "relativa|boosting:E2",
+      "comparador": "relativa|boosting:E1",
+      "pregunta": "externos: bursátil sobre macro"
+    },
+    {
+      "candidato": "relativa|boosting:E2",
+      "comparador": "relativa|boosting:E0",
+      "pregunta": "externos: aporte conjunto"
+    },
+    {
+      "candidato": "relativa|boosting:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E1",
+      "comparador": "relativa|boosting_abs:E0",
+      "pregunta": "externos: aporte macroeconómico"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E3",
+      "comparador": "relativa|boosting_abs:E0",
+      "pregunta": "externos: aporte bursátil"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E2",
+      "comparador": "relativa|boosting_abs:E1",
+      "pregunta": "externos: bursátil sobre macro"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E2",
+      "comparador": "relativa|boosting_abs:E0",
+      "pregunta": "externos: aporte conjunto"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E0",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E0",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E1",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E1",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E2",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E2",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E3",
+      "comparador": "media_historica",
+      "pregunta": "frente a referencia simple"
+    },
+    {
+      "candidato": "relativa|boosting_abs:E3",
+      "comparador": "persistencia",
+      "pregunta": "frente a referencia simple"
+    }
+  ],
+  "sensibilidad_concentracion": "descriptiva, predefinida: repetir las comparaciones excluyendo de la evaluación (sin reajustar) la empresa con mayor error cuadrático de la persistencia en cada moneda",
+  "regla": "mejora consistente si RMSE anual medio <= -1 %, menor RMSE en >= 4 de 5 años y MAE anual medio no mayor (Sprint 08; no es significancia)",
+  "evaluacion": "valores reales sin recortar; mismas filas para todos los procedimientos de una moneda"
+}

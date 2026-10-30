@@ -1,0 +1,477 @@
+Moneda,Ejercicio,TipoSector,motivo,particion,observaciones,empresas
+D lares,2005,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,1,1
+D lares,2005,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,1,1
+D lares,2005,MINERAS,incluida: sector SMV no financiero,entrenamiento,2,2
+D lares,2005,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2006,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,2,2
+D lares,2006,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2006,MINERAS,incluida: sector SMV no financiero,entrenamiento,11,11
+D lares,2006,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2007,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,1,1
+D lares,2007,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,2,2
+D lares,2007,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2007,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+D lares,2007,MINERAS,incluida: sector SMV no financiero,entrenamiento,11,11
+D lares,2007,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+D lares,2007,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2008,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,1,1
+D lares,2008,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2008,MINERAS,incluida: sector SMV no financiero,entrenamiento,11,11
+D lares,2008,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2008,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2009,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,2,2
+D lares,2009,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,1,1
+D lares,2009,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,3,3
+D lares,2009,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2009,MINERAS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2009,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,6,6
+D lares,2009,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2009,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+D lares,2010,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,1,1
+D lares,2010,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,3,3
+D lares,2010,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2010,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2010,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2010,MINERAS,incluida: sector SMV no financiero,entrenamiento,7,7
+D lares,2010,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,3,3
+D lares,2010,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2010,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2011,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,3,3
+D lares,2011,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,1,1
+D lares,2011,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,1,1
+D lares,2011,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,3,3
+D lares,2011,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2011,MINERAS,incluida: sector SMV no financiero,entrenamiento,13,13
+D lares,2011,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2012,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,1,1
+D lares,2012,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,4,4
+D lares,2012,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,1,1
+D lares,2012,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,3,3
+D lares,2012,MINERAS,incluida: sector SMV no financiero,entrenamiento,12,12
+D lares,2012,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2012,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,6,6
+D lares,2013,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,1,1
+D lares,2013,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,4,4
+D lares,2013,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,1,1
+D lares,2013,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2013,MINERAS,incluida: sector SMV no financiero,entrenamiento,12,12
+D lares,2013,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2013,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2014,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,1,1
+D lares,2014,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,4,4
+D lares,2014,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,1,1
+D lares,2014,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2014,MINERAS,incluida: sector SMV no financiero,entrenamiento,13,13
+D lares,2014,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2015,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2015,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,4,4
+D lares,2015,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,1,1
+D lares,2015,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,2,2
+D lares,2015,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2015,MINERAS,incluida: sector SMV no financiero,entrenamiento,10,10
+D lares,2015,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,3,3
+D lares,2015,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2015,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2016,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,2,2
+D lares,2016,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,2,2
+D lares,2016,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,2,2
+D lares,2016,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2016,MINERAS,incluida: sector SMV no financiero,entrenamiento,7,7
+D lares,2016,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,3,3
+D lares,2016,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2017,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,2,2
+D lares,2017,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,1,1
+D lares,2017,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,2,2
+D lares,2017,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,7,7
+D lares,2017,MINERAS,incluida: sector SMV no financiero,entrenamiento,9,9
+D lares,2017,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,5,5
+D lares,2018,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2018,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,2,2
+D lares,2018,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,3,3
+D lares,2018,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,7,7
+D lares,2018,MINERAS,incluida: sector SMV no financiero,entrenamiento,11,11
+D lares,2018,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,3,3
+D lares,2018,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+D lares,2019,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,2,2
+D lares,2019,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,3,3
+D lares,2019,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,7,7
+D lares,2019,MINERAS,incluida: sector SMV no financiero,entrenamiento,11,11
+D lares,2019,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,1,1
+D lares,2019,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+D lares,2020,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,1,1
+D lares,2020,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,1,1
+D lares,2020,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,4,4
+D lares,2020,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,6,6
+D lares,2020,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2020,MINERAS,incluida: sector SMV no financiero,entrenamiento,11,11
+D lares,2020,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,1,1
+D lares,2020,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2021,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,prueba,1,1
+D lares,2021,DIVERSOS,incluida: sector SMV no financiero,prueba,4,4
+D lares,2021,INDUSTRIALES,incluida: sector SMV no financiero,prueba,6,6
+D lares,2021,MINERAS,incluida: sector SMV no financiero,prueba,11,11
+D lares,2021,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2022,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,1,1
+D lares,2022,DIVERSOS,incluida: sector SMV no financiero,prueba,5,5
+D lares,2022,INDUSTRIALES,incluida: sector SMV no financiero,prueba,6,6
+D lares,2022,MINERAS,incluida: sector SMV no financiero,prueba,11,11
+D lares,2022,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,prueba,1,1
+D lares,2023,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),prueba,1,1
+D lares,2023,DIVERSOS,incluida: sector SMV no financiero,prueba,5,5
+D lares,2023,INDUSTRIALES,incluida: sector SMV no financiero,prueba,6,6
+D lares,2023,MINERAS,incluida: sector SMV no financiero,prueba,10,10
+D lares,2023,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+D lares,2023,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,prueba,2,2
+D lares,2024,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),prueba,1,1
+D lares,2024,DIVERSOS,incluida: sector SMV no financiero,prueba,4,4
+D lares,2024,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+D lares,2024,INDUSTRIALES,incluida: sector SMV no financiero,prueba,6,6
+D lares,2024,MINERAS,incluida: sector SMV no financiero,prueba,10,10
+D lares,2024,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,prueba,2,2
+D lares,2025,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,1,1
+D lares,2025,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,4,4
+D lares,2025,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,6,6
+D lares,2025,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,10,10
+D lares,2025,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2005,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2005,A.F.P.,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2005,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,13,13
+Soles,2005,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2005,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,12,12
+Soles,2005,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,4,4
+Soles,2005,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,1,1
+Soles,2005,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,20,20
+Soles,2005,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,6,6
+Soles,2005,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,10,10
+Soles,2005,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,6,6
+Soles,2005,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,45,45
+Soles,2005,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,7,7
+Soles,2005,INDUSTRIALES DEL TRABAJO,incluida: sector SMV no financiero,entrenamiento,1,1
+Soles,2005,MINERAS,incluida: sector SMV no financiero,entrenamiento,12,12
+Soles,2005,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,8,8
+Soles,2005,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,12,12
+Soles,2005,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,18,18
+Soles,2005,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,4,4
+Soles,2006,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2006,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,14,14
+Soles,2006,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,13,13
+Soles,2006,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,4,4
+Soles,2006,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,1,1
+Soles,2006,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,21,21
+Soles,2006,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,3,3
+Soles,2006,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,10,10
+Soles,2006,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,6,6
+Soles,2006,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,44,44
+Soles,2006,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,3,3
+Soles,2006,INDUSTRIALES DEL TRABAJO,incluida: sector SMV no financiero,entrenamiento,1,1
+Soles,2006,MINERAS,incluida: sector SMV no financiero,entrenamiento,10,10
+Soles,2006,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2006,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,12,12
+Soles,2006,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,18,18
+Soles,2006,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2007,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2007,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,16,16
+Soles,2007,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,14,14
+Soles,2007,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,4,4
+Soles,2007,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,2,2
+Soles,2007,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,20,20
+Soles,2007,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,4,4
+Soles,2007,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,13,13
+Soles,2007,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,6,6
+Soles,2007,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,46,46
+Soles,2007,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,3,3
+Soles,2007,INDUSTRIALES DEL TRABAJO,incluida: sector SMV no financiero,entrenamiento,1,1
+Soles,2007,MINERAS,incluida: sector SMV no financiero,entrenamiento,10,10
+Soles,2007,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2007,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,11,11
+Soles,2007,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2007,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,18,18
+Soles,2007,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2008,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2008,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,15,15
+Soles,2008,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2008,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,16,16
+Soles,2008,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,4,4
+Soles,2008,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,2,2
+Soles,2008,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,24,24
+Soles,2008,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,6,6
+Soles,2008,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,15,15
+Soles,2008,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,6,6
+Soles,2008,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,46,46
+Soles,2008,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,4,4
+Soles,2008,INDUSTRIALES DEL TRABAJO,incluida: sector SMV no financiero,entrenamiento,1,1
+Soles,2008,MINERAS,incluida: sector SMV no financiero,entrenamiento,10,10
+Soles,2008,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,11,11
+Soles,2008,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2008,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,19,19
+Soles,2009,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2009,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,13,13
+Soles,2009,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2009,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,16,16
+Soles,2009,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,3,3
+Soles,2009,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,3,3
+Soles,2009,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,18,18
+Soles,2009,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,11,11
+Soles,2009,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,13,13
+Soles,2009,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2009,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,9,9
+Soles,2009,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,46,46
+Soles,2009,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,4,4
+Soles,2009,INDUSTRIALES DEL TRABAJO,incluida: sector SMV no financiero,entrenamiento,1,1
+Soles,2009,MINERAS,incluida: sector SMV no financiero,entrenamiento,9,9
+Soles,2009,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2009,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,13,13
+Soles,2009,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,17,17
+Soles,2009,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2010,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2010,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,13,13
+Soles,2010,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2010,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,18,18
+Soles,2010,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,3,3
+Soles,2010,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,3,3
+Soles,2010,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,20,20
+Soles,2010,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,9,9
+Soles,2010,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,10,10
+Soles,2010,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,4,4
+Soles,2010,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,10,10
+Soles,2010,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,41,41
+Soles,2010,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,7,7
+Soles,2010,INDUSTRIALES DEL TRABAJO,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2010,MINERAS,incluida: sector SMV no financiero,entrenamiento,4,4
+Soles,2010,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,7,7
+Soles,2010,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,13,13
+Soles,2010,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,18,18
+Soles,2010,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2011,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2011,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,13,13
+Soles,2011,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2011,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,18,18
+Soles,2011,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,4,4
+Soles,2011,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,2,2
+Soles,2011,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,22,22
+Soles,2011,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,7,7
+Soles,2011,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,17,17
+Soles,2011,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,11,11
+Soles,2011,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,41,41
+Soles,2011,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,6,6
+Soles,2011,MINERAS,incluida: sector SMV no financiero,entrenamiento,8,8
+Soles,2011,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,14,14
+Soles,2011,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,20,20
+Soles,2011,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2012,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,3,3
+Soles,2012,A.F.P.,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2012,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,13,13
+Soles,2012,BANCOS,excluida: TipoSector SMV financiero,entrenamiento,17,17
+Soles,2012,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2012,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,7,7
+Soles,2012,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,27,27
+Soles,2012,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,2,2
+Soles,2012,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,20,20
+Soles,2012,FINANCIERAS,excluida: TipoSector SMV financiero,entrenamiento,13,13
+Soles,2012,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2012,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,38,38
+Soles,2012,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,6,6
+Soles,2012,MINERAS,incluida: sector SMV no financiero,entrenamiento,7,7
+Soles,2012,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2012,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,14,14
+Soles,2012,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,21,21
+Soles,2012,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2013,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2013,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,11,11
+Soles,2013,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2013,BANCOS,excluida: TipoSector SMV financiero,entrenamiento,19,19
+Soles,2013,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,7,7
+Soles,2013,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,25,25
+Soles,2013,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,4,4
+Soles,2013,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,20,20
+Soles,2013,FINANCIERAS,excluida: TipoSector SMV financiero,entrenamiento,13,13
+Soles,2013,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2013,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,38,38
+Soles,2013,MINERAS,incluida: sector SMV no financiero,entrenamiento,7,7
+Soles,2013,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,15,15
+Soles,2013,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,19,19
+Soles,2013,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,4,4
+Soles,2014,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2014,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,11,11
+Soles,2014,BANCOS,excluida: TipoSector SMV financiero,entrenamiento,19,19
+Soles,2014,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,8,8
+Soles,2014,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,26,26
+Soles,2014,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,4,4
+Soles,2014,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,19,19
+Soles,2014,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2014,FINANCIERAS,excluida: TipoSector SMV financiero,entrenamiento,13,13
+Soles,2014,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,35,35
+Soles,2014,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,3,3
+Soles,2014,MINERAS,incluida: sector SMV no financiero,entrenamiento,7,7
+Soles,2014,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,18,18
+Soles,2014,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,19,19
+Soles,2015,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2015,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,11,11
+Soles,2015,BANCOS,excluida: TipoSector SMV financiero,entrenamiento,19,19
+Soles,2015,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2015,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,8,8
+Soles,2015,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,23,23
+Soles,2015,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,6,6
+Soles,2015,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,21,21
+Soles,2015,FINANCIERAS,excluida: TipoSector SMV financiero,entrenamiento,14,14
+Soles,2015,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2015,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,33,33
+Soles,2015,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2015,MINERAS,incluida: sector SMV no financiero,entrenamiento,6,6
+Soles,2015,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2015,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,18,18
+Soles,2015,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2015,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,18,18
+Soles,2015,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2016,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2016,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,11,11
+Soles,2016,BANCOS,excluida: TipoSector SMV financiero,entrenamiento,19,19
+Soles,2016,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2016,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,9,9
+Soles,2016,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,23,23
+Soles,2016,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,4,4
+Soles,2016,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,23,23
+Soles,2016,FINANCIERAS,excluida: TipoSector SMV financiero,entrenamiento,14,14
+Soles,2016,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,30,30
+Soles,2016,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,3,3
+Soles,2016,MINERAS,incluida: sector SMV no financiero,entrenamiento,7,7
+Soles,2016,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2016,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,20,20
+Soles,2016,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2016,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,17,17
+Soles,2016,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2017,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2017,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,11,11
+Soles,2017,BANCOS,excluida: TipoSector SMV financiero,entrenamiento,19,19
+Soles,2017,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2017,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,9,9
+Soles,2017,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,19,19
+Soles,2017,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,10,10
+Soles,2017,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,22,22
+Soles,2017,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2017,FINANCIERAS,excluida: TipoSector SMV financiero,entrenamiento,14,14
+Soles,2017,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,2,2
+Soles,2017,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,29,29
+Soles,2017,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2017,MINERAS,incluida: sector SMV no financiero,entrenamiento,6,6
+Soles,2017,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2017,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,19,19
+Soles,2017,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,2,2
+Soles,2017,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,17,17
+Soles,2018,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2018,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,12,12
+Soles,2018,BANCOS,excluida: TipoSector SMV financiero,entrenamiento,19,19
+Soles,2018,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2018,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,9,9
+Soles,2018,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,13,13
+Soles,2018,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,5,5
+Soles,2018,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,25,25
+Soles,2018,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2018,FINANCIERAS,excluida: TipoSector SMV financiero,entrenamiento,14,14
+Soles,2018,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,24,24
+Soles,2018,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,5,5
+Soles,2018,MINERAS,incluida: sector SMV no financiero,entrenamiento,6,6
+Soles,2018,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,19,19
+Soles,2018,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2018,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,17,17
+Soles,2019,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2019,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,12,12
+Soles,2019,BANCOS,excluida: TipoSector SMV financiero,entrenamiento,20,20
+Soles,2019,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,9,9
+Soles,2019,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,12,12
+Soles,2019,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,1,1
+Soles,2019,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,26,26
+Soles,2019,FINANCIERAS,excluida: TipoSector SMV financiero,entrenamiento,13,13
+Soles,2019,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2019,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,24,24
+Soles,2019,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2019,MINERAS,incluida: sector SMV no financiero,entrenamiento,6,6
+Soles,2019,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,18,18
+Soles,2019,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,2,2
+Soles,2019,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,17,17
+Soles,2019,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2020,A.F.P.,excluida: TipoSector SMV financiero,entrenamiento,4,4
+Soles,2020,AGRICOLAS,incluida: sector SMV no financiero,entrenamiento,12,12
+Soles,2020,BANCOS,excluida: TipoSector SMV financiero,entrenamiento,21,21
+Soles,2020,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),entrenamiento,10,10
+Soles,2020,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,entrenamiento,8,8
+Soles,2020,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,4,4
+Soles,2020,DIVERSOS,incluida: sector SMV no financiero,entrenamiento,27,27
+Soles,2020,FINANCIERAS,excluida: TipoSector SMV financiero,entrenamiento,15,15
+Soles,2020,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2020,INDUSTRIALES,incluida: sector SMV no financiero,entrenamiento,22,22
+Soles,2020,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,2,2
+Soles,2020,MINERAS,incluida: sector SMV no financiero,entrenamiento,6,6
+Soles,2020,SEGUROS,excluida: TipoSector SMV financiero,entrenamiento,18,18
+Soles,2020,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,entrenamiento,17,17
+Soles,2021,A.F.P.,excluida: TipoSector SMV financiero,prueba,4,4
+Soles,2021,AGRICOLAS,incluida: sector SMV no financiero,prueba,12,12
+Soles,2021,BANCOS,excluida: TipoSector SMV financiero,prueba,18,18
+Soles,2021,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,3,3
+Soles,2021,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),prueba,11,11
+Soles,2021,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,prueba,5,5
+Soles,2021,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,3,3
+Soles,2021,DIVERSOS,incluida: sector SMV no financiero,prueba,26,26
+Soles,2021,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2021,FINANCIERAS,excluida: TipoSector SMV financiero,prueba,15,15
+Soles,2021,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2021,INDUSTRIALES,incluida: sector SMV no financiero,prueba,21,21
+Soles,2021,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2021,MINERAS,incluida: sector SMV no financiero,prueba,6,6
+Soles,2021,SEGUROS,excluida: TipoSector SMV financiero,prueba,17,17
+Soles,2021,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2021,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,prueba,17,17
+Soles,2021,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2022,A.F.P.,excluida: TipoSector SMV financiero,prueba,4,4
+Soles,2022,AGRICOLAS,incluida: sector SMV no financiero,prueba,11,11
+Soles,2022,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2022,BANCOS,excluida: TipoSector SMV financiero,prueba,21,21
+Soles,2022,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2022,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),prueba,12,12
+Soles,2022,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,prueba,2,2
+Soles,2022,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,3,3
+Soles,2022,DIVERSOS,incluida: sector SMV no financiero,prueba,27,27
+Soles,2022,FINANCIERAS,excluida: TipoSector SMV financiero,prueba,15,15
+Soles,2022,INDUSTRIALES,incluida: sector SMV no financiero,prueba,20,20
+Soles,2022,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2022,MINERAS,incluida: sector SMV no financiero,prueba,6,6
+Soles,2022,SEGUROS,excluida: TipoSector SMV financiero,prueba,17,17
+Soles,2022,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,prueba,17,17
+Soles,2022,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2023,A.F.P.,excluida: TipoSector SMV financiero,prueba,4,4
+Soles,2023,AGRICOLAS,incluida: sector SMV no financiero,prueba,12,12
+Soles,2023,BANCOS,excluida: TipoSector SMV financiero,prueba,22,22
+Soles,2023,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),prueba,12,12
+Soles,2023,DIVERSOS,dudosa: DIVERSOS sin CIIU ni actividad documentada,sin_etiqueta_elegible,2,2
+Soles,2023,DIVERSOS,incluida: sector SMV no financiero,prueba,28,28
+Soles,2023,FINANCIERAS,excluida: TipoSector SMV financiero,prueba,13,13
+Soles,2023,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,2,2
+Soles,2023,INDUSTRIALES,incluida: sector SMV no financiero,prueba,19,19
+Soles,2023,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2023,MINERAS,incluida: sector SMV no financiero,prueba,6,6
+Soles,2023,SEGUROS,excluida: TipoSector SMV financiero,prueba,17,17
+Soles,2023,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,prueba,17,17
+Soles,2024,A.F.P.,excluida: TipoSector SMV financiero,prueba,4,4
+Soles,2024,AGRICOLAS,incluida: sector SMV no financiero,prueba,12,12
+Soles,2024,BANCOS,excluida: TipoSector SMV financiero,prueba,21,21
+Soles,2024,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2024,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),prueba,12,12
+Soles,2024,DIVERSOS,incluida: sector SMV no financiero,prueba,25,25
+Soles,2024,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,3,3
+Soles,2024,FINANCIERAS,excluida: TipoSector SMV financiero,prueba,14,14
+Soles,2024,INDUSTRIALES,incluida: sector SMV no financiero,prueba,18,18
+Soles,2024,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,1,1
+Soles,2024,MINERAS,incluida: sector SMV no financiero,prueba,6,6
+Soles,2024,SEGUROS,excluida: TipoSector SMV financiero,prueba,16,16
+Soles,2024,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,1,1
+Soles,2024,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,prueba,17,17
+Soles,2025,A.F.P.,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,4,4
+Soles,2025,AGRICOLAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,12,12
+Soles,2025,BANCOS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,22,22
+Soles,2025,DIVERSOS,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),sin_etiqueta_elegible,14,14
+Soles,2025,DIVERSOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,25,25
+Soles,2025,FINANCIERAS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,14,14
+Soles,2025,INDUSTRIALES,incluida: sector SMV no financiero,sin_etiqueta_elegible,18,18
+Soles,2025,MINERAS,incluida: sector SMV no financiero,sin_etiqueta_elegible,6,6
+Soles,2025,SEGUROS,excluida: TipoSector SMV financiero,sin_etiqueta_elegible,17,17
+Soles,2025,SERVICIOS PUBLICOS,incluida: sector SMV no financiero,sin_etiqueta_elegible,17,17

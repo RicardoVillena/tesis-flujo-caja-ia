@@ -6,7 +6,10 @@ Rama `sprint-09-variantes-importancia`. Este sprint evalúa si las variables mac
 
 1. [informe_sprint_09.md](informe_sprint_09.md): respuestas a las 6 preguntas y estado de las hipótesis.
 2. [matriz_consistencia.md](matriz_consistencia.md): propuesta para revisión académica.
-3. [verificacion.md](verificacion.md): pruebas, reproducción y fallos históricos.
+3. [matriz_operacionalizacion.md](matriz_operacionalizacion.md): definiciones, dimensiones, indicadores, medición, unidades y fuentes de las variables.
+4. [verificacion.md](verificacion.md): pruebas, reproducción y fallos históricos.
+5. [alineacion_investigacion/](alineacion_investigacion/README.md): alineación con el plan de tesis (población no financiera, tamaño, antecedentes, matrices revisadas y viabilidad de valoración probabilística); revisión local exploratoria.
+6. [experimento_final/](experimento_final/README.md): última etapa experimental (formulaciones directa, de corrección de persistencia y relativa; pérdida absoluta; E0–E3 en la población no financiera); revisión local exploratoria.
 
 ## Archivos
 

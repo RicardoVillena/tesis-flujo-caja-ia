@@ -1,0 +1,46 @@
+tipo,RPJ,NombreEmpresa,Ejercicio,Moneda,ActivoTotal_t,FCO_t,objetivo_t1,ratio_objetivo_activo,ratio_fco_activo,estado,decision
+ratio extremo,B20012,COMPAÑIA MINERA RAURA S.A.,2005,Soles,93731,26627,99928,1.0661147325858,0.284078906658416,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,B30236,INDECO S.A.,2020,D lares,143640,113192,180103,1.25384990253411,0.788025619604567,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,B80002,GESTIONES Y RECUPERACIONES DE ACTIVOS SOCIEDAD ANONIMA (RET),2006,Soles,20065,23371,-303,-0.0151009220034887,1.16476451532519,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,B80031,LATINA HOLDING S.A.,2007,Soles,39872,-40946,17,0.000426364365971108,-1.02693619582665,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,CD0009,TRANSACCIONES FINANCIERAS S.A.,2015,Soles,60862,-401,-409369,-6.72618382570405,-0.00658867602116263,sospecha de escala: ActivoTotal 2016 ×1111 con reversión en 2017; identidad contable consistente; no acreditado,sin corrección
+ratio extremo,CM0002,MINERA ANDINA DE EXPLORACIONES S.A.A.,2010,Soles,5883,-258,6183,1.05099439061703,-0.0438551759306476,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,CM0008,GOLD FIELDS LA CIMA S.A.,2005,Soles,75264,-1046,-218299,-2.9004437712585,-0.0138977465986395,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,CM0008,GOLD FIELDS LA CIMA S.A.,2006,Soles,484921,16606,-827954,-1.70739976202309,0.0342447532690892,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,OE3108,EDYFICAR PERU S.A.,2014,Soles,5210448,-82849,-7639533,-1.46619503735571,-0.0159005521214299,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,OE3108,EDYFICAR PERU S.A.,2015,Soles,21430,-7526469,-6378,-0.29762015865609,-351.211805879608,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,OE4159,FOSFATOS DEL PACIFICO S.A.,2009,Soles,16178,-821,-41503,-2.56539745333169,-0.0507479292866856,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,OE4159,FOSFATOS DEL PACIFICO S.A.,2020,Soles,6332,-1332,-6801,-1.07406822488945,-0.210360075805433,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,OE4860,ENERGIA DEL PACIFICO S.A.,2019,D lares,22705,-57409,21,0.000924906408280115,-2.52847390442634,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,OE5008,NISA MALLS S.A.,2012,Soles,9,-36,-21,-2.33333333333333,-4,sospecha: activo casi nulo (identidad contable consistente); posible empresa sin operaciones o escala; no acreditado,sin corrección
+ratio extremo,OE5008,NISA MALLS S.A.,2013,Soles,28,-21,-33,-1.17857142857143,-0.75,sospecha: activo casi nulo (identidad contable consistente); posible empresa sin operaciones o escala; no acreditado,sin corrección
+ratio extremo,OE5100,GRUPO ACP CORP. S.A.,2012,Soles,508,-19,-1099,-2.16338582677165,-0.0374015748031496,no resuelto: ratio extremo sin evidencia de error ni de evento,sin corrección
+ratio extremo,OE6928,FOSSAL S.A.A.,2016,Soles,1,0,385,385,0,sospecha: activo casi nulo (identidad contable consistente); posible empresa sin operaciones o escala; no acreditado,sin corrección
+salto de magnitud (Sprint 08),CD0009,TRANSACCIONES FINANCIERAS S.A.,2016,Soles,,,,,,sospecha de escala (pico con reversión) en ActivoTotal ×1.11e+03,sin corrección
+salto de magnitud (Sprint 08),CD0009,TRANSACCIONES FINANCIERAS S.A.,2017,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en ActivoTotal ×0.0011",sin corrección
+salto de magnitud (Sprint 08),OE3108,EDYFICAR PERU S.A.,2015,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en ActivoTotal ×0.00411",sin corrección
+salto de magnitud (Sprint 08),OE6928,FOSSAL S.A.A.,2017,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en ActivoTotal ×2.7e+05",sin corrección
+salto de magnitud (Sprint 08),020045,ACTIVO INMOBILIARIO PERUANO S.A.A. (ANTES FALABELLA PERU S.A.A.),2015,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×861",sin corrección
+salto de magnitud (Sprint 08),B80002,GESTIONES Y RECUPERACIONES DE ACTIVOS SOCIEDAD ANONIMA (RET),2006,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×0.00198",sin corrección
+salto de magnitud (Sprint 08),B80031,LATINA HOLDING S.A.,2016,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×830",sin corrección
+salto de magnitud (Sprint 08),CD0001,CFI HOLDINGS S.A.,2006,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×227",sin corrección
+salto de magnitud (Sprint 08),CD0009,TRANSACCIONES FINANCIERAS S.A.,2016,Soles,,,,,,sospecha de escala (pico con reversión) en PasivoTotal ×1.48e+03,sin corrección
+salto de magnitud (Sprint 08),CD0009,TRANSACCIONES FINANCIERAS S.A.,2017,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×0.000402",sin corrección
+salto de magnitud (Sprint 08),CN0002,INMOBILIARIA MILENIA S.A.,2011,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×105",sin corrección
+salto de magnitud (Sprint 08),OE3108,EDYFICAR PERU S.A.,2015,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×0.000248",sin corrección
+salto de magnitud (Sprint 08),OE3808,DUNAS ENERGIA S.A.A.,2018,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×122",sin corrección
+salto de magnitud (Sprint 08),OE3808,DUNAS ENERGIA S.A.A.,2020,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×0.00648",sin corrección
+salto de magnitud (Sprint 08),OE4447,LEASING PERU S.A. (EN LIQUIDACION),2011,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×146",sin corrección
+salto de magnitud (Sprint 08),OE4860,ENERGIA DEL PACIFICO S.A.,2019,D lares,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×0.00377",sin corrección
+salto de magnitud (Sprint 08),OE4977,AGROKASA HOLDINGS S.A.,2013,D lares,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×0.00129",sin corrección
+salto de magnitud (Sprint 08),OE4977,AGROKASA HOLDINGS S.A.,2020,D lares,,,,,,"salto sin reversión: evento o escala, no resuelto en PasivoTotal ×0.0079",sin corrección
+salto de magnitud (Sprint 08),B80049,GR HOLDING S.A.,2015,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en TotalIngreso ×0.000232",sin corrección
+salto de magnitud (Sprint 08),B80049,GR HOLDING S.A.,2019,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en TotalIngreso ×236",sin corrección
+salto de magnitud (Sprint 08),CD0010,INTERCORP PERU LTD.,2013,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en TotalIngreso ×0.00521",sin corrección
+salto de magnitud (Sprint 08),OE3108,EDYFICAR PERU S.A.,2015,Soles,,,,,,"salto sin reversión: evento o escala, no resuelto en TotalIngreso ×0.00323",sin corrección
+"empresa con mayor error (persistencia, alineación)",CM0006,SOCIEDAD MINERA CERRO VERDE S.A.A.,,D lares,7554712,820042,,,,proporción del error cuadrático: 59.9%; serie de activo sin saltos ≥100×: volatilidad económica plausible (sector MINERAS); no verificado documentalmente,sin corrección; no se excluye por su error predictivo
+"empresa con mayor error (persistencia, alineación)",B20027,"SOUTHERN PERU COPPER CORPORATION, SUCURSAL DEL PERU",,D lares,5046522,1191523.5,,,,proporción del error cuadrático: 21.6%; serie de activo sin saltos ≥100×: volatilidad económica plausible (sector MINERAS); no verificado documentalmente,sin corrección; no se excluye por su error predictivo
+"empresa con mayor error (persistencia, alineación)",B20003,COMPAÑIA DE MINAS BUENAVENTURA S.A.A.,,D lares,3388183,208822,,,,proporción del error cuadrático: 7.7%; serie de activo sin saltos ≥100×: volatilidad económica plausible (sector MINERAS); no verificado documentalmente,sin corrección; no se excluye por su error predictivo
+"empresa con mayor error (persistencia, alineación)",CM0004,SHOUGANG HIERRO PERU S.A.A.,,Soles,4103907,553280,,,,proporción del error cuadrático: 43.6%; serie de activo sin saltos ≥100×: volatilidad económica plausible (sector MINERAS); no verificado documentalmente,sin corrección; no se excluye por su error predictivo
+"empresa con mayor error (persistencia, alineación)",B30021,UNION DE CERVECERIAS PERUANAS BACKUS Y JOHNSTON S.A.A.,,Soles,3839890,969537.5,,,,proporción del error cuadrático: 37.9%; serie de activo sin saltos ≥100×: volatilidad económica plausible (sector INDUSTRIALES); no verificado documentalmente,sin corrección; no se excluye por su error predictivo
+"empresa con mayor error (persistencia, alineación)",CI0003,CORPORACION ACEROS AREQUIPA S.A.,,Soles,3102797,228478,,,,proporción del error cuadrático: 5.3%; serie de activo sin saltos ≥100×: volatilidad económica plausible (sector INDUSTRIALES); no verificado documentalmente,sin corrección; no se excluye por su error predictivo

@@ -1,0 +1,8 @@
+Moneda,motivo,observaciones,empresas
+D lares,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),5,2
+D lares,dudosa: DIVERSOS sin CIIU ni actividad documentada,50,8
+D lares,incluida: sector SMV no financiero,469,46
+Soles,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),177,14
+Soles,dudosa: DIVERSOS sin CIIU ni actividad documentada,422,59
+Soles,excluida: TipoSector SMV financiero,1076,74
+Soles,incluida: sector SMV no financiero,2022,169

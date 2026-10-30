@@ -1,0 +1,79 @@
+RPJ,motivo,NombreEmpresa,TipoSector,ciiu_empresa,monedas,ejercicios,observaciones,observaciones_entrenamiento
+000432,dudosa: DIVERSOS sin CIIU ni actividad documentada,SUPERMERCADOS PERUANOS S.A.,DIVERSOS,,Soles,2005-2017,13,13
+001672,dudosa: DIVERSOS sin CIIU ni actividad documentada,RANSA COMERCIAL S.A.C,DIVERSOS,,Soles,2005-2010,6,5
+002684,dudosa: DIVERSOS sin CIIU ni actividad documentada,MAQUINARIAS S.A.,DIVERSOS,,Soles,2005-2011,7,6
+003512,dudosa: DIVERSOS sin CIIU ni actividad documentada,INVERSIONES LA RIOJA S.A.,DIVERSOS,,Soles,2008-2017,10,9
+003517,dudosa: DIVERSOS sin CIIU ni actividad documentada,INVERSIONES Y SERVICIOS FINANCIEROS S.A.,DIVERSOS,,Soles,2008-2008,1,0
+014819,dudosa: DIVERSOS sin CIIU ni actividad documentada,FERREYROS SOCIEDAD ANÓNIMA,DIVERSOS,,Soles,2013-2013,1,0
+020045,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),ACTIVO INMOBILIARIO PERUANO S.A.A. (ANTES FALABELLA PERU S.A.A.),DIVERSOS,6719,Soles,2005-2025,21,16
+020899,dudosa: DIVERSOS sin CIIU ni actividad documentada,CENTROS COMERCIALES DEL PERU S.A.,DIVERSOS,,Soles,2005-2009,5,4
+023106,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),AENZA S.A.A.,DIVERSOS,6719,Soles,2005-2025,21,14
+B30079,dudosa: DIVERSOS sin CIIU ni actividad documentada,BAYER S.A.,DIVERSOS,,Soles,2005-2023,19,16
+B30119,dudosa: DIVERSOS sin CIIU ni actividad documentada,VIDRIOS PLANOS DEL PERU S A,DIVERSOS,,Soles,2005-2005,1,0
+B30121,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),UNACEM CORP SOCIEDAD ANONIMA ABIERTA - UNACEM CORP S.A.A.,DIVERSOS,6420,Soles,2005-2025,21,16
+B30127,dudosa: DIVERSOS sin CIIU ni actividad documentada,INMOBILIARIA KANPU S.A.,DIVERSOS,,Soles,2005-2022,18,16
+B60005,dudosa: DIVERSOS sin CIIU ni actividad documentada,INVERSIONES NACIONALES DE TURISMO S.A. INTURSA,DIVERSOS,,Soles,2005-2020,16,15
+B60051,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),CREDICORP LTD.,DIVERSOS,6599,Soles,2022-2025,4,0
+B60058,dudosa: DIVERSOS sin CIIU ni actividad documentada,CREDITO LEASING S.A.,DIVERSOS,,Soles,2005-2008,4,0
+B70031,dudosa: DIVERSOS sin CIIU ni actividad documentada,PROMOTORA CLUB EMPRESARIAL S.A.,DIVERSOS,,Soles,2005-2009,5,4
+B80002,dudosa: DIVERSOS sin CIIU ni actividad documentada,GESTIONES Y RECUPERACIONES DE ACTIVOS SOCIEDAD ANONIMA (RET),DIVERSOS,,Soles,2005-2008,4,3
+B80007,dudosa: DIVERSOS sin CIIU ni actividad documentada,LIMA SUDAMERIS HOLDING S.A. EN LIQUIDACION,DIVERSOS,,Soles,2005-2005,1,0
+B80013,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),SOLUCION EMPRESA ADMINISTRADORA HIPOTECARIA S.A.,DIVERSOS,6519,Soles,2005-2025,21,9
+B80031,dudosa: DIVERSOS sin CIIU ni actividad documentada,LATINA HOLDING S.A.,DIVERSOS,,Soles,2005-2018,12,10
+B80057,dudosa: DIVERSOS sin CIIU ni actividad documentada,INVERSIONES ASPI S.A.,DIVERSOS,,D lares;Soles,2005-2015,11,8
+B80136,dudosa: DIVERSOS sin CIIU ni actividad documentada,NEGOCIOS E INMUEBLES S.A.,DIVERSOS,,Soles,2005-2017,13,11
+B90002,dudosa: DIVERSOS sin CIIU ni actividad documentada,RED BICOLOR DE COMUNICACIONES S.A.A. - RBC TV S.A.A.,DIVERSOS,,Soles,2005-2020,15,13
+BV0001,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),GRUPO BVL S.A.A.,DIVERSOS,6712,Soles,2005-2025,21,16
+CD0001,dudosa: DIVERSOS sin CIIU ni actividad documentada,CFI HOLDINGS S.A.,DIVERSOS,,D lares;Soles,2005-2020,16,14
+CD0008,dudosa: DIVERSOS sin CIIU ni actividad documentada,TRANSACCIONES ESPECIALES S.A. (RET),DIVERSOS,,Soles,2006-2009,4,3
+CD0009,dudosa: DIVERSOS sin CIIU ni actividad documentada,TRANSACCIONES FINANCIERAS S.A.,DIVERSOS,,Soles,2006-2018,13,10
+CD0010,dudosa: DIVERSOS sin CIIU ni actividad documentada,INTERCORP PERU LTD.,DIVERSOS,,Soles,2005-2022,18,9
+CD0020,dudosa: DIVERSOS sin CIIU ni actividad documentada,CONECTA RETAIL S.A.,DIVERSOS,,Soles,2005-2018,13,11
+CN0002,dudosa: DIVERSOS sin CIIU ni actividad documentada,INMOBILIARIA MILENIA S.A.,DIVERSOS,,Soles,2005-2018,14,13
+CP0009,dudosa: DIVERSOS sin CIIU ni actividad documentada,SOUTHERN CONE POWER PERU S.A.,DIVERSOS,,D lares;Soles,2005-2011,7,3
+J00121,dudosa: DIVERSOS sin CIIU ni actividad documentada,LIMA GAS S.A.,DIVERSOS,,Soles,2008-2016,9,8
+J00123,dudosa: DIVERSOS sin CIIU ni actividad documentada,RASH PERU S.A.C.,DIVERSOS,,Soles,2009-2015,7,4
+J00188,dudosa: DIVERSOS sin CIIU ni actividad documentada,MONTANA S A,DIVERSOS,,Soles,2010-2010,1,0
+J00194,dudosa: DIVERSOS sin CIIU ni actividad documentada,INMUEBLES COMERCIALES DEL PERU S.A.C.,DIVERSOS,,Soles,2010-2015,6,5
+J01554,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),NUAM INTERNACIONAL SPA,DIVERSOS,6430,Soles,2025-2025,1,0
+J40451,dudosa: DIVERSOS sin CIIU ni actividad documentada,NESSUS HOTELES PERU S.A.,DIVERSOS,,Soles,2014-2022,9,7
+J40582,dudosa: DIVERSOS sin CIIU ni actividad documentada,ICCGSA INVERSIONES S.A.,DIVERSOS,,Soles,2014-2019,6,5
+J40778,dudosa: DIVERSOS sin CIIU ni actividad documentada,INTEROC SOCIEDAD ANONIMA,DIVERSOS,,Soles,2015-2015,1,0
+J40846,dudosa: DIVERSOS sin CIIU ni actividad documentada,INVERSIONES EDUCA S.A.,DIVERSOS,,Soles,2016-2021,6,5
+J40866,dudosa: DIVERSOS sin CIIU ni actividad documentada,ENFOCA SERVICIOS LOGISTICOS S.A.,DIVERSOS,,Soles,2017-2021,5,4
+J40908,dudosa: DIVERSOS sin CIIU ni actividad documentada,NISA INMUEBLES S.A,DIVERSOS,,Soles,2017-2017,1,0
+J40909,dudosa: DIVERSOS sin CIIU ni actividad documentada,NISA BLINDADOS S.A.,DIVERSOS,,Soles,2017-2018,2,1
+J41105,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),INVERFAL PERU S.A.A.,DIVERSOS,6420,Soles,2020-2025,6,1
+L00179,dudosa: DIVERSOS sin CIIU ni actividad documentada,OBRAS DE INGENIERIA S.A.C.,DIVERSOS,,Soles,2014-2020,7,6
+L00873,dudosa: DIVERSOS sin CIIU ni actividad documentada,SERVICIOS GENERALES SATURNO S.A.,DIVERSOS,,D lares,2015-2017,3,2
+L02127,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),INVERSIONES PORTUARIAS CHANCAY S.A.A.,DIVERSOS,6599,D lares,2023-2025,3,0
+L02363,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),INVERPERU INMOBILIARIA S.A.A.,DIVERSOS,6420,Soles,2025-2025,1,0
+OE0032,dudosa: DIVERSOS sin CIIU ni actividad documentada,UNIVERSIDAD DE SAN MARTIN DE PORRES,DIVERSOS,,Soles,2005-2012,8,5
+OE0868,dudosa: DIVERSOS sin CIIU ni actividad documentada,INMOBILIARIA PARIACHI S.A.,DIVERSOS,,Soles,2005-2005,1,0
+OE1181,dudosa: DIVERSOS sin CIIU ni actividad documentada,TELEFONICA MOVILES PERU HOLDING S.A.A.,DIVERSOS,,Soles,2005-2007,3,2
+OE1274,dudosa: DIVERSOS sin CIIU ni actividad documentada,INMUEBLES PANAMERICANA S.A.,DIVERSOS,,Soles,2005-2017,13,12
+OE1566,dudosa: DIVERSOS sin CIIU ni actividad documentada,CORPORACION FUNERARIA S.A.,DIVERSOS,,Soles,2005-2017,13,12
+OE1679,dudosa: DIVERSOS sin CIIU ni actividad documentada,HIPERMERCADOS TOTTUS S.A,DIVERSOS,,Soles,2011-2014,4,3
+OE2008,dudosa: DIVERSOS sin CIIU ni actividad documentada,PLUSPETROL CAMISEA S.A.,DIVERSOS,,D lares,2005-2016,12,9
+OE2009,dudosa: DIVERSOS sin CIIU ni actividad documentada,PLUSPETROL LOTE 56 S.A.,DIVERSOS,,D lares,2010-2015,6,4
+OE2305,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),INTERCORP FINANCIAL SERVICES INC.,DIVERSOS,6599,Soles,2007-2025,19,9
+OE2701,dudosa: DIVERSOS sin CIIU ni actividad documentada,TOTAL ARTEFACTOS S.A.,DIVERSOS,,Soles,2008-2011,4,3
+OE3108,dudosa: DIVERSOS sin CIIU ni actividad documentada,EDYFICAR PERU S.A.,DIVERSOS,,Soles,2007-2016,10,4
+OE3895,dudosa: DIVERSOS sin CIIU ni actividad documentada,TIENDAS DEL MEJORAMIENTO DEL HOGAR S.A.,DIVERSOS,,Soles,2008-2015,8,6
+OE3986,dudosa: DIVERSOS sin CIIU ni actividad documentada,HIPOTECARIA SURA EMPRESA ADMINISTRADORA HIPOTECARIA S.A. - EN LIQUIDACION,DIVERSOS,,Soles,2009-2017,9,3
+OE4139,dudosa: DIVERSOS sin CIIU ni actividad documentada,PERU LNG S.R.L.,DIVERSOS,,D lares;Soles,2009-2017,9,6
+OE4206,dudosa: DIVERSOS sin CIIU ni actividad documentada,CENCOSUD PERU S.A.,DIVERSOS,,Soles,2009-2012,4,3
+OE4447,dudosa: DIVERSOS sin CIIU ni actividad documentada,LEASING PERU S.A. (EN LIQUIDACION),DIVERSOS,,Soles,2010-2016,7,4
+OE4746,dudosa: DIVERSOS sin CIIU ni actividad documentada,FACTORING TOTAL S.A. (SOCIEDAD ABSORBIDA),DIVERSOS,,Soles,2013-2021,9,8
+OE4908,dudosa: DIVERSOS sin CIIU ni actividad documentada,COMERCIAL DEL ACERO S.A.C.,DIVERSOS,,Soles,2011-2017,7,6
+OE4977,dudosa: DIVERSOS sin CIIU ni actividad documentada,AGROKASA HOLDINGS S.A.,DIVERSOS,,D lares,2012-2022,11,9
+OE5008,dudosa: DIVERSOS sin CIIU ni actividad documentada,NISA MALLS S.A.,DIVERSOS,,Soles,2012-2017,5,3
+OE5087,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),INRETAIL PERU CORP.,DIVERSOS,6719,Soles,2012-2025,14,9
+OE5100,dudosa: DIVERSOS sin CIIU ni actividad documentada,GRUPO ACP CORP. S.A.,DIVERSOS,,Soles,2012-2013,2,1
+OE5132,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),CREDICORP CAPITAL PERU S.A.A.,DIVERSOS,6599,D lares;Soles,2012-2025,14,8
+OE5176,dudosa: DIVERSOS sin CIIU ni actividad documentada,BRAJA CONSTRUCTORA INMOBILIARIA SOCIEDAD ANONIMA,DIVERSOS,,Soles,2012-2013,2,1
+OE5446,dudosa: DIVERSOS sin CIIU ni actividad documentada,LA TINKA S.A. (ANTES INTRALOT DE PERU S.A.),DIVERSOS,,Soles,2016-2020,5,4
+OE5506,dudosa: DIVERSOS sin CIIU ni actividad documentada,COLEGIOS PERUANOS S.A.,DIVERSOS,,Soles,2015-2023,9,6
+OE6804,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),FACTOTAL PERU S.A.,DIVERSOS,6599,Soles,2021-2025,5,0
+OE6928,dudosa: DIVERSOS con CIIU 64–67 (financiero u holding; CIIU no acredita actividad principal),FOSSAL S.A.A.,DIVERSOS,6420,Soles,2016-2025,10,5
+OE7005,dudosa: DIVERSOS sin CIIU ni actividad documentada,NISA ASSET MANAGEMENT S.A.,DIVERSOS,,Soles,2017-2017,1,0

@@ -1,0 +1,16 @@
+{
+  "filas_panel": 4221,
+  "violaciones_identidad_activo_pasivo_patrimonio": 0,
+  "ratio_objetivo_activo_cuantiles": {
+    "0.01": -0.4785,
+    "0.05": -0.1234,
+    "0.5": 0.0325,
+    "0.95": 0.2653,
+    "0.99": 0.5162
+  },
+  "filas_ratio_mayor_1": 13,
+  "filas_fco_activo_mayor_1": 5,
+  "campo_unidad_en_xml_smv": false,
+  "errores_acreditados": 0,
+  "version_derivada": false
+}

@@ -1,0 +1,10 @@
+{
+  "procedimiento": "persistencia|boosting_abs:E1",
+  "filas_por_moneda": {
+    "D lares": 119,
+    "Soles": 547
+  },
+  "max_diferencia_relativa_prediccion_completa": 4.501161582775569e-15,
+  "metricas_anuales_reproducidas": 10,
+  "retiros_por_moneda_y_anio": 25
+}

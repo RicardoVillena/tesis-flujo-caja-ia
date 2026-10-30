@@ -1,0 +1,626 @@
+{
+  "version": "Sprint 09 — alineación con el plan de investigación; protocolo fijado antes de ejecutar",
+  "caracter": "EXPLORATORIO: años externos 2017–2021 ya examinados (Sprints 08 y 09); prueba 2022–2025 no se usa; el cambio de población no se presenta como mejora confirmada.",
+  "poblacion": {
+    "fuente_plan": "El plan de tesis excluye empresas del sector financiero y bancario.",
+    "regla_principal": "no_financiera: excluir filas con TipoSector SMV en ['BANCOS', 'SEGUROS', 'FINANCIERAS', 'A.F.P.']; ninguna empresa cambia de TipoSector en el panel",
+    "por_que_no_solo_bancos": "BANCOS es una de cuatro categorías financieras SMV; SEGUROS, FINANCIERAS y A.F.P. también se excluyen",
+    "dudosas": "DIVERSOS con CIIU (2023–2025) en divisiones ['64', '65', '66', '67'] o sin CIIU ni actividad documentada: se listan y se conservan en la población principal; el CIIU mezcla revisiones y asigna 6719/6599/6420 a holdings no financieros (p. ej. AENZA, InRetail, UNACEM Corp), por lo que no acredita actividad principal",
+    "sensibilidad": "conservadora: además excluye las empresas DIVERSOS con CIIU 64–67 (solo línea 1)",
+    "filas_originales": "se conservan las 4.221 filas; los filtros se aplican solo al experimento"
+  },
+  "lineas": {
+    "linea_1": "E0, E1, E2 y E3 de Sprint 09 sobre la población no financiera (y conservadora como sensibilidad)",
+    "linea_2": "tamaño = ln(ActivoTotal(t)); E0T = E0 + tamaño, E2T = E2 + tamaño; apalancamiento ya incluido en E0 como pasivo_activo (= LEV de Ali, 2026); reservas de efectivo: no hay efectivo y equivalentes en el panel ni en los XML SMV disponibles → no evaluable; no se sustituye por FCO",
+    "linea_3": "NO implementada: Pham (2026) estudia ln(precio) mensual con índices de incertidumbre global (WUI, GPR, ESGUI, WSI) no disponibles en el panel; el objetivo (FCL anual) y las variables externas disponibles no reproducen ese diseño; una interacción tamaño × externos sería una búsqueda sin fundamento suficiente"
+  },
+  "variantes": {
+    "E0": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa"
+    ],
+    "E1": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa",
+      "inflacion_lima_dic_dic_pct",
+      "tipo_cambio_promedio_soles_usd",
+      "tasa_referencia_promedio_pct",
+      "crecimiento_pbi_real_pct"
+    ],
+    "E2": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa",
+      "inflacion_lima_dic_dic_pct",
+      "tipo_cambio_promedio_soles_usd",
+      "tasa_referencia_promedio_pct",
+      "crecimiento_pbi_real_pct",
+      "rentabilidad_indice_anual_pct",
+      "volatilidad_diaria_anualizada_pct",
+      "monto_renta_variable_anual_millones_pen"
+    ],
+    "E3": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa",
+      "rentabilidad_indice_anual_pct",
+      "volatilidad_diaria_anualizada_pct",
+      "monto_renta_variable_anual_millones_pen"
+    ],
+    "E0T": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa",
+      "log_activo_total"
+    ],
+    "E2T": [
+      "pasivo_activo",
+      "margen_neto",
+      "rentabilidad_activo_cierre",
+      "rotacion_activo_cierre",
+      "fco_activo",
+      "fco_ingresos",
+      "inversion_capex_activo",
+      "crecimiento_ActivoTotal",
+      "crecimiento_TotalIngreso",
+      "cambio_FCO_activo_previo",
+      "FCO_lag1",
+      "FCO_lag2",
+      "FCO_lag3",
+      "FCO_std3_previa",
+      "cambio_FCL_preliminar_activo_previo",
+      "FCL_preliminar_lag1",
+      "FCL_preliminar_lag2",
+      "FCL_preliminar_lag3",
+      "FCL_preliminar_std3_previa",
+      "inflacion_lima_dic_dic_pct",
+      "tipo_cambio_promedio_soles_usd",
+      "tasa_referencia_promedio_pct",
+      "crecimiento_pbi_real_pct",
+      "rentabilidad_indice_anual_pct",
+      "volatilidad_diaria_anualizada_pct",
+      "monto_renta_variable_anual_millones_pen",
+      "log_activo_total"
+    ]
+  },
+  "experimentos": {
+    "no_financiera": [
+      "E0",
+      "E1",
+      "E2",
+      "E3",
+      "E0T",
+      "E2T"
+    ],
+    "conservadora": [
+      "E0",
+      "E1",
+      "E2",
+      "E3"
+    ]
+  },
+  "modelos": [
+    "ridge",
+    "boosting"
+  ],
+  "rejillas": {
+    "ridge": [
+      {
+        "alpha": 1000000.0
+      },
+      {
+        "alpha": 100000.0
+      },
+      {
+        "alpha": 10000.0
+      },
+      {
+        "alpha": 1000.0
+      },
+      {
+        "alpha": 100.0
+      },
+      {
+        "alpha": 10.0
+      },
+      {
+        "alpha": 1.0
+      },
+      {
+        "alpha": 0.1
+      }
+    ],
+    "boosting": [
+      {
+        "max_depth": 2,
+        "max_iter": 100,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 100,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 300,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 2,
+        "max_iter": 300,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 100,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 100,
+        "l2_regularization": 0.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 300,
+        "l2_regularization": 10.0
+      },
+      {
+        "max_depth": 3,
+        "max_iter": 300,
+        "l2_regularization": 0.0
+      }
+    ]
+  },
+  "validacion": "anidada del Sprint 08/09: años externos 2017–2021; 3 años internos expansivos con >= 8 años de historia; mismo presupuesto (8 configuraciones) por variante",
+  "preparacion": "Ridge: mediana + StandardScaler dentro del pipeline; boosting: NaN nativos; el tamaño es una transformación determinista por fila; objetivo sin transformar",
+  "referencias": "media histórica y persistencia (definiciones verificadas en Sprint 08), por población",
+  "importancia": "población no financiera, E2T con configuración congelada por pliegue: retirada individual (27 atributos) y por bloques (financiero, tamaño, macroeconómico, bursátil); signo: delta_RMSE = RMSE_sin − RMSE_completo (positivo = aporta); externos no se permutan",
+  "comparaciones": [
+    {
+      "candidato": "no_financiera|ridge:E1",
+      "comparador": "no_financiera|ridge:E0",
+      "pregunta": "no_financiera: aporte macroeconómico"
+    },
+    {
+      "candidato": "no_financiera|ridge:E3",
+      "comparador": "no_financiera|ridge:E0",
+      "pregunta": "no_financiera: aporte bursátil"
+    },
+    {
+      "candidato": "no_financiera|ridge:E2",
+      "comparador": "no_financiera|ridge:E1",
+      "pregunta": "no_financiera: aporte bursátil sobre macro"
+    },
+    {
+      "candidato": "no_financiera|ridge:E2",
+      "comparador": "no_financiera|ridge:E0",
+      "pregunta": "no_financiera: aporte externo conjunto"
+    },
+    {
+      "candidato": "no_financiera|ridge:E0T",
+      "comparador": "no_financiera|ridge:E0",
+      "pregunta": "no_financiera: aporte del tamaño sobre financieros"
+    },
+    {
+      "candidato": "no_financiera|ridge:E2T",
+      "comparador": "no_financiera|ridge:E2",
+      "pregunta": "no_financiera: aporte del tamaño sobre E2"
+    },
+    {
+      "candidato": "no_financiera|ridge:E2T",
+      "comparador": "no_financiera|ridge:E0T",
+      "pregunta": "no_financiera: aporte externo con tamaño"
+    },
+    {
+      "candidato": "no_financiera|ridge:E0",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E0",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E1",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E1",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E2",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E2",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E3",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E3",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E0T",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E0T",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E2T",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|ridge:E2T",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E1",
+      "comparador": "no_financiera|boosting:E0",
+      "pregunta": "no_financiera: aporte macroeconómico"
+    },
+    {
+      "candidato": "no_financiera|boosting:E3",
+      "comparador": "no_financiera|boosting:E0",
+      "pregunta": "no_financiera: aporte bursátil"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2",
+      "comparador": "no_financiera|boosting:E1",
+      "pregunta": "no_financiera: aporte bursátil sobre macro"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2",
+      "comparador": "no_financiera|boosting:E0",
+      "pregunta": "no_financiera: aporte externo conjunto"
+    },
+    {
+      "candidato": "no_financiera|boosting:E0T",
+      "comparador": "no_financiera|boosting:E0",
+      "pregunta": "no_financiera: aporte del tamaño sobre financieros"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2T",
+      "comparador": "no_financiera|boosting:E2",
+      "pregunta": "no_financiera: aporte del tamaño sobre E2"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2T",
+      "comparador": "no_financiera|boosting:E0T",
+      "pregunta": "no_financiera: aporte externo con tamaño"
+    },
+    {
+      "candidato": "no_financiera|boosting:E0",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E0",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E1",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E1",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E3",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E3",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E0T",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E0T",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2T",
+      "comparador": "no_financiera|media_historica",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2T",
+      "comparador": "no_financiera|persistencia",
+      "pregunta": "no_financiera: frente a referencia simple"
+    },
+    {
+      "candidato": "no_financiera|boosting:E0",
+      "comparador": "no_financiera|ridge:E0",
+      "pregunta": "no_financiera: algoritmo (misma variante)"
+    },
+    {
+      "candidato": "no_financiera|boosting:E1",
+      "comparador": "no_financiera|ridge:E1",
+      "pregunta": "no_financiera: algoritmo (misma variante)"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2",
+      "comparador": "no_financiera|ridge:E2",
+      "pregunta": "no_financiera: algoritmo (misma variante)"
+    },
+    {
+      "candidato": "no_financiera|boosting:E3",
+      "comparador": "no_financiera|ridge:E3",
+      "pregunta": "no_financiera: algoritmo (misma variante)"
+    },
+    {
+      "candidato": "no_financiera|boosting:E0T",
+      "comparador": "no_financiera|ridge:E0T",
+      "pregunta": "no_financiera: algoritmo (misma variante)"
+    },
+    {
+      "candidato": "no_financiera|boosting:E2T",
+      "comparador": "no_financiera|ridge:E2T",
+      "pregunta": "no_financiera: algoritmo (misma variante)"
+    },
+    {
+      "candidato": "conservadora|ridge:E1",
+      "comparador": "conservadora|ridge:E0",
+      "pregunta": "conservadora: aporte macroeconómico"
+    },
+    {
+      "candidato": "conservadora|ridge:E3",
+      "comparador": "conservadora|ridge:E0",
+      "pregunta": "conservadora: aporte bursátil"
+    },
+    {
+      "candidato": "conservadora|ridge:E2",
+      "comparador": "conservadora|ridge:E1",
+      "pregunta": "conservadora: aporte bursátil sobre macro"
+    },
+    {
+      "candidato": "conservadora|ridge:E2",
+      "comparador": "conservadora|ridge:E0",
+      "pregunta": "conservadora: aporte externo conjunto"
+    },
+    {
+      "candidato": "conservadora|ridge:E0",
+      "comparador": "conservadora|media_historica",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|ridge:E0",
+      "comparador": "conservadora|persistencia",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|ridge:E1",
+      "comparador": "conservadora|media_historica",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|ridge:E1",
+      "comparador": "conservadora|persistencia",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|ridge:E2",
+      "comparador": "conservadora|media_historica",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|ridge:E2",
+      "comparador": "conservadora|persistencia",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|ridge:E3",
+      "comparador": "conservadora|media_historica",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|ridge:E3",
+      "comparador": "conservadora|persistencia",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|boosting:E1",
+      "comparador": "conservadora|boosting:E0",
+      "pregunta": "conservadora: aporte macroeconómico"
+    },
+    {
+      "candidato": "conservadora|boosting:E3",
+      "comparador": "conservadora|boosting:E0",
+      "pregunta": "conservadora: aporte bursátil"
+    },
+    {
+      "candidato": "conservadora|boosting:E2",
+      "comparador": "conservadora|boosting:E1",
+      "pregunta": "conservadora: aporte bursátil sobre macro"
+    },
+    {
+      "candidato": "conservadora|boosting:E2",
+      "comparador": "conservadora|boosting:E0",
+      "pregunta": "conservadora: aporte externo conjunto"
+    },
+    {
+      "candidato": "conservadora|boosting:E0",
+      "comparador": "conservadora|media_historica",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|boosting:E0",
+      "comparador": "conservadora|persistencia",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|boosting:E1",
+      "comparador": "conservadora|media_historica",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|boosting:E1",
+      "comparador": "conservadora|persistencia",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|boosting:E2",
+      "comparador": "conservadora|media_historica",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|boosting:E2",
+      "comparador": "conservadora|persistencia",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|boosting:E3",
+      "comparador": "conservadora|media_historica",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|boosting:E3",
+      "comparador": "conservadora|persistencia",
+      "pregunta": "conservadora: frente a referencia simple"
+    },
+    {
+      "candidato": "conservadora|boosting:E0",
+      "comparador": "conservadora|ridge:E0",
+      "pregunta": "conservadora: algoritmo (misma variante)"
+    },
+    {
+      "candidato": "conservadora|boosting:E1",
+      "comparador": "conservadora|ridge:E1",
+      "pregunta": "conservadora: algoritmo (misma variante)"
+    },
+    {
+      "candidato": "conservadora|boosting:E2",
+      "comparador": "conservadora|ridge:E2",
+      "pregunta": "conservadora: algoritmo (misma variante)"
+    },
+    {
+      "candidato": "conservadora|boosting:E3",
+      "comparador": "conservadora|ridge:E3",
+      "pregunta": "conservadora: algoritmo (misma variante)"
+    }
+  ],
+  "regla": "mejora consistente si RMSE anual medio <= -1 %, menor RMSE en >= 4 de 5 años y MAE anual medio no mayor (Sprint 08; no es significancia)",
+  "objetivo": "FCL preliminar t+1 (FCO + CAPEX reportado), no FCFF validado ni valor intrínseco"
+}

@@ -1,0 +1,183 @@
+Inicio: 2026-10-30T17:07:39-05:00
+Comando: OMP_NUM_THREADS=1 python -m unittest discover -s tests -v
+HEAD: 9e1fee3 | cambios locales sin commit
+
+test_admissible_choice_skips_unstable_best_candidate (test_ablacion_variables.AblationTests.test_admissible_choice_skips_unstable_best_candidate) ... ok
+test_backward_elimination_consistent_with_history (test_ablacion_variables.AblationTests.test_backward_elimination_consistent_with_history) ... ok
+test_classification_rule (test_ablacion_variables.AblationTests.test_classification_rule) ... ok
+test_each_ablation_removes_exactly_its_attribute (test_ablacion_variables.AblationTests.test_each_ablation_removes_exactly_its_attribute) ... ok
+test_fast_inner_ridge_equals_fresh_pipeline (test_ablacion_variables.AblationTests.test_fast_inner_ridge_equals_fresh_pipeline) ... ok
+test_future_years_do_not_change_past_selections (test_ablacion_variables.AblationTests.test_future_years_do_not_change_past_selections) ... ok
+test_imputation_and_scaling_fit_only_on_fold_training (test_ablacion_variables.AblationTests.test_imputation_and_scaling_fit_only_on_fold_training) ... ok
+test_joint_removal_uses_same_rows_and_reference (test_ablacion_variables.AblationTests.test_joint_removal_uses_same_rows_and_reference) ... ok
+test_metrics_and_sign_of_differences (test_ablacion_variables.AblationTests.test_metrics_and_sign_of_differences) ... ok
+test_nested_ignores_test_partition (test_ablacion_variables.AblationTests.test_nested_ignores_test_partition) ... ok
+test_nested_internal_and_external_separation (test_ablacion_variables.AblationTests.test_nested_internal_and_external_separation) ... ok
+test_nested_metrics_and_paired_differences (test_ablacion_variables.AblationTests.test_nested_metrics_and_paired_differences) ... ok
+test_notebook_structure_and_execution (test_ablacion_variables.AblationTests.test_notebook_structure_and_execution) ... ok
+test_only_training_rows_enter_training_or_validation (test_ablacion_variables.AblationTests.test_only_training_rows_enter_training_or_validation) ... ok
+test_reference_replicates_sprint06_and_outputs_reproducible (test_ablacion_variables.AblationTests.test_reference_replicates_sprint06_and_outputs_reproducible) ... ok
+test_revision_ignores_test_partition_and_future (test_ablacion_variables.AblationTests.test_revision_ignores_test_partition_and_future) ... ok
+test_revision_selection_history_and_grid (test_ablacion_variables.AblationTests.test_revision_selection_history_and_grid) ... ok
+test_same_validation_rows_for_every_variant (test_ablacion_variables.AblationTests.test_same_validation_rows_for_every_variant) ... ok
+test_simple_references_and_fcl_t_definition (test_ablacion_variables.AblationTests.test_simple_references_and_fcl_t_definition) ... ok
+test_test_perturbation_does_not_change_results_and_contamination_is_rejected (test_ablacion_variables.AblationTests.test_test_perturbation_does_not_change_results_and_contamination_is_rejected) ... ok
+test_training_precedes_validation_and_folds_match_sprint06 (test_ablacion_variables.AblationTests.test_training_precedes_validation_and_folds_match_sprint06) ... ok
+test_attributes_and_transformations (test_alineacion_investigacion.AlineacionTests.test_attributes_and_transformations) ... ok
+test_importance_coverage_and_sign (test_alineacion_investigacion.AlineacionTests.test_importance_coverage_and_sign) ... ok
+test_metrics_reconstruct_from_predictions (test_alineacion_investigacion.AlineacionTests.test_metrics_reconstruct_from_predictions) ... ok
+test_no_learning_from_test_or_future (test_alineacion_investigacion.AlineacionTests.test_no_learning_from_test_or_future) ... no_financiera D lares 2017 completado
+no_financiera D lares 2018 completado
+conservadora D lares 2017 completado
+conservadora D lares 2018 completado
+no_financiera D lares 2017 completado
+no_financiera D lares 2018 completado
+conservadora D lares 2017 completado
+conservadora D lares 2018 completado
+no_financiera D lares 2017 completado
+no_financiera D lares 2018 completado
+conservadora D lares 2017 completado
+conservadora D lares 2018 completado
+ok
+test_protocol_versioned (test_alineacion_investigacion.AlineacionTests.test_protocol_versioned) ... ok
+test_reproduces_sprint09_for_dollars (test_alineacion_investigacion.AlineacionTests.test_reproduces_sprint09_for_dollars) ... ok
+test_same_samples_between_variants (test_alineacion_investigacion.AlineacionTests.test_same_samples_between_variants) ... ok
+test_sector_filter_rule_and_traceability (test_alineacion_investigacion.AlineacionTests.test_sector_filter_rule_and_traceability) ... ok
+test_temporal_separation (test_alineacion_investigacion.AlineacionTests.test_temporal_separation) ... ok
+test_dictionary_evidence_is_locatable (test_auditoria_calidad.AuditQualityTests.test_dictionary_evidence_is_locatable) ... ok
+test_e2_specification_and_target_integrity (test_auditoria_calidad.AuditQualityTests.test_e2_specification_and_target_integrity) ... ok
+test_findings_and_summary_separate_proven_from_suspected (test_auditoria_calidad.AuditQualityTests.test_findings_and_summary_separate_proven_from_suspected) ... ok
+test_missing_causes_cover_every_missing_cell (test_auditoria_calidad.AuditQualityTests.test_missing_causes_cover_every_missing_cell) ... ok
+test_notebook_structure_and_execution (test_auditoria_calidad.AuditQualityTests.test_notebook_structure_and_execution) ... ok
+test_pairs_leave_one_out_and_sample_sizes (test_auditoria_calidad.AuditQualityTests.test_pairs_leave_one_out_and_sample_sizes) ... ok
+test_perturbation_really_changes_test_data (test_auditoria_calidad.AuditQualityTests.test_perturbation_really_changes_test_data) ... ok
+test_positive_control_contaminated_training_is_detected (test_auditoria_calidad.AuditQualityTests.test_positive_control_contaminated_training_is_detected) ... ok
+test_positive_control_unrestricted_history_is_detected (test_auditoria_calidad.AuditQualityTests.test_positive_control_unrestricted_history_is_detected) ... ok
+test_prior_files_intact_against_head_and_pre_edit_reference (test_auditoria_calidad.AuditQualityTests.test_prior_files_intact_against_head_and_pre_edit_reference) ... FAIL
+test_reproducible_outputs (test_auditoria_calidad.AuditQualityTests.test_reproducible_outputs) ... ok
+test_small_denominator_cases_are_identifiable_and_train_only (test_auditoria_calidad.AuditQualityTests.test_small_denominator_cases_are_identifiable_and_train_only) ... ok
+test_statistics_independently (test_auditoria_calidad.AuditQualityTests.test_statistics_independently) ... ok
+test_temporal_classification_rules (test_auditoria_calidad.AuditQualityTests.test_temporal_classification_rules) ... ok
+test_test_and_future_perturbation_cannot_change_diagnostics (test_auditoria_calidad.AuditQualityTests.test_test_and_future_perturbation_cannot_change_diagnostics) ... ok
+test_vif_and_condition_number_match_independent_computation (test_auditoria_calidad.AuditQualityTests.test_vif_and_condition_number_match_independent_computation) ... ok
+test_ambiguos_pendientes_y_vocabulario_oficial (test_clasificacion_sectorial.SectorialTest.test_ambiguos_pendientes_y_vocabulario_oficial) ... ok
+test_conflicto_sector_o_ruc_queda_pendiente (test_clasificacion_sectorial.SectorialTest.test_conflicto_sector_o_ruc_queda_pendiente) ... ok
+test_duplicado_rechazado (test_clasificacion_sectorial.SectorialTest.test_duplicado_rechazado) ... ok
+test_no_clasifica_por_nombre_ni_propaga_ciiu (test_clasificacion_sectorial.SectorialTest.test_no_clasifica_por_nombre_ni_propaga_ciiu) ... ok
+test_normalizacion_no_inventa_revision (test_clasificacion_sectorial.SectorialTest.test_normalizacion_no_inventa_revision) ... ok
+test_notebook_formato_y_sin_entrenamiento (test_clasificacion_sectorial.SectorialTest.test_notebook_formato_y_sin_entrenamiento) ... ok
+test_reproducibilidad_fuentes_y_salida_exacta (test_clasificacion_sectorial.SectorialTest.test_reproducibilidad_fuentes_y_salida_exacta) ... FAIL
+test_union_preserva_todas_columnas_y_particiones (test_clasificacion_sectorial.SectorialTest.test_union_preserva_todas_columnas_y_particiones) ... ok
+test_convergence_and_no_random_validation (test_comparacion_modelos.ComparisonTests.test_convergence_and_no_random_validation) ... ok
+test_csv_and_report_express_the_same_decision (test_comparacion_modelos.ComparisonTests.test_csv_and_report_express_the_same_decision) ... ok
+test_finite_predictions_and_metrics (test_comparacion_modelos.ComparisonTests.test_finite_predictions_and_metrics) ... ok
+test_future_years_do_not_affect_earlier_fits (test_comparacion_modelos.ComparisonTests.test_future_years_do_not_affect_earlier_fits) ... ok
+test_internal_and_external_separation (test_comparacion_modelos.ComparisonTests.test_internal_and_external_separation) ... ok
+test_lowest_rmse_is_not_labeled_consistent_superiority (test_comparacion_modelos.ComparisonTests.test_lowest_rmse_is_not_labeled_consistent_superiority) ... ok
+test_notebook_structure_and_execution (test_comparacion_modelos.ComparisonTests.test_notebook_structure_and_execution) ... ok
+test_preprocessing_and_target_transform_fit_only_on_training (test_comparacion_modelos.ComparisonTests.test_preprocessing_and_target_transform_fit_only_on_training) ... ok
+test_references_and_ridge_reproduce_revision (test_comparacion_modelos.ComparisonTests.test_references_and_ridge_reproduce_revision) ... ok
+test_reproducible_outputs (test_comparacion_modelos.ComparisonTests.test_reproducible_outputs) ... ok
+test_rule_and_decision (test_comparacion_modelos.ComparisonTests.test_rule_and_decision) ... ok
+test_same_rows_for_all_procedures (test_comparacion_modelos.ComparisonTests.test_same_rows_for_all_procedures) ... ok
+test_soles_keeps_ridge_although_boosting_has_lower_rmse (test_comparacion_modelos.ComparisonTests.test_soles_keeps_ridge_although_boosting_has_lower_rmse) ... ok
+test_test_partition_isolation (test_comparacion_modelos.ComparisonTests.test_test_partition_isolation) ... ok
+test_tie_break_prefers_simpler_configuration (test_comparacion_modelos.ComparisonTests.test_tie_break_prefers_simpler_configuration) ... ok
+test_all_22_against_hand_calculation (test_delivery.DeliveryTest.test_all_22_against_hand_calculation) ... ok
+test_delivery_csv_preserves_every_row_source_and_nan (test_delivery.DeliveryTest.test_delivery_csv_preserves_every_row_source_and_nan) ... ok
+test_ciiu_no_se_imputa_desde_actividad_ni_otro_anio (test_enriquecimiento_sectorial.DocumentaryTest.test_ciiu_no_se_imputa_desde_actividad_ni_otro_anio) ... ok
+test_conflictos_documentales_se_rechazan (test_enriquecimiento_sectorial.DocumentaryTest.test_conflictos_documentales_se_rechazan) ... ok
+test_huecos_sin_evidencia_no_se_interpolan (test_enriquecimiento_sectorial.DocumentaryTest.test_huecos_sin_evidencia_no_se_interpolan) ... ok
+test_maestro_universo_ruc_y_estados_disjuntos (test_enriquecimiento_sectorial.DocumentaryTest.test_maestro_universo_ruc_y_estados_disjuntos) ... ok
+test_minem_rechaza_celdas_sin_inversion_positiva_y_autoconsumo (test_enriquecimiento_sectorial.DocumentaryTest.test_minem_rechaza_celdas_sin_inversion_positiva_y_autoconsumo) ... ok
+test_no_fuerza_holdings_bancos_ni_perimetro_consolidado (test_enriquecimiento_sectorial.DocumentaryTest.test_no_fuerza_holdings_bancos_ni_perimetro_consolidado) ... ok
+test_reglas_previas_preservadas_sin_reescritura (test_enriquecimiento_sectorial.DocumentaryTest.test_reglas_previas_preservadas_sin_reescritura) ... ok
+test_reproduccion_exacta_catalogos_y_json_sin_red (test_enriquecimiento_sectorial.DocumentaryTest.test_reproduccion_exacta_catalogos_y_json_sin_red) ... FAIL
+test_ruc_no_inventa_extranjeros_y_rechaza_digito_alterado (test_enriquecimiento_sectorial.DocumentaryTest.test_ruc_no_inventa_extranjeros_y_rechaza_digito_alterado) ... ok
+test_tampering_pdf_texto_y_ciiu_no_documentado (test_enriquecimiento_sectorial.DocumentaryTest.test_tampering_pdf_texto_y_ciiu_no_documentado) ... ok
+test_toda_nueva_asignacion_tiene_evidencia_del_mismo_rpj_y_anio (test_enriquecimiento_sectorial.DocumentaryTest.test_toda_nueva_asignacion_tiene_evidencia_del_mismo_rpj_y_anio) ... ok
+test_union_finanzas_elegibilidad_y_particiones_exactas (test_enriquecimiento_sectorial.DocumentaryTest.test_union_finanzas_elegibilidad_y_particiones_exactas) ... ok
+test_direct_formulation_reproduces_previous_stage (test_experimento_final.ExperimentoFinalTests.test_direct_formulation_reproduces_previous_stage) ... ok
+test_fallback_and_denominator_coherence (test_experimento_final.ExperimentoFinalTests.test_fallback_and_denominator_coherence) ... ok
+test_internal_selection_uses_reconstructed_monetary_errors (test_experimento_final.ExperimentoFinalTests.test_internal_selection_uses_reconstructed_monetary_errors) ... ok
+test_metrics_from_predictions_and_rule (test_experimento_final.ExperimentoFinalTests.test_metrics_from_predictions_and_rule) ... ok
+test_no_future_information (test_experimento_final.ExperimentoFinalTests.test_no_future_information) ... ok
+test_protocol_versioned (test_experimento_final.ExperimentoFinalTests.test_protocol_versioned) ... ok
+test_same_samples_between_comparators (test_experimento_final.ExperimentoFinalTests.test_same_samples_between_comparators) ... ok
+test_target_reconstruction_roundtrip (test_experimento_final.ExperimentoFinalTests.test_target_reconstruction_roundtrip) ... ok
+test_units_audit_no_silent_corrections (test_experimento_final.ExperimentoFinalTests.test_units_audit_no_silent_corrections) ... ok
+test_current_value_excluded_from_rolling (test_feature_engineering.FeaturesTest.test_current_value_excluded_from_rolling) ... ok
+test_duplicates_rejected (test_feature_engineering.FeaturesTest.test_duplicates_rejected) ... ok
+test_future_invariance (test_feature_engineering.FeaturesTest.test_future_invariance) ... ok
+test_gap_and_currency_return (test_feature_engineering.FeaturesTest.test_gap_and_currency_return) ... ok
+test_lags_rolling_and_company (test_feature_engineering.FeaturesTest.test_lags_rolling_and_company) ... ok
+test_missing_window_and_input_order (test_feature_engineering.FeaturesTest.test_missing_window_and_input_order) ... ok
+test_nonpositive_income_domain (test_feature_engineering.FeaturesTest.test_nonpositive_income_domain) ... ok
+test_positive_capex_invalidates_all_fcl_derivatives (test_feature_engineering.FeaturesTest.test_positive_capex_invalidates_all_fcl_derivatives) ... ok
+test_ratios_and_zero (test_feature_engineering.FeaturesTest.test_ratios_and_zero) ... ok
+test_robust_pipeline_training_only_and_fold_clone (test_feature_engineering.FeaturesTest.test_robust_pipeline_training_only_and_fold_clone) ... ok
+test_target_split_missing_and_capex (test_feature_engineering.FeaturesTest.test_target_split_missing_and_capex) ... ok
+test_ampliacion_ningun_anio_sin_respaldo (test_sectorial_fase3.Phase3Test.test_ampliacion_ningun_anio_sin_respaldo) ... ok
+test_d04_cero_y_vacio_no_son_inactividad (test_sectorial_fase3.Phase3Test.test_d04_cero_y_vacio_no_son_inactividad) ... ok
+test_hidrandina_entidad_unica_historia_preservada (test_sectorial_fase3.Phase3Test.test_hidrandina_entidad_unica_historia_preservada) ... ok
+test_master_jerarquia_no_depende_id_ni_orden (test_sectorial_fase3.Phase3Test.test_master_jerarquia_no_depende_id_ni_orden) ... ok
+test_master_vigencia_precede_documento_antiguo (test_sectorial_fase3.Phase3Test.test_master_vigencia_precede_documento_antiguo) ... ok
+test_muestra_no_confunde_filas_y_empresas (test_sectorial_fase3.Phase3Test.test_muestra_no_confunde_filas_y_empresas) ... ok
+test_notebook_canonico_alias_compatible_y_unico (test_sectorial_fase3.Phase3Test.test_notebook_canonico_alias_compatible_y_unico) ... ok
+test_prioridad_solo_pendientes_elegibles_sin_metricas (test_sectorial_fase3.Phase3Test.test_prioridad_solo_pendientes_elegibles_sin_metricas) ... ok
+test_temporal_no_usa_redaccion_de_actividad (test_sectorial_fase3.Phase3Test.test_temporal_no_usa_redaccion_de_actividad) ... ok
+test_e4_history_consistent (test_sprint_09.Sprint09Tests.test_e4_history_consistent) ... ok
+test_e4_selection_ignores_future_and_test_data (test_sprint_09.Sprint09Tests.test_e4_selection_ignores_future_and_test_data) ... ok
+test_importance_coverage_and_sign (test_sprint_09.Sprint09Tests.test_importance_coverage_and_sign) ... ok
+test_lagged_sensitivity_table (test_sprint_09.Sprint09Tests.test_lagged_sensitivity_table) ... ok
+test_metrics_and_comparisons_reconstruct_from_predictions (test_sprint_09.Sprint09Tests.test_metrics_and_comparisons_reconstruct_from_predictions) ... ok
+test_protocol_is_the_versioned_one (test_sprint_09.Sprint09Tests.test_protocol_is_the_versioned_one) ... ok
+test_reproduces_sprint08_and_initial_version (test_sprint_09.Sprint09Tests.test_reproduces_sprint08_and_initial_version) ... ok
+test_same_rows_for_all_procedures_and_years (test_sprint_09.Sprint09Tests.test_same_rows_for_all_procedures_and_years) ... ok
+test_temporal_separation_of_folds_and_searches (test_sprint_09.Sprint09Tests.test_temporal_separation_of_folds_and_searches) ... ok
+test_test_partition_perturbation_does_not_change_results (test_sprint_09.Sprint09Tests.test_test_partition_perturbation_does_not_change_results) ... D lares 2017 completado
+D lares 2017 completado
+ok
+test_duplicate_files_and_value_discrepancy (test_trace_smv.TraceTest.test_duplicate_files_and_value_discrepancy) ... ok
+test_fault_is_not_data (test_trace_smv.TraceTest.test_fault_is_not_data) ... ok
+
+======================================================================
+FAIL: test_prior_files_intact_against_head_and_pre_edit_reference (test_auditoria_calidad.AuditQualityTests.test_prior_files_intact_against_head_and_pre_edit_reference)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/ricardo/proyectos/tesis-flujo-caja-ia/tests/test_auditoria_calidad.py", line 187, in test_prior_files_intact_against_head_and_pre_edit_reference
+    self.assertEqual(r['modificados'], [])
+AssertionError: Lists differ: ['notebooks/03_extraccion_macroeconomica.i[74 chars].md'] != []
+
+First list contains 3 additional elements.
+First extra element 0:
+'notebooks/03_extraccion_macroeconomica.ipynb'
+
++ []
+- ['notebooks/03_extraccion_macroeconomica.ipynb',
+-  'notebooks/README.md',
+-  'reports/auditoria_extraccion_macroeconomica.md']
+
+======================================================================
+FAIL: test_reproducibilidad_fuentes_y_salida_exacta (test_clasificacion_sectorial.SectorialTest.test_reproducibilidad_fuentes_y_salida_exacta)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/ricardo/proyectos/tesis-flujo-caja-ia/tests/test_clasificacion_sectorial.py", line 77, in test_reproducibilidad_fuentes_y_salida_exacta
+    self.assertEqual(audit, reference)
+AssertionError: {'est[3347 chars]b': '8ba6f7be01bcc1bfcd25e88aa41814e6123c410cd[5726 chars]82'}} != {'est[3347 chars]b': '2a892aee84c14282b215f883e8c6fb6f2194dbdfb[5726 chars]82'}}
+Diff is 11493 characters long. Set self.maxDiff to None to see it.
+
+======================================================================
+FAIL: test_reproduccion_exacta_catalogos_y_json_sin_red (test_enriquecimiento_sectorial.DocumentaryTest.test_reproduccion_exacta_catalogos_y_json_sin_red)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/ricardo/proyectos/tesis-flujo-caja-ia/tests/test_enriquecimiento_sectorial.py", line 153, in test_reproduccion_exacta_catalogos_y_json_sin_red
+    self.assertEqual(self.audit,json.loads((ROOT/OUT/'auditoria_enriquecimiento.json').read_text()))
+AssertionError: {'ver[4374 chars]b': '8ba6f7be01bcc1bfcd25e88aa41814e6123c410cd[36126 chars]s.']} != {'ver[4374 chars]b': '2a892aee84c14282b215f883e8c6fb6f2194dbdfb[36126 chars]s.']}
+Diff is 49357 characters long. Set self.maxDiff to None to see it.
+
+----------------------------------------------------------------------
+Ran 124 tests in 140.300s
+
+FAILED (failures=3)
+Fin: 2026-10-30T17:10:24-05:00
