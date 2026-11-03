@@ -1,0 +1,81 @@
+moneda,grupo,caracteristicas,hiperparametro,nivel,trials,mejor_rmse_cv,brecha_con_mejor_pct
+D lares,todas,E0_07,escalador,robust,1305,286050.834407567,1.2079455023253
+D lares,todas,E0_07,escalador,standard,1095,282636.736659173,0
+D lares,todas,E0_07,recorte,p01_p99,795,282780.323022059,0.0508024415306618
+D lares,todas,E0_07,recorte,p05_p95,835,282636.736659173,0
+D lares,todas,E0_07,recorte,sin_recorte,770,286050.834407567,1.2079455023253
+D lares,todas,E1_07,escalador,robust,1400,286037.438392788,0.258549342420689
+D lares,todas,E1_07,escalador,standard,1000,285299.797642057,0
+D lares,todas,E1_07,recorte,p01_p99,809,285701.377126338,0.140757016864312
+D lares,todas,E1_07,recorte,p05_p95,820,285299.797642057,0
+D lares,todas,E1_07,recorte,sin_recorte,771,286037.438392788,0.258549342420689
+D lares,todas,E2_07,escalador,robust,1343,286000.893071487,0.729046879231299
+D lares,todas,E2_07,escalador,standard,1057,283930.903679042,0
+D lares,todas,E2_07,recorte,p01_p99,805,284157.129617423,0.079676405579554
+D lares,todas,E2_07,recorte,p05_p95,787,283930.903679042,0
+D lares,todas,E2_07,recorte,sin_recorte,808,286000.893071487,0.729046879231299
+D lares,todas,seleccion_08,escalador,robust,971,285396.301070409,7.03407974694299
+D lares,todas,seleccion_08,escalador,standard,1429,266640.589375984,0
+D lares,todas,seleccion_08,recorte,p01_p99,876,266640.589375984,0
+D lares,todas,seleccion_08,recorte,p05_p95,754,266816.023335714,0.0657941689001573
+D lares,todas,seleccion_08,recorte,sin_recorte,770,270188.661982461,1.33065735219855
+Soles,bancario,E0_07,escalador,robust,842,2931801.56823803,0.612285507863786
+Soles,bancario,E0_07,escalador,standard,1558,2913959.81458833,0
+Soles,bancario,E0_07,recorte,p01_p99,573,2928270.62145554,0.491112018620488
+Soles,bancario,E0_07,recorte,p05_p95,1255,2913959.81458833,0
+Soles,bancario,E0_07,recorte,sin_recorte,572,2939202.78552121,0.866277249483982
+Soles,bancario,E1_07,escalador,robust,1282,2943340.08032935,0.247220496361455
+Soles,bancario,E1_07,escalador,standard,1118,2936081.48510829,0
+Soles,bancario,E1_07,recorte,p01_p99,800,2940144.21525528,0.138372527043118
+Soles,bancario,E1_07,recorte,p05_p95,926,2936081.48510829,0
+Soles,bancario,E1_07,recorte,sin_recorte,674,2944543.22247242,0.288198314898591
+Soles,bancario,E2_07,escalador,robust,1449,2943398.90508484,0.127450367989868
+Soles,bancario,E2_07,escalador,standard,951,2939652.30740143,0
+Soles,bancario,E2_07,recorte,p01_p99,706,2942402.00410253,0.0935381607604757
+Soles,bancario,E2_07,recorte,p05_p95,910,2939652.30740143,0
+Soles,bancario,E2_07,recorte,sin_recorte,784,2944597.28861076,0.16821653352932
+Soles,bancario,seleccion_08,escalador,robust,1006,2899300.30098918,0.766871308434491
+Soles,bancario,seleccion_08,escalador,standard,1394,2877235.60664576,0
+Soles,bancario,seleccion_08,recorte,p01_p99,652,2880685.6136673,0.119907004263986
+Soles,bancario,seleccion_08,recorte,p05_p95,817,2877235.60664576,0
+Soles,bancario,seleccion_08,recorte,sin_recorte,931,2878338.077423,0.0383170142444156
+Soles,no_bancario,E0_07,escalador,robust,976,349292.142019343,3.46475829383595
+Soles,no_bancario,E0_07,escalador,standard,1424,337595.28150384,0
+Soles,no_bancario,E0_07,recorte,p01_p99,913,337873.177921552,0.0823164401097198
+Soles,no_bancario,E0_07,recorte,p05_p95,921,337595.28150384,0
+Soles,no_bancario,E0_07,recorte,sin_recorte,566,364002.758299801,7.82222923209313
+Soles,no_bancario,E1_07,escalador,robust,976,349288.18699275,3.48708911087603
+Soles,no_bancario,E1_07,escalador,standard,1424,337518.612218885,0
+Soles,no_bancario,E1_07,recorte,p01_p99,913,337790.205062229,0.0804675160160917
+Soles,no_bancario,E1_07,recorte,p05_p95,921,337518.612218885,0
+Soles,no_bancario,E1_07,recorte,sin_recorte,566,363952.793500641,7.83191810015291
+Soles,no_bancario,E2_07,escalador,robust,976,349292.987999712,3.51277336548868
+Soles,no_bancario,E2_07,escalador,standard,1424,337439.503013226,0
+Soles,no_bancario,E2_07,recorte,p01_p99,951,337701.318392329,0.0775888349658915
+Soles,no_bancario,E2_07,recorte,p05_p95,880,337439.503013226,0
+Soles,no_bancario,E2_07,recorte,sin_recorte,569,363954.014158885,7.85755992078374
+Soles,no_bancario,seleccion_08,escalador,robust,976,349298.470317633,3.51554851267857
+Soles,no_bancario,seleccion_08,escalador,standard,1424,337435.752731244,0
+Soles,no_bancario,seleccion_08,recorte,p01_p99,951,337734.962138269,0.0886715188309184
+Soles,no_bancario,seleccion_08,recorte,p05_p95,880,337435.752731244,0
+Soles,no_bancario,seleccion_08,recorte,sin_recorte,569,363991.350441149,7.86982336488082
+Soles,todas,E0_07,escalador,robust,1410,852447.777319554,0
+Soles,todas,E0_07,escalador,standard,990,854624.772437319,0.255381640457886
+Soles,todas,E0_07,recorte,p01_p99,800,852514.284331415,0.00780188694611272
+Soles,todas,E0_07,recorte,p05_p95,1035,852447.777319554,0
+Soles,todas,E0_07,recorte,sin_recorte,565,871789.690185615,2.26898507810998
+Soles,todas,E1_07,escalador,robust,1342,852439.473900935,0
+Soles,todas,E1_07,escalador,standard,1058,853934.413555747,0.175371941420122
+Soles,todas,E1_07,recorte,p01_p99,761,852506.374268263,0.00784810762246568
+Soles,todas,E1_07,recorte,p05_p95,1071,852439.473900935,0
+Soles,todas,E1_07,recorte,sin_recorte,568,871787.665547537,2.26974374591786
+Soles,todas,E2_07,escalador,robust,1340,852467.107127291,0
+Soles,todas,E2_07,escalador,standard,1060,854282.5063508,0.2129582723287
+Soles,todas,E2_07,recorte,p01_p99,742,852532.921090666,0.00772041089027731
+Soles,todas,E2_07,recorte,p05_p95,1091,852467.107127291,0
+Soles,todas,E2_07,recorte,sin_recorte,567,871779.727236079,2.26549739542081
+Soles,todas,seleccion_08,escalador,robust,1391,843433.473766061,0
+Soles,todas,seleccion_08,escalador,standard,1009,844485.045122601,0.124677451067412
+Soles,todas,seleccion_08,recorte,p01_p99,967,843433.473766061,0
+Soles,todas,seleccion_08,recorte,p05_p95,864,843559.54441318,0.0149473136934697
+Soles,todas,seleccion_08,recorte,sin_recorte,569,868511.549850727,2.97333184710931

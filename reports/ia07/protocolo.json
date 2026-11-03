@@ -1,0 +1,113 @@
+{
+  "sesion": "IA07",
+  "modelo": "Ridge(solver=svd, fit_intercept=True)",
+  "datos": "data/processed/panel_financiero_macro_bursatil.csv, utilizable_supervisado; 3.560 filas sin alterar",
+  "particion": "la original: entrenamiento con año objetivo hasta 2021 (2.869 filas), prueba 2022 a 2025 (691 filas)",
+  "cohortes": [
+    [
+      "D lares",
+      "todas"
+    ],
+    [
+      "Soles",
+      "todas"
+    ],
+    [
+      "Soles",
+      "no_bancario"
+    ],
+    [
+      "Soles",
+      "bancario"
+    ]
+  ],
+  "nota_cohortes": "D lares/no_bancario coincide fila a fila con D lares/todas y no se repite",
+  "caracteristicas": {
+    "E0_07": "E0 del notebook 07 (19)",
+    "E1_07": "E1 del notebook 07 (23)",
+    "E2_07": "E2 del notebook 07 (26)",
+    "seleccion_08": {
+      "D lares/todas": [
+        "niveles_t_externos_t_1",
+        "E1_macroeconomico"
+      ],
+      "Soles/todas": [
+        "niveles_t_externos_t",
+        "E1_macroeconomico"
+      ],
+      "Soles/no_bancario": [
+        "sin_niveles_t_externos_t_1",
+        "E2_bursatil"
+      ],
+      "Soles/bancario": [
+        "niveles_t_externos_t_1",
+        "E1_macroeconomico"
+      ]
+    },
+    "regla": "fijas por estudio; no forman parte del espacio de búsqueda"
+  },
+  "espacio": {
+    "alpha": {
+      "tipo": "log-uniforme",
+      "min": 0.01,
+      "max": 10000000.0
+    },
+    "escalador": [
+      "standard",
+      "robust"
+    ],
+    "recorte_ratios": [
+      "sin_recorte",
+      "p01_p99",
+      "p05_p95"
+    ]
+  },
+  "validacion": "ventanas expansivas del notebook 08: bloques de dos años objetivo, cuatro ventanas (dos en banca)",
+  "criterio": "media del MSE por año de validación; desempate hacia mayor alpha",
+  "metodos": {
+    "random_search": "optuna.samplers.RandomSampler",
+    "tpe": "optuna.samplers.TPESampler(n_startup_trials=10), demás parámetros por defecto"
+  },
+  "presupuesto": {
+    "trials_por_corrida": 60,
+    "semillas": [
+      20261103,
+      20261104,
+      20261105,
+      20261106,
+      20261107,
+      20261108,
+      20261109,
+      20261110,
+      20261111,
+      20261112,
+      20261113,
+      20261114,
+      20261115,
+      20261116,
+      20261117,
+      20261118,
+      20261119,
+      20261120,
+      20261121,
+      20261122
+    ],
+    "semilla_principal": 20261103,
+    "hitos": [
+      6,
+      10,
+      20,
+      30,
+      60
+    ],
+    "equivalencia": "mismo objetivo, ventanas, trials y semillas; solo cambia el muestreador"
+  },
+  "pruning_early_stopping": "no se implementan: NopPruner en todos los estudios",
+  "comparadores": {
+    "ridge_alpha1": "baseline del notebook 07: alpha=1, StandardScaler, sin recorte",
+    "rejilla_08": "rejilla del notebook 08: alphas [0.1, 1.0, 10.0, 100.0, 1000.0, 10000.0], StandardScaler, recorte p01_p99"
+  },
+  "referencia_densa": "181 alphas por combinación de escalador y recorte; solo mide la distancia al óptimo y nunca selecciona",
+  "seleccion": "por estudio, método y semilla principal; por cohorte, menor MSE de validación entre sus estudios",
+  "prueba": "evaluación única de configuraciones congeladas con hash; no selecciona nada; ya inspeccionada en los notebooks 07 y 08, por lo que no es confirmatoria"
+}

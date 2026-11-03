@@ -17,3 +17,7 @@ Orden de lectura y función. Los tres notebooks se ejecutan con el kernel `tesis
 3. `sprint_08/13_comparacion_modelos.ipynb`: comparación exploratoria de media histórica, persistencia, Ridge, Elastic Net y boosting (resultado final de modelado). Llama a `run()` de `src/comparacion_modelos.py` y escribe en `reports/sprint_08/comparacion_modelos/`.
 
 Los tres notebooks ejecutan además las pruebas de su etapa (excepto la que inspecciona el propio notebook). Punto de entrada de la entrega: `reports/sprint_08/README.md`.
+
+## Sesión IA07 (`notebooks/ia07/`)
+
+`ia07/15_optimizacion_hiperparametros.ipynb`: Random Search y Optuna TPE para Ridge. Presenta los resultados de `scripts/reproduce_optimizacion_hiperparametros.py` sin repetir la búsqueda ni la evaluación en prueba. Usa el kernel `tesis-fcl-ia07` (ver `reports/ia07/README.md`).

@@ -1,0 +1,15 @@
+moneda,grupo,fold,anio_entrenamiento_min,anio_entrenamiento_max,anio_validacion_min,anio_validacion_max,n_entrenamiento,n_validacion
+D lares,todas,1,2006,2013,2014,2015,154,54
+D lares,todas,2,2006,2015,2016,2017,208,47
+D lares,todas,3,2006,2017,2018,2019,255,51
+D lares,todas,4,2006,2019,2020,2021,306,47
+Soles,todas,1,2006,2013,2014,2015,1155,357
+Soles,todas,2,2006,2015,2016,2017,1512,352
+Soles,todas,3,2006,2017,2018,2019,1864,331
+Soles,todas,4,2006,2019,2020,2021,2195,321
+Soles,no_bancario,1,2006,2013,2014,2015,1138,319
+Soles,no_bancario,2,2006,2015,2016,2017,1457,314
+Soles,no_bancario,3,2006,2017,2018,2019,1771,293
+Soles,no_bancario,4,2006,2019,2020,2021,2064,280
+Soles,bancario,1,2013,2017,2018,2019,93,38
+Soles,bancario,2,2013,2019,2020,2021,131,41

@@ -1,0 +1,41 @@
+moneda,grupo,caracteristicas,ventanas_observadas,ventanas_totales,spearman_parcial_final,semillas_donde_mediana_descartaria_ganador_pct
+D lares,todas,E0_07,1,4,0.900293646037254,0
+D lares,todas,E0_07,2,4,0.943971884702698,20
+D lares,todas,E0_07,3,4,0.898627380991237,0
+D lares,todas,E1_07,1,4,0.903190689715757,0
+D lares,todas,E1_07,2,4,0.956494560065667,10
+D lares,todas,E1_07,3,4,0.901157229970298,0
+D lares,todas,E2_07,1,4,0.905758885943671,0
+D lares,todas,E2_07,2,4,0.951794994302079,10
+D lares,todas,E2_07,3,4,0.900739188013325,0
+D lares,todas,seleccion_08,1,4,0.802433369745396,0
+D lares,todas,seleccion_08,2,4,0.921208160561223,0
+D lares,todas,seleccion_08,3,4,0.90011293063398,0
+Soles,bancario,E0_07,1,2,-0.355674031718078,20
+Soles,bancario,E1_07,1,2,0.375351968994423,0
+Soles,bancario,E2_07,1,2,0.310024215294594,5
+Soles,bancario,seleccion_08,1,2,-0.191393445412115,5
+Soles,no_bancario,E0_07,1,4,-0.0635687038671555,50
+Soles,no_bancario,E0_07,2,4,0.92928558283721,0
+Soles,no_bancario,E0_07,3,4,0.975141954959691,0
+Soles,no_bancario,E1_07,1,4,-0.0598697221317515,40
+Soles,no_bancario,E1_07,2,4,0.928526228143214,0
+Soles,no_bancario,E1_07,3,4,0.974384801656112,0
+Soles,no_bancario,E2_07,1,4,-0.0972718453276704,70
+Soles,no_bancario,E2_07,2,4,0.927391296799512,0
+Soles,no_bancario,E2_07,3,4,0.973592294161315,0
+Soles,no_bancario,seleccion_08,1,4,-0.0677344359266916,20
+Soles,no_bancario,seleccion_08,2,4,0.928649006006254,0
+Soles,no_bancario,seleccion_08,3,4,0.979927951338855,0
+Soles,todas,E0_07,1,4,0.296870025604184,100
+Soles,todas,E0_07,2,4,0.44882895057566,0
+Soles,todas,E0_07,3,4,0.56978854846427,0
+Soles,todas,E1_07,1,4,0.29730784535267,100
+Soles,todas,E1_07,2,4,0.447335755094274,0
+Soles,todas,E1_07,3,4,0.567693151175799,0
+Soles,todas,E2_07,1,4,0.131111861883237,100
+Soles,todas,E2_07,2,4,0.439235041135445,0
+Soles,todas,E2_07,3,4,0.566476205886254,0
+Soles,todas,seleccion_08,1,4,-0.172923828419325,0
+Soles,todas,seleccion_08,2,4,0.341938299957153,0
+Soles,todas,seleccion_08,3,4,0.469688902561738,0

@@ -1,0 +1,9 @@
+{
+  "python": "3.12.15",
+  "optuna": "4.9.0",
+  "scikit-learn": "1.9.1",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "scipy": "1.18.1",
+  "git_head": "8239c27312cb8d800222d06cf8e644a1a269b0db"
+}

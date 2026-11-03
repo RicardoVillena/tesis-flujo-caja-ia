@@ -1,0 +1,65 @@
+moneda,grupo,caracteristicas,procedimiento,alpha,escalador,recorte,mse_cv,rmse_cv,ganador_cohorte
+D lares,todas,E0_07,random_search,758.695619451888,standard,p05_p95,80076192239.6333,282977.370543359,False
+D lares,todas,E0_07,rejilla_08,1000,standard,p01_p99,80978136042.4242,284566.57576466,False
+D lares,todas,E0_07,ridge_alpha1,1,standard,sin_recorte,332969634764.39,577035.211026493,False
+D lares,todas,E0_07,tpe,586.373619521513,standard,p01_p99,79966237267.823,282783.021533866,False
+D lares,todas,E1_07,random_search,758.695619451888,standard,p05_p95,81454065696.6894,285401.586710182,False
+D lares,todas,E1_07,rejilla_08,1000,standard,p01_p99,82211552496.4425,286725.570008052,False
+D lares,todas,E1_07,ridge_alpha1,1,standard,sin_recorte,340265762573.264,583323.034495693,False
+D lares,todas,E1_07,tpe,738.69273730258,standard,p01_p99,81655491822.4375,285754.250751301,False
+D lares,todas,E2_07,random_search,758.695619451888,standard,p05_p95,80771478921.4167,284203.235240939,False
+D lares,todas,E2_07,rejilla_08,1000,standard,p01_p99,81625822015.6855,285702.331134497,False
+D lares,todas,E2_07,ridge_alpha1,1,standard,sin_recorte,345393105063.713,587701.544207358,False
+D lares,todas,E2_07,tpe,728.803309804796,standard,p01_p99,80860500890.4355,284359.808852157,False
+D lares,todas,seleccion_08,random_search,758.695619451888,standard,p05_p95,71880696003.9755,268105.755260822,True
+D lares,todas,seleccion_08,rejilla_08,1000,standard,p01_p99,73144044186.2312,270451.556080255,True
+D lares,todas,seleccion_08,ridge_alpha1,1,standard,sin_recorte,152973501105.406,391118.269971381,True
+D lares,todas,seleccion_08,tpe,474.10046673704,standard,p01_p99,71103956325.7413,266653.251106641,True
+Soles,bancario,E0_07,random_search,0.519606987650005,standard,p05_p95,8590227986587.93,2930909.07170249,False
+Soles,bancario,E0_07,rejilla_08,10,standard,p01_p99,8633538686990.5,2938288.39411493,False
+Soles,bancario,E0_07,ridge_alpha1,1,standard,sin_recorte,8812091048942.84,2968516.64117667,False
+Soles,bancario,E0_07,tpe,23.9019888615485,standard,p05_p95,8493859129136.73,2914422.60647572,False
+Soles,bancario,E1_07,random_search,191.901024503317,standard,p05_p95,8663372038696,2943360.67084821,False
+Soles,bancario,E1_07,rejilla_08,100,standard,p01_p99,8644589067328.01,2940168.20391759,False
+Soles,bancario,E1_07,ridge_alpha1,1,standard,sin_recorte,9915254538316.02,3148849.71669275,False
+Soles,bancario,E1_07,tpe,113.580024478964,standard,p05_p95,8620613351630.45,2936088.10351979,False
+Soles,bancario,E2_07,random_search,191.901024503317,standard,p05_p95,8653703606867.28,2941717.79864542,False
+Soles,bancario,E2_07,rejilla_08,100,standard,p01_p99,8674006073669.96,2945166.56127798,False
+Soles,bancario,E2_07,ridge_alpha1,1,standard,sin_recorte,10099289067198.2,3177937.86396118,False
+Soles,bancario,E2_07,tpe,191.901024503317,standard,p05_p95,8653703606867.28,2941717.79864542,False
+Soles,bancario,seleccion_08,random_search,9.3936181989675,standard,sin_recorte,8301935625260.04,2881307.97126236,True
+Soles,bancario,seleccion_08,rejilla_08,10,standard,p01_p99,8332905000405.32,2886677.15555538,True
+Soles,bancario,seleccion_08,ridge_alpha1,1,standard,sin_recorte,8492631360077.52,2914211.96210528,True
+Soles,bancario,seleccion_08,tpe,18.9862307151321,standard,sin_recorte,8284830898070.87,2878338.21815138,True
+Soles,no_bancario,E0_07,random_search,758.695619451888,standard,p05_p95,114926987046.609,339008.830337219,False
+Soles,no_bancario,E0_07,rejilla_08,1000,standard,p01_p99,114653409269.354,338605.093389562,False
+Soles,no_bancario,E0_07,ridge_alpha1,1,standard,sin_recorte,20266828851404.3,4501869.48404818,False
+Soles,no_bancario,E0_07,tpe,1877.06641303781,standard,p05_p95,113970574093.657,337595.28150384,False
+Soles,no_bancario,E1_07,random_search,758.695619451888,standard,p05_p95,114884674269.467,338946.417991793,False
+Soles,no_bancario,E1_07,rejilla_08,1000,standard,p01_p99,114604816951.993,338533.332113683,False
+Soles,no_bancario,E1_07,ridge_alpha1,1,standard,sin_recorte,19566129627250.5,4423361.80153178,False
+Soles,no_bancario,E1_07,tpe,1877.06641303781,standard,p05_p95,113918813594.162,337518.612218885,False
+Soles,no_bancario,E2_07,random_search,758.695619451888,standard,p05_p95,114786814688.558,338802.02875508,True
+Soles,no_bancario,E2_07,rejilla_08,1000,standard,p01_p99,114504431811.112,338385.034851,True
+Soles,no_bancario,E2_07,ridge_alpha1,1,standard,sin_recorte,19499606828914.4,4415835.91508045,True
+Soles,no_bancario,E2_07,tpe,1877.06641303781,standard,p05_p95,113865627440.139,337439.813063217,False
+Soles,no_bancario,seleccion_08,random_search,758.695619451888,standard,p05_p95,114796707932.566,338816.62877221,False
+Soles,no_bancario,seleccion_08,rejilla_08,1000,standard,p01_p99,114538763698.207,338435.76007598,False
+Soles,no_bancario,seleccion_08,ridge_alpha1,1,standard,sin_recorte,20004585100968.6,4472648.55549467,False
+Soles,no_bancario,seleccion_08,tpe,1877.06641303781,standard,p05_p95,113863539458.187,337436.719190705,True
+Soles,todas,E0_07,random_search,111936.57433031,robust,p05_p95,727481134613.787,852925.046304648,False
+Soles,todas,E0_07,rejilla_08,100,standard,p01_p99,731993263895.427,855566.048821146,False
+Soles,todas,E0_07,ridge_alpha1,1,standard,sin_recorte,4432318784132.38,2105307.28971625,False
+Soles,todas,E0_07,tpe,62932.6781645923,robust,p01_p99,726781468846.11,852514.790983775,False
+Soles,todas,E1_07,random_search,111936.57433031,robust,p05_p95,727474027011.068,852920.879689944,False
+Soles,todas,E1_07,rejilla_08,100,standard,p01_p99,730608431863.311,854756.358188292,False
+Soles,todas,E1_07,ridge_alpha1,1,standard,sin_recorte,3486300498386.85,1867163.75778528,False
+Soles,todas,E1_07,tpe,191.901024503317,standard,p05_p95,729205077645.804,853935.054700183,False
+Soles,todas,E2_07,random_search,111936.57433031,robust,p05_p95,727502117581.99,852937.346809242,False
+Soles,todas,E2_07,rejilla_08,100,standard,p01_p99,731265054347.907,855140.371136755,False
+Soles,todas,E2_07,ridge_alpha1,1,standard,sin_recorte,3335281105076.68,1826275.19971024,False
+Soles,todas,E2_07,tpe,207.530856318954,standard,p05_p95,729798930477.638,854282.699390335,False
+Soles,todas,seleccion_08,random_search,27453.5733932892,robust,p05_p95,711653708474.608,843595.702024737,True
+Soles,todas,seleccion_08,rejilla_08,10,standard,p01_p99,713440580949.666,844654.119121943,True
+Soles,todas,seleccion_08,ridge_alpha1,1,standard,sin_recorte,2668995585847.55,1633706.08918727,True
+Soles,todas,seleccion_08,tpe,23993.5451133804,robust,p01_p99,711380085620.322,843433.509898867,True

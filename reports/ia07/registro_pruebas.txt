@@ -1,0 +1,38 @@
+test_cache_igual_al_pipeline_completo (tests.test_optimizacion_hiperparametros.BusquedaTests.test_cache_igual_al_pipeline_completo) ... ok
+test_determinismo_y_presupuesto_equivalente (tests.test_optimizacion_hiperparametros.BusquedaTests.test_determinismo_y_presupuesto_equivalente) ... ok
+test_eleccion_desempata_hacia_mayor_alpha (tests.test_optimizacion_hiperparametros.BusquedaTests.test_eleccion_desempata_hacia_mayor_alpha) ... ok
+test_espacio_respetado (tests.test_optimizacion_hiperparametros.BusquedaTests.test_espacio_respetado) ... ok
+test_holm (tests.test_optimizacion_hiperparametros.BusquedaTests.test_holm) ... ok
+test_muestreadores_correctos_y_distintos (tests.test_optimizacion_hiperparametros.BusquedaTests.test_muestreadores_correctos_y_distintos) ... ok
+test_cohorte_dolares_no_bancaria_es_identica (tests.test_optimizacion_hiperparametros.DatosYParticionTests.test_cohorte_dolares_no_bancaria_es_identica) ... ok
+test_particion_original_conservada (tests.test_optimizacion_hiperparametros.DatosYParticionTests.test_particion_original_conservada) ... ok
+test_pliegues_iguales_al_notebook_08_y_sin_prueba (tests.test_optimizacion_hiperparametros.DatosYParticionTests.test_pliegues_iguales_al_notebook_08_y_sin_prueba) ... ok
+test_seleccion_08_coincide_con_su_archivo (tests.test_optimizacion_hiperparametros.DatosYParticionTests.test_seleccion_08_coincide_con_su_archivo) ... ok
+test_baseline_ridge_07_reproducido (tests.test_optimizacion_hiperparametros.ReproduccionTests.test_baseline_ridge_07_reproducido) ... ok
+test_predicciones_08_reproducidas (tests.test_optimizacion_hiperparametros.ReproduccionTests.test_predicciones_08_reproducidas) ... ok
+test_puntuaciones_cv_08_reproducidas (tests.test_optimizacion_hiperparametros.ReproduccionTests.test_puntuaciones_cv_08_reproducidas) ... ok
+test_archivos_previos_sin_cambios (tests.test_optimizacion_hiperparametros.ResultadosTests.test_archivos_previos_sin_cambios) ... ok
+test_baseline_y_rejilla_coinciden_con_metricas_previas (tests.test_optimizacion_hiperparametros.ResultadosTests.test_baseline_y_rejilla_coinciden_con_metricas_previas) ... ok
+test_congelacion_intacta_y_previa_a_prueba (tests.test_optimizacion_hiperparametros.ResultadosTests.test_congelacion_intacta_y_previa_a_prueba) ... ok
+test_evaluar_rechaza_seleccion_alterada (tests.test_optimizacion_hiperparametros.ResultadosTests.test_evaluar_rechaza_seleccion_alterada) ... ok
+test_ganadores_son_el_minimo_de_cv (tests.test_optimizacion_hiperparametros.ResultadosTests.test_ganadores_son_el_minimo_de_cv) ... ok
+test_metricas_reconstruidas_y_mismas_filas (tests.test_optimizacion_hiperparametros.ResultadosTests.test_metricas_reconstruidas_y_mismas_filas) ... ok
+test_presupuestos_equivalentes (tests.test_optimizacion_hiperparametros.ResultadosTests.test_presupuestos_equivalentes) ... ok
+test_protocolo_versionado (tests.test_optimizacion_hiperparametros.ResultadosTests.test_protocolo_versionado) ... ok
+test_trials_reproducibles_desde_el_registro (tests.test_optimizacion_hiperparametros.ResultadosTests.test_trials_reproducibles_desde_el_registro) ... ok
+test_control_positivo_alterar_validacion_si_cambia (tests.test_optimizacion_hiperparametros.SinFugaTests.test_control_positivo_alterar_validacion_si_cambia) ... ok
+test_evaluador_rechaza_filas_de_prueba (tests.test_optimizacion_hiperparametros.SinFugaTests.test_evaluador_rechaza_filas_de_prueba) ... ok
+test_perturbar_prueba_no_cambia_la_busqueda (tests.test_optimizacion_hiperparametros.SinFugaTests.test_perturbar_prueba_no_cambia_la_busqueda) ... ok
+test_recorte_aprendido_solo_en_entrenamiento (tests.test_optimizacion_hiperparametros.SinFugaTests.test_recorte_aprendido_solo_en_entrenamiento) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 10.064s
+
+OK
+
+=== Suite completa (python -m unittest discover -s tests, entorno tesis-fcl-ia07) ===
+FAIL: test_prior_files_intact_against_head_and_pre_edit_reference (test_auditoria_calidad.AuditQualityTests.test_prior_files_intact_against_head_and_pre_edit_reference)
+FAIL: test_reproducibilidad_fuentes_y_salida_exacta (test_clasificacion_sectorial.SectorialTest.test_reproducibilidad_fuentes_y_salida_exacta)
+FAIL: test_reproduccion_exacta_catalogos_y_json_sin_red (test_enriquecimiento_sectorial.DocumentaryTest.test_reproduccion_exacta_catalogos_y_json_sin_red)
+Ran 150 tests in 248.192s
+FAILED (failures=3)

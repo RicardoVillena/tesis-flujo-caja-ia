@@ -1,0 +1,10 @@
+{
+  "rutas": [
+    "data",
+    "reports/sprint_06",
+    "notebooks/07_baseline_variantes.ipynb",
+    "notebooks/08_mejoras_baseline.ipynb"
+  ],
+  "cambios_git": [],
+  "sha256_panel": "c0a116958c422ffc93daa218b5cc1f47e85831a7137e029f312fee5b6d0b4b2c"
+}
