@@ -14,6 +14,7 @@ Trabajo con commit local en la rama, sin publicar, pendiente de auditoría indep
 | Configuraciones ganadoras | `seleccion_congelada.csv`, `seleccion_congelada.json` |
 | Prueba | `evaluacion_prueba.json`, `metricas_prueba.csv`, `metricas_prueba_por_anio.csv`, `predicciones_prueba.csv` |
 | Verificación | `verificacion_determinismo.json`, `integridad_previa.json`, `registro_pruebas.txt` |
+| Revisión del dictamen de Kimi | [revision_auditoria_kimi.md](revision_auditoria_kimi.md) |
 | Gráficos | `graficos/` |
 
 ## Reproducción
