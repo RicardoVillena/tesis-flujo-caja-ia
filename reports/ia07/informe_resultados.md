@@ -28,13 +28,15 @@ Los 10 primeros trials de TPE son aleatorios y, con la misma semilla, coinciden 
 
 La brecha es la distancia, en % de RMSE de validación, al mejor valor conocido de cada estudio. La tabla resume la mediana de cada estudio en 20 semillas.
 
-| Trials | Brecha mediana RS (%) | Brecha mediana TPE (%) | Estudios con menor mediana TPE / RS | p < 0,05 sin ajustar | p de Holm < 0,05 |
-|---|---:|---:|---:|---:|---:|
-| 6 | 1,294 | 1,294 | 0 / 0 | 0 | 0 |
-| 10 | 0,900 | 0,900 | 0 / 0 | 0 | 0 |
-| 20 | 0,537 | 0,173 | 14 / 2 | 5 | 1 |
-| 30 | 0,396 | 0,087 | 16 / 0 | 5 | 4 |
-| 60 | 0,142 | 0,064 | 13 / 3 | 8 | 4 |
+| Trials | Brecha mediana RS (%) | Brecha mediana TPE (%) | Estudios con menor mediana TPE / RS | Mann-Whitney p < 0,05 | Mann-Whitney Holm < 0,05 | Wilcoxon pareada p < 0,05 | Wilcoxon Holm < 0,05 |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| 6 | 1,294 | 1,294 | 0 / 0 | 0 | 0 | 0 | 0 |
+| 10 | 0,900 | 0,900 | 0 / 0 | 0 | 0 | 0 | 0 |
+| 20 | 0,537 | 0,173 | 14 / 2 | 5 | 1 | 6 | 1 |
+| 30 | 0,396 | 0,087 | 16 / 0 | 5 | 4 | 6 | 3 |
+| 60 | 0,142 | 0,064 | 13 / 3 | 8 | 4 | 4 | 1 |
+
+La unidad experimental es la corrida con una semilla (20 por estudio) y ambos métodos comparten semillas y sus 10 primeros trials (arranque de TPE), así que las observaciones están pareadas por semilla. La prueba adecuada es Wilcoxon de rangos con signo sobre las diferencias TPE − RS por semilla; Mann-Whitney supone independencia y se conserva solo como referencia histórica. La familia de hipótesis son las 16 comparaciones de estudios dentro de cada hito, con Holm aplicado por hito. Con Wilcoxon, los estudios que se sostienen tras Holm a 60 trials se reducen a uno (Soles/bancario E0); las configuraciones ganadoras y las métricas de prueba no cambian. El ajuste de Holm se añadió después de ver los valores sin ajustar.
 
 TPE tiene ventaja mediana, pero muy pequeña: 0,69 puntos porcentuales como máximo con 60 trials. También tiene peor caso: su peor corrida con 60 trials queda a 7,05 % del mejor valor, frente a 2,96 % de Random Search, y su peor caso es mayor en 6 de 16 estudios. El ajuste de Holm se añadió después de ver los valores sin ajustar.
 
@@ -94,14 +96,14 @@ Ganador de cada procedimiento por cohorte, elegido por validación con la semill
 
 - **Early stopping:** Ridge con solver SVD tiene solución cerrada. No hay iteraciones ni curva de aprendizaje que vigilar. Los solvers iterativos (`sag`, `saga`, `lsqr`) se detienen por convergencia numérica hacia la misma solución, no por generalización, así que usarlos para crear pasos sería artificial.
 - **Pruning:** Optuna necesita valores intermedios. En Ridge el único paso intermedio posible son las ventanas temporales, que no son réplicas intercambiables: el error depende mucho del periodo.
-- **Costo:** un trial tarda unos 13 ms en Random Search y 17 ms en TPE. El pruning ahorraría muy poco y rompería la igualdad de presupuesto entre métodos.
+- **Costo:** un trial tarda una mediana de 13 ms en Random Search y 17 ms en TPE (las medias son 23 y 27 ms). El pruning ahorraría muy poco y rompería la igualdad de presupuesto entre métodos.
 
 Riesgo medido con los trials de Random Search ya registrados, sin ejecutar ningún pruner ([diagnostico_pruning.csv](diagnostico_pruning.csv)): tras la primera ventana, la correlación de Spearman entre el error parcial y el final va de −0,36 a 0,91, con mediana 0,21. Una regla de mediana habría descartado al ganador en alguna semilla en 10 de 16 estudios, y en todas las semillas en tres estudios de Soles/todas.
 
 ## Límites del resultado
 
 - **Prueba no confirmatoria:** la prueba 2022–2025 ya se inspeccionó en los notebooks 07 y 08. Esta evaluación sirve de contraste, no de confirmación independiente.
-- **Optimismo de seleccion_08:** esa especificación se eligió en las mismas ventanas, así que su error de validación es optimista y favorece que gane su cohorte.
+- **Optimismo de seleccion_08:** esa especificación se eligió en las mismas ventanas de validación empleadas aquí, así que su error de validación es optimista y favorece que gane su cohorte; no es una validación independiente, sino una comparación sobre ventanas relacionadas.
 - **Una sola semilla en prueba:** las otras 19 solo se usan para la convergencia en validación.
 - **Pruebas estadísticas:** las semillas se tratan como réplicas de los métodos, no de los datos. Los valores p no dicen nada sobre otros periodos o empresas.
 - **Alcance:** solo Ridge, en un espacio pequeño y barato. No se extrapola a modelos con más hiperparámetros, donde TPE y el pruning pueden comportarse distinto.

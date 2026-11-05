@@ -21,3 +21,7 @@ Los tres notebooks ejecutan además las pruebas de su etapa (excepto la que insp
 ## Sesión IA07 (`notebooks/ia07/`)
 
 `ia07/15_optimizacion_hiperparametros.ipynb`: Random Search y Optuna TPE para Ridge. Presenta los resultados de `scripts/reproduce_optimizacion_hiperparametros.py` sin repetir la búsqueda ni la evaluación en prueba. Usa el kernel `tesis-fcl-ia07` (ver `reports/ia07/README.md`).
+
+## Sprint 09 (`notebooks/sprint_09/`)
+
+`sprint_09/14_presentacion_resultados.ipynb`: comparación de escenarios e importancia de variables para predecir el FCL preliminar. Presenta los resultados de `src/experimento_final.py` e `src/ablacion_variables.py` sin reentrenar. Punto de entrada de la entrega: `reports/sprint_09/README.md`.

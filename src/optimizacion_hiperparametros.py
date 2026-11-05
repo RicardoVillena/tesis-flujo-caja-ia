@@ -18,7 +18,7 @@ import pandas as pd
 import scipy
 import sklearn
 from joblib import Parallel, delayed
-from scipy.stats import mannwhitneyu, spearmanr
+from scipy.stats import mannwhitneyu, spearmanr, wilcoxon
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
@@ -331,8 +331,24 @@ def holm(p):
     return salida
 
 
+def _wilcoxon_pareada(diferencias):
+    """p de Wilcoxon de rangos con signo sobre diferencias pareadas por semilla. Devuelve 1.0 si todas son nulas."""
+    d = np.asarray(diferencias, float)
+    if not np.any(d):
+        return 1.
+    return float(wilcoxon(d, alternative='two-sided').pvalue)
+
+
 def analizar_convergencia(trials, densa):
-    """Distancia al mejor valor conocido de cada estudio, en % de RMSE de validación. No usa prueba."""
+    """Distancia al mejor valor conocido de cada estudio, en % de RMSE de validación. No usa prueba.
+
+    Inferencia RS frente a TPE: la unidad experimental es la corrida con una semilla (20 por estudio) y ambos métodos
+    comparten semillas y sus 10 primeros trials (arranque de TPE), así que las observaciones están pareadas por semilla
+    y la prueba adecuada es Wilcoxon de rangos con signo sobre las diferencias TPE − RS por semilla. Mann-Whitney
+    supone muestras independientes; se conserva solo como referencia histórica de la primera versión del análisis.
+    Familia de hipótesis: las 16 comparaciones de estudios dentro de cada hito n_trials; el ajuste de Holm se aplica
+    de forma independiente por hito (16 pruebas por familia).
+    """
     t = mejor_acumulado(trials)
     mejor = pd.concat([t[[*ID_ESTUDIO, 'mse_cv']], densa[[*ID_ESTUDIO, 'mse_cv']]]).groupby(ID_ESTUDIO).mse_cv.min().rename('mse_ref').reset_index()
     t = t.merge(mejor, on=ID_ESTUDIO)
@@ -342,16 +358,22 @@ def analizar_convergencia(trials, densa):
     filas = []
     for k in HITOS:
         for id_, g in t.loc[t.n_trials.eq(k)].groupby(ID_ESTUDIO):
-            a, b = [g.loc[g.metodo.eq(me), 'brecha_pct'].to_numpy() for me in METODOS]
+            pares = g.pivot(index='semilla', columns='metodo', values='brecha_pct')
+            assert pares.notna().all().all() and set(pares.columns) == set(METODOS), 'cada semilla debe tener ambos métodos para el pareo'
+            a, b = pares[METODOS[0]].to_numpy(), pares[METODOS[1]].to_numpy()
+            d = b - a
             filas.append(dict(zip(ID_ESTUDIO, id_), n_trials=k, semillas=len(a), brecha_mediana_random_search=np.median(a), brecha_mediana_tpe=np.median(b),
                               brecha_maxima_random_search=a.max(), brecha_maxima_tpe=b.max(), diferencia_mediana_tpe_menos_rs=np.median(b) - np.median(a),
-                              p_mann_whitney=float(mannwhitneyu(a, b, alternative='two-sided').pvalue) if not np.array_equal(a, b) else 1.))
+                              p_mann_whitney=float(mannwhitneyu(a, b, alternative='two-sided').pvalue) if not np.array_equal(a, b) else 1.,
+                              p_wilcoxon=_wilcoxon_pareada(d)))
     comparacion = pd.DataFrame(filas)
     comparacion['p_holm'] = comparacion.groupby('n_trials').p_mann_whitney.transform(holm)
+    comparacion['p_wilcoxon_holm'] = comparacion.groupby('n_trials').p_wilcoxon.transform(holm)
     agregado = comparacion.groupby('n_trials').agg(estudios=('moneda', 'size'), brecha_mediana_random_search=('brecha_mediana_random_search', 'median'), brecha_mediana_tpe=('brecha_mediana_tpe', 'median'),
                                                    peor_mediana_random_search=('brecha_mediana_random_search', 'max'), peor_mediana_tpe=('brecha_mediana_tpe', 'max'),
                                                    estudios_tpe_menor=('diferencia_mediana_tpe_menos_rs', lambda s: int((s < 0).sum())), estudios_rs_menor=('diferencia_mediana_tpe_menos_rs', lambda s: int((s > 0).sum())),
-                                                   estudios_p_menor_005=('p_mann_whitney', lambda s: int((s < .05).sum())), estudios_p_holm_menor_005=('p_holm', lambda s: int((s < .05).sum()))).reset_index()
+                                                   estudios_p_menor_005=('p_mann_whitney', lambda s: int((s < .05).sum())), estudios_p_holm_menor_005=('p_holm', lambda s: int((s < .05).sum())),
+                                                   estudios_p_wilcoxon_menor_005=('p_wilcoxon', lambda s: int((s < .05).sum())), estudios_p_wilcoxon_holm_menor_005=('p_wilcoxon_holm', lambda s: int((s < .05).sum()))).reset_index()
     return curvas, comparacion, agregado
 
 

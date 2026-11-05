@@ -168,6 +168,45 @@ class BusquedaTests(unittest.TestCase):
     def test_holm(self):
         np.testing.assert_allclose(oh.holm([.01, .04, .03, .5]), [.04, .09, .09, .5])
 
+    def test_wilcoxon_pareada_diferencias_nulas(self):
+        self.assertEqual(oh._wilcoxon_pareada(np.zeros(20)), 1.)
+
+    def test_wilcoxon_pareada_detecta_desplazamiento(self):
+        rng = np.random.default_rng(7)
+        self.assertLess(oh._wilcoxon_pareada(rng.normal(-.5, .1, 20)), .01)
+        self.assertEqual(oh._wilcoxon_pareada(np.concatenate([np.full(10, -1.), np.full(10, 1.)])), 1.)
+
+    def test_analizar_convergencia_parea_por_semilla(self):
+        filas, rng = [], np.random.default_rng(11)
+        for estudio in ((('Soles', 'todas', 'E0_07'), ('Soles', 'bancario', 'E1_07'))):
+            for metodo in oh.METODOS:
+                for semilla in oh.SEMILLAS:
+                    base = np.minimum.accumulate(1. + rng.normal(0, .01, oh.PRESUPUESTO))
+                    for trial in range(oh.PRESUPUESTO):
+                        ventaja = .05 if (metodo == 'tpe' and trial >= oh.TPE_INICIALES) else 0.
+                        filas.append(dict(moneda=estudio[0], grupo=estudio[1], caracteristicas=estudio[2], metodo=metodo, semilla=semilla,
+                                          trial=trial, alpha=1., escalador='standard', recorte='sin_recorte', mse_cv=(base[trial] - ventaja) ** 2, estado='COMPLETE', duracion_s=.01))
+        trials = pd.DataFrame(filas)
+        densa = trials.groupby(oh.ID_ESTUDIO).mse_cv.min().rename('mse_cv').reset_index()
+        _, comparacion, agregado = oh.analizar_convergencia(trials, densa)
+        self.assertTrue({'p_mann_whitney', 'p_holm', 'p_wilcoxon', 'p_wilcoxon_holm'}.issubset(comparacion.columns))
+        for _, g in comparacion.groupby('n_trials'):
+            np.testing.assert_allclose(g.p_wilcoxon_holm.to_numpy(), oh.holm(g.p_wilcoxon.to_numpy()))
+            self.assertTrue((g.p_wilcoxon_holm >= g.p_wilcoxon).all())
+        g60 = comparacion.loc[comparacion.n_trials.eq(60)]
+        self.assertTrue((g60.p_wilcoxon < .05).all())
+        self.assertEqual(int((g60.p_wilcoxon_holm < .05).sum()), 2)
+        self.assertEqual(int(agregado.loc[agregado.n_trials.eq(60), 'estudios_p_wilcoxon_holm_menor_005'].iloc[0]), 2)
+        self.assertEqual(int(agregado.loc[agregado.n_trials.eq(oh.TPE_INICIALES), 'estudios_p_wilcoxon_holm_menor_005'].iloc[0]), 0)
+
+    def test_analizar_convergencia_rechaza_semilla_sin_pareja(self):
+        trials = pd.DataFrame([dict(moneda='Soles', grupo='todas', caracteristicas='E0_07', metodo=me, semilla=s, trial=5, alpha=1.,
+                                    escalador='standard', recorte='sin_recorte', mse_cv=1., estado='COMPLETE', duracion_s=.01)
+                               for me in oh.METODOS for s in oh.SEMILLAS if not (me == 'tpe' and s == oh.SEMILLAS[0])])
+        densa = trials.groupby(oh.ID_ESTUDIO).mse_cv.min().rename('mse_cv').reset_index()
+        with self.assertRaises(AssertionError):
+            oh.analizar_convergencia(trials, densa)
+
     def test_eleccion_desempata_hacia_mayor_alpha(self):
         t = pd.DataFrame(dict(mse_cv=[2., 1., 1.], alpha=[5., 1., 9.], trial=[0, 1, 2]))
         self.assertEqual(oh.elegir(t).alpha, 9.)
